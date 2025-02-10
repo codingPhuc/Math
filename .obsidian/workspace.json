@@ -56,6 +56,30 @@
               "icon": "excalidraw-icon",
               "title": "7.1 Rational Function 2025-02-10 13.21.00.excalidraw"
             }
+          },
+          {
+            "id": "98cd2c0578ef55ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.1 Rational Function 2025-02-10 13.21.00.excalidraw"
+            }
+          },
+          {
+            "id": "b66c1b0e0f603b63",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.1 Rational Function 2025-02-10 13.21.00.excalidraw"
+            }
           }
         ],
         "currentTab": 1
@@ -349,12 +373,15 @@
   },
   "active": "d38614b4fd4a1565",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Professor Leonard/Rational Function.md",
     "Professor Leonard/7.1 Rational Function.md",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md",
     "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.51.54.excalidraw.md",
     "Professor Leonard/C.4 POLYNIMIALS.md",
+=======
+>>>>>>> 53f37bf (vault backup: 2025-02-10 14:02:32)
     "Professor Leonard/IMG_0599.JPG",
     "Professor Leonard/IMG_0600.JPG",
     "Professor Leonard/IMG_0603.JPG",
@@ -363,8 +390,19 @@
     "Professor Leonard/6.7 Word Problem.md",
     "Professor Leonard/6.6 Solving Equation  By Factoring.md",
     "Professor Leonard/Untitled 1.md",
+<<<<<<< HEAD
     "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md",
     "Pasted image 20250210124149.png",
+=======
+    "Excalidraw/7.1 Rational Function 2025-02-10 13.51.54.excalidraw.md",
+    "Professor Leonard/7.1 Rational Function.md",
+    "Professor Leonard/Rational Function.md",
+    "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md",
+    "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md",
+    "Professor Leonard/C.4 POLYNIMIALS.md",
+    "Pasted image 20250210124149.png",
+    "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
+>>>>>>> 53f37bf (vault backup: 2025-02-10 14:02:32)
     "Introduction to algorithm.md",
     "Professor Leonard/IMG_0605.JPG",
     "Professor Leonard/IMG_0604.JPG",
