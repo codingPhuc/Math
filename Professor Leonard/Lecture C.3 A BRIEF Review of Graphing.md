@@ -12,7 +12,7 @@ Rectangular coordinate system
 (0,0) is the  origin  
 System
 
-pic 1  
+pic 1  ![[IMG_0599.JPG]]
 the  orgin or the x or y axis 
 you can add decimal number in there 
 quardin and graphing point 
@@ -28,7 +28,7 @@ Ax +  By  = C
 ex  :  Y = 2x  + 3    Ax +  By  = C 
 linear equation is staight line   
 to see if they are straight or  a europe line or tea table 
-pic 2  
+pic 2  ![[IMG_0602.JPG]]
 you want to find out what  x = 0 is because x = 0 let us know y more advance curve  we need to used both side meaning -1 and 1 
 point that is not a straight  line is math error  
 where  the graph cross the  y axis it is call the y  intercept  and where it cross the x-axis  is the x-intercept 
