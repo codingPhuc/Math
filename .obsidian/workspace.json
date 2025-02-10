@@ -13,12 +13,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professor Leonard/C.4 POLYNIMIALS.md",
+                "file": "Professor Leonard/7.1 Rational Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C.4 POLYNIMIALS"
+              "title": "7.1 Rational Function"
+            }
+          },
+          {
+            "id": "d38614b4fd4a1565",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.51.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.1 Rational Function 2025-02-10 13.51.54.excalidraw"
+            }
+          },
+          {
+            "id": "98cd2c0578ef55ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.1 Rational Function 2025-02-10 13.21.00.excalidraw"
+            }
+          },
+          {
+            "id": "b66c1b0e0f603b63",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.1 Rational Function 2025-02-10 13.21.00.excalidraw"
+            }
+          },
+          {
+            "id": "1526eec466680bf0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.1 Rational Function 2025-02-10 13.20.34.excalidraw"
             }
           }
         ]
@@ -312,9 +360,18 @@
   },
   "active": "e679a48f047dead1",
   "lastOpenFiles": [
-    "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
+    "Excalidraw/7.1 Rational Function 2025-02-10 13.51.54.excalidraw.md",
+    "Professor Leonard/7.1 Rational Function.md",
+    "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md",
+    "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md",
     "Professor Leonard/IMG_0599.JPG",
+    "Professor Leonard/6.7 Word Problem.md",
+    "Professor Leonard/6.6 Solving Equation  By Factoring.md",
+    "Professor Leonard/C.4 POLYNIMIALS.md",
+    "Professor Leonard/Factoring Polynomials  in general.md",
     "Professor Leonard/IMG_0600.JPG",
+    "Pasted image 20250210124149.png",
+    "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
     "Introduction to algorithm.md",
     "Professor Leonard/IMG_0605.JPG",
     "Professor Leonard/IMG_0604.JPG",
@@ -322,12 +379,8 @@
     "Professor Leonard/IMG_0602.JPG",
     "Professor Leonard/IMG_0601.JPG",
     "AI math promt.md",
-    "Professor Leonard/C.4 POLYNIMIALS.md",
-    "Professor Leonard/6.7 Word Problem.md",
     "Professor Leonard/6.2 Factoring Polynomials (a  =1).md",
     "Professor Leonard/6.5 Factoring Binomials (Difference of Squares,Cubes).md",
-    "Professor Leonard/6.6 Solving Equation  By Factoring.md",
-    "Professor Leonard/Rational Function.md",
     "Professor Leonard/Untitled 1.md",
     "templates/adjunction.md",
     "Excalidraw/6.2 Factorings 2025-02-05 16.14.11.excalidraw.md",
@@ -335,15 +388,12 @@
     "Excalidraw/Drawing 2025-02-10 11.22.33.excalidraw.md",
     "Excalidraw/Rational Function 2025-02-07 17.29.18.excalidraw.md",
     "README.md",
-    "Professor Leonard/Factoring Polynomials  in general.md",
     "Excalidraw/Factoring  Polynomials 2025-02-06 12.35.58.excalidraw.md",
     "Paul Online note/Polynomials.md",
     "Paul Online note/Factoring  Polynomials.md",
     "Paul Online note/latex.md",
     "Paul Online note/ALGREBLA.md",
     "Paul Online note/Complex Numbers.md",
-    "Paul Online note/Proof in Math.md",
-    "Paul Online note/Radicals.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Professor Leonard",
