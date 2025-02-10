@@ -11,26 +11,26 @@
             "id": "e679a48f047dead1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Professor Leonard/7.1 Rational Function.md",
-                "mode": "source",
-                "source": false
+                "file": "Professor Leonard/IMG_0599.JPG"
               },
-              "icon": "lucide-file",
-              "title": "7.1 Rational Function"
+              "icon": "lucide-image",
+              "title": "IMG_0599"
             }
           },
           {
             "id": "d38614b4fd4a1565",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.51.54.excalidraw.md"
+                "file": "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "7.1 Rational Function 2025-02-10 13.51.54.excalidraw"
+              "icon": "lucide-file",
+              "title": "Lecture C.3 A BRIEF Review of Graphing"
             }
           },
           {
@@ -56,20 +56,9 @@
               "icon": "excalidraw-icon",
               "title": "7.1 Rational Function 2025-02-10 13.21.00.excalidraw"
             }
-          },
-          {
-            "id": "1526eec466680bf0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.1 Rational Function 2025-02-10 13.20.34.excalidraw"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -358,30 +347,31 @@
       }
     ]
   },
-  "active": "e679a48f047dead1",
+  "active": "d38614b4fd4a1565",
   "lastOpenFiles": [
     "Excalidraw/7.1 Rational Function 2025-02-10 13.51.54.excalidraw.md",
     "Professor Leonard/7.1 Rational Function.md",
-    "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md",
+    "Professor Leonard/Rational Function.md",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md",
+    "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
+    "Professor Leonard/C.4 POLYNIMIALS.md",
     "Professor Leonard/IMG_0599.JPG",
+    "Professor Leonard/IMG_0600.JPG",
+    "Professor Leonard/IMG_0603.JPG",
+    "Professor Leonard/IMG_0601.JPG",
+    "Professor Leonard/Factoring Polynomials  in general.md",
     "Professor Leonard/6.7 Word Problem.md",
     "Professor Leonard/6.6 Solving Equation  By Factoring.md",
-    "Professor Leonard/C.4 POLYNIMIALS.md",
-    "Professor Leonard/Factoring Polynomials  in general.md",
-    "Professor Leonard/IMG_0600.JPG",
+    "Professor Leonard/Untitled 1.md",
+    "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md",
     "Pasted image 20250210124149.png",
-    "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
     "Introduction to algorithm.md",
     "Professor Leonard/IMG_0605.JPG",
     "Professor Leonard/IMG_0604.JPG",
-    "Professor Leonard/IMG_0603.JPG",
     "Professor Leonard/IMG_0602.JPG",
-    "Professor Leonard/IMG_0601.JPG",
     "AI math promt.md",
     "Professor Leonard/6.2 Factoring Polynomials (a  =1).md",
     "Professor Leonard/6.5 Factoring Binomials (Difference of Squares,Cubes).md",
-    "Professor Leonard/Untitled 1.md",
     "templates/adjunction.md",
     "Excalidraw/6.2 Factorings 2025-02-05 16.14.11.excalidraw.md",
     "Paul Online note/Factoring Polynomials.md",
@@ -392,8 +382,6 @@
     "Paul Online note/Polynomials.md",
     "Paul Online note/Factoring  Polynomials.md",
     "Paul Online note/latex.md",
-    "Paul Online note/ALGREBLA.md",
-    "Paul Online note/Complex Numbers.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Professor Leonard",
