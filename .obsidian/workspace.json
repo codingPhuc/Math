@@ -11,12 +11,14 @@
             "id": "e679a48f047dead1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Professor Leonard/IMG_0600.JPG"
+                "file": "Professor Leonard/C.4 POLYNIMIALS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG_0600"
+              "icon": "lucide-file",
+              "title": "C.4 POLYNIMIALS"
             }
           }
         ]
@@ -310,15 +312,15 @@
   },
   "active": "e679a48f047dead1",
   "lastOpenFiles": [
-    "Professor Leonard/IMG_0599.JPG",
     "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
+    "Professor Leonard/IMG_0599.JPG",
+    "Professor Leonard/IMG_0600.JPG",
     "Introduction to algorithm.md",
     "Professor Leonard/IMG_0605.JPG",
     "Professor Leonard/IMG_0604.JPG",
     "Professor Leonard/IMG_0603.JPG",
     "Professor Leonard/IMG_0602.JPG",
     "Professor Leonard/IMG_0601.JPG",
-    "Professor Leonard/IMG_0600.JPG",
     "AI math promt.md",
     "Professor Leonard/C.4 POLYNIMIALS.md",
     "Professor Leonard/6.7 Word Problem.md",
