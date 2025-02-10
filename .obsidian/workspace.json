@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "bd76be45b7e790fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 15.22.13.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.2 Multi and Division  RAT Expressions 2025-02-10 15.22.13.excalidraw"
+            }
+          },
+          {
             "id": "98cd2c0578ef55ba",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -333,10 +345,11 @@
       }
     ]
   },
-  "active": "d38614b4fd4a1565",
+  "active": "bd76be45b7e790fa",
   "lastOpenFiles": [
-    "Professor Leonard/7.1 Rational Function.md",
     "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
+    "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 15.22.13.excalidraw.md",
+    "Professor Leonard/7.1 Rational Function.md",
     "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
     "Professor Leonard/Rational Function.md",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md",
@@ -368,7 +381,6 @@
     "README.md",
     "Excalidraw/Factoring  Polynomials 2025-02-06 12.35.58.excalidraw.md",
     "Paul Online note/Polynomials.md",
-    "Paul Online note/Factoring  Polynomials.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Professor Leonard",
