@@ -1,0 +1,1 @@
+A **factor** is a number or expression that divides another number or expression completely, leaving no remainder. In simpler terms, factors are the building blocks of a number or expression—they are the numbers or terms that multiply together to form the original value
