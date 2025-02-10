@@ -11,14 +11,12 @@
             "id": "e679a48f047dead1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Professor Leonard/C.4 POLYNIMIALS.md",
-                "mode": "source",
-                "source": false
+                "file": "Professor Leonard/IMG_0599.JPG"
               },
-              "icon": "lucide-file",
-              "title": "C.4 POLYNIMIALS"
+              "icon": "lucide-image",
+              "title": "IMG_0599"
             }
           }
         ]
@@ -312,10 +310,10 @@
   },
   "active": "e679a48f047dead1",
   "lastOpenFiles": [
+    "Professor Leonard/C.4 POLYNIMIALS.md",
     "Professor Leonard/Factoring Polynomials  in general.md",
     "Professor Leonard/IMG_0599.JPG",
     "Professor Leonard/IMG_0600.JPG",
-    "Professor Leonard/C.4 POLYNIMIALS.md",
     "Pasted image 20250210124149.png",
     "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
     "Introduction to algorithm.md",
