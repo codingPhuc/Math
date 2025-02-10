@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professor Leonard/7.1 Multi and Division  RAT Expressions.md",
+                "file": "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1 Multi and Division  RAT Expressions"
+              "title": "7.2 Multi and Division  RAT Expressions"
             }
           },
           {
@@ -328,7 +328,7 @@
         "y": -119,
         "width": 954,
         "height": 621,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
@@ -336,7 +336,7 @@
   "active": "d38614b4fd4a1565",
   "lastOpenFiles": [
     "Professor Leonard/7.1 Rational Function.md",
-    "Professor Leonard/7.1 Multi and Division  RAT Expressions.md",
+    "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
     "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
     "Professor Leonard/Rational Function.md",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md",
