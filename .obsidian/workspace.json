@@ -32,9 +32,33 @@
               "icon": "lucide-file",
               "title": "7.1 Rational Function"
             }
+          },
+          {
+            "id": "b66c1b0e0f603b63",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.1 Rational Function 2025-02-10 13.21.00.excalidraw"
+            }
+          },
+          {
+            "id": "1526eec466680bf0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.1 Rational Function 2025-02-10 13.20.34.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -323,10 +347,11 @@
       }
     ]
   },
-  "active": "98cd2c0578ef55ba",
+  "active": "b66c1b0e0f603b63",
   "lastOpenFiles": [
     "Professor Leonard/7.1 Rational Function.md",
-    "Professor Leonard/7.1 Rational Function.md",
+    "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md",
+    "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md",
     "Professor Leonard/6.7 Word Problem.md",
     "Professor Leonard/6.6 Solving Equation  By Factoring.md",
     "Professor Leonard/IMG_0599.JPG",
@@ -358,7 +383,6 @@
     "Paul Online note/ALGREBLA.md",
     "Paul Online note/Complex Numbers.md",
     "Paul Online note/Proof in Math.md",
-    "Paul Online note/Radicals.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Professor Leonard",
