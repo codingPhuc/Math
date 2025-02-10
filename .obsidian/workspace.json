@@ -11,18 +11,6 @@
             "id": "e679a48f047dead1",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Professor Leonard/IMG_0599.JPG"
-              },
-              "icon": "lucide-image",
-              "title": "IMG_0599"
-            }
-          },
-          {
-            "id": "98cd2c0578ef55ba",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Professor Leonard/7.1 Rational Function.md",
@@ -31,6 +19,18 @@
               },
               "icon": "lucide-file",
               "title": "7.1 Rational Function"
+            }
+          },
+          {
+            "id": "98cd2c0578ef55ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.1 Rational Function 2025-02-10 13.21.00.excalidraw"
             }
           },
           {
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -347,14 +347,14 @@
       }
     ]
   },
-  "active": "b66c1b0e0f603b63",
+  "active": "98cd2c0578ef55ba",
   "lastOpenFiles": [
     "Professor Leonard/7.1 Rational Function.md",
+    "Professor Leonard/IMG_0599.JPG",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md",
     "Professor Leonard/6.7 Word Problem.md",
     "Professor Leonard/6.6 Solving Equation  By Factoring.md",
-    "Professor Leonard/IMG_0599.JPG",
     "Professor Leonard/C.4 POLYNIMIALS.md",
     "Professor Leonard/Factoring Polynomials  in general.md",
     "Professor Leonard/IMG_0600.JPG",
@@ -382,7 +382,6 @@
     "Paul Online note/latex.md",
     "Paul Online note/ALGREBLA.md",
     "Paul Online note/Complex Numbers.md",
-    "Paul Online note/Proof in Math.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Professor Leonard",
