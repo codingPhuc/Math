@@ -314,7 +314,8 @@
               "title": "Faction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -536,7 +537,7 @@
       }
     ]
   },
-  "active": "30b50d563073904f",
+  "active": "2355cabcc82546b0",
   "lastOpenFiles": [
     "README.md",
     "Professor Leonard/Factoring Polynomials  in general.md",
