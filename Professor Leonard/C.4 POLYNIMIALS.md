@@ -44,11 +44,11 @@ $$
 5x  + 1  \sqrt{ 5x^2   - 14x  - 3 }
 \end{array}
 $$
-pic  1  
 
 
+![[IMG_0604.JPG]]
 $$ \begin{array}
  & (2x^4  - 3x^3  +5x -2 ) \div (x+2)  \\
 x+2  \sqrt{2x^4  - 3x^3  +5x -2  }
 \end{array}
-$$ pic 2 
+$$![[IMG_0605.JPG]]
