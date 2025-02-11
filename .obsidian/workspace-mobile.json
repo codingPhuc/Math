@@ -39,12 +39,14 @@
             "id": "c40ebe977575f400",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md"
+                "file": "Professor Leonard/7.1 Rational Function.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "7.1 Rational Function 2025-02-10 13.21.00.excalidraw"
+              "icon": "lucide-file",
+              "title": "7.1 Rational Function"
             }
           }
         ],
@@ -183,15 +185,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94333ae1c9aa2ec1",
+  "active": "c40ebe977575f400",
   "lastOpenFiles": [
+    "/Professor Leonard/7.1 Rational Function.md",
+    "/Professor Leonard",
+    "/mathwiki",
+    "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md",
+    "Professor Leonard/Rational Function.md",
+    "Professor Leonard/7.1 Rational Function.md",
     "Professor Leonard/Factoring Polynomials  in general.md",
     "Professor Leonard/IMG_0599.JPG",
     "python with math.md",
     "/Professor Leonard/C.4 POLYNIMIALS.md",
     "/Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
-    "/Professor Leonard",
-    "/mathwiki",
     "Professor Leonard/IMG_0601.JPG",
     "Professor Leonard/IMG_0600.JPG",
     "Professor Leonard/IMG_0602.JPG",
@@ -217,10 +223,6 @@
     "Excalidraw/6.2 Factorings 2025-02-05 16.39.55.excalidraw.md",
     "Excalidraw/6.2 Factorings 2025-02-05 16.21.50.excalidraw.md",
     "Excalidraw/6.7 Word Problem 2025-02-05 09.27.32.excalidraw.md",
-    "Excalidraw/6.7 Word Problem 2025-02-05 09.10.17.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-10 11.22.33.excalidraw.md",
-    "Excalidraw/6.7 Word Problem 2025-02-05 09.44.06.excalidraw.md",
-    "Excalidraw/math  context.md",
     "Excalidraw",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
