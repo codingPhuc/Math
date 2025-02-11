@@ -25,12 +25,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professor Leonard/7.1 Rational Function.md",
+                "file": "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1 Rational Function"
+              "title": "7.2 Multi and Division  RAT Expressions"
+            }
+          },
+          {
+            "id": "9f9cc0b74babd259",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw"
+            }
+          },
+          {
+            "id": "bd76be45b7e790fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 15.22.13.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.2 Multi and Division  RAT Expressions 2025-02-10 15.22.13.excalidraw"
             }
           },
           {
@@ -328,15 +352,18 @@
         "y": -119,
         "width": 954,
         "height": 621,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "d38614b4fd4a1565",
   "lastOpenFiles": [
-    "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
+    "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw.md",
+    "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
+    "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 15.22.13.excalidraw.md",
     "Professor Leonard/7.1 Rational Function.md",
+    "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
     "Professor Leonard/Rational Function.md",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -366,9 +393,6 @@
     "Excalidraw/Rational Function 2025-02-07 17.29.18.excalidraw.md",
     "README.md",
     "Excalidraw/Factoring  Polynomials 2025-02-06 12.35.58.excalidraw.md",
-    "Paul Online note/Polynomials.md",
-    "Paul Online note/Factoring  Polynomials.md",
-    "Paul Online note/latex.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Professor Leonard",
