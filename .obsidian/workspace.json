@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "b569d68735a846ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.42.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.42.36.excalidraw"
+            }
+          },
+          {
             "id": "45d5b911f1d0961b",
             "type": "leaf",
             "state": {
@@ -118,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -406,12 +418,13 @@
       }
     ]
   },
-  "active": "e679a48f047dead1",
+  "active": "b569d68735a846ff",
   "lastOpenFiles": [
-    "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.27.34.excalidraw.md",
     "Professor Leonard/7.3 ADD SUB  RATIONAL  EXPRESION.md",
-    "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw.md",
+    "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.42.36.excalidraw.md",
+    "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.27.34.excalidraw.md",
+    "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.11.14.excalidraw.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw.md",
     "Professor Leonard/C.4 POLYNIMIALS.md",
@@ -441,7 +454,6 @@
     "Professor Leonard/6.2 Factoring Polynomials (a  =1).md",
     "Professor Leonard/6.5 Factoring Binomials (Difference of Squares,Cubes).md",
     "templates/adjunction.md",
-    "Excalidraw/6.2 Factorings 2025-02-05 16.14.11.excalidraw.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Professor Leonard",
