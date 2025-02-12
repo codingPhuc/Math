@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f90ee6b03e722a11",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw"
+            }
+          },
+          {
             "id": "e679a48f047dead1",
             "type": "leaf",
             "state": {
@@ -31,18 +43,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "7.2 Multi and Division  RAT Expressions 2025-02-12 14.11.14.excalidraw"
-            }
-          },
-          {
-            "id": "f90ee6b03e722a11",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw"
             }
           },
           {
@@ -105,7 +105,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -395,9 +396,9 @@
   },
   "active": "e679a48f047dead1",
   "lastOpenFiles": [
+    "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.11.14.excalidraw.md",
     "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
-    "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw.md",
     "Professor Leonard/C.4 POLYNIMIALS.md",
     "Professor Leonard/IMG_0599.JPG",
