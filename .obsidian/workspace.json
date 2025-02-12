@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "45d5b911f1d0961b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.27.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.27.34.excalidraw"
+            }
+          },
+          {
             "id": "7c49d53aefd9acac",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -394,10 +406,11 @@
       }
     ]
   },
-  "active": "e679a48f047dead1",
+  "active": "45d5b911f1d0961b",
   "lastOpenFiles": [
-    "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
     "Professor Leonard/7.3 ADD SUB  RATIONAL  EXPRESION.md",
+    "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.27.34.excalidraw.md",
+    "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.11.14.excalidraw.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw.md",
@@ -429,7 +442,6 @@
     "Professor Leonard/6.5 Factoring Binomials (Difference of Squares,Cubes).md",
     "templates/adjunction.md",
     "Excalidraw/6.2 Factorings 2025-02-05 16.14.11.excalidraw.md",
-    "Paul Online note/Factoring Polynomials.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Professor Leonard",
