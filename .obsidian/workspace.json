@@ -11,12 +11,14 @@
             "id": "e679a48f047dead1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Professor Leonard/IMG_0599.JPG"
+                "file": "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG_0599"
+              "icon": "lucide-file",
+              "title": "7.2 Multi and Division  RAT Expressions"
             }
           },
           {
@@ -67,8 +69,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,7 +224,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -355,8 +357,11 @@
       }
     ]
   },
-  "active": "ba07c9f805a956ed",
+  "active": "e679a48f047dead1",
   "lastOpenFiles": [
+    "Professor Leonard/C.4 POLYNIMIALS.md",
+    "Professor Leonard/IMG_0599.JPG",
+    "Paul Online note/Factoring  Polynomials.md",
     "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 15.22.13.excalidraw.md",
@@ -367,8 +372,6 @@
     "conflict-files-obsidian-git.md",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.51.54.excalidraw.md",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md",
-    "Professor Leonard/C.4 POLYNIMIALS.md",
-    "Professor Leonard/IMG_0599.JPG",
     "Professor Leonard/IMG_0600.JPG",
     "Professor Leonard/IMG_0603.JPG",
     "Professor Leonard/IMG_0601.JPG",
@@ -389,8 +392,6 @@
     "Paul Online note/Factoring Polynomials.md",
     "Excalidraw/Drawing 2025-02-10 11.22.33.excalidraw.md",
     "Excalidraw/Rational Function 2025-02-07 17.29.18.excalidraw.md",
-    "README.md",
-    "Excalidraw/Factoring  Polynomials 2025-02-06 12.35.58.excalidraw.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Professor Leonard",
