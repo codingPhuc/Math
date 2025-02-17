@@ -81,8 +81,8 @@ $$
 \begin{array} {l}
 \frac{7x}{x^2  +  2x   - 15}  - \frac{4}{x-3}  =  -\frac{2}{x+ 5}\\
 \frac{7x}{(x+ 5) (x -3)}  - \frac{4}{x-3}  =  -\frac{2}{x+ 5}  \\
-\frac{2}{(x+ 5) (x -3)}  - \frac{4}{x-3}  =  -\frac{2}{x+ 5}     \\
--(x^2  + 5x  - 6)  =  0   \\
+\frac{2}{(x+ 5) (x -3)}  - \frac{4 (x+ 5) }{x-3 (x+ 5) }  =  -\frac{2 (x -3) }{x+ 5 (x -3) }      \\
+\frac{2}{(x+ 5) (x -3)}  - \frac{4x  + 20  }{x-3 (x+ 5) }  =  -\frac{2x  - 6 }{x+ 5 (x -3) }      \\
 x^2   +5x - 6  = 0   \\
 (x + 6)(x-  1 )  = 0   \\
 \{\begin{array}{l}
