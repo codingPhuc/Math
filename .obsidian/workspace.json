@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "2de4b96c05c1b0f3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.39.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.39.36.excalidraw"
+            }
+          },
+          {
             "id": "c03649a5ee7e3ffa",
             "type": "leaf",
             "state": {
@@ -154,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -442,10 +454,11 @@
       }
     ]
   },
-  "active": "e679a48f047dead1",
+  "active": "2de4b96c05c1b0f3",
   "lastOpenFiles": [
-    "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
     "Professor Leonard/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions).md",
+    "Excalidraw/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.39.36.excalidraw.md",
+    "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
     "Excalidraw/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions 2025-02-17 12.28.22.excalidraw.md",
     "Professor Leonard/7.3 ADD SUB  RATIONAL  EXPRESION.md",
     "Paul Online note/Rational exponents.md",
@@ -474,7 +487,6 @@
     "Professor Leonard/IMG_0603.JPG",
     "Professor Leonard/IMG_0601.JPG",
     "Professor Leonard/Factoring Polynomials  in general.md",
-    "Professor Leonard/6.7 Word Problem.md",
     "Pasted image 20250210124149.png",
     "Professor Leonard/IMG_0605.JPG",
     "Professor Leonard/IMG_0604.JPG",

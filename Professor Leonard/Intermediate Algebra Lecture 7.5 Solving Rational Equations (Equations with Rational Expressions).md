@@ -62,7 +62,10 @@ $$
 \begin{array} {l}
 \frac{2}{1 }  - \frac{6}{x}  =  \frac{x}{1 }  + \frac{7}{1} \\
 2x   -  6  =  x^2  + 7x   \\
--x^2   -   5x   -  6  =  0   
-\end{array}
+-x^2   -   5x   -  6  =  0    \\
+-(x^2  + 5x  + 6)  =  0   \\
+x^2   +5x + 6  = 0 
+ \end{array}
 $$
 LCD : x  
+![[Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.39.36.excalidraw]]
