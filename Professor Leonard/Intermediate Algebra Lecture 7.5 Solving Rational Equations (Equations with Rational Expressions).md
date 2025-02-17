@@ -118,3 +118,6 @@ x   = \frac{-19}{2} \\
 
  \end{array}
 $$
+
+
+![[Pasted image 20250217150512.png]]
