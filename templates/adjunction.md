@@ -1,10 +1,9 @@
 ---
 title: Adjunction
-date: ""
 references: 
 tags:
   - In_Progress
 reference: 
-"": "{{date:YYYY-MM-DD}}"
+date:
 ---
 jkljkljkl;klklklj
