@@ -66,7 +66,7 @@ $$
 -(x^2  + 5x  - 6)  =  0   \\
 x^2   +5x - 6  = 0   \\
 (x + 6)(x-  1 )  = 0   \\
-{\begin{array}{l}
+\{\begin{array}{l}
 
 \end{array}
  \end{array}
