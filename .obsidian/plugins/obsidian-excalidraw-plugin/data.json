@@ -100,7 +100,156 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.7",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "alsnfBM8hAILYr-CQl69u",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "DnNttxyDKankuCgvqQIIJ",
+            "type": "line",
+            "x": -550,
+            "y": -304.265625,
+            "width": 228,
+            "height": 223,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "_pAxZBG6__1vhLTquhc8V"
+            ],
+            "frameId": null,
+            "index": "a1",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 2098626439,
+            "version": 24,
+            "versionNonce": 1696800201,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1739836242859,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                228,
+                223
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          },
+          {
+            "id": "PfKS2zGPDHZbBqsNxReUI",
+            "type": "line",
+            "x": -323,
+            "y": -82.265625,
+            "width": 354,
+            "height": 6,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "_pAxZBG6__1vhLTquhc8V"
+            ],
+            "frameId": null,
+            "index": "a2",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 551758569,
+            "version": 48,
+            "versionNonce": 1216167751,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1739836242859,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                354,
+                -6
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          },
+          {
+            "id": "I0vYtT93eWGTqcrGvrhJ1",
+            "type": "line",
+            "x": -552,
+            "y": -304.265625,
+            "width": 582,
+            "height": 218,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "_pAxZBG6__1vhLTquhc8V"
+            ],
+            "frameId": null,
+            "index": "a3",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 675855657,
+            "version": 50,
+            "versionNonce": 2020506793,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1739836242859,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                582,
+                218
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          }
+        ],
+        "created": 1739836245240
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
