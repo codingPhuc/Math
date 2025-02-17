@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "36ca345378c4016f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.58.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.58.33.excalidraw"
+            }
+          },
+          {
             "id": "2de4b96c05c1b0f3",
             "type": "leaf",
             "state": {
@@ -166,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -454,11 +466,12 @@
       }
     ]
   },
-  "active": "e679a48f047dead1",
+  "active": "36ca345378c4016f",
   "lastOpenFiles": [
+    "Professor Leonard/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions).md",
+    "Excalidraw/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.58.33.excalidraw.md",
     "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
     "Professor Leonard/Factoring Polynomials  in general.md",
-    "Professor Leonard/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions).md",
     "Excalidraw/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions 2025-02-17 12.28.22.excalidraw.md",
     "Excalidraw/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.39.36.excalidraw.md",
     "Professor Leonard/6.6 Solving Equation  By Factoring.md",
@@ -483,7 +496,6 @@
     "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
     "Professor Leonard/Rational Function.md",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.20.34.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Professor Leonard/IMG_0600.JPG",
     "Professor Leonard/IMG_0603.JPG",
     "Professor Leonard/IMG_0601.JPG",

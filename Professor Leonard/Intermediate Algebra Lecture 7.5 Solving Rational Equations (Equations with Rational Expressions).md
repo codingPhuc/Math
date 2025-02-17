@@ -93,8 +93,8 @@ LCD  : ( x + 5) (x - 3)
 
 $$
 \begin{array} {l}
-\frac{6x}{x^2  + 5x   -  14 }  - \frac{3}{x   +   2 }  =  -\frac{2}{x+ 5}\\
-\frac{7x}{(x+ 5) (x -3)}  - \frac{4}{x-3}  =  -\frac{2}{x+ 5}  \\
+\frac{6x}{x^2  + 5x   -  14 }  - \frac{3}{x   +   2 }  =  \frac{1}{x- 7}\\
+\frac{6x}{x^2  + 5x   -  14 }  - \frac{3}{x   +   2 }  =  \frac{1}{x- 7} \\
 7x   -  4 (x+ 5)   =  -  2(x -3)     \\
 7x   -  4x  - 20   =  -2x  + 6   \\
 5x   = 26   \\
@@ -102,3 +102,4 @@ x   = \frac{26}{5} \\
 
  \end{array}
 $$
+![[Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.58.33.excalidraw]]
