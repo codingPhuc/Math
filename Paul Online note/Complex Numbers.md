@@ -165,9 +165,9 @@ $$
 \begin{array} {l} \\
 \frac{ 6 +  7i  }{ 8 -  i  } \\ 
 \frac{ (6 +  7i )(8 +  i) }{ (8 -  i)(8 +  i)  } \\ 
-\frac{  }{ 15 } \\   
-\frac{ -15    }{ 9}   +   \frac{3i}{9}   \\
- \frac{ -5    }{ 3}   +   \frac{i}{3}  
+\frac{ 48 + 6i + 56i + 7i^2 }{ 15 } \\   
+\frac{ 48 + 62i + 7i^2 }{ 15 }   \\
+\frac{ 48 + 62i + 7i^2 }{ 15 } 
 \end{array}
 
 $$
