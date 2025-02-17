@@ -103,3 +103,18 @@ x   = \frac{-19}{2} \\
  \end{array}
 $$
 ![[Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.58.33.excalidraw]]
+
+
+
+
+$$
+\begin{array} {l}
+\frac{6x}{x^2  + 5x   -  14 }  - \frac{3}{x   +   2 }  =  \frac{1}{x- 7}\\
+\frac{6x}{( x  - 7) (x+2) }  - \frac{3}{x   +   2 }  =  \frac{1}{x- 7} \\
+6x  - 3 (x - 7 ) =  (x + 2)   \\
+6x  - 3x  +  21  =  x + 2   \\
+2x   = -19   \\ 
+x   = \frac{-19}{2} \\
+
+ \end{array}
+$$
