@@ -47,10 +47,9 @@ $$
 $$
 \begin{array} {l}
 \frac{x +  4 }{4}   -  \frac{x -3}{3}  = \frac{1}{12}\\
-\frac{x +  4 }{4}   -  \frac{x -3}{3}  = \frac{1}{12}\\
-5x  + 10   + 3x  - 3      =225  \\
-8x   =  232 \\
-x  = 29 
+12\cdot\frac{x +  4 }{4}   -  12\cdot\frac{x -3}{3}  = 12\cdot\frac{1}{12}\\
+3( x + 4)  -  4(x   - 3)    = 1   \\
+
 \end{array} 
 $$
 LCD  :  12
