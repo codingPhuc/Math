@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "258cec35a6c3a3ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.26.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.26.41.excalidraw"
+            }
+          },
+          {
             "id": "36ca345378c4016f",
             "type": "leaf",
             "state": {
@@ -165,7 +177,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -453,13 +466,14 @@
       }
     ]
   },
-  "active": "f90ee6b03e722a11",
+  "active": "258cec35a6c3a3ae",
   "lastOpenFiles": [
+    "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
+    "Excalidraw/7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.26.41.excalidraw.md",
     "Professor Leonard/7.5 Solving Rational Equations (Equations with Rational Expressions).md",
     "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
     "Professor Leonard/Rational Function.md",
     "templates/adjunction.md",
-    "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
     "Excalidraw/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.58.33.excalidraw.md",
     "Professor Leonard/Untitled.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw.md",
@@ -482,7 +496,6 @@
     "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.27.34.excalidraw.md",
     "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.11.14.excalidraw.md",
-    "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw.md",
     "Professor Leonard/IMG_0599.JPG",
     "Professor Leonard/IMG_0600.JPG",
     "Professor Leonard/IMG_0603.JPG",
