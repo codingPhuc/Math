@@ -9,3 +9,10 @@ reference:
 STEPS :  
 1.  find LCD 
 
+$$
+\begin{array} {l}
+ \frac{x}{4}+\frac{4}{5}   = \frac{1}{20} \\
+ \frac{x}{4}+\frac{4}{5}   = \frac{1}{20}
+\end{array} 
+$$
+LCD  = 20 
