@@ -79,8 +79,8 @@ LCD : x
 
 $$
 \begin{array} {l}
-\frac{2}{x^2  +  2x   - 15}  - \frac{4}{x-3}  =  -\frac{2}{x+ 5}\\
-\frac{2}{(x+ 5) (x -3)}  - \frac{4}{x-3}  =  -\frac{2}{x+ 5}  \\
+\frac{7x}{x^2  +  2x   - 15}  - \frac{4}{x-3}  =  -\frac{2}{x+ 5}\\
+\frac{7x}{(x+ 5) (x -3)}  - \frac{4}{x-3}  =  -\frac{2}{x+ 5}  \\
 \frac{2}{(x+ 5) (x -3)}  - \frac{4}{x-3}  =  -\frac{2}{x+ 5}     \\
 -(x^2  + 5x  - 6)  =  0   \\
 x^2   +5x - 6  = 0   \\
@@ -91,3 +91,4 @@ x = 1
 \end{array}
  \end{array}
 $$
+LCD  : ( x + 5) (x - 3)
