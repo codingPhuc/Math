@@ -10,6 +10,8 @@ STEPS :
 1.  find LCD
 2. Multiply every terms by the LCD 
 
+
+do this the normal way  
 $$
 \begin{array} {l}
  \frac{x}{4}+\frac{4}{5}   = \frac{1}{20} \\
@@ -19,3 +21,11 @@ $$
 
 
 LCD  = 20 
+multiply every terms by the LCD 
+
+$$
+\begin{array} {l}
+ \frac{x}{4}+\frac{4}{5}   = \frac{1}{20} \\
+ \frac{x}{4}+\frac{4}{5}   = \frac{1}{20} \\
+\end{array} 
+$$
