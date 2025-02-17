@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
+                "file": "Paul Online note/Complex Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions"
+              "title": "Complex Numbers"
             }
           },
           {
@@ -209,8 +209,7 @@
               "title": "Faction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -298,7 +297,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -430,7 +430,7 @@
       }
     ]
   },
-  "active": "ba07c9f805a956ed",
+  "active": "e679a48f047dead1",
   "lastOpenFiles": [
     "Paul Online note/Factoring  Polynomials.md",
     "Professor Leonard/7.3 ADD SUB  RATIONAL  EXPRESION.md",
