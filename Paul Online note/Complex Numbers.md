@@ -116,7 +116,7 @@ $$
 
 $$ 
 
-
+error 
 $$
 \begin{array} {l} \\
 \frac{7  - i   }{ 2+ 10i } \\ 
@@ -128,7 +128,17 @@ $$
 
 $$
 
+I forgot that $i^2$  is  equal to -1  
 
 
 
+$$
+\begin{array} {l} \\
+\frac{7  - i   }{ 2+ 10i } \\ 
+\frac{7  - i (2-10i)   }{ 2+ 10i (2-10i) } \\ 
+\frac{7  - i (2-10i)   }{ 2^2  - (10i)^2 } \\   
+\frac{14  - 70i -2i  + 10i^2    }{ 4  +  100 } \\   
+\frac{ 10i^2   - 72i  +   14     }{+1} \\ 
+\end{array}
 
+$$
