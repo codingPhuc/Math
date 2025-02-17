@@ -209,7 +209,8 @@
               "title": "Faction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -422,15 +423,16 @@
         "direction": "vertical",
         "x": 2063,
         "y": -119,
-        "width": 764,
-        "height": 498,
-        "maximize": true,
+        "width": 612,
+        "height": 399,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "ba07c9f805a956ed",
   "lastOpenFiles": [
+    "Paul Online note/Factoring  Polynomials.md",
     "Professor Leonard/7.3 ADD SUB  RATIONAL  EXPRESION.md",
     "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
     "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 15.37.49.excalidraw.md",
@@ -442,7 +444,6 @@
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw.md",
     "Professor Leonard/C.4 POLYNIMIALS.md",
     "Professor Leonard/IMG_0599.JPG",
-    "Paul Online note/Factoring  Polynomials.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 15.22.13.excalidraw.md",
     "Professor Leonard/7.1 Rational Function.md",
     "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
