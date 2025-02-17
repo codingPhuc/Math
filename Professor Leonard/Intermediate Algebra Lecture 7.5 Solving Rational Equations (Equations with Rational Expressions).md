@@ -27,6 +27,10 @@ $$
 \begin{array} {l}
  \frac{x}{4}+\frac{4}{5}   = \frac{1}{20} \\
 20\cdot \frac{x}{4}+ 20\cdot\frac{4}{5}   =  20\cdot\frac{1}{20} \\ 
-5x+ 16  =  20\cdot\frac{1}{20}
+5x+ 16  =  1  \\
+5x =  1 - 16 \\
+x  =  -3  
 \end{array} 
 $$
+
+x
