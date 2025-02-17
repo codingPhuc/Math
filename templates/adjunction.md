@@ -4,6 +4,7 @@ date: ""
 references: 
 tags:
   - In_Progress
-reference:
+reference: 
+"": "{{date:YYYY-MM-DD}}"
 ---
 jkljkljkl;klklklj
