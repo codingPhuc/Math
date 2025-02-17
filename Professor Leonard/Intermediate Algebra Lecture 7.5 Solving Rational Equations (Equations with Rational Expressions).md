@@ -61,8 +61,8 @@ LCD  :  12
 $$
 \begin{array} {l}
 \frac{2}{1 }  - \frac{6}{x}  =  \frac{x}{1 }  + \frac{7}{1} \\
-2x   -  6  =  x^2  + 
+2x   -  6  =  x^2  + 7x   \\
+-x^2   -   5x   -  6  =  0   
 \end{array}
-
 $$
 LCD : x  
