@@ -177,8 +177,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -466,10 +465,10 @@
       }
     ]
   },
-  "active": "258cec35a6c3a3ae",
+  "active": "f90ee6b03e722a11",
   "lastOpenFiles": [
-    "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
     "Excalidraw/7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.26.41.excalidraw.md",
+    "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
     "Professor Leonard/7.5 Solving Rational Equations (Equations with Rational Expressions).md",
     "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
     "Professor Leonard/Rational Function.md",
