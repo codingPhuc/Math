@@ -297,8 +297,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "floating": {
@@ -423,8 +422,8 @@
         "direction": "vertical",
         "x": 2063,
         "y": -119,
-        "width": 612,
-        "height": 399,
+        "width": 490,
+        "height": 320,
         "maximize": false,
         "zoom": 0
       }

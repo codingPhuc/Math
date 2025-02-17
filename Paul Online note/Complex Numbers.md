@@ -189,3 +189,14 @@ $$
 
 ## assignment problem  
 
+
+$$
+\begin{array} {l} \\
+\frac{ 6 +  7i  }{ 8 -  i  } \\ 
+\frac{ (6 +  7i )(8 +  i) }{ (8 -  i)(8 +  i)  } \\ 
+\frac{ 48 + 6i + 56i + 7i^2 }{ 65 } \\   
+\frac{ 48 + 62i - 7 }{ 15 }   \\
+\frac{ 41+ 62i }{ 15 } 
+\end{array}
+
+$$
