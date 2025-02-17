@@ -4,5 +4,5 @@ references:
 tags:
   - In_Progress
 reference: 
-date: 2025-02-17T15:22:00
+Current date: '"{{date:YYYY-MM-DD}}"'
 ---
