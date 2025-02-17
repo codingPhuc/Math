@@ -43,9 +43,11 @@ $(1-8i)(1+8i)=1-8i+8i-8^2i^2=1-64i^2$
 
 
 $$
-\begin{array} 
-
-\end{array} 
+\begin{array} {l} \\
+(4 -  5i) (12 + 11i)    \\
+= 
+ 
+\end{array}
 
 $$
 
