@@ -79,7 +79,7 @@ LCD : x
 
 $$
 \begin{array} {l}
-\frac{2}{1 }  +  \frac{6}{x}  =  \frac{x}{1 }  + \frac{7}{1} \\
+\frac{2}{x^2  +  2x   - 15}  - \frac{4}{x-3}  =  \frac{2}{x}\\
 2x   +  6  =  x^2  + 7x   \\
 -x^2   -   5x   +  6  =  0    \\
 -(x^2  + 5x  - 6)  =  0   \\
