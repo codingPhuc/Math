@@ -1,6 +1,6 @@
 ---
 title: Adjunction
-date: 2025-02-05
+date: ""
 references: 
 tags:
   - In_Progress
