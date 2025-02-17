@@ -158,3 +158,18 @@ $$
 \end{array}
 
 $$
+
+
+
+$$
+\begin{array} {l} \\
+\frac{ 6 +  7i  }{ 8 -  } \\ 
+\frac{ (1 + 5i  ) 3i  }{ -3i  3i} \\ 
+\frac{ -15  +  3i }{ 9} \\   
+\frac{ -15    }{ 9}   +   \frac{3i}{9}   \\
+ \frac{ -5    }{ 3}   +   \frac{i}{3}  
+\end{array}
+
+$$
+
+
