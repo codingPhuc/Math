@@ -36,6 +36,8 @@ $$
 $$
 \begin{array} {l}
  15\cdot\frac{x +  2}{3}+15\cdot\frac{x- 1 }{5}   = 15\cdot\frac{15}{1} \\
-  (x +  2) + (x- 1)    = 15\cdot\frac{15}{1} \\
+  5(x +  2) + 3(x- 1)    =225  \\
+5x  + 10   + 3x  - 3      =225  \\
+8x   =  
 \end{array} 
 $$
