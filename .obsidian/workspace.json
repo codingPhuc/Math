@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "c03649a5ee7e3ffa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions 2025-02-17 12.28.22.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions 2025-02-17 12.28.22.excalidraw"
+            }
+          },
+          {
             "id": "d54e0335b7257a3d",
             "type": "leaf",
             "state": {
@@ -142,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -430,15 +442,16 @@
       }
     ]
   },
-  "active": "e679a48f047dead1",
+  "active": "c03649a5ee7e3ffa",
   "lastOpenFiles": [
+    "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
+    "Excalidraw/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions 2025-02-17 12.28.22.excalidraw.md",
     "Professor Leonard/7.3 ADD SUB  RATIONAL  EXPRESION.md",
     "Paul Online note/Rational exponents.md",
     "Paul Online note/Proof in Math.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Complex Numbers.md",
     "Paul Online note/Factoring  Polynomials.md",
-    "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
     "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 15.37.49.excalidraw.md",
     "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.42.36.excalidraw.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw.md",
@@ -462,7 +475,6 @@
     "Professor Leonard/Factoring Polynomials  in general.md",
     "Professor Leonard/6.7 Word Problem.md",
     "Professor Leonard/6.6 Solving Equation  By Factoring.md",
-    "Professor Leonard/Untitled 1.md",
     "Pasted image 20250210124149.png",
     "Professor Leonard/IMG_0605.JPG",
     "Professor Leonard/IMG_0604.JPG",
