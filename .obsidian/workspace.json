@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "abd3d1a2d57b1cf7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.50.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.50.18.excalidraw"
+            }
+          },
+          {
             "id": "258cec35a6c3a3ae",
             "type": "leaf",
             "state": {
@@ -177,7 +189,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -465,15 +478,16 @@
       }
     ]
   },
-  "active": "f90ee6b03e722a11",
+  "active": "abd3d1a2d57b1cf7",
   "lastOpenFiles": [
+    "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
+    "Excalidraw/7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.50.18.excalidraw.md",
     "Professor Leonard/7.1 Rational Function.md",
     "Professor Leonard/6.7 Word Problem.md",
     "Professor Leonard/6.6 Solving Equation  By Factoring.md",
     "Professor Leonard/6.5 Factoring Binomials (Difference of Squares,Cubes).md",
     "Professor Leonard/6.4  Factoring Polynomials (Trinomials) in General.md",
     "Professor Leonard/6.2 Factoring Polynomials (a  =1).md",
-    "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
     "Excalidraw/7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.26.41.excalidraw.md",
     "Professor Leonard/7.5 Solving Rational Equations (Equations with Rational Expressions).md",
     "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
@@ -494,7 +508,6 @@
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Complex Numbers.md",
     "Paul Online note/Factoring  Polynomials.md",
-    "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 15.37.49.excalidraw.md",
     "Professor Leonard/IMG_0599.JPG",
     "Professor Leonard/IMG_0600.JPG",
     "Professor Leonard/IMG_0603.JPG",
