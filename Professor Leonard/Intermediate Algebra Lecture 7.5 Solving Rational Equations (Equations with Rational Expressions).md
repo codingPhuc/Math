@@ -35,10 +35,7 @@ $$
 
 $$
 \begin{array} {l}
- \frac{x +  2}{3}+\frac{x- 1 }{5}   = 15\frac{15}{1} \\
-20\cdot \frac{x}{4}+ 20\cdot\frac{4}{5}   =  20\cdot\frac{1}{20} \\ 
-5x+ 16  =  1  \\
-5x =  1 - 16 \\
-x  =  -3  
+ 15\cdot\frac{x +  2}{3}+15\cdot\frac{x- 1 }{5}   = 15\cdot\frac{15}{1} \\
+  (x +  2) + (x- 1)    = 15\cdot\frac{15}{1} \\
 \end{array} 
 $$
