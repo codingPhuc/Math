@@ -7,3 +7,5 @@ $$
 
 \end{array} 
 $$
+
+not suck a great thing for faction on faction  , what is the main faction bar main thing going across 
