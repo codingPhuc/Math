@@ -52,9 +52,9 @@ LCD for the tops and bottom  is  $y^2 ,x^2$
 $$
 \begin{array} {l}
 \frac{2x^{-1 } + 3y^{-1} }{x^{-1 } - 2y^{-1} }  \\
-\frac{\frac{1}{2x} +\frac{1}{3y} }{ \frac{1}{x } - \frac{1}{2y} }  \\
-\frac{\frac{1}{2x} +\frac{1}{3y} }{ \frac{1}{x } - \frac{1}{2y} }  \\
-\frac{\frac{3y + 2x}{6xy }  }{ \frac{2y -x }{2yx }  }  \\
+\frac{\frac{1}{2x} +\frac{1}{3y} }{ \frac{1}{x } - \frac{2}{y} }  \\
+\frac{\frac{1}{2x} +\frac{1}{3y} }{ \frac{1}{x } - \frac{2}{y} }  \\
+\frac{\frac{3y + 2x}{6xy }  }{ \frac{y -2x }{2yx }  }  \\
 \frac{3y + 2x}{6xy }  \cdot \frac{2yx }{2y -x  }   \\
 \frac{3y + 2x}{3(2y -x )} 
 \end{array} 
