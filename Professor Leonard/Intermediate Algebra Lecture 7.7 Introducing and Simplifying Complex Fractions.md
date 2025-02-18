@@ -49,3 +49,9 @@ $$
 
 LCD for the tops and bottom  is  $y^2 ,x^2$   
 
+$$
+\begin{array} {l}
+\frac{2x^{-1 } + 3y^{} }{}
+\end{array} 
+
+$$
