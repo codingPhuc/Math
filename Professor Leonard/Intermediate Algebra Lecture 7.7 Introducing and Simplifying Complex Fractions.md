@@ -42,8 +42,10 @@ $$
 \frac{\left( \frac{x}{y^2}  - \frac{y}{y^2}  \right)}{\left( \frac{y}{x^2 } - \frac{x}{x^2} \right)}  \\
 \frac{\frac{x - y }{y^2}   }{\frac{y - x  }{x^2} }   \\
 \frac{x - y }{y^2} \cdot \frac{x^2  }{y - x}  \\ 
-\frac{x^2}{y^2}
+\frac{x - y }{y^2} \cdot \frac{x^2  }{-  (x - y)}  \\ 
+- \frac{x^2}{y^2}
 \end{array} 
 $$
 
-LCD for the tops and bottom  is  $y^2 ,x^2$  
+LCD for the tops and bottom  is  $y^2 ,x^2$   
+
