@@ -35,3 +35,9 @@ STEPS  :
 1. SIMPLIFY SO THE NUMERATOR AND DENOMINATOR HAVE 1 FACTIONS  
 2. SET UP A DIVISION PROBLEM 
 3. SIMPLIFY AS USAL 
+
+$$
+\begin{array} {l}
+\frac{x}{y^2}  - \frac{1}{y} 
+\end{array} 
+$$
