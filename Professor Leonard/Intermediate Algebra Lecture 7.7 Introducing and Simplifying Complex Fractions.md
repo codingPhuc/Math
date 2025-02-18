@@ -26,7 +26,8 @@ $$
 \begin{array}{l}  \\
 \frac{\frac{6x}{-5}}{\frac{12}{x+5}}   \\
 \frac{6x}{-5} \div  \frac{12}{x+5}   \\
-\frac{6x}{-5} \cdot 
+\frac{6x}{-5} \cdot \frac{x+5}{12}    \\
+
 \end{array} 
 $$
 
