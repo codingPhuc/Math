@@ -53,7 +53,8 @@ $$
 \begin{array} {l}
 \frac{2x^{-1 } + 3y^{-1} }{x^{-1 } - 2y^{-1} }  \\
 \frac{\frac{1}{2x} +\frac{1}{3y} }{ \frac{1}{x } - \frac{1}{2y} }  \\
-\frac{\frac{1}{2x} +\frac{1}{3y} }{ \frac{1}{x } - \frac{1}{2y} }
+\frac{\frac{1}{2x} +\frac{1}{3y} }{ \frac{1}{x } - \frac{1}{2y} }  \\
+\frac{\frac{3y + 2x}{6xy }  }{ \frac{2y -x }{x } - \frac{1}{2y} }
 \end{array} 
 
 $$
