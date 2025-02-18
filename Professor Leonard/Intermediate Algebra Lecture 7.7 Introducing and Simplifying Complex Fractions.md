@@ -51,7 +51,8 @@ LCD for the tops and bottom  is  $y^2 ,x^2$
 
 $$
 \begin{array} {l}
-\frac{2x^{-1 } + 3y^{} }{}
+\frac{2x^{-1 } + 3y^{-1} }{x^{-1 } + 2y^{-1} }  \\
+\frac{\frac{1}{2x} +\frac{1}{3y} }{ \frac{1}{x } + \frac{1}{2y} }
 \end{array} 
 
 $$
