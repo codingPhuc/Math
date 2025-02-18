@@ -27,7 +27,7 @@ $$
 \frac{\frac{6x}{x-5}}{\frac{12}{x+5}}   \\
 \frac{6x}{x-5} \div  \frac{12}{x+5}   \\
 \frac{6x}{x-5} \cdot \frac{x+5}{12}    \\
-\frac{x(x  +  5)}{x-10}
+\frac{x(x  +  5)}{2 (x-5)}
 \end{array} 
 $$
 
