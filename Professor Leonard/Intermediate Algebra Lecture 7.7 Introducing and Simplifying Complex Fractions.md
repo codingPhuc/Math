@@ -23,12 +23,10 @@ $$
 
 
 $$
-\begin{array}{l}
-\frac{\frac{3x}{25y^2}}{\frac{9x^2}{5y}}  \\
-= \frac{3x}{25y^2} \div  \frac{9x^2}{5y}  \\
-= \frac{3x}{25y^2} \cdot  \frac{5y}{9x^2}  \\
-= \frac{1}{5y} \cdot  \frac{1}{3x}  \\
-= \frac{1}{15xy}
+\begin{array}{l}  \\
+\frac{\frac{6x}{-5}}{\frac{12}{x+5}}   \\
+\frac{6x}{-5} \div  \frac{12}{x+5}   \\
+\frac{6x}{-5} \cdot 
 \end{array} 
 $$
 
