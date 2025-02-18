@@ -39,8 +39,8 @@ STEPS  :
 $$
 \begin{array} {l}
 \frac{\left( \frac{x}{y^2}  - \frac{1}{y}  \right)}{\left( \frac{y}{x^2 } - \frac{1}{x} \right)}  \\
-\frac{\left( \frac{x}{y^2}  - \frac{1}{y}  \right)}{\left( \frac{y}{x^2 } - \frac{1}{x} \right)}
+\frac{\left( \frac{x}{y^2}  - \frac{y}{y^2}  \right)}{\left( \frac{y}{x^2 } - \frac{1}{x} \right)}
 \end{array} 
 $$
 
-LCD for the tops is 
+LCD for the tops and bottom  is  $y^2 ,x^2$  
