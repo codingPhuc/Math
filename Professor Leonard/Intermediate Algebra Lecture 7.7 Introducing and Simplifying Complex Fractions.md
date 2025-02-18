@@ -66,8 +66,8 @@ $$
 \begin{array} {l}
 \frac{x^{-1 } +  2xy^{-1} }{x^{-2 } - x^{-2}y^{-1} }  \\
 \frac{\frac{1}{x} +  \frac{2xy}{y} }{\frac{1}{x^{2 }} -\frac{1}{x^{2}y^{1}}  }  \\
-\frac{\frac{y + 2x^2y }{x} +  \frac{2xy}{y} }{\frac{y -1 }{x^{2 } y }  }  \\
-\frac{2y + 3x}{xy } \cdot \frac{yx }{y -2x  }   \\
+\frac{\frac{y + 2x^2y}{xy} }{\frac{y -1 }{x^{2 } y }  }  \\
+\frac{y + 2x^2y}{xy} \cdot \frac{x^{2 } y  }{y -1 }   \\
 \frac{(2y + 3x)}{(y -2x  )} 
 \end{array} 
 $$
