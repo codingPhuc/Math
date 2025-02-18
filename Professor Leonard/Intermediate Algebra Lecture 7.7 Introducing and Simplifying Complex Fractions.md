@@ -39,7 +39,8 @@ STEPS  :
 $$
 \begin{array} {l}
 \frac{\left( \frac{x}{y^2}  - \frac{1}{y}  \right)}{\left( \frac{y}{x^2 } - \frac{1}{x} \right)}  \\
-\frac{\left( \frac{x}{y^2}  - \frac{y}{y^2}  \right)}{\left( \frac{y}{x^2 } - \frac{1}{x} \right)}
+\frac{\left( \frac{x}{y^2}  - \frac{y}{y^2}  \right)}{\left( \frac{y}{x^2 } - \frac{x}{x^2} \right)}  \\
+\frac{\frac{x - y }{y^2}   }{\left( \frac{y}{x^2 } - \frac{x}{x^2} \right)}
 \end{array} 
 $$
 
