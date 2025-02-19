@@ -369,7 +369,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -488,8 +489,7 @@
                   "title": "C.4 POLYNIMIALS"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
@@ -502,7 +502,7 @@
       }
     ]
   },
-  "active": "5782cccecaf5e9b6",
+  "active": "ba07c9f805a956ed",
   "lastOpenFiles": [
     "Paul Online note/Polynomials.md",
     "Excalidraw/Factoring  Polynomials 2025-02-06 12.35.58.excalidraw.md",
