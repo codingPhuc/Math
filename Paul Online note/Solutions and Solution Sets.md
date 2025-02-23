@@ -157,8 +157,8 @@ So  7 is equal to 7 so the  equation  is satisfy . Therefore ,    x = 6 is a sol
 
 $$
 \begin{array} {l}
-is \; t =  7  \; solution  \; t^2  + 3t  - 10   =  4 +    \\
-2\cdot 6  - 5 =  3(1 - 6) + 22  \\ 
+is \; t =  7  \; solution  \; t^2  + 3t  - 10   =  4 + 8t \; ?    \\
+7^2  + 3\cdot7  - 10   =  4 + 8\cdot 7    \\ 
 7   =  7 \\
 \end{array}
 
