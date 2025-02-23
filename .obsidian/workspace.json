@@ -25,12 +25,14 @@
             "id": "5782cccecaf5e9b6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Introduction to algorithm.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Introduction to algorithm"
             }
           },
           {
@@ -246,7 +248,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -369,11 +371,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5782cccecaf5e9b6",
   "lastOpenFiles": [
+    "python with math.md",
+    "Pasted image 20250217150512.png",
+    "Untitled.md",
+    "Introduction to algorithm.md",
+    "2025-02-05.md",
+    "mathwiki/Notes/metric_space.md",
     "Paul Online note/Factoring  Polynomials.md",
     "Paul Online note/Polynomials.md",
     "Excalidraw/Factoring  Polynomials 2025-02-06 12.35.58.excalidraw.md",
@@ -394,13 +403,6 @@
     "Excalidraw/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.58.33.excalidraw.md",
     "Professor Leonard/Untitled.md",
     "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw.md",
-    "2025-02-05.md",
-    "Pasted image 20250217150512.png",
-    "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
-    "Professor Leonard/Factoring Polynomials  in general.md",
-    "Excalidraw/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions 2025-02-17 12.28.22.excalidraw.md",
-    "Excalidraw/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.39.36.excalidraw.md",
-    "Professor Leonard/7.3 ADD SUB  RATIONAL  EXPRESION.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Professor Leonard/IMG_0599.JPG",
     "Professor Leonard/IMG_0600.JPG",
