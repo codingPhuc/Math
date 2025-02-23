@@ -179,7 +179,9 @@ So ,  -10  doesn't equal to  20  so the equation is not  satisfy . Therefor  ,t 
 $$
 \begin{array} {l}
 is \; w =  -2 \; solution  \; \frac{w^2 +8w  + 12 }{ w + 2  }  = 0  \; ?    \\
-\frac{w^2 +8w  + 12 }{ w + 2  }  = 0\\ 
--10    =  20   \\
+\frac{(-2)^2 +8\cdot-2  + 12 }{ -2  + 2  }  = 0 \\   
+ \\
+
 \end{array}
 $$
+Since you cannot divided by 0 
