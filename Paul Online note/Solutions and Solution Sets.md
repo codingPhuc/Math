@@ -72,7 +72,7 @@ In this case -20 is less than or equal to -20 (in this case it’s equal) and so
 
 
 # Show that the following number aren't solution  to the given equation or inequality 
-
+In this case we do essentially the same thing that we did in the previous example. Plug the number in and show that this time it doesn’t satisfy the equation. For equations that will mean that the right side of the equation will not equal the left side of the equation.
 $$
 \begin{array} {l}
 y  =  -2  \;  in  \; 3(y+ 1)  = 4y-5  \\
@@ -80,7 +80,16 @@ y  =  -2  \;  in  \; 3(y+ 1)  = 4y-5  \\
 y = -8
 \end{array} 
 $$
+$$
+\begin{aligned}3\left(-2+1\right)&\overset{?}{\operatorname*{\operatorname*{\operatorname*{=}}}}4\left(-2\right)-5\\-3&\neq-13\mathrm{~NOT~OK}\end{aligned}
 
+$$
+
+So, -3 is not the same as -13 and so the equation isn’t satisfied. Therefore y=−2y=−2 isn’t a solution to the equation.
+
+
+
+This time we’ve got an inequality. A number will not satisfy an inequality if we get an inequality that isn’t true after plugging the number in. 
 
 $$
 \begin{array} {l}
