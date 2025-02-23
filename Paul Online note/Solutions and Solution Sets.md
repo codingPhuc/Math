@@ -24,6 +24,7 @@ y  = 8
 $$ 
 $$
 \begin{array} {l}
- y = 8  \;  in \;  3
+z =1    \;  in \;  3(y  +1 )  =  4y  - 5  \\
+
 \end{array}
 $$
