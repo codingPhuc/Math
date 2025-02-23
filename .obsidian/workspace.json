@@ -4,51 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7531c224b7bc3d4",
+        "id": "b3c5845d5189f271",
         "type": "tabs",
         "children": [
           {
-            "id": "f90ee6b03e722a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professor Leonard/Intermediate Algebra Lecture 7.7 Introducing and Simplifying Complex Fractions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intermediate Algebra Lecture 7.7 Introducing and Simplifying Complex Fractions"
-            }
-          },
-          {
-            "id": "5782cccecaf5e9b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paul Online note/Polynomials.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polynomials"
-            }
-          },
-          {
-            "id": "0f560ed28e7dac46",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.50.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.50.18.excalidraw"
-            }
-          },
-          {
-            "id": "abd3d1a2d57b1cf7",
+            "id": "254257351503aa22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,163 +22,20 @@
             }
           },
           {
-            "id": "258cec35a6c3a3ae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.26.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.6 Using Proportions and Rational Methods in Problem Solving 2025-02-17 15.26.41.excalidraw"
-            }
-          },
-          {
-            "id": "36ca345378c4016f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.58.33.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.58.33.excalidraw"
-            }
-          },
-          {
-            "id": "2de4b96c05c1b0f3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.39.36.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Intermediate Algebra Lecture 7.5 Solving Rational Equations (Equations with Rational Expressions) 2025-02-17 14.39.36.excalidraw"
-            }
-          },
-          {
-            "id": "c03649a5ee7e3ffa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions 2025-02-17 12.28.22.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions 2025-02-17 12.28.22.excalidraw"
-            }
-          },
-          {
-            "id": "d54e0335b7257a3d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 15.37.49.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 15.37.49.excalidraw"
-            }
-          },
-          {
-            "id": "b569d68735a846ff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.42.36.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.42.36.excalidraw"
-            }
-          },
-          {
-            "id": "45d5b911f1d0961b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.27.34.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 14.27.34.excalidraw"
-            }
-          },
-          {
-            "id": "7c49d53aefd9acac",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.11.14.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.2 Multi and Division  RAT Expressions 2025-02-12 14.11.14.excalidraw"
-            }
-          },
-          {
-            "id": "8c4347bc80af4286",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw"
-            }
-          },
-          {
-            "id": "d38614b4fd4a1565",
+            "id": "e86e38c49bf2c15e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professor Leonard/7.2 Multi and Division  RAT Expressions.md",
+                "file": "Paul Online note/Polynomials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2 Multi and Division  RAT Expressions"
-            }
-          },
-          {
-            "id": "9f9cc0b74babd259",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw"
-            }
-          },
-          {
-            "id": "bd76be45b7e790fa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/7.2 Multi and Division  RAT Expressions 2025-02-10 15.22.13.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "7.2 Multi and Division  RAT Expressions 2025-02-10 15.22.13.excalidraw"
-            }
-          },
-          {
-            "id": "98cd2c0578ef55ba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Polynomials"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,7 +102,8 @@
               "title": "Faction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -377,13 +195,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abd3d1a2d57b1cf7",
+  "active": "254257351503aa22",
   "lastOpenFiles": [
-    "Paul Online note/Solutions and Solution Sets.md",
+    "Paul Online note/Polynomials.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
+    "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Rational exponents.md",
     "Paul Online note/Radicals.md",
-    "Paul Online note/Polynomials.md",
     "Paul Online note/Place value.md",
     "Paul Online note/Integer Exponents.md",
     "Paul Online note/Factoring  Polynomials.md",
