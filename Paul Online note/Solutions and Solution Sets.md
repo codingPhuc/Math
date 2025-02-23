@@ -85,7 +85,7 @@ $$
 
 $$
 
-So, -3 is not the same as -13 and so the equation isn’t satisfied. Therefore y=−2y=−2 isn’t a solution to the equation.
+So, -3 is not the same as -13 and so the equation isn’t satisfied. Therefore y=−2 isn’t a solution to the equation.
 
 
 
@@ -153,4 +153,4 @@ is \; x  = 6  \; solution  \; 2x  - 5  = 3(1- x )   + 22    \\
 \end{array}
 
 $$
-So  7 is euq
+So  7 is equal to 7 so the  equation  is satisfy . Therefore ,    x = 6 is a solution to the equation 
