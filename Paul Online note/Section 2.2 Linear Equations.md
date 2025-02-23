@@ -40,6 +40,9 @@ x = -\frac{27}{7}
 
 $$
 
+so the solution for this prog
+
+
 $$
 \begin{array} {l}
 \frac{m-2}{3}  + 1 =   \frac{2m}{7}  \\
@@ -50,6 +53,9 @@ m  = -7
 \end{array} 
 
 $$
+
+
+
 
 
 #  #Practice_Exercise 
