@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coeffi",
+                "query": "tag:#Practice_Exercise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +128,8 @@
               "title": "Faction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

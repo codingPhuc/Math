@@ -68,11 +68,13 @@ $$
 \frac{5}{2(y-3) }  = \frac{10- y}{(y  - 3) (y -3 ) }    \\ 
 (y-3)\cdot5  = 2(10- y)   \\
 5y  - 15   = 20  - 2y  \\
- 
+y  = 5  
 \end{array} 
 
 $$
 ![[Section 2.2 Linear Equations 2025-02-23 15.16.42.excalidraw]]
+#verify   
+$$\begin{aligned}\frac{5}{2\left(5\right)-6}&\overset{?}{\operatorname*{\operatorname*{\operatorname*{\operatorname*{=}}}}}\frac{10-5}{5^{2}-6\left(5\right)+9}\\\frac{5}{4}&=\frac{5}{4}&\mathrm{OK}\end{aligned}$$
 
 
 #  #Practice_Exercise 
