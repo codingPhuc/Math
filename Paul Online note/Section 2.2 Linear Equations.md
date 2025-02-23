@@ -22,13 +22,21 @@ One way to thing of these rule is that . What we do to one side  of the equation
 3. Use the first two facts above to get all terms with the variable in them on one side of the equations (combining into a single term of course) and all constants on the other side.  
       
     
-4. If the coefficient (definition of coefficient is in [[Polynomials]] ) of the variable is not a one use the  third or fourth  method in the defact above (this will depend on just what the number is) to make the coefficient a one.  
+4. If the coefficient (definition of coefficient is in [[Polynomials]] ) of the variable is not a one use the  third or fourth  method in the #definition   above (this will depend on just what the number is) to make the coefficient a one.  
       
     Note that we usually just divide both sides of the equation by the coefficient if it is an integer or multiply both sides of the equation by the reciprocal of the coefficient if it is a fraction.  
       
     
 5. **VERIFY YOUR ANSWER!** This is the final step and the most often skipped step, yet it is probably the most important step in the process. With this step you can know whether or not you got the correct answer long before your instructor ever looks at it. We verify the answer by plugging the results from the previous steps into the **original** equation. It is very important to plug into the original equation since you may have made a mistake in the very first step that led you to an incorrect answer.
 
+# Example 
+
+$$
+\begin{array}
+
+\end{array}
+
+$$
 
 
 #  #Practice_Exercise 
