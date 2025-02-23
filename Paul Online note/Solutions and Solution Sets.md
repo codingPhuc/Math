@@ -18,6 +18,12 @@ $$
 \begin{array}{l}
  x = 3  \;   in  \;  3(y +1 )   =  4y  -5   \\
 3y  + 3    - 4y  +  5   = 0   \\
-
+-y  + 8  = 0   \\
+y  = 8  
+\end{array}
+$$ 
+$$
+\begin{array} {l}
+ y = 8  \;  in \;  3
 \end{array}
 $$
