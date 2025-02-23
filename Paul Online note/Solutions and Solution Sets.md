@@ -106,3 +106,4 @@ z  \geq -5
 \end{array} 
 $$
 In this case -34 is NOT less than or equal to -48 and so the inequality isn’t satisfied. Therefore z=−12z=−12 is not a solution to the inequality.
+Now there is no reason 
