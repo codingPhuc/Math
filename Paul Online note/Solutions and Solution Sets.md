@@ -153,4 +153,13 @@ is \; x  = 6  \; solution  \; 2x  - 5  = 3(1- x )   + 22    \\
 \end{array}
 
 $$
-So  7 is equal to 7 so the  equation  is satisfy . Therefore ,    x = 6 is a solution to the equation 
+So  7 is equal to 7 so the  equation  is satisfy . Therefore ,    x = 6 is a solution to the equation $2x  - 5  = 3(1- x )   + 22$ 
+
+$$
+\begin{array} {l}
+is \; t =  7  \; solution  \; t^2  + 3t  - 10   =  4 +    \\
+2\cdot 6  - 5 =  3(1 - 6) + 22  \\ 
+7   =  7 \\
+\end{array}
+
+$$
