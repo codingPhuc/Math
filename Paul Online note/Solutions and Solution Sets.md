@@ -169,7 +169,7 @@ $$
 \begin{array} {l}
 is \; t =  -3 \; solution  \; t^2  + 3t  - 10   =  4 + 8t \; ?    \\
 (-3)^2  + 3\cdot-3  - 10   =  4 + 8\cdot-3    \\ 
-18   =  60 \\
+-10    =  20   \\
 \end{array}
 
 $$
