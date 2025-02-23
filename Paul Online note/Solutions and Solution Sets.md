@@ -26,6 +26,10 @@ $$
 \begin{array} {l}
 z =1    \;  in \;   2(z - 5 )  \leq 4 \\
 2z -10   \leq 4  \\
-xz
+z  \leq  7 
+\end{array}
+$$ $$
+\begin{array}{l}
+z=-5 \ 2(z-5) \leq  4z 
 \end{array}
 $$
