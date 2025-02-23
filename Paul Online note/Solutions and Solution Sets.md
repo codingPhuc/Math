@@ -149,7 +149,8 @@ $$
 \begin{array} {l}
 is \; x  = 6  \; solution  \; 2x  - 5  = 3(1- x )   + 22    \\
 2\cdot 6  - 5 =  3(1 - 6) + 22  \\ 
- \\
+7   =  7 \\
 \end{array}
 
 $$
+So  7 is euq
