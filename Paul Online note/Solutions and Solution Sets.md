@@ -113,3 +113,8 @@ now there is no reason to think that  the given equation and inequality will hav
 $x^2  - 9= 0$  you notice that there is two solution x = 3 and x = -3 
 
 we call the complete set of solution the **solution set** for the equation and inequality . There is also some formal notation for the notation for the solution set although we won't be using it . Regradless we should still acknowledge it  
+
+
+For equations we denote the solution set by enclosing all the solution is a set of braces  .
+
+
