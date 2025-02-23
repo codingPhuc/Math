@@ -10,7 +10,8 @@ a = b then $\frac{a}{c}  =\frac{b}{c}$ for nay non-zero c . We can divided  both
 One way to thing of these rule is that . What we do to one side  of the equation we will do to the other side of the equation 
 
 
-# 
+# Process for solving Linear Equation  
+
 
 
 
