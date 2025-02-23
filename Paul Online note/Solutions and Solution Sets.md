@@ -159,7 +159,7 @@ $$
 \begin{array} {l}
 is \; t =  7  \; solution  \; t^2  + 3t  - 10   =  4 + 8t \; ?    \\
 7^2  + 3\cdot7  - 10   =  4 + 8\cdot 7    \\ 
-7   =  7 \\
+18   =  60 \\
 \end{array}
 
-$$
+$$ 
