@@ -15,5 +15,9 @@ x = + 3
 
 
 $$
+\begin{array}{l}
+ x = 3  \;   in  \;  3(y +1 )   =  4y  -5   \\
+3y  + 3    - 4y  +  5   = 0   \\
 
+\end{array}
 $$
