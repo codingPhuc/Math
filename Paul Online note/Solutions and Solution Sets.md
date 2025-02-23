@@ -90,6 +90,12 @@ So, -3 is not the same as -13 and so the equation isn’t satisfied. Therefore 
 
 
 This time we’ve got an inequality. A number will not satisfy an inequality if we get an inequality that isn’t true after plugging the number in. 
+$$
+
+\begin{aligned}2\left(-12-5\right)&\overset{?}{\operatorname*{\operatorname*{\operatorname*{\operatorname*{\leq}}}}}4\left(-12\right)\\-34&\overset{\searrow}{\operatorname*{\operatorname*{\operatorname*{\operatorname*{\leq}}}}}-48\mathrm{~NOT~OK}\end{aligned}
+$$
+
+
 
 $$
 \begin{array} {l}
@@ -99,3 +105,4 @@ z=  -12  \;  in  \;  2(z-5)  \leq  4z  \\
 z  \geq -5 
 \end{array} 
 $$
+In this case -34 is NOT less than or equal to -48 and so the inequality isn’t satisfied. Therefore z=−12z=−12 is not a solution to the inequality.
