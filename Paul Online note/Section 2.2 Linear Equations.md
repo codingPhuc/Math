@@ -64,12 +64,13 @@ so the solution set  this problem is  : {$-7$}
 
 $$
 \begin{array} {l}
-\frac{5}{2y - 6 }  = \frac{10}{}    \\
-3x + 15  =  -12 - 2x  - 2x   \\
+\frac{5}{2y - 6 }  = \frac{10- y}{y^2  - 6y +  9 }    \\
+\frac{5}{2y - 6 }  = \frac{10- y}{y^2  - 6y +  9 }    \\
 x = -\frac{27}{7}
 \end{array} 
 
 $$
+![[Section 2.2 Linear Equations 2025-02-23 15.16.42.excalidraw]]
 
 
 #  #Practice_Exercise 

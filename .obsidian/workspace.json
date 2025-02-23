@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "86e5a44f62a0f194",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Section 2.2 Linear Equations 2025-02-23 15.16.42.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Section 2.2 Linear Equations 2025-02-23 15.16.42.excalidraw"
+            }
+          },
+          {
             "id": "e86e38c49bf2c15e",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "Solutions and Solution Sets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,12 +221,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "254257351503aa22",
+  "active": "86e5a44f62a0f194",
   "lastOpenFiles": [
+    "Paul Online note/Section 2.2 Linear Equations.md",
+    "Excalidraw/Section 2.2 Linear Equations 2025-02-23 15.16.42.excalidraw.md",
     "Pasted image 20250223151349.png",
     "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Polynomials.md",
-    "Paul Online note/Section 2.2 Linear Equations.md",
     "Paul Online note/Rational exponents.md",
     "Paul Online note/Radicals.md",
     "Paul Online note/Place value.md",
@@ -245,7 +259,6 @@
     "Pasted image 20250210124149.png",
     "Professor Leonard/IMG_0605.JPG",
     "Professor Leonard/IMG_0604.JPG",
-    "Professor Leonard/IMG_0602.JPG",
     "Professor Leonard",
     "Paul Online note",
     "template",
