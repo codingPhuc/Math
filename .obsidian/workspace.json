@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 2.2 Linear Equations.md",
+                "file": "Paul Online note/Polynomials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 2.2 Linear Equations"
+              "title": "Polynomials"
             }
           },
           {
@@ -248,7 +248,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proof",
+                "query": "coeffi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -377,8 +377,8 @@
   },
   "active": "5782cccecaf5e9b6",
   "lastOpenFiles": [
-    "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
+    "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Solve.md",
     "Paul Online note/Factoring  Polynomials.md",
     "Paul Online note/latex.md",
