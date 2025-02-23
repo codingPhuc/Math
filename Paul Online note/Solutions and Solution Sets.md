@@ -109,5 +109,5 @@ In this case -34 is NOT less than or equal to -48 and so the inequality isn’t 
 
 
 # #definition  
-now there is no reason to think that  the given equation and inequality will have only one solution . Look at the  $z   = 1   \;  in \;  2(z-5)  \leq  4z 
-$ 
+now there is no reason to think that  the given equation and inequality will have only one solution . Look at the  $z   = 1   \;  in \;  2(z-5)  \leq  4z$  would at least have two solution . On the other hand , 
+$x^2  - 9= 0$  you nt 
