@@ -143,6 +143,11 @@ Finally, as noted above we won’t be using the solution set notation much in th
 
 # #Practice_Exercise   
 
-$$
 
+
+$$
+\begin{array}
+
+\end{array}
+is \; x  = 6  \; solution  \; 2x  - 5  = 3(1- x )   + 22 
 $$
