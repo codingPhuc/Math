@@ -59,9 +59,7 @@ m  = -7
 
 $$
 so the solution set  this problem is  : {$-7$}
-$$
-\begin{aligned}\frac{-7-2}{3}+1&\frac{?}{=\frac{2\left(-7\right)}{7}}\\\frac{-9}{3}+1&\frac{?}{=-}\frac{14}{7}\\-3+1&\overset{?}{\operatorname*{\operatorname*{=}}}-2\\\mathrm{-2}&=-2\quad\mathrm{~OK}&\end{aligned}
-$$
+![[Pasted image 20250223151349.png]]
 
 
 
