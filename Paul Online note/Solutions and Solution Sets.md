@@ -121,3 +121,4 @@ $$
 For inequalities  we have similar notation . Depending on the complexity of the inequality the solution set may be a single number or it may be a range of numbers . If it is single number then we used the same notation for equations . If the solution set is a range of number   ,  as the  one we look above  is , we will used something called a set [builder notation](https://www.mathwords.com/s/set_builder_notation.htm) .  Here is the solution set for inequality we look above 
 $$\{z|z\geq-5\}$$
 
+This  is read as : "The  set of all z such  that z  is greater  than or equal  to   -5" 
