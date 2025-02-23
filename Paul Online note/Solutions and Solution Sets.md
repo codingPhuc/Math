@@ -190,7 +190,8 @@ $$
 \begin{array} {l}
 is \; z =  4  \; solution  \; 6z - z^2 \geq z^2  + 3    ?   \\
 6\cdot 4 - 4^2 \geq 4^2  + 3 \\    
-24 - 16 >  \\
+24 - 16 \geq 19  \\
+ \\
 \\
 
 \end{array}
