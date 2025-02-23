@@ -86,5 +86,7 @@ $$
 \begin{array} {l}
 
 z=  -12  \;  in  \;  2(z-5)  \leq  4z  \\
-2x  -   
-\end{array
+2z  - 10  \leq 4z   \\
+z  \leq -5 
+\end{array} 
+$$
