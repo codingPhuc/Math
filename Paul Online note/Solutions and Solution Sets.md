@@ -118,5 +118,6 @@ we call the complete set of solution the **solution set** for the equation and i
 For equations we denote the solution set by enclosing all the solution is a set of braces , {} . For the equation above here are to two solution set 
 $$
 \begin{aligned}3\left(y+1\right)&=4y-5&&\text{Solution Set : }&\{8\}\\x^{2}-9&=0&&\text{Solution Set : }&\{-3,3\}\end{aligned}$$
-For inequalities  we have similar notation . Depending on the complexity of the inequality the solution set may be a single number or it may be a range of numbers . If it is single number then we used the same notation for equations . If the solution set is a range of number   ,  as the  one we look above  is , we will used something called a set [builder notation](https://www.mathwords.com/s/set_builder_notation.htm) .  
+For inequalities  we have similar notation . Depending on the complexity of the inequality the solution set may be a single number or it may be a range of numbers . If it is single number then we used the same notation for equations . If the solution set is a range of number   ,  as the  one we look above  is , we will used something called a set [builder notation](https://www.mathwords.com/s/set_builder_notation.htm) .  Here is the solution set for inequality we look above 
+$$\{z|z\geq-5\}$$
 
