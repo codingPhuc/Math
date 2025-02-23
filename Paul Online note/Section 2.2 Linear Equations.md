@@ -41,6 +41,10 @@ x = -\frac{27}{7}
 $$
 
 so the solution set  this problem is  : {$-\frac{27}{7}$}
+$$
+\begin{aligned}3\left(-\frac{27}{7}+5\right)&\overset{?}{\operatorname*{\operatorname*{=}}}2\left(-6-\left(-\frac{27}{7}\right)\right)-2\left(-\frac{27}{7}\right)\\3\left(\frac{8}{7}\right)&\frac{?}{=}2\left(-\frac{15}{7}\right)+\frac{54}{7}\\\frac{24}{7}&=\frac{24}{7}\quad\mathrm{~OK}\end{aligned}
+$$
+
 ## verify the answer 
 plug  $-\frac{27}{7}$ in  we 
 
