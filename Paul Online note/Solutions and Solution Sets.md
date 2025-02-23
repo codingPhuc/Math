@@ -126,6 +126,4 @@ This  is read as : "The  set of all z such  that z  is greater  than or equal  t
 
 Most of the inequalities that we that  we will look  at often have short hand solution set  that we often just short hand as  , 
 $$x \geq -5$$
-
-
-
+$$\begin{aligned}x^2+1&=0\\x^2&<0\end{aligned}$$
