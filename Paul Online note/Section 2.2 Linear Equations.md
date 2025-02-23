@@ -77,6 +77,19 @@ $$
 $$\begin{aligned}\frac{5}{2\left(5\right)-6}&\overset{?}{\operatorname*{\operatorname*{\operatorname*{\operatorname*{=}}}}}\frac{10-5}{5^{2}-6\left(5\right)+9}\\\frac{5}{4}&=\frac{5}{4}&\mathrm{OK}\end{aligned}$$
 
 
+$$
+\begin{array} {l}
+\frac{5}{2y - 6 }  = \frac{10- y}{y^2  - 6y +  9 }    \\
+\frac{5}{2(y-3) }  = \frac{10- y}{(y  - 3) (y -3 ) }    \\ 
+(y-3)\cdot5  = 2(10- y)   \\
+5y  - 15   = 20  - 2y  \\
+y  = 5  
+\end{array} 
+
+$$
+
+
+
 #  #Practice_Exercise 
 
 
