@@ -11,6 +11,15 @@ x = + 3
 \end{array}
 
  $$
+We first plug the proposed solution into the equation.
+
+32−9?=09−9=00=0OK32−9=?⁡09−9=00=0OK
+
+So, what we are asking here is does the right side equal the left side after we plug in the proposed solution. That is the meaning of the “?” above the equal sign in the first line.
+
+Since the right side and the left side are the same we say that x=3x=3 **satisfies** the equation. 
+
+
 
 
 
