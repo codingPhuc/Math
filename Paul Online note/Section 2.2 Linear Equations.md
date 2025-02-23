@@ -79,8 +79,8 @@ $$\begin{aligned}\frac{5}{2\left(5\right)-6}&\overset{?}{\operatorname*{\operato
 
 $$
 \begin{array} {l}
-\frac{5}{2y - 6 }  = \frac{10- y}{y^2  - 6y +  9 }    \\
-\frac{5}{2(y-3) }  = \frac{10- y}{(y  - 3) (y -3 ) }    \\ 
+\frac{2z }{z  + 3 }  = \frac{3}{z-10 }  +  2   \\
+(z-10)\frac{2z }{z  + 3 }  = \frac{3}{z-10 }  +  2   \\ 
 (y-3)\cdot5  = 2(10- y)   \\
 5y  - 15   = 20  - 2y  \\
 y  = 5  
