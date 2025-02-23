@@ -65,7 +65,8 @@ so the solution set  this problem is  : {$-7$}
 $$
 \begin{array} {l}
 \frac{5}{2y - 6 }  = \frac{10- y}{y^2  - 6y +  9 }    \\
-\frac{5}{2y - 6 }  = \frac{10- y}{(y  - 3) (y -3) }    \\
+\frac{5}{2(y-3) }  = \frac{10- y}{(y  - 3) (y -3 ) }    \\ 
+(y-3)\dot\frac{5}{2(y-3) }  = \frac{10- y}{(y  - 3) (y -3 ) }   \\
 x = -\frac{27}{7}
 \end{array} 
 
