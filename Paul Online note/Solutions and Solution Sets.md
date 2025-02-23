@@ -163,7 +163,7 @@ is \; t =  7  \; solution  \; t^2  + 3t  - 10   =  4 + 8t \; ?    \\
 \end{array}
 
 $$ 
-So ,  60 does not equal to  60  so the equation isn't  satisfy . Therefore , t = 7 is  not a solution to the equation 
+So ,  60  equal to  60  so the equation is  satisfy . Therefore , t = 7 is  not a solution to the equation 
 
 $$
 \begin{array} {l}
@@ -172,3 +172,4 @@ is \; t =  -3 \; solution  \; t^2  + 3t  - 10   =  4 + 8t \; ?    \\
 -10    =  20   \\
 \end{array}
 $$
+So ,  -10  doesn't equal to  20  so the equation is not  satisfy . Therefor  ,t  = -3  is not a solution to the equati
