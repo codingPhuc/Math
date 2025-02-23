@@ -45,7 +45,8 @@ $$
 \frac{m-2}{3}  + 1 =   \frac{2m}{7}  \\
 21\cdot\frac{m-2}{3}  + 21 =   21\cdot\frac{2m}{7}  \\
 7(m-2 ) +  21 =   3\cdot2m \\
-
+7m  -   14   + 21 = 6m  \\
+m  = -7  
 \end{array} 
 
 $$
