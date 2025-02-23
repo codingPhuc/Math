@@ -146,8 +146,10 @@ Finally, as noted above we won’t be using the solution set notation much in th
 
 
 $$
-\begin{array}
-
+\begin{array} {l}
+is \; x  = 6  \; solution  \; 2x  - 5  = 3(1- x )   + 22    \\
+2\cdot 6  - 5 =  3(1 - 6) + 22  \\ 
+ \\
 \end{array}
-is \; x  = 6  \; solution  \; 2x  - 5  = 3(1- x )   + 22 
+
 $$
