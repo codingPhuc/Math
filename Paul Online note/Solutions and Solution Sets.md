@@ -74,7 +74,7 @@ In this case -20 is less than or equal to -20 (in this case it’s equal) and so
 # Show that the following number aren't solution  to the given equation or inequality 
 
 $$
-\begin{array} P 
-
-\end{array} P 
+\begin{array} {l}
+y  =  -2  \;  in  \; 3(y+ 1)  = 4y-5
+\end{array} 
 $$
