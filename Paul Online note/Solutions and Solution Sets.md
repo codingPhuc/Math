@@ -72,3 +72,9 @@ In this case -20 is less than or equal to -20 (in this case it’s equal) and so
 
 
 # Show that the following number aren't solution  to the given equation or inequality 
+
+$$
+\begin{array} P 
+
+\end{array} P 
+$$
