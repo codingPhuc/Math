@@ -76,6 +76,15 @@ In this case -20 is less than or equal to -20 (in this case it’s equal) and so
 $$
 \begin{array} {l}
 y  =  -2  \;  in  \; 3(y+ 1)  = 4y-5  \\
-z=  -12  \;  in  \;  2(z-5)  \leq  4z  
+3y +  3  = 4y - 5   \\
+y = -8
 \end{array} 
 $$
+
+
+$$
+\begin{array} {l}
+
+z=  -12  \;  in  \;  2(z-5)  \leq  4z  \\
+2x  -   
+\end{array
