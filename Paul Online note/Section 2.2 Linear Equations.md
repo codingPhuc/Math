@@ -3,4 +3,5 @@ $$ax +  b  =  0$$ where a and b  is a real number and x  is a variable  . This i
 
 $a=b$ then $a+ c   =  b + c$ this is all  to say that we can add c to each side of the equation 
 $a=b$ then $a- c   =  b + c$ this is all  to say that we can subject  c to each side of the equation 
-$a=b$ then $a\cdot c  =  b\cdot c$ this is all  to say that we can multiply c 
+$a=b$ then $a\cdot c  =  b\cdot c$ this is all  to say that we can multiply c to each side of the equation 
+a = b then $\frac{a}{c}  =\frac{b}{c}$ for nay non-zero c . We can divided  both side  of an equation  by a non
