@@ -159,11 +159,11 @@ $$
 \begin{array} {l}
 is \; t =  7  \; solution  \; t^2  + 3t  - 10   =  4 + 8t \; ?    \\
 7^2  + 3\cdot7  - 10   =  4 + 8\cdot 7    \\ 
-18   =  60 \\
+60   =  60 \\
 \end{array}
 
 $$ 
-So ,  18 does not equal to  60  so the equation isn't  satisfy . Therefore , t = 7 is  not a solution to the equation 
+So ,  60 does not equal to  60  so the equation isn't  satisfy . Therefore , t = 7 is  not a solution to the equation 
 
 $$
 \begin{array} {l}
@@ -171,5 +171,4 @@ is \; t =  -3 \; solution  \; t^2  + 3t  - 10   =  4 + 8t \; ?    \\
 (-3)^2  + 3\cdot-3  - 10   =  4 + 8\cdot-3    \\ 
 -10    =  20   \\
 \end{array}
-
 $$
