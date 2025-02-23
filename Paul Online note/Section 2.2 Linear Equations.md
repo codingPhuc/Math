@@ -80,7 +80,7 @@ $$\begin{aligned}\frac{5}{2\left(5\right)-6}&\overset{?}{\operatorname*{\operato
 $$
 \begin{array} {l}
 \frac{2z }{z  + 3 }  = \frac{3}{z-10 }  +  2   \\
-(z-10)\frac{2z }{z  + 3 }  = \frac{3}{z-10 }  +  2   \\ 
+(z-10)\cdot 2z = (z  + 3  )\cdot3 +  2\cdot(z  + 3  )(z-10)\\ 
 (y-3)\cdot5  = 2(10- y)   \\
 5y  - 15   = 20  - 2y  \\
 y  = 5  
