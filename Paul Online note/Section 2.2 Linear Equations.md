@@ -43,8 +43,8 @@ $$
 $$
 \begin{array} {l}
 \frac{m-2}{3}  + 1 =   \frac{2m}{7}  \\
-\frac{m-2}{3}  + 1 =   \frac{2m}{7}  \\
-x = -\frac{27}{7}
+21\cdot\frac{m-2}{3}  + 21 =   21\cdot\frac{2m}{7}  \\
+21\cdot\frac{m-2}{3}  + 21=   21\cdot\frac{2m}{7}
 \end{array} 
 
 $$
