@@ -35,7 +35,16 @@ $$
 \begin{array} {l}
 3(x+ 5)  = 2(-6- x) -2x    \\
 3x + 15  =  -12 - 2x  - 2x   \\
-x = -\frac{2}{7}
+x = -\frac{27}{7}
+\end{array} 
+
+$$
+
+$$
+\begin{array} {l}
+\frac{m-2}{3}  + 1 =   \frac{2m}{7}  \\
+\frac{m-2}{3}  + 1 =   \frac{2m}{7}  \\
+x = -\frac{27}{7}
 \end{array} 
 
 $$
