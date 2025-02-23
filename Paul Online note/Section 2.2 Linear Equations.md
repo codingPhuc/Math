@@ -32,9 +32,11 @@ One way to thing of these rule is that . What we do to one side  of the equation
 # Example 
 
 $$
-\begin{array}
-
-\end{array}
+\begin{array} {l}
+3(x+ 5)  = 2(-6- x) -2x    \\
+3x + 15  =  -12 - 2x  - 2x   \\
+x = -\frac{2}{7}
+\end{array} 
 
 $$
 
