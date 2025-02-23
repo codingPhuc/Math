@@ -12,6 +12,9 @@ x = + 3
 
  $$
 We first plug the proposed solution into the equation.
+ $$
+ \begin{aligned}3^2-9&\overset{?}{\operatorname*{\operatorname*{=}}}0\\9-9&=0\\0&=0&\mathrm{OK}\end{aligned}
+ $$
  
 So, what we are asking here is does the right side equal the left side after we plug in the proposed solution. That is the meaning of the “?” above the equal sign in the first line.
 
@@ -34,7 +37,8 @@ So, y=8y=8 satisfies the equation and so is a solution.
 
 
 
-
+In this case we’ve got an inequality and in this case “satisfy” means something slightly different. In this case we will say that a number will satisfy the inequality if, after plugging it in, we get a true inequality as a result. 
+Let’s check z=1.
 $$
 \begin{array} {l}
 z =1    \;  in \;   2(z - 5 )  \leq 4 \\
