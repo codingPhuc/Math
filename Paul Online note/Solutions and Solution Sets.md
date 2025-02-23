@@ -129,4 +129,4 @@ $$x \geq -5$$
 
 consider the following equation and inequation 
 $$\begin{aligned}x^2+1&=0\\x^2&<0\end{aligned}$$
-we know that squaring x will leave not negative number  for both of the solution , so there will be no answer where s
+we know that squaring x will make x not be a negative number   for both of the equation . This cause the addition of 1 with t 
