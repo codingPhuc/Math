@@ -188,9 +188,10 @@ Since you cannot divided by 0  . -2  is not a solution to the given equation
 
 $$
 \begin{array} {l}
-is \; z =  4  \; solution  \; 6z - z^2 \geq z^2  + 3  \\
-\frac{(-2)^2 +8\cdot-2  + 12 }{ -2  + 2  }  = 0 \\   
- \\
+is \; z =  4  \; solution  \; 6z - z^2 \geq z^2  + 3    ?   \\
+6\cdot 4 - 4^2 \geq 4^2  + 3 \\    
+24 - 16 >  \\
+\\
 
 \end{array}
 $$
