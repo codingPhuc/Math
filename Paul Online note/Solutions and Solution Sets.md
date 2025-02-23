@@ -24,7 +24,8 @@ y  = 8
 $$ 
 $$
 \begin{array} {l}
-z =1    \;  in \;  3(y  +1 )  =  4y  - 5  \\
-
+z =1    \;  in \;   2(z - 5 )  \leq 4 \\
+2z -10   \leq 4  \\
+xz
 \end{array}
 $$
