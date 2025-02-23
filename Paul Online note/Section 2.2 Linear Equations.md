@@ -45,7 +45,7 @@ $$
 \begin{aligned}3\left(-\frac{27}{7}+5\right)&\overset{?}{\operatorname*{\operatorname*{=}}}2\left(-6-\left(-\frac{27}{7}\right)\right)-2\left(-\frac{27}{7}\right)\\3\left(\frac{8}{7}\right)&\frac{?}{=}2\left(-\frac{15}{7}\right)+\frac{54}{7}\\\frac{24}{7}&=\frac{24}{7}\quad\mathrm{~OK}\end{aligned}
 $$
 
-**verify the answer** 
+#verify 
 plug  $-\frac{27}{7}$ in  we 
 
 $$
@@ -59,9 +59,17 @@ m  = -7
 
 $$
 so the solution set  this problem is  : {$-7$}
+#verify  
 ![[Pasted image 20250223151349.png]]
 
+$$
+\begin{array} {l}
+\frac{5}{2y - 6 }  = \frac{10}{}    \\
+3x + 15  =  -12 - 2x  - 2x   \\
+x = -\frac{27}{7}
+\end{array} 
 
+$$
 
 
 #  #Practice_Exercise 
