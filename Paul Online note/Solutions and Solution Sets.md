@@ -132,4 +132,4 @@ $$\begin{aligned}x^2+1&=0\\x^2&<0\end{aligned}$$
 we know that squaring x will make x not be a negative number   for both of the equation . This cause the addition of 1 with the first equation be always number greater than 0 , in turn making it $x^2  +  1 \ne 0$  same go for the second equation there is no x square that is least then 0 
 
 
-we need a way to denote the fact that there is not real equatio
+we need a way to denote the fact that there is not real solution here . In a solution set we call  a solution set empty and denote it a symbol : $$
