@@ -184,4 +184,13 @@ is \; w =  -2 \; solution  \; \frac{w^2 +8w  + 12 }{ w + 2  }  = 0  \; ?    \\
 
 \end{array}
 $$
-Since you cannot divided by 0 
+Since you cannot divided by 0  . -2  is not a solution to the given equation 
+
+$$
+\begin{array} {l}
+is \; z =  4  \; solution  \; 6z - z^2 \geq z^2  + 3  \\
+\frac{(-2)^2 +8\cdot-2  + 12 }{ -2  + 2  }  = 0 \\   
+ \\
+
+\end{array}
+$$
