@@ -163,3 +163,4 @@ is \; t =  7  \; solution  \; t^2  + 3t  - 10   =  4 + 8t \; ?    \\
 \end{array}
 
 $$ 
+So ,  18 does not equal to  60  so the equation isn't  satisfy . Therefore , t = 7 is  not a soluiti
