@@ -122,3 +122,4 @@ For inequalities  we have similar notation . Depending on the complexity of the 
 $$\{z|z\geq-5\}$$
 
 This  is read as : "The  set of all z such  that z  is greater  than or equal  to   -5" 
+Most of the inequalities that we that  we will look  at often have short hand solution set  that we often just 
