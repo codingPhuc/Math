@@ -30,6 +30,10 @@ y  = 8
 $$ So, we want to see if y=8y=8 satisfies the equation. First plug the value into the equation.
 $$
 \begin{aligned}3\left(8+1\right)&\overset{?}{\operatorname*{\operatorname*{=}}}4\left(8\right)-5\\27&=27\quad\mathrm{OK}\\\\\end{aligned}$$
+So, y=8y=8 satisfies the equation and so is a solution.
+
+
+
 
 $$
 \begin{array} {l}
