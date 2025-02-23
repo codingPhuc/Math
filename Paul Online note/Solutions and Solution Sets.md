@@ -37,15 +37,32 @@ So, y=8y=8 satisfies the equation and so is a solution.
 
 
 
-In this case we’ve got an inequality and in this case “satisfy” means something slightly different. In this case we will say that a number will satisfy the inequality if, after plugging it in, we get a true inequality as a result. 
-Let’s check z=1.
+
 $$
 \begin{array} {l}
 z =1    \;  in \;   2(z - 5 )  \leq 4 \\
 2z -10   \leq 4  \\
 z  \leq  7 
 \end{array}
-$$ $$
+$$
+
+In this case we’ve got an inequality and in this case “satisfy” means something slightly different. In this case we will say that a number will satisfy the inequality if, after plugging it in, we get a true inequality as a result. 
+Let’s check z=1.
+$$
+\begin{aligned}2\left(1-5\right)&\overset{?}{\operatorname*{\operatorname*{\operatorname*{\operatorname*{\leq}}}}}4\left(1\right)\\-8&\leq4\quad\mathrm{OK}\end{aligned}
+$$
+
+So, -8 is less than or equal to 4 (in fact it’s less than) and so we have a true inequality. Therefore z=1z=1 will satisfy the inequality and hence is a solution 
+
+
+
+$$
+\begin{aligned}2\left(-5-5\right)&\overset{?}{\operatorname*{\operatorname*{\operatorname*{\operatorname*{\leq}}}}}4\left(-5\right)\\-20&\leq-20\quad\mathrm{OK}\end{aligned}
+$$
+
+
+
+$$
 \begin{array}{l}
 z=-5 \; in \;  2(z-5) \leq  4z \\
 2z - 10  \leq 4z  \\
