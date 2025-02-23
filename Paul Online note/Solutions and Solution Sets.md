@@ -132,4 +132,10 @@ $$\begin{aligned}x^2+1&=0\\x^2&<0\end{aligned}$$
 we know that squaring x will make x not be a negative number   for both of the equation . This cause the addition of 1 with the first equation be always number greater than 0 , in turn making it $x^2  +  1 \ne 0$  same go for the second equation there is no x square that is least then 0 
 
 
-we need a way to denote the fact that there is not real solution here . In a solution set we call  a solution set empty and denote it a symbol : $\emptyset$  
+we need a way to denote the fact that there is not real solution here . In a solution set we call  a solution set empty and denote it a symbol : $\emptyset$   
+
+
+
+In the above discussion of empty sets we assumed that we were only looking for real solutions. While that is what we will be doing for inequalities, we won’t be restricting ourselves to real solutions with equations. Once we get around to solving quadratic equations (which x2+1=0x2+1=0 is) we will allow solutions to be complex numbers and in the case looked at above there are complex solutions to x2+1=0x2+1=0. If you don’t know how to find these at this point that is fine we will be covering that material in a couple of sections. At this point just accept that x2+1=0x2+1=0 does have complex solutions.
+
+Finally, as noted above we won’t be using the solution set notation much in this course. It is a nice notation and does have some use on occasion especially for complicated solutions. However, for the vast majority of the equations and inequalities that we will be looking at will have simple enough solution sets that it’s just easier to write down the solutions and let it go at that. Therefore, that is what we will not be using the notation for our solution sets. However, you should be aware of the notation and know what it means.
