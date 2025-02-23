@@ -115,6 +115,8 @@ $x^2  - 9= 0$  you notice that there is two solution x = 3 and x = -3
 we call the complete set of solution the **solution set** for the equation and inequality . There is also some formal notation for the notation for the solution set although we won't be using it . Regradless we should still acknowledge it  
 
 
-For equations we denote the solution set by enclosing all the solution is a set of braces  .
-
+For equations we denote the solution set by enclosing all the solution is a set of braces , {} . For the equation above here are to two solution set 
+$$
+\begin{aligned}3\left(y+1\right)&=4y-5&&\text{Solution Set : }&\{8\}\\x^{2}-9&=0&&\text{Solution Set : }&\{-3,3\}\end{aligned}$$
+For inequalities  we have similar p
 
