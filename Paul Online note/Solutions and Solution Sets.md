@@ -172,4 +172,14 @@ is \; t =  -3 \; solution  \; t^2  + 3t  - 10   =  4 + 8t \; ?    \\
 -10    =  20   \\
 \end{array}
 $$
-So ,  -10  doesn't equal to  20  so the equation is not  satisfy . Therefor  ,t  = -3  is not a solution to the equati
+So ,  -10  doesn't equal to  20  so the equation is not  satisfy . Therefor  ,t  = -3  is not a solution to the equation 
+
+
+
+$$
+\begin{array} {l}
+is \; w =  -2 \; solution  \; \frac{w^2 +8w  + 12 }{ w + 2  }  = 0  \; ?    \\
+\frac{w^2 +8w  + 12 }{ w + 2  }  = 0\\ 
+-10    =  20   \\
+\end{array}
+$$
