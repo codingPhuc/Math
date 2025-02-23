@@ -40,7 +40,7 @@ x = -\frac{27}{7}
 
 $$
 
-so the solution for this prog
+so the solution set  this problem is  : {$-\frac{27}{7}$}
 
 
 $$
@@ -53,7 +53,7 @@ m  = -7
 \end{array} 
 
 $$
-
+so the solution set  this problem is  : {$-7$}
 
 
 
