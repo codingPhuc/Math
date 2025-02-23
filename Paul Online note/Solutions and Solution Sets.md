@@ -1,4 +1,4 @@
-Show that each of the following numbers are solutions to the given equation or inequality.
+# Show that each of the following numbers are solutions to the given equation or inequality.
 
 $$
 \begin{array}{l}
@@ -57,15 +57,18 @@ So, -8 is less than or equal to 4 (in fact it’s less than) and so we have a tr
 
 
 $$
-\begin{aligned}2\left(-5-5\right)&\overset{?}{\operatorname*{\operatorname*{\operatorname*{\operatorname*{\leq}}}}}4\left(-5\right)\\-20&\leq-20\quad\mathrm{OK}\end{aligned}
-$$
-
-
-
-$$
 \begin{array}{l}
 z=-5 \; in \;  2(z-5) \leq  4z \\
 2z - 10  \leq 4z  \\
 z  \leq 7   
 \end{array}
+$$This is the same inequality with a different value so let’s check that.
+
 $$
+\begin{aligned}2\left(-5-5\right)&\overset{?}{\operatorname*{\operatorname*{\operatorname*{\operatorname*{\leq}}}}}4\left(-5\right)\\-20&\leq-20\quad\mathrm{OK}\end{aligned}
+$$
+In this case -20 is less than or equal to -20 (in this case it’s equal) and so again we get a true inequality and so z=−5z=−5 satisfies the inequality and so will be a solution.
+
+
+
+# Show that the following number aren't solution  to the given equation or inequality 
