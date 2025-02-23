@@ -87,6 +87,6 @@ $$
 
 z=  -12  \;  in  \;  2(z-5)  \leq  4z  \\
 2z  - 10  \leq 4z   \\
-z  \leq -5 
+z  \geq -5 
 \end{array} 
 $$
