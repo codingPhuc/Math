@@ -41,7 +41,8 @@ x = -\frac{27}{7}
 $$
 
 so the solution set  this problem is  : {$-\frac{27}{7}$}
-
+## verify the answer 
+plug  $-\frac{27}{7}$ in  we 
 
 $$
 \begin{array} {l}
