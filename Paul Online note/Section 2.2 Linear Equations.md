@@ -100,8 +100,16 @@ $$
  \frac{2}{x + 2}   = \frac{-x}{ x^2  +5x  + 6}  \\
  \frac{2}{x + 2}     =  \frac{-x}{ (x +  2) (x + 3)} \\
 2\cdot (x + 3)  =  -x  \\
-
+x  = -2
 \end{array} 
 $$
 ![[Section 2.2 Linear Equations 2025-02-24 16.15.55.excalidraw]]
 
+$$
+\begin{array} {l}
+ \frac{2}{x + 2}   = 4 -  \frac{2x}{x+1}  \\
+ \frac{2}{x + 2}     =  \frac{-x}{ (x +  2) (x + 3)} \\
+2\cdot (x + 3)  =  -x  \\
+x  = -2
+\end{array} 
+$$
