@@ -152,7 +152,9 @@ $$
 
 $$
 \begin{array}{l}
-\frac{3y + 4 }{ y - 1} = 2  +  \frac{7}{y_{}
+\frac{3y + 4 }{ y - 1} = 2  +  \frac{7}{y-1}  \\
+3y +4   =  2(y - 1) + 7  \\
+3y + 4  = 2y - 2  +  7 
 \end{array}
 
 $$
