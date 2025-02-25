@@ -92,8 +92,6 @@ $$
 
 
 
-#  #Practice_Exercise 
-
 
 $$
 \begin{array} {l}
@@ -116,3 +114,14 @@ x  = -1
 $$
 
 So , we arrive  at the single x that we need to avoid . Therefore , this equation have no solution 
+
+
+#  #Practice_Exercise 
+
+$$
+\begin{array} {l}
+4x - 7  ( 2 - x )  =  3x  + 2   \\
+4x - 14  +  7x  =  3x + 2  \\
+
+\end{array}
+$$  
