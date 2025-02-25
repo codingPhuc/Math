@@ -115,4 +115,4 @@ x  = -1
 \end{array} 
 $$
 
-So , we arrive  at the s
+So , we arrive  at the single x that we need to avoid . Therefore , this equation have no solution 
