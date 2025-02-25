@@ -164,6 +164,8 @@ So , we arrive at the single z  we need to avoid . Therefore , this solution hav
 $$
 \begin{array} {l }
 \frac{4t}{t^2   -  25}  = \frac{1}{5-t  }  \\
-\frac{4t}{(t  - 5) ( t+ 5)  = 
+\frac{4t}{(t  - 5) ( t+ 5)   }= \frac{1}{5-t  }   \\
+4t  =  -t  - 5   \\
+t =  -\frac{5}{}
 \end{array} 
 $$
