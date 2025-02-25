@@ -107,9 +107,9 @@ $$
 
 $$
 \begin{array} {l}
- \frac{2}{x + 2}   = 4 -  \frac{2x}{x+1}  \\
- \frac{2}{x + 2}     =  \frac{-x}{ (x +  2) (x + 3)} \\
-2\cdot (x + 3)  =  -x  \\
-x  = -2
+ \frac{2}{x + 1}   = 4 -  \frac{2x}{x+1}  \\
+2  = 4(x + 1 ) - 2x\\
+2  =4x +  4- 2x   \\
+x  = 
 \end{array} 
 $$
