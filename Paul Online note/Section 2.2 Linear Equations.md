@@ -94,5 +94,10 @@ $$
 
 #  #Practice_Exercise 
 
-2/
+
+$$
+\begin{array} {l}
+ \\
+\end{array} 
+$$
 
