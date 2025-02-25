@@ -98,6 +98,8 @@ $$
 $$
 \begin{array} {l}
  \frac{2}{x + 2}   = \frac{-x}{ x^2  +5x  + 6}  \\
+ \frac{2}{x + 2}     =  \frac{-x}{ (x +  2) (x + 3)} \\
+2\cdot (x + 3)  =  -x  \\
 
 \end{array} 
 $$
