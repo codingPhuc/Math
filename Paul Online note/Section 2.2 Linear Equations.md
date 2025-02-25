@@ -103,6 +103,7 @@ $$
 x  = -2
 \end{array} 
 $$
+So  , we get a solution in the list of number we need to avoid 
 ![[Section 2.2 Linear Equations 2025-02-24 16.15.55.excalidraw]]
 
 $$
@@ -110,6 +111,6 @@ $$
  \frac{2}{x + 1}   = 4 -  \frac{2x}{x+1}  \\
 2  = 4(x + 1 ) - 2x\\
 2  =4x +  4- 2x   \\
-x  = 
+x  = -1 
 \end{array} 
 $$
