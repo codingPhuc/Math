@@ -159,4 +159,4 @@ y = 1
 \end{array}
 
 $$
-So , the only
+So , we arrive at the single z  we need to avoid . Therefore , this solution have no answer 
