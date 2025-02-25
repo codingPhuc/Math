@@ -172,7 +172,7 @@ $$From this we can also see that we’ll need to avoid t=5t=5 and t=−5t=−
 \begin{array} {l }
 \frac{5x}{3x  -  3 } + \frac{6}{x + 2 }  = \frac{5}{3}  \\
 \frac{5x}{3 (x  -  1) } + \frac{6}{x + 2 }  = \frac{5}{3}  \\
- 
+ 5x(x + 2 )  +  6\cdot 3(x - 1 )  = 
 \end{array} 
 $$
-From this we can also see that we’ll need to avoid x=t=5 and t=−5t=−5. Remember that we have to avoid division by zero and we will clearly get division by zero with each of these values of tt
+From this we can also see that we’ll need to avoid x=-2  and  x  =1  a. Remember that we have to avoid division by zero and we will clearly get division by zero with each of these values of xx
