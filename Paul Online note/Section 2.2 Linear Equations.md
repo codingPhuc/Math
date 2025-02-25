@@ -103,7 +103,7 @@ $$
 x  = -2
 \end{array} 
 $$
-So  , we get a solution in the list of number we need to avoid 
+So  , we get a solution in the list of number we need to avoid so we can't get division by  0 and we can't used it  as a solution  . That okay that just mean this equation have no solution 
 ![[Section 2.2 Linear Equations 2025-02-24 16.15.55.excalidraw]]
 
 $$
@@ -114,3 +114,5 @@ $$
 x  = -1 
 \end{array} 
 $$
+
+So , we arrive  at the s
