@@ -138,4 +138,10 @@ $$
 ![[Pasted image 20250224163008.png]] 
 
 
-$$$$
+$$
+\begin{array}{l}
+\frac{4-2z}{ 3}  = \frac{3}{4} -  \frac{5z}{ 6}  \\
+
+\end{array}{}
+
+$$
