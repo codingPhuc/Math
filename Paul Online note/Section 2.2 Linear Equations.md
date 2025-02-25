@@ -168,4 +168,10 @@ $$
 4t  =  -t  - 5   \\
 t =  -\frac{5}{5} =   - 1    
 \end{array} 
-$$From this we can also see that we’ll need to avoid t=5t=5 and t=−5t=−5. Remember that we have to avoid division by zero and we will clearly get division by zero with each of these values of tt.
+$$From this we can also see that we’ll need to avoid t=5t=5 and t=−5t=−5. Remember that we have to avoid division by zero and we will clearly get division by zero with each of these values of tt.$$
+\begin{array} {l }
+\frac{5x}{3x  -  3 } + \frac{6}{x + 2 }  = \frac{5}{3}  \\
+\frac{5x}{3x  -  3 } + \frac{6}{x + 2 }  = \frac{5}{3}  \\
+ 
+\end{array} 
+$$
