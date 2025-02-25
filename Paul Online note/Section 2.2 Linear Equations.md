@@ -142,7 +142,9 @@ $$
 \begin{array}{l}
 \frac{4-2z}{  3}  = \frac{3}{4} -  \frac{5z}{ 6}  \\
 4\cdot (4-2z )  =  3\cdot 3  - 2\cdot  5z  \\
-16  -  
+16  -  8z  = 9 - 10z   \\
+2z   =  -7  \\
+z  = -\frac{7}{2} 
 \end{array}{}
 
 $$
