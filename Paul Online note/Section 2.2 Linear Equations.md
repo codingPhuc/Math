@@ -175,7 +175,7 @@ $$From this we can also see that we’ll need to avoid t=5t=5 and t=−5t=−
  5x(x + 2 )  +  6\cdot 3(x - 1 )  = (x -1 ) (x + 2  ) 5 \\
 5x^2  +  10x  + 18x  -  18  =  (x^2  + 2x  - x  - 2) 5  \\
 5x^2  +  10x  + 18x  -  18  =  5x^2 + 10x  - 5x  - 10   \\
-   18x  -  18  =   8    - 5x  - 10  
+   x   =   \frac{8}{23}    
 \end{array} 
 $$
 From this we can also see that we’ll need to avoid x=-2  and  x  =1  a. Remember that we have to avoid division by zero and we will clearly get division by zero with each of these values of xx
