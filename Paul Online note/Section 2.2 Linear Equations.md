@@ -173,7 +173,9 @@ $$From this we can also see that we’ll need to avoid t=5t=5 and t=−5t=−
 \frac{5x}{3x  -  3 } + \frac{6}{x + 2 }  = \frac{5}{3}  \\
 \frac{5x}{3 (x  -  1) } + \frac{6}{x + 2 }  = \frac{5}{3}  \\
  5x(x + 2 )  +  6\cdot 3(x - 1 )  = (x -1 ) (x + 2  ) 5 \\
-5x^2  +  10x  + 18x  -  18  =  (x^2  )
+5x^2  +  10x  + 18x  -  18  =  (x^2  + 2x  - x  - 2) 5  \\
+5x^2  +  10x  + 18x  -  18  =  5x^2 + 10x  - 5x  - 10   \\
+   18x  -  18  =   8    - 5x  - 10  
 \end{array} 
 $$
 From this we can also see that we’ll need to avoid x=-2  and  x  =1  a. Remember that we have to avoid division by zero and we will clearly get division by zero with each of these values of xx
