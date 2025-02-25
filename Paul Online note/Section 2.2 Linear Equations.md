@@ -97,7 +97,9 @@ $$
 
 $$
 \begin{array} {l}
- \\
+ \frac{2}{x + 2}   = \frac{-x}{ x^2  +5x  + 6}  \\
+
 \end{array} 
 $$
+![[Section 2.2 Linear Equations 2025-02-24 16.15.55.excalidraw]]
 
