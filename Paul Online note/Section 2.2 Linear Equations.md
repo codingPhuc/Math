@@ -140,8 +140,9 @@ $$
 
 $$
 \begin{array}{l}
-\frac{4-2z}{ 3}  = \frac{3}{4} -  \frac{5z}{ 6}  \\
-
+\frac{4-2z}{  3}  = \frac{3}{4} -  \frac{5z}{ 6}  \\
+4\cdot (4-2z )  =  3\cdot 3  - 2\cdot  5z  \\
+16  -  
 \end{array}{}
 
 $$
