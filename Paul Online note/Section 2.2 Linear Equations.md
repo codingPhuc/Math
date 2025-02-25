@@ -148,3 +148,11 @@ z  = -\frac{7}{2}
 \end{array}{}
 
 $$
+
+
+$$
+\begin{array}{l}
+\frac{3y + 4 }{ y - 1} = 2  +  \frac{7}{y_{}
+\end{array}
+
+$$
