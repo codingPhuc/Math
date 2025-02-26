@@ -1,0 +1,1 @@
+We will now look at the section  word problem of linear algebra .  This is usally t
