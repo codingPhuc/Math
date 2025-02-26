@@ -60,13 +60,17 @@ $$
 $$
 So , it is possible for the student  to get a B  in the class . All the student need to do is get  at least 84  on the third exam 
 
-1.  read the problem 
+1 read the problem 
 We want to build a set of shelves. The width of the set of shelves needs to be 4 times the height of the set of shelves and the set of shelves must have three shelves in it. If there are 72 feet of wood to use to build the set of shelves what should the dimensions of the set of shelves be? 
 
-1. read the problems carefully to create a bullet list 
+2 read the problems carefully to create a bullet list 
 build a set of shelves 
 - width 
 	- 4 times the height 
 - height 
-- three shelves in it 
 
+- height 
+	-  three shelves in it 
+- 
+
+3 represent one of the unknown quantity with a variable and try to relate other unknown qualities 
