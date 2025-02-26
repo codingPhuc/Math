@@ -31,7 +31,11 @@ $$
 $$
 if the grade percentage is 90 or higher the student will get A . Likewise , if the grade percentage is between  0.8 and 0.9 the student will get a B 
 
-we know that the total point is  
+we know that the total point is  350  and the student have the total point of  
+$$
+4+8+7+7+9+78+83+p=196+p
+$$
+The smallest possible percentage of A is  0.9 and if  p  is the minimum require score for an A  we will 
 
 $$
 4 +  8 +  7 +  7 +  9 + 78 + 83  + x =  329 
