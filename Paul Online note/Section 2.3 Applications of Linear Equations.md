@@ -23,6 +23,9 @@ A student
 - first two exam  score are  78 and  83 
 - 329 is the minimum score to get an A  
 
+
+
+
 $$
 4 +  8 +  7 +  7 +  9 + 78 + 83  + x =  329 
 $$
