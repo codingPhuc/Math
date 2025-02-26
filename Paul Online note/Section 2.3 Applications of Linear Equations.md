@@ -35,7 +35,12 @@ we know that the total point is  350  and the student have the total point of
 $$
 4+8+7+7+9+78+83+p=196+p
 $$
-The smallest possible percentage of A is  0.9 and if  p  is the minimum require score for an A  we will 
+The smallest possible percentage of A is  0.9 and if  p  is the minimum require score for an A  we will get the following  equation 
+$$
+\frac{196+  p}{ 350} = 0.9
+
+$$
+this is the liner 
 
 $$
 4 +  8 +  7 +  7 +  9 + 78 + 83  + x =  329 
