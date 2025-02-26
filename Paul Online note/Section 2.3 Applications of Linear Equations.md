@@ -68,9 +68,8 @@ build a set of shelves
 - width 
 	- 4 times the height 
 - height 
-
 - height 
 	-  three shelves in it 
-- 
+- 72 feet of wood use to build the set of sh
 
 3 represent one of the unknown quantity with a variable and try to relate other unknown qualities 
