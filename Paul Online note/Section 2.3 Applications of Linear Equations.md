@@ -6,4 +6,5 @@ We will now look at the section  word problem of linear algebra .  This is usual
 3. Represent one of the unknow quantity with a variable and try too relate other unknown quantities  ( if there are of course) to this variable 
 4. If applicable sketch  a figure illustrating the problem . this may seem silly step , but it can be helpful with the next step 
 5. Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas and often the figure used in the previous step can be use for this 
-6. Solve the equation  in the pervious step  and write down the answer to all the question . It is importance to answer all the question you were asked Often you will be asked for serval quantities i
+6. Solve the equation  in the pervious step  and write down the answer to all the question . It is importance to answer all the question you were asked Often you will be asked for serval quantities in the answer and the equation will only give  one of them  
+7. Check your answer ,  this can be archive by  plugging in the answer into the equation  , but also use yo
