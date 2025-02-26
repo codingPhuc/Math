@@ -23,6 +23,7 @@ A student
 - first two exam  score are  78 and  83 
 - 329 is the minimum score to get an A  
 
+okey let start by defining   p the minimum score require  on the third exam 
 
 Now  , lets recall how grade are set  . Since there are no  weight   or anything  on the grades  , the grades will be set first on the following percentage  
 $$
