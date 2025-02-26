@@ -23,9 +23,9 @@ A student
 - homework  scores of 4, 8, 7, 7, and 9 
 - first two exam  score are  78 and  83 
 - 329 is the minimum score to get an A  
-3 request one of the unknow 
+3 represent one of the unknown quantity with a variable and try to relate other unknown qualities 
 okey let start by defining   p the minimum score require  on the third exam 
-
+4 if 
 Now  , lets recall how grade are set  . Since there are no  weight   or anything  on the grades  , the grades will be set first on the following percentage  
 $$
  \frac{actual \; point}{ total \; possible \; point }   = grade \;  percentage 
