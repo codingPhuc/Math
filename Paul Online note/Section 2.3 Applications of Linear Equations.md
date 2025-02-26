@@ -27,7 +27,7 @@ A student
 okey let start by defining   p the minimum score require  on the third exam 
 4 if applicable sketch a figure illustrating a problem 
 Now  , lets recall how grade are set  . Since there are no  weight   or anything  on the grades  , the grades will be set first on the following percentage  
-5 form a equation that will relate  known quantities with u
+5 form a equation that will relate  known quantities with unknown quantities .  
 $$
  \frac{actual \; point}{ total \; possible \; point }   = grade \;  percentage 
 
