@@ -24,7 +24,8 @@ A student
 - 329 is the minimum score to get an A  
 
 
-Now  , lets recall how grade are set  . Since there are no  with
+Now  , lets recall how grade are set  . Since there are no  weight   or anything  on the grades  , the grades will be set first on the following percentage  
+$$
 
 $$
 4 +  8 +  7 +  7 +  9 + 78 + 83  + x =  329 
