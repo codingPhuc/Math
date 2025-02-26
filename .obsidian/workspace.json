@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "536c47054d0e3ba2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Section 2.3 Applications of Linear Equations 2025-02-26 15.54.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Section 2.3 Applications of Linear Equations 2025-02-26 15.54.49.excalidraw"
+            }
+          },
+          {
             "id": "ef4d889b1bfbe6fb",
             "type": "leaf",
             "state": {
@@ -234,9 +246,11 @@
   },
   "active": "254257351503aa22",
   "lastOpenFiles": [
+    "Pasted Image 20250226155530_564.png",
+    "Excalidraw/Section 2.3 Applications of Linear Equations 2025-02-26 15.54.49.excalidraw.md",
+    "Paul Online note/Section 2.3 Applications of Linear Equations.md",
     "Pasted image 20250226155434.png",
     "Paul Online note/Section 2.2 Linear Equations.md",
-    "Paul Online note/Section 2.3 Applications of Linear Equations.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Radicals.md",
     "Paul Online note/Polynomials.md",
@@ -263,13 +277,11 @@
     "Introduction to algorithm.md",
     "python with math.md",
     "Pasted image 20250217150512.png",
-    "Untitled.md",
     "Professor Leonard/IMG_0599.JPG",
     "Professor Leonard/IMG_0600.JPG",
     "Professor Leonard/IMG_0603.JPG",
     "Professor Leonard/IMG_0601.JPG",
     "Pasted image 20250210124149.png",
-    "Professor Leonard/IMG_0605.JPG",
     "Professor Leonard",
     "Paul Online note",
     "template",
