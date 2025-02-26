@@ -26,6 +26,10 @@ A student
 
 Now  , lets recall how grade are set  . Since there are no  weight   or anything  on the grades  , the grades will be set first on the following percentage  
 $$
+ \frac{actual \; point}{ total \; possible \; point }   = grade \;  percentage 
+
+$$
+
 
 $$
 4 +  8 +  7 +  7 +  9 + 78 + 83  + x =  329 
