@@ -68,12 +68,13 @@ build a set of shelves
 - width 
 	- 4 times the height 
 - height 
-- height 
+- length  
 	-  three shelves in it 
 - 72 feet of wood use to build the set of shelves 
 what is the wood need to build the shelves 
 
 3 represent one of the unknown quantity with a variable and try to relate other unknown qualities 
+we will define the heigh , width and length as  the following variables 
 4 if applicable sketch a figure illustrating a problem  
 
 ![[Section 2.3 Applications of Linear Equations 2025-02-26 15.54.49.excalidraw]]
