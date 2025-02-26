@@ -11,4 +11,9 @@ We will now look at the section  word problem of linear algebra .  This is usual
 
 
 
-Example 1 In a certain Algebra class there is a total of 350 possible points. These points come from 5 homework sets that are worth 10 points each and 3 hour exams that are worth 100 points each. A student has received homework scores of 4, 8, 7, 7, and 9 and the first two exam scores are 78 and 83. Assuming that grades are assigned according to the standard scale and there are no weights assigned to any of the grades is it possible for the student to receive an A in the class and if so what is the minimum score on the third exam that will give an A? What about a B?
+Example 1 In a certain Algebra class there is a total of 350 possible points. These points come from 5 homework sets that are worth 10 points each and 3 hour exams that are worth 100 points each. A student has received homework scores of 4, 8, 7, 7, and 9 and the first two exam scores are 78 and 83. Assuming that grades are assigned according to the standard scale and there are no weights assigned to any of the grades is it possible for the student to receive an A in the class and if so what is the minimum score on the third exam that will give an A? What about a B? 
+
+350 possible points.
+- 5 homework sets 
+	- 10 points each 
+- 3 hour exams
