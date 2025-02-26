@@ -59,3 +59,11 @@ $$
 196+p=0.8(350)=280⇒p=280−196=84
 $$
 So , it is possible for the student  to get a B  in the class . All the student need to do is get  at least 84  on the third exam 
+
+
+We want to build a set of shelves. The width of the set of shelves needs to be 4 times the height of the set of shelves and the set of shelves must have three shelves in it. If there are 72 feet of wood to use to build the set of shelves what should the dimensions of the set of shelves be? 
+
+
+build a set of shelves 
+- width 
+	- 4 times the height 
