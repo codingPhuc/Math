@@ -25,8 +25,9 @@ A student
 - 329 is the minimum score to get an A  
 3 represent one of the unknown quantity with a variable and try to relate other unknown qualities 
 okey let start by defining   p the minimum score require  on the third exam 
-4 if 
+4 if applicable sketch a figure illustrating a problem 
 Now  , lets recall how grade are set  . Since there are no  weight   or anything  on the grades  , the grades will be set first on the following percentage  
+5 form a equation that will relate  known quantities with u
 $$
  \frac{actual \; point}{ total \; possible \; point }   = grade \;  percentage 
 
