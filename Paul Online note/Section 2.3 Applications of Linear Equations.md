@@ -20,4 +20,4 @@ Example 1 In a certain Algebra class there is a total of 350 possible points. T
 	- 100 points each 
 A student 
 - homework  scores of 4, 8, 7, 7, and 9
-- 
+- first two exam  score are  78 and  83 
