@@ -54,3 +54,4 @@ $$
 $$
 196+p=0.8(350)=280⇒p=280−196=84
 $$
+So , it is possible for the student  to get a B  in the class . All the student need to do is get  at least 84  on the third exam 
