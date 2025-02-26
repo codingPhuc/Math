@@ -29,7 +29,7 @@ $$
  \frac{actual \; point}{ total \; possible \; point }   = grade \;  percentage 
 
 $$
-
+if the grade percentage is 90 or higher the student will get A . Likewise , if the grade percentage is between  0.8 and 0.9 the student will get a B 
 
 $$
 4 +  8 +  7 +  7 +  9 + 78 + 83  + x =  329 
