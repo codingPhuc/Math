@@ -17,3 +17,7 @@ Example 1 In a certain Algebra class there is a total of 350 possible points. T
 - 5 homework sets 
 	- 10 points each 
 - 3 hour exams
+	- 100 points each 
+A student 
+- omework scores of 4, 8, 7, 7, and 9
+- 
