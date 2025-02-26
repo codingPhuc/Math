@@ -10,10 +10,10 @@ We will now look at the section  word problem of linear algebra .  This is usual
 7. Check your answer ,  this can be archive by  plugging in the answer into the equation  , but also use you intuition to make sense of it . Mistake can often be identify by the answer not making sense 
 
 
-
+ 1. read the problems 
 Example 1 In a certain Algebra class there is a total of 350 possible points. These points come from 5 homework sets that are worth 10 points each and 3 hour exams that are worth 100 points each. A student has received homework scores of 4, 8, 7, 7, and 9 and the first two exam scores are 78 and 83. Assuming that grades are assigned according to the standard scale and there are no weights assigned to any of the grades is it possible for the student to receive an A in the class and if so what is the minimum score on the third exam that will give an A? What about a B? 
-1. read the problems 
-2. read th 
+
+2. read the problems carefully to create a bullet list 
 350 possible points.
 - 5 homework sets 
 	- 10 points each 
@@ -23,7 +23,7 @@ A student
 - homework  scores of 4, 8, 7, 7, and 9 
 - first two exam  score are  78 and  83 
 - 329 is the minimum score to get an A  
-
+3 request one of the unknow 
 okey let start by defining   p the minimum score require  on the third exam 
 
 Now  , lets recall how grade are set  . Since there are no  weight   or anything  on the grades  , the grades will be set first on the following percentage  
