@@ -67,3 +67,5 @@ We want to build a set of shelves. The width of the set of shelves needs to be 4
 build a set of shelves 
 - width 
 	- 4 times the height 
+- height 
+- three shelves in it 
