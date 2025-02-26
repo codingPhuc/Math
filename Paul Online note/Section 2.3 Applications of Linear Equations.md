@@ -24,7 +24,7 @@ A student
 - 329 is the minimum score to get an A  
 
 
-
+Now  , lets recall how grade are set  . Since there are no  with
 
 $$
 4 +  8 +  7 +  7 +  9 + 78 + 83  + x =  329 
