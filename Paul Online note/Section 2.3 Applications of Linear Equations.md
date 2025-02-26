@@ -44,8 +44,13 @@ this is the liner equation that we will need to solve for p
 $$
 196+p=0.9(350)=315⇒p=315−196=119 
 $$
-So the minimum require score is 119  . This is a problem  since the exam is worth only 100 points . 
+So the minimum require score is 119  . This is a problem  since the exam is worth only 100 points .  In others words , the student will not get a A in algebra class  . Then how about a B 
+
+
 
 $$
-4 +  8 +  7 +  7 +  9 + 78 + 83  + x =  329 
+\frac{196+  p}{ 350} = 0.8  
+$$
+$$
+196+p=0.8(350)=280⇒p=280−196=84
 $$
