@@ -70,6 +70,7 @@ build a set of shelves
 - height 
 - height 
 	-  three shelves in it 
-- 72 feet of wood use to build the set of sh
-
+- 72 feet of wood use to build the set of shelves 
+what is the wood need to build the shelves 
+![[Pasted image 20250226155434.png]]
 3 represent one of the unknown quantity with a variable and try to relate other unknown qualities 
