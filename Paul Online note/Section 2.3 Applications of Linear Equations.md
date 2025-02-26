@@ -49,11 +49,12 @@ $$
 $$
 So the minimum require score is 119  . This is a problem  since the exam is worth only 100 points .  In others words , the student will not get a A in algebra class  . Then how about a B 
 
-
+6 solve the equation in the pervious step  and write down your answer to the equation 
 
 $$
 \frac{196+  p}{ 350} = 0.8  
 $$
+7 check your answer by plugging in the answer into the equation 
 $$
 196+p=0.8(350)=280⇒p=280−196=84
 $$
