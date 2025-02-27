@@ -193,4 +193,8 @@ in this cases the car will travel for  3.53 hours  before  meeting while  the fa
 
 1 read the problem 
 Two boats start out 100 miles apart and start moving to the right at the same time. The boat on the left is moving at twice the speed as the boat on the right. Five hours after starting the boat on the left catches up with the boat on the right. How fast was each boat moving? 
-2 read the problem create bull
+2 read the problem create bullet point 
+Two boats start out 100 miles 
+- boat on the left   twice speed  on the right  
+- boat on the right
+- 
