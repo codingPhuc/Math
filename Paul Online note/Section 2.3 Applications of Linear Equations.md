@@ -134,7 +134,9 @@ x = 27.07
 $$
 
 1 read the problem  
-Two cars are 500 miles apart and moving directly towards each other. One car is moving at a speed of 100 mph and the other is moving at 70 mph. Assuming that the cars start moving at the same time how long does it take for the two cars to meet? 
+Two cars are 500 miles apart and moving directly towards each other. One car is moving at a speed of 100 mph and the other is moving at 70 mph. Assuming that the cars start moving at the same time how long does it take for the two cars to meet?  
+
+2 read the problem carefully to create a bullet list 
 two  car 
 - 500 miles apart 
 - moving toward each other
@@ -142,4 +144,7 @@ two  car
 		- 100mph 
 	- second car 
 		- 70 mph 
+
+3 represent one of the unknown quantity with a variable and try to relate other unknown qualities 
 we will define  the variable t as the time for the two car to meet 
+
