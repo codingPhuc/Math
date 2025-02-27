@@ -281,8 +281,9 @@ so we need to mix  5 gallons of 35% solution to get 40% solution
 We have a 40% acid solution and we want 75 liters of a 15% acid solution. How much water should we put into the 40% solution to do this?
 $$ 
 \begin{array}{l}
-x. 0   +  (75  - x )\cdot 0.4   0.15\cdot 
-x = 5 \end{array}
+x. 0   +  (75  - x )\cdot 0.4  =  0.15\cdot75     \\
+x. 0   +  30 - 0.4x   =  0.15\cdot75
+\end{array}
 
 
 $$
