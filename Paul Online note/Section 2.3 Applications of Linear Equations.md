@@ -169,7 +169,7 @@ two  car
 - 500 miles apart 
 - moving toward each other
 	- first car 
-		-  star
+		-  start 1 hour latter 
 		- 100mph 
 	- second car 
 		- 70 mph 
