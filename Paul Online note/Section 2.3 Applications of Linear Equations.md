@@ -220,3 +220,9 @@ two envelope stuffing machines
 - Machine B can stuff a batch of envelopes in 3 hours 
 - How long would it take the two machines working together to stuff a batch of envelopes? 
 
+
+|             | total  hours | how much per hours |
+| ----------- | ------------ | ------------------ |
+| Machine  A  | 5            | 1/2                |
+| Machine B   | 3            | 1/3                |
+| Total hours | x            | 1/x                |
