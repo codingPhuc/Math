@@ -265,7 +265,8 @@ How much of a 50% alcohol solution should we mix with 10 gallons of a 35% soluti
 - 50% alcohol solution  how much ? 
 -  10 gallons of a  35% solution  
 
-
+define x is the amount need to be mix to create  a 40% solution 
+x50%  +  1
 
 
 
