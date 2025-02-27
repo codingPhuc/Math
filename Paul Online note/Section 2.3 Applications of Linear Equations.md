@@ -85,4 +85,4 @@ h =
 2 side h + w perimeter 
 4  l +  w perimeter 
 1 side  h + l perimeter 
-2( 2 (h+ w) ) +  4(2(l + w)) +  
+2( 2 (h+ w) ) +  4(2(l + w)) + 2(h +  l )   
