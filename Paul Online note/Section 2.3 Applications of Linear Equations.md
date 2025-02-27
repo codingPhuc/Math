@@ -121,3 +121,6 @@ original price of the shirt
 - on sale for $15.00 
 - marked down 35% 
 how much is the original price 
+3 represent one of the unknown quantity with a variable and try to relate other unknown qualities  
+we will define the original price as $15.00 
+
