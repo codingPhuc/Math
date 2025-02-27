@@ -252,7 +252,8 @@ Mary can clean an office complex in 5 hours. Working together John and Mary can 
 $$
 \begin{array}{l}
 \frac{1}{5}  + \frac{1}{x}  =  \frac{2}{7 } \\
-
+7x  +  35  = 10x  \\
+x = \frac{35}{3}
 \end{array}
 
 $$
