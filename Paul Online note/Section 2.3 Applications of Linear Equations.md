@@ -149,5 +149,5 @@ two  car
 we will define  the variable t as the time for the two car to meet 
 
 5 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas    
-since we know that both car travel at the same time 
+We know that both car travel  at the same time to meet each other , which help us identify 
 
