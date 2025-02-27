@@ -128,7 +128,7 @@ we know that that the original price have been marked down 35%  . Therefore , th
 $$
 \begin{array}{l}
 x  -  (x \cdot 35\% )  =15    \\
-   =  78.50  \\
+0.65 x     =  78.50  \\
 x = 68.26 
 \end{array}
 $$
