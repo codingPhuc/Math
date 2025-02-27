@@ -142,3 +142,4 @@ two  car
 		- 100mph 
 	- second car 
 		- 70 mph 
+we will define  the variable t as the time for the two car to meet 
