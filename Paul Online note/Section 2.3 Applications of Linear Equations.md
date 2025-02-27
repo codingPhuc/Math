@@ -228,14 +228,11 @@ two envelope stuffing machines
 | Total hours | x            | 1/x                |
 
 $$
-\begin{array}{l}
-r2\cdot5  + 100  =  2\cdot5\cdot  r2  \\
-5\cdot r2   =  100 \\
-r2  =  20 \; mph  \\
-r1  = 40 \; mph 
-\end{array}
-\begin{array}
 
+\begin{array}{l}
+\frac{1}{5}   +  \frac{1}{3}  = \frac{1}{x}  \\
+3x     +  5x =  15 \\
+x = \frac{15}{8}  
 \end{array}
-\frac{1}{5}   +  \frac{1}{3}  = \frac{1}{x} 
+
 $$
