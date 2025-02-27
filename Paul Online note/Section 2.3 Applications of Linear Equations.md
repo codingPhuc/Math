@@ -253,8 +253,8 @@ $$
 \begin{array}{l}
 \frac{1}{5}  + \frac{1}{x}  =  \frac{2}{7 } \\
 7x  +  35  = 10x  \\
-x = \frac{35}{3}   
+x = \frac{35}{3}    = 11.7 
 \end{array}
 $$
 
-So, it looks like it will take  the John    1.875 hours to stuff a batch of envelopes 
+So, it looks like it will take  the John   11.7  hours to clean the complex by himself 
