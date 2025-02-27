@@ -269,8 +269,9 @@ define x is the amount need to be mix to create  a 40% solution
 $$ 
 \begin{array}{l}
 x\cdot50\%  +  10\cdot35\%  =(10+ x)40\%  \\
-x\cdot50\% + 10\cdot35\%  = 4  +  40\%x 
-\end{array}
+x\cdot50\% + 10\cdot35\%  = 4  +  40\%x   \\
+0.1x =0.5
+x = \end{array}
 
 
 $$ 
