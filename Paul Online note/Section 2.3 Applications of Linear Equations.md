@@ -260,4 +260,8 @@ $$
 So, it looks like it will take  the John   11.7  hours to clean the complex by himself 
 
 
-How much of a 50% alcohol solution should we mix with 10 gallons of a 35% solution to get a 40% solution? 
+How much of a 50% alcohol solution should we mix with 10 gallons of a 35% solution to get a 40% solution?  
+
+50% alcohol solution 
+35% solution 
+We have a 40% acid solution and we want 75 liters of a 15% acid solution. How much water should we put into the 40% solution to do this?
