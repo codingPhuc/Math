@@ -246,15 +246,15 @@ Mary can clean an office complex in 5 hours. Working together John and Mary can 
 |             | total  hours | how much per hours |
 | ----------- | ------------ | ------------------ |
 | Mary        | 5            | 1/5                |
-| Machine B   | x            | 1/x                |
+| John        | x            | 1/x                |
 | Total hours | 3.5          | 1/3.5              |
 
 $$
 \begin{array}{l}
 \frac{1}{5}  + \frac{1}{x}  =  \frac{2}{7 } \\
 7x  +  35  = 10x  \\
-x = \frac{35}{3}
+x = \frac{35}{3}   
 \end{array}
-
 $$
 
+So, it looks like it will take  the John    1.875 hours to stuff a batch of envelopes 
