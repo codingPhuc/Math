@@ -164,6 +164,15 @@ so it will take them approximately  2.94 before meeting
 1 read the problem 
 Repeat the previous example except this time assume that the faster car will start 1 hour after slower car starts.
 2 read the problem and create bullet  list 
+2 read the problem carefully to create a bullet list 
+two  car 
+- 500 miles apart 
+- moving toward each other
+	- first car 
+		-  star
+		- 100mph 
+	- second car 
+		- 70 mph 
 
 
 
