@@ -232,7 +232,8 @@ $$
 \begin{array}{l}
 \frac{1}{5}   +  \frac{1}{3}  = \frac{1}{x}  \\
 3x     +  5x =  15 \\
-x = \frac{15}{8}  
+x = \frac{15}{8}    \\
 \end{array}
 
-$$
+$$ 
+So, it looks like it will take  the two machines  ,  working together ,  1.875 hours to stuff a batch of envelopes 
