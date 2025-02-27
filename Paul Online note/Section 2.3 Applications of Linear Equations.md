@@ -189,4 +189,8 @@ $$
 
 
 $$
-in this cases the car will travel for  3.53 hours  before  meeting while  the faster car will travel for 2
+in this cases the car will travel for  3.53 hours  before  meeting while  the faster car will travel for 2.53  
+
+1 read the problem 
+Two boats start out 100 miles apart and start moving to the right at the same time. The boat on the left is moving at twice the speed as the boat on the right. Five hours after starting the boat on the left catches up with the boat on the right. How fast was each boat moving? 
+2 read the problem create bull
