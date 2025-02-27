@@ -153,10 +153,10 @@ We know that both car travel  at the same time to meet each other , which help u
 $$
 \begin{array} {l}
 100 \cdot t   +  70 \cdot t  = 500     \\
-t  = 
+t  = 2.94 \; hour 
 \end{array} 
 
 
 
 $$
-
+so it will take them approximately  2.94 before meeting 
