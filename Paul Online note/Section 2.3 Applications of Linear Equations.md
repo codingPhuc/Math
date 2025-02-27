@@ -176,7 +176,16 @@ two  car
 
 3 represent one of the unknown  quantity with a  variable and  try to relate other unknown qualities we will define the variable t as the time for the two car to meet 
 
-We know that the fastest car travel later than the slowest car  by 1 hour    , which help us identify that the distance that each car travel will be different bases on the rate of each car and the fastest car will be late by one hour . Therefore , the rate of the first car will be multiply with t minus  1 plus rate of the second car multiply by t will equal to the total distance of 500  
-
 
 5 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas  
+
+We know that the fastest car travel later than the slowest car  by 1 hour    , which help us identify that the distance that each car travel will be different bases on the rate of each car and the fastest car will be late by one hour . Therefore , the rate of the first car will be multiply with t minus  1 plus rate of the second car multiply by t will equal to the total distance of 500  
+$$
+\begin{array} {l}
+100 \cdot (t   - 1 )    +  70 \cdot t  = 500     \\
+100t - 100  +   = 2.94 \; hour 
+\end{array} 
+
+
+
+$$
