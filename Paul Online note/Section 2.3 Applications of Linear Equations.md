@@ -197,4 +197,5 @@ Two boats start out 100 miles apart and start moving to the right at the same ti
 Two boats start out 100 miles 
 - boat on the left   twice speed  on the right  
 - boat on the right
-- 
+- Five hours after starting the boat on the left catches up with the boat on the right 
+
