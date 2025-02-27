@@ -203,9 +203,15 @@ We know that the boat on the left is moving twice as fast as the boat on the rig
 
 
 $$
-
-r2\cdot5  + 100  =  r2.2.5   
-9r2   =  100 
-r2  =  11 mph  
+\begin{array}{l}
+r2\cdot5  + 100  =  r2\cdot2\cdot5    \\
+9\cdot r2   =  100 \\
+r2  =  11 \; mph 
+\end{array}
+ \begin{array}{l}
+r2\cdot5  + 100  =  r2\cdot2\cdot5    \\
+9\cdot r2   =  100 \\
+r2  =  11 \; mph 
+\end{array}
 $$
 
