@@ -199,3 +199,5 @@ Two boats start out 100 miles
 - boat on the right
 - Five hours after starting the boat on the left catches up with the boat on the right 
 
+r1   = 2 r2 
+s = 100 
