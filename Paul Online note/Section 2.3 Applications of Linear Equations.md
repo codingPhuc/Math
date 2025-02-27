@@ -151,6 +151,12 @@ we will define  the variable t as the time for the two car to meet
 5 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas    
 We know that both car travel  at the same time to meet each other , which help us identify that the distance that each car travel will be different bases on the rate of each car . Therefore , the  rate of the first car multiply by t plus the rate of the second car multiply by t will equal to the total distance of 500 
 $$
-1
+\begin{array} {l}
+100 \cdot t   +  70 \cdot t  = 500     \\
+t  = 
+\end{array} 
+
+
+
 $$
 
