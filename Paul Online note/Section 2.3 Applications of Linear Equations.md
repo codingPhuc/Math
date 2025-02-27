@@ -250,5 +250,6 @@ Mary can clean an office complex in 5 hours. Working together John and Mary can 
 | Total hours | 3.5          | 1/3.5              |
 
 $$
-\frac{1}{5}  + \frac{1}{x}
+\frac{1}{5}  + \frac{1}{x}  =  \frac{1}{3.5}
 $$
+
