@@ -92,14 +92,15 @@ h =
 A calculator has been marked up 15% and is being sold for $78.50. How much did the store pay the manufacturer of the calculator?
 2 read the problem to create a bullet  list 
 calculator  
-- original price 
+- manufacturer price 
 	-  marked  up 15%
 How much did the store pay the manufacturer  of the calculator  ?  
 
 3 represent one of the unknown quantity with a variable and try to relate other unknown qualities 
-we will define the  original  price as variable x   . 
+we will define the  manufacturer  price as variable x   . 
 
 
 
 
-4 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas 
+5 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas   
+we know that  the price have been mark up by 15% causing the price
