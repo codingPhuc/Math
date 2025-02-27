@@ -83,4 +83,6 @@ h =
 ![[Section 2.3 Applications of Linear Equations 2025-02-26 15.54.49.excalidraw]]
 
 2 side h + w perimeter 
-2 top heig
+4  h +  w perimeter 
+1 side  h + l perimeter 
+2(h + )
