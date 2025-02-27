@@ -98,6 +98,8 @@ How much did the store pay the manufacturer  of the calculator  ?
 
 3 represent one of the unknown quantity with a variable and try to relate other unknown qualities 
 we will define the  original  price as variable x   . 
-1. Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas and often the figure used in the previous step can be use for this  
 
 
+
+
+4 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas 
