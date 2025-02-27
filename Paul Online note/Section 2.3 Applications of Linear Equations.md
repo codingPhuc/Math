@@ -95,3 +95,5 @@ calculator
 - original price 
 	-  marked  up 15%
 How much did the store pay the manufacturer  of the calculator  ?  
+
+we will define the  original  price as variable x   . 
