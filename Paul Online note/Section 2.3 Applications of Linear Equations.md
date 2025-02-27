@@ -148,3 +148,7 @@ two  car
 3 represent one of the unknown quantity with a variable and try to relate other unknown qualities 
 we will define  the variable t as the time for the two car to meet 
 
+5 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas    
+500 - s   = 100 . t1 
+500 = rate . t 
+
