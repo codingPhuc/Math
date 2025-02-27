@@ -149,7 +149,5 @@ two  car
 we will define  the variable t as the time for the two car to meet 
 
 5 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas    
-500 - s1   = 100 . t1 
-500 = rate . t 
-500  - s1 = 70.t2 
+since we know that both car travel at the same time 
 
