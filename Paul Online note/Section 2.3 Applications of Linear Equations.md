@@ -184,9 +184,9 @@ $$
 \begin{array} {l}
 100 \cdot (t   - 1 )    +  70 \cdot t  = 500     \\
 100t - 100  + 70t  = 500 \; hour   \\
-100t - 100  + 70t  = 2.94 \; hour 
+100t - 100  + 70t  = 3.52  \; hour 
 \end{array} 
 
 
-
 $$
+in this cases the car will travel for  3.53 hours  before  meeting while  the faster car will travel for 2
