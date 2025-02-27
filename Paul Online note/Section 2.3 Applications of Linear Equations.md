@@ -199,7 +199,7 @@ Two boats start out 100 miles
 - boat on the right
 - Five hours after starting the boat on the left catches up with the boat on the right 
 
-We know that the boat on the left is moving twice as fast as the boat on the right and both boat are 100 miles  apart at the start , after five hours the boat on the left move  faster than the boat on the right. Therefore  , the rate of the right boat multiply by time that reach the second  plus the distance between the boat at the start 
+We know that the boat on the left is moving twice as fast as the boat on the right and both boat are 100 miles  apart at the start , after five hours the boat on the left move  faster than the boat on the right. Therefore  , the rate of the right boat multiply by time that reach the second  plus the distance between the boat at the start  , equal to  
 
 r2.5  + 100  =  r2.2.5  
 $$
