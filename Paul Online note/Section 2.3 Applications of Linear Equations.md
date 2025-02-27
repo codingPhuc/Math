@@ -103,4 +103,4 @@ we will define the  manufacturer  price as variable x   .
 
 
 5 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas   
-we know that  the price have been mark up by 15% causing the price
+we know that  the price have been mark up by 15% causing the price being sold  for $78.50 .  Therefore, 
