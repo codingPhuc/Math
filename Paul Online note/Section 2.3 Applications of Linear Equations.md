@@ -103,7 +103,7 @@ we will define the  manufacturer  price as variable x   .
 
 
 5 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas   
-we know that  the price have been mark up by 15% causing the price being sold  for $78.50 .  Therefore, the manufacture price multiply by the  mark up percentage  will be equal to the sold price creating this formula 
+we know that  the price have been mark up by 15% causing the price being sold  for $78.50 .  Therefore, the manufacture price , plus 15%  of that price , equal to the selling  price creating this formula 
 
 
 $$
