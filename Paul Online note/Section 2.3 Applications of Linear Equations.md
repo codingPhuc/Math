@@ -237,3 +237,8 @@ x = \frac{15}{8}    \\
 
 $$ 
 So, it looks like it will take  the two machines  ,  working together ,  1.875 hours to stuff a batch of envelopes 
+
+
+read the problem  
+Mary can clean an office complex in 5 hours. Working together John and Mary can clean the office complex in 3.5 hours. How long would it take John to clean the office complex by himself?
+ q
