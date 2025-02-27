@@ -81,3 +81,6 @@ h =
 4 if applicable sketch a figure illustrating a problem  
 
 ![[Section 2.3 Applications of Linear Equations 2025-02-26 15.54.49.excalidraw]]
+
+2 side h + w perimeter 
+2 top heig
