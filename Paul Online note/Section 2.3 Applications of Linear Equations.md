@@ -183,7 +183,7 @@ We know that the fastest car travel later than the slowest car  by 1 hour    , w
 $$
 \begin{array} {l}
 100 \cdot (t   - 1 )    +  70 \cdot t  = 500     \\
-100t - 100  +   = 2.94 \; hour 
+100t - 100  + 70t  = 2.94 \; hour 
 \end{array} 
 
 
