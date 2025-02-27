@@ -108,7 +108,8 @@ we know that  the price have been mark up by 15% causing the price being sold  f
 
 $$
 \begin{array}{l}
-x  +  (x \cdot 15\% )  =78.50   \\
-x 
+x  +  (x \cdot 15\% )  =78.50    \\
+\frac{23}{20}x   =  78.50  \\
+
 \end{array}
 $$
