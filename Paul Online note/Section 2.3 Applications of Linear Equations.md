@@ -229,7 +229,13 @@ two envelope stuffing machines
 
 $$
 \begin{array}{l}
-\frac{1}{5}   +  \frac{1}{3}  = \frac{1}{x} 
-\end{array }
+r2\cdot5  + 100  =  2\cdot5\cdot  r2  \\
+5\cdot r2   =  100 \\
+r2  =  20 \; mph  \\
+r1  = 40 \; mph 
+\end{array}
+\begin{array}
 
+\end{array}
+\frac{1}{5}   +  \frac{1}{3}  = \frac{1}{x} 
 $$
