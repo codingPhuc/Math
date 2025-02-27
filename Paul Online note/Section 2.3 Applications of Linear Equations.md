@@ -128,7 +128,8 @@ we know that that the original price have been marked down 35%  . Therefore , th
 $$
 \begin{array}{l}
 x  -  (x \cdot 35\% )  =15    \\
-0.65 x     =  78.50  \\
-x = 68.26 
+0.65 x     =  15  \\
+x = 27.07
 \end{array}
 $$
+Two cars are 500 miles apart and moving directly towards each other. One car is moving at a speed of 100 mph and the other is moving at 70 mph. Assuming that the cars start moving at the same time how long does it take for the two cars to meet? 
