@@ -246,5 +246,9 @@ Mary can clean an office complex in 5 hours. Working together John and Mary can 
 |             | total  hours | how much per hours |
 | ----------- | ------------ | ------------------ |
 | Mary        | 5            | 1/5                |
-| Machine B   |              | 1/3.5              |
-| Total hours | 3.5          | 1/x                |
+| Machine B   | x            | 1/x                |
+| Total hours | 3.5          | 1/3.5              |
+
+$$
+\frac{1}{5}  + \frac{1}{x}
+$$
