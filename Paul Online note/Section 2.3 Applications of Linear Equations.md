@@ -94,3 +94,4 @@ A calculator has been marked up 15% and is being sold for $78.50. How much did t
 calculator  
 - original price 
 	-  marked  up 15%
+How much did the store pay the manufacturer  of the calculator  ?  
