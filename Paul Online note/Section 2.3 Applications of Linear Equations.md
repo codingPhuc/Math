@@ -110,6 +110,6 @@ $$
 \begin{array}{l}
 x  +  (x \cdot 15\% )  =78.50    \\
 \frac{23}{20}x   =  78.50  \\
-
+x = 68.26 
 \end{array}
 $$
