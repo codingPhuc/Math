@@ -277,3 +277,14 @@ x = 5 \end{array}
 $$ 
 
 so we need to mix  4 gallons of 35% solution to get 40% solution 
+
+
+$$ 
+\begin{array}{l}
+x\cdot50\%  +  10\cdot35\%  =(10+ x)40\%  \\
+x\cdot50\% + 10\cdot35\%  = 4  +  40\%x   \\
+0.1x =0.5
+x = 5 \end{array}
+
+
+$$
