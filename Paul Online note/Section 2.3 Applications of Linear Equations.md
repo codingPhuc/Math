@@ -266,7 +266,14 @@ How much of a 50% alcohol solution should we mix with 10 gallons of a 35% soluti
 -  10 gallons of a  35% solution  
 
 define x is the amount need to be mix to create  a 40% solution 
-$$x\cdot50\%  +  10\cdot35\%  =40\%$$
+$$ 
+\begin{array}{l}
+x\cdot50\%  +  10\cdot35\%  =(10+ x)40\%  \\
+
+\end{array}
+
+
+$$ 
 
 
 
