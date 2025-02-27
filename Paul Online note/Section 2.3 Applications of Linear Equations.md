@@ -174,5 +174,7 @@ two  car
 	- second car 
 		- 70 mph 
 
-3 represent one of the unknown  quantity with a  varaible and  try to relate other unknown 
+3 represent one of the unknown  quantity with a  variable and  try to relate other unknown qualities we will define the variable t as the time for the two car to meet 
+
+We know that the fastest car travel later than the second car b by  
 
