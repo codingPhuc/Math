@@ -86,3 +86,7 @@ h =
 4  l +  w perimeter 
 1 side  h + l perimeter 
 2( 2 (h+ w) ) +  4(2(l + w)) + 2(h +  l )   
+
+
+
+A calculator has been marked up 15% and is being sold for $78.50. How much did the store pay the manufacturer of the calculator?
