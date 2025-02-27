@@ -174,5 +174,5 @@ two  car
 	- second car 
 		- 70 mph 
 
-
+3 represent one of the unknown  quantity with a  varaible and  try to relate other unknown 
 
