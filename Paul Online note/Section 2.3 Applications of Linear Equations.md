@@ -271,11 +271,9 @@ $$
 x\cdot50\%  +  10\cdot35\%  =(10+ x)40\%  \\
 x\cdot50\% + 10\cdot35\%  = 4  +  40\%x   \\
 0.1x =0.5
-x = \end{array}
+x = 5 \end{array}
 
 
 $$ 
 
-
-
-We have a 40% acid solution and we want 75 liters of a 15% acid solution. How much water should we put into the 40% solution to do this?
+so we need to mix  4 gallons of 35% solution to get 40% solution 
