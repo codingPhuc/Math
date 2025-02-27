@@ -199,10 +199,9 @@ Two boats start out 100 miles
 - boat on the right
 - Five hours after starting the boat on the left catches up with the boat on the right 
 
-r1   = 2 r2 
-s = 100 
+We know that the boat on the right  
 
-r2.5  + 100  =  r1.5  
+r2.5  + 100  =  r2.2.5  
 $$
 
 
