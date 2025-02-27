@@ -206,12 +206,11 @@ $$
 \begin{array}{l}
 r2\cdot5  + 100  =  r2\cdot2\cdot5    \\
 9\cdot r2   =  100 \\
-r2  =  11 \; mph 
+r2  =  11 \; mph  \\
+r1  = 22 \; mph 
 \end{array}
- \begin{array}{l}
-r2\cdot5  + 100  =  r2\cdot2\cdot5    \\
-9\cdot r2   =  100 \\
-r2  =  11 \; mph 
-\end{array}
+ 
 $$
+
+so the boat on the right travel at  11 mph  and r1 travel a
 
