@@ -201,3 +201,7 @@ Two boats start out 100 miles
 
 r1   = 2 r2 
 s = 100 
+
+r2.t  + 100  =  r1.t  
+
+
