@@ -112,4 +112,9 @@ x  +  (x \cdot 15\% )  =78.50    \\
 \frac{23}{20}x   =  78.50  \\
 x = 68.26 
 \end{array}
-$$
+$$ 
+
+1 read the problem 
+A shirt is on sale for $15.00 and has been marked down 35%. How much was the shirt being sold for before the sale?
+2 read the problem to create a bullet  list 
+original price of the shirt  15.00 
