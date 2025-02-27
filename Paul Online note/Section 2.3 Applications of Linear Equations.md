@@ -214,4 +214,3 @@ $$
 
 so the boat on the right travel at  20 mph  and r1 travel at 40 mph 
 
-
