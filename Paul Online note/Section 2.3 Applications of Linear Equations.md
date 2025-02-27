@@ -223,6 +223,13 @@ two envelope stuffing machines
 
 |             | total  hours | how much per hours |
 | ----------- | ------------ | ------------------ |
-| Machine  A  | 5            | 1/2                |
+| Machine  A  | 5            | 1/5                |
 | Machine B   | 3            | 1/3                |
 | Total hours | x            | 1/x                |
+
+$$
+\begin{array}{l}
+\frac{1}{5}   +  \frac{1}{3}  = \frac{1}{x} 
+\end{array }
+
+$$
