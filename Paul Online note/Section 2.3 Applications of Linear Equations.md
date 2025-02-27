@@ -122,5 +122,6 @@ original price of the shirt
 - marked down 35% 
 how much is the original price 
 3 represent one of the unknown quantity with a variable and try to relate other unknown qualities  
-we will define the original price as $15.00 
-
+we will define the original price as  p  
+5 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas   
+we know that 
