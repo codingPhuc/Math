@@ -214,3 +214,4 @@ $$
 
 so the boat on the right travel at  20 mph  and r1 travel at 40 mph 
 
+An office has two envelope stuffing machines. Machine A can stuff a batch of envelopes in 5 hours, while Machine B can stuff a batch of envelopes in 3 hours. How long would it take the two machines working together to stuff a batch of envelopes? 
