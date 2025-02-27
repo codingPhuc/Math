@@ -282,7 +282,8 @@ We have a 40% acid solution and we want 75 liters of a 15% acid solution. How mu
 $$ 
 \begin{array}{l}
 x. 0   +  (75  - x )\cdot 0.4  =  0.15\cdot75     \\
-x. 0   +  30 - 0.4x   =  0.15\cdot75
+x. 0   +  30 - 0.4x   =  11.25  \\
+x = 46.875
 \end{array}
 
 
