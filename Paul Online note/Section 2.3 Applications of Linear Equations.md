@@ -136,4 +136,9 @@ $$
 1 read the problem  
 Two cars are 500 miles apart and moving directly towards each other. One car is moving at a speed of 100 mph and the other is moving at 70 mph. Assuming that the cars start moving at the same time how long does it take for the two cars to meet? 
 two  car 
-- 500 miles apar
+- 500 miles apart 
+- moving toward each other
+	- first car 
+		- 100mph 
+	- second car 
+		- 70 mph 
