@@ -117,4 +117,7 @@ $$
 1 read the problem 
 A shirt is on sale for $15.00 and has been marked down 35%. How much was the shirt being sold for before the sale?
 2 read the problem to create a bullet  list 
-original price of the shirt  15.00 
+original price of the shirt  
+- on sale for $15.00 
+- marked down 35% 
+how much is the original price 
