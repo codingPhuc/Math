@@ -124,4 +124,11 @@ how much is the original price
 3 represent one of the unknown quantity with a variable and try to relate other unknown qualities  
 we will define the original price as  p  
 5 Form an equation that will relate known quantities with unknown quantities . To do this make use of known formulas   
-we know that that the original price have been marked down 35%  . Therefore , the original  price  , subtract by 35% or the 
+we know that that the original price have been marked down 35%  . Therefore , the original  price  , subtract by 35% or the discounted price , equal to the selling price creating this formula 
+$$
+\begin{array}{l}
+x  -  (x \cdot 35\% )  =15    \\
+   =  78.50  \\
+x = 68.26 
+\end{array}
+$$
