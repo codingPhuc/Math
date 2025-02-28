@@ -298,4 +298,7 @@ $$
 A widget is being sold in a store for $135.40 and has been marked up 7%. How much did the store pay for the widget?
 2 read the problem again to create bullet list : 
 widget sold in a store 
--  $135.40 marked up 7% 
+-  $135.40 marked up 7%  
+how much did the store pay for the widget 
+3 represent the unknown  qualities as a variable and try to  represent  other unknown qualities 
+4 
