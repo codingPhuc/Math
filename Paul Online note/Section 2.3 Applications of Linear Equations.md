@@ -294,4 +294,8 @@ $$
 
 # #Practice_Exercise 
 
-
+1 read the Problem 
+A widget is being sold in a store for $135.40 and has been marked up 7%. How much did the store pay for the widget?
+2 read the problem again to create bullet list : 
+widget sold in a store 
+-  $135.40 marked up 7% 
