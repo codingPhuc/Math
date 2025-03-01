@@ -321,4 +321,12 @@ A store is having a 30% off sale and one item is now being sold for $9.95. What 
 What was the original price of the item?   
 3 represent the unknown  qualities with   a variable  try to represent other unknown qualities 
 we assign  original price of the item as variable  p  
-5  From an equation relate unknown qualities with known qua
+5  From an equation relate unknown qualities with known qualities 
+
+$$
+\begin{array}{l}
+  p -  ( p  \cdot 0.3)  =  9.95     \\
+p  =   9.95\cdot 100 \div  107  \\
+p   = 126.54 
+\end{array}
+$$
