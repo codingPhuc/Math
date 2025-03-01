@@ -50,8 +50,8 @@ $$
 solve for x 
 $$
 \begin{array}{l}
-\frac{1}{a}   =  \frac{1}{b }  +  \frac{1}{c}     \\
-bc   = ac + ab   \\
+y   =  \frac{4 -3x}{1+8x}    \\
+y+8xy  = ac + ab   \\
 bc  -  ac    =  ab  \\
 c   = \frac{ab}{b-a}
 \end{array}
