@@ -425,8 +425,9 @@ $$
 \begin{array}{l}
 0.14(100 -x  )  +  0.60\cdot x   =  0.25\cdot100\\
 14   -  0.14\cdot x  +  0.60\cdot x   =  0.25\cdot100\\
-0.15x   = 1.4   \\
- x   =  9.3 
+0.46x   =11   \\
+ x   =  23.91  \\
+  y  =  76.
 \end{array}
 $$
 We want to fence in a field whose length is twice the width and we have 80 feet of fencing material. If we use all the fencing material what would the dimensions of the field be?  
