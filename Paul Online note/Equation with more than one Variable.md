@@ -32,6 +32,6 @@ $$
  Solve \; V   = m\left( \frac{1}{b}  - \frac{5aR}{m} \right)  \\
  Solve \; V   = \frac{m}{b} -5aR  \\
 Vb -  m   = 5aRb    \\
-\frac{Vb -  m}{5ab}  = b  
+\frac{Vb -  m}{5aR}  = b  
 \end{array}
 $$
