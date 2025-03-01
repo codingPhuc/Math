@@ -21,8 +21,19 @@ $$
  Solve \; V   = m\left( \frac{1}{b}  - \frac{5aR}{m} \right)  \\
  Solve \; V   = \frac{m}{b} -5aR  \\
 V -  \frac{m}{b}  = 5aR    \\
-\frac{V}{5a} -  \frac{m}{b}  = 5aR  
+\frac{V}{5a} -  \frac{m}{b5a}  = R  
 \end{array}
 
 $$
 15  ->  16  to completed 
+example 3  
+For b 
+$$
+\begin{array}{l}
+ Solve \; V   = m\left( \frac{1}{b}  - \frac{5aR}{m} \right)  \\
+ Solve \; V   = \frac{m}{b} -5aR  \\
+V -  \frac{m}{b}  = 5aR    \\
+\frac{V}{5a} -  \frac{m}{b5a}  = R  
+\end{array}
+
+$$
