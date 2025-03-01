@@ -404,9 +404,9 @@ John can paint a house in 28 hours. John and Dave can paint the house in 17 hour
 | Total hours | 17           | 1/17               |
 $$
 \begin{array}{l}
-1/7  +  1/12    =  1/x  \\
-12x  +  7x   =  84   \\
-x =   4.42  hours  
+1/28  +  1/x    =  1/17 \\
+1/28  +  1/x    =  1/17  \\
+1/28  +  1/x    =  1/17 
 
 \end{array}
 $$
