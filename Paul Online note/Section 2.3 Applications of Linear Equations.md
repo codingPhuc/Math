@@ -340,8 +340,8 @@ p1     = p2   - 75
 
 $$
 \begin{array}{l}
-3.5 \cdot (p1  +  75)  +  p1 \cdot      \\
-p  =   9.95\cdot 10 \div  7  \\
+3.5 \cdot (p1  +  75)  +  p1 \cdot 3.5  =   2800      \\
+3.5 \cdot (p1  +  75)  +  p1 \cdot 3.5  =   2800  \\
 p   = 14.21  
 \end{array}
 $$
