@@ -329,5 +329,6 @@ $$
 p  =   9.95\cdot 10 \div  7  \\
 p   = 14.21  
 \end{array}
-$$ 
+$$
+Two planes start out 2800 km apart and move towards each other meeting after 3.5 hours. One plane flies at 75 km/hour slower than the other plane. What was the speed of each plane? 
 
