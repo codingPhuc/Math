@@ -368,3 +368,11 @@ we will represent the time  Kim  catch  up to Mike with the variable  t
 
 
 
+$$
+\begin{array}{l}
+t\cdot 3.4  =   2.t +  35        \\
+t\cdot 3.4  =   2.t +  35   \\
+p1   = 362.5 \\
+p_{2}   =  362.5 + 75   =  437.5 
+\end{array}
+$$
