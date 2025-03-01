@@ -379,3 +379,10 @@ $$
 
 
  A pump can empty a pool in 7 hours and a different pump can empty the same pool in 12 hours. How long does it take for both pumps working together to empty the pool? 
+
+|             | total  hours | how much per hours |
+| ----------- | ------------ | ------------------ |
+| Machine  A  | 7            | 1/7                |
+| Machine B   | 12           | 1/12               |
+| Total hours | x            | 1/x                |
+1/7  +  1/12    =  1/x 
