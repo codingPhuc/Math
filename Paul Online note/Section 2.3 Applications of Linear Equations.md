@@ -302,4 +302,6 @@ widget sold in a store
 how much did the store pay for the widget 
 3 represent the unknown  qualities as a variable and try to  represent  other unknown qualities 
 we assign the price the store pay for the widget variable   p 
-4 Form an equation relate  unknown qualities with known   qua
+5 Form an equation relate  unknown qualities with known   qualities 
+  p +  ( p  . 0.07)  =  135.40  
+  = 
