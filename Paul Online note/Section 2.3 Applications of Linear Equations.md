@@ -372,7 +372,10 @@ $$
 \begin{array}{l}
 t\cdot 3.4  =   2\cdot t +  35        \\
 t\cdot 3.4  =   2\cdot t +  35   \\
-t   = 362.5 \\
-p_{2}   =  362.5 + 75   =  437.5 
+t   =25 \\
+
 \end{array}
 $$
+
+
+ A pump can empty a pool in 7 hours and a different pump can empty the same pool in 12 hours. How long does it take for both pumps working together to empty the pool? 
