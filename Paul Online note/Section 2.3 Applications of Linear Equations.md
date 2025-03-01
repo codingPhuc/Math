@@ -358,4 +358,4 @@ Mike starts out 35 feet in front of Kim
 - Mike moves at 2 ft/sec  
 - Kim moves at 3.4 ft/sec
 How long will it take for Kim 
-3 represent the unk
+3 represent the unknown  qualities with a  variable 
