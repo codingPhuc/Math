@@ -32,7 +32,7 @@ $$
 \begin{array}{l}
  Solve \; V   = m\left( \frac{1}{b}  - \frac{5aR}{m} \right)  \\
  Solve \; V   = \frac{m}{b} -5aR  \\
-V -  \frac{m}{b}  = 5aR    \\
+Vb -  m   = 5aRb    \\
 \frac{V}{5a} -  \frac{m}{b5a}  = R  
 \end{array}
 
