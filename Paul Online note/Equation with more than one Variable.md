@@ -20,10 +20,9 @@ $$
 \begin{array}{l}
  Solve \; V   = m\left( \frac{1}{b}  - \frac{5aR}{m} \right)  \\
  Solve \; V   = \frac{m}{b} -5aR  \\
-V -  \frac{m}{b}  = 5aR    \\
-\frac{V}{5a} -  \frac{m}{b5a}  = R  
+Vb -  m   = 5aRb    \\
+\frac{Vb -  m}{5ab}  = R  
 \end{array}
-
 $$
 15  ->  16  to completed 
 example 3  
@@ -33,7 +32,6 @@ $$
  Solve \; V   = m\left( \frac{1}{b}  - \frac{5aR}{m} \right)  \\
  Solve \; V   = \frac{m}{b} -5aR  \\
 Vb -  m   = 5aRb    \\
-\frac{V}{5a} -  \frac{m}{b5a}  = R  
+\frac{Vb -  m}{5ab}  = b  
 \end{array}
-
 $$
