@@ -38,3 +38,12 @@ b(V  +  5aR)  = m  \\
 b   =  \frac{m}{V  +  5aR} 
 \end{array}
 $$
+
+$$
+\begin{array}{l}
+\frac{1}{a}   =  \frac{1}{b }  +  \frac{1}{c}     \\
+bc   = ac + ab   \\
+bc  -  ac    =  ab  \\
+c  
+\end{array}
+$$
