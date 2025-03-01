@@ -354,6 +354,8 @@ $$
 Mike starts out 35 feet in front of Kim and they both start moving towards the right at the same time. Mike moves at 2 ft/sec while Kim moves at 3.4 ft/sec. How long will it take for Kim to catch up with Mike?
 
 2 read the Problem  create bullet point  
-
-
-
+Mike starts out 35 feet in front of Kim  
+- Mike moves at 2 ft/sec  
+- Kim moves at 3.4 ft/sec
+How long will it take for Kim 
+3 represent the unk
