@@ -333,3 +333,4 @@ $$
 Two planes start out 2800 km apart and move towards each other meeting after 3.5 hours. One plane flies at 75 km/hour slower than the other plane. What was the speed of each plane? 
 Two planes start out 2800 km apart    
 - each other meeting after 3.5 hours
+- one plane flies
