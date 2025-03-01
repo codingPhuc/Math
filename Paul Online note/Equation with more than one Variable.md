@@ -38,12 +38,21 @@ b(V  +  5aR)  = m  \\
 b   =  \frac{m}{V  +  5aR} 
 \end{array}
 $$
-
+solve for c 
 $$
 \begin{array}{l}
 \frac{1}{a}   =  \frac{1}{b }  +  \frac{1}{c}     \\
 bc   = ac + ab   \\
 bc  -  ac    =  ab  \\
-c  
+c   = \frac{ab}{b-a}
+\end{array}
+$$
+solve for x 
+$$
+\begin{array}{l}
+\frac{1}{a}   =  \frac{1}{b }  +  \frac{1}{c}     \\
+bc   = ac + ab   \\
+bc  -  ac    =  ab  \\
+c   = \frac{ab}{b-a}
 \end{array}
 $$
