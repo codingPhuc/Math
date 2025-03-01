@@ -32,8 +32,9 @@ $$
 \begin{array}{l}
  Solve \; V   = m\left( \frac{1}{b}  - \frac{5aR}{m} \right)  \\
  Solve \; V   = \frac{m}{b} -5aR  \\
-Vb -  m   = -5aRbS    \\
-Vb +  5aRbS     = m        \\
-\frac{m  - Vb }{5ab}  = R  
+Vb -  m   = -5aRb    \\
+Vb +  5aRb     = m        \\
+b(V  +  5aR)  = m  \\
+b   =  \frac{m}{V  +  5aR} 
 \end{array}
 $$
