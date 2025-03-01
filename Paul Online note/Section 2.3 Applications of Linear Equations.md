@@ -414,7 +414,7 @@ $$How much of a 20% acid solution should we add to 20 gallons of a 42% acid solu
 $$
 \begin{array}{l}
 0.2x  +  0.42\cdot 20      =  0.35(x +  20) \\
-0.2x  +  0.42\cdot 20      =  0.35     \\
+0.2x  +  0.42\cdot 20      =  0.35\cdot x  +  7   \\
 x   =  10.5777 
 
 \end{array}
