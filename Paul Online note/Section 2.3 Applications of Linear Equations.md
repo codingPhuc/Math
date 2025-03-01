@@ -316,3 +316,7 @@ $$
 1 read the Problem  
 A store is having a 30% off sale and one item is now being sold for $9.95. What was the original price of the item? 
 2  read the Problem create bullet point  
+30% off sale 
+ - item is now being sold for $9.95   
+What was the original price of the item?   
+3 represent the unknown  qualities with   a varaible adn try to represent other unkown qualities 
