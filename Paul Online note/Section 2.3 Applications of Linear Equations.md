@@ -334,5 +334,8 @@ Two planes start out 2800 km apart and move towards each other meeting after 3.5
 Two planes start out 2800 km apart    
 - each other meeting after 3.5 hours
 - one plane flies  75 km/ hour  slower than the other plane  
-3 represent the unknown  qualities with a  variable try to represent other unknown  qualities  we assign original  price of the item as variable  p  
+3 represent the unknown  qualities with a  variable try to represent other unknown  qualities  we assign original  price of the item as variable  p 
+p1     = p2   - 75  
+3.5.(p)
+
 
