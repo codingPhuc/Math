@@ -359,3 +359,4 @@ Mike starts out 35 feet in front of Kim
 - Kim moves at 3.4 ft/sec
 How long will it take for Kim 
 3 represent the unknown  qualities with a  variable 
+we will represent the time  Kim  catch  up to Mike with the variab
