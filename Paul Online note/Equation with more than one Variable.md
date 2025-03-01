@@ -52,7 +52,8 @@ $$
 \begin{array}{l}
 y   =  \frac{4 -3x}{1+8x}    \\
 y+8xy  = 4 -3x   \\
-8xy  + 3x       = 4  - y  \\
-c   = \frac{4  - y}{}
+8xy  + 3x       = 4  - y  \\ 
+x(8y  + 3)       = 4  - y  \\
+x   = \frac{4  - y}{8y  + 3}
 \end{array}
 $$
