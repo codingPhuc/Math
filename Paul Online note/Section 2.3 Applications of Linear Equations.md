@@ -385,6 +385,19 @@ $$
 | Machine  A  | 7            | 1/7                |
 | Machine B   | 12           | 1/12               |
 | Total hours | x            | 1/x                |
-1/7  +  1/12    =  1/x 
-12x  +  7x   =  84  
-x =   4.42  hours
+
+$$
+\begin{array}{l}
+1/7  +  1/12    =  1/x  \\
+12x  +  7x   =  84   \\
+x =   4.42  hours  
+
+\end{array}
+$$
+John can paint a house in 28 hours. John and Dave can paint the house in 17 hours working together. How long would it take Dave to paint the house by himself? 
+
+|             | total  hours | how much per hours |
+| ----------- | ------------ | ------------------ |
+| Machine  A  | 7            | 1/7                |
+| Machine B   | 12           | 1/12               |
+| Total hours | x            | 1/x                |
