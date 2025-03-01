@@ -307,6 +307,7 @@ we assign the price the store pay for the widget variable   p
 $$
 \begin{array}{l}
   p +  ( p  \cdot 0.07)  =  135.40    \\
+p  =  135.40\cdot 100 \div  107  \\
 
 \end{array}
 $$
