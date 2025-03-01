@@ -51,8 +51,8 @@ solve for x
 $$
 \begin{array}{l}
 y   =  \frac{4 -3x}{1+8x}    \\
-y+8xy  = ac + ab   \\
-bc  -  ac    =  ab  \\
-c   = \frac{ab}{b-a}
+y+8xy  = 4 -3x   \\
+8xy  + 3x       = 4  - y  \\
+c   = \frac{4  - y}{}
 \end{array}
 $$
