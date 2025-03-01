@@ -427,6 +427,7 @@ We want to fence in a field whose length is twice the width and we have 80 feet 
 $$
 \begin{array}{l}
 2w + 4w  =  80   \\
-w  =  
+w  =  13.33 \\
+l   =  26.66 
 \end{array}
 $$
