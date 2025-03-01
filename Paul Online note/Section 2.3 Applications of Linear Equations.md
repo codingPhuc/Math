@@ -421,7 +421,14 @@ $$
 $$
 
 We need 100 liters of a 25% saline solution and we only have a 14% solution and a 60% solution. How much of each should we mix together to get the 100 liters of the 25% solution?  
-
+$$
+\begin{array}{l}
+0.2x  +  0.42\cdot 20      =  0.35(x +  20) \\
+0.2x  +       =  0.35\cdot x  +  7   \\
+0.15x   = 1.4   \\
+ x   =  9.3 
+\end{array}
+$$
 We want to fence in a field whose length is twice the width and we have 80 feet of fencing material. If we use all the fencing material what would the dimensions of the field be?  
 
 $$
