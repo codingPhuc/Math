@@ -313,5 +313,6 @@ p   = 126.54
 $$
 
 
-read the Problem  
+1 read the Problem  
 A store is having a 30% off sale and one item is now being sold for $9.95. What was the original price of the item? 
+2  read the Problem create bullet point  
