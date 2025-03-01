@@ -319,4 +319,6 @@ A store is having a 30% off sale and one item is now being sold for $9.95. What 
 30% off sale 
  - item is now being sold for $9.95   
 What was the original price of the item?   
-3 represent the unknown  qualities with   a varaible adn try to represent other unkown qualities 
+3 represent the unknown  qualities with   a variable  try to represent other unknown qualities 
+we assign  original price of the item as variable  p  
+5  From an equation relate unknown qualities with known qua
