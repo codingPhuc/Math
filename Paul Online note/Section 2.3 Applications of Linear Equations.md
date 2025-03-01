@@ -385,6 +385,7 @@ $$
 | Machine  A  | 7            | 1/7                |
 | Machine B   | 12           | 1/12               |
 | Total hours | x            | 1/x                |
+|             |              |                    |
 
 $$
 \begin{array}{l}
@@ -398,6 +399,14 @@ John can paint a house in 28 hours. John and Dave can paint the house in 17 hour
 
 |             | total  hours | how much per hours |
 | ----------- | ------------ | ------------------ |
-| Machine  A  | 7            | 1/7                |
-| Machine B   | 12           | 1/12               |
-| Total hours | x            | 1/x                |
+| Join        | 28           | 1/28               |
+| Dave        | x            | 1/x                |
+| Total hours | 17           | 1/17               |
+$$
+\begin{array}{l}
+1/7  +  1/12    =  1/x  \\
+12x  +  7x   =  84   \\
+x =   4.42  hours  
+
+\end{array}
+$$
