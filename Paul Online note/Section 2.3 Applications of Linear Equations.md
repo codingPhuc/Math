@@ -341,8 +341,8 @@ p1     = p2   - 75
 $$
 \begin{array}{l}
 3.5 \cdot (p1  +  75)  +  p1 \cdot 3.5  =   2800      \\
-3.5 \cdot (p1  +  75)  +  p1 \cdot 3.5  =   2800  \\
-p   = 14.21  
+7p1   +  p1 \cdot 3.5  =   2800  \\
+p1   = 362.5
 \end{array}
 $$
 
