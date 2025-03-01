@@ -343,10 +343,14 @@ $$
 3.5 \cdot (p1  +  75)  +  p1 \cdot 3.5  =   2800      \\
 7p_{1} +  262.5   =   2800  \\
 p1   = 362.5 \\
-p_{2}   =  362.5 + 75   =  
+p_{2}   =  362.5 + 75   =  437.5 
 \end{array}
-$$ 
+$$
 
 
+
+
+red
+Mike starts out 35 feet in front of Kim and they both start moving towards the right at the same time. Mike moves at 2 ft/sec while Kim moves at 3.4 ft/sec. How long will it take for Kim to catch up with Mike?
 
 
