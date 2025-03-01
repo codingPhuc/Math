@@ -326,7 +326,8 @@ we assign  original price of the item as variable  p
 $$
 \begin{array}{l}
   p -  ( p  \cdot 0.3)  =  9.95     \\
-p  =   9.95\cdot 100 \div  107  \\
-p   = 126.54 
+p  =   9.95\cdot 10 \div  7  \\
+p   = 14.21  
 \end{array}
-$$
+$$ 
+
