@@ -8,7 +8,8 @@ example 1  Solve  A  =  P (1+  rt) for r
 $$
 \begin{array}{l}
  Solve  A  =  P (1+  rt)  \\
- P  
+ P  +  Prt  =  A   \\
+r =  \frac{P  - A}{tP} 
 \end{array}
 
 $$
