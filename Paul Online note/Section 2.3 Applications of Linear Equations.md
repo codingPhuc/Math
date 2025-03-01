@@ -308,8 +308,8 @@ $$
 \begin{array}{l}
   p +  ( p  \cdot 0.07)  =  135.40    \\
 p  =  135.40\cdot 100 \div  107  \\
-
+p   = 126.54 
 \end{array}
 $$
- 
-  = 
+
+
