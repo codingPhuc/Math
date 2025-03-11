@@ -229,3 +229,34 @@ x =  \frac{1}{2} \\
 \right.   
 \end{array}  
 $$
+
+
+factoring can help with  solving equation  with  degree larger than 2  
+$$
+\begin{array}  {l} 
+  
+\frac{1}{x+ 1}  =   1   -  \frac{5}{2x -  4  }   \\
+(2x  -  4)  =   (2x  -  4)(x + 1 )       -  5(x + 1 )     \\
+2x  - 4    =    2x^2   +  2x   -  4x   -  4    -  5 x - 5   \\
+-2x^2 + 9x   + 5    =  0   \\
+2x^2  -9x   - 5  = 0  \\
+( 2x   + 1  )  (x   - 5)  =   0   \\
+
+
+\left\{
+\begin{array}{l}
+x   - 5  = 0  \\
+2x   -1 = 0   \\
+
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =  5\\
+x =  \frac{1}{2} \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$
