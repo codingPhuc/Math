@@ -74,7 +74,21 @@ $$
 \begin{array}  {l} 
 y^2   +  12y  +  36   =  0   \\
 (y   +  6) ( y + 6 )  =  0   \\
- 
+\left\{
+\begin{array}{l}
+y   +  6  = 0  \\
+y   +  6 = 0   \\
+
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+y  = -6  \\
+y =  - 6 \\
+
+\end{array}
+\right.
+\right. 
 
 \end{array}  
 $$
