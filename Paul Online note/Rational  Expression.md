@@ -245,12 +245,9 @@ $$
 \end{array}
 $$
 
+# Multi and Division RAT Expressions
 
-
-This document explains the process of simplifying and solving rational expressions using multiplication and division. It includes detailed steps and examples.
-
----
-
+ the process of simplifying and solving rational expressions using multiplication and division. It includes detailed steps and examples.
 ## Multiplication of Rational Expressions
 
 ### Example 1
