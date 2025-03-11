@@ -248,56 +248,168 @@ $$
 # Multi and Division RAT Expressions
 
  the process of simplifying and solving rational expressions using multiplication and division. It includes detailed steps and examples.
+Here's the revised structure of the Obsidian markdown file for organizing rational expressions, following your request:
+
+---
+
+# Table of Contents
+
+- [Overview](https://chatgpt.com/c/67cfb530-7140-8000-bd93-5d1968e59833#overview)
+- [Multiplication of Rational Expressions](https://chatgpt.com/c/67cfb530-7140-8000-bd93-5d1968e59833#multiplication-of-rational-expressions)
+- [Division of Rational Expressions](https://chatgpt.com/c/67cfb530-7140-8000-bd93-5d1968e59833#division-of-rational-expressions)
+
+## Overview
+
+This document explains the process of simplifying and solving rational expressions using multiplication and division. It includes detailed steps and examples.
+
+---
+
 ## Multiplication of Rational Expressions
 
-### Example 1
+$$ 
+\begin{array}{l}
+\frac{7}{5 }  \\
+= \frac{7}{5 }  \frac{15}{11}    \\
+ = \frac{105}{55}  
+\end{array}
+$$ 
 
-−5x33b3⋅2b215x=−5x3⋅2b23b3⋅15x=2x29b\begin{array}{l} \frac{- 5x^3 }{3b^3} \cdot \frac{2b^2 }{15x} \\ = \frac{- 5x^3\cdot2b^2 }{3b^3\cdot 15x} \\ = \frac{2x^2}{9b} \end{array}
 
-### Example 2
+$$ 
+\begin{array}{l}
+\frac{7}{5 }  \\
+= \frac{7}{5 }  \frac{15}{11}    \\ 
+ = \frac{105}{55}  
+\end{array}
+$$
 
-3x42y3⋅y2−9x5=3x4⋅2y2−9x5y3=2y−3x\begin{array}{l} \frac{3x^4}{2y^3} \cdot \frac{y^2 }{-9x^5} \\ = \frac{3x^4 \cdot 2y^2 }{-9x^5y^3} \\ = \frac{2y}{-3x} \end{array}
 
-### Example 3
+or 
+$$ 
+\begin{array}{l}
+\frac{7}{5 }  \\
+= \frac{7}{5 }  \frac{15}{11}    \\ 
+= \frac{7}{1}  \frac{3}{11}    \\   \\
+= \frac{21}{11}  
+\end{array}
+$$
 
-6x+67⋅14x2−1=6(x+1)⋅147⋅(x−1)(x+1)=61⋅2(x−1)=12(x−1)\begin{array}{l} \frac{6x + 6}{7}\cdot \frac{14}{x^2 - 1} \\ = \frac{6(x + 1) \cdot 14 }{7 \cdot (x - 1)(x + 1)} \\ = \frac{6}{1} \cdot \frac{2}{(x - 1)} \\ = \frac{12}{(x - 1)} \end{array}
+ex
 
-### Example 4
+$$ 
+\begin{array}{l}
+\frac{- 5x^3  }{3b^3}  \cdot \frac{2b^2 }{15x}    \\
+ = \frac{- 5x^3\cdot2b^2 }{3b^3\cdot 15x}    \\
+=   \frac{2x^2  }{9b}   
+\end{array}
+$$ 
 
-x2−x5x⋅15x2−1=x(x−1)⋅155x(x−1)(x+1)=155(x+1)=3(x+1)\begin{array}{l} \frac{x^2 - x }{5x} \cdot \frac{15}{x^2 - 1} \\ = \frac{x(x - 1) \cdot 15 }{ 5x (x - 1) (x + 1)} \\ = \frac{15}{5(x + 1)} \\ = \frac{3}{(x + 1)} \end{array}
+$$ 
+\begin{array}{l}
+\frac{3x^4    }{2y^3}  \cdot \frac{y^2 }{-9x^5}    \\
+ = \frac{3x^4  \cdot2y^3 }{y^2\cdot -9x^5}    \\
+=   \frac{2y }{ -3x}  
+\end{array}
+$$ 
+$$
+\begin{array}{l}
+ \frac{6x +  6}{7}\cdot  \frac{14}{x^2 -1 }  \\
+   = \frac{6x +  6}{7}\cdot  \frac{14}{x^2 -1 }    \\
+ = \frac{6(x+ 1) 14 }{7}\cdot  \frac{14}{(x - 1) ( x+ 1) }  \\
+ = \frac{6}{1}\cdot  \frac{2}{(x - 1)  }   \\
+ = \frac{12}{(x - 1)}
+\end{array}
+$$ $$
+\begin{array}{l}
+\frac{x^2  -x }{ 5x  }  . \frac{15}{x^2  -1  } \\
+=\frac{x(x -1 ) \cdot 15 }{ 5x (x  - 1) (x + 1) }    \\
+=\frac{ 15 }{ 5(x+ 1)  }   \\
+=\frac{ 3 }{ (x+ 1)  }  
+\end{array}
+$$ 
 
----
 
-## Division of Rational Expressions
+$$ 
+\begin{array}{l}
+ \frac{4x + 8}{14x - 7x^2 }  \cdot  \frac{3x^2 - 5x - 2}{9x^2 -1 }    \\  \\
+ \frac{4(x+ 2)}{-7x(x +  2) }  \cdot  \frac{(x -2) (x + 3 )}{(x-3 ) ( x + 3) }  \\ 
+ \frac{4(x -2)  }{-7 (x-3 ) } 
+\end{array}
+$$
 
-### Example 1
 
-34÷78=3⋅84⋅7=3⋅21⋅7\frac{3}{4} \div \frac{7}{8} = \frac{3 \cdot 8}{4 \cdot 7} = \frac{3 \cdot 2}{1 \cdot 7}
 
-### Example 2
 
-7x26÷x2y7x26⋅2yx14xy6=7xy2\begin{array}{l} \frac{7x^2}{6} \div \frac{x}{2y} \\ \frac{7x^2}{6} \cdot \frac{2y}{x} \\ \frac{14xy}{6} \\ = \frac{7xy}{2} \end{array}
+![[7.2 Multi and Division  RAT Expressions 2025-02-10 15.22.13.excalidraw]]
 
-### Example 3
+# Division  
+$$
+\frac{3}{4}  \div  \frac{7}{8}   =  \frac{3\cdot 8}{4\cdot{7}} =  \frac{3\cdot 2}{1\cdot{7}}
+$$ 
 
-5a3b224÷10a565a3b224⋅610a5=b28a2\begin{array}{l} \frac{5a^3 b^2}{24} \div \frac{10a^5}{6} \\ \frac{5a^3 b^2}{24} \cdot \frac{6}{10a^5} \\ = \frac{b^2}{8a^2} \end{array}
+$$
+\begin{array}{l}
+\frac{7x^2}{6}  \div  \frac{x}{2y} \\
+\frac{7x^2}{6}  \cdot  \frac{2y}{x}   \\
+\frac{14xy}{6}   \\
+\frac{7xy}{2} 
+\end{array}
 
-### Example 4
 
-10x+4x2−4÷5x3+2x2x+210x+4x2−4⋅x+25x3+2x22(5x+2)(x−2)(x+2)⋅x+2x2(5x+2)=2(x−2)x2\begin{array}{l} \frac{10x + 4}{x^2 - 4} \div \frac{5x^3 + 2x^2}{x+2} \\ \frac{10x + 4}{x^2 - 4} \cdot \frac{x+2}{5x^3 + 2x^2} \\ \frac{2(5x + 2)}{(x-2)(x+2)} \cdot \frac{x+2}{x^2(5x + 2)} \\ = \frac{2}{(x - 2)x^2} \end{array}
+$$
 
-### Example 5
 
-10x−2x2−9÷5x2−xx+310x−2x2−9⋅x+35x2−x2(5x−1)(x−3)(x+3)⋅x+3x(5x−1)=2(x−3)x\begin{array}{l} \frac{10x - 2}{x^2 - 9} \div \frac{5x^2 - x }{x+ 3} \\ \frac{10x - 2}{x^2 - 9} \cdot \frac{x+3}{5x^2 - x} \\ \frac{2(5x - 1)}{(x - 3)(x + 3)} \cdot \frac{x+3}{x(5x - 1)} \\ = \frac{2}{(x - 3)x} \end{array}
+ 
+$$
+\begin{array}{l}
+\frac{5a^3 b^2}{24}  \div  \frac{10a^5}{6} \\
+\frac{5a^3 b^2}{24}  \cdot   \frac{6}{10a^5}    \\
+\frac{b^2}{8a^2}   \\ 
+\end{array}
 
-### Example 6
 
-3x2−10x+87x−14÷9x−12213x2−10x+87x−14⋅219x−12(3x−4)(x−2)7(x−2)⋅213(3x−4)=1\begin{array}{l} \frac{3x^2 - 10x + 8}{7x - 14} \div \frac{9x - 12 }{21} \\ \frac{3x^2 - 10x + 8}{7x - 14} \cdot \frac{21}{9x - 12} \\ \frac{(3x - 4)(x - 2)}{7(x - 2)} \cdot \frac{21}{3(3x - 4)} \\ = 1 \end{array}
+$$ 
 
-### Example 7
 
-3−xx2+6x+5÷x2−7x+122x+10=3−xx2+6x+5⋅2x+10x2−7x+12=−(x−3)(x+1)(x+5)⋅2(x+5)(x−4)(x−3)=−2(x−4)(x+1)\begin{array}{l} \frac{3-x}{x^2 + 6x + 5} \div \frac{x^2 - 7x + 12}{2x + 10} \\ = \frac{3-x}{x^2 + 6x + 5} \cdot \frac{2x + 10}{x^2 - 7x + 12} \\ = \frac{-(x - 3)}{(x + 1)(x + 5)} \cdot \frac{2(x + 5)}{(x - 4)(x - 3)} \\ = \frac{-2}{(x - 4)(x + 1)} \end{array}
+$$
+\begin{array}{l}
+\frac{10x  + 4}{x^2  - 4}  \div  \frac{5x^3 + 2x^2}{x+ 2}   \\
+\frac{10x  + 4}{x^2  - 4} \cdot  \frac{x + 2}{5x^3  + 2x^2}   \\
+\frac{2 (5x  + 2)}{(x-2)(x+ 2)} \cdot  \frac{x + 2}{x^2 (5x + 2)}     \\
+\frac{2 }{(x-2)x^2}    
+\end{array}
+$$ 
 
----
 
-This structure retains all original links and formulas while breaking the content into logical sections with clear headings. Let me know if you'd like any further adjustments!
+
+$$
+\begin{array}{l}
+\frac{10x   -  2}{x^2  - 9}  \div  \frac{5x^2  -x }{x+ 3}   \\
+\frac{10x   -  2}{x^2  - 9} \cdot  \frac{x+ 3}{5x^2  -x}   \\
+\frac{2(5x   -  1)}{(x - 3)(x + 3 )} \cdot  \frac{x+ 3}{x(5x - 1 )}      \\
+\frac{2 }{(x - 3)x}    
+\end{array}
+$$ 
+
+
+$$
+\begin{array}{l}
+\frac{3x^2   -  10x  +   8}{7x  - 14}  \div  \frac{9x - 12  }{21}   \\
+\frac{3x^2   -  10x  +   8}{7x  - 14} \cdot  \frac{ 21 }{9x - 12}    \\
+\frac{(3x -4 ) (x -2 )}{7(x - 2)} \cdot  \frac{ 21 }{3(3x -4)}    \\
+ =1 
+\end{array}
+$$
+![[7.2 Multi and Division  RAT Expressions 2025-02-10 16.08.38.excalidraw]]
+
+
+$$
+\begin{array}{l}
+ \frac{3-x}{x^2 + 6x  + 5}  \div \frac{x^2 -  7x  + 12}{ 2x   + 10 }    \\
+=  \frac{3-x}{x^2 + 6x  + 5}  \cdot \frac{ 2x   + 10 } {x^2 -  7x  + 12}  \\
+=  \frac{-(x -3)}{(x + 1) (x+5)}  \cdot \frac{ 2(x +5)} {(x-4)(x-3)}  \\  
+=  \frac{ -2} {(x-4) (x + 1)  }  \\
+\end{array}
+$$
+![[7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw]] 
+![[7.2 Multi and Division  RAT Expressions 2025-02-12 14.11.14.excalidraw]]
