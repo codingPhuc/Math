@@ -31,8 +31,16 @@ x^2  -  x  - 12  =  0     \\
 x  - 4 = 0  \\
 y + 3 = 0   \\
 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+y  = 4 \\
+y =  - 3  \\
+
 \end{array}
-\right. \\
+\right.
+\right. 
 
 \end{array}  
 
@@ -41,6 +49,24 @@ $$
 $$
 \begin{array}  {l} 
 x^2    +  40    =  -14x     \\
+\left\{
+\begin{array}{l}
+x  - 4 = 0  \\
+y + 3 = 0   \\
+
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+y  = 4 \\
+y =  - 3  \\
+
+\end{array}
+\right.
+\right. 
+
+\end{array}  
+
 
 \end{array}  
 $$
