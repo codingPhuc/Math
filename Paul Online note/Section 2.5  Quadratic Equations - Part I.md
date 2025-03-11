@@ -20,3 +20,10 @@ This fact is called the **zero factor property** or **zero factor principle** 
 Note that this method only work if the product of the terms is zero . To solve a  quadratic equation by  factoring we first must move all the terms over to one side of the equation . Doing it this way serve two purpose   .First is converting  the quadratic into a form that can be factor  .  Secondly  ,  to  have zero  factor there must be  a zero  on one side of the equation . 
 Let show  a couple of example  . If you need to understand  more deeply factoring go to[[Factoring Polynomials]] 
 
+x2−x=12x2−x=12
+ x2+40=−14xx2+40=−14x
+1. y2+12y+36=0y2+12y+36=0
+2. 4m2−1=04m2−1=0
+3. 3x2=2x+83x2=2x+8
+4. 10z2+19z+6=010z2+19z+6=0
+5. 5x2=2x
