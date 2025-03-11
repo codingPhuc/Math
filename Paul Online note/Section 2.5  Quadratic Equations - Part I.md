@@ -48,7 +48,8 @@ y =  - 3  \\
 $$
 $$
 \begin{array}  {l} 
-x^2    +  40    =  -14x     \\
+x^2    +  40    =  -14x     \\ 
+x^2    +  14x  +  40   =  0  \\
 \left\{
 \begin{array}{l}
 x  - 4 = 0  \\
@@ -64,10 +65,6 @@ y =  - 3  \\
 \end{array}
 \right.
 \right. 
-
-\end{array}  
-
-
 \end{array}  
 $$
 
