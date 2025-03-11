@@ -93,12 +93,8 @@ y =  - 6 \\
 \end{array}  
 $$
 
-$$
-\begin{array}  {l} 
-x^2  - x  =  12   \\
 
-\end{array}  
-$$
+
 
 $$
 \begin{array}  {l} 
@@ -106,6 +102,21 @@ x^2  - x  =  12   \\
 
 \end{array}  
 $$
+
+
+
+
+$$
+\begin{array}  {l} 
+x^2  - x  =  12   \\
+
+\end{array}  
+$$
+
+
+
+
+
 
 $$
 \begin{array}  {l} 
