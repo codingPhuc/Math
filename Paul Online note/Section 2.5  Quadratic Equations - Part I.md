@@ -23,6 +23,42 @@ Let show  a couple of example  . If you need to understand  more deeply factorin
 
 $$
 \begin{array}  {l} 
+x^2  - x  =  12   \\
+x^2  -  x  
+\end{array}  
+$$ 
+
+$$
+\begin{array}  {l} 
+x^2    +  40    =  -14x     \\
+
+\end{array}  
+$$
+
+$$
+\begin{array}  {l} 
+x^2  - x  =  12   \\
+
+\end{array}  
+$$
+
+$$
+\begin{array}  {l} 
+x^2  - x  =  12   \\
+
+\end{array}  
+$$
+
+$$
+\begin{array}  {l} 
+x^2  - x  =  12   \\
+
+\end{array}  
+$$
+
+$$
+\begin{array}  {l} 
+x^2  - x  =  12   \\
 
 \end{array}  
 $$
