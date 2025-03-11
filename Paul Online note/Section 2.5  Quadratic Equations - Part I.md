@@ -24,7 +24,8 @@ Let show  a couple of example  . If you need to understand  more deeply factorin
 $$
 \begin{array}  {l} 
 x^2  - x  =  12   \\
-x^2  -  x  
+x^2  -  x  - 12  =  0     \\
+
 \end{array}  
 $$ 
 
