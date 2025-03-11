@@ -51,18 +51,18 @@ $$
 x^2    +  40    =  -14x     \\ 
 x^2    +  14x  +  40   =  0  \\
 (x  +  10  ) ( x  +   4 )  =  0    \\
-x \\
+ \\
 \left\{
 \begin{array}{l}
-x  - 4 = 0  \\
-y + 3 = 0   \\
+x  +  10  = 0  \\
+x  +   4 = 0   \\
 
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-y  = 4 \\
-y =  - 3  \\
+y  = -10  \\
+y =  - 4 \\
 
 \end{array}
 \right.
@@ -72,7 +72,8 @@ $$
 
 $$
 \begin{array}  {l} 
-x^2  - x  =  12   \\
+y^2   +  12y  +  36   =  0   \\
+   \\
 
 \end{array}  
 $$
