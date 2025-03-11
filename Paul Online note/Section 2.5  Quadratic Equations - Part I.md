@@ -157,15 +157,15 @@ $$
  \\
 \left\{
 \begin{array}{l}
-3x   + 2  = 0  \\
-2x   + 5  = 0   \\
+2x+3 = 0  \\
+5x  + 2   = 0   \\
 
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-y  =\frac{2}{-3}\\
-y =  -\frac{-5}{2} \\
+y  =\frac{-2}{5}\\
+y =  -\frac{-3}{2} \\
 
 \end{array}
 \right.
