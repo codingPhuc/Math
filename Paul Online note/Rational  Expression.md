@@ -8,12 +8,19 @@ reference:
 ---
 # #Definition  
 rational  expression , is a  fraction which have the numerator and the  denominator  as a  polynomial
-A FRACTION WHERE BOTH THE NUMER AND DENOM. ARE  POLYNOMIALS 
+A FRACTION WHERE BOTH THE NUMER AND DENOM. ARE  POLYNOMIALS  
+
+$$\frac{P}{Q}$$
 here are some basic example : 
 $\frac{6}{x-1}$
 $\frac{z^2  -1}{z^2 +5}$ 
 $\frac{z^2  -1}{1}$ 
-the last equation seem to be strange, but the important thing to note is that a polynomials expression can be  thought of as a rational expressions if we need to   
+
+
+- this is a rational  function  
+- you can never divide by 0  in a rational function 
+the last equation seem to be strange, but the important thing to note is that a polynomials expression can be  thought of as a rational expressions if we need to    
+ 
 ## exception  
 
 when dealing with rational expression  we will always assume that  the denominator $\neq$ 0  
