@@ -413,3 +413,8 @@ $$
 $$
 ![[7.2 Multi and Division  RAT Expressions 2025-02-12 14.10.10.excalidraw]] 
 ![[7.2 Multi and Division  RAT Expressions 2025-02-12 14.11.14.excalidraw]]
+
+
+
+
+# Additional  Radiona
