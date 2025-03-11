@@ -102,15 +102,15 @@ $$
 (2m +  1) (2m  - 1)  =  0 \\
 \left\{
 \begin{array}{l}
-y   +  6  = 0  \\
-y   +  6 = 0   \\
+2m +  1  = 0  \\
+2m  - 1 = 0   \\
 
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-y  = -6  \\
-y =  - 6 \\
+y  =-\frac{1}{2} \\
+y =  \frac{1}{2} \\
 
 \end{array}
 \right.
@@ -123,7 +123,9 @@ $$
 
 $$
 \begin{array}  {l} 
-x^2  - x  =  12   \\
+3x^2=2x+8  \\
+3x^2  -  2x   -  8  =  0   \\
+  \\
 
 \end{array}  
 $$
