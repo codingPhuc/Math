@@ -16,4 +16,5 @@ we are solving the equation first by  factoring them  . we will implement  the f
 
 $$if ;\  ab = 0  \;  then \; either \; a = 0  \; and \; or b  = 0 $$ 
 
-This fact is called the **zero factor property** or **zero factor principle**  .  
+This fact is called the **zero factor property** or **zero factor principle**  .  All the fact  is saying that if the product of the two term is  0  then at least one have to be zero to start with  
+
