@@ -198,4 +198,6 @@ x =  \frac{2}{5} \\
 \right.   
 \end{array}  
 $$
-work 
+
+
+work  on another types of problems since they are also  Q
