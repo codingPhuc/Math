@@ -295,7 +295,30 @@ $$
 
 
 
-# #Practice_Exercise 
+# #Practice_Exercise  
+
+
+1 read the problem  
+ex you are on a building 225 tall. obviously you want to throw something at the people below  you throw  a water melon  if height  of water melon is given by  
+$h(T ) = -16T^2+225$ , for T sec how long will it take water melon to hit ground ? 
+![[6.7 Word Problem 2025-02-05 08.17.07.excalidraw]] 
+we need to solve for T when it hit the ground  , 
+if the height is 0 
+$0= -16t^2 +225$ 
+thing of the  height is 0 then we will solve for when the water melon hit 0 
+
+$$ 
+
+\begin{aligned}
+-16t^2 +225 =0 \\ & -(16t^2-225) = 0 \\& 
+\\ & 16t^2-225 = 0\\& 
+(4t-25)(4t+25) = 0   \\&  
+t=  \frac{25}{4}   , t  = \frac{-25}{4}
+\end{aligned} 
+$$
+since there is no concept iof negative time when the  water melon hit zero the the correct answer will be $\frac{25}{4}$
+
+
 
 1 read the Problem 
 A widget is being sold in a store for $135.40 and has been marked up 7%. How much did the store pay for the widget?
