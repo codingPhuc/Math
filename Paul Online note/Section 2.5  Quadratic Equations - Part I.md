@@ -50,6 +50,8 @@ $$
 \begin{array}  {l} 
 x^2    +  40    =  -14x     \\ 
 x^2    +  14x  +  40   =  0  \\
+(x  +  10  ) ( x  +   4 )  =  0    \\
+x \\
 \left\{
 \begin{array}{l}
 x  - 4 = 0  \\
