@@ -11,13 +11,28 @@
             "id": "b069c496885cb568",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paul Online note/Solve.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solve"
+            }
+          },
+          {
+            "id": "b30f570e38f787d2",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,7 +241,8 @@
                   "title": "Section 2.3 Applications of Linear Equations"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -239,14 +255,21 @@
       }
     ]
   },
-  "active": "9b3f64ef23927a5f",
+  "active": "b30f570e38f787d2",
   "lastOpenFiles": [
-    "Paul Online note/Section 2.3 Applications of Linear Equations.md",
-    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
-    "Professor Leonard/6.7 Word Problem.md",
+    "Paul Online note/Solve.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Complex Numbers.md",
+    "Paul Online note/Section 2.3 Applications of Linear Equations.md",
+    "Professor Leonard/7.1 Rational Function.md",
+    "Paul Online note/Equation with more than one Variable.md",
     "Paul Online note/Factoring Polynomials.md",
+    "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
+    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
+    "Professor Leonard/C.4 POLYNIMIALS.md",
+    "Professor Leonard/Rational Function.md",
+    "Professor Leonard/how to analysis your  problem.md",
+    "Professor Leonard/x 6.7 Word Problem.md",
     "Paul Online note/Factoring  Polynomials.md",
     "Paul Online note/Polynomials.md",
     "Paul Online note/Radicals.md",
@@ -254,19 +277,12 @@
     "Paul Online note/Faction.md",
     "Paul Online note/Rational  Expression.md",
     "Paul Online note/ALGREBLA.md",
-    "Professor Leonard/how to analysis your  problem.md",
     "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
     "Paul Online note/Integer Exponents.md",
     "Professor Leonard/x 6.5 Factoring Binomials (Difference of Squares,Cubes).md",
     "Professor Leonard/x 6.4  Factoring Polynomials (Trinomials) in General.md",
     "Excalidraw/Section 2.2 Linear Equations 2025-02-24 16.15.55.excalidraw.md",
-    "Excalidraw/Section 2.3 Applications of Linear Equations 2025-02-26 15.54.49.excalidraw.md",
-    "Paul Online note/latex.md",
-    "Paul Online note/learning road map.md",
-    "Paul Online note/Factor.md",
-    "Paul Online note/Place value.md",
-    "Professor Leonard/6.1 Factoring by GCF.md",
     "Pasted Image 20250226155530_564.png",
     "Pasted image 20250226155434.png",
     "Paul Online note/Pasted image 20241201195150.png",
