@@ -12,4 +12,6 @@ There are  many way to solve a  quadratic equation . We will be presenting 4  wa
 
 
 ##  solving by factoring  
-we are solving the equation first by  factor
+we are solving the equation first by  factoring them  . we will implement  the following  thing ;  
+
+$$if ;\  ab = 0  \;  then \; either \; a = 0  \; \frac{\cap}{} $$
