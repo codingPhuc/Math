@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Section 2.2 Linear Equations"
             }
-          },
-          {
-            "id": "9b3f64ef23927a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professor Leonard/6.7 Word Problem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.7 Word Problem"
-            }
           }
         ]
       }
@@ -194,8 +180,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "254257351503aa22",
+  "floating": {
+    "id": "0dadda99b322b856",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3878b647d61f1da9",
+        "type": "window",
+        "children": [
+          {
+            "id": "41e4f75e6e9febc9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9b3f64ef23927a5f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Professor Leonard/6.7 Word Problem.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "6.7 Word Problem"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2471,
+        "y": -18,
+        "width": 603,
+        "height": 603,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9b3f64ef23927a5f",
   "lastOpenFiles": [
+    "Paul Online note/Section 2.2 Linear Equations.md",
     "Paul Online note/Section 2.3 Applications of Linear Equations.md",
     "Professor Leonard/6.7 Word Problem.md",
     "Paul Online note/Integer Exponents.md",
@@ -221,7 +247,6 @@
     "Excalidraw/Section 2.2 Linear Equations 2025-02-23 15.16.42.excalidraw.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "Professor Leonard/7.5 Solving Rational Equations (Equations with Rational Expressions).md",
-    "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
     "Pasted Image 20250226155530_564.png",
     "Pasted image 20250226155434.png",
     "Paul Online note/Pasted image 20241201195150.png",
