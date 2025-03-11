@@ -215,6 +215,16 @@
                   "icon": "lucide-file",
                   "title": "x 6.6 Solving Equation  By Factoring"
                 }
+              },
+              {
+                "id": "d813cfa013cc4350",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
             ]
           }
@@ -232,8 +242,8 @@
   "active": "254257351503aa22",
   "lastOpenFiles": [
     "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
-    "Professor Leonard/6.7 Word Problem.md",
     "Paul Online note/Section 2.3 Applications of Linear Equations.md",
+    "Professor Leonard/6.7 Word Problem.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Complex Numbers.md",
     "Paul Online note/Factoring Polynomials.md",
