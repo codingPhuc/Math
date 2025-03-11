@@ -98,7 +98,8 @@ $$
 
 $$
 \begin{array}  {l} 
-4m^2−1=0  \\
+4m^2−1=0   \\
+\\
 \left\{
 \begin{array}{l}
 y   +  6  = 0  \\
