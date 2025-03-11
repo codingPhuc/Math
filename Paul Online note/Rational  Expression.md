@@ -7,22 +7,24 @@ tags:
 reference:
 ---
 # #Definition  
-rational  expression , is a  fraction which have the numerator and the  denominator  as a  polynomial
+## rational  function 
 A FRACTION WHERE BOTH THE NUMER AND DENOM. ARE  POLYNOMIALS  
 **Rational Function**: A rational function is a function that can be expressed as a rational expression. In other words, a rational function is a function that is defined as the ratio of two polynomials. A rational function is typically written as:
 
 $$f(x)=\frac{P(x)}{Q(x)}$$
 
-where $P(x)$ and $Q(x)$ are polynomials, and $Q(x) \neq 0$.
-$$\frac{P}{Q}$$
-here are some basic example : 
+where $P(x)$ and $Q(x)$ are polynomials, and $Q(x) \neq 0$. 
+- this is a rational  function  
+- you can never divide by 0  in a rational function 
+
+## rational expression 
+rational  expression , is a  fraction which have the numerator and the  denominator  as a  polynomial here are some basic example : 
 $\frac{6}{x-1}$
 $\frac{z^2  -1}{z^2 +5}$ 
 $\frac{z^2  -1}{1}$ 
 
 
-- this is a rational  function  
-- you can never divide by 0  in a rational function 
+
 the last equation seem to be strange, but the important thing to note is that a polynomials expression can be  thought of as a rational expressions if we need to    
  
 Note : for any rational function the denominator   cannot be zero   
@@ -242,3 +244,63 @@ $$
   = (x^2  - 3x +   9 )
 \end{array}
 $$
+
+
+
+This document explains the process of simplifying and solving rational expressions using multiplication and division. It includes detailed steps and examples.
+
+---
+
+## Multiplication of Rational Expressions
+
+### Example 1
+
+−5x33b3⋅2b215x=−5x3⋅2b23b3⋅15x=2x29b\begin{array}{l} \frac{- 5x^3 }{3b^3} \cdot \frac{2b^2 }{15x} \\ = \frac{- 5x^3\cdot2b^2 }{3b^3\cdot 15x} \\ = \frac{2x^2}{9b} \end{array}
+
+### Example 2
+
+3x42y3⋅y2−9x5=3x4⋅2y2−9x5y3=2y−3x\begin{array}{l} \frac{3x^4}{2y^3} \cdot \frac{y^2 }{-9x^5} \\ = \frac{3x^4 \cdot 2y^2 }{-9x^5y^3} \\ = \frac{2y}{-3x} \end{array}
+
+### Example 3
+
+6x+67⋅14x2−1=6(x+1)⋅147⋅(x−1)(x+1)=61⋅2(x−1)=12(x−1)\begin{array}{l} \frac{6x + 6}{7}\cdot \frac{14}{x^2 - 1} \\ = \frac{6(x + 1) \cdot 14 }{7 \cdot (x - 1)(x + 1)} \\ = \frac{6}{1} \cdot \frac{2}{(x - 1)} \\ = \frac{12}{(x - 1)} \end{array}
+
+### Example 4
+
+x2−x5x⋅15x2−1=x(x−1)⋅155x(x−1)(x+1)=155(x+1)=3(x+1)\begin{array}{l} \frac{x^2 - x }{5x} \cdot \frac{15}{x^2 - 1} \\ = \frac{x(x - 1) \cdot 15 }{ 5x (x - 1) (x + 1)} \\ = \frac{15}{5(x + 1)} \\ = \frac{3}{(x + 1)} \end{array}
+
+---
+
+## Division of Rational Expressions
+
+### Example 1
+
+34÷78=3⋅84⋅7=3⋅21⋅7\frac{3}{4} \div \frac{7}{8} = \frac{3 \cdot 8}{4 \cdot 7} = \frac{3 \cdot 2}{1 \cdot 7}
+
+### Example 2
+
+7x26÷x2y7x26⋅2yx14xy6=7xy2\begin{array}{l} \frac{7x^2}{6} \div \frac{x}{2y} \\ \frac{7x^2}{6} \cdot \frac{2y}{x} \\ \frac{14xy}{6} \\ = \frac{7xy}{2} \end{array}
+
+### Example 3
+
+5a3b224÷10a565a3b224⋅610a5=b28a2\begin{array}{l} \frac{5a^3 b^2}{24} \div \frac{10a^5}{6} \\ \frac{5a^3 b^2}{24} \cdot \frac{6}{10a^5} \\ = \frac{b^2}{8a^2} \end{array}
+
+### Example 4
+
+10x+4x2−4÷5x3+2x2x+210x+4x2−4⋅x+25x3+2x22(5x+2)(x−2)(x+2)⋅x+2x2(5x+2)=2(x−2)x2\begin{array}{l} \frac{10x + 4}{x^2 - 4} \div \frac{5x^3 + 2x^2}{x+2} \\ \frac{10x + 4}{x^2 - 4} \cdot \frac{x+2}{5x^3 + 2x^2} \\ \frac{2(5x + 2)}{(x-2)(x+2)} \cdot \frac{x+2}{x^2(5x + 2)} \\ = \frac{2}{(x - 2)x^2} \end{array}
+
+### Example 5
+
+10x−2x2−9÷5x2−xx+310x−2x2−9⋅x+35x2−x2(5x−1)(x−3)(x+3)⋅x+3x(5x−1)=2(x−3)x\begin{array}{l} \frac{10x - 2}{x^2 - 9} \div \frac{5x^2 - x }{x+ 3} \\ \frac{10x - 2}{x^2 - 9} \cdot \frac{x+3}{5x^2 - x} \\ \frac{2(5x - 1)}{(x - 3)(x + 3)} \cdot \frac{x+3}{x(5x - 1)} \\ = \frac{2}{(x - 3)x} \end{array}
+
+### Example 6
+
+3x2−10x+87x−14÷9x−12213x2−10x+87x−14⋅219x−12(3x−4)(x−2)7(x−2)⋅213(3x−4)=1\begin{array}{l} \frac{3x^2 - 10x + 8}{7x - 14} \div \frac{9x - 12 }{21} \\ \frac{3x^2 - 10x + 8}{7x - 14} \cdot \frac{21}{9x - 12} \\ \frac{(3x - 4)(x - 2)}{7(x - 2)} \cdot \frac{21}{3(3x - 4)} \\ = 1 \end{array}
+
+### Example 7
+
+3−xx2+6x+5÷x2−7x+122x+10=3−xx2+6x+5⋅2x+10x2−7x+12=−(x−3)(x+1)(x+5)⋅2(x+5)(x−4)(x−3)=−2(x−4)(x+1)\begin{array}{l} \frac{3-x}{x^2 + 6x + 5} \div \frac{x^2 - 7x + 12}{2x + 10} \\ = \frac{3-x}{x^2 + 6x + 5} \cdot \frac{2x + 10}{x^2 - 7x + 12} \\ = \frac{-(x - 3)}{(x + 1)(x + 5)} \cdot \frac{2(x + 5)}{(x - 4)(x - 3)} \\ = \frac{-2}{(x - 4)(x + 1)} \end{array}
+
+---
+
+This structure retains all original links and formulas while breaking the content into logical sections with clear headings. Let me know if you'd like any further adjustments!
