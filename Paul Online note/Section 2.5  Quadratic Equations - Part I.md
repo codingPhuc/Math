@@ -125,8 +125,23 @@ $$
 \begin{array}  {l} 
 3x^2=2x+8  \\
 3x^2  -  2x   -  8  =  0   \\
-(x    -  6 ) ( x +   )  \\
+(x    -  2 ) ( 3x +   4 )     =    0   \\
+ \\
+\left\{
+\begin{array}{l}
+x    -  2  = 0  \\
+3x +   4  = 0   \\
 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+y  =-\frac{1}{2} \\
+y =  \frac{1}{2} \\
+
+\end{array}
+\right.
+\right. 
 \end{array}  
 $$
 
