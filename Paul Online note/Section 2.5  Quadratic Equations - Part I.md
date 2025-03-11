@@ -73,7 +73,7 @@ $$
 $$
 \begin{array}  {l} 
 y^2   +  12y  +  36   =  0   \\
-   \\
+(y   + )   \\
 
 \end{array}  
 $$
