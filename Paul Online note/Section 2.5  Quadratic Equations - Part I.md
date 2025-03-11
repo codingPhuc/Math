@@ -200,4 +200,28 @@ x =  \frac{2}{5} \\
 $$
 
 
-work  on another types of problems since they are also  Q
+work  on another types of problems since they are also  Quadratic Equation  
+$$
+\begin{array}  {l} 
+  
+\frac{1}{x+ 1}  =   1   -  \frac{5}{2x -  4  }   \\
+\frac{1}{x+ 1}  =   1   -  \frac{5}{2x -  4  } \\
+
+
+\left\{
+\begin{array}{l}
+5x  - 2   = 0  \\
+x= 0   \\
+
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =  0 \\
+x =  \frac{2}{5} \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$
