@@ -25,6 +25,7 @@ $$
 \begin{array}  {l} 
 x^2  - x  =  12   \\
 x^2  -  x  - 12  =  0     \\
+(x  - 4)(x  +  3 ) =    0    \\
 
 \end{array}  
 $$ 
