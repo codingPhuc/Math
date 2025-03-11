@@ -179,7 +179,9 @@ $$
   
 5x^2=2x  \\
 5x^2  -  2 x  =  0    \\
-
+x(5x  - 2  )     =    0  \\
+x =  0  \\
+x =  \frac{2}{5}
 \left\{
 \begin{array}{l}
 3x   + 2  = 0  \\
@@ -189,8 +191,8 @@ $$
 \implies
 \left\{
 \begin{array}{l}
-y  =\frac{2}{-3}\\
-y =  -\frac{-5}{2} \\
+x =  0 \\
+x =  \frac{2}{5} \\
 
 \end{array}
 \right.
