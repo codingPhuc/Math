@@ -153,7 +153,22 @@ $$
 $$
 \begin{array}  {l} 
 10z^2+19z+6= 0   \\
- (2x   )\\
+ (3x   + 2)  (2x   + 5 )  =     0   \\
+ \\
+\left\{
+\begin{array}{l}
+3x   + 2  = 0  \\
+2x   + 5  = 0   \\
 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+y  =2\\
+y =  -\frac{4}{3} \\
+
+\end{array}
+\right.
+\right.   
 \end{array}  
 $$
