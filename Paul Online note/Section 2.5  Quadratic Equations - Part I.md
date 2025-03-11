@@ -136,8 +136,8 @@ x    -  2  = 0  \\
 \implies
 \left\{
 \begin{array}{l}
-y  =-\frac{1}{2} \\
-y =  \frac{1}{2} \\
+y  =2\\
+y =  -\frac{4}{3} \\
 
 \end{array}
 \right.
@@ -152,7 +152,8 @@ $$
 
 $$
 \begin{array}  {l} 
-x^2  - x  =  12   \\
+10z^2+19z+6= 0   \\
+ \\
 
 \end{array}  
 $$
