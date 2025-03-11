@@ -7,7 +7,9 @@ tags:
 reference:
 ---
 # #Definition  
-rational  expression , is a  fraction which have the numerator and the  denominator  as a polynomial  here are some basic example : 
+rational  expression , is a  fraction which have the numerator and the  denominator  as a  polynomial
+A FRACTION WHERE BOTH THE NUMER AND DENOM. ARE  POLYNOMIALS 
+here are some basic example : 
 $\frac{6}{x-1}$
 $\frac{z^2  -1}{z^2 +5}$ 
 $\frac{z^2  -1}{1}$ 
