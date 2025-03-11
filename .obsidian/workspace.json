@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/learning road map.md",
+                "file": "Professor Leonard/7.1 Rational Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "learning road map"
+              "title": "7.1 Rational Function"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professor Leonard/7.1 Rational Function.md",
+                "file": "Paul Online note/Radicals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1 Rational Function"
+              "title": "Radicals"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,36 +259,36 @@
       }
     ]
   },
-  "active": "b069c496885cb568",
+  "active": "b30f570e38f787d2",
   "lastOpenFiles": [
+    "Paul Online note/Faction.md",
+    "Paul Online note/Rational  Expression.md",
+    "Professor Leonard/7.1 Rational Function.md",
+    "Paul Online note/Rational Function.md",
+    "Paul Online note/Solutions and Solution Sets.md",
+    "Paul Online note/Complex Numbers.md",
+    "Paul Online note/Factoring Polynomials.md",
+    "Paul Online note/Polynomials.md",
+    "Paul Online note/Radicals.md",
+    "Paul Online note/Rational exponents.md",
+    "Paul Online note/Integer Exponents.md",
+    "mathwiki/learning road map.md",
     "Paul Online note/Factor.md",
     "Paul Online note/Place value.md",
     "Paul Online note/Pasted image 20241201201758.png",
     "Paul Online note/Pasted image 20241201195150.png",
     "mathwiki/Proof in Math.md",
-    "Paul Online note/Rational  Expression.md",
     "Paul Online note/Solve.md",
     "Paul Online note/ALGREBLA.md",
-    "Paul Online note/Factoring Polynomials.md",
-    "Paul Online note/Polynomials.md",
     "Paul Online note/Factoring  Polynomials.md",
-    "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
-    "Professor Leonard/7.1 Rational Function.md",
     "Professor Leonard/7.5 Solving Rational Equations (Equations with Rational Expressions).md",
-    "Paul Online note/Complex Numbers.md",
     "Paul Online note/Section 2.3 Applications of Linear Equations.md",
     "Paul Online note/Equation with more than one Variable.md",
     "Professor Leonard/Lecture C.3 A BRIEF Review of Graphing.md",
     "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "Professor Leonard/C.4 POLYNIMIALS.md",
-    "Professor Leonard/Rational Function.md",
     "Professor Leonard/how to analysis your  problem.md",
-    "Professor Leonard/x 6.7 Word Problem.md",
-    "Paul Online note/Radicals.md",
-    "Paul Online note/Rational exponents.md",
-    "Paul Online note/Faction.md",
-    "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
     "Pasted Image 20250226155530_564.png",
     "Pasted image 20250226155434.png",
     "Pasted image 20250224163008.png",
