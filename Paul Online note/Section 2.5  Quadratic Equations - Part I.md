@@ -26,12 +26,18 @@ $$
 x^2  - x  =  12   \\
 x^2  -  x  - 12  =  0     \\
 (x  - 4)(x  +  3 ) =    0    \\
+\left\{
+\begin{array}{l}
+x  - 4 = 0  \\
+y + 3 = 0   \\
+
+\end{array}
+\right. \\
 
 \end{array}  
 
 
-$$ 
-
+$$
 $$
 \begin{array}  {l} 
 x^2    +  40    =  -14x     \\
