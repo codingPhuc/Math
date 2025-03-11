@@ -98,8 +98,22 @@ $$
 
 $$
 \begin{array}  {l} 
-x^2  - x  =  12   \\
+4m^2−1=0  \\
+\left\{
+\begin{array}{l}
+y   +  6  = 0  \\
+y   +  6 = 0   \\
 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+y  = -6  \\
+y =  - 6 \\
+
+\end{array}
+\right.
+\right. 
 \end{array}  
 $$
 
