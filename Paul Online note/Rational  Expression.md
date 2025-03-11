@@ -9,7 +9,11 @@ reference:
 # #Definition  
 rational  expression , is a  fraction which have the numerator and the  denominator  as a  polynomial
 A FRACTION WHERE BOTH THE NUMER AND DENOM. ARE  POLYNOMIALS  
+**Rational Function**: A rational function is a function that can be expressed as a rational expression. In other words, a rational function is a function that is defined as the ratio of two polynomials. A rational function is typically written as:
 
+$$f(x)=\frac{P(x)}{Q(x)}$$
+
+where $P(x)$ and $Q(x)$ are polynomials, and $Q(x) \neq 0$.
 $$\frac{P}{Q}$$
 here are some basic example : 
 $\frac{6}{x-1}$
