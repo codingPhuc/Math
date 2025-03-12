@@ -256,4 +256,33 @@ x = 1  \\
 \right.
 \right.   
 \end{array}  
-$$ we see that the solution to the problem  is   x = -4  , because when plug in  -1  
+$$ we see that the solution to the problem  is   x = -4  , because when plug in  -1  it will create an error  
+
+let used equation  with larger than two degree   ?  
+
+$$
+\begin{array}  {l} 
+5x^3  -  5x^2   - 10x =  0   \\ \\
+x(x   -  1  )   +  3(x   -  1 )  +  3    =   4  - x    \\
+x^2    - x  +  3x - 3    +  3  =   4   -  x    \\
+x^2  +     3x     - 4   =  0   \\
+(x +  4)(x    -  1  )  =    0   \\
+  
+
+\left\{
+\begin{array}{l}
+x +  4  = 0  \\
+x    -  1  = 0   \\
+
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =   - 4\\
+x = 1  \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$ 
