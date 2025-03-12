@@ -1,10 +1,10 @@
 ---
 title: Adjunction
-references: 
+references: https://www.youtube.com/watch?v=T0HyWIFbsHQ
 tags:
   - In_Progress
 reference: 
-Current date: "2025-03-12"
+Current date: 2025-03-12
 ---
 
 # #definition  
