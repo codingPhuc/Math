@@ -37,8 +37,18 @@ $$x^2  -   6x + 9  =  -1  +   9     $$
 $$
 \begin{array}  {l} 
 (x    -  3)^2  =    8   \\
-  =  \pm  2\sqrt{ 2 }  \\
-(x  - 4)(x  +  3 ) =    0    \\
-
+ x   -   3  =  \pm  2\sqrt{ 2 }  \\
+x    =    \pm  2\sqrt{ 2 }  +  3   \\
 \end{array} 
-     $$ 
+     $$
+
+	
+$$
+\begin{array}  {l} 
+2x^2   + 6x  +  7   =  0      \\
+ x   -   3  =  \pm  2\sqrt{ 2 }  \\
+x    =    \pm  2\sqrt{ 2 }  +  3   \\
+\end{array} 
+     $$
+
+	
