@@ -282,20 +282,18 @@ $$
 $$
 p^2   =   d   \; then  \;  p =  \pm   \sqrt{ d }
 $$
+the  $\pm$  symbol  read as :  ""
+$$
+\begin{array}  {l} 
+x^2   -  100  =    0   \\
+x  =   \pm   10     \\
+\end{array}  
+$$ 
+
 
 $$
 \begin{array}  {l} 
 x^2   -  100  =    0   \\
-x  (5x^2  -  5x  - 10 ) =  0      \\
-x  (x -  2  ) (x  + 1  )  =   0   \\
-  
-
-\left\{
-\begin{array}{l}
-x =  2 \\
-x     = - 1   \\
-x   = 0 
-\end{array}
-\right.   
+x  =   \pm   10     \\
 \end{array}  
 $$
