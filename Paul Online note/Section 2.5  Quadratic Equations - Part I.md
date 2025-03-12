@@ -587,8 +587,8 @@ because  z  =  0 can lead to an  error we  concluded that z can  only have  $\fr
 $$
 \begin{array}  {l} 
 x +  1   =     \frac{2x  -  7 }{x+ 5}   -   \frac{5x +  8 } {x+  5 } \\
-(x+ 5)(x+ 1)       = 2x  -  7    \\
- 4z^2     +   5z  +  5    =    6z   +  5  \\
+(x+ 5)(x+ 1)       = 2x  -  7    - 5x    -   8x  \\
+x^2    +  x   +  5x      =    6z   +  5  \\
  4z^2   -z       =       0  
 z(4z  - 1 )=  0    \\
 \left\{
