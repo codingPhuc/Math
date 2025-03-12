@@ -535,19 +535,17 @@ $$
 w^2   - 10    +  w^2   +  2w  -  4w  -  8     =   w^2  + 2w  -3w   -  6  \\
 w^2    -  w - 12    =       0  
 (w  - 4)  ( w  + 3  ) =  0    \\
-t^3(t^2   - 9 )=  0    \\
-t^3(t-3) (t +  3 )=  0 
 \left\{
 \begin{array}{l}
-z  - 3  = 0 \\
-z +  1   = 0  \\
+w  - 4  = 0 \\
+w  + 3    = 0  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x =    3 \\
-x =       -  1 \\
+x =      - 3 \\
+x =       -  4  \\
 
 \end{array}
 \right.
@@ -556,4 +554,30 @@ x =       -  1 \\
 $$
 
 
+
+
+$$
+\begin{array}  {l} 
+\frac{4z  }{ z  + 1  }  +  w -  4   =  w - 3 \\ 
+ w^2    -  10   +   w(w + 2)  - 4( w+ 2)  =  w(w   + 2)   - 3(w + 2)  \\
+w^2   - 10    +  w^2   +  2w  -  4w  -  8     =   w^2  + 2w  -3w   -  6  \\
+w^2    -  w - 12    =       0  
+(w  - 4)  ( w  + 3  ) =  0    \\
+\left\{
+\begin{array}{l}
+w  - 4  = 0 \\
+w  + 3    = 0  \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =      - 3 \\
+x =       -  4  \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$
 
