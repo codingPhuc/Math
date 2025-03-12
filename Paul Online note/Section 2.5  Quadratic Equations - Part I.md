@@ -262,9 +262,9 @@ let used equation  with larger than two degree   ?
 
 $$
 \begin{array}  {l} 
-5x^3  -  5x^2   - 10x =  0   \\ \\
-x(x   -  1  )   +  3(x   -  1 )  +  3    =   4  - x    \\
-x^2    - x  +  3x - 3    +  3  =   4   -  x    \\
+5x^3  -  5x^2   - 10x =  0    \\
+x  (5x^2  -  5x  - 10 ) =  0      \\
+x  (5x^2  -  5x  - 10 )  =   0   \\
 x^2  +     3x     - 4   =  0   \\
 (x +  4)(x    -  1  )  =    0   \\
   
