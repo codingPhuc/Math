@@ -192,15 +192,15 @@ $$
 \frac{3}{y-2}   -  \frac{1}{y}   -  1      =    0    \\
 3y   -   (y  -2  )  -y(y-2)  =  0    \\
 3y  - y + 2   - y^2   + 2y   = 0  \\
-y^2 
+y^2 +  4y    + 2  =   0   
 \end{array}
-
   $$
+  we will have  a as 1 ,  b as  4 and  c as 2  
 
-we will have a as  -1  ,  b as  16 and  c as  0  
+
 
 $$\begin{array} {l}
- x =    \frac{ -  16  \pm  \sqrt{ 16^2    }     }{-2}   \\
+ x  =    \frac{ -  b   \pm  \sqrt{ b^2 - 4ac   }     }{2a}    \\
  x  =    \frac{ -  16  \pm  16    }{-2}      \\
  \left\{
 \begin{array}{l}
