@@ -201,11 +201,11 @@ y^2 +  4y    + 2  =   0
 
 $$\begin{array} {l}
  x  =    \frac{ -  4   \pm  \sqrt{ (-4)^2 - 4\cdot 2    }     }{2}    \\
- x  =    \frac{ -  4   \pm  \sqrt{ (-4)^2 - 4\cdot 2    }     }{2}       \\
+ x  =    \frac{ -  4   \pm 2\sqrt{ 2 }     }{2}       \\
  \left\{
 \begin{array}{l}
-x   =  \frac{ -  4   \pm  \sqrt{ (-4)^2 - 4\cdot 2    }     }{2}        \\
-x  = \frac{  -  16  -   16       }{-2}  \\
+x   =  \frac{ -  4   +  2\sqrt{ 2 }     }{2}        \\
+x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
  
 \end{array} \\
 \implies
