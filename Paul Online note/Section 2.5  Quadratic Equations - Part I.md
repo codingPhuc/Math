@@ -572,14 +572,15 @@ z  = 0 \\
 \implies
 \left\{
 \begin{array}{l}
-x =     0  \\
-x =       \frac{1}{4} \\
+z =     0  \\
+z =       \frac{1}{4} \\
 
 \end{array}
 \right.
 \right.   
 \end{array}  
 $$
+because  z  =  0 can lead to an  error we  concluded that z can  only have  $\frac{1}{4}$
 
 
 
