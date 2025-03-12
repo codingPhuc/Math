@@ -72,4 +72,5 @@ x  =    \pm \frac{2}{3} +   \frac{1}{3}
 
 completing  the square is a long process  that can cause a lot of mistake   .  So  , we rarely actually used it  to solve  problem   
 
-## 
+##  Quadratic Formula 
+this is the final  solution to solving quadratic equation  an will always work  and you can remember the formula as well  
