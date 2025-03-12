@@ -46,8 +46,8 @@ x    =    \pm  2\sqrt{ 2 }  +  3   \\
 $$
 \begin{array}  {l} 
 2x^2   + 6x  +  7   =  0      \\
- x   -   3  =  \pm  2\sqrt{ 2 }  \\
-x    =    \pm  2\sqrt{ 2 }  +  3   \\
+2x^2   + 6x    =   -  7\\
+2x^2   +   6x     \\
 \end{array} 
      $$
 
