@@ -470,7 +470,7 @@ $$
 
 
 
-
+## used  factoring to solve the problem  
 
 $$
 \begin{array}  {l} 
@@ -526,7 +526,7 @@ $$
 
 
 
-##  used  factoring to solve t
+##  used  factoring to solve the equation 
 
 $$
 \begin{array}  {l} 
@@ -611,3 +611,4 @@ $$
 
 
 
+##  used  Square root propert
