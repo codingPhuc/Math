@@ -650,12 +650,20 @@ u^2    =  \frac{16}{9}   \\
 u  = \pm  \frac{4}{3}  \\ 
 
 \end{array}  
-$$ 
+$$
+
+$$
+\begin{array}  {l} 
+(z−2)^2−36=0(z−2)2−36=0
+
+\end{array}  
+$$
 $$
 \begin{array}  {l} 
 (6t   +  1)^ 2  + 3    =  0   \\
 (6t   +  1)^ 2    =   -3   \\
 6t  +  1  =   \pm \sqrt{ 3 } \cdot i   \\
-t    =   
+t    =   \frac{\pm \sqrt{ 3 } \cdot i}{ 6}   - \frac{1}{6}
 
-\end{array
+\end{array}  
+$$ 
