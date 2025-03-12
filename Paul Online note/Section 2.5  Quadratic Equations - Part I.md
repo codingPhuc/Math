@@ -318,9 +318,7 @@ $$
 $$
 \begin{array}  {l} 
 (2t -   9 )^2  = 5 \\
-2t  -  9   =  \pm  \sqrt{ 5 }
-   \\
-z^2  =  \frac{49}{4} \\
-z =  \pm    \frac{7}{2}
+2t  -  9   =  \pm  \sqrt{ 5 } \\
+t=  \frac{\pm \sqrt{ 5 } +  9}{ 2}
 \end{array}  
 $$
