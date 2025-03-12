@@ -445,26 +445,27 @@ $$
 $$
 \begin{array}  {l} 
  z^2−16z+61=  2z -  20         \\
-z^2   - 18z     =  0    \\
-  (w -  1 ) (6w   +  5 ) =  0    \\
+z^2   - 18z    +  81  =  0    \\
+ (z  - 9) ( z -   9  )=  0    \\
    
   
 
 \left\{
 \begin{array}{l}
-w -  1     = 0 \\
-6w   +  5     = 0  \\
+z  - 9   = 0 \\
+z -   9   = 0  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x =    1  \\
-x =     -\frac{5}{6} \\
+x =    9  \\
+x =     9 \\
 
 \end{array}
 \right.
 \right.   
 \end{array}  
 $$
+
 
