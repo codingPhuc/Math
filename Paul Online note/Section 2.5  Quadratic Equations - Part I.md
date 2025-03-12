@@ -234,7 +234,9 @@ $$
 factoring can help with  solving equation  with  degree larger than 2  
 $$
 \begin{array}  {l} 
-x   +  3  +  \frac{3}{x -  1 }  =  \frac{4  - x } { x  =1}
+x   +  3  +  \frac{3}{x -  1 }  =  \frac{4  - x } { x   -  1 }  \\
+x(x   -  1  )   +  3(x   -  1 )  +  3    =   4  - x   
+x^2    - x  +  3x - 3    +  3  =   4   -  x   \\
 
 
 \left\{
