@@ -95,3 +95,7 @@ now add the   number needed to complete the square to both side of the equation 
 $$   x  =    \pm  \frac{\sqrt{ b^2 - 4ac }  }{2a^2}        - \frac{b}{2a}     $$ 
 solve for x we also  simply  the square root a little 
 
+$$   x  =    \pm  \frac{\sqrt{ b^2 - 4ac   }   -  b  }{2a^2}      $$
+As a last step we will notice that we’ve got common denominators on the two terms and so we’ll add them up. Doing this gives,
+
+## used the quadratic  formula to solve  each of the followi
