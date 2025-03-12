@@ -24,3 +24,6 @@ $$ x^2 -   16x + 64      =  ( x -   8  )^2    $$
 
 $$y^2   +  7y + \frac{49}{4}  = \left( x +  \frac{7}{2} \right)^2$$ 
 ## example   2 used  completing the square to solve the  following  quadratic  equation 
+ 
+
+$$$$ 
