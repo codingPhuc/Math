@@ -34,4 +34,11 @@ $$x^2  -   6x + \left(   -\frac{6}{ 2 } \right)^2   =  -1  +   9     $$
 **Step 3 :** Complete the square on the left side. However, this time we will need to add the number to both sides of the equal sign instead of just the left side. This is because we have to remember the rule that what we do to one side of an equation we need to do to the other side of the equation.  
 $$x^2  -   6x + 9  =  -1  +   9     $$
 **Step 4 :** Now, at this point notice that we can use the square root property on this equation. That was the purpose of the first three steps. Doing this will give us the solution to the equation. 
-$$( x    -  3)^2   =      8      $$ 
+$$
+\begin{array}  {l} 
+(x    -  3)^2  =    8   \\
+x^2  -  x  - 12  =  0     \\
+(x  - 4)(x  +  3 ) =    0    \\
+
+\end{array} 
+     $$ 
