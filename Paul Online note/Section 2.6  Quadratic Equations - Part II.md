@@ -230,3 +230,18 @@ x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
   \\ 
 \end{array}       $$
 
+$$\frac{1}{2} x^2  + x  - \frac{1}{10 }   =  0    $$  we will  have a as $\frac{1}{2}$   b as  1 and c as $-\frac{1}{10}$
+$$\begin{array} {l}
+ x  =    \frac{ -  1   \pm  \sqrt{ 1^2 - 4\cdot  \frac{1}{2} \left( -\frac{1}{10} \right)   }     }{2\cdot  \frac{1}{2}}   \\
+ \frac{ -  1   \pm  \sqrt{ 1^2 - 4\cdot  \frac{1}{2} \left( -\frac{1}{10} \right)   }     }{2\cdot  \frac{1}{2}}        \\
+ \left\{
+\begin{array}{l}
+x   =  \frac{ -  4   +  2\sqrt{ 2 }     }{2}        \\
+x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
+ 
+\end{array} \\
+
+\right. 
+  \\ 
+\end{array}       $$
+
