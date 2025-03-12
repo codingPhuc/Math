@@ -29,7 +29,7 @@ $$y^2   +  7y + \frac{49}{4}  = \left( x +  \frac{7}{2} \right)^2$$
 $$ 
 
 \begin{array}  {l} 
-x^2  - x  =  12   \\
+x^2  - 6x   + 1   =     0   \\
 x^2  -  x  - 12  =  0     \\
 (x  - 4)(x  +  3 ) =    0    \\
 \left\{
