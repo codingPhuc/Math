@@ -204,7 +204,7 @@ $$\begin{array} {l}
  x  =    \frac{ -  4   \pm  \sqrt{ (-4)^2 - 4\cdot 2    }     }{2}       \\
  \left\{
 \begin{array}{l}
-x   = \frac{  -  16  + 16       }{-2}   \\
+x   =  \frac{ -  4   \pm  \sqrt{ (-4)^2 - 4\cdot 2    }     }{2}        \\
 x  = \frac{  -  16  -   16       }{-2}  \\
  
 \end{array} \\
