@@ -86,4 +86,7 @@ $$x^2     +    \frac{bx}{a}     + \frac{c}{a}     =  0  $$
 $$
 \left( \frac{b}{2a} \right)^2  =      \frac{b^2}{4a^2} 
 $$
-now we need to compute the number needed to complete  the square  .  This is one half the coefficeint o f
+now we need to compute the number needed to complete  the square  .  This is one half the coefficient  of  x  
+ $$x^2     +    \frac{bx}{a}  +  \frac{b^2}{4a^2}    =    \frac{b^2}{4a^2}    - \frac{c}{a}      $$
+  $$x^2     +    \frac{bx}{a}  +  \frac{b^2}{4a^2}    =    \frac{b^2}{4a^2}    - \frac{c}{a}      $$
+ 
