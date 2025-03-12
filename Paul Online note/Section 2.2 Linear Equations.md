@@ -1,3 +1,11 @@
+---
+title: Adjunction
+references: 
+tags:
+  - In_Progress
+reference: 
+Current date: "2025-03-12"
+---
 
 # #definition  
 We' ll start off the solving portion of the chapter by   solving a linear equation ,  a linear equation is any equation that is written  in the form  : 

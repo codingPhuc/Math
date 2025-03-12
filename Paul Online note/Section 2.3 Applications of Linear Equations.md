@@ -1,3 +1,13 @@
+---
+title: Adjunction
+references: 
+tags:
+  - In_Progress
+reference: 
+Current date: 2025-03-12
+---
+
+
 We will now look at the section  word problem of linear algebra .  This is usually the section where student hate the most . 
 # #definition  
 ## Process for words problem 
