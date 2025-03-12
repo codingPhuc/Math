@@ -655,7 +655,7 @@ $$
 \begin{array}  {l} 
 (6t   +  1)^ 2  + 3    =  0   \\
 (6t   +  1)^ 2    =   -3   \\
+6t  +  1  =   \pm \sqrt{ 3 } \cdot i   \\
+t    =   
 
-
-\end{array}  
-$$ 
+\end{array
