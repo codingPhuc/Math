@@ -412,3 +412,30 @@ x =    4  \\
 \right.   
 \end{array}  
 $$ 
+
+
+$$
+\begin{array}  {l} 
+y^2       = 11y   - 28      \\
+y^2  - 11y   + 28   =  0    \\
+  (y  -  7)  ( y  - 4) =  0  \\
+   
+  
+
+\left\{
+\begin{array}{l}
+y  -  7    = 0 \\
+y  - 4    = 0  \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =    7  \\
+x =    4  \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$
