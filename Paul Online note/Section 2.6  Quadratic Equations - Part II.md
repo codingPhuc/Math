@@ -122,10 +122,10 @@ x   = \frac{ +  5   \pm   \sqrt{107    }\cdot  i         }{18}    \\
 
 
 $$7t^2    =  6  - 19 T      \implies    7t^2   - 6  +  19 t   =    0   $$ 
-we will have    a as  7   ,  b  as   1 and  c  as    11 
+we will have    a as  7   ,  b  as   19 and  c  as    6  
 so when plug into the formula  x will be  
 $$\begin{array} {l}
- x  =    \pm  \frac{\sqrt{ (-5)^2 - 4\cdot 3  \cdot  11     }    +  5    }{2\cdot 3^2}  \\
+x  =    \pm  \frac{\sqrt{ (19)^2 - 4\cdot_{7} (- 6 )   }   -  b  }{2a^2}    \\
  x  =    \frac{ +  5   \pm   \sqrt{ -107    }       }{18}      \\
 x   = \frac{ +  5   \pm   \sqrt{107    }\cdot  i         }{18}    \\ 
 \end{array}       $$
