@@ -303,6 +303,13 @@ $$
 \begin{array}  {l} 
 25y^2   - 3  =    0   \\
 y   = \sqrt{    \frac{3}{25}}     \\
-y  =  \pm  3
+y  =  \pm  \frac{\sqrt{  3}}{5}
+\end{array}  
+$$ 
+
+$$
+\begin{array}  {l} 
+4z^2  +  49   =   0    \\
+z  =  \frac{49}{4}
 \end{array}  
 $$
