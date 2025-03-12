@@ -26,4 +26,28 @@ $$y^2   +  7y + \frac{49}{4}  = \left( x +  \frac{7}{2} \right)^2$$
 ## example   2 used  completing the square to solve the  following  quadratic  equation 
  
 
-$$$$ 
+$$ 
+
+\begin{array}  {l} 
+x^2  - x  =  12   \\
+x^2  -  x  - 12  =  0     \\
+(x  - 4)(x  +  3 ) =    0    \\
+\left\{
+\begin{array}{l}
+x  - 4 = 0  \\
+y + 3 = 0   \\
+
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+y  = 4 \\
+y =  - 3  \\
+
+\end{array}
+\right.
+\right. 
+
+\end{array}  
+
+$$ 
