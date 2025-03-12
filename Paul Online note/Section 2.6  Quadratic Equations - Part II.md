@@ -25,11 +25,12 @@ $$ x^2 -   16x + 64      =  ( x -   8  )^2    $$
 $$y^2   +  7y + \frac{49}{4}  = \left( x +  \frac{7}{2} \right)^2$$ 
 ## example   2 used  completing the square to solve the  following  quadratic  equation 
  
-
+$$x^2  -   6x  + 1  =  0   $$
  **Step 1** **:** Divide the equation by the coefficient of the _x2_ term. Recall that completing the square required a coefficient of one on this term and this will guarantee that we will get that. We don’t need to do that for this equation however.  
 
-
+$$x^2  -   6x   =  -1     $$
 **Step 2 :** Set the equation up so that the xx’s are on the left side and the constant is on the right side.
+
 **Step 3 :** Complete the square on the left side. However, this time we will need to add the number to both sides of the equal sign instead of just the left side. This is because we have to remember the rule that what we do to one side of an equation we need to do to the other side of the equation.  
 
 **Step 4 :** Now, at this point notice that we can use the square root property on this equation. That was the purpose of the first three steps. Doing this will give us the solution to the equation. 
