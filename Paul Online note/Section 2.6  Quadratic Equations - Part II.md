@@ -190,7 +190,9 @@ $$
 \begin{array}{l}   
 \frac{3}{y-2}     =  \frac{1}{y}  + 1   \\
 \frac{3}{y-2}   -  \frac{1}{y}   -  1      =    0    \\
-
+3y   -   (y  -2  )  -y(y-2)  =  0    \\
+3y  - y + 2   - y^2   + 2y   = 0  \\
+y^2 
 \end{array}
 
   $$
