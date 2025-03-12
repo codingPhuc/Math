@@ -190,8 +190,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "floating": {
@@ -264,14 +263,14 @@
         "direction": "vertical",
         "x": 2737,
         "y": -216,
-        "width": 719,
-        "height": 1032,
+        "width": 576,
+        "height": 653,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b069c496885cb568",
+  "active": "9b3f64ef23927a5f",
   "lastOpenFiles": [
     "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
