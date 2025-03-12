@@ -64,8 +64,9 @@ $$
 x^2     -  \frac{2}{3} x   =   \frac{1}{3}   \\
 x^2     -  \frac{2}{3} x  +    \left( -  \frac{1}{ 3 } \right)^2      =   \frac{1}{3}   +    \left( -  \frac{1}{ 3 } \right)^2   \\
 \left( x - \frac{1}{3}  \right)^2     =  \frac{4}{9} \\
- x - \frac{1}{3}     =  \sqrt{  }
-\end{array} 
+ x - \frac{1}{3}     = \pm   \frac{2}{3  } \\
+x  =    \pm \frac{2}{3} +   \frac{1}{3} 
+ \end{array} 
      $$
 
 
