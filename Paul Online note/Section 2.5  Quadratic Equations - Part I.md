@@ -589,18 +589,18 @@ $$
 x +  1   =     \frac{2x  -  7 }{x+ 5}   -   \frac{5x +  8 } {x+  5 } \\
 (x+ 5)(x+ 1)       = 2x  -  7    - 5x    -   8  \\
 x^2    +  x   +  5x   + 5     =     2x  -  7    - 5x    -   8   \\
- x^2     + 17x    +      =   2x  -  7    - 5x    -   8x 
-z(4z  - 1 )=  0    \\
+ x^2  +   9x     + 20          =  0   \\
+(x + 4)( x +  5)  =   0 
 \left\{
 \begin{array}{l}
-z  = 0 \\
-4z  - 1   = 0  \\
+x + 4  = 0 \\
+x +  5 = 0  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x =     0  \\
+x =      =  \\
 x =       \frac{1}{4} \\
 
 \end{array}
