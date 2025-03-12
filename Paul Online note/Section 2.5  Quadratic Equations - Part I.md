@@ -230,6 +230,33 @@ x =  \frac{1}{2} \\
 \end{array}  
 $$
 
+$$
+\begin{array}  {l} 
+x   +  3  +  \frac{3}{x -  1 }  =  \frac{4  - x } { x   -  1 }  \\
+x(x   -  1  )   +  3(x   -  1 )  +  3    =   4  - x    \\
+x^2    - x  +  3x - 3    +  3  =   4   -  x    \\
+x^2  +     3x     - 4   =  0   \\
+(x +  4)(x    -  1  )  =    0   \\
+  
+
+\left\{
+\begin{array}{l}
+x +  4  = 0  \\
+x    -  1  = 0   \\
+
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =   - 4\\
+x = 1  \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$
+
 
 factoring can help with  solving equation  with  degree larger than 2  
 $$
@@ -238,23 +265,23 @@ x   +  3  +  \frac{3}{x -  1 }  =  \frac{4  - x } { x   -  1 }  \\
 x(x   -  1  )   +  3(x   -  1 )  +  3    =   4  - x    \\
 x^2    - x  +  3x - 3    +  3  =   4   -  x    \\
 x^2  +     3x     - 4   =  0   \\
-(x +  )\\
-
+(x +  4)(x    -  1  )  =    0   \\
+  
 
 \left\{
 \begin{array}{l}
-x   - 5  = 0  \\
-2x   -1 = 0   \\
+x +  4  = 0  \\
+x    -  1  = 0   \\
 
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x =  5\\
-x =  \frac{1}{2} \\
+x =   - 4\\
+x = 1  \\
 
 \end{array}
 \right.
 \right.   
 \end{array}  
-$$
+$$ 
