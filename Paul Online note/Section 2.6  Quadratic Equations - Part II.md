@@ -75,7 +75,9 @@ completing  the square is a long process  that can cause a lot of mistake   .  S
 ##  Quadratic Formula 
 this is the final  solution to solving quadratic equation  an will always work  and you can remember the formula as well  
 
-$$ax^2     +    bx     + c     =  0  $$ 
+$$ax^2     +    bx     + c     =  0  $$
+first  we must  have quadratic  equation in the standard form as noted  above 
 
 
 $$ax^2     +    bx     + c     =  0  $$
+ then we need to divide both side by   a  to get a coefficient  of  one o n  the x^2  the
