@@ -173,8 +173,37 @@ x  = \frac{  -  16  -   16       }{-2}  \\
 \begin{array}{l}
 x   = 0 \\
 x  = 16\\
- 
+\end{array}
+\right.
+\right. 
+  \\ 
+\end{array}       $$
 
+
+
+
+
+
+
+
+$$\fra  $$
+
+we will have a as  -1  ,  b as  16 and  c as  0  
+
+$$\begin{array} {l}
+ x =    \frac{ -  16  \pm  \sqrt{ 16^2    }     }{-2}   \\
+ x  =    \frac{ -  16  \pm  16    }{-2}      \\
+ \left\{
+\begin{array}{l}
+x   = \frac{  -  16  + 16       }{-2}   \\
+x  = \frac{  -  16  -   16       }{-2}  \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x   = 0 \\
+x  = 16\\
 \end{array}
 \right.
 \right. 
