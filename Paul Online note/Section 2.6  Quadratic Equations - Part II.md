@@ -19,7 +19,5 @@ we  notice that the  x^2  have a coefficient  of one .  That is require  in orde
 
 
 $$x^2  + bx  +  \left( \frac{b}{2} \right)^2  =  \left( x + \frac{b}{2} \right)^2 $$ this process  is call  **completing the square** 
-Let  do  a couple  of example 
-
-
-$$x^2 -   16x +  \left( \frac{16}{2} \right)^2      =  \left( x +  \frac{b}{2} \right) $$
+#
+$$x^2 -   16x +  \left( \frac{16}{2} \right)^2      =  \left( x +  \frac{16}{2} \right)^2  $$
