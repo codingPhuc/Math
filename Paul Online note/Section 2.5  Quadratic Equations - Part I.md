@@ -391,21 +391,21 @@ $$
 \begin{array}  {l} 
 y^2       = 11y   - 28      \\
 y^2  - 11y   + 28   =  0    \\
-   =  0  \\
+  (y  -  7)  ( y  - 4) =  0  \\
    
   
 
 \left\{
 \begin{array}{l}
-u  +  5     = 0 \\
-u  +   10     = 0  \\
+y  -  7    = 0 \\
+y  - 4    = 0  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x =     - 5  \\
-x =   - 10  \\
+x =    7  \\
+x =    4  \\
 
 \end{array}
 \right.
