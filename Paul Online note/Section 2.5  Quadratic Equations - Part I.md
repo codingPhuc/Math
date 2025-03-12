@@ -309,7 +309,17 @@ $$
 
 $$
 \begin{array}  {l} 
-4z^2  +  49   =   0    \\
-z  =  \frac{49}{4}
+4z^2  +  49   =  0    \\
+z^2  =  \frac{49}{4} \\
+z =  \pm    \frac{7}{2}
+\end{array}  
+$$
+
+$$
+\begin{array}  {l} 
+(2t -   9 )^2  = 5 \\
+   \\
+z^2  =  \frac{49}{4} \\
+z =  \pm    \frac{7}{2}
 \end{array}  
 $$
