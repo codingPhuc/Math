@@ -113,9 +113,9 @@ $$3q^2    + 11    = 5q     \implies  3q^2  - 5q     + 11    =    0   $$
 we will have    a as  3   ,  b  as  -5 and  c  as    11 
 so when plug into the formula  x will be  
 $$\begin{array} {l}
- x  =    \pm  \frac{\sqrt{ (-5)^2 - 4\cdot 3  \cdot  11     }    +  5    }{2\cdot 3^2}  \\
- x  =    \frac{ +  5   \pm   \sqrt{ -107    }       }{18}      \\
-x   = \frac{ +  5   \pm   \sqrt{107    }\cdot  i         }{18}    \\ 
+ x  =    \pm  \frac{\sqrt{ (-5)^2 - 4\cdot 3  \cdot  11     }    +  5    }{2\cdot 3}  \\
+ x  =    \frac{ +  5   \pm   \sqrt{ -107    }       }{6}      \\
+x   = \frac{ +  5   \pm   \sqrt{107    }\cdot  i         }{6}    \\ 
 \end{array}       $$
 
 
@@ -126,11 +126,11 @@ we will have    a as  7   ,  b  as   19 and  c  as    6
 so when plug into the formula  x will be  
 $$\begin{array} {l}
 x  =      \frac{  - 19  \pm  \sqrt{ (19)^2 - 4\cdot 7 (- 6 )   }    }{2\cdot7}    \\
- x  =    \frac{ - 19  \pm    23       }{56}      \\
+ x  =    \frac{ - 19  \pm    23       }{14}      \\
  \left\{
 \begin{array}{l}
-x   = \frac{ - 19  +    23       }{56}   \\
-x  = \frac{ - 19  -     23       }{56} \\
+x   = \frac{ - 19  +    23       }{14}   \\
+x  = \frac{ - 19  -     23       }{14} \\
  
 \end{array} \\
 \implies
