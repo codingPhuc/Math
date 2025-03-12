@@ -322,3 +322,11 @@ $$
 t=  \frac{\pm \sqrt{ 5 } +  9}{ 2}
 \end{array}  
 $$
+
+$$
+\begin{array}  {l} 
+(3x + 10 )^2+    81    =   0   \\
+2t  -  9   =  -9\\
+t=  \frac{\pm \sqrt{ 5 } +  9}{ 2}
+\end{array}  
+$$
