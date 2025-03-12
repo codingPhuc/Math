@@ -98,4 +98,31 @@ solve for x we also  simply  the square root a little
 $$   x  =    \pm  \frac{\sqrt{ b^2 - 4ac   }   -  b  }{2a^2}      $$
 As a last step we will notice that we’ve got common denominators on the two terms and so we’ll add them up. Doing this gives,
 
-## used the quadratic  formula to solve  each of the followi
+## used the quadratic  formula to solve  each of the following 
+
+
+
+$$
+\begin{array}  {l} 
+x^2   + 2x    = 7   \\
+x^2   +  2x  =  
+\left\{
+\begin{array}{l}
+x  - 4 = 0  \\
+y + 3 = 0   \\
+
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+y  = 4 \\
+y =  - 3  \\
+
+\end{array}
+\right.
+\right. 
+
+\end{array}  
+
+
+$$
