@@ -264,16 +264,14 @@ $$
 \begin{array}  {l} 
 5x^3  -  5x^2   - 10x =  0    \\
 x  (5x^2  -  5x  - 10 ) =  0      \\
-x  (5x^2  -  5x  - 10 )  =   0   \\
-x^2  +     3x     - 4   =  0   \\
-(x +  4)(x    -  1  )  =    0   \\
+x  (2x  -  5) (x  + 1  )  =   0   \\
   
 
 \left\{
 \begin{array}{l}
-x +  4  = 0  \\
+x +  4 = 0  \\
 x    -  1  = 0   \\
-
+x   = 0 
 \end{array} \\
 \implies
 \left\{
