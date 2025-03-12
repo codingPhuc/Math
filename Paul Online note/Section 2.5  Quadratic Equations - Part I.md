@@ -280,5 +280,5 @@ $$
 
 #  Square Root  property  
 $$
-p^2   =   d   \; then  \ 
+p^2   =   d   \; then  \;  p =  \pm   \sqrt{ d }
 $$
