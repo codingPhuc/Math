@@ -130,14 +130,14 @@ x  =      \frac{  - 19  \pm  \sqrt{ (19)^2 - 4\cdot 7 (- 6 )   }    }{2\cdot7^2}
  \left\{
 \begin{array}{l}
 x   = \frac{ - 19  +    23       }{56}   \\
-x= \frac{ - 19  +    23       }{56} \\
-
+x  = \frac{ - 19  -     23       }{56} \\
+ 
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-y  = 4 \\
-y =  - 3  \\
+x   = \frac{1}{14 }  \\
+x  = -\frac{3}{4} \\
 
 \end{array}
 \right.
