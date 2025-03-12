@@ -561,7 +561,7 @@ $$
 \frac{4z  }{ z  + 1  }   +  \frac{5}{z}   =    \frac{6z+ 5}{ z^2 +  z  }\\
 4z^2     +   5( z+ 1)      = 6z+ 5  \\
  4z^2     +   5z  +  5    =    6z   +  5  \\
- 4z^2   -z       =       0  
+ 4z^2   -z       =       0   \\
 z(4z  - 1 )=  0    \\
 \left\{
 \begin{array}{l}
@@ -590,7 +590,7 @@ x +  1   =     \frac{2x  -  7 }{x+ 5}   -   \frac{5x +  8 } {x+  5 } \\
 (x+ 5)(x+ 1)       = 2x  -  7    - 5x    -   8  \\
 x^2    +  x   +  5x   + 5     =     2x  -  7    - 5x    -   8   \\
  x^2  +   9x     + 20          =  0   \\
-(x + 4)( x +  5)  =   0 
+(x + 4)( x +  5)  =   0   \\ 
 \left\{
 \begin{array}{l}
 x + 4  = 0 \\
@@ -600,8 +600,8 @@ x +  5 = 0  \\
 \implies
 \left\{
 \begin{array}{l}
-x =      =  \\
-x =       \frac{1}{4} \\
+x =      -4  \\
+x =   -5 \\
 
 \end{array}
 \right.
