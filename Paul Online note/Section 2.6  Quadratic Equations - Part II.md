@@ -146,3 +146,26 @@ x  = -3 \\
 \end{array}       $$
 
 
+
+$$\begin{array} {l}
+16x   -   x^2  
+ x  =    \frac{ - 19  \pm    23       }{14}      \\
+ \left\{
+\begin{array}{l}
+x   = \frac{ - 19  +    23       }{14}   \\
+x  = \frac{ - 19  -     23       }{14} \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x   = \frac{2}{7 }  \\
+x  = -3 \\
+
+\end{array}
+\right.
+\right. 
+  \\ 
+\end{array}       $$
+
+
