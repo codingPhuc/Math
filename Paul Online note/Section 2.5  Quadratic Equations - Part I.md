@@ -651,3 +651,11 @@ u  = \pm  \frac{4}{3}  \\
 
 \end{array}  
 $$ 
+$$
+\begin{array}  {l} 
+(6t   +  1)^ 2  + 3    =  0   \\
+(6t   +  1)^ 2    =   -3   \\
+
+
+\end{array}  
+$$ 
