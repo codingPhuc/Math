@@ -50,9 +50,23 @@ $$
 2x^2   +   6x    = -7    \\
 x^2   +   3x    = -\frac{7}{2}  \\
   x^2   +   3x   +   \frac{9}{4}  = -\frac{7}{2}  +   \frac{9}{4}    \\
-\left( x  +  \frac{3}{2} \right)^2    =   -\frac{7}{2}    \\
-  x  +  \frac{3}{2}       =  \pm \sqrt{ \frac{7}{2}      }\cdot i    \\
-x =    \pm \sqrt{ \frac{7}{2}      }\cdot i       - \frac{3}{2} 
+\left( x  +  \frac{3}{2} \right)^2    =  -\frac{5}{4}     \\
+  x  +  \frac{3}{2}       =  \pm \sqrt{ \frac{5}{4}     }\cdot i    \\
+x =    \pm \sqrt{ \frac{5}{4}       }\cdot i       - \frac{3}{2} 
+\end{array} 
+     $$
+
+		
+$$
+\begin{array}  {l} 
+3x^2   -  2x  =  1 -    =  0      \\
+2x^2   + 6x    =   -  7\\
+2x^2   +   6x    = -7    \\
+x^2   +   3x    = -\frac{7}{2}  \\
+  x^2   +   3x   +   \frac{9}{4}  = -\frac{7}{2}  +   \frac{9}{4}    \\
+\left( x  +  \frac{3}{2} \right)^2    =  -\frac{5}{4}     \\
+  x  +  \frac{3}{2}       =  \pm \sqrt{ \frac{5}{4}     }\cdot i    \\
+x =    \pm \sqrt{ \frac{5}{4}       }\cdot i       - \frac{3}{2} 
 \end{array} 
      $$
 
