@@ -611,4 +611,27 @@ $$
 
 
 
-##  used  Square root propert
+##  used  Square root property  to solve the equation 
+
+$$
+\begin{array}  {l} 
+9u^2   - 16  -  0    \\
+9u^2   -
+\left\{
+\begin{array}{l}
+x + 4  = 0 \\
+x +  5 = 0  \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =      -4  \\
+x =   -5 \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$
+
