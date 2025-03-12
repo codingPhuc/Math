@@ -159,7 +159,7 @@ $$16x   -   x^2      =0   $$
 
 we will have a as  -1  ,  b as  16 and  c as  0  
 
-$$
+$$\begin{array} {l}
  x =    \frac{ -  16  \pm  \sqrt{ 16^2    }     }{-2}   \\
  x  =    \frac{ -  16  \pm  16    }{-2}      \\
  \left\{
@@ -186,7 +186,14 @@ x  = 16\\
 
 
 
-$$\frac{3}{y-2}     =  \frac{1}{y}  + 1   $$
+$$ 
+\begin{array}{l}   
+\frac{3}{y-2}     =  \frac{1}{y}  + 1   \\
+\frac{3}{y-2}   -  \frac{1}{y}   -  1      =    0    \\
+
+\end{array}
+
+  $$
 
 we will have a as  -1  ,  b as  16 and  c as  0  
 
