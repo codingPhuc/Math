@@ -338,14 +338,15 @@ $$
 $$
 \begin{array}  {l} 
 u^2   -  5u   -  14 =  0      \\
-(u  -   7 ) (  )
+(u  -   7 ) (u  +   2 ) =  0  \\
+   
   
 
 \left\{
 \begin{array}{l}
-x =  2 \\
-x     = - 1   \\
-x   = 0 
+u  -   7    = 0 \\ 
+u  +   2   = 0  \\
+ 
 \end{array}
 \right.   
 \end{array}  
