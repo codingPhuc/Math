@@ -527,3 +527,31 @@ $$
 
 
 
+
+$$
+\begin{array}  {l} 
+\frac{w^2-  10  }{ W  +  2 }  +  w -  4   =  w - 3 \\ 
+ 
+T^5   -  9t^3 =  0    \\
+t^3(t^2   - 9 )=  0    \\
+t^3(t-3) (t +  3 )=  0 
+\left\{
+\begin{array}{l}
+z  - 3  = 0 \\
+z +  1   = 0  \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =    3 \\
+x =       -  1 \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$
+
+
+
