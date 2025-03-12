@@ -110,7 +110,5 @@ we will have    a as  3   ,  b  as  -5 and  c  as    11
 so when plug into the formula  x will be  
 $$\begin{array} {l}
  x  =    \pm  \frac{\sqrt{ (-5)^2 - 4\cdot 3  \cdot  11     }    +  5    }{2\cdot 3^2}  \\
- x  =    \pm  \frac{\sqrt{ -107    }    +  5    }{2\cdot 3^2}  \\ \
-
-\pm 2\sqrt{ 2 }  - 1 
+ x  =    \pm  \frac{\sqrt{ -107    }    +  5    }{18}  \\ 
 \end{array}       $$
