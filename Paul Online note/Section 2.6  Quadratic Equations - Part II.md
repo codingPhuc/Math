@@ -104,4 +104,4 @@ As a last step we will notice that we’ve got common denominators on the two te
 $$x^2   + 2x    = 7     \implies  x^2   + 2x   -7   =  0 $$ 
 we will have    a as  1   ,  b  as  2 and  c  as     - 7
 so when plug into the formula  x will be  
-$$   x  =    \pm  \frac{\sqrt{ 2^2 - 4\cdot 1 \cdot  -7     }   -  2  }{2}    \implies  \frac{2\sqrt{ 2 }  - 1}{ 2  }  $$
+$$   x  =    \pm  \frac{\sqrt{ 2^2 - 4\cdot 1 \cdot  -7     }   -  2  }{2}    \implies  \pm 2\sqrt{ 2 }  - 1   $$
