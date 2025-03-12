@@ -332,6 +332,22 @@ $$
 x    =   \pm  3i   -  \frac{10}{3} 
 \end{array}  
 $$
+# #Practice_Exercise  
+##  solve the quadratic equation by factoring. 
 
+$$
+\begin{array}  {l} 
+u^2   -  5u   -  14 =  0      \\
+x  (5x^2  -  5x  - 10 ) =  0      \\
+x  (x -  2  ) (x  + 1  )  =   0   \\
+  
 
-#
+\left\{
+\begin{array}{l}
+x =  2 \\
+x     = - 1   \\
+x   = 0 
+\end{array}
+\right.   
+\end{array}  
+$$ 
