@@ -22,4 +22,4 @@ $$x^2  + bx  +  \left( \frac{b}{2} \right)^2  =  \left( x + \frac{b}{2} \right)^
 
 $$ x^2 -   16x +  \left( \frac{16}{2} \right)^2      =  \left( x +  \frac{16}{2} \right)^2  $$ 
 
-$$y^2   +  7y  = (x +  )$$ 
+$$y^2   +  7y + \left( \frac{7}{2} \right)^2  = \left( x +  \frac{7}{2} \right)^2$$ 
