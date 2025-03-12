@@ -95,7 +95,7 @@ now add the   number needed to complete the square to both side of the equation 
 $$   x  =    \pm  \frac{\sqrt{ b^2 - 4ac }  }{2a^2}        - \frac{b}{2a}     $$ 
 solve for x we also  simply  the square root a little 
 
-$$   x  =    \frac{ -  b   \pm  \sqrt{ b^2 - 4ac   }     }{2a^2}      $$
+$$   x  =    \frac{ -  b   \pm  \sqrt{ b^2 - 4ac   }     }{2a}      $$
 As a last step we will notice that we’ve got common denominators on the two terms and so we’ll add them up. Doing this gives,
 
 ## used the quadratic  formula to solve  each of the following 
@@ -125,7 +125,7 @@ $$7t^2    =  6  - 19 T      \implies    7t^2   - 6  +  19 t   =    0   $$
 we will have    a as  7   ,  b  as   19 and  c  as    6  
 so when plug into the formula  x will be  
 $$\begin{array} {l}
-x  =      \frac{  - 19  \pm  \sqrt{ (19)^2 - 4\cdot 7 (- 6 )   }    }{2\cdot7^2}    \\
+x  =      \frac{  - 19  \pm  \sqrt{ (19)^2 - 4\cdot 7 (- 6 )   }    }{2\cdot7}    \\
  x  =    \frac{ - 19  \pm    23       }{56}      \\
  \left\{
 \begin{array}{l}
