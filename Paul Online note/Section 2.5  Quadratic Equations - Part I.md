@@ -264,15 +264,18 @@ $$
 \begin{array}  {l} 
 5x^3  -  5x^2   - 10x =  0    \\
 x  (5x^2  -  5x  - 10 ) =  0      \\
-x  (2x  -  5) (x  + 1  )  =   0   \\
+x  (x -  2  ) (x  + 1  )  =   0   \\
   
 
 \left\{
 \begin{array}{l}
-x =  \frac{5}{2 } \\
+x =  2 \\
 x     = - 1   \\
 x   = 0 
 \end{array}
 \right.   
 \end{array}  
 $$ 
+
+
+#  Square Root  properi
