@@ -1,1 +1,1 @@
-In  section  [[Section 2.5  Quadratic Equations - Part I]]  we look  at solving  Quadratic equation using square root method 
+In  section  [[Section 2.5  Quadratic Equations - Part I]]  we look  at solving  Quadratic equation using square root method  and  factoring method . But this have it own  problem  ,  not all equation  can be apply these two method 
