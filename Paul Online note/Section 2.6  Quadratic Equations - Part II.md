@@ -101,29 +101,7 @@ As a last step we will notice that we’ve got common denominators on the two te
 ## used the quadratic  formula to solve  each of the following 
 
 
-$$x^2   + 2x    = 7 $$ 
-we will have    a as  1  
-$$
-\begin{array}  {l} 
-x^2   + 2x    = 7   \\
-x^2   +  2x  =  
-\left\{
-\begin{array}{l}
-x  - 4 = 0  \\
-y + 3 = 0   \\
-
-\end{array} \\
-\implies
-\left\{
-\begin{array}{l}
-y  = 4 \\
-y =  - 3  \\
-
-\end{array}
-\right.
-\right. 
-
-\end{array}  
-
-
-$$
+$$x^2   + 2x    = 7     \implies  x^2   + 2x   -7   =  0 $$ 
+we will have    a as  1   ,  b  as  2 and  c  as     - 7
+so when plug into the formula  x will be  
+$$   x  =    \pm  \frac{\sqrt{ b^2 - 4ac   }   -  b  }{2a^2}      $$
