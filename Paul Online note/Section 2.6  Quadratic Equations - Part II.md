@@ -30,7 +30,7 @@ $$
 
 \begin{array}  {l} 
 x^2  - 6x   + 1   =     0   \\
-x^2  - 6x   + 1   + (0-6 )     =  0     \\
+x^2  - 6x   + 1   + \left( -\frac{6}{2} \right)^2      =  0     \\
 (x  - 4)(x  +  3 ) =    0    \\
 \left\{
 \begin{array}{l}
