@@ -654,7 +654,13 @@ $$
 
 $$
 \begin{array}  {l} 
-(z−2)^2−36=0(z−2)2−36=0
+(z−2)^2−36=0
+
+\end{array}  
+$$
+$$
+\begin{array}  {l} 
+x^2+15=0
 
 \end{array}  
 $$
