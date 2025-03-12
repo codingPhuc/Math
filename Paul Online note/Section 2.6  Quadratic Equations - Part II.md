@@ -64,9 +64,7 @@ $$
 x^2     -  \frac{2}{3} x   =   \frac{1}{3}   \\
 x^2     -  \frac{2}{3} x  +    \left( -  \frac{1}{ 3 } \right)^2      =   \frac{1}{3}   +    \left( -  \frac{1}{ 3 } \right)^2   \\
 \left( x - \frac{1}{3}  \right)^2     =  \frac{4}{9} \\
-\left( x  +  \frac{3}{2} \right)^2    =  -\frac{5}{4}     \\
-  x  +  \frac{3}{2}       =  \pm \sqrt{ \frac{5}{4}     }\cdot i    \\
-x =    \pm \sqrt{ \frac{5}{4}       }\cdot i       - \frac{3}{2} 
+ x - \frac{1}{3}     =  \sqrt{  }
 \end{array} 
      $$
 
