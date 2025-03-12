@@ -282,7 +282,7 @@ $$
 $$
 p^2   =   d   \; then  \;  p =  \pm   \sqrt{ d }
 $$
-the  $\pm$  symbol  read as :  ""
+the  $\pm$  symbol  read as :  "plus or minus "  this mean that there are two different outcome for the equation  $p^2   =   d$ either  $p =  +   \sqrt{ d }$  or  $p =     \sqrt{ d }$   
 $$
 \begin{array}  {l} 
 x^2   -  100  =    0   \\
