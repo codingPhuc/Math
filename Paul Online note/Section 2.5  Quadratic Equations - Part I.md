@@ -475,27 +475,26 @@ $$
 $$
 \begin{array}  {l} 
  x^4   -   2x^3   -  3x^2 =    0           \\
- x^2(x^2  -   2x  -  )=  0    \\
- (z  - 9) ( z -   9  )=  0    \\
-   
-  
+ x^2(x^2  -   2x  -  3 )=  0    \\
+ x^2(x   - 3) (  x  + 1  )=  0    \\
 
 \left\{
 \begin{array}{l}
-z  - 9   = 0 \\
-z -   9   = 0  \\
+z  - 3  = 0 \\
+z +  1   = 0  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x =    9  \\
-x =     9 \\
+x =    3 \\
+x =       -  1 \\
 
 \end{array}
 \right.
 \right.   
 \end{array}  
 $$
+
 
 
