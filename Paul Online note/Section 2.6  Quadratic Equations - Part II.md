@@ -84,5 +84,6 @@ $$x^2     +    \frac{bx}{a}     + \frac{c}{a}     =  0  $$
  $$x^2     +    \frac{bx}{a}    =    - \frac{c}{a}      $$
  next the constant need to be move to the right side of the equation  
 $$
-\left( \frac{b}{2a} \right)^2  =      \frac{b^2}{} 
+\left( \frac{b}{2a} \right)^2  =      \frac{b^2}{4a^2} 
 $$
+now we need to compute the number needed to complete  the square  .  This is one half the coefficeint o f
