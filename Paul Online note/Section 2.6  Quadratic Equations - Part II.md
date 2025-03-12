@@ -61,7 +61,7 @@ $$
 \begin{array}  {l} 
 3x^2   -  2x  -    1  =  0      \\
 3x^2   -  2x =    1\\
-2x^2   +   6x    = -7    \\
+x^2     -  \frac{2}{3} x   =   \frac{1}{3}   \\
 x^2   +   3x    = -\frac{7}{2}  \\
   x^2   +   3x   +   \frac{9}{4}  = -\frac{7}{2}  +   \frac{9}{4}    \\
 \left( x  +  \frac{3}{2} \right)^2    =  -\frac{5}{4}     \\
@@ -70,4 +70,4 @@ x =    \pm \sqrt{ \frac{5}{4}       }\cdot i       - \frac{3}{2}
 \end{array} 
      $$
 
-	
+
