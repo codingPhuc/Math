@@ -164,15 +164,16 @@ $$\begin{array} {l}
  x  =    \frac{ -  16  \pm  16    }{-2}      \\
  \left\{
 \begin{array}{l}
-x   = \frac{  -  16  \pm  16       }{-2}   \\
-x  = \frac{  -  16  \pm  16       }{-2}  \\
+x   = \frac{  -  16  + 16       }{-2}   \\
+x  = \frac{  -  16  -   16       }{-2}  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x   = \frac{2}{7 }  \\
-x  = -3 \\
+x   = 0 \\
+x  = 16\\
+ 
 
 \end{array}
 \right.
