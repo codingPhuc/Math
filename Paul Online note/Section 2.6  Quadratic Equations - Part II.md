@@ -215,3 +215,18 @@ x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
 
 
 ## Coefficient that are fractions or decimals  
+$$\frac{1}{2} x^  $$
+$$\begin{array} {l}
+ x  =    \frac{ -  4   \pm  \sqrt{ (-4)^2 - 4\cdot 2    }     }{2}    \\
+ x  =    \frac{ -  4   \pm 2\sqrt{ 2 }     }{2}       \\
+ \left\{
+\begin{array}{l}
+x   =  \frac{ -  4   +  2\sqrt{ 2 }     }{2}        \\
+x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
+ 
+\end{array} \\
+
+\right. 
+  \\ 
+\end{array}       $$
+
