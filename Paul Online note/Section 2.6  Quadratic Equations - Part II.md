@@ -22,4 +22,4 @@ $$x^2  + bx  +  \left( \frac{b}{2} \right)^2  =  \left( x + \frac{b}{2} \right)^
 Let  do  a couple  of example 
 
 
-$$x^2 -   16x   =$$
+$$x^2 -   16x +  \left( \frac{16}{2} \right)^2      =  \left( x +  \frac{b}{2} \right) $$
