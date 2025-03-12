@@ -269,18 +269,10 @@ x  (2x  -  5) (x  + 1  )  =   0   \\
 
 \left\{
 \begin{array}{l}
-x +  4 = 0  \\
-x    -  1  = 0   \\
+x =  \frac{5}{2 } \\
+x     = - 1   \\
 x   = 0 
-\end{array} \\
-\implies
-\left\{
-\begin{array}{l}
-x =   - 4\\
-x = 1  \\
-
 \end{array}
-\right.
 \right.   
 \end{array}  
 $$ 
