@@ -282,7 +282,7 @@ $$
 $$
 p^2   =   d   \; then  \;  p =  \pm   \sqrt{ d }
 $$
-the  $\pm$  symbol  read as :  "plus or minus "  this mean that there are two different outcome for the equation  $p^2   =   d$ either  $p =  +   \sqrt{ d }$  or  $p =     \sqrt{ d }$   
+the  $\pm$  symbol  read as :  "plus or minus "  this mean that there are two different outcome for the equation  $p^2   =   d$ either  $p =  +   \sqrt{ d }$  or  $p =   -  \sqrt{ d }$    
 $$
 \begin{array}  {l} 
 x^2   -  100  =    0   \\
@@ -295,5 +295,14 @@ $$
 \begin{array}  {l} 
 x^2   -  100  =    0   \\
 x  =   \pm   10     \\
+\end{array}  
+$$ 
+
+
+$$
+\begin{array}  {l} 
+25y^2   - 3  =    0   \\
+y   = \sqrt{    \frac{3}{25}}     \\
+y  =  \pm  3
 \end{array}  
 $$
