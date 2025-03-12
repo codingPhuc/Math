@@ -234,13 +234,7 @@ $$
 factoring can help with  solving equation  with  degree larger than 2  
 $$
 \begin{array}  {l} 
-  
-\frac{1}{x+ 1}  =   1   -  \frac{5}{2x -  4  }   \\
-(2x  -  4)  =   (2x  -  4)(x + 1 )       -  5(x + 1 )     \\
-2x  - 4    =    2x^2   +  2x   -  4x   -  4    -  5 x - 5   \\
--2x^2 + 9x   + 5    =  0   \\
-2x^2  -9x   - 5  = 0  \\
-( 2x   + 1  )  (x   - 5)  =   0   \\
+x   +  3  +  \frac{3}{x -  1 }  =  \frac{4  - x } { x  =1}
 
 
 \left\{
