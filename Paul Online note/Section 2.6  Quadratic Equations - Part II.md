@@ -79,5 +79,7 @@ $$ax^2     +    bx     + c     =  0  $$
 first  we must  have quadratic  equation in the standard form as noted  above 
 
 
-$$ax^2     +    bx     + c     =  0  $$
- then we need to divide both side by   a  to get a coefficient  of  one o n  the x^2  the
+$$x^2     +    \frac{bx}{a}     + \frac{c}{a}     =  0  $$
+ then we need to divide both side by   a  to get a coefficient  of  one o n  the $x^2$  term  
+ $$x^2     +    \frac{bx}{a}    =    - \frac{c}{a}      $$
+ next the constant need to be move to the right side of the equation  
