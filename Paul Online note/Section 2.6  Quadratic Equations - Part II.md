@@ -101,7 +101,8 @@ As a last step we will notice that we’ve got common denominators on the two te
 ## used the quadratic  formula to solve  each of the following 
 
 
-
+$$x^2   + 2x    = 7 $$ 
+we will have    a as  1  
 $$
 \begin{array}  {l} 
 x^2   + 2x    = 7   \\
