@@ -526,7 +526,7 @@ $$
 
 
 
-
+##  used  factoring to solve t
 
 $$
 \begin{array}  {l} 
