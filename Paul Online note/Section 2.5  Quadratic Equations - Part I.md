@@ -612,7 +612,7 @@ $$
 
 
 ##  used  Square root property  to solve the equation 
-
+### if we used factoring to solve this problem  
 $$
 \begin{array}  {l} 
 9u^2   - 16   =  0      \\
@@ -624,18 +624,22 @@ $$
 \left\{
 \begin{array}{l}
 3u  + 4  = 0 \\
-x +  5 = 0  \\
+3u  - 4 = 0  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x =      -4  \\
-x =   -5 \\
+x =      -\frac{4}{3}  \\
+x =  \frac{4}{3} \\
 
 \end{array}
 \right.
 \right.   
 \end{array}  
-$$
+$$ 
+###   on the other hand square  root 
+
+
+
 
