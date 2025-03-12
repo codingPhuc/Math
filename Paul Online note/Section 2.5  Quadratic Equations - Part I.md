@@ -278,4 +278,7 @@ x   = 0
 $$ 
 
 
-#  Square Root  properi
+#  Square Root  property  
+$$
+p^2   =   d   \; then  \ 
+$$
