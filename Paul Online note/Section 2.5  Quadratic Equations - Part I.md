@@ -229,7 +229,7 @@ x =   -  \frac{1}{2} \\
 \right.   
 \end{array}  
 $$
-
+neither of them are value of x we need to avoid so the solution is  both 
 
 $$
 \begin{array}  {l} 
@@ -256,4 +256,4 @@ x = 1  \\
 \right.
 \right.   
 \end{array}  
-$$ 
+$$ we see that the solution to the problem  is   x = -4  , because when plug in  -1  
