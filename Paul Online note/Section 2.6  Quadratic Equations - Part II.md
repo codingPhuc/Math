@@ -121,11 +121,11 @@ x   = \frac{ +  5   \pm   \sqrt{107    }\cdot  i         }{6}    \\
 
 
 
-$$16x   -   x^2      =0        $$ 
-we will have    a as  -1 0 ,  b  as   16 and  c  as     0   
+$$7t^2    =  6  - 19 T      \implies    7t^2   - 6  +  19 t   =    0   $$ 
+we will have    a as  7   ,  b  as   19 and  c  as    6  
 so when plug into the formula  x will be  
 $$\begin{array} {l}
-x  =     \frac{ -  b   \pm  \sqrt{ b^2 - 4ac   }     }{2a}    \\
+x  =      \frac{  - 19  \pm  \sqrt{ (19)^2 - 4\cdot 7 (- 6 )   }    }{2\cdot7}    \\
  x  =    \frac{ - 19  \pm    23       }{14}      \\
  \left\{
 \begin{array}{l}
