@@ -136,8 +136,8 @@ x  = \frac{ - 19  -     23       }{14} \\
 \implies
 \left\{
 \begin{array}{l}
-x   = \frac{1}{14 }  \\
-x  = -\frac{3}{4} \\
+x   = \frac{2}{7 }  \\
+x  = -3 \\
 
 \end{array}
 \right.
