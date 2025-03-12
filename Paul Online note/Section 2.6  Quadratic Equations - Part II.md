@@ -214,4 +214,4 @@ x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
 \end{array}       $$
 
 
-##  Coefficeint t
+## Coefficient that are fractions or decimals  
