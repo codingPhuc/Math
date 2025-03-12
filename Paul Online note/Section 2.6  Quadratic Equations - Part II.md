@@ -70,3 +70,6 @@ x  =    \pm \frac{2}{3} +   \frac{1}{3}
      $$
 
 
+completing  the square is a long process  that can cause a lot of mistake   .  So  , we rarely actually used it  to solve  problem   
+
+## 
