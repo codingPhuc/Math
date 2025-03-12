@@ -418,24 +418,53 @@ $$
 \begin{array}  {l} 
 6w^2   -  w     =  5      \\
 6w^2   -  w   - 5     =  0    \\
-  (y  -  7)  ( y  - 4) =  0  \\
+  (w -  1 ) (6w   +  5 ) =  0    \\
    
   
 
 \left\{
 \begin{array}{l}
-y  -  7    = 0 \\
-y  - 4    = 0  \\
+w -  1     = 0 \\
+6w   +  5     = 0  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x =    7  \\
-x =    4  \\
+x =    1  \\
+x =     -\frac{5}{6} \\
 
 \end{array}
 \right.
 \right.   
 \end{array}  
 $$
+
+
+
+$$
+\begin{array}  {l} 
+6w^2   -  w     =  5      \\
+6w^2   -  w   - 5     =  0    \\
+  (w -  1 ) (6w   +  5 ) =  0    \\
+   
+  
+
+\left\{
+\begin{array}{l}
+w -  1     = 0 \\
+6w   +  5     = 0  \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =    1  \\
+x =     -\frac{5}{6} \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$
+
