@@ -1,0 +1,1 @@
+In  section  [[Section 2.5  Quadratic Equations - Part I]]  we look  at solving  Quadratic equation using square root method 
