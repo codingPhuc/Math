@@ -642,31 +642,12 @@ $$
 
 
 
-
-
-
 $$
 \begin{array}  {l} 
 9u^2   - 16   =  0      \\
 9u ^2   =  16   \\
 u^2    =  \frac{16}{9}   \\
-u  =  
+u  = \pm  \frac{4}{3}  \\ 
 
-
-\left\{
-\begin{array}{l}
-3u  + 4  = 0 \\
-3u  - 4 = 0  \\
- 
-\end{array} \\
-\implies
-\left\{
-\begin{array}{l}
-x =      -\frac{4}{3}  \\
-x =  \frac{4}{3} \\
-
-\end{array}
-\right.
-\right.   
 \end{array}  
 $$ 
