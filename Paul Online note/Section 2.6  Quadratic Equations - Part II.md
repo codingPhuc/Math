@@ -160,7 +160,7 @@ $$16x   -   x^2      =0   $$
 we will have a as  -1  ,  b as  16 and  c as  0  
 
 $$\begin{array} {l}
-16x   -   x^2      =0 \\
+ x =    \frac{ -  16  \pm  \sqrt{ 16^2    }     }{2a}   \\
  x  =    \frac{ - 19  \pm    23       }{14}      \\
  \left\{
 \begin{array}{l}
