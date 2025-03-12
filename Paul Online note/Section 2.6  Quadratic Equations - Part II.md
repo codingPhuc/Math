@@ -20,6 +20,6 @@ we  notice that the  x^2  have a coefficient  of one .  That is require  in orde
 
 $$x^2  + bx  +  \left( \frac{b}{2} \right)^2  =  \left( x + \frac{b}{2} \right)^2 $$ this process  is call  **completing the square** 
 
-$$ x^2 -   16x + 64      =  ( x -   8  )  $$ 
+$$ x^2 -   16x + 64      =  ( x -   8  )^2    $$ 
 
-$$y^2   +  7y + \left( \frac{7}{2} \right)^2  = \left( x +  \frac{7}{2} \right)^2$$ 
+$$y^2   +  7y + \frac{49}{4}  = \left( x +  \frac{7}{2} \right)^2$$ 
