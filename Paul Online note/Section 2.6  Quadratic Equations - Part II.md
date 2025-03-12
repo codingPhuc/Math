@@ -88,5 +88,6 @@ $$
 $$
 now we need to compute the number needed to complete  the square  .  This is one half the coefficient  of  x  
  $$x^2     +    \frac{bx}{a}  +  \frac{b^2}{4a^2}    =    \frac{b^2}{4a^2}    - \frac{c}{a}      $$
-  $$x^2     +    \frac{bx}{a}  +  \frac{b^2}{4a^2}    =    \frac{b^2}{4a^2}    - \frac{4ac}{4a^2}      $$
- 
+  $$  \left( x  + \frac{b}{2a} \right)^2    =    \frac{b^2}{4a^2}    - \frac{4ac}{4a^2}      $$
+  
+ N
