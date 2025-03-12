@@ -208,15 +208,10 @@ x   =  \frac{ -  4   +  2\sqrt{ 2 }     }{2}        \\
 x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
  
 \end{array} \\
-\implies
-\left\{
-\begin{array}{l}
-x   = 0 \\
-x  = 16\\
-\end{array}
-\right.
+
 \right. 
   \\ 
 \end{array}       $$
 
 
+##  Coefficeint t
