@@ -3,7 +3,7 @@ title: Adjunction
 references: https://www.youtube.com/watch?v=T0HyWIFbsHQ
 tags:
   - In_Progress
-reference: 
+reference: https://tutorial.math.lamar.edu/Classes/Alg/SolveQuadraticEqnsII.aspx
 Current date: 2025-03-12
 ---
 
@@ -30,7 +30,7 @@ $$
 
 \begin{array}  {l} 
 x^2  - 6x   + 1   =     0   \\
-x^2  -  x  - 12  =  0     \\
+x^2  - 6x   + 1   + (0-6 )     =  0     \\
 (x  - 4)(x  +  3 ) =    0    \\
 \left\{
 \begin{array}{l}
