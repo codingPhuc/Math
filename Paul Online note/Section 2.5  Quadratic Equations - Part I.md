@@ -365,24 +365,50 @@ $$
 \begin{array}  {l} 
 x^2    +  15x    =  -50      \\
 x^2    +  15x     + 50   =  0    \\
-( x   +  5)  ( x  + 4) \\
+( x   +  5)  ( x  + 10 )   =  0  \\
    
   
 
 \left\{
 \begin{array}{l}
-u  -   7    = 0 \\ 
-u  +   2   = 0  \\
+u  +  5     = 0 \\
+u  +   10     = 0  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x =    7 \\
-x =   - 2    \\
+x =     - 5  \\
+x =   - 10  \\
 
 \end{array}
 \right.
 \right.   
 \end{array}  
+$$ 
+
 $$
+\begin{array}  {l} 
+x^2    +  15x    =  -50      \\
+x^2    +  15x     + 50   =  0    \\
+( x   +  5)  ( x  + 10 )   =  0  \\
+   
+  
+
+\left\{
+\begin{array}{l}
+u  +  5     = 0 \\
+u  +   10     = 0  \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =     - 5  \\
+x =   - 10  \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$ 
