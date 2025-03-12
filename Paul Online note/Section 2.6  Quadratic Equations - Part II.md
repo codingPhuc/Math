@@ -51,7 +51,7 @@ $$
 x^2   +   3x    = -\frac{7}{2}  \\
   x^2   +   3x   +   \frac{9}{4}  = -\frac{7}{2}    \\
 \left( x  +  \frac{3}{2} \right)^2    =   -\frac{7}{2}    \\
-     \\
+  x  +  \frac{3}{2}       =      \\
 \end{array} 
      $$
 
