@@ -562,18 +562,45 @@ $$
 4z^2     +   5( z+ 1)      = 6z+ 5  \\
  4z^2     +   5z  +  5    =    6z   +  5  \\
  4z^2   -z       =       0  
-(w  - 4)  ( w  + 3  ) =  0    \\
+z(4z  - 1 )=  0    \\
 \left\{
 \begin{array}{l}
-w  - 4  = 0 \\
-w  + 3    = 0  \\
+z  = 0 \\
+4z  - 1   = 0  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x =      - 3 \\
-x =       -  4  \\
+x =     0  \\
+x =       \frac{1}{4} \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$
+
+
+
+$$
+\begin{array}  {l} 
+x    =    \frac{6z+ 5}{ z^2 +  z  }\\
+4z^2     +   5( z+ 1)      = 6z+ 5  \\
+ 4z^2     +   5z  +  5    =    6z   +  5  \\
+ 4z^2   -z       =       0  
+z(4z  - 1 )=  0    \\
+\left\{
+\begin{array}{l}
+z  = 0 \\
+4z  - 1   = 0  \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =     0  \\
+x =       \frac{1}{4} \\
 
 \end{array}
 \right.
