@@ -74,4 +74,8 @@ completing  the square is a long process  that can cause a lot of mistake   .  S
 
 ##  Quadratic Formula 
 this is the final  solution to solving quadratic equation  an will always work  and you can remember the formula as well  
-$$ax^2     +    bx     + c     =  0 $$
+
+$$ax^2     +    bx     + c     =  0  $$ 
+
+
+$$ax^2     +    bx     + c     =  0  $$
