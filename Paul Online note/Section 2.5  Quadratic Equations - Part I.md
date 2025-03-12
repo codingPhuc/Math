@@ -560,8 +560,8 @@ $$
 \begin{array}  {l} 
 \frac{4z  }{ z  + 1  }   +  \frac{5}{z}   =    \frac{6z+ 5}{ z^2 +  z  }\\
 4z^2     +   5( z+ 1)      = 6z+ 5  \\
-w^2   - 10    +  w^2   +  2w  -  4w  -  8     =   w^2  + 2w  -3w   -  6  \\
-w^2    -  w - 12    =       0  
+ 4z^2     +   5z  +  5    =    6z   +  5  \\
+ 4z^2   -z       =       0  
 (w  - 4)  ( w  + 3  ) =  0    \\
 \left\{
 \begin{array}{l}
