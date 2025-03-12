@@ -126,8 +126,23 @@ we will have    a as  7   ,  b  as   19 and  c  as    6
 so when plug into the formula  x will be  
 $$\begin{array} {l}
 x  =      \frac{  - 19  \pm  \sqrt{ (19)^2 - 4\cdot 7 (- 6 )   }    }{2\cdot7^2}    \\
- x  =    \frac{ - 19  \pm  \sqrt{ (19)^2 - 4\cdot 7 (- 6 )     }       }{56}      \\
-x   = \frac{ +  5   \pm   \sqrt{107    }\cdot  i         }{18}    \\ 
+ x  =    \frac{ - 19  \pm    23       }{56}      \\
+ \left\{
+\begin{array}{l}
+x   = \frac{ - 19  +    23       }{56}   \\
+x= \frac{ - 19  +    23       }{56} \\
+
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+y  = 4 \\
+y =  - 3  \\
+
+\end{array}
+\right.
+\right. 
+  \\ 
 \end{array}       $$
 
 
