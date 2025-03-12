@@ -108,4 +108,4 @@ $$   x  =    \pm  \frac{\sqrt{ 2^2 - 4\cdot 1 \cdot  -7     }   -  2  }{2}    \i
 $$3q^2    + 11    = 5q     \implies  3q^2  - 5q     + 11    =    0   $$ 
 we will have    a as  3   ,  b  as  -5 and  c  as    11 
 so when plug into the formula  x will be  
-$$    x  =    \pm  \frac{\sqrt{ (-5)^2 - 4\cdot 3  \cdot  11     }   -  b  }{2a^2}  \implies  \pm 2\sqrt{ 2 }  - 1   $$
+$$    x  =    \pm  \frac{\sqrt{ (-5)^2 - 4\cdot 3  \cdot  11     }    +  5    }{2a^2}  \implies  \pm 2\sqrt{ 2 }  - 1   $$
