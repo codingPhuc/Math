@@ -92,4 +92,5 @@ now we need to compute the number needed to complete  the square  .  This is one
   
 now add the   number needed to complete the square to both side of the equation    . Then used  the common  denominator on the right  side to simplify thing  
 
-  $$  \left( x  + \frac{b}{2a} \right)^2    = \sqrt{\frac{b^2}{}  }   \frac{b^2}{4a^2}    - \frac{4ac}{4a^2}      $$
+  $$   x  + \frac{b}{2a} =   = \sqrt{\frac{b^2 - 4ac }{4a^2}  }     $$ 
+  
