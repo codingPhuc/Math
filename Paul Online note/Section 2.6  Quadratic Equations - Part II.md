@@ -105,6 +105,10 @@ $$x^2   + 2x    = 7     \implies  x^2   + 2x   -7   =  0 $$
 we will have    a as  1   ,  b  as  2 and  c  as     - 7
 so when plug into the formula  x will be  
 $$   x  =    \pm  \frac{\sqrt{ 2^2 - 4\cdot 1 \cdot  -7     }   -  2  }{2}    \implies  \pm 2\sqrt{ 2 }  - 1   $$
+
+
+
+
 $$3q^2    + 11    = 5q     \implies  3q^2  - 5q     + 11    =    0   $$ 
 we will have    a as  3   ,  b  as  -5 and  c  as    11 
 so when plug into the formula  x will be  
@@ -113,3 +117,17 @@ $$\begin{array} {l}
  x  =    \frac{ +  5   \pm   \sqrt{ -107    }       }{18}      \\
 x   = \frac{ +  5   \pm   \sqrt{107    }\cdot  i         }{18}    \\ 
 \end{array}       $$
+
+
+
+
+$$7t^2    =  6      \implies  3q^2  - 5q     + 11    =    0   $$ 
+we will have    a as  3   ,  b  as  -5 and  c  as    11 
+so when plug into the formula  x will be  
+$$\begin{array} {l}
+ x  =    \pm  \frac{\sqrt{ (-5)^2 - 4\cdot 3  \cdot  11     }    +  5    }{2\cdot 3^2}  \\
+ x  =    \frac{ +  5   \pm   \sqrt{ -107    }       }{18}      \\
+x   = \frac{ +  5   \pm   \sqrt{107    }\cdot  i         }{18}    \\ 
+\end{array}       $$
+
+
