@@ -215,7 +215,7 @@ x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
 
 
 ## Coefficient that are fractions or decimals  
-$$\frac{1}{2} x^  $$
+$$\frac{1}{2} x^2  + x  - \frac{1}{10 }   =  0    $$  we will  have a as $1/2$   b as  1 and c as $-\frac{1}{}10$
 $$\begin{array} {l}
  x  =    \frac{ -  4   \pm  \sqrt{ (-4)^2 - 4\cdot 2    }     }{2}    \\
  x  =    \frac{ -  4   \pm 2\sqrt{ 2 }     }{2}       \\
