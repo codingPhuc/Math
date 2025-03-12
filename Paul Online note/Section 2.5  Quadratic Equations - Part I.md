@@ -347,7 +347,41 @@ u^2   -  5u   -  14 =  0      \\
 u  -   7    = 0 \\ 
 u  +   2   = 0  \\
  
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =    7 \\
+x =   - 2    \\
+
 \end{array}
+\right.
 \right.   
 \end{array}  
 $$ 
+
+
+$$
+\begin{array}  {l} 
+u^2   -  5u   -  14 =  0      \\
+(u  -   7 ) (u  +   2 ) =  0  \\
+   
+  
+
+\left\{
+\begin{array}{l}
+u  -   7    = 0 \\ 
+u  +   2   = 0  \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x =    7 \\
+x =   - 2    \\
+
+\end{array}
+\right.
+\right.   
+\end{array}  
+$$
