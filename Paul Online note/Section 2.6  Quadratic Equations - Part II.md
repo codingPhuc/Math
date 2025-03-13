@@ -240,4 +240,20 @@ x  =    \frac{ 23   \pm  \sqrt{385    }     }{8}    \\
 
 
 
-# #pa 
+# #Practice_Exercise   
+
+
+
+$$\begin{array} {l}
+  x^2   + 8x   \\
+ \frac{ -  1   \pm  \sqrt{ 1^2 - 4\cdot  \frac{1}{2} \left( -\frac{1}{10} \right)   }     }{2\cdot  \frac{1}{2}}        \\
+ \left\{
+\begin{array}{l}
+x   =  \frac{ -  4   +  2\sqrt{ 2 }     }{2}        \\
+x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
+ 
+\end{array} \\
+
+\right. 
+  \\ 
+\end{array}       $$
