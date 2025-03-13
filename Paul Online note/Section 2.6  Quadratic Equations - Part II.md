@@ -238,3 +238,6 @@ x  =    \frac{ 23   \pm  \sqrt{385    }     }{8}    \\
  
 \end{array}       $$
 
+
+
+# #pa 
