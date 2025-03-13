@@ -26,4 +26,4 @@ The  quantity  $b^2   - 4ac$   in the quadratic formula  is called discriminant 
 -  **$b^2   - 4ac$   i < 0** 
 
 $$13x^2     + 1   =  5x  $$ using the   **$b^2   - 4ac$   
-$$ $$
+$$ 25   -  4.13  =   $$
