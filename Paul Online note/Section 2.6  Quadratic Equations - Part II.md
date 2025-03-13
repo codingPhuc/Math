@@ -376,8 +376,8 @@ x =     \frac{7}{4} - \frac{5}{4}    \\
 \implies
 \left\{
 \begin{array}{l}
-x   = 0 \\
-x  = 16\\
+x   = -3 \\
+x  =\frac{1}{4}\\
 \end{array}
 \right.
 \right. 
