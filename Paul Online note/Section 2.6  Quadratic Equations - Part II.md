@@ -470,8 +470,7 @@ $$\begin{array} {l}
 169−20t+4t^2  =  0   \\
 t  =   \frac{20 \pm  \sqrt{ 400  -  2704   }    }{ 8  } \\
 t  =   \frac{20 \pm    48i    }{ 8  }  \\
-
-
+t  =   \frac{ 5 \pm    12i     }{ 2  }  \\
  \left\{
 \begin{array}{l}
 
