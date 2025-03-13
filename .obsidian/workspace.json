@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " square root property",
+                "query": "rational expression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Faction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -288,10 +289,11 @@
   },
   "active": "bdfa568614a1c117",
   "lastOpenFiles": [
+    "Professor Leonard/7.3 ADD SUB  RATIONAL  EXPRESION.md",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
+    "Paul Online note/Section 2.7 Quadratic Equations  A Summary.md",
     "Paul Online note/Rational  Expression.md",
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
-    "Paul Online note/Section 2.7 Quadratic Equations  A Summary.md",
     "Linear algebra.md",
     "Professor Leonard/x 7.1 Rational Function.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
@@ -302,7 +304,6 @@
     "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
     "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
     "Professor Leonard/7.5 Solving Rational Equations (Equations with Rational Expressions).md",
-    "Professor Leonard/7.3 ADD SUB  RATIONAL  EXPRESION.md",
     "Professor Leonard/x 7.2 Multi and Division  RAT Expressions.md",
     "Paul Online note/Equation with more than one Variable.md",
     "Paul Online note/Solutions and Solution Sets.md",
