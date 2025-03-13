@@ -410,9 +410,9 @@ x =     3 +    \sqrt{ 5 }   \\
 
 
 $$\begin{array} {l}
-9w^2  - 6w    =  0\\
-x =   \frac{6 \pm  \sqrt{ 36 -   16   }}{2} \\
-x =   \frac{6   \pm   2\sqrt{ 5 }}{2}    \\
+9w^2  - 6w    =  101\\
+9w^2  - 6w   -101   =   0 \\
+x =   \frac{6  \pm  \sqrt{ 36   - 4\cdot  9  \cdot   }}{}  \\
 x =  3\pm  \sqrt{ 5 }\\ 
  \left\{
 \begin{array}{l}
