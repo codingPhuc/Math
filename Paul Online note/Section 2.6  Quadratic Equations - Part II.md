@@ -427,3 +427,39 @@ x =     \frac{6   -  6\sqrt{ 102 }  }{18}   \\
 
 \end{array}       $$  
 
+$$\begin{array} {l}
+9w^2  - 6w    =  101\\
+9w^2  - 6w   -101   =   0 \\
+x =   \frac{6  \pm  \sqrt{ 36   - 4\cdot  9  \cdot  -101  }}{18}  \\
+x =  \frac{1   \pm  \sqrt{ 102 }  }{3} \\ 
+ \left\{
+\begin{array}{l}
+x   =  \frac{1   +   \sqrt{ 102 }  }{3}   \\
+x =     \frac{1   -  \sqrt{ 102 }  }{3}   \\
+
+\end{array} \\
+
+\right. 
+  \\ 
+
+
+\end{array}       $$
+
+
+$$\begin{array} {l}
+9w^2  - 6w    =  101\\
+9w^2  - 6w   -101   =   0 \\
+x =   \frac{6  \pm  \sqrt{ 36   - 4\cdot  9  \cdot  -101  }}{18}  \\
+x =  \frac{1   \pm  \sqrt{ 102 }  }{3} \\ 
+ \left\{
+\begin{array}{l}
+x   =  \frac{1   +   \sqrt{ 102 }  }{3}   \\
+x =     \frac{1   -  \sqrt{ 102 }  }{3}   \\
+
+\end{array} \\
+
+\right. 
+  \\ 
+
+
+\end{array}       $$
