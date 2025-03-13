@@ -324,8 +324,8 @@ x^2  +  9x +  \frac{81}{4}   =   \frac{17}{4}     \\
  x    =  \pm  \frac{ \sqrt{ 17  }}{2}   - \frac{9}{2}   \\
  \left\{
 \begin{array}{l}
-v   =  \frac{ \sqrt{ 17   }  -  9 }{2}     \\
-v  =  4  - 5 \\
+v   =  \frac{ +  \sqrt{ 17   }  -  9 }{2}     \\
+v  =  \frac{ -   \sqrt{ 17   }  -  9 }{2}   \\
  
 \end{array} \\
 \implies
