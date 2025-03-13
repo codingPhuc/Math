@@ -293,7 +293,21 @@ v^2  +   8v    =  0   \\
 v^2  +   8v    + 16   =   9   + 16   \\
 (v  + 4)^2  =  25   \\
 v  + 4 =   \mp 5    \\
-
+ \left\{
+\begin{array}{l}
+v   =  4  + 5   \\
+v  =  4  - 5 \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+v   = 9    \\
+v  =  4  - 5 \\
+\end{array}
+\right.
+\right. 
+  \\ 
 
 \end{array}       $$
 
