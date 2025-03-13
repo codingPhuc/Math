@@ -26,4 +26,6 @@ The  quantity  $b^2   - 4ac$   in the quadratic formula  is called discriminant 
 -  **$b^2   - 4ac$   i < 0** 
 
 $$13x^2     + 1   =  5x  $$ using the   **$b^2   - 4ac$   
-$$ 25   -  4.13  =   $$
+$$ 25   -  4.13  =  -27 $$ so this   equation will have a complex number solution  because        **$b^2   - 4ac$    <   0 
+
+using     **$b^2   - 4ac$   
