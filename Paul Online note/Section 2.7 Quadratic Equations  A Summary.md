@@ -43,3 +43,9 @@ $$169x^2−182x+49=0$$using     $b^2   - 4ac$
 $$33124     - 33124  =  0 $$
 so this equation  will have a  double root   solution because   $b^2   - 4ac$    =   0 
 
+
+
+$$x^2+28x+61=0$$using     $b^2   - 4ac$   
+$$784 -4\cdot 1 \cdot 61  =  0 $$
+so this equation  will have a  double root   solution because   $b^2   - 4ac$    =   0 
+
