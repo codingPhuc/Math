@@ -451,11 +451,11 @@ $$\begin{array} {l}
 8u^2  + 12u   +  65 =   0   \\
 u  =   \frac{-12   \pm  \sqrt{ 12^2  -4 \cdot 8 \cdot   65  }}{16} \\
 u  =   \frac{-12   \pm  44i  }{16}  \\
-x =  \frac{1   \pm  \sqrt{ 102 }  }{3} \\ 
+
  \left\{
 \begin{array}{l}
-x   =  \frac{1   +   \sqrt{ 102 }  }{3}   \\
-x =     \frac{1   -  \sqrt{ 102 }  }{3}   \\
+x   = \frac{-12   -  44i  }{16}   \\
+x =     \frac{-12   +  44i  }{16}    \\
 
 \end{array} \\
 
