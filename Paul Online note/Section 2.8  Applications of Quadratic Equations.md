@@ -1,1 +1,2 @@
 # #definition 
+in this section we will revisit some of the application we saw  in the [[Section 2.3 Applications of Linear Equations]] section and see  some example  that require us to sole  a qudratic 
