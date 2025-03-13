@@ -392,10 +392,8 @@ x  =-1\\
 
 $$\begin{array} {l}
 x^2−6x+4=0\\
-x =   \frac{6 \pm  \sqrt{ 16   }}{2} \\
-x^2   +  \frac{5x}{2}  + \frac{25}{16}    =  -  \frac{3}{2}    + \frac{25}{16} \\
-\left( x +  \frac{5}{4} \right)^2 = \frac{1}{16}  \\
-x +  \frac{5}{4}    = \pm   \frac{1}{4}   \\
+x =   \frac{6 \pm  \sqrt{ 36 -   16   }}{2} \\
+x =   \frac{6 \pm  \sqrt{ 36 -   16   }}{2} 
  \left\{
 \begin{array}{l}
 x   =  -  \frac{1}{4}    -  \frac{5}{4}   \\
