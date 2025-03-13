@@ -469,13 +469,12 @@ x =     \frac{ -3  +  11i   }{4}    \\
 $$\begin{array} {l}
 169−20t+4t^2  =  0   \\
 t  =   \frac{20 \pm  \sqrt{ 400  -  2070  }    }{ 8  } \\
-u  =   \frac{-12   \pm  \sqrt{ 12^2  -4 \cdot 8 \cdot   65  }}{16} \\
-u  =   \frac{-12   \pm  44i  }{16}  \\
+t  =   \frac{20 \pm  \sqrt{ 1670 }    }{ 8  }  \\
+
 
  \left\{
 \begin{array}{l}
-x   = \frac{ -3  - 11i   }{4}   \\
-x =     \frac{ -3  +  11i   }{4}    \\
+
 
 \end{array} \\
 
