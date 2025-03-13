@@ -388,4 +388,4 @@ x  =-1\\
 
 
 
-##  use  the quadratic  formula t 
+##  use  the quadratic  formula to solve the quadratic equation 
