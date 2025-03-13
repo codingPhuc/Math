@@ -454,8 +454,8 @@ u  =   \frac{-12   \pm  44i  }{16}  \\
 
  \left\{
 \begin{array}{l}
-x   = \frac{-12   -  44i  }{16}   \\
-x =     \frac{-12   +  44i  }{16}    \\
+x   = \frac{ -3  - 11i   }{4}   \\
+x =     \frac{ -3  +  11i   }{4}    \\
 
 \end{array} \\
 
@@ -463,4 +463,25 @@ x =     \frac{-12   +  44i  }{16}    \\
   \\ 
 
 
-\end{array}       $$
+\end{array}       $$ 
+
+
+$$\begin{array} {l}
+169−20t+4t2 \\
+8u^2  + 12u   +  65 =   0   \\
+u  =   \frac{-12   \pm  \sqrt{ 12^2  -4 \cdot 8 \cdot   65  }}{16} \\
+u  =   \frac{-12   \pm  44i  }{16}  \\
+
+ \left\{
+\begin{array}{l}
+x   = \frac{ -3  - 11i   }{4}   \\
+x =     \frac{ -3  +  11i   }{4}    \\
+
+\end{array} \\
+
+\right. 
+  \\ 
+
+
+\end{array}       $$ 
+
