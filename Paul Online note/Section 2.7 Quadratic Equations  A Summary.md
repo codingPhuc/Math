@@ -53,7 +53,6 @@ so this equation  will have a  double root   solution because   $b^2   - 4ac$   
 
 $49x^2−126x+102=0$
 using     $b^2   - 4ac$   
-$$15876 -  19992  =     $$
+$$15876 -  19992  =  4116   $$
 so this equation  will have a  double root   solution because   $b^2   - 4ac$    >    0 
-
 
