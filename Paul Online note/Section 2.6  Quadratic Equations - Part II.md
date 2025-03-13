@@ -364,8 +364,8 @@ v  =   \frac{1}{2}i  + 1     \\
 $$\begin{array} {l}
 2x^2   +  5x + 3   =  0  \\
  x^2   +  \frac{5x}{2}  =  0  \\
-x^2   +  \frac{5x}{2}  + \frac{25}{4}    =  -  \frac{3}{2}     \\
-\left( x +  \frac{5}{4} \right)^2 =-  \frac{3}{2}  \\
+x^2   +  \frac{5x}{2}  + \frac{25}{4}    =  -  \frac{3}{2}    + \frac{25}{4} \\
+\left( x +  \frac{5}{4} \right)^2 = \frac{31}{4}  \\
 x +  \frac{5}{4}    = \pm   \sqrt{ \frac{3}{2} } i   \\
 x  =  \pm   \sqrt{ \frac{3}{2} } i  -\frac{5}{4}    \\
  \left\{
