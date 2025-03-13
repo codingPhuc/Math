@@ -488,7 +488,7 @@ t  =   \frac{ 5 \pm    12i     }{ 2  }  \\
 $$\begin{array} {l}
 2z^2+z−72=z^2−2z+58  \\
 z^2  + 3z   -130   =    0    \\
-z =   \frac{-3    \pm \sqrt{  }}{} \\
+z =   \frac{-3    \pm \sqrt{ 9   - 4\cdot  -130  }}{} \\
 t  =   \frac{20 \pm    48i    }{ 8  }  \\
 t  =   \frac{ 5 \pm    12i     }{ 2  }  \\
  \left\{
