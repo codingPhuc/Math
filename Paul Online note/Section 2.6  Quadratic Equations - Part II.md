@@ -247,14 +247,17 @@ x  =    \frac{ 23   \pm  \sqrt{385    }     }{8}    \\
 $$\begin{array} {l}
   x^2   + 8x   \\
 x^2  +8x    + 16  \\
-(x )  \\
- \left\{
-\begin{array}{l}
-x   =  \frac{ -  4   +  2\sqrt{ 2 }     }{2}        \\
-x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
- 
-\end{array} \\
+(x   + 4)^2   \\
 
-\right. 
-  \\ 
 \end{array}       $$
+
+
+
+
+
+$$\begin{array} {l}
+  x^2   + 8x   \\
+x^2  +8x    + 16  \\
+(x   + 4)^2   \\
+
+\end{array}       $$b
