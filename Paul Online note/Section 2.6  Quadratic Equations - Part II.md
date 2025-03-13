@@ -230,11 +230,11 @@ x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
   \\ 
 \end{array}       $$
 
-$$0.04  x^2  -  0.23x    -  0.09=  0      =>  \frac{1}{25}   x^2   -  \frac{23}{100} x= \frac{9}{100}   \implies 4   x^2   - 23  x  - 9   =     0    $$
-we will have a   a of  4  a b of  -23  and  c of -9    
+$$0.04  x^2  -  0.23x    +   0.09=  0      =>  \frac{1}{25}   x^2   -  \frac{23}{100} x= \frac{9}{100}   \implies 4   x^2   - 23  x  +  9   =     0    $$
+we will have a   a of  4  a b of  -23  and  c of +9    
 $$\begin{array} {l}
-x  =    \frac{ 23   \pm  \sqrt{ 23^2 - 4\cdot4\cdot  -9     }     }{2\cdot4}    \\
-x  =    \frac{ 23   \pm  \sqrt{673    }     }{8}    \\
+x  =    \frac{ 23   \pm  \sqrt{ 23^2 - 4\cdot4\cdot  +9     }     }{2\cdot4}    \\
+x  =    \frac{ 23   \pm  \sqrt{385    }     }{8}    \\
  
  \left\{
 \begin{array}{l}
