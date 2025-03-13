@@ -17,4 +17,5 @@ These  are only  possible for  quadratic  equation in standard form  .  Note  ho
 We can  also  find out before hand , what type of cases  we will get by looking at  quadratic equation(in standard form) 
 
 $$   x  =    \frac{ -  b   \pm  \sqrt{ b^2 - 4ac   }     }{2a}      $$
-The  quantity  b^2   - 4ac   in the quadratic formula  is called 
+The  quantity  $b^2   - 4ac$   in the quadratic formula  is called discriminant  .  It  is the value of the discriminant that will determine  which solution   set we will see  
+1.  Two real  distinct solution  . 
