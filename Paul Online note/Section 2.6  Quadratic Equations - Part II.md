@@ -342,13 +342,14 @@ $$\begin{array} {l}
   u^2    - 2u  +  \frac{5}{4}  =  0  \\
   u^2    - 2u     =  - \frac{5}{4}    \\
   u^2    - 2u   +  1   =- \frac{5}{4}   +  1  \\
-(u^2   - 1  )^2      =  -\frac{1}{4}     \\
-u^2   - 1  =      \\
+(u   - 1  )^2      =  -\frac{1}{4}     \\
+u   - 1  =   \pm \frac{1}{2}i  \\
+ u = \pm \frac{1}{2}i  + 1   \\
 
  \left\{
 \begin{array}{l}
-v   =  \frac{ +  \sqrt{ 17   }  -  9 }{2}     \\
-v  =  \frac{ -   \sqrt{ 17   }  -  9 }{2}   \\
+v   =  - \frac{1}{2}i  + 1       \\
+v  =   \frac{1}{2}i  + 1     \\
  
 \end{array} \\
 
