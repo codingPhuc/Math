@@ -39,7 +39,7 @@ so this equation  will have a  double root   solution because   $b^2   - 4ac$   
 
 
 #   #Practice_Exercise  
-$$169x2−182x+49=0169x2−182x+49=0 $$using     $b^2   - 4ac$   
-$$ 126^2 -  4\cdot   49 \cdot 81   =  0 $$
+$$169x^2−182x+49=0$$using     $b^2   - 4ac$   
+$$33124     - 33124  =  0 $$
 so this equation  will have a  double root   solution because   $b^2   - 4ac$    =   0 
 
