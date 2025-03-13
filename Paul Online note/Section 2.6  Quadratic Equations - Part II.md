@@ -373,9 +373,16 @@ x   =  -  \frac{7}{4}   -  \frac{5}{4}   \\
 x =     \frac{7}{4} - \frac{5}{4}    \\
 
 \end{array} \\
-
+\implies
+\left\{
+\begin{array}{l}
+x   = 0 \\
+x  = 16\\
+\end{array}
+\right.
 \right. 
   \\ 
+
 
 \end{array}       $$  
 
