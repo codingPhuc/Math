@@ -397,17 +397,30 @@ x =   \frac{6   \pm   2\sqrt{ 5 }}{2}    \\
 x =  3\pm  \sqrt{ 5 }\\ 
  \left\{
 \begin{array}{l}
-x   =  -  \frac{1}{4}    -  \frac{5}{4}   \\
-x =     \frac{1}{4}  - \frac{5}{4}    \\
+x   =  3 -    \sqrt{ 5 }   \\
+x =     3 +    \sqrt{ 5 }   \\
 
 \end{array} \\
-\implies
-\left\{
+
+\right. 
+  \\ 
+
+
+\end{array}       $$  
+
+
+$$\begin{array} {l}
+9w^2  - 6w    =  0\\
+x =   \frac{6 \pm  \sqrt{ 36 -   16   }}{2} \\
+x =   \frac{6   \pm   2\sqrt{ 5 }}{2}    \\
+x =  3\pm  \sqrt{ 5 }\\ 
+ \left\{
 \begin{array}{l}
-x   = -\frac{3}{2} \\
-x  =-1\\
-\end{array}
-\right.
+x   =  3 -    \sqrt{ 5 }   \\
+x =     3 +    \sqrt{ 5 }   \\
+
+\end{array} \\
+
 \right. 
   \\ 
 
