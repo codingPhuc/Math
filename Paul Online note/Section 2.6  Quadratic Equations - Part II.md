@@ -449,8 +449,8 @@ x =     \frac{1   -  \sqrt{ 102 }  }{3}   \\
 $$\begin{array} {l}
 8u^2  +  5u  +  70   =   5 -  7u \\
 8u^2  + 12u   +  65 =   0   \\
-u  =   \frac{-12   \pm  \sqrt{ 12^2  -4 \cdot 8 \cdot   65  }}{} \\
-x =   \frac{6  \pm  \sqrt{ 36   - 4\cdot  9  \cdot  -101  }}{18}  \\
+u  =   \frac{-12   \pm  \sqrt{ 12^2  -4 \cdot 8 \cdot   65  }}{16} \\
+u  =   \frac{-12   \pm  44i  }{16}  \\
 x =  \frac{1   \pm  \sqrt{ 102 }  }{3} \\ 
  \left\{
 \begin{array}{l}
