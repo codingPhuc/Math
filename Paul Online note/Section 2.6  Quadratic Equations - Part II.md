@@ -341,7 +341,7 @@ $$\begin{array} {l}
 4u^2  -  8u   +  5 =  0  \\
   u^2    - 2u  +  \frac{5}{4}  =  0  \\
   u^2    - 2u     =  - \frac{5}{4}    \\
-u^2    -  \\
+  u^2    - 2u    \\
 
  \left\{
 \begin{array}{l}
