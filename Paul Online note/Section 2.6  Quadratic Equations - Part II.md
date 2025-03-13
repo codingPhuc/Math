@@ -317,9 +317,9 @@ v  =  -1  \\
 
 $$\begin{array} {l}
 x^2  +  9x  + 16   =  0   \\
-x^2  +  9x +  \frac{81}{4}   =   -16    \\
-(x + 9) =  25   \\
-v  + 4 =   \mp 5    \\
+x^2  +  9x +  \frac{81}{4}   =   -16    +  \frac{81}{4}  \\
+x^2  +  9x +  \frac{81}{4}   =   \frac{17}{4}     \\
+\left( x   +  \frac{9}{2} \right)^2    =     \\
  \left\{
 \begin{array}{l}
 v   =  4  + 5   \\
