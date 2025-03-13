@@ -338,12 +338,10 @@ v  =  \frac{ -   \sqrt{ 17   }  -  9 }{2}   \\
 
 
 $$\begin{array} {l}
-4 =  0   \\
-x^2  +  9x +  \frac{81}{4}   =   -16    +  \frac{81}{4}  \\
-x^2  +  9x +  \frac{81}{4}   =   \frac{17}{4}     \\
-\left( x   +  \frac{9}{2} \right)^2    = \frac{17}{4}      \\
- x   +  \frac{9}{2}    =  \pm  \frac{ \sqrt{ 17  }}{2}    \\
- x    =  \pm  \frac{ \sqrt{ 17  }}{2}   - \frac{9}{2}   \\
+4u^2  -  8u   +  5 =  0  \\
+  u^2    - 2u  +  \frac{5}{4}  =  0  \\
+\\
+
  \left\{
 \begin{array}{l}
 v   =  \frac{ +  \sqrt{ 17   }  -  9 }{2}     \\
