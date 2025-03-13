@@ -26,10 +26,10 @@ The  quantity  $b^2   - 4ac$   in the quadratic formula  is called discriminant 
 -  **$b^2   - 4ac$   i < 0** 
 
 $$13x^2     + 1   =  5x  $$ using the   **$b^2   - 4ac$   
-$$ 25   -  4.13  =  -27 $$ so this   equation will have a complex number solution  because        **$b^2   - 4ac$    <   0 
+$$ 25   -  4.13  =  -27 $$ so this   equation will have a complex number solution  because        $b^2   - 4ac$    <   0 
 
 $$6q^2+20q=3  $$
 
 using     **$b^2   - 4ac$   
-$$ 20  =  -27 $$
-so this equation  will have a  
+$$ 20^2   -  6\cdot  -3   =  418 $$
+so this equation  will have a   real number solution because  
