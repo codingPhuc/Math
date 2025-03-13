@@ -233,7 +233,7 @@ x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
 $$0.04  x^2  -  0.23x    -  0.09=  0      =>  \frac{1}{25}   x^2   -  \frac{23}{100} x= \frac{9}{100}   \implies 4   x^2   - 23  x  - 9   =     0    $$
 we will have a   a of  4  a b of  -23  and  c of -9    
 $$\begin{array} {l}
-x  =    \frac{ -  b   \pm  \sqrt{ b^2 - 4ac   }     }{2a}    \\
+x  =    \frac{ 23   \pm  \sqrt{ 23^2 - 4\cdot4\cdot  -9     }     }{2\cdot4}    \\
  \frac{ -  1   \pm  \sqrt{ 1^2 - 4\cdot  \frac{1}{2} \left( -\frac{1}{10} \right)   }     }{2\cdot  \frac{1}{2}}        \\
  \left\{
 \begin{array}{l}
