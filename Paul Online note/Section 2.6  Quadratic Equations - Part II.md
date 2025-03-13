@@ -230,7 +230,8 @@ x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
   \\ 
 \end{array}       $$
 
-$$0.04  x^2  -  0.23x    -  0.09=  0      =>  \frac{1}{25}   x^2   -  \frac{23}{100} = \frac{9}{100}   \implies \frac{1}{25}   x^2   -  \frac{23}{100} = \frac{9}{100}  $$  we will  have a as $\frac{1}{2}$   b as  1 and c as $-\frac{1}{10}$
+$$0.04  x^2  -  0.23x    -  0.09=  0      =>  \frac{1}{25}   x^2   -  \frac{23}{100} x= \frac{9}{100}   \implies 4   x^2   - 23  x  - 9   =     0    $$
+we will have a   a of  4  a b of  -23  and  c of -9   =
 $$\begin{array} {l}
  x  =    \frac{ -  1   \pm  \sqrt{ 1^2 - 4\cdot  \frac{1}{2} \left( -\frac{1}{10} \right)   }     }{2\cdot  \frac{1}{2}}   \\
  \frac{ -  1   \pm  \sqrt{ 1^2 - 4\cdot  \frac{1}{2} \left( -\frac{1}{10} \right)   }     }{2\cdot  \frac{1}{2}}        \\
