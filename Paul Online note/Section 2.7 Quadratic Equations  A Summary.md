@@ -19,4 +19,5 @@ We can  also  find out before hand , what type of cases  we will get by looking 
 $$   x  =    \frac{ -  b   \pm  \sqrt{ b^2 - 4ac   }     }{2a}      $$
 The  quantity  $b^2   - 4ac$   in the quadratic formula  is called discriminant  .  It  is the value of the discriminant that will determine  which solution   set we will see  
 1.  Two real  distinct solution  . We will get this solution  set if   $b^2   - 4ac$   i > 0   ,so the numerator for the above  formula  will be  minus b   plus minus a real number  . As a result , the numerator will be a  real number  , dividing by one or two would not change the fact that they are real  , nor will it change the fact that they are different 
-2. A double root .  we will get this result if     $b^2   - 4ac$   i  =  0  . Here we will take the square root of  0   which is  0  ,   
+2. A double root .  we will get this result if     $b^2   - 4ac$   i  =  0  . Here we will take the square root of  0   which is  0  , so   only  -b  remain  but since there are no plus and  minus part . We will get a single real number 
+3. Two complex solution .  
