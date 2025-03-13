@@ -466,6 +466,7 @@ x =     \frac{ -3  +  11i   }{4}    \\
 \end{array}       $$ 
 
 
+
 $$\begin{array} {l}
 169−20t+4t^2  =  0   \\
 t  =   \frac{20 \pm  \sqrt{ 400  -  2704   }    }{ 8  } \\
@@ -481,5 +482,23 @@ t  =   \frac{ 5 \pm    12i     }{ 2  }  \\
   \\ 
 
 
-\end{array}       $$ 
+\end{array}       $$
+
+
+$$\begin{array} {l}
+2z2+z−72=z2−2z+58   \\
+t  =   \frac{20 \pm  \sqrt{ 400  -  2704   }    }{ 8  } \\
+t  =   \frac{20 \pm    48i    }{ 8  }  \\
+t  =   \frac{ 5 \pm    12i     }{ 2  }  \\
+ \left\{
+\begin{array}{l}
+
+
+\end{array} \\
+
+\right. 
+  \\ 
+
+
+\end{array}       $$
 
