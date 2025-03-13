@@ -4,5 +4,7 @@ which  method should we used to solve  quadratic  equation .  If you  instructor
 2. does it factor  ? then do  it .  Note that you should not spend a lot of time to determine if the  quadratic  equation  factor  . Look  at the equation then  if you determine  that it factor then go with it   
 3. if you reach this point then you have determined  that the equation  is not in the correct form  for square root  property and that it does not factor so your only choice is to used the quadratic equation 
 Note how there are not completing the square  , this is because it is  a long process  and you should used quadratic equation instead 
+
+## ana
 Let analyze   what we saw in the pervious  section :  
-$$$
+$$ax^2     + bx  + c  =   0 $$ we will get one of the following solution  :  
