@@ -51,7 +51,7 @@ so this equation  will have a  double root   solution because   $b^2   - 4ac$   
 
 
 
-$49x2−126x+102=0$$using     $b^2   - 4ac$   
+$49x2−126x+102=0$using     $b^2   - 4ac$   
 $$784 -4\cdot 1 \cdot 61  =  540  $$
 so this equation  will have a  double root   solution because   $b^2   - 4ac$    >    0 
 
