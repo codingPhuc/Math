@@ -265,7 +265,7 @@ u^2   - 11u  +   -\frac{121}{4}    \\
 
 $$\begin{array} {l}
 2z^2  - 12z     \\
-2z^2  - 12z  +     \\
+2z^2  - 12z    \\
 \left(  u   -  \frac{11}{2}  \right)^2  \\
 
 \end{array}       $$
