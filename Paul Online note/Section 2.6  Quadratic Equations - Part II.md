@@ -468,8 +468,8 @@ x =     \frac{ -3  +  11i   }{4}    \\
 
 $$\begin{array} {l}
 169−20t+4t^2  =  0   \\
-t  =   \frac{20 \pm  \sqrt{ 400  -  2070  }    }{ 8  } \\
-t  =   \frac{20 \pm  \sqrt{ 1670 }    }{ 8  }  \\
+t  =   \frac{20 \pm  \sqrt{ 400  -  2704   }    }{ 8  } \\
+t  =   \frac{20 \pm    48i    }{ 8  }  \\
 
 
  \left\{
