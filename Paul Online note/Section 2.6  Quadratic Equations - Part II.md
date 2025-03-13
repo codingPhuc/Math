@@ -328,13 +328,29 @@ v   =  \frac{ +  \sqrt{ 17   }  -  9 }{2}     \\
 v  =  \frac{ -   \sqrt{ 17   }  -  9 }{2}   \\
  
 \end{array} \\
-\implies
-\left\{
+
+\right. 
+  \\ 
+
+\end{array}       $$
+
+
+
+
+$$\begin{array} {l}
+4 =  0   \\
+x^2  +  9x +  \frac{81}{4}   =   -16    +  \frac{81}{4}  \\
+x^2  +  9x +  \frac{81}{4}   =   \frac{17}{4}     \\
+\left( x   +  \frac{9}{2} \right)^2    = \frac{17}{4}      \\
+ x   +  \frac{9}{2}    =  \pm  \frac{ \sqrt{ 17  }}{2}    \\
+ x    =  \pm  \frac{ \sqrt{ 17  }}{2}   - \frac{9}{2}   \\
+ \left\{
 \begin{array}{l}
-v   = 9    \\
-v  =  -1  \\
-\end{array}
-\right.
+v   =  \frac{ +  \sqrt{ 17   }  -  9 }{2}     \\
+v  =  \frac{ -   \sqrt{ 17   }  -  9 }{2}   \\
+ 
+\end{array} \\
+
 \right. 
   \\ 
 
