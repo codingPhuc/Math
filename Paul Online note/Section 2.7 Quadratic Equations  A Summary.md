@@ -36,3 +36,10 @@ so this equation  will have a   real number solution because   $b^2   - 4ac$    
 $$49t^2+126t+81=0 $$using     $b^2   - 4ac$   
 $$ 126^2 -  4\cdot   49 \cdot 81   =  0 $$
 so this equation  will have a  double root   solution because   $b^2   - 4ac$    =   0 
+
+
+#   #Practice_Exercise  
+$$169x2−182x+49=0169x2−182x+49=0 $$using     $b^2   - 4ac$   
+$$ 126^2 -  4\cdot   49 \cdot 81   =  0 $$
+so this equation  will have a  double root   solution because   $b^2   - 4ac$    =   0 
+
