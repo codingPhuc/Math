@@ -367,20 +367,19 @@ $$\begin{array} {l}
 x^2   +  \frac{5x}{2}  + \frac{25}{4}    =  -  \frac{3}{2}     \\
 \left( x +  \frac{5}{4} \right)^2 =-  \frac{3}{2}  \\
 x +  \frac{5}{4}    = \pm   \sqrt{ \frac{3}{2} } i   \\
-u   - 1  =   -\frac{5}{4}    \\
- u = \pm \frac{1}{2}i  + 1   \\
-
+x  =  \pm   \sqrt{ \frac{3}{2} } i  -\frac{5}{4}    \\
  \left\{
 \begin{array}{l}
-v   =  - \frac{1}{2}i  + 1       \\
-v  =   \frac{1}{2}i  + 1     \\
+x   = -   \sqrt{ \frac{3}{2} } i  -\frac{5}{4}      \\
+x =      \sqrt{ \frac{3}{2} } i  -\frac{5}{4}     \\
  
 \end{array} \\
 
 \right. 
   \\ 
 
-\end{array}       $$
+\end{array}       $$  
+
 
 
 
