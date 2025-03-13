@@ -376,8 +376,8 @@ x =     \frac{1}{4}  - \frac{5}{4}    \\
 \implies
 \left\{
 \begin{array}{l}
-x   = -3 \\
-x  =\frac{1}{4}\\
+x   = -\frac{3}{2} \\
+x  =-1\\
 \end{array}
 \right.
 \right. 
@@ -388,4 +388,4 @@ x  =\frac{1}{4}\\
 
 
 
-
+##  use  the quadratic  formula t 
