@@ -13,4 +13,5 @@ $$ax^2     + bx  + c  =   0 $$ we will get one of the following solution  :
 1. Two real distinct   solution 
 2. A double root.  Recall that this  arises  when we can factor the equation   into  a perfect square 
 3. Two complex  solutions 
-These  are only  possible for  quadratic  equation in standard form  .  Note  however ,   that if we start  with rational  expression in the equation we will get different solution set  
+These  are only  possible for  quadratic  equation in standard form  .  Note  however ,   that if we start  with rational  expression in the equation we will get different solution set  ,  because we want to avoid   one of the solution so that we will not division by 0   
+We can  also  find out before hand , what type of equation that we will get by look
