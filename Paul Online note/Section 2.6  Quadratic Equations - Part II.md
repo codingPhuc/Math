@@ -257,7 +257,15 @@ x^2  +8x    + 16  \\
 
 $$\begin{array} {l}
   u^2  - 11u    \\
-u^2   - 11u  +   -\frac{121}{4} \\
-(x   + 4)^2   \\
+u^2   - 11u  +   -\frac{121}{4}    \\
+\left(  u   -  \frac{11}{2}  \right)^2  \\
 
-\end{array}       $$b
+\end{array}       $$ 
+
+
+$$\begin{array} {l}
+2z^2  - 12z     \\
+2z^2  - 12z  +     \\
+\left(  u   -  \frac{11}{2}  \right)^2  \\
+
+\end{array}       $$
