@@ -22,4 +22,5 @@ The  quantity  $b^2   - 4ac$   in the quadratic formula  is called discriminant 
 2. A double root .  we will get this result if     $b^2   - 4ac$   i  =  0  . Here we will take the square root of  0   which is  0  , so   only  -b  remain  but since there are no plus and  minus part . We will get a single real number 
 3. Two complex solution .  We will get this solution set if   $b^2   - 4ac$   i < 0 .  If the discriminant is negative we will be  taking  the square root of a   negative number  in the quadratic solution   resulting in a complex number . Also we will get two different number since they have a plus or minus 
  $b^2   - 4ac$   i > 0  
-     $b^2   - 4ac$   i  =  0  
+$b^2   - 4ac$   i  =  0   
+ $b^2   - 4ac$   i < 0 
