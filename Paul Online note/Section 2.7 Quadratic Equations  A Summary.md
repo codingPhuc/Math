@@ -34,5 +34,5 @@ using     **$b^2   - 4ac$
 $$ 20^2   -  6\cdot  -3   =  418 $$
 so this equation  will have a   real number solution because   **$b^2   - 4ac$    >  0 
 $$49t^2+126t+81=0 $$using     **$b^2   - 4ac$   
-$$   =  418 $$
-so this equation  will have a   real number solution because   **$b^2   - 4ac$    >  0 
+$$ 126^2 -  4\cdot   49 \cdot 81   =  0 $$
+so this equation  will have a   quare  roo solution because   **$b^2   - 4ac$    >  0 
