@@ -11,4 +11,5 @@ Note how there are not completing the square  , this is because it is  a long pr
 Let analyze   what we saw in the pervious  section :  
 $$ax^2     + bx  + c  =   0 $$ we will get one of the following solution  :  
 1. Two real distinct   solution 
-2. A double root , 
+2. A double root.  Recall that this  arises  when we can factor the equation   into  a perfect square 
+3. Two complex  solutions 
