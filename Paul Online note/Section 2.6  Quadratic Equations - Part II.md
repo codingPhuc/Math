@@ -274,4 +274,12 @@ z^2  -   6z  +  9   \\
 
 
 
-##  
+##  quadratic equation  by completing the square 
+
+$$\begin{array} {l}
+t^2  - 10t  + 34    =  0   \\
+
+
+\end{array}       $$
+
+
