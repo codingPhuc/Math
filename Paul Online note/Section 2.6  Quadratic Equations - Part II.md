@@ -236,14 +236,5 @@ $$\begin{array} {l}
 x  =    \frac{ 23   \pm  \sqrt{ 23^2 - 4\cdot4\cdot  +9     }     }{2\cdot4}    \\
 x  =    \frac{ 23   \pm  \sqrt{385    }     }{8}    \\
  
- \left\{
-\begin{array}{l}
-x   =  \frac{ -  4   +  2\sqrt{ 2 }     }{2}        \\
-x  = \frac{ -  4   -  2\sqrt{ 2 }     }{2}    \\
- 
-\end{array} \\
-
-\right. 
-  \\ 
 \end{array}       $$
 
