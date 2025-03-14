@@ -11,7 +11,7 @@ area  of  75
 $$ \begin{array} {l}  
  l  \cdot(3  +  l )     =  75   \\
 3l  +  l^2    = 75    \\
-l   =   \frac{ }{}
+l   =   \frac{  -3 \sqrt{ 9 -  4 \cdot  }}{}
 \end{array}   $$  
 
 
