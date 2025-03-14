@@ -100,4 +100,10 @@ Two people can paint a house in 14 hours. Working individually one of the people
 | ---------------- | -------- | -------- |
 | first person     | t1       | 1/t1     |
 | second  person   | t1   + 2 | 1/(t1+2) |
-| working together | 2        | 1/2      |
+| working together | 14       | 1/14     |
+$$
+\begin{array}{l}
+\frac{1}{t_{1} }    +   \frac{1}{t_{1}  + 2 }  =  \frac{1}{14} \\
+(t_{1}  + 2 )14 +   
+\end{array} 
+ $$
