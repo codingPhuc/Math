@@ -25,4 +25,5 @@ Two cars start out at the same point
 -  One car starts out driving north at 25 mph  
 -  Two hours later the second car starts driving  starts driving east at 20 mph   
 - How long after the first car starts traveling does it take for the two cars to be 300 miles apart? 
-we  say that the time   it took  the car a  and b  to get the
+we  say that the time   it took  the car a  and b  to get there is  t 
+![[Section 2.8  Applications of Quadratic Equations 2025-03-13 20.08.11.excalidraw]]

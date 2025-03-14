@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "5c035cef5ff54e6b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Section 2.8  Applications of Quadratic Equations 2025-03-13 20.08.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Section 2.8  Applications of Quadratic Equations 2025-03-13 20.08.11.excalidraw"
+            }
+          },
+          {
             "id": "f669a7acd8d235bf",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -286,10 +298,11 @@
       }
     ]
   },
-  "active": "bdfa568614a1c117",
+  "active": "5c035cef5ff54e6b",
   "lastOpenFiles": [
-    "Paul Online note/Section 2.7 Quadratic Equations  A Summary.md",
     "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
+    "Excalidraw/Section 2.8  Applications of Quadratic Equations 2025-03-13 20.08.11.excalidraw.md",
+    "Paul Online note/Section 2.7 Quadratic Equations  A Summary.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "Professor Leonard/7.3 ADD SUB  RATIONAL  EXPRESION.md",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
@@ -313,7 +326,6 @@
     "Paul Online note/Factor.md",
     "Paul Online note/Rational exponents.md",
     "Paul Online note/Faction.md",
-    "Paul Online note/Radicals.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Pasted Image 20250226155530_564.png",
