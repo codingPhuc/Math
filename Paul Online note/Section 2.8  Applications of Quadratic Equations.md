@@ -63,7 +63,15 @@ t_{1}   =  \frac{3   +  \sqrt{ 17 }  }{2}
 \end{array}
  $$ The width of a rectangle is 1 m less than twice the length. If the area of the rectangle is 100 m2 what are the dimensions of the rectangle?   
 we say that the length  of the triangle  is  represented by  the variable x  
-( 2x -1) x   =   
+
+
+$$
+\begin{array}{l}
+( 2x -1) x   =  100     \\
+2x^2    - x     - 100    =  0    \\
+x  =  \frac{1  \pm   \sqrt{ 1   -   }}{ }
+\end{array}
+ $$
 
 
 Two cars start out at the same spot. One car starts to drive north at 40 mph and 3 hours later the second car starts driving to the east at 60 mph. How long after the first car starts driving does it take for the two cars to be 500 miles apart?
