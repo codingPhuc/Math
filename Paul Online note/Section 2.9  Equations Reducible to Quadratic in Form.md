@@ -5,7 +5,7 @@ $$
 \begin{array}{l}
 x^4   -  7x^2  +  12     \\
 (x^2)^2   - (7x)^2  + 12    \\
-we 
+u   =  x^2   
 \frac{7x  \pm   \sqrt{ x }}{}
  \end{array}
 
