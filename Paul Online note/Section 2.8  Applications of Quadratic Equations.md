@@ -27,5 +27,9 @@ Two cars start out at the same point
 - How long after the first car starts traveling does it take for the two cars to be 300 miles apart? 
 
 $$
-2
+\begin{array}l
+20(t+  2) + 25t  =  300    \\
+20
+\end{array}
+
 $$
