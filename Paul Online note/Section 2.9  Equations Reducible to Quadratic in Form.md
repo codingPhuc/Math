@@ -11,14 +11,24 @@ u   =  x^2   \\
  \left\{
 \begin{array}{l}
   u  =   3    \\
-x  = \frac{ - 19  -     23       }{14} \\
+u  = 4   \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x   = \frac{2}{7 }  \\
-x  = -3 \\
+  x^2   =   3    \\
+x^2  = 4   \\
+ 
+
+\end{array}
+\right. \\
+\implies
+\left\{
+\begin{array}{l}
+  x  = \pm  \sqrt{ 3 }    \\
+x =  \pm 2   \\
+ 
 
 \end{array}
 \right.
