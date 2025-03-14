@@ -87,7 +87,9 @@ let say the time that the first car start is  in variable t
 $$
 \begin{array}{l}
 (60(t + 3  ))^2  + (40t)^2  =  500^2   \\
- (60t +  180)^2  +  1600t^2    =      
+ (60t +  180)^2  +  1600t^2    =   250000    \\
+3600t^2   +  21600t  +  32400    =   250000  \\
+   
 \end{array}
  $$
 Two people can paint a house in 14 hours. Working individually one of the people takes 2 hours more than it takes the other person to paint the house. How long would it take each person working individually to paint the house?
