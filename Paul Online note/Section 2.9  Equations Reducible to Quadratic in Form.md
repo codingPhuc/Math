@@ -203,8 +203,8 @@ x^5    =  \frac{  1  -    \sqrt{33}}{ 4  }      \\
 \implies
 \left\{
 \begin{array}{l}
-x  =  \frac{\left( \frac{  1   +   \sqrt{33}}{ 4  }  \right)^1}{}   \\
-x   =  \frac{  1  -    \sqrt{33}}{ 4  }      \\
+x  =  \left( \frac{  1   +   \sqrt{33}}{ 4  }  \right)^{1/5}   \\
+x   =  \left( \frac{  1  -    \sqrt{33}}{ 4  } \right)^{1/5}      \\
  
 
 \end{array}
