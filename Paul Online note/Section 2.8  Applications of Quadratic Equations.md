@@ -52,5 +52,8 @@ An office has two envelope stuffing machines. Working together they can stuff a 
 | working together | 2        | 1/2      |
 
 $$
-
-$$
+\begin{array}{l}
+\frac{1}{ t_{1}}    + \frac{1}{t+1}  =  \frac{1}{2 }  \\
+t_{1}  +  
+\end{array}
+ $$
