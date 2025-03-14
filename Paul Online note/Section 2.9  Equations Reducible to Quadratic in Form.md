@@ -167,15 +167,15 @@ u  =  - 2    \\
 \implies
 \left\{
 \begin{array}{l}
- z^{1/2}     =  2     \\
- z^{1/2}    = 7    \\
+ t^2   =   2    \\
+t^2    =  - 2    \\
 \end{array}
 \right. \\
 \implies
 \left\{
 \begin{array}{l}
-x   =  4   \\
-x   =   49      
+t   =   \pm   \sqrt{   2 }  \\
+t    =    \pm   \sqrt{  2 } \cdot i 
  
 
 \end{array}
