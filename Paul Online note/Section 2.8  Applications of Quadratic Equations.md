@@ -12,8 +12,11 @@ $$ \begin{array} {l}
  l  \cdot(3  +  l )     =  75   \\
 3l  +  l^2    = 75    \\
 l   =   \frac{  -3 \pm \sqrt{ 9 -  4 \cdot -75  }}{2}
-\end{array}   $$  will  will have one  negative forr
+\end{array}   $$  will  will have one  negative from $\frac{  -3 - \sqrt{ 9 -  4 \cdot -75  }}{2}$  so we have to eliminate it 
 
 
 
-when  we  solve a practical   application  of   quadratic  equation  ,  we should not see any complex  number instead a double  root or two real solution  .  Also ,  as  the pervious example show  ,  we  will need to eliminate one of them  for  physical reason 
+when  we  solve a practical   application  of   quadratic  equation  ,  we should not see any complex  number instead a double  root or two real solution  .  Also ,  as  the pervious example show  ,  we  will need to eliminate one of them  for  physical reason   
+
+
+Example 2 Two cars start out at the same point. One car starts out driving north at 25 mph. Two hours later the second car starts driving east at 20 mph. How long after the first car starts traveling does it take for the two cars to be 300 miles apart? 
