@@ -28,6 +28,9 @@ Two cars start out at the same point
 we  say that the time   it took  the car a  and b  to get there is  t 
 ![[Section 2.8  Applications of Quadratic Equations 2025-03-13 20.08.11.excalidraw]]
 $$
-N
+\begin{array}{l}
+(20(T-2))^2    +  (25T)^2    =   300   \\
+400(t -  2)^2  +  25 
+\end{array}
 
-(20(T-2))^2    +  25T^2    =   300  $$
+  $$
