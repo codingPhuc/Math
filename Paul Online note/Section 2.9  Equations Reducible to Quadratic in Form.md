@@ -118,15 +118,14 @@ $$
 
 $$
 \begin{array}{l}
-  
 z−9\sqrt{  z  }+14=0 \\
 u  = z^{1/2}   \\
- \implies u^2      -  2u  -  15   =    0    \\
-(u   + 3) (  u   - 5  )   =   0   \\
+ \implies u^2−9u+14=0     \\
+(u    -   2 ) (  u     -  7  )   =   0   \\
  \left\{
 \begin{array}{l}
-  u  =   -3    \\
-u  = 5   \\
+  u  =   2    \\
+u  = 7  \\
  
 \end{array} \\
 \implies
