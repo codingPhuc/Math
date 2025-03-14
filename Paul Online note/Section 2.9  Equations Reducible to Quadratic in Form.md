@@ -35,5 +35,6 @@ x =  \pm 2   \\
 \right.  
  \end{array}
 $$
+the basic process    is to chec
 
 
