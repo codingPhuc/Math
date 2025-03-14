@@ -30,7 +30,9 @@ we  say that the time   it took  the car a  and b  to get there is  t
 $$
 \begin{array}{l}
 (20(T-2))^2    +  (25T)^2    =   300   \\
-400(t -  2)^2  +  25 
+400(t -  2)^2  +  625T^2   =   300   \\
+ 400(t^2 -  2t + 4)  +  625T^2   =   300     \\
+400t^2    -  800t  +  1600  +  
 \end{array}
 
   $$
