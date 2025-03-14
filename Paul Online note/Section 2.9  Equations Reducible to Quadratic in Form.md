@@ -185,7 +185,8 @@ $$
 2x^{10}−x^5−4=0\\
  u =   x^5    \\
  \implies 2u^2   -  u   -  4   =    0      \\
-1
+  =\frac{  1  \pm   \sqrt{ 1  - 4\cdot 2 \cdot   -4}}{ 4  }  \\
+ =   
  \left\{
 \begin{array}{l}
   u  =   2    \\
