@@ -69,7 +69,8 @@ $$
 \begin{array}{l}
 ( 2x -1) x   =  100     \\
 2x^2    - x     - 100    =  0    \\
-x  =  \frac{1  \pm   \sqrt{ 1   -   }}{ }
+x  =  \frac{1  \pm   \sqrt{ 1   -  4\cdot  -100  \cdot  2   }}{   4  }  \\
+x   =  
 \end{array}
  $$
 
