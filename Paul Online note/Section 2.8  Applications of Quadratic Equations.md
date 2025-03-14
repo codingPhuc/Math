@@ -10,7 +10,8 @@ area  of  75
 4. create an equation bases on the provided value and  variable  
 $$ \begin{array} {l}  
  l  \cdot(3  +  l )     =  75   \\
-
+3l  +  l^2    = 75    \\
+l   =   \frac{ }{}
 \end{array}   $$  
 
 
