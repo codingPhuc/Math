@@ -101,8 +101,8 @@ y^{−3}    =  8    \\
 \implies
 \left\{
 \begin{array}{l}
- y    =   \pm 1      \\
-x   =  \pm  \frac{1}{ 2\sqrt{ 2 }} 
+ y    =    1      \\
+x   =    \frac{1}{ 2} 
  
 
 \end{array}
