@@ -75,7 +75,6 @@ x   = (5)^3  =  125
 \right.  
  \end{array}
 $$ 
-
 #fail 
 $$
 \begin{array}{l}
@@ -113,9 +112,6 @@ $$
 
 
 
-
-
-
 $$
 \begin{array}{l}
 z−9\sqrt{  z  }+14=0 \\
@@ -149,6 +145,38 @@ x   =   49
 $$ 
 
 
+
+$$
+\begin{array}{l}
+t^4−4=0\\
+ u =   t^2     \\
+ \implies u^2   - 4  =    0      \\
+(u-2) (  u + 2  )   =   0   \\
+ \left\{
+\begin{array}{l}
+  u  =   2    \\
+u  =  - 2    \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+ t^2   =   2    \\
+t^2    =  - 2    \\
+\end{array}
+\right. \\
+\implies
+\left\{
+\begin{array}{l}
+t   =   \pm   \sqrt{   2 }  \\
+t    =    \pm   \sqrt{  2 } \cdot i 
+ 
+
+\end{array}
+\right.
+\right.  
+ \end{array}
+$$
 
 
 
