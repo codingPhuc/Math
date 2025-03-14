@@ -157,7 +157,7 @@ Thus, working together they take **1.875 hours**.
 
 Equation:
 
-15+1x=27\frac{1}{5} + \frac{1}{x} = \frac{2}{7} 7x+35=10x⇒x=11.7 hours7x + 35 = 10x \Rightarrow x = 11.7 \, \text{hours}
+$15+1x=27\frac{1}{5} + \frac{1}{x} = \frac{2}{7} 7x+35=10x⇒x=11.7 hours7x + 35 = 10x \Rightarrow x = 11.7 \, \text{hours}$
 
 Thus, John takes **11.7 hours** alone.
 
