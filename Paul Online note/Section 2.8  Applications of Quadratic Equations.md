@@ -82,6 +82,6 @@ Two cars start out at the same spot
 - One car starts to drive north at 40 mph   
 - 3 hours later the second car starts driving to the east at 60 mph   
 - How long after the first car starts driving does it take for the two cars to be 500 miles apart 
+let say the time that the first car start is  in variable t 
 
-
-Two people can paint a house in 14 hours. Working individually one of the people takes 2 hours more than it takes the other person to paint the house. How long would it take each person working individually to paint the house
+Two people can paint a house in 14 hours. Working individually one of the people takes 2 hours more than it takes the other person to paint the house. How long would it take each person working individually to paint the house?
