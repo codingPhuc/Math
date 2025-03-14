@@ -27,6 +27,7 @@ Two cars start out at the same point
 - How long after the first car starts traveling does it take for the two cars to be 300 miles apart? 
 we  say that the time   it took  the car a  and b  to get there is  t 
 ![[Section 2.8  Applications of Quadratic Equations 2025-03-13 20.08.11.excalidraw]]
+#fail  
 $$
 \begin{array}{l}
 (20(T-2))^2    +  (25T)^2    =   300^2   \\
@@ -35,7 +36,11 @@ $$
 400t^2    -  1600t  +  1600  +   625T^2   = 300^2        \\
 1025t^2   -    1600t -88400 =  0   \\
 t =  \frac{800 \pm  \sqrt{ 1600^2   -  4 \cdot -88400  \cdot 1025   }  }{2050}  
+\\ t=  10.09998   \\
+t =  −8.539011
 \end{array} 
 
-t=  10.09998  
+ 
   $$
+
+An office has two envelope stuffing machines. Working together they can stuff a batch of envelopes in 2 hours. Working separately, it will take the second machine 1 hour longer than the first machine to stuff a batch of envelopes. How long would it take each machine to stuff a batch of envelopes by themselves?
