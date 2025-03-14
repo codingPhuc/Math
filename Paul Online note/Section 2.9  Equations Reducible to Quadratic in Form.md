@@ -82,18 +82,18 @@ $$
 y^{−6}−9y^{−3}+8=0 \\
 u  = y^{−3}     \\
  \implies u^2      -  9u  +   8     =    0    \\
-(u   + 3) (  u   - 5  )   =   0   \\
+(u   -1   ) (  u   -   8    )   =   0   \\
  \left\{
 \begin{array}{l}
-  u  =   -3    \\
-u  = 5   \\
+  u  =   1    \\
+u  =  8    \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x^{\frac{1}{3} }     =  -3     \\
-x^{\frac{1}{3} }   = 5   \\
+y^{−3}     =  1    \\
+y^{−3}    =  8    \\
  
 
 \end{array}
