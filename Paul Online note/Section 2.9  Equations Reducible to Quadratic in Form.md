@@ -5,7 +5,7 @@ $$
 \begin{array}{l}
 x^4   -  7x^2  +  12     \\
 (x^2)^2   - (7x)^2  + 12  \\
-
+\frac{3+}{}
  \end{array}
 
 
