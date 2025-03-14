@@ -45,12 +45,12 @@
             "id": "e4002f4f480cac98",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw"
             }
           },
           {
@@ -233,8 +233,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "floating": {
@@ -314,10 +313,10 @@
       }
     ]
   },
-  "active": "bdfa568614a1c117",
+  "active": "9b3f64ef23927a5f",
   "lastOpenFiles": [
-    "Excalidraw/Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw.md",
     "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
+    "Excalidraw/Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw.md",
     "Paul Online note/Section 2.3 Applications of Linear Equations.md",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Excalidraw/Section 2.8  Applications of Quadratic Equations 2025-03-13 20.08.11.excalidraw.md",
