@@ -203,8 +203,8 @@ x^5    =  \frac{  1  -    \sqrt{33}}{ 4  }      \\
 \implies
 \left\{
 \begin{array}{l}
-t   =   \pm   \sqrt{   2 }  \\
-t    =    \pm   \sqrt{  2 } \cdot i 
+x  =  \frac{\left( \frac{  1   +   \sqrt{33}}{ 4  }  \right)^1}{}   \\
+x   =  \frac{  1  -    \sqrt{33}}{ 4  }      \\
  
 
 \end{array}
