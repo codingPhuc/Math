@@ -29,10 +29,10 @@ we  say that the time   it took  the car a  and b  to get there is  t
 ![[Section 2.8  Applications of Quadratic Equations 2025-03-13 20.08.11.excalidraw]]
 $$
 \begin{array}{l}
-(20(T-2))^2    +  (25T)^2    =   300   \\
-400(t -  2)^2  +  625T^2   =   300   \\
- 400(t^2 -  4t + 4)  +  625T^2   =   300     \\
-400t^2    -  1600  +  1600  +   625T^2   =   300       \\
+(20(T-2))^2    +  (25T)^2    =   300^2   \\
+400(t -  2)^2  +  625T^2   =  300^2    \\
+ 400(t^2 -  4t + 4)  +  625T^2   =   300^2     \\
+400t^2    -  1600  +  1600  +   625T^2   = 300^2        \\
 1025t^2   -    1600  +  1300 =  0   \\
 t =  \frac{800 \pm  \sqrt{ 1600^2   -  4 \cdot 1300  \cdot 1025   }  }{2050}  
 \end{array}
