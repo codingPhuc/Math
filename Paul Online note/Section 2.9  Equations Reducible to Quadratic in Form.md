@@ -131,17 +131,15 @@ u  = 7  \\
 \implies
 \left\{
 \begin{array}{l}
-x^{\frac{1}{3} }     =  -3     \\
-x^{\frac{1}{3} }   = 5   \\
- 
-
+ z^{1/2}     =  2     \\
+ z^{1/2}    = 7    \\
 \end{array}
 \right. \\
 \implies
 \left\{
 \begin{array}{l}
-x   =  (-3)^3    =  -27    \\
-x   = (5)^3  =  125 
+x   =  4   \\
+x   =   49      
  
 
 \end{array}
