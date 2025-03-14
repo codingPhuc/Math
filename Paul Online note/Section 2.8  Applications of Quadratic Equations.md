@@ -20,3 +20,7 @@ when  we  solve a practical   application  of   quadratic  equation  ,  we shoul
 
 
 Example 2 Two cars start out at the same point. One car starts out driving north at 25 mph. Two hours later the second car starts driving east at 20 mph. How long after the first car starts traveling does it take for the two cars to be 300 miles apart? 
+
+Two cars start out at the same point  
+-  One car starts out driving north at 25 mph  
+-  car starts driving east at 20 mph 
