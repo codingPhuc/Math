@@ -45,8 +45,8 @@ t =  −8.539011
 
 An office has two envelope stuffing machines. Working together they can stuff a batch of envelopes in 2 hours. Working separately, it will take the second machine 1 hour longer than the first machine to stuff a batch of envelopes. How long would it take each machine to stuff a batch of envelopes by themselves?
 
-|               |     |
-| ------------- | --- |
-| first machine |     |
-|               |     |
-|               |     |
+|                  |          |      |
+| ---------------- | -------- | ---- |
+| first machine    | t1       | 1/t1 |
+| second  machine  | t1   + 1 | 1/   |
+| working together | 2        |      |
