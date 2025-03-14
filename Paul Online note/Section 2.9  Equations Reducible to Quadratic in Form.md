@@ -35,6 +35,6 @@ x =  \pm 2   \\
 \right.  
  \end{array}
 $$
-the basic process    is to check that the equation    is reducible  to quadratic in form then  make quick   substitution  to turn it into a quadratic equation  . 
+the basic process    is to check that the equation    is reducible  to quadratic in form then  make quick   substitution  to turn it into a quadratic equation  . Here we  solve the variable  u  used for  substituting   $x^2$  then  solve  $x^2$  bases on  the variable  
 
 
