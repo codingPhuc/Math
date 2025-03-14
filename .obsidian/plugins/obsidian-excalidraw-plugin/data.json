@@ -102,6 +102,148 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.7",
     "libraryItems": [
       {
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "4uDst6-o5tVK6cydgnW85",
+            "type": "line",
+            "x": -179,
+            "y": -86.265625,
+            "width": 24,
+            "height": 372,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "a0",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 1694050879,
+            "version": 46,
+            "versionNonce": 1553488159,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1741925205355,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                24,
+                372
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          },
+          {
+            "id": "W9wIGsIP1OmSPHyq5b_Yh",
+            "type": "line",
+            "x": -160,
+            "y": 283.734375,
+            "width": 290,
+            "height": 8,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "a1",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 193846591,
+            "version": 76,
+            "versionNonce": 1244365585,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1741925227980,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                290,
+                -8
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          },
+          {
+            "id": "k1n2iCkhA7_9RYb6ayf-6",
+            "type": "line",
+            "x": -179,
+            "y": -82.265625,
+            "width": 310,
+            "height": 360,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "a2",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 940951825,
+            "version": 38,
+            "versionNonce": 1209021617,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1741925209972,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                310,
+                360
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          }
+        ],
+        "id": "TDJCG-eFvtooZ8gv8UmpT",
+        "created": 1741925241009
+      },
+      {
         "id": "alsnfBM8hAILYr-CQl69u",
         "status": "unpublished",
         "elements": [
