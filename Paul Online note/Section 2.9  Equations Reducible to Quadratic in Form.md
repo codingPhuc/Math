@@ -44,8 +44,11 @@ the basic process    is to check that the equation    is reducible  to quadratic
 
 $$
 \begin{array}{l}
- x^{2/3} - 2x^{1/3} - 15  =  0
-\implies  u^2   - 7u^2  + 12 =0   \\
+ x^{2/3} - 2x^{1/3} - 15  =  0  \\
+u  =  \frac{1}{3}    \\
+u^2      -  2u  -  15   =    0   \\
+
+ \implies  u^2   - 7u^2  + 12 =0   \\
 ( u  -3 ) ( u -4 )    \\
  \left\{
 \begin{array}{l}
@@ -72,4 +75,5 @@ x =  \pm 2   \\
 \end{array}
 \right.
 \right.  
- \end
+ \end{array}
+$$
