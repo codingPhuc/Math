@@ -66,8 +66,8 @@ x^{\frac{1}{3} }   = 15   \\
 \implies
 \left\{
 \begin{array}{l}
-  x  = \pm  \sqrt{ 3 }    \\
-x =  \pm 2   \\
+x   =  (-3)^3    =  -27    \\
+x   = (15)^3  =  
  
 
 \end{array}
