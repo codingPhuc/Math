@@ -6,5 +6,4 @@ We are going to fence in a rectangular field and we know that for some reason we
 
 area  of  75  
 - 3  l = w 
-3.  create a  variable representing the  value we need to find  
-3l .  l
+3.  create a  variable representing the  value we need to find   we say  the length and width  of  a rectangle is 
