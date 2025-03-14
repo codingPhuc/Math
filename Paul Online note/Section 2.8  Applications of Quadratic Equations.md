@@ -54,6 +54,7 @@ An office has two envelope stuffing machines. Working together they can stuff a 
 $$
 \begin{array}{l}
 \frac{1}{ t_{1}}    + \frac{1}{t+1}  =  \frac{1}{2 }  \\
-t_{1}  +  
+2(t_{1}  + 1  )+   2t_{1}     =  (t_{1}+1)t_{1} \\
+
 \end{array}
  $$
