@@ -86,7 +86,8 @@ let say the time that the first car start is  in variable t
 ![[Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw]]  
 $$
 \begin{array}{l}
-(60(t + 3  ))^2  + (40t)^2  =     
+(60(t + 3  ))^2  + (40t)^2  =  500^2   \\
+ (60t +  180)^2  +  1600t^2    =      
 \end{array}
  $$
 Two people can paint a house in 14 hours. Working individually one of the people takes 2 hours more than it takes the other person to paint the house. How long would it take each person working individually to paint the house?
