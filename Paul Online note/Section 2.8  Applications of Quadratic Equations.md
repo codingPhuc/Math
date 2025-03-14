@@ -58,7 +58,8 @@ $$
 2t_{1}   +  2  +   2t_{1}    =  t_{1}^2  + t_{1}   \\
 t_{1}^2 -3t_{1} - 2     =  0    \\
 t_{1}  =  \frac{3  \pm \sqrt{ 4  -  4\cdot   -2   }  }{2}   \\
-so  \;  t_{1}  =  \frac{3   -  \sqrt{ 4  -  4\cdot   -2   }  }{2}   \\
-t_{1}   =  \frac{3   +  \sqrt{ 4  -  4\cdot   -2   }  }{2}
+so  \;  t_{1}  =  \frac{3   -  \sqrt{  17  }  }{2}   \\
+t_{1}   =  \frac{3   +  \sqrt{ 17 }  }{2}
 \end{array}
- $$ 
+ $$ The width of a rectangle is 1 m less than twice the length. If the area of the rectangle is 100 m2 what are the dimensions of the rectangle?   
+ 
