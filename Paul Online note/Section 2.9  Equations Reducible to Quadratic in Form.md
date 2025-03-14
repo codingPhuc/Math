@@ -35,6 +35,6 @@ x =  \pm 2   \\
 \right.  
  \end{array}
 $$
-the basic process    is to chec
+the basic process    is to check that the equation    is reducible  to quadratic in form then  make quick   substitution  to turn it into a quadratic equation  . 
 
 
