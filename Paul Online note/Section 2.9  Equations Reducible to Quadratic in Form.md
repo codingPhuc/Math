@@ -79,9 +79,9 @@ $$
 
 $$
 \begin{array}{l}
-y^{−6}−9y−3+8=0 \\
-u  = x^{\frac{1}{3} }    \\
- \implies u^2      -  2u  -  15   =    0    \\
+y^{−6}−9y^{−3}+8=0 \\
+u  = y^{−3}     \\
+ \implies u^2      -  9u  +   8     =    0    \\
 (u   + 3) (  u   - 5  )   =   0   \\
  \left\{
 \begin{array}{l}
