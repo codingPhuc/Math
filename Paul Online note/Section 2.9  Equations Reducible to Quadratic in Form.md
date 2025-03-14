@@ -146,4 +146,42 @@ x   =   49
 \right.
 \right.  
  \end{array}
+$$ 
+
+
+
+
+
 $$
+\begin{array}{l}
+t^4−4=0\\
+()()   \\
+ \implies u^2−9u+14=0     \\
+(u    -   2 ) (  u     -  7  )   =   0   \\
+ \left\{
+\begin{array}{l}
+  u  =   2    \\
+u  = 7  \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+ z^{1/2}     =  2     \\
+ z^{1/2}    = 7    \\
+\end{array}
+\right. \\
+\implies
+\left\{
+\begin{array}{l}
+x   =  4   \\
+x   =   49      
+ 
+
+\end{array}
+\right.
+\right.  
+ \end{array}
+$$
+
+
