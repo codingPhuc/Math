@@ -5,8 +5,9 @@ $$
 \begin{array}{l}
 x^4   -  7x^2  +  12     \\
 (x^2)^2   - (7x)^2  + 12    \\
-u   =  x^2   
-\frac{7x  \pm   \sqrt{ x }}{}
+u   =  x^2   \\
+\implies  u^2   - 7u^2  + 12 =0   \\
+(u ) 
  \end{array}
 
 
