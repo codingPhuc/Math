@@ -4,8 +4,9 @@ we going to  be look  at equation  that when  in  the correct light can turn  in
 $$
 \begin{array}{l}
 x^4   -  7x^2  +  12     \\
-(x^2)^2   - (7x)^2  + 12  \\
-\frac{3+}{}
+(x^2)^2   - (7x)^2  + 12    \\
+we 
+\frac{7x  \pm   \sqrt{ x }}{}
  \end{array}
 
 
