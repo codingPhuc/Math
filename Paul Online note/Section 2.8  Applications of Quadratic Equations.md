@@ -83,6 +83,7 @@ Two cars start out at the same spot
 - 3 hours later the second car starts driving to the east at 60 mph   
 - How long after the first car starts driving does it take for the two cars to be 500 miles apart 
 let say the time that the first car start is  in variable t 
-![[Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw]]
+![[Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw]]  
+
 
 Two people can paint a house in 14 hours. Working individually one of the people takes 2 hours more than it takes the other person to paint the house. How long would it take each person working individually to paint the house?
