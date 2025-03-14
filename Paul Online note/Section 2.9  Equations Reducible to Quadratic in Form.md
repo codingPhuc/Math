@@ -155,13 +155,13 @@ $$
 $$
 \begin{array}{l}
 t^4−4=0\\
-()()   \\
- \implies u^2−9u+14=0     \\
-(u    -   2 ) (  u     -  7  )   =   0   \\
+ u =   t^2     \\
+ \implies u^2   - 4  =    0      \\
+(u-2) (  u + 2  )   =   0   \\
  \left\{
 \begin{array}{l}
   u  =   2    \\
-u  = 7  \\
+u  =  - 2    \\
  
 \end{array} \\
 \implies
