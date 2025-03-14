@@ -23,5 +23,9 @@ Example 2 Two cars start out at the same point. One car starts out driving nort
 
 Two cars start out at the same point  
 -  One car starts out driving north at 25 mph  
--   hours later the second car starts driving eas car starts driving east at 20 mph   
+-   hours later the second car starts driving  starts driving east at 20 mph   
 - How long after the first car starts traveling does it take for the two cars to be 300 miles apart? 
+
+$$
+2
+$$
