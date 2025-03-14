@@ -8,5 +8,8 @@ area  of  75
 - 3  l = w 
 3.  create a  variable representing the  value we need to find   we say  the length and width  of  a rectangle is 
 4. create an equation bases on the provided value and  variable  
-$$  l  \cdot 3l   =  75  \implies  l^2   =  25 \implies l  =  \pm  5 $$ 
-when  we  solve a practical   application  of   quadratic  equation  ,  we should not see any complex  number instead a double  root or two real solution  .  Also ,  
+$$  l  \cdot 3l   =  75  \implies  l^2   =  25 \implies l  =  \pm  5 $$  
+
+
+
+when  we  solve a practical   application  of   quadratic  equation  ,  we should not see any complex  number instead a double  root or two real solution  .  Also ,  as  the pervious example show  ,  we  will need to eliminate one of them  for  physical reason 
