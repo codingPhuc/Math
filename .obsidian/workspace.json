@@ -45,12 +45,12 @@
             "id": "e4002f4f480cac98",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw"
             }
           },
           {
@@ -233,7 +233,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -313,8 +314,9 @@
       }
     ]
   },
-  "active": "9b3f64ef23927a5f",
+  "active": "4c6fc663701b0283",
   "lastOpenFiles": [
+    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
     "Excalidraw/Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw.md",
     "Paul Online note/Section 2.3 Applications of Linear Equations.md",
@@ -328,7 +330,6 @@
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
     "Linear algebra.md",
     "Professor Leonard/x 7.1 Rational Function.md",
-    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "mathwiki/README.md",
     "Professor Leonard/x 6.7 Word Problem.md",
     "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
