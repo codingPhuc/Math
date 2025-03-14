@@ -98,6 +98,6 @@ Two people can paint a house in 14 hours. Working individually one of the people
 
 |                  |          |          |
 | ---------------- | -------- | -------- |
-| first machine    | t1       | 1/t1     |
-| second  machine  | t1   + 1 | 1/(t1+1) |
+| first person     | t1       | 1/t1     |
+| second  person   | t1   + 2 | 1/(t1+2) |
 | working together | 2        | 1/2      |
