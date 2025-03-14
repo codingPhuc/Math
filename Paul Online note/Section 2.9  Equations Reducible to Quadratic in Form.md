@@ -44,9 +44,7 @@ the basic process    is to check that the equation    is reducible  to quadratic
 
 $$
 \begin{array}{l}
- x  \\
-(x^2)^2   - (7x)^2  + 12    \\
-u   =  x^2   \\
+ x^{2/3} - 2x^{1/3} - 15  =  0
 \implies  u^2   - 7u^2  + 12 =0   \\
 ( u  -3 ) ( u -4 )    \\
  \left\{
@@ -74,5 +72,4 @@ x =  \pm 2   \\
 \end{array}
 \right.
 \right.  
- \end{array}
-$$
+ \end
