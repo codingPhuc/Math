@@ -104,6 +104,8 @@ Two people can paint a house in 14 hours. Working individually one of the people
 $$
 \begin{array}{l}
 \frac{1}{t_{1} }    +   \frac{1}{t_{1}  + 2 }  =  \frac{1}{14} \\
-(t_{1}  + 2 )14 +   
+(t_{1}  + 2 )14 +   14t_{1}     =   (t_{1}  + 2 )t_{1}   \\
+14t_{1} +  28   +   14t_{1}   =   t_{1}^2   + 2t_{1}   \\
+
 \end{array} 
  $$
