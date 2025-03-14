@@ -50,3 +50,7 @@ An office has two envelope stuffing machines. Working together they can stuff a 
 | first machine    | t1       | 1/t1     |
 | second  machine  | t1   + 1 | 1/(t1+1) |
 | working together | 2        | 1/2      |
+
+$$
+
+$$
