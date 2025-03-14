@@ -90,7 +90,8 @@ $$
  (60t +  180)^2  +  1600t^2    =   250000    \\
 3600t^2   +  21600t  - 21760      =   0  \\
  t    = \frac{  - 21600  \pm  \sqrt{  21600^2   -4\cdot- 21760 \cdot 3600    } }{2\cdot 3600 } \\
-   t    = \frac{  - 21600  \pm  \sqrt{  21600t^2   -4\cdot- 21760 \cdot 3600    } }{2\cdot 3600 } \\ 
+   t    = \frac{  - 21600  +  \sqrt{  21600t^2   -4\cdot- 21760 \cdot 3600    } }{2\cdot 3600 } \\  \\
+t= 
 \end{array}
  $$
 Two people can paint a house in 14 hours. Working individually one of the people takes 2 hours more than it takes the other person to paint the house. How long would it take each person working individually to paint the house?
