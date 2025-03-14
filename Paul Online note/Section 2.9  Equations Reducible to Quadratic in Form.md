@@ -182,9 +182,9 @@ $$
 
 $$
 \begin{array}{l}
-t^4−4=0\\
- u =   t^2     \\
- \implies u^2   - 4  =    0      \\
+2x^{10}−x^5−4=0\\
+ u =   x^5    \\
+ \implies 2u^2   -  u   -  4   =    0      \\
 (u-2) (  u + 2  )   =   0   \\
  \left\{
 \begin{array}{l}
