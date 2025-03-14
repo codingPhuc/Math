@@ -214,3 +214,35 @@ x   =  \left( \frac{  1  -    \sqrt{33}}{ 4  } \right)^{1/5}      \\
 $$
 
 
+$$
+\begin{array}{l}
+x^6−9x^3+8=0  \\ 
+ u =   x^5    \\
+ \implies 2u^2   -  u   -  4   =    0      \\
+  =\frac{  1  \pm   \sqrt{ 1  - 4\cdot 2 \cdot   -4}}{ 4  }  \\
+ =  \frac{  1  \pm   \sqrt{33}}{ 4  } 
+ \left\{
+\begin{array}{l}
+  u  =  \frac{  1   +   \sqrt{33}}{ 4  }     \\
+u  =  \frac{  1  -    \sqrt{33}}{ 4  }    \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x^5  =  \frac{  1   +   \sqrt{33}}{ 4  }    \\
+x^5    =  \frac{  1  -    \sqrt{33}}{ 4  }      \\
+\end{array}
+\right. \\
+\implies
+\left\{
+\begin{array}{l}
+x  =  \left( \frac{  1   +   \sqrt{33}}{ 4  }  \right)^{1/5}   \\
+x   =  \left( \frac{  1  -    \sqrt{33}}{ 4  } \right)^{1/5}      \\
+ 
+
+\end{array}
+\right.
+\right.  
+ \end{array}
+$$
