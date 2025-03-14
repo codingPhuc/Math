@@ -186,18 +186,18 @@ $$
  u =   x^5    \\
  \implies 2u^2   -  u   -  4   =    0      \\
   =\frac{  1  \pm   \sqrt{ 1  - 4\cdot 2 \cdot   -4}}{ 4  }  \\
- =   
+ =  \frac{  1  \pm   \sqrt{33}}{ 4  } 
  \left\{
 \begin{array}{l}
-  u  =   2    \\
-u  =  - 2    \\
+  u  =  \frac{  1   +   \sqrt{33}}{ 4  }     \\
+u  =  \frac{  1  -    \sqrt{33}}{ 4  }    \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
- t^2   =   2    \\
-t^2    =  - 2    \\
+ t^2   =  \frac{  1   +   \sqrt{33}}{ 4  }    \\
+t^2    =  \frac{  1  -    \sqrt{33}}{ 4  }      \\
 \end{array}
 \right. \\
 \implies
