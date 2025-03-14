@@ -5,10 +5,13 @@ We are going to fence in a rectangular field and we know that for some reason we
 2.  read the question  again to draw a bullet  list 
 
 area  of  75  
-- 3  l = w 
+- (3  +  l ) = w 
 3.  create a  variable representing the  value we need to find   we say  the length and width  of  a rectangle is 
 4. create an equation bases on the provided value and  variable  
-$$  l  \cdot 3l   =  75  \implies  l^2   =  25 \implies l  =  \pm  5 $$  
+$$ \begin{array} {l}  
+ l  \cdot(3  +  l )     =  75   \\
+
+\end{array}   $$  
 
 
 
