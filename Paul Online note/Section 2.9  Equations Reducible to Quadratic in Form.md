@@ -196,8 +196,8 @@ u  =  \frac{  1  -    \sqrt{33}}{ 4  }    \\
 \implies
 \left\{
 \begin{array}{l}
- t^2   =  \frac{  1   +   \sqrt{33}}{ 4  }    \\
-t^2    =  \frac{  1  -    \sqrt{33}}{ 4  }      \\
+x^5  =  \frac{  1   +   \sqrt{33}}{ 4  }    \\
+x^5    =  \frac{  1  -    \sqrt{33}}{ 4  }      \\
 \end{array}
 \right. \\
 \implies
