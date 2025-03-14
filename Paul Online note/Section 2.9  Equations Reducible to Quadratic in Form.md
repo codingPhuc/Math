@@ -51,7 +51,7 @@ u  = x^{\frac{1}{3} }    \\
  \left\{
 \begin{array}{l}
   u  =   -3    \\
-u  = 15   \\
+u  = 5   \\
  
 \end{array} \\
 \implies
@@ -67,7 +67,42 @@ x^{\frac{1}{3} }   = 5   \\
 \left\{
 \begin{array}{l}
 x   =  (-3)^3    =  -27    \\
-x   = (5)^3  =  3375 
+x   = (5)^3  =  125 
+ 
+
+\end{array}
+\right.
+\right.  
+ \end{array}
+$$ 
+
+
+$$
+\begin{array}{l}
+y^{−6}−9y−3+8=0 \\
+u  = x^{\frac{1}{3} }    \\
+ \implies u^2      -  2u  -  15   =    0    \\
+(u   + 3) (  u   - 5  )   =   0   \\
+ \left\{
+\begin{array}{l}
+  u  =   -3    \\
+u  = 5   \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x^{\frac{1}{3} }     =  -3     \\
+x^{\frac{1}{3} }   = 5   \\
+ 
+
+\end{array}
+\right. \\
+\implies
+\left\{
+\begin{array}{l}
+x   =  (-3)^3    =  -27    \\
+x   = (5)^3  =  125 
  
 
 \end{array}
