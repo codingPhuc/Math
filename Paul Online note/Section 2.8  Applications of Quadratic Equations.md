@@ -70,9 +70,11 @@ $$
 ( 2x -1) x   =  100     \\
 2x^2    - x     - 100    =  0    \\
 x  =  \frac{1  \pm   \sqrt{ 1   -  4\cdot  -100  \cdot  2   }}{   4  }  \\
-x   =  
+x   =  7.3254   \\
+
 \end{array}
  $$
+ we will take
 
 
 Two cars start out at the same spot. One car starts to drive north at 40 mph and 3 hours later the second car starts driving to the east at 60 mph. How long after the first car starts driving does it take for the two cars to be 500 miles apart?
