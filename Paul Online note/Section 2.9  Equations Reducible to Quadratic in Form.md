@@ -402,15 +402,15 @@ u  = \frac{11 -    6\sqrt{  2   }}{ 2}  \\
 \implies
 \left\{
 \begin{array}{l}
-  \frac{1}{\sqrt{  x  }}\  =   \frac{11  +   6\sqrt{  2   }}{ 2}    \\
-\frac{1}{\sqrt{  x  }}\  = \frac{11 -    6\sqrt{  2   }}{ 2}  \\
+  \frac{1}{\sqrt{  x  }}\  =   \frac{11  +   6\sqrt{  2   }}{ 2}     \\
+\frac{1}{\sqrt{  x  }}\  =  \frac{11 -    6\sqrt{  2   }}{ 2}  \\
 \end{array}
 \right. \\
 \implies
 \left\{
 \begin{array}{l}
-x  =    \frac{1}{7}  \\
-x   =  -\frac{2}{3} \\
+x =   \frac{4}{( 11  +   6\sqrt{  2   })^2}    \\
+x  =  \frac{4}{( 11 - 6\sqrt{  2   })^2}   \\
 \end{array}
 \right.
 \right.  
