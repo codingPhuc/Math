@@ -277,10 +277,40 @@ x^{-2 } =      -2   \\
 \implies
 \left\{
 \begin{array}{l}
-x  =  \frac{1}{}  \\
-x   = 2    \\
- 
+x  =    \pm \frac{1}{3}  \\
+x   =   \pm \frac{1}{2 }   \\
+\end{array}
+\right.
+\right.  
+ \end{array}
+$$
 
+
+$$
+\begin{array}{l}
+x^{−4}−7x^{−2}−18=0  \\ 
+ u =   x^{-2 } \\
+ \implies  u^2  −7u−18=0        \\
+(   u  -  9) (  u  + 2  )  \\
+
+ \left\{
+\begin{array}{l}
+  u  = 9    \\
+u  =      -2   \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x^{-2 }  = 9    \\
+x^{-2 } =      -2   \\
+\end{array}
+\right. \\
+\implies
+\left\{
+\begin{array}{l}
+x  =    \pm \frac{1}{3}  \\
+x   =   \pm \frac{1}{2 }   \\
 \end{array}
 \right.
 \right.  
