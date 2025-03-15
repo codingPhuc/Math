@@ -309,10 +309,44 @@ x^{1/3 } =    - \frac{9}{4}   \\
 \implies
 \left\{
 \begin{array}{l}
-x  =   27  \\
-x   =   \frac{729}{64} \\
+x  =    - 27  \\
+x   =     -  \frac{729}{64} \\
 \end{array}
 \right.
 \right.  
  \end{array}
 $$
+
+
+
+$$
+\begin{array}{l}
+x^8−6x^4+7=0  \\ 
+ u =   x^4 \\
+ \implies  4u^2  +  21u +  27 =0        \\
+(u  +  3 ) (4u  +    9 )    =   0    \\
+
+ \left\{
+\begin{array}{l}
+  u  =    - 3    \\
+u  =     \frac{9}{4}  \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x^{1/3 }  = - 3   \\
+x^{1/3 } =    - \frac{9}{4}   \\
+\end{array}
+\right. \\
+\implies
+\left\{
+\begin{array}{l}
+x  =    - 27  \\
+x   =     -  \frac{729}{64} \\
+\end{array}
+\right.
+\right.  
+ \end{array}
+$$
+ 
