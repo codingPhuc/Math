@@ -385,7 +385,7 @@ x   =  -\frac{2}{3} \\
 $$ 
 
 
-
+#fail  
 $$
 \begin{array}{l}
 \frac{1}{x  }  -  \frac{11}{\sqrt{  x }}  + 18    =    0   \\
