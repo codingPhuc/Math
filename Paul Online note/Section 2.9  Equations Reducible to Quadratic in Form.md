@@ -218,8 +218,8 @@ $$
 \begin{array}{l}
 x^6−9x^3+8=0  \\ 
  u =   x^3 \\
- \implies u^2   -  u   -  4   =    0      \\
-  =\frac{  1  \pm   \sqrt{ 1  - 4\cdot 2 \cdot   -4}}{ 4  }  \\
+ \implies u^2   -  9u    +   8  =    0      \\
+ (u  -  1) ( u   -   8  )   \\
  =  \frac{  1  \pm   \sqrt{33}}{ 4  } 
  \left\{
 \begin{array}{l}
