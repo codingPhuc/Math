@@ -342,8 +342,8 @@ u  =   -1   \\
 \implies
 \left\{
 \begin{array}{l}
-x  =    - 27  \\
-x   =     -  \frac{729}{64} \\
+x  =  \pm   \sqrt[4]{7    } \\
+x   =   \pm  1i  \\
 \end{array}
 \right.
 \right.  
