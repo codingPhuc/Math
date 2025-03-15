@@ -43,5 +43,20 @@ y    -  4 =   \sqrt{   y  - 4 }   \\
 y^2  -   8y  + 16  =   y  -  4   \\
 y^2  -  9y  +  20    =  0   \\
 (y  -  4)  ( y   -5)   = 0    \\
+\left\{
+\begin{array}{l}
+  y  =  4 \\
+y  = 5 \\
+ 
+\end{array} \\
+\implies   \\
+\left\{
+\begin{array}{l}
+  y  =  4 \\
+y  = 5 \\
+  \\
 
+\end{array} 
+\right. 
+\right. 
 \end{array}$$
