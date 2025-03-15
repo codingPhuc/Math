@@ -54,9 +54,9 @@ y  = 5 \\
 \begin{array}{l}
   y  =  4 \\
 y  = 5 \\
-  \\
 
 \end{array} 
 \right. 
 \right. 
 \end{array}$$
+only   y   =  5 satisfy the solution since   $$y   +  \sqrt{ y -4 }  =   4 $$
