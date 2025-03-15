@@ -388,9 +388,9 @@ $$
 
 $$
 \begin{array}{l}
-\frac{2}{x^2 }   +  \frac{17}{x}  + 21   =    0   \\
- u =   \frac{1}{x}\\
- \implies       2u^2   +   17 u  + 21  =   0   \\
+\frac{1}{x  }  -  \frac{11}{\sqrt{  x }}  + 18    =    0   \\
+ u =   \frac{1}{\sqrt{  x  }}\\
+ \implies       u^2   -   11 u  + 18  =   0   \\
 (u     +   7 ) (  2u +  3 )   =  0    \\
 
  \left\{
