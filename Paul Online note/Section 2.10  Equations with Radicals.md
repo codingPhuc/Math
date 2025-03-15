@@ -17,6 +17,30 @@ x =   \sqrt{ x +  6   }   \\
 x^2  =   x+ 6   \\
 x^2   - x -   6    = 0  \\
 (x  -  3) ( x  +  2 )     =   0   \\
+\left\{
+\begin{array}{l}
+  u  =   -3    \\
+u  = 5   \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x^{\frac{1}{3} }     =  -3     \\
+x^{\frac{1}{3} }   = 5   \\
+ 
 
+\end{array}
+\right. \\
+\implies
+\left\{
+\begin{array}{l}
+x   =  (-3)^3    =  -27    \\
+x   = (5)^3  =  125 
+ 
+
+\end{array}
+\right.
+\right.  
 \end{array}
 $$
