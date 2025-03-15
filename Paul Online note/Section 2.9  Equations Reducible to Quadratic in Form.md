@@ -391,12 +391,13 @@ $$
 \frac{1}{x  }  -  \frac{11}{\sqrt{  x }}  + 18    =    0   \\
  u =   \frac{1}{\sqrt{  x  }}\\
  \implies       u^2   -   11 u  + 18  =   0   \\
-u  =    \frac{11  \pm    6\sqrt{  2   }}{ 2}  \\ 
+u  =    \frac{11  \pm    \sqrt{  121  -   4\cdot   18  }}{ 2}   \\
+  u =  \frac{11  \pm    7}{ 2} \\ 
 
  \left\{
 \begin{array}{l}
-  u  =   \frac{11  +   6\sqrt{  2   }}{ 2}    \\
-u  = \frac{11 -    6\sqrt{  2   }}{ 2}  \\
+  u  =  \frac{11  \pm    7}{ 2}   \\
+u  = \frac{11  \pm    7}{ 2}  \\
  
 \end{array} \\
 \implies
