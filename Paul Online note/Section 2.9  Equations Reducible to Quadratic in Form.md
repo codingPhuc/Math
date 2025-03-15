@@ -391,7 +391,7 @@ $$
 \frac{1}{x  }  -  \frac{11}{\sqrt{  x }}  + 18    =    0   \\
  u =   \frac{1}{\sqrt{  x  }}\\
  \implies       u^2   -   11 u  + 18  =   0   \\
-(u     +   7 ) (  2u +  3 )   =  0    \\
+u  =    \frac{11  \pm    \sqrt{  121  -   4\cdot 18   }}{}
 
  \left\{
 \begin{array}{l}
