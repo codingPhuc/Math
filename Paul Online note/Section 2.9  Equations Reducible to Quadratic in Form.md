@@ -358,18 +358,19 @@ $$
 \frac{2}{x^2 }   +  \frac{17}{x}  + 21   =    0   \\
  u =   \frac{1}{x}\\
  \implies       2u^2   +   17 u  + 21  =   0   \\
-(u     +   )
+(u     +   7 ) (  2u +  3 )   =  0    \\
+
  \left\{
 \begin{array}{l}
-  u  =    7   \\
-u  =   -1   \\
+  u  =    -7   \\
+u  =   -\frac{3}{2} \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-   x^4   =    7   \\
- x^4    =   -1   \\
+   \frac{1}{x}  =    -7   \\
+ \frac{1}{x}   =   -\frac{3}{2} \\
 \end{array}
 \right. \\
 \implies
