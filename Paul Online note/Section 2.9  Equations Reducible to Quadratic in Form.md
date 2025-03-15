@@ -323,20 +323,20 @@ $$
 \begin{array}{l}
 x^8−6x^4+7=0  \\ 
  u =   x^4 \\
- \implies  4u^2  +  21u +  27 =0        \\
-(u  +  3 ) (4u  +    9 )    =   0    \\
+ \implies u^2−6 u +7=0       \\
+( u  -  7)(  u  +  1  )   =   0    \\
 
  \left\{
 \begin{array}{l}
-  u  =    - 3    \\
-u  =     \frac{9}{4}  \\
+  u  =    7   \\
+u  =   -1   \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x^{1/3 }  = - 3   \\
-x^{1/3 } =    - \frac{9}{4}   \\
+   x^4   =    7   \\
+ x^4    =   -1   \\
 \end{array}
 \right. \\
 \implies
