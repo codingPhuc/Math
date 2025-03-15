@@ -257,27 +257,27 @@ $$
 $$
 \begin{array}{l}
 x^{−4}−7x^{−2}−18=0  \\ 
- u =   -2  \\
+ u =   x^{-2 } \\
  \implies  u^2  −7u−18=0        \\
-(   u  -     9) (  u  -2  )  \\
+(   u  -  9) (  u  + 2  )  \\
 
  \left\{
 \begin{array}{l}
-  u  = 1    \\
-u  =  8    \\
+  u  = 9    \\
+u  =      -2   \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-   x^3  = 1    \\
- x^3  =  8    \\
+x^{-2 }  = 9    \\
+x^{-2 } =      -2   \\
 \end{array}
 \right. \\
 \implies
 \left\{
 \begin{array}{l}
-x  =  1  \\
+x  =  \frac{1}{}  \\
 x   = 2    \\
  
 
