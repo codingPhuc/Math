@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b069c496885cb568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Section 2.6  Quadratic Equations - Part II"
-            }
-          },
-          {
             "id": "e4002f4f480cac98",
             "type": "leaf",
             "state": {
@@ -59,8 +45,7 @@
               "title": "Section 2.5  Quadratic Equations - Part I"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,8 +112,7 @@
               "title": "Faction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,7 +200,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -256,6 +241,20 @@
                 }
               },
               {
+                "id": "b069c496885cb568",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Paul Online note/Section 2.10  Equations with Radicals.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Section 2.10  Equations with Radicals"
+                }
+              },
+              {
                 "id": "0a9300246026dce5",
                 "type": "leaf",
                 "state": {
@@ -283,7 +282,8 @@
                   "title": "Section 2.3 Applications of Linear Equations"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -296,15 +296,15 @@
       }
     ]
   },
-  "active": "9b3f64ef23927a5f",
+  "active": "b069c496885cb568",
   "lastOpenFiles": [
-    "Paul Online note/Untitled.md",
+    "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
+    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
+    "Paul Online note/Section 2.10  Equations with Radicals.md",
     "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
     "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
-    "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Excalidraw/Section 2.8  Applications of Quadratic Equations 2025-03-13 21.06.29.excalidraw.md",
-    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "Paul Online note/Section 2.3 Applications of Linear Equations.md",
     "Excalidraw/Section 2.8  Applications of Quadratic Equations 2025-03-13 20.08.11.excalidraw.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
