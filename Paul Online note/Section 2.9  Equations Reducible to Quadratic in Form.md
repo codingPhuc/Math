@@ -396,22 +396,22 @@ u  =    \frac{11  \pm    \sqrt{  121  -   4\cdot   18  }}{ 2}   \\
 
  \left\{
 \begin{array}{l}
-  u  =  \frac{11  \pm    7}{ 2}   \\
-u  = \frac{11  \pm    7}{ 2}  \\
+  u  =  \frac{11 +   7}{ 2}      = 2  \\
+u  = \frac{11  -      7}{ 2}   = 9  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-  \frac{1}{\sqrt{  x  }}\  =   \frac{11  +   6\sqrt{  2   }}{ 2}     \\
-\frac{1}{\sqrt{  x  }}\  =  \frac{11 -    6\sqrt{  2   }}{ 2}  \\
+  \frac{1}{\sqrt{  x  }}\  =  2    \\
+\frac{1}{\sqrt{  x  }}\  =  9 \\
 \end{array}
 \right. \\
 \implies
 \left\{
 \begin{array}{l}
-x =   \frac{4}{( 11  +   6\sqrt{  2   })^2}    \\
-x  =  \frac{4}{( 11 - 6\sqrt{  2   })^2}   \\
+x =   \frac{1}{4}   \\
+x  =  \frac{1}{81 }   \\
 \end{array}
 \right.
 \right.  
