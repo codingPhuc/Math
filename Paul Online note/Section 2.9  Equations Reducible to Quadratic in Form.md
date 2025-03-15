@@ -349,4 +349,39 @@ x   =   \pm  1i  \\
 \right.  
  \end{array}
 $$
+
+
+
+
+$$
+\begin{array}{l}
+\frac{2}{x^2 }   +  \frac{17}{x}  + 21   =    0   \\
+\frac{2}{x^2 }   +  \frac{17}{x}  + 21   =    0    \\ 
+ u =   x^4 \\
+ \implies u^2−6 u +7=0       \\
+( u  -  7)(  u  +  1  )   =   0    \\
+
+ \left\{
+\begin{array}{l}
+  u  =    7   \\
+u  =   -1   \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+   x^4   =    7   \\
+ x^4    =   -1   \\
+\end{array}
+\right. \\
+\implies
+\left\{
+\begin{array}{l}
+x  =  \pm   \sqrt[4]{7    } \\
+x   =   \pm  1i  \\
+\end{array}
+\right.
+\right.  
+ \end{array}
+$$
  
