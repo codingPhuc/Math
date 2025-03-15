@@ -376,8 +376,41 @@ u  =   -\frac{3}{2} \\
 \implies
 \left\{
 \begin{array}{l}
-x  =  \pm   \sqrt[4]{7    } \\
-x   =   \pm  1i  \\
+x  =    \frac{1}{7}  \\
+x   =  -\frac{2}{3} \\
+\end{array}
+\right.
+\right.  
+ \end{array}
+$$ 
+
+
+
+$$
+\begin{array}{l}
+\frac{2}{x^2 }   +  \frac{17}{x}  + 21   =    0   \\
+ u =   \frac{1}{x}\\
+ \implies       2u^2   +   17 u  + 21  =   0   \\
+(u     +   7 ) (  2u +  3 )   =  0    \\
+
+ \left\{
+\begin{array}{l}
+  u  =    -7   \\
+u  =   -\frac{3}{2} \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+   \frac{1}{x}  =    -7   \\
+ \frac{1}{x}   =   -\frac{3}{2} \\
+\end{array}
+\right. \\
+\implies
+\left\{
+\begin{array}{l}
+x  =    \frac{1}{7}  \\
+x   =  -\frac{2}{3} \\
 \end{array}
 \right.
 \right.  
