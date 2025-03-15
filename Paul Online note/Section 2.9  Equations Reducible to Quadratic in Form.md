@@ -214,6 +214,12 @@ x   =  \left( \frac{  1  -    \sqrt{33}}{ 4  } \right)^{1/5}      \\
 $$
 
 
+
+
+# #Practice_Exercise  
+
+## Solve each of the following equations.  
+
 $$
 \begin{array}{l}
 x^6−9x^3+8=0  \\ 
@@ -250,7 +256,7 @@ $$
 
 $$
 \begin{array}{l}
-x−4−7x−2−18=0  \\ 
+x^{−4}−7x^{−2}−18=0  \\ 
  u =   x^3 \\
  \implies u^2   -  9u    +   8  =    0      \\
  (u  -  1) ( u   -   8  )   \\
