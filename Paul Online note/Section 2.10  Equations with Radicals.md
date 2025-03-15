@@ -27,4 +27,5 @@ x  = -2 \\
 \right.  
 \end{array}
 $$
-
+Now  let do something different ,  we will now check the answer    of the above equation  
+$$\begin{aligned}&3\overset{?}{\operatorname*{\operatorname*{=}}}\sqrt{3+6}\\&3=\sqrt{9}&\mathrm{OK}\end{aligned}$$ 
