@@ -33,4 +33,4 @@ $$
 \begin{aligned}&-2\overset{?}{\operatorname*{\operatorname*{=}}}\sqrt{-2+6}\\&-2\neq\sqrt{4}=2&\mathrm{NOT~OK}\end{aligned}
 $$
 
-we have a problem recall that latex always   be positive  ,  and so    $x    =  -2$  does not work  in the original  equation  .  
+we have a problem recall that latex always   be positive  ,  and so    $x    =  -2$  does not work  in the original  equation  .  Remember that the first step  to  solve  this equation  is to square both side , so if  we plug  in the value -2  the  solution  will work  with  that  equation . 
