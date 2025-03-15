@@ -303,14 +303,14 @@ u  =     \frac{9}{4}  \\
 \left\{
 \begin{array}{l}
 x^{1/3 }  = - 3   \\
-x^{1/3 } =    \frac{9}{4}   \\
+x^{1/3 } =    - \frac{9}{4}   \\
 \end{array}
 \right. \\
 \implies
 \left\{
 \begin{array}{l}
-x  =    \pm \frac{1}{3}  \\
-x   =   \pm \frac{1}{2 }   \\
+x  =   27  \\
+x   =   \frac{729}{64} \\
 \end{array}
 \right.
 \right.  
