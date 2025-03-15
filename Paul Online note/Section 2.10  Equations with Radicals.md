@@ -19,8 +19,8 @@ x^2   - x -   6    = 0  \\
 (x  -  3) ( x  +  2 )     =   0   \\
 \left\{
 \begin{array}{l}
-  u  =   -3    \\
-u  = 5   \\
+  x  =  3  \\
+x  = -2 \\
  
 \end{array} \\
 \implies
