@@ -257,9 +257,9 @@ $$
 $$
 \begin{array}{l}
 x^{−4}−7x^{−2}−18=0  \\ 
- u =   x^3 \\
- \implies u^2   -  9u    +   8  =    0      \\
- (u  -  1) ( u   -   8  )   \\
+ u =   -2  \\
+ \implies  u^2  −7u−18=0        \\
+(   u  -     9) (  u  -2  )  \\
 
  \left\{
 \begin{array}{l}
