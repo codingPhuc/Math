@@ -291,19 +291,19 @@ $$
 4x^{2/3}  +  21x^{1/3} + 27    =  0     \\ 
  u =   x^{1/3 } \\
  \implies  4u^2  +  21u +  27 =0        \\
-( ) \\
+(u  +  3 ) (4u  +    9 )    =   0    \\
 
  \left\{
 \begin{array}{l}
-  u  = 9    \\
-u  =      -2   \\
+  u  =    - 3    \\
+u  =     \frac{9}{4}  \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x^{-2 }  = 9    \\
-x^{-2 } =      -2   \\
+x^{1/3 }  = - 3   \\
+x^{1/3 } =    \frac{9}{4}   \\
 \end{array}
 \right. \\
 \implies
