@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "numerator",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,8 @@
               "title": "Faction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -296,7 +297,7 @@
       }
     ]
   },
-  "active": "e4002f4f480cac98",
+  "active": "2355cabcc82546b0",
   "lastOpenFiles": [
     "Paul Online note/Untitled.md",
     "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
