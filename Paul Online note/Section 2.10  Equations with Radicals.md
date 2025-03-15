@@ -93,7 +93,6 @@ $$\begin{array}{l}
 (1   -  t)^2   =  2t  - 3   \\
 t^2  -      2t   + 1        =  2t  - 3   \\
 t^2   - 4t  + 4    = 0    \\
-t^2   - 4t  + 4    = 0   \\
 t   =   \frac{4  \pm    \sqrt{  16  -4\cdot -4 \cdot 1 }}{2} \\
 \left\{
 \begin{array}{l}
