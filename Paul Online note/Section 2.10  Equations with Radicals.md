@@ -59,7 +59,7 @@ y  = 5 \\
 \right. 
 \right. 
 \end{array}$$
-only   y   =  5 satisfy the solution since   $5   +  \sqrt{ 5 -4 }  =   4$  
+only   y   =  4 satisfy the solution since   $4   +  \sqrt{ 4 -4 }  =   4$  
 
 
 $$\begin{array}{l}
@@ -88,10 +88,9 @@ y  = 5 \\
 
 
 $$\begin{array}{l}
-y   +  \sqrt{ y -4 }  =   4  \\
-y    -  4 =   \sqrt{   y  - 4 }   \\
-(y -4 )^2     =   y -4   \\
-y^2  -   8y  + 16  =   y  -  4   \\
+1  =    t +   \sqrt{  2t  - 3   }  \\ 
+1   -  t  =       \sqrt{  2t  - 3   }    \\
+(1   -  t)^2   =  2t  - 3   \\
 y^2  -  9y  +  20    =  0   \\
 (y  -  4)  ( y   -5)   = 0    \\
 \left\{
