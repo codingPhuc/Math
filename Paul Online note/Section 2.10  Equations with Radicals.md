@@ -98,16 +98,9 @@ t   =   \frac{4  \pm    \sqrt{  16  -4\cdot -4 \cdot 1 }}{2} \\
 \left\{
 \begin{array}{l}
   y  = 2  +     2\sqrt{ 2 }  \\
-y  = 2  -     2\sqrt{ 2 } \\ \\
+y  = 2  -     2\sqrt{ 2 } \\ 
  
 \end{array} \\
-\implies   \\
-\left\{
-\begin{array}{l}
-  y  =  4 \\
-y  = 5 \\
-
-\end{array} 
-\right. 
+ 
 \right. 
 \end{array}$$
