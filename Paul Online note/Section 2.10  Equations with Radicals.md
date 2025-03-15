@@ -10,3 +10,12 @@ x =   \sqrt{ x +  6   }   \\
 
 \end{array}
 $$
+Notice that if we square both size the square root will go always   
+$$
+\begin{array}{l}
+x =   \sqrt{ x +  6   }   \\
+x^2  =   x+ 6   \\
+x^2   - x -   6    = 0  \\
+(x  -  w)
+\end{array}
+$$
