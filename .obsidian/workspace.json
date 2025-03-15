@@ -297,7 +297,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -310,10 +310,11 @@
       }
     ]
   },
-  "active": "b069c496885cb568",
+  "active": "254257351503aa22",
   "lastOpenFiles": [
-    "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
     "Paul Online note/Section 2.10  Equations with Radicals.md",
+    "Paul Online note/Rational  Expression.md",
+    "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
     "Paul Online note/Section 2.3 Applications of Linear Equations.md",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
@@ -325,7 +326,6 @@
     "Paul Online note/Section 2.7 Quadratic Equations  A Summary.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "Professor Leonard/7.3 ADD SUB  RATIONAL  EXPRESION.md",
-    "Paul Online note/Rational  Expression.md",
     "Linear algebra.md",
     "Professor Leonard/x 7.1 Rational Function.md",
     "mathwiki/README.md",
