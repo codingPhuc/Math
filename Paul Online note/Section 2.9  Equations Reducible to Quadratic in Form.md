@@ -356,9 +356,8 @@ $$
 $$
 \begin{array}{l}
 \frac{2}{x^2 }   +  \frac{17}{x}  + 21   =    0   \\
-\frac{2}{x^2 }   +  \frac{17}{x}  + 21   =    0    \\ 
- u =   x^4 \\
- \implies u^2−6 u +7=0       \\
+ u =   \frac{1}{x}\\
+ \implies       2u^2\\
 ( u  -  7)(  u  +  1  )   =   0    \\
 
  \left\{
