@@ -220,25 +220,59 @@ x^6−9x^3+8=0  \\
  u =   x^3 \\
  \implies u^2   -  9u    +   8  =    0      \\
  (u  -  1) ( u   -   8  )   \\
- =  \frac{  1  \pm   \sqrt{33}}{ 4  } 
+
  \left\{
 \begin{array}{l}
-  u  =  \frac{  1   +   \sqrt{33}}{ 4  }     \\
-u  =  \frac{  1  -    \sqrt{33}}{ 4  }    \\
+  u  = 1    \\
+u  =  8    \\
  
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x^5  =  \frac{  1   +   \sqrt{33}}{ 4  }    \\
-x^5    =  \frac{  1  -    \sqrt{33}}{ 4  }      \\
+   x^3  = 1    \\
+ x^3  =  8    \\
 \end{array}
 \right. \\
 \implies
 \left\{
 \begin{array}{l}
-x  =  \left( \frac{  1   +   \sqrt{33}}{ 4  }  \right)^{1/5}   \\
-x   =  \left( \frac{  1  -    \sqrt{33}}{ 4  } \right)^{1/5}      \\
+x  =  1  \\
+x   = 2    \\
+ 
+
+\end{array}
+\right.
+\right.  
+ \end{array}
+$$  
+
+
+$$
+\begin{array}{l}
+x^6−9x^3+8=0  \\ 
+ u =   x^3 \\
+ \implies u^2   -  9u    +   8  =    0      \\
+ (u  -  1) ( u   -   8  )   \\
+
+ \left\{
+\begin{array}{l}
+  u  = 1    \\
+u  =  8    \\
+ 
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+   x^3  = 1    \\
+ x^3  =  8    \\
+\end{array}
+\right. \\
+\implies
+\left\{
+\begin{array}{l}
+x  =  1  \\
+x   = 2    \\
  
 
 \end{array}
