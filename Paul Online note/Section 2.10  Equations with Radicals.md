@@ -97,8 +97,8 @@ t^2   - 4t  + 4    = 0   \\
 t   =   \frac{4  \pm    \sqrt{  16  -4\cdot -4 \cdot 1 }}{2} \\
 \left\{
 \begin{array}{l}
-  y  =  \frac{4  \pm    \sqrt{  16  -4\cdot -4 \cdot 1 }}{2} \\ \\
-y  = 5 \\
+  y  = 2  +     2\sqrt{ 2 }  \\
+y  = 2  -     2\sqrt{ 2 } \\ \\
  
 \end{array} \\
 \implies   \\
