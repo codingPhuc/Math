@@ -202,3 +202,20 @@ $$
 the only solution to this  problem  is  t = 1  
 
 
+
+$$
+\begin{array}{l}   \\
+\sqrt{    33  - 2x } =      x + 1    \\
+33  - 2x     =    (x + 1)^2    \\
+33 -  2x    =   x^2  + 2x  + 1     \\
+x^2   +  4x -  32      = 0   \\
+ \left\{
+\begin{array}{l}
+t    = 1   \\
+t   =   -\frac{3}{4}  \\ 
+ 
+\end{array} \\
+. 
+\right. 
+\end{array}
+$$
