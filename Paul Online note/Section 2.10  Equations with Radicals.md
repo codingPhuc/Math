@@ -160,7 +160,7 @@ t   +  7  +4(\sqrt{ t   +  7 }   )  +  4    =    3-  t     \\
 16t   +  112    = 4t^2     +  32t  +    64   \\
 4t^2   +  16t  -48   =   0   \\
 t^2   +  4t  -12  =  0  \\
-(t  - 2 )( t + 6) =  0  
+(t  - 2 )( t + 6) =  0  \\
 
  \left\{
 \begin{array}{l}
@@ -168,14 +168,7 @@ t    = 2    \\
 t   =   - 6   \\ 
  
 \end{array} \\
-\implies  \\  \\
-\left\{
-\begin{array}{l}
- z     =  - 5   \\
-z       =13    \\ 
- 
-\end{array} \\ 
-\right. 
+
 \right. 
 \end{array}
 $$
@@ -194,7 +187,22 @@ $$
 2x  =  \sqrt{ x +  3  }    \\
 4x^2     =  x  + 3    \\
 4x^2-x  -  3 =   0    \\
-(x -  1) ( 4x  )
+(x -  1) ( 4x  +  3)     = 0   \\
+ \left\{
+\begin{array}{l}
+t    = 1   \\
+t   =   -3  \\ 
+ 
+\end{array} \\
+\implies  \\  \\
+\left\{
+\begin{array}{l}
+ z     =  - 5   \\
+z       =13    \\ 
+ 
+\end{array} \\ 
+\right. 
+\right. 
 \end{array}
 $$
 
