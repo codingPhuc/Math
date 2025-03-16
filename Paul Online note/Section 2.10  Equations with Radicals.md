@@ -279,11 +279,11 @@ $$
 4 \cdot (1-x)    = (3x +  2)^2   \\
 4  -   4x   =   9x^2 +  12x  + 4   \\
 9x^2  +  16x   = 0   \\
-x  =  -\frac{16 }{}  \\ 
+x  =  -\frac{16  \pm  16}{2\cdot  9 }  \\ 
  \left\{
 \begin{array}{l}
-x  = 1   \\
-x   =   3\\ 
+x  =  0    \\
+x   =   \\ 
  
 \end{array} \\
 . 
