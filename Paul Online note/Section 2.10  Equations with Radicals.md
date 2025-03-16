@@ -188,3 +188,13 @@ the only solution to this  problem  is  t = -6
 
 
 #  #Practice_Exercise  
+
+$$
+\begin{array}{l}   \\
+2x  =  \sqrt{ x +  3  }    \\
+4x^2     =  x  + 3    \\
+4x^2-x  -  3 =   0    \\
+
+\end{array}
+$$
+
