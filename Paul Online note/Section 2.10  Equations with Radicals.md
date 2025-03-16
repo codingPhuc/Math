@@ -191,18 +191,14 @@ $$
  \left\{
 \begin{array}{l}
 t    = 1   \\
-t   =   -3  \\ 
+t   =   -\frac{3}{4}  \\ 
  
 \end{array} \\
-\implies  \\  \\
-\left\{
-\begin{array}{l}
- z     =  - 5   \\
-z       =13    \\ 
- 
-\end{array} \\ 
-\right. 
+. 
 \right. 
 \end{array}
 $$
+
+the only solution to this  problem  is  t = 1  
+
 
