@@ -62,29 +62,6 @@ y  = 5 \\
 only   y   =  4 satisfy the solution since   $4   +  \sqrt{ 4 -4 }  =   4$  
 
 
-$$\begin{array}{l}
-y   +  \sqrt{ y -4 }  =   4  \\
-y    -  4 =   \sqrt{   y  - 4 }   \\
-(y -4 )^2     =   y -4   \\
-y^2  -   8y  + 16  =   y  -  4   \\
-y^2  -  9y  +  20    =  0   \\
-(y  -  4)  ( y   -5)   = 0    \\
-\left\{
-\begin{array}{l}
-  y  =  4 \\
-y  = 5 \\
- 
-\end{array} \\
-\implies   \\
-\left\{
-\begin{array}{l}
-  y  =  4 \\
-y  = 5 \\
-
-\end{array} 
-\right. 
-\right. 
-\end{array}$$ 
 #fail  
 
 $$\begin{array}{l}
@@ -104,3 +81,26 @@ y  = 2   \\
 \right. 
 \end{array}$$
 
+
+
+
+
+
+$$\begin{array}{l}
+1  =    t +   \sqrt{  2t  - 3   }  \\ 
+1   -  t  =       \sqrt{  2t  - 3   }    \\
+(1   -  t)^2   =  2t  - 3   \\
+t^2  -      2t   + 1        =  2t  - 3   \\
+t^2   - 4t  + 4    = 0    \\
+t   =   \frac{4  \pm    \sqrt{  16  -4\cdot 4 \cdot 1 }}{2} \\
+\left\{
+\begin{array}{l}
+  y  = 2    \\
+y  = 2   \\ 
+ 
+\end{array} \\
+ 
+\right. 
+\end{array}$$
+
+ 
