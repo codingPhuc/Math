@@ -290,7 +290,10 @@ x   =  -\frac{16}{9} \\
 \right. 
 \end{array}
 $$
-the only solution to this  problem  is  x = 3 
+the only solution to this  problem  is  x = 0 
+
+
+
 
 
 
