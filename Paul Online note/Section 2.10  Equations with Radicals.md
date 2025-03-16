@@ -183,3 +183,8 @@ $$
 
 
 the only solution to this  problem  is  t = -6
+
+
+
+
+#  #Practice_Exercise  
