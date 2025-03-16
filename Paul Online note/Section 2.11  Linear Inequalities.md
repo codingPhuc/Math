@@ -4,10 +4,10 @@ In this  point of the chapter we focus on solving  equation  , but now  it time 
 Remember to  correctly  interpret equal and inequal   when using the  $\leq$ $\ge$  . The case     $4 \leq  4$  is  just  as must inequal  as     $-6 \leq  4$ 
 and the case      $4 <  4$    is not a true  inequal  since  4 is equal  to 4  and  not strictly  less than  4  
 
-Additionally  we will be  seeing double inequation   soo  try to  look  out for  that  
+Additionally  we will be  seeing double inequal   soo  try to  look  out for  that  
 
 $$-9 <  5  \leq  6$$ since  5  is less than  6  and   larger  than  -9  . We concluded that this cases  is a true double inequal .  In  the other hand  
 $$
 10 <  5  \leq  20 
 $$
-this is a  not true  inequal   ,   5 may  be less than  20   but is larger  than  10 . The first inequal  in the equation is  false  while the second is tu
+this is a  not true  inequal   ,   5 may  be less than  20   but is larger  than  10 . The first inequal  in the equation is  false  while the second is true  ,but just like the  or operation  one   not true inequal  will result  in a double  not  true  inequal
