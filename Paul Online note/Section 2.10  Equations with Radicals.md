@@ -209,10 +209,32 @@ $$
 33  - 2x     =    (x + 1)^2    \\
 33 -  2x    =   x^2  + 2x  + 1     \\
 x^2   +  4x -  32      = 0   \\
+(x  -  8)(x  +  4)  =  0     \\
  \left\{
 \begin{array}{l}
-t    = 1   \\
-t   =   -\frac{3}{4}  \\ 
+x  =  8  \\
+x   =   -    4 \\ 
+ 
+\end{array} \\
+. 
+\right. 
+\end{array}
+$$ 
+
+
+
+
+$$
+\begin{array}{l}   \\
+7   =    \sqrt{ 39   +  3x  }  -x     \\
+7  +  x     =   \sqrt{ 39   +  3x  }     \\
+33 -  2x    =   x^2  + 2x  + 1     \\
+x^2   +  4x -  32      = 0   \\
+(x  -  8)(x  +  4)  =  0     \\
+ \left\{
+\begin{array}{l}
+x  =  8  \\
+x   =   -    4 \\ 
  
 \end{array} \\
 . 
