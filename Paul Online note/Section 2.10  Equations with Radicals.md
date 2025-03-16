@@ -160,12 +160,12 @@ t   +  7  +4(\sqrt{ t   +  7 }   )  +  4    =    3-  t     \\
 16t   +  112    = 4t^2    -  44t   +  121   \\
 4t^2   - 60t  =   0   \\
 t^2  - 15  =  0  \\
-( t    + \sqrt{ 15 } ) (t   -7.5 )  =  0  
+( t    + \sqrt{ 15 } ) (t   - \sqrt{ 15 })  =  0  
 
  \left\{
 \begin{array}{l}
-x  + 5     = 0    \\
-x-13    =0   \\ 
+t    = \sqrt{ 15 }     \\
+t   =- \sqrt{ 15 }     \\ 
  
 \end{array} \\
 \implies  \\  \\
