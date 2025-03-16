@@ -257,11 +257,39 @@ x^2   - 4x  +  3 =    0    \\
 (x -1)( x-3   )     \\
  \left\{
 \begin{array}{l}
-x  = -10   \\
-x   =   -    1\\ 
+x  = 1   \\
+x   =   3\\ 
  
 \end{array} \\
 . 
 \right. 
 \end{array}
 $$
+the only solution to this  problem  is  x = 3 
+
+
+
+
+$$
+\begin{array}{l}   \\
+1 +  \sqrt{  1-x   }  =  \sqrt{   2x + 4 }         \\
+(1  +  \sqrt{  1-x   })^2   =  2x +  4
+(x  - 1)^2      =  2x   -2   \\
+x^2  -  2x  +  1      = 2x   -2   \\
+x^2   - 4x  +  3 =    0    \\
+(x -1)( x-3   )     \\
+ \left\{
+\begin{array}{l}
+x  = 1   \\
+x   =   3\\ 
+ 
+\end{array} \\
+. 
+\right. 
+\end{array}
+$$
+the only solution to this  problem  is  x = 3 
+
+
+
+
