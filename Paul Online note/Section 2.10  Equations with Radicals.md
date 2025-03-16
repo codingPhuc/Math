@@ -273,7 +273,11 @@ the only solution to this  problem  is  x = 3
 $$
 \begin{array}{l}   \\
 1 +  \sqrt{  1-x   }  =  \sqrt{   2x + 4 }         \\
-(1  +  \sqrt{  1-x   })^2   =  2x +  4
+(1  +  \sqrt{  1-x   })^2   =  2x +  4   \\
+1  +  2\cdot  \sqrt{  1-x   }  + 1-x  = 2x+  4    \\
+(2\cdot  \sqrt{  1-x   } )^2 = 3x +  2  \\
+4 \cdot (1-x)    = (3x +  2)^2   \\
+4  -   4x   =   9x^2 +  6x  
 (x  - 1)^2      =  2x   -2   \\
 x^2  -  2x  +  1      = 2x   -2   \\
 x^2   - 4x  +  3 =    0    \\
