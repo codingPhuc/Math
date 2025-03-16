@@ -103,12 +103,12 @@ z   - 1     =0   \\
 \implies  \\  \\
 \left\{
 \begin{array}{l}
- z    +  2    = 0   
-z   - 1     =0   \\ 
+ z     = -2  \\
+z       =1    \\ 
  
 \end{array} \\ 
 \right. 
 \right. 
-\end{array}$$
+\end{array}$$ 
 
- 
+ only   y   =  4 satisfy the solution since   $4   +  \sqrt{ 4 -4 }  =   4$  
