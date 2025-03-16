@@ -117,12 +117,14 @@ the only solution to this  problem  is  -1
 ## Solution with  more than one square root 
 all the solution that we have look at have   only one square root . But not ,  let look  at different problem  with  square root  larger  then  one    
 Solve each of the following equation  
+#fail  
 $$
 \begin{array}{l}   \\
 \sqrt{ 2x   - 1    }   -   \sqrt{  x  - 4 }  =  2    \\
 \sqrt{ 2x   - 1    }      =  2  +  \sqrt{  x  - 4 }    \\
 2x    -  1   =   (2  +  \sqrt{  x  - 4 } )(2  +  \sqrt{  x  - 4 } )  \\
 2x    -  1   =   4  +  2 \sqrt{  x  - 4 }  + 2 \sqrt{  x  - 4 }  + (  x  - 4 )    \\
+2x    -  1   =   4  +  4 \sqrt{  x  - 4 }   + (  x  - 4 )   \\
  \left\{
 \begin{array}{l}
  z    -     2    = 0    \\
