@@ -147,3 +147,5 @@ z       =13    \\
 \right. 
 \end{array}
 $$
+
+the only solution to this  problem  is  13 
