@@ -8,6 +8,6 @@ Additionally  we will be  seeing double inequation   soo  try to  look  out for 
 
 $$-9 <  5  \leq  6$$ since  5  is less than  6  and   larger  than  -9  . We concluded that this cases  is a true double inequal .  In  the other hand  
 $$
--10 <  5  \leq  20 
+10 <  5  \leq  20 
 $$
-
+this is a  not true  inequal   ,   5 may  be less than  20   but is larger  than  10 . The first inequal  in the equation is  false  while the second is tu
