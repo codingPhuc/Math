@@ -87,12 +87,9 @@ y  = 2   \\
 
 
 $$\begin{array}{l}
-1  =    t +   \sqrt{  2t  - 3   }  \\ 
-1   -  t  =       \sqrt{  2t  - 3   }    \\
-(1   -  t)^2   =  2t  - 3   \\
-t^2  -      2t   + 1        =  2t  - 3   \\
-t^2   - 4t  + 4    = 0    \\
-t   =   \frac{4  \pm    \sqrt{  16  -4\cdot 4 \cdot 1 }}{2} \\
+\sqrt{ 5z  +  6 }  -2  =  z     \\
+\sqrt{ 5z  +  6 }      = z   + 2   \\
+5z   +  6   =   (z  + 2)^
 \left\{
 \begin{array}{l}
   y  = 2    \\
