@@ -92,14 +92,22 @@ $$\begin{array}{l}
 5z   +  6   =   (z  + 2)^2  \\
 5z  +  6  =  z^2   + 4z  + 4   \\
 -z^2  + z   + 2   = 0   \\
-( z    +  2)
+( z    +  2)(z   - 1 )  =  0     \\
+
 \left\{
 \begin{array}{l}
-  y  = 2    \\
-y  = 2   \\ 
+ z    +  2    = 0    \\
+z   - 1     =0   \\ 
  
 \end{array} \\
+\implies  \\  \\
+\left\{
+\begin{array}{l}
+ z    +  2    = 0   
+z   - 1     =0   \\ 
  
+\end{array} \\ 
+\right. 
 \right. 
 \end{array}$$
 
