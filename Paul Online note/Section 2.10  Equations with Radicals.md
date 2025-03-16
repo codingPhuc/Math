@@ -119,8 +119,10 @@ all the solution that we have look at have   only one square root . But not ,  l
 Solve each of the following equation  
 $$
 \begin{array}{l}   \\
-\sqrt{ 2x   - 1    }
-\left\{
+\sqrt{ 2x   - 1    }   -   \sqrt{  x  - 4 }  =  2    \\
+\sqrt{ 2x   - 1    }      =  2  +  \sqrt{  x  - 4 }    \\
+2x    -  1   =   (2  +  \sqrt{  x  - 4 } )(2  +  \sqrt{  x  - 4 } )
+ \left\{
 \begin{array}{l}
  z    -     2    = 0    \\
 z   +  1    =0   \\ 
