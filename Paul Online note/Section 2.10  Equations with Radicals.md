@@ -113,3 +113,6 @@ z       =-1    \\
 \end{array}$$ 
 
 the only solution to this  problem  is  -1  
+
+## Solution with  more than one square root 
+all the solution that we have look at have   only one square root . But not ,  let look  at different problem  with  
