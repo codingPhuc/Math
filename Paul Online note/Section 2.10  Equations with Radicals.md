@@ -220,7 +220,7 @@ x   =   +  4 \\
 \right. 
 \end{array}
 $$
-the only solution to this  problem  is  t = 1  
+the only solution to this  problem  is  t =4 
 
 
 
@@ -230,6 +230,28 @@ $$
 7   =    \sqrt{ 39   +  3x  }  -x     \\
 7  +  x     =   \sqrt{ 39   +  3x  }     \\
 (7 + x)^2    =   39  +  3x   \\
+x^2  + 14x + 49        = 39  +  3x     \\
+x^2   + 11x + 10   =    0    \\
+(x + 10 )( x + 1  )     \\
+ \left\{
+\begin{array}{l}
+x  = -10   \\
+x   =   -    1\\ 
+ 
+\end{array} \\
+. 
+\right. 
+\end{array}
+$$
+the only solution to this  problem  is  x = -1 
+
+
+
+$$
+\begin{array}{l}   \\
+x  =  1 +  \sqrt{ 2x  - 2   }     \\
+x  - 1       =   \sqrt{ 2x  - 2   }     \\
+(x)    =  2x   -2   \\
 x^2  + 14x + 49        = 39  +  3x     \\
 x^2   + 11x + 10   =    0    \\
 (x + 10 )( x + 1  )     \\
