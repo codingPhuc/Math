@@ -84,7 +84,7 @@ y  = 2   \\
 
 
 
-
+#fail 
 
 $$\begin{array}{l}
 \sqrt{ 5z  +  6 }  -2  =  z     \\
