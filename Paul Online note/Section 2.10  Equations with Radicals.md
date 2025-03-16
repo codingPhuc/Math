@@ -149,7 +149,7 @@ z       =13    \\
 $$
 
 the only solution to this  problem  is  13 
-
+#fail 
 $$
 \begin{array}{l}   \\
 \sqrt{ t   +  7 }    +   2   =  \sqrt{  3-t   }    \\
@@ -160,12 +160,12 @@ t   +  7  +4(\sqrt{ t   +  7 }   )  +  4    =    3-  t     \\
 16t   +  112    = 4t^2     +  32t  +    64   \\
 4t^2   +  16t  -48   =   0   \\
 t^2   +  4t  -12  =  0  \\
-( t    + \sqrt{ 15 } ) (t   - \sqrt{ 15 })  =  0  
+(t  - 2 )( t + 6) =  0  
 
  \left\{
 \begin{array}{l}
-t    = \sqrt{ 15 }     \\
-t   =- \sqrt{ 15 }     \\ 
+t    = 2    \\
+t   =   - 6   \\ 
  
 \end{array} \\
 \implies  \\  \\
