@@ -152,9 +152,9 @@ the only solution to this  problem  is  13
 
 $$
 \begin{array}{l}   \\
-\sqrt{ t   +  7 }    +   2   =  \sqrt{  3- }    \\
-\sqrt{ 2x   - 1    }      =  2  +  \sqrt{  x  - 4 }    \\
-2x    -  1   =   (2  +  \sqrt{  x  - 4 } )(2  +  \sqrt{  x  - 4 } )  \\
+\sqrt{ t   +  7 }    +   2   =  \sqrt{  3-t   }    \\
+(\sqrt{ t   +  7 }    +   2 )^2    =  3 -  t    \\
+t   +  7  +4(\sqrt{ t   +  7 }  )     \\
 2x    -  1   =   4  +  2 \sqrt{  x  - 4 }  + 2 \sqrt{  x  - 4 }  + (  x  - 4 )    \\
 2x    -  1   =   4  +  4 \sqrt{  x  - 4 }   +  x  - 4   \\
 x    -  1    =  4 \sqrt{  x  - 4 }    \\
