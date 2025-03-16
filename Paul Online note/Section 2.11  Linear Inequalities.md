@@ -14,3 +14,8 @@ this is a  not true  inequal   ,   5 may  be less than  20   but is larger  than
 
 The next topic will be   **interval  notation**  .  Interval  notation   is very  nice shorthand for inequation that will be  used extensively  in the  next few section 
 
+$$
+
+\draw (-3,0) -- (7,0);
+
+$$
