@@ -149,3 +149,33 @@ z       =13    \\
 $$
 
 the only solution to this  problem  is  13 
+
+$$
+\begin{array}{l}   \\
+\sqrt{ t   +  7 }    +   2   =  \sqrt{  3- }    \\
+\sqrt{ 2x   - 1    }      =  2  +  \sqrt{  x  - 4 }    \\
+2x    -  1   =   (2  +  \sqrt{  x  - 4 } )(2  +  \sqrt{  x  - 4 } )  \\
+2x    -  1   =   4  +  2 \sqrt{  x  - 4 }  + 2 \sqrt{  x  - 4 }  + (  x  - 4 )    \\
+2x    -  1   =   4  +  4 \sqrt{  x  - 4 }   +  x  - 4   \\
+x    -  1    =  4 \sqrt{  x  - 4 }    \\
+(x  - 1 )^2  =    16 (x  - 4 ) \\
+x^2   -2x   + 1   =    16x  -  64   \\
+x^2    -18x   +  65  =   0   \\
+(x-13  )(x  + 5   )       \\
+ \left\{
+\begin{array}{l}
+x  + 5     = 0    \\
+x-13    =0   \\ 
+ 
+\end{array} \\
+\implies  \\  \\
+\left\{
+\begin{array}{l}
+ z     =  - 5   \\
+z       =13    \\ 
+ 
+\end{array} \\ 
+\right. 
+\right. 
+\end{array}
+$$
