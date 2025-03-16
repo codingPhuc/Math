@@ -283,7 +283,7 @@ x  =  -\frac{16  \pm  16}{2\cdot  9 }  \\
  \left\{
 \begin{array}{l}
 x  =  0    \\
-x   =   \\ 
+x   =  -\frac{16}{9} \\ 
  
 \end{array} \\
 . 
