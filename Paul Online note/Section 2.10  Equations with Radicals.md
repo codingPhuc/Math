@@ -89,7 +89,10 @@ y  = 2   \\
 $$\begin{array}{l}
 \sqrt{ 5z  +  6 }  -2  =  z     \\
 \sqrt{ 5z  +  6 }      = z   + 2   \\
-5z   +  6   =   (z  + 2)^
+5z   +  6   =   (z  + 2)^2  \\
+5z  +  6  =  z^2   + 4z  + 4   \\
+-z^2  + z   + 2   = 0   \\
+( z    +  2)
 \left\{
 \begin{array}{l}
   y  = 2    \\
