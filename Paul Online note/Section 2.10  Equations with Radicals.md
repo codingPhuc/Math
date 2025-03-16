@@ -97,19 +97,19 @@ z^2  - z  - 2  =     0    \\
 
 \left\{
 \begin{array}{l}
- z    +  2    = 0    \\
-z   - 1     =0   \\ 
+ z    -     2    = 0    \\
+z   +  1    =0   \\ 
  
 \end{array} \\
 \implies  \\  \\
 \left\{
 \begin{array}{l}
- z     = -2  \\
-z       =1    \\ 
+ z     = +2  \\
+z       =-1    \\ 
  
 \end{array} \\ 
 \right. 
 \right. 
 \end{array}$$ 
 
- only   y   =  4 satisfy the solution since   $4   +  \sqrt{ 4 -4 }  =   4$  
+the only solution to this  problem  is  -1  
