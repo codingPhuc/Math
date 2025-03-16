@@ -6,3 +6,4 @@ and the case      $4 <  4$    is not a true  inequal  since  4 is equal  to 4  a
 
 Additionally  we will be  seeing double inequation   soo  try to  look  out for  that  
 
+$$-9 <  5  \leq  6$$ since  5  is less than  6  and   larger  than  -9  . We concluded that this cases  is a true  inequal   
