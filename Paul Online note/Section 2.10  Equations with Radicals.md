@@ -115,4 +115,25 @@ z       =-1    \\
 the only solution to this  problem  is  -1  
 
 ## Solution with  more than one square root 
-all the solution that we have look at have   only one square root . But not ,  let look  at different problem  with  
+all the solution that we have look at have   only one square root . But not ,  let look  at different problem  with  square root  larger  then  one    
+Solve each of the following equation  
+$$
+\begin{array}{l}   \\
+\sqrt{ 2x   - 1    }
+\left\{
+\begin{array}{l}
+ z    -     2    = 0    \\
+z   +  1    =0   \\ 
+ 
+\end{array} \\
+\implies  \\  \\
+\left\{
+\begin{array}{l}
+ z     = +2  \\
+z       =-1    \\ 
+ 
+\end{array} \\ 
+\right. 
+\right. 
+\end{array}
+$$
