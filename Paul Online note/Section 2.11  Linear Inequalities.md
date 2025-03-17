@@ -204,8 +204,8 @@ so the interval  notation of the above is   $( \frac{3}{2},\frac{16}{5})$
 $$
 \begin{array}{l }
 2 <   \frac{1}{6 }   - \frac{1}{2}  x \leq   4    \\
-12   < 1   \frac{1}{6 }   - \frac{1}{2}  x \leq   4    \\
-\frac{3}{2}<w< \frac{16}{5}\\
+12 <   1   - 3  x \leq   24   \\
+11< - 3  x< 23\\
 \end{array}
 
 $$
