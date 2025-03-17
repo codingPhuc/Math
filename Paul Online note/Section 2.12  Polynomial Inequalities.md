@@ -269,13 +269,13 @@ x   =   \frac{2  -   3\sqrt{ 15 }}{6}    \\
     \draw[dashed] (-1.6 ,-1.5) -- (-1.6,1.5);
     % Text annotations
     \node at ( -3,1.8) {$x = -3$};
-    \node at ( -3,1.2) {$( 4 + 1)(4 - 3)^2 > 0 $};
+    \node at ( -3,1.2) {$3x^2  -   2x   - 11 >0$};
     
     \node at ( 0,1.8) {$x = 0$};
-    \node at ( 0,1.2) {$(  2 + 1)( 2  - 3)^2 > 0 $};
+    \node at ( 0,1.2) {$3x^2  -   2x   - 11 >0$};
     
     \node at ( 3,1.8) {$x = 3$};
-    \node at (3,1.2) {$( -2  + 1)(-2  - 3)^2 < 0 $};
+    \node at (3,1.2) {$3x^2  -   2x   - 11 >0$};
     
 \end{tikzpicture}
 \end{document}
