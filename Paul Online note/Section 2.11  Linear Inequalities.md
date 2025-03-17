@@ -102,4 +102,4 @@ $$
 
 $$
 
-the interval  notation     of x is  $[3,  \frac{17}{2} )$ 
+the interval  notation     of x is  $[- \frac{4}{3} ,  4 )$ 
