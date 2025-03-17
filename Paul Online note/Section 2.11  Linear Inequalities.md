@@ -57,7 +57,9 @@ the first two  fact are the one we used to  solve a linear equation ,  the third
 $$
 \begin{array}{l }
 −2(m−3)<5(m+1)−12   \\
--2m    _{}
+-2m   +  6   <   5m + 5    - 12   \\
+-7 m <  -18   \\
+m  >   \frac{18}{7} 
 \end{array}
 
 $$
