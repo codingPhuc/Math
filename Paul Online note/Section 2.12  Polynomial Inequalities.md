@@ -17,14 +17,12 @@ x +  2 < 0     \\
 \implies
 \left\{
 \begin{array}{l}
-x   <   5
-y =  - 6 \\
+x   <   5   \\
+x  < -2  
 
 \end{array}
 \right.
 \right. 
-
-
 \end{array} 
-  
-$$ 
+$$  
+so the interval  notation  of x  is   $(\infty ]$
