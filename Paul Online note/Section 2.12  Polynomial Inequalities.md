@@ -225,4 +225,4 @@ x      =   -1       \\
 
 ```
 
-so  unlike the pervious solution  we cannot  combine  the interval  notation  into  one 
+so  unlike the pervious solution  we cannot  combine  the interval  notation  into  one   like the above  we need to split it into two since   x  = 0  does  is not a true  inequality  notation since  $( x  + 1)(x  - 3)^2 > 0$ 
