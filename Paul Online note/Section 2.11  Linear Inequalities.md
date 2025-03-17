@@ -150,7 +150,7 @@ so the interval  notation of the above is   $( -\frac{17}{11}  ,\infty)$
 $$
 \begin{array}{l }
 \frac{1}{2 }   (3+  4t)   \leq  6\left( \frac{1}{3}  - \frac{1}{2}t \right) - \frac{1}{4 }( 2 -  10t ) \\
-\frac{3}{2}   +  2t   \leq  6\left( \frac{1}{3}  - \frac{1}{2}t \right) - \frac{1}{4 }( 2 -  10t )   \\
+\frac{3}{2}   +  2t   \leq  2   - 3t    -   \frac{1}{2}  + \frac{5}{2}t   \\
 11z   > -17        \\
 z >   -\frac{17}{11 }  \\
 \end{array}
