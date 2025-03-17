@@ -20,4 +20,34 @@ The next topic will be   **interval  notation**  .  Interval  notation   is very
 
 Remember that  `[ ] `  mean that  we include the end point while   `( )`  that we do not include the  end point . for the first four inequality  table interval  notation    is  nothing  more  then a graph  with  a number line on it  . For the  final  four  inequality ,  the  interval  notation  extended to  almost the entire  graph  . Further more ,  infinity does not geta bracket  it only  get  parentheses 
 it is now the time to solve linear  inequality .  In order to do that we will need to used fact for  linear equality  ,  noted that the fact are given  for  <  .  We can  , however  write the equivalent amount of  facts for remaining three inequalities
-1. f   $a<b$ then a+c< b+c and a − c< b − c
+## Properties of Inequalities  
+
+1. **Addition and Subtraction**  
+   If \( a < b \), then for any number \( c \):  
+   $$
+   a + c < b + c
+   $$
+   $$
+   a - c < b - c
+   $$
+   In other words, adding or subtracting the same number from both sides of an inequality does not change its direction.  
+
+2. **Multiplication and Division by a Positive Number**  
+   If \( a < b \) and \( c > 0 \), then:  
+   $$
+   a \cdot c < b \cdot c
+   $$
+   $$
+   \frac{a}{c} < \frac{b}{c}
+   $$
+   Multiplying or dividing both sides of an inequality by a **positive** number keeps the inequality direction unchanged.  
+
+3. **Multiplication and Division by a Negative Number**  
+   If \( a < b \) and \( c < 0 \), then:  
+   $$
+   a \cdot c > b \cdot c
+   $$
+   $$
+   \frac{a}{c} > \frac{b}{c}
+   $$
+   Multiplying or dividing both sides of an inequality by a **negative** number flips the inequality direction.  
