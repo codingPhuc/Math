@@ -154,7 +154,12 @@ $$
   3  +  4t   \leq  4   - 6t    - 1   + 5t   \\
 5t   \leq   0  \\
 t  \leq   0         \\
-z >   -\frac{17}{11 }  \\
+
 \end{array}
 
 $$
+
+
+so the interval  notation of the above is   $[ -\infty  ,0 )$
+
+
