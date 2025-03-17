@@ -227,5 +227,8 @@ x      =   -1       \\
 
 so  unlike the pervious solution  we cannot  combine  the interval  notation  into  one   like the above  we need to split it into two since   x  = 3  is not a true  inequality  notation since  $( x  + 1)(x  - 3)^2 > 0$  
 
-so the interval notatio
+so the interval notation  for the above  is  $$
+(-1  , 3  )  \cap (3,  +\infty )$$
+
+
 
