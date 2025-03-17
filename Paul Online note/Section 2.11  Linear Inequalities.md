@@ -205,9 +205,10 @@ $$
 \begin{array}{l }
 2 <   \frac{1}{6 }   - \frac{1}{2}  x \leq   4    \\
 12 <   1   - 3  x \leq   24   \\
-11< - 3  x< 23\\
+11< - 3 x< 23  \\
+\frac{23}{-3} <   x  <      -  \frac{11}{3}\\
 \end{array}
 
 $$
-so the interval  notation of the above is   $( \frac{3}{2},\frac{16}{5})$
+so the interval  notation of the above is   $( \frac{23}{-3}, -  \frac{11}{3})$
 
