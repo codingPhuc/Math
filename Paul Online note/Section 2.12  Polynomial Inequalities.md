@@ -174,8 +174,6 @@ the inequality and  interval  notation  for the solution to this inequality  are
 
 $$\begin{array}{l}
 ( x  + 1)(x  - 3)^2 > 0 \\
-x^2  (x^2  +  4x  -  12   ) ≤0  \\
-x^2(x  +   6) ( x    - 2   )  ≤0 \\
 
   \left\{
 \begin{array}{l}
@@ -212,14 +210,13 @@ x      =   -1       \\
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (-6,-1.5) -- (-6,1.5);
-    \draw[dashed] (0,-1.5) -- (0,1.5);
-    \draw[dashed] (2,-1.5) -- (2,1.5);
+    \draw[dashed] (3,-1.5) -- (3,1.5);
+    \draw[dashed] (-1 ,-1.5) -- (-1,1.5);
     % Text annotations
-    \node at ( -7,1.8) {$x = -7$};
+    \node at ( -7,1.8) {$x = 3$};
     \node at ( -7,1.2) {$-7^2(-7  +   6) ( -7   - 2   ) >   0$};
     
-    \node at ( -4,1.8) {$x = -4$};
+    \node at ( -4,1.8) {$x = -1$};
     \node at ( -4,1.2) {$-4^2(-4  +   6) ( -4   - 2   ) <   0$};
     
     \node at (1,1.2) {$x = 1$};
