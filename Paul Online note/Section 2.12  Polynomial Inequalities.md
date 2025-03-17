@@ -369,7 +369,7 @@ x   =  -2      \\
     \draw[->] (-10,0) -- (4,0) node[right] {};
     
     % Draw tick marks and labels
-    \foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1} {
+    \foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
     }
     
