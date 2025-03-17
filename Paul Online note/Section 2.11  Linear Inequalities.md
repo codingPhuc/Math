@@ -180,9 +180,9 @@ so the interval  notation of the above is   $( - \frac{3}{4} ,2 )$
 
 $$
 \begin{array}{l }
-−1<4x+2<10 \\
-−3<4x<  8 \\
- \frac{−3}{4}<x<  2 \\
+8≤3−5z<12 \\
+5<−5z<   9 \\
+-\frac{9}{5}<z< -1\\
 \end{array}
 
 $$
