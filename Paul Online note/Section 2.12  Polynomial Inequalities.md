@@ -106,10 +106,14 @@ x    =   -1
 ```
 
 ```tikz
-\usetikzlibrary {decorations.pathreplacing}
-\begin{tikzpicture}[decoration=border]
-  \draw [help lines] grid (3,2);
-  \draw [postaction={decorate,draw,red}]
-        (0,0) -- (3,1) arc (0:180:1.5 and 1);
-\end{tikzpicture}
+\documentclass{article}
+\usepackage{tikz}
+
+\begin{document}
+
+\pgfversion % This will print your TikZ version
+
+\end{document}
+
+
 ```
