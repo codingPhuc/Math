@@ -291,4 +291,7 @@ so the interval notation  for the above  is  $$
 
 
 
-$$u^2+4u≥21$$
+$$\begin{array}{l }
+u2+4u≥21    \\
+ 
+\end{array}$$
