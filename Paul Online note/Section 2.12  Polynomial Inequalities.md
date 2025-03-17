@@ -103,5 +103,4 @@ x    =   -1
 
 ```
 
-the inequality and  interval  notation  for the solution to this inequality  are   
-$$-2<x<5$$
+the inequality and  interval  notation  for the solution to this inequality  are    $[-1 , ]$
