@@ -235,7 +235,7 @@ so the interval notation  for the above  is  $$
 ##   polynomial  that does not factor  
 $$\begin{array}{l}
 3x^2  -   2x   - 11  > 0 \\
- \frac{2\pm   }{} \\
+ \frac{2\pm   \sqrt{ 4  - 4\cdot  3  \cdot   -11  }}{} \\
 
   \left\{
 \begin{array}{l}
