@@ -139,9 +139,9 @@ $$
 \begin{array}{l }
 4(z+2)−1>5−7(4−z)  \\
 4z+  8       - 1  >   5  -14  -  7z    \\
-11z   >   \\
-\frac{-15}{7}    <  3x  <  0    \\
-- \frac{5}{7} < x   <   0   
+11z   > -17        \\
+z >   -\frac{17}{11 }  \\
 \end{array}
 
 $$
+so the interval  notation of the above is   $()\infty$
