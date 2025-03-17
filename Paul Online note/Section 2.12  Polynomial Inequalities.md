@@ -260,13 +260,13 @@ x   =   \frac{2  -   3\sqrt{ 15 }}{6}    \\
     \draw[->] (-8,0) -- (7,0) node[right] {};
     
     % Draw tick marks and labels
-    \foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
+    \foreach \x in {-8,-7,-6,-5,-4,-3,-2,$\frac{2  -  3\sqrt{ 15 }$}{6},-1,0,1,\frac{2  +  3\sqrt{ 15 }}{6},2,3,4,5,6,7} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (\frac{2  +   3\sqrt{ 15 }}{6},-1.5) -- (\frac{2  +   3\sqrt{ 15 }}{6},1.5);
-    \draw[dashed] (\frac{2  -  3\sqrt{ 15 }}{6} ,-1.5) -- (-1,1.5);
+    \draw[dashed] ($\frac{2  +   3\sqrt{ 15 }}{6}$,-1.5) -- (\frac{2  +   3\sqrt{ 15 }}{6},1.5);
+    \draw[dashed] ($\frac{2  -  3\sqrt{ 15 }}{6}$ ,-1.5) -- (\frac{2  -  3\sqrt{ 15 }}{6},1.5);
     % Text annotations
     \node at ( 6,1.8) {$x = 4$};
     \node at ( 6,1.2) {$( 4 + 1)(4 - 3)^2 > 0 $};
