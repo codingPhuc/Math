@@ -332,10 +332,66 @@ x   =  3     \\
     \node at ( 1,1.2) {$1^2+4 - 21 < 0   $};
     
     \node at ( 5,1.8) {$x = 5$};
-    \node at (5,1.2) {$5^2+4\cdot 5  - 21 .)$};
+    \node at (5,1.2) {$5^2+4\cdot 5  - 21 >  0 $};
     
 \end{tikzpicture}
 \end{document}
 
 
 ```
+so the interval notation  for the above  is  $$
+(-\infty ,-7   )  \cap (3 ,  +\infty )$$
+
+
+
+
+$$\begin{array}{l }
+x2+8x+12<0   \\
+u^2+4u  - 21≥    0   \\
+(u    +    7) ( u  -  3)  \\
+
+  \left\{
+\begin{array}{l}
+x   = -7   \\
+x   =  3     \\
+\end{array} \\
+\right. 
+\end{array}$$
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-10,0) -- (7,0) node[right] {};
+    
+    % Draw tick marks and labels
+    \foreach \x in {-10,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    
+    % Vertical dashed lines at -2 and 5
+    \draw[dashed] (-7,-1.5) -- (-7,1.5);
+    \draw[dashed] (3 ,-1.5) -- (3,1.5);
+    % Text annotations
+    \node at ( -10,1.8) {$x = -10$};
+    \node at ( -10,1.2) {$-10^2+4\cdot -10  - 21 >   0 $};
+    
+    \node at ( 1,1.8) {$x = 1$};
+    \node at ( 1,1.2) {$1^2+4 - 21 < 0   $};
+    
+    \node at ( 5,1.8) {$x = 5$};
+    \node at (5,1.2) {$5^2+4\cdot 5  - 21 >  0 $};
+    
+\end{tikzpicture}
+\end{document}
+
+
+```
+so the interval notation  for the above  is  $$
+(-\infty ,-7   )  \cap (3 ,  +\infty )$$
