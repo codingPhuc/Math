@@ -192,10 +192,22 @@ so the interval  notation of the above is   $( -\frac{9}{5},-1 )$
 $$
 \begin{array}{l }
 0≤10w−15≤23\\
-15<10w<   9 \\
--\frac{9}{5}<z< -1\\
+15<10w< 32 \\
+\frac{3}{2}<w< \frac{16}{5}\\
 \end{array}
 
 $$
-so the interval  notation of the above is   $( -\frac{9}{5},-1 )$
+so the interval  notation of the above is   $( \frac{3}{2},\frac{16}{5})$
+
+
+
+$$
+\begin{array}{l }
+0≤10w−15≤23\\
+15<10w< 32 \\
+\frac{3}{2}<w< \frac{16}{5}\\
+\end{array}
+
+$$
+so the interval  notation of the above is   $( \frac{3}{2},\frac{16}{5})$
 
