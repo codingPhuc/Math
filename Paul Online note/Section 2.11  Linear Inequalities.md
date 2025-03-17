@@ -122,3 +122,4 @@ It  is  important to note that there can be  error  in the comparison operation 
 ###     Find  a  and  b  bases  on the  interval   notation  of x 
 x have an  interval  notation  like $−1<x<4$
 we need to find  or determine    $a<2x+3<b$ 
+
