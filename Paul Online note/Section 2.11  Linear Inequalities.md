@@ -51,4 +51,6 @@ it is now the time to solve linear  inequality .  In order to do that we will ne
    \frac{a}{c} > \frac{b}{c}
    $$
    Multiplying or dividing both sides of an inequality by a **negative** number flips the inequality direction.  
-the first to 
+the first two  fact are the one we used to  solve a linear equation ,  the third  fact  however is a  new  constant  and need to  be understand clearly  to not make a mistake 
+
+## Solving the follo
