@@ -286,3 +286,5 @@ x   =  \frac{1 +    \sqrt{ 34  }}{  3}     \\
 so the interval notation  for the above  is  $$
 (-\infty ,\frac{1 - \sqrt{ 34  }}{  3}   )  \cap (\frac{1 + \sqrt{ 34  }}{  3}   ,  +\infty )$$
 
+
+# #pr
