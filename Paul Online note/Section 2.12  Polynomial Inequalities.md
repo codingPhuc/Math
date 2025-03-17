@@ -96,5 +96,6 @@ x    =   -1
     % Red dot at (6,1)
     \fill[red] (6,1) circle (2pt);
 \end{tikzpicture}
+
 \end{document}
 ```
