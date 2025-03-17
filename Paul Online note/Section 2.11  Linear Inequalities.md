@@ -69,7 +69,7 @@ $$
 \begin{array}{l }
 2(1−x)+5≤3(2x−1)  \\
 2  - 2x   +  5   \leq  6x  -  3   \\
--7 m <  -13   \\
+-8x    \leq    -  10    \\
 m  >   \frac{13}{7} 
 \end{array}
 
