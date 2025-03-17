@@ -25,4 +25,4 @@ x  < -2
 \right. 
 \end{array} 
 $$  
-so the interval  notation  of x  is   $(\infty ]$
+so the interval  notation  of x  is   $( - \infty ,  -2]$
