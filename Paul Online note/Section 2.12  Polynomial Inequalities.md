@@ -94,8 +94,8 @@ x    =   -1
     \node at (1,1.2) {$x = 1$};
     \node at (1,0.6) {$(-5)(2) < 0$};
     
-    \node at (6,1.8) {$x = 6$};
-    \node at (6,1.2) {$(1)(8) > 0$};
+    \node at (-2,1.8) {$x = -2$};
+    \node at (-2,1.2) {$(-8)(-1) > 0$};
     
 \end{tikzpicture}
 \end{document}
