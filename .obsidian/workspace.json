@@ -200,7 +200,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -295,8 +296,7 @@
                   "title": "Section 2.9  Equations Reducible to Quadratic in Form"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -304,16 +304,16 @@
         "y": -216,
         "width": 461,
         "height": 524,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "e4002f4f480cac98",
+  "active": "9b3f64ef23927a5f",
   "lastOpenFiles": [
+    "Paul Online note/Section 2.11  Linear Inequalities.md",
     "Pasted image 20250316165949.png",
     "Paul Online note/Section 2.10  Equations with Radicals.md",
-    "Paul Online note/Section 2.11  Linear Inequalities.md",
     "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
     "Paul Online note/Section 2.7 Quadratic Equations  A Summary.md",
@@ -346,7 +346,6 @@
     "Pasted image 20250217150512.png",
     "Professor Leonard/IMG_0599.JPG",
     "Professor Leonard/IMG_0600.JPG",
-    "Professor Leonard/IMG_0603.JPG",
     "Professor Leonard",
     "Paul Online note",
     "template",
