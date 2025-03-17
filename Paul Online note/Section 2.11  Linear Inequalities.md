@@ -109,8 +109,8 @@ the interval  notation     of x is  $[- \frac{4}{3} ,  4 )$
 $$
 \begin{array}{l }
 −14 <  −7(3x+2) <  1 \\
-1    <  3x+2  <   −14 \\
--4  <   -x    \leq  \frac{4}{3}  \\
+\frac{1}{-7}    <  3x+2  <   2   \\
+\frac{-1}{-7}    <  3x+2  <   2  \\
 - \frac{4}{3}  \leq x   < 4 
 \end{array}
 
