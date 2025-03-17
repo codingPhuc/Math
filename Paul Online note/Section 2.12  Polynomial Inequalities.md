@@ -325,14 +325,14 @@ x   =  3     \\
     \draw[dashed] (-7,-1.5) -- (-7,1.5);
     \draw[dashed] (3 ,-1.5) -- (3,1.5);
     % Text annotations
-    \node at ( -3,1.8) {$x = -3$};
-    \node at ( -3,1.2) {$3(-3)^2  -   2\cdot -3   - 11 >0$};
+    \node at ( -10,1.8) {$x = -10$};
+    \node at ( -10,1.2) {$u^2+4u  - 21$};
     
-    \node at ( 0,1.8) {$x = 0$};
-    \node at ( 0,1.2) {$3.0^2  -   2 . 0   - 11 <0$};
+    \node at ( 1,1.8) {$x = 1$};
+    \node at ( 1,1.2) {$u^2+4u  - 21$};
     
-    \node at ( 3,1.8) {$x = 3$};
-    \node at (3,1.2) {$3.3^2  -   2 . 3   - 11 >0$};
+    \node at ( 5,1.8) {$x = 5$};
+    \node at (5,1.2) {$u^2+4u  - 21$};
     
 \end{tikzpicture}
 \end{document}
