@@ -18,4 +18,4 @@ The next topic will be   **interval  notation**  .  Interval  notation   is very
 ![[Pasted image 20250316165949.png]]
 
 
-
+Remember that  `[ ] `  mean
