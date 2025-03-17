@@ -179,16 +179,14 @@ x^2(x  +   6) ( x    - 2   )  ≤0 \\
 
   \left\{
 \begin{array}{l}
-x    -3  =    0  \\
-x^2   =   0     \\
-x  -  2   =   0     \\
+(x    -3)^2   =    0  \\
+x  +  1     =   0     \\
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x   =   -  6   \\
-x   =   0     \\
-x    =   2      \\
+(x    -3)^2   =    0  \\
+x  +  1     =   0     \\
 \end{array}
 \right.
 \right.
