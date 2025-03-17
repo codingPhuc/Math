@@ -163,3 +163,18 @@ $$
 so the interval  notation of the above is   $[ -\infty  ,0 )$
 
 
+
+
+$$
+\begin{array}{l }
+−1<4x+2<10 \\
+−3<4x<  8 \\
+ \frac{−3}{4}<x<  8  \\
+  3  +  4t   \leq  4   - 6t    - 1   + 5t   \\
+5t   \leq   0  \\
+t  \leq   0         \\
+
+\end{array}
+
+$$
+
