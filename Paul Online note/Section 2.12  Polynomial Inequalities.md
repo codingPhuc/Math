@@ -66,3 +66,34 @@ x    =   -1
 \right.
 \right.
 \end{array}$$
+
+$$
+\begin{center}
+\begin{tikzpicture}
+    % Draw x-axis
+    \draw[->] (-4,0) -- (7,0) node[right] {};
+    
+    % Draw tick marks
+    \foreach \x in {-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    
+    % Vertical dashed lines
+    \draw[dashed] (-2,-1.5) -- (-2,1.5);
+    \draw[dashed] (5,-1.5) -- (5,1.5);
+    
+    % Text annotations
+    \node at (-2,1.8) {$x = -3$};
+    \node at (-2,1.2) {(-8)(-1) > 0};
+    
+    \node at (0,1.2) {$x = 0$};
+    \node at (0,0.6) {(-5)(2) < 0};
+    
+    \node at (5,1.8) {$x = 6$};
+    \node at (5,1.2) {(1)(8) > 0};
+    
+    % Red dot at (6,1)
+    \fill[red] (6,1) circle (2pt);
+\end{tikzpicture}
+\end{center}
+$$
