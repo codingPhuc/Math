@@ -106,13 +106,10 @@ x    =   -1
 ```
 
 ```tikz
-\documentclass{article} % say  
-\usepackage{[tikz](https://tikz.dev/tikz-scopes#pgf.tikz)}  
-\begin{document}  
-We are working on  
-\begin{[tikzpicture](https://tikz.dev/tikz-scopes#pgf.tikzpicture)}  
-[\draw](https://tikz.dev/tikz-actions#pgf.back/draw) (-1.5,0) [--](https://tikz.dev/tikz-paths#pgf.--) (1.5,0);  
-[\draw](https://tikz.dev/tikz-actions#pgf.back/draw) (0,-1.5) [--](https://tikz.dev/tikz-paths#pgf.--) (0,1.5);  
-\end{[tikzpicture](https://tikz.dev/tikz-scopes#pgf.tikzpicture)}.  
-\end{document}
+\usetikzlibrary {decorations.pathreplacing}
+\begin{tikzpicture}[decoration=border]
+  \draw [help lines] grid (3,2);
+  \draw [postaction={decorate,draw,red}]
+        (0,0) -- (3,1) arc (0:180:1.5 and 1);
+\end{tikzpicture}
 ```
