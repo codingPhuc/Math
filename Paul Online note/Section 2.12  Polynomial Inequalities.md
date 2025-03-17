@@ -1,2 +1,12 @@
 # #definition  
 in this section we will be solving  (single )   inequalities that   involve   polynomials    of degree   at least two .  Or  to  put it in a different  perspective  the  polynomials   will not be linear any more  .  As a result , the process we  used  for solving  linear  inequalities  will not be applicable any more 
+
+
+$$
+
+\begin{array} {l}
+x^2  -10   <   3x       \\
+x^2    - 3
+\end{array} 
+  
+$$ 
