@@ -346,8 +346,8 @@ so the interval notation  for the above  is  $$
 
 
 $$\begin{array}{l }
-x2+8x+12<0   \\
-u^2+4u  - 21≥    0   \\
+x^2+8x+12<0   \\
+()()<0   \\
 (u    +    7) ( u  -  3)  \\
 
   \left\{
