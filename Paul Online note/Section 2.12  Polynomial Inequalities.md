@@ -232,3 +232,23 @@ so the interval notation  for the above  is  $$
 
 
 
+##   polynomial  that does not factor  
+$$\begin{array}{l}
+3x^2  -   2x   - 11  > 0 \\
+() \\
+
+  \left\{
+\begin{array}{l}
+(x    -3)^2   =    0  \\
+x  +  1     =   0     \\
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x       =   3 \\
+x      =   -1       \\
+\end{array}
+\right.
+\right.
+\end{array}$$
+
