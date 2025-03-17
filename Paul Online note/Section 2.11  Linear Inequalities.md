@@ -110,8 +110,10 @@ $$
 \begin{array}{l }
 −14 <  −7(3x+2) <  1 \\
 \frac{1}{-7}    <  3x+2  <   2   \\
-\frac{-1}{-7}    <  3x+2  <   2  \\
-- \frac{4}{3}  \leq x   < 4 
+\frac{-15}{7}    <  3x  <  0    \\
+- \frac{5}{7}  \leq x   <   0   
 \end{array}
 
 $$
+the interval  notation     of x is  $(- \frac{5}{7} ,     0 )$ 
+
