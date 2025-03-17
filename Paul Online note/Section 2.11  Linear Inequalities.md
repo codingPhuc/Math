@@ -117,3 +117,4 @@ $$
 $$
 the interval  notation     of x is  $(- \frac{5}{7} ,     0 )$ 
 
+It  is  important to note that there can be  error  in the compa
