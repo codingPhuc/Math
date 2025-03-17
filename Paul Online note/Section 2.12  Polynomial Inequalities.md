@@ -7,7 +7,24 @@ $$
 \begin{array} {l}
 x^2  -10   <   3x       \\
 x^2    - 3x - 10   < 0     \\
-(x -  ) () <  0 
+(x -  5) (x +  2 ) <  0  \\
+ \left\{
+\begin{array}{l}
+x -  5  <  0  \\
+x +  2 < 0     \\
+
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x   <   5
+y =  - 6 \\
+
+\end{array}
+\right.
+\right. 
+
+
 \end{array} 
   
 $$ 
