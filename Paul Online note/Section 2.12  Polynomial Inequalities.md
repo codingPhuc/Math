@@ -128,7 +128,6 @@ x    =   2      \\
 \end{array}$$
 
 
-
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -191,8 +190,6 @@ x      =   -1       \\
 \end{array}$$
 
 
-
-
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -213,14 +210,14 @@ x      =   -1       \\
     \draw[dashed] (3,-1.5) -- (3,1.5);
     \draw[dashed] (-1 ,-1.5) -- (-1,1.5);
     % Text annotations
-    \node at ( 4,1.8) {$x = 4$};
-    \node at ( 4,1.2) {$( 4 + 1)(4 - 3)^2 > 0 $};
+    \node at ( 6,1.8) {$x = 4$};
+    \node at ( 6,1.2) {$( 4 + 1)(4 - 3)^2 > 0 $};
     
     \node at ( 2,1.8) {$x = 2$};
     \node at ( 2,1.2) {$(  2 + 1)( 2  - 3)^2 > 0 $};
     
     \node at ( -4,1.8) {$x = -2$};
-    \node at ( -4,1.2) {$( -2  + 1)(-2  - 3)^2 < 0 $};
+    \node at (-4,1.2) {$( -2  + 1)(-2  - 3)^2 < 0 $};
     
 \end{tikzpicture}
 \end{document}
