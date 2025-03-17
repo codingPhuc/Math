@@ -35,6 +35,8 @@ $$x^2    - 3x - 10   < 0$$
 $$(x -  5) (x +  2 ) <  0$$
 3. Determine where the polynomial  is   0  ,  this does  not help   us  solve the equation however  since  know if something  like  0 <   0  is  not a  true  inequality   . However , it will  help  us  get to the right direction 
 we  need to understand the the graph in  a  polynomial  function does not  have any break  in them ,  smooth and curve    .  This mean that  when ever the  function change sign  it must be  crossing  zero   
+
+The   poi
 ![[Pasted image 20250317123754.png]]
 
 
