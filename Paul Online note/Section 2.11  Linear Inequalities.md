@@ -88,3 +88,18 @@ $$
 $$
 
 the interval  notation     of x is  $[3,  \frac{17}{2} )$ 
+
+
+
+
+$$
+\begin{array}{l }
+−3<32(2−x)≤5 \\
+-\frac{3}{32}   <   2-x  \leq   \frac{5}{32} \\
+6 \leq 2x   < 17  \\
+3 \leq x   < \frac{17}{2 }  
+\end{array}
+
+$$
+
+the interval  notation     of x is  $[3,  \frac{17}{2} )$ 
