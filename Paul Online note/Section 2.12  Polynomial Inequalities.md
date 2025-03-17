@@ -41,8 +41,8 @@ We have already found the crossing point dividing   each region   ,  by using th
 ![[Pasted image 20250317123754.png]]
 ![[Pasted image 20250317124619.png]]
 we can used test  point to test for  inequalities in   each region  , you should make these  test point  simple to plug in 
-5. Write down the answer  , by  plugging in the point we can see that the middle region  satisfy the  inequality that is  desire for  our  problem . We conclude this  bases on the fact that when we plug in a  point  and it turn  out  lest  than  0   ,   so  if the inequality  is satisfy  for a point in that region  then it is not satisfied for any point in that region  
+5. Write down the answer  , by  plugging in the point we can see that the middle region  satisfy the  inequality that is  desire for  our  problem . We conclude this  bases on the fact that when we plug in a  point  and it turn  out  lest  than  0   ,   so  if the inequality  is satisfy  for a point in that region  then it is  satisfied for any point in that region  .  As a result , the interval that we need to find is   $(-2 ,  5)$  
 
 
 
-so the interval  notation  of x  is   $( - \infty ,  -2]$ 
+$$$$
