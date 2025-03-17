@@ -27,4 +27,8 @@ x  < -2
 \end{array} 
 $$
 
+
+1. get  one zero  on one side of the inequality  ,   it does not  mat
+
+
 so the interval  notation  of x  is   $( - \infty ,  -2]$
