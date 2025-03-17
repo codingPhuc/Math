@@ -294,8 +294,14 @@ so the interval notation  for the above  is  $$
 $$\begin{array}{l }
 u^2+4u≥21   \\
 u^2+4u  - 21≥    0   \\
-   \\
- 
+(u    +    7) ( u  -  3)  \\
+
+  \left\{
+\begin{array}{l}
+x   =  \frac{1 - \sqrt{ 34  }}{  3}    \\
+x   =  \frac{1 +    \sqrt{ 34  }}{  3}     \\
+\end{array} \\
+. 
 \end{array}$$
 
 
