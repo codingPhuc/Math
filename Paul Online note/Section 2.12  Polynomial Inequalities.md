@@ -97,8 +97,6 @@ x    =   -1
     \node at (5,1.8) {$x = 6$};
     \node at (5,1.2) {(1)(8) > 0};
     
-    % Red dot at (6,1)
-    \fill[red] (6,1) circle (2pt);
 \end{tikzpicture}
 \end{document}
 
