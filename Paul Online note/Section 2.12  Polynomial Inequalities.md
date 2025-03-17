@@ -33,7 +33,8 @@ $$
 $$x^2    - 3x - 10   < 0$$
 2. if  possible  factor the  Polynomial   , this step  is really  here to simplify the process more than  anything  .     
 $$(x -  5) (x +  2 ) <  0$$
-3. Determine where the polynomial  is   0  ,  this does  not help   us  solve the equation however  since  know if something  like  0 <   0  is  not a  true  ineu
+3. Determine where the polynomial  is   0  ,  this does  not help   us  solve the equation however  since  know if something  like  0 <   0  is  not a  true  inequality   . However , it will  help  us  get to the right direction 
+4. 
 
 
 so the interval  notation  of x  is   $( - \infty ,  -2]$
