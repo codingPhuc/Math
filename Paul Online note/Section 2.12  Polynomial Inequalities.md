@@ -79,7 +79,7 @@ x    =   -1
     \draw[->] (-4,0) -- (7,0) node[right] {};
     
     % Draw tick marks and labels
-    \foreach \x in {-4,-3,-2,-1,0,1,2,3,4,5,6} {
+    \foreach \x in {-3,-2,-1,0,1,2,3,4,5,6,7} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
     }
     
@@ -102,3 +102,5 @@ x    =   -1
 
 
 ```
+
+the inequality and  interval  notation  for the solution to this i
