@@ -13,4 +13,9 @@ $$
 this is a  not true  inequal   ,   5 may  be less than  20   but is larger  than  10 . The first inequal  in the equation is  false  while the second is true  ,but just like the  or operation  one   not true inequal  will result  in a double  not  true  inequal
 
 The next topic will be   **interval  notation**  .  Interval  notation   is very  nice shorthand for inequation that will be  used extensively  in the  next few section 
+
+<c
 ![[Pasted image 20250316165949.png]]
+
+
+
