@@ -82,7 +82,9 @@ $$
 −6≤2(x−5)<7  \\
  -6 \leq 2x - 10  < 7    \\
 6 \leq 2x   < 17  \\
-6 \leq x   < 17   
+3 \leq x   < \frac{17}{2 }  
 \end{array}
 
 $$
+
+the interval  notation     of x is  $[3,  \frac{17}{2} )$ 
