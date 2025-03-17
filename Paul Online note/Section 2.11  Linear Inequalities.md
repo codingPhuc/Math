@@ -14,7 +14,7 @@ this is a  not true  inequal   ,   5 may  be less than  20   but is larger  than
 
 The next topic will be   **interval  notation**  .  Interval  notation   is very  nice shorthand for inequation that will be  used extensively  in the  next few section 
 
-<ce
+
 ![[Pasted image 20250316165949.png]]
 
 
