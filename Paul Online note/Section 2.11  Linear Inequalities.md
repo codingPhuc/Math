@@ -127,4 +127,7 @@ if we   add the  start point and end  point  of the x interval into  $2x+3$  we 
 
 #material_solution 
 first  we multiply everything by 2    $−2<2x<8$ 
-then add  everything by 3  
+then add  everything by 3    $1<2x+ 3<11$ 
+so  we have  a  =1  and  b  =  11 
+
+# #Practice_Exercise  
