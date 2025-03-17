@@ -146,9 +146,9 @@ x    =   2      \\
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (6,-1.5) -- (6,1.5);
-    \draw[dashed] (-1,-1.5) -- (-1,1.5);
-    
+    \draw[dashed] (-6,-1.5) -- (-6,1.5);
+    \draw[dashed] (0,-1.5) -- (0,1.5);
+    \draw[dashed] (2,-1.5) -- (2,1.5);
     % Text annotations
     \node at (7,1.8) {$x = 7$};
     \node at (7,1.2) {$(1)(8) >   0$};
