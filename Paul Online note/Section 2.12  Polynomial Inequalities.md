@@ -30,7 +30,7 @@ $$
 
 
 1. get  one zero  on one side of the inequality  ,   it does not  matter which side  is going to be zero   
-2. if  possible  factor the  Polynomial   , this step  is really  here to simplify the process more 
+2. if  possible  factor the  Polynomial   , this step  is really  here to simplify the process more than  anything  .  
 
 
 so the interval  notation  of x  is   $( - \infty ,  -2]$
