@@ -95,9 +95,9 @@ the interval  notation     of x is  $[3,  \frac{17}{2} )$
 $$
 \begin{array}{l }
 −3< \frac{3}{2 } (2−x)≤5 \\
--\frac{3}{32}   <   2-x  \leq   \frac{10}{3} \\
--\frac{67}{32}   <   -x    \leq  -\frac{59}{32}   \\
-\frac{59}{32}  \leq x   < \frac{67}{32}  
+-2     <   2-x  \leq   \frac{10}{3} \\
+-4  <   -x    \leq  \frac{4}{3}  \\
+- \frac{4}{3}  \leq x   < 4 
 \end{array}
 
 $$
