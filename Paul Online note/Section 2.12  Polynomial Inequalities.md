@@ -52,15 +52,15 @@ x^2  - 5x   +  6  \geq   0   \\
 (x -  6) (x +  1  ) \geq   0  \\
   \left\{
 \begin{array}{l}
-x -  5  =    0  \\
-x +  2 =   0     \\
+x -  6 =    0  \\
+x +  1  =   0     \\
 
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x   <   5   \\
-x  < -2  
+x  =      6 \\  
+x    =   -1    
 
 \end{array}
 \right.
