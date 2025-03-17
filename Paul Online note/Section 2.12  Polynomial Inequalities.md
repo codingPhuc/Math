@@ -108,7 +108,7 @@ the inequality and  interval  notation  for the solution to this inequality  are
 $$\begin{array}{l}
 x^4+4x^3−12x^2 ≤0 \\
 x^2  (x^2  +  4x  -  12   ) ≤0  \\
-x^2()( )  \leq   0  \\
+x^2(x  +   6) (  )  \leq   0  \\
 (x -  6) (x +  1  ) \geq   0  \\
   \left\{
 \begin{array}{l}
