@@ -168,4 +168,6 @@ x    =   2      \\
 
 ```
 
-the inequality and  interval  notation  for the solution to this inequality  are    $[-1 ,  6]$
+the inequality and  interval  notation  for the solution to this inequality  are    $[-6 ,  2]$
+
+
