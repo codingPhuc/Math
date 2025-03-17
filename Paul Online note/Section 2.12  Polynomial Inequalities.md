@@ -102,22 +102,3 @@ x    =   -1
 
 
 ```
-
-```tikz
-\usepackage{amsmath,amssymb}
-\usetikzlibrary{decorations.pathreplacing}
-
-\begin{document}
-\begin{tikzpicture}[decoration=border]
-  \draw [help lines] grid (3,2);
-  \draw [postaction={decorate,draw,red}]
-        (0,0) -- (3,1) arc (0:180:1.5 and 1);
-\end{tikzpicture}
-
-
-\begin{tikzpicture}[decoration={expanding waves,angle=5}]
-  \draw [help lines] grid (3,2);
-  \draw [decorate] (0,0) -- (3,1) arc (0:180:1.5 and 1);
-\end{tikzpicture}
-\end{document}
-```
