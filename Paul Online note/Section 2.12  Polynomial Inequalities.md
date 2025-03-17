@@ -2,6 +2,7 @@
 in this section we will be solving  (single )   inequalities that   involve   polynomials    of degree   at least two .  Or  to  put it in a different  perspective  the  polynomials   will not be linear any more  .  As a result , the process we  used  for solving  linear  inequalities  will not be applicable any more 
 
 
+## step  for solving the  problem  
 $$
 
 \begin{array} {l}
@@ -24,5 +25,6 @@ x  < -2
 \right.
 \right. 
 \end{array} 
-$$  
+$$
+
 so the interval  notation  of x  is   $( - \infty ,  -2]$
