@@ -75,3 +75,12 @@ x \geq  \frac{10}{8}
 
 $$
 ## Solving double inequation  
+$$
+\begin{array}{l }
+−6≤2(x−5)<7  \\
+2  - 2x   +  5   \leq  6x  -  3   \\
+-8x    \leq    -  10    \\
+x \geq  \frac{10}{8}  
+\end{array}
+
+$$
