@@ -70,8 +70,8 @@ $$
 2(1−x)+5≤3(2x−1)  \\
 2  - 2x   +  5   \leq  6x  -  3   \\
 -8x    \leq    -  10    \\
-m  >   \frac{13}{7} 
+x \geq  \frac{10}{8}  
 \end{array}
 
 $$
-
+## Solving double inequation  
