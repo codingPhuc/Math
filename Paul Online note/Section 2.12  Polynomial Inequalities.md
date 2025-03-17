@@ -235,13 +235,12 @@ so the interval notation  for the above  is  $$
 ##   polynomial  that does not factor  
 $$\begin{array}{l}
 3x^2  -   2x   - 11  > 0 \\
- x =  \frac{2\pm   \sqrt{ 4  - 4\cdot  3  \cdot   -11  }}{2\cdot  3}  \\
-x =   \\
+ x =  \frac{2\pm   \sqrt{ 4  - 4\cdot  3  \cdot   -11  }}{2\cdot  3}   \\
 
   \left\{
 \begin{array}{l}
-(x    -3)^2   =    0  \\
-x  +  1     =   0     \\
+x   =    \frac{2\pm   \sqrt{ 4  - 4\cdot  3  \cdot   -11  }}{2\cdot  3}   \\
+x   =   \frac{2  -   3\sqrt{ 15 }}{6}    \\
 \end{array} \\
 \implies
 \left\{
