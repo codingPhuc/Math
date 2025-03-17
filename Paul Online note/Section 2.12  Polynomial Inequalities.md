@@ -138,7 +138,7 @@ x    =   2      \\
 
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
-    \draw[->] (-4,0) -- (7,0) node[right] {};
+    \draw[->] (-8,0) -- (7,0) node[right] {};
     
     % Draw tick marks and labels
     \foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
@@ -159,7 +159,7 @@ x    =   2      \\
     \node at (1,1.2) {$x = 1$};
     \node at (1,0.6) {$(-5)(2) < 0$};
     
-    \node at (4,1.8) {$x = -2$};
+    \node at (4,1.8) {$x = 4$};
     \node at (4,1.2) {$(-8)(-1) > 0$};
     
 \end{tikzpicture}
