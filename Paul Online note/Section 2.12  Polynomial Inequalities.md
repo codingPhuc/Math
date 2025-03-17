@@ -171,3 +171,26 @@ x    =   2      \\
 the inequality and  interval  notation  for the solution to this inequality  are    $[-6 ,  2]$
 
 
+
+$$\begin{array}{l}
+( x  + 1)(x  - 3)^2 > 0 \\
+x^2  (x^2  +  4x  -  12   ) ≤0  \\
+x^2(x  +   6) ( x    - 2   )  ≤0 \\
+
+  \left\{
+\begin{array}{l}
+x    -3  =    0  \\
+x^2   =   0     \\
+x  -  2   =   0     \\
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x   =   -  6   \\
+x   =   0     \\
+x    =   2      \\
+\end{array}
+\right.
+\right.
+\end{array}$$
+
