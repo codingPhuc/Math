@@ -46,4 +46,8 @@ we can used test  point to test for  inequalities in   each region  , you should
 
 
 ## practice example 
- 
+$$\begin{array}{l}
+x^2    - 5x  \geq     -6  \\
+x^2  - 5x   +  6  \geq   0   \\
+
+\end{array}$$
