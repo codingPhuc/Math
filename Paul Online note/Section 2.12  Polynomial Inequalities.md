@@ -70,16 +70,20 @@ x    =   -1
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
+
 \begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
     \draw[->] (-4,0) -- (7,0) node[right] {};
     
-    % Draw tick marks
+    % Draw tick marks and labels
     \foreach \x in {-4,-3,-2,-1,0,1,2,3,4,5,6} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
     }
     
-    % Vertical dashed lines
+    % Vertical dashed lines at -2 and 5
     \draw[dashed] (-2,-1.5) -- (-2,1.5);
     \draw[dashed] (5,-1.5) -- (5,1.5);
     
@@ -96,6 +100,7 @@ x    =   -1
     % Red dot at (6,1)
     \fill[red] (6,1) circle (2pt);
 \end{tikzpicture}
-
 \end{document}
+
+
 ```
