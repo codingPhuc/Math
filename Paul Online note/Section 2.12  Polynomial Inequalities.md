@@ -150,14 +150,17 @@ x    =   2      \\
     \draw[dashed] (0,-1.5) -- (0,1.5);
     \draw[dashed] (2,-1.5) -- (2,1.5);
     % Text annotations
+    \node at ( -7,1.8) {$x = -7$};
+    \node at ( -7,1.2) {$(1)(8) >   0$};
+    
     \node at ( -4,1.8) {$x = -4$};
     \node at ( -4,1.2) {$(1)(8) >   0$};
     
     \node at (1,1.2) {$x = 1$};
     \node at (1,0.6) {$(-5)(2) < 0$};
     
-    \node at (-2,1.8) {$x = -2$};
-    \node at (-2,1.2) {$(-8)(-1) > 0$};
+    \node at (4,1.8) {$x = -2$};
+    \node at (4,1.2) {$(-8)(-1) > 0$};
     
 \end{tikzpicture}
 \end{document}
