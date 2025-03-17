@@ -84,8 +84,8 @@ x    =   -1
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (-2,-1.5) -- (-2,1.5);
-    \draw[dashed] (5,-1.5) -- (5,1.5);
+    \draw[dashed] (6,-1.5) -- (6,1.5);
+    \draw[dashed] (-1,-1.5) -- (-1,1.5);
     
     % Text annotations
     \node at (-3,1.8) {$x = -3$};
