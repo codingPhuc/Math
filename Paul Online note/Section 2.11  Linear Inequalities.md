@@ -19,4 +19,5 @@ The next topic will be   **interval  notation**  .  Interval  notation   is very
 
 
 Remember that  `[ ] `  mean that  we include the end point while   `( )`  that we do not include the  end point . for the first four inequality  table interval  notation    is  nothing  more  then a graph  with  a number line on it  . For the  final  four  inequality ,  the  interval  notation  extended to  almost the entire  graph  . Further more ,  infinity does not geta bracket  it only  get  parentheses 
-it is now the time to solve linear  inequality .  In order to do that we will need to used fact for  linear equality  ,  noted that the fact 
+it is now the time to solve linear  inequality .  In order to do that we will need to used fact for  linear equality  ,  noted that the fact are given  for  <  .  We can  , however  write the equivalent amount of  facts for remaining three inequalities
+1.  
