@@ -76,7 +76,7 @@ x \geq  \frac{10}{8}
 $$
 ## Solving double inequation  
 
-to solve a 
+to solve a double  inequation  we need  x as the middle term  , remember that if  there  are any operation to ensure that  only x  remain  in the middle term we need to do the ope
 $$
 \begin{array}{l }
 −6≤2(x−5)<7  \\
