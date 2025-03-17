@@ -131,3 +131,16 @@ then add  everything by 3    $1<2x+ 3<11$
 so  we have  a  =1  and  b  =  11 
 
 # #Practice_Exercise  
+
+ 
+
+
+$$
+\begin{array}{l }
+4(z+2)−1>5−7(4−z)  \\
+  \\
+\frac{-15}{7}    <  3x  <  0    \\
+- \frac{5}{7} < x   <   0   
+\end{array}
+
+$$
