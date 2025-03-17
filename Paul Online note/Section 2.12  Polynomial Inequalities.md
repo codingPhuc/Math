@@ -326,13 +326,13 @@ x   =  3     \\
     \draw[dashed] (3 ,-1.5) -- (3,1.5);
     % Text annotations
     \node at ( -10,1.8) {$x = -10$};
-    \node at ( -10,1.2) {$u^2+4u  - 21$};
+    \node at ( -10,1.2) {$-10^2+4\cdot -10  - 21 $};
     
     \node at ( 1,1.8) {$x = 1$};
-    \node at ( 1,1.2) {$u^2+4u  - 21$};
+    \node at ( 1,1.2) {$1^2+4\cdot  - 21$};
     
     \node at ( 5,1.8) {$x = 5$};
-    \node at (5,1.2) {$u^2+4u  - 21$};
+    \node at (5,1.2) {$5^2+4\cdot 5  - 21$};
     
 \end{tikzpicture}
 \end{document}
