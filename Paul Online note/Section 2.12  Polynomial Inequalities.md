@@ -71,27 +71,30 @@ x    =   -1
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
 \begin{document}
-\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
-
-\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-0.5,xscale=0.5]
-% Plot a convex function on a x-y system
-% Draw the x-axis
-\draw  (0,300) -- (400,300);
-% Draw the y-axis
-\draw  (200,0) -- (200,400);
-% Draw the function
-\draw  [fill=cyan!40!white, draw opacity=1, fill opacity = 0.2][line width=1.1]  (50,50) .. controls (100,300) and (150,300)  .. (250,150) .. controls (300,150)  .. (350,50);
-\draw (150,100) node   {$\mathrm{epi}(f)$};
-
-% Draw a level sets
-\draw [dashed] (90,200) -- (90,300);
-\draw [dashed] (220,200) -- (220,300);
-% Highligh the x-axis from 90 to 220 by drawing a rectangle around it
-\draw [fill=red!40!white, line width=1.1, draw opacity=0, fill opacity=0.2] (90,300-10) rectangle (220,300+10);
-% Put a curly brace to indicate the level set
-\draw [decoration={brace,amplitude=10pt},decorate,xshift=0pt,yshift=0pt] (220,310) -- (90,310) node [black,midway,xshift=0pt,yshift=-20pt] {$\mathrm{level}(\alpha)$};
-
-% ...
+    % Draw x-axis
+    \draw[->] (-4,0) -- (7,0) node[right] {};
+    
+    % Draw tick marks
+    \foreach \x in {-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    
+    % Vertical dashed lines
+    \draw[dashed] (-2,-1.5) -- (-2,1.5);
+    \draw[dashed] (5,-1.5) -- (5,1.5);
+    
+    % Text annotations
+    \node at (-2,1.8) {$x = -3$};
+    \node at (-2,1.2) {(-8)(-1) > 0};
+    
+    \node at (0,1.2) {$x = 0$};
+    \node at (0,0.6) {(-5)(2) < 0};
+    
+    \node at (5,1.8) {$x = 6$};
+    \node at (5,1.2) {(1)(8) > 0};
+    
+    % Red dot at (6,1)
+    \fill[red] (6,1) circle (2pt);
 \end{tikzpicture}
 \end{document}
 ```
