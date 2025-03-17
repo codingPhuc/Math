@@ -225,3 +225,4 @@ x      =   -1       \\
 
 ```
 
+so  unlike the pervious solution  we cannot  combine  the interval  notation  into  one 
