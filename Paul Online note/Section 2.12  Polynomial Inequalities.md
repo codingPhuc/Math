@@ -40,7 +40,7 @@ We have already found the crossing point dividing   each region   ,  by using th
 
 ![[Pasted image 20250317123754.png]]
 ![[Pasted image 20250317124619.png]]
-
+we can used test  point to test for  inequalities in   each region  , you should make these  test point  simple to plug in 
 5. 
 
 
