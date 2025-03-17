@@ -117,4 +117,5 @@ $$
 $$
 the interval  notation     of x is  $(- \frac{5}{7} ,     0 )$ 
 
-It  is  important to note that there can be  error  in the comparison operation used for the inequation .  Like for example the first two equation that we solve above   may switch the <  and $\leq$  to  >  or  $\geq$  so you need to be careful when using c
+It  is  important to note that there can be  error  in the comparison operation used for the inequation .  Like for example the first two equation that we solve above   may switch the <  and $\leq$  to  >  or  $\geq$  so you need to be careful when using  flipping direction of an equation 
+$$−1<x<4$$
