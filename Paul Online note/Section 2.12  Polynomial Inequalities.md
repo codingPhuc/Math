@@ -88,14 +88,14 @@ x    =   -1
     \draw[dashed] (5,-1.5) -- (5,1.5);
     
     % Text annotations
-    \node at (-2,1.8) {$x = -3$};
-    \node at (-2,1.2) {$(-8)(-1) \le  0$};
+    \node at (-3,1.8) {$x = -3$};
+    \node at (-3,1.2) {$(-8)(-1) <  0$};
     
     \node at (0,1.2) {$x = 0$};
-    \node at (0,0.6) {(-5)(2) < 0};
+    \node at (0,0.6) {$(-5)(2) < 0$};
     
     \node at (5,1.8) {$x = 6$};
-    \node at (5,1.2) {(1)(8) > 0};
+    \node at (5,1.2) {$(1)(8) > 0$};
     
 \end{tikzpicture}
 \end{document}
