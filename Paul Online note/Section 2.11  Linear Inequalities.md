@@ -51,3 +51,4 @@ it is now the time to solve linear  inequality .  In order to do that we will ne
    \frac{a}{c} > \frac{b}{c}
    $$
    Multiplying or dividing both sides of an inequality by a **negative** number flips the inequality direction.  
+the first to 
