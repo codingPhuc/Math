@@ -216,9 +216,9 @@ If $0≤x<3$ determine a and b for the inequality :$a≤4x+1<b$
 $$
 \begin{array}{l }
 0≤x<3  \\
-1 \leq     x   + 1 <  4 \\
-11< - 3 x< 23  \\
-\frac{23}{-3} <   x  <      -  \frac{11}{3}\\
+0 \leq     4x   <  12 \\
+1 \leq     4x  +1  <  13 \\
 \end{array}
 
 $$
+so  b is  13 and a is  1 
