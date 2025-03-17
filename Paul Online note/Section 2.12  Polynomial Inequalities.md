@@ -103,4 +103,25 @@ x    =   -1
 
 ```
 
-the inequality and  interval  notation  for the solution to this inequality  are    $[-1 , ]$
+the inequality and  interval  notation  for the solution to this inequality  are    $[-1 ,  6]$
+
+$$\begin{array}{l}
+x^4+4x^3−12x^2 ≤0 \\
+x^2  (x^2     -= ) ≤0  \\
+(x -  6) (x +  1  ) \geq   0  \\
+  \left\{
+\begin{array}{l}
+x -  6 =    0  \\
+x +  1  =   0     \\
+
+\end{array} \\
+\implies
+\left\{
+\begin{array}{l}
+x  =      6 \\  
+x    =   -1    
+
+\end{array}
+\right.
+\right.
+\end{array}$$
