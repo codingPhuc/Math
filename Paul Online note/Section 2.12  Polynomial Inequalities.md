@@ -289,3 +289,6 @@ so the interval notation  for the above  is  $$
 
 # #Practice_Exercise  
 
+
+
+$$u^2+4u≥21$$
