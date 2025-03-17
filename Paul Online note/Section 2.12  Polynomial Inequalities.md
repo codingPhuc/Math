@@ -108,20 +108,20 @@ the inequality and  interval  notation  for the solution to this inequality  are
 $$\begin{array}{l}
 x^4+4x^3−12x^2 ≤0 \\
 x^2  (x^2  +  4x  -  12   ) ≤0  \\
-x^2(x  +   6) (  )  \leq   0  \\
-(x -  6) (x +  1  ) \geq   0  \\
+x^2(x  +   6) ( x    - 2   )  ≤0 \\
+
   \left\{
 \begin{array}{l}
-x -  6 =    0  \\
-x +  1  =   0     \\
-
+x +   6 =    0  \\
+x^2   =   0     \\
+x  -  2   =   0     \\
 \end{array} \\
 \implies
 \left\{
 \begin{array}{l}
-x  =      6 \\  
-x    =   -1    
-
+x   =   -  6   \\
+x   =   0     \\
+x    =   2      \\
 \end{array}
 \right.
 \right.
