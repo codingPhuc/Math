@@ -108,10 +108,15 @@ x    =   -1
 ```tikz
 \documentclass{article}
 \usepackage{tikz}
+\usetikzlibrary{decorations.pathreplacing}
 
 \begin{document}
 
-\pgfversion % This will print your TikZ version
+\begin{tikzpicture}
+  \draw [help lines] grid (3,2);
+  \draw [decorate,decoration={brace,amplitude=10pt},red]
+        (0,0) -- (3,1);
+\end{tikzpicture}
 
 \end{document}
 
