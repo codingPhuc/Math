@@ -18,4 +18,4 @@ The next topic will be   **interval  notation**  .  Interval  notation   is very
 ![[Pasted image 20250316165949.png]]
 
 
-Remember that  `[ ] `  mean that  we include the end point while   `( )`  that we do not include the  end point . for the first four interval graph is  nothing  more  then a  inequality with   a numbe
+Remember that  `[ ] `  mean that  we include the end point while   `( )`  that we do not include the  end point . for the first four inequality graph is  nothing  more  then a graph  with  a number line on it  . For the  final  four  inequality ,  the  
