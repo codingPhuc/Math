@@ -78,7 +78,7 @@ $$
 $$
 \begin{array}{l }
 −6≤2(x−5)<7  \\
-  \leq  <   \\
+  \leq  < 7    \\
 -8x    \leq    -  10    \\
 x \geq  \frac{10}{8}  
 \end{array}
