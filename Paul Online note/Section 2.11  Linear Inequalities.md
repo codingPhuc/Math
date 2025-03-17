@@ -212,3 +212,4 @@ $$
 $$
 so the interval  notation of the above is   $( \frac{23}{-3}, -  \frac{11}{3})$
 
+If $0≤x<3$ determine a and b for the inequality :$a≤4x+1<b$
