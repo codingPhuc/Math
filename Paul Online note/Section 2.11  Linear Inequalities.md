@@ -122,5 +122,4 @@ It  is  important to note that there can be  error  in the comparison operation 
 ###     Find  a  and  b  bases  on the  interval   notation  of x 
 x have an  interval  notation  like $−1<x<4$
 we need to find  or determine    $a<2x+3<b$ 
-if we   add the  start point and end  point  of the x interval into  $2x+3$  we will get the interval of  $2x+3$ 
-
+if we   add the  start point and end  point  of the x interval into  $2x+3$  we will get the interval of  $2x+3$ which is  [1, 15 
