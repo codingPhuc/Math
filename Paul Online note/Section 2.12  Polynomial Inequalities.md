@@ -401,8 +401,8 @@ so the interval notation  for the above  is  $$
 
 
 $$\begin{array}{l }
-x^2+8x+12<0   \\
-(x +  6)(x   +  2  )<0   \\
+4t^2≤15−17t   \\
+4t^2 +17t  - 15  ≤    0      \\
   \left\{
 \begin{array}{l}
 x   = -6   \\
