@@ -102,14 +102,10 @@
             "id": "be10bde1c625cc9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faction.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Faction"
+              "title": "New tab"
             }
           }
         ]
@@ -311,8 +307,8 @@
   },
   "active": "30b50d563073904f",
   "lastOpenFiles": [
-    "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
     "Paul Online note/Section 2.12  Polynomial Inequalities.md",
+    "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
     "Pasted image 20250317124619.png",
     "Pasted image 20250317123754.png",
     "Paul Online note/Section 2.11  Linear Inequalities.md",
