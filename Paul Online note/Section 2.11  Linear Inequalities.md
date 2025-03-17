@@ -76,13 +76,13 @@ x \geq  \frac{10}{8}
 $$
 ## Solving double inequation  
 
-to solve a double  inequation  we need  x as the middle term  , remember that if  there  are any operation to ensure that  only x  remain  in the middle term we need to do the ope
+to solve a double  inequation  we need  x as the middle term  , remember that if  there  are any operation to ensure that  only x  remain  in the middle term we need to do the same operation , on the left and right term 
 $$
 \begin{array}{l }
 −6≤2(x−5)<7  \\
  -6 \leq 2x - 10  < 7    \\
--8x    \leq    -  10    \\
-x \geq  \frac{10}{8}  
+6 \leq 2x   < 17  \\
+6 \leq x   < 17   
 \end{array}
 
 $$
