@@ -119,7 +119,6 @@ the interval  notation     of x is  $(- \frac{5}{7} ,     0 )$
 
 It  is  important to note that there can be  error  in the comparison operation used for the inequation .  Like for example the first two equation that we solve above   may switch the <  and $\leq$  to  >  or  $\geq$  so you need to be careful when using  flipping direction of an equation 
 
-###     Find  a  and  b  bases  on the  interval   notation  of x
-
-
-$$−1<x<4$$
+###     Find  a  and  b  bases  on the  interval   notation  of x 
+x have an  interval  notation  like $−1<x<4$
+we need to find  or determine    $a<2x+3<b$ 
