@@ -126,4 +126,5 @@ if we   add the  start point and end  point  of the x interval into  $2x+3$  we 
 ->  so  a  need to have  an interval of  $( - \infty  ,  1 ]$ and  b  need to have  an interval notation of $[ 11  ,  +\infty   ]$
 
 #material_solution 
-first  we multiply everything by 2    $−2<2x<8$
+first  we multiply everything by 2    $−2<2x<8$ 
+then add  everything by 3  
