@@ -138,7 +138,8 @@ so  we have  a  =1  and  b  =  11
 $$
 \begin{array}{l }
 4(z+2)−1>5−7(4−z)  \\
-  \\
+4z+  8       - 1  >   5  -14  -  7z    \\
+11z   >   \\
 \frac{-15}{7}    <  3x  <  0    \\
 - \frac{5}{7} < x   <   0   
 \end{array}
