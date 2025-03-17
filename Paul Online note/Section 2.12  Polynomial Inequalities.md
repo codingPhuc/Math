@@ -292,6 +292,44 @@ so the interval notation  for the above  is  $$
 
 
 $$\begin{array}{l }
-u2+4u≥21    \\
+u^2+4u≥21   \\
+u^2+4u  - 21≥    0   \\
+   \\
  
 \end{array}$$
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-8,0) -- (7,0) node[right] {};
+    
+    % Draw tick marks and labels
+    \foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    
+    % Vertical dashed lines at -2 and 5
+    \draw[dashed] (1.6,-1.5) -- (1.6,1.5);
+    \draw[dashed] (-1.6 ,-1.5) -- (-1.6,1.5);
+    % Text annotations
+    \node at ( -3,1.8) {$x = -3$};
+    \node at ( -3,1.2) {$3(-3)^2  -   2\cdot -3   - 11 >0$};
+    
+    \node at ( 0,1.8) {$x = 0$};
+    \node at ( 0,1.2) {$3.0^2  -   2 . 0   - 11 <0$};
+    
+    \node at ( 3,1.8) {$x = 3$};
+    \node at (3,1.2) {$3.3^2  -   2 . 3   - 11 >0$};
+    
+\end{tikzpicture}
+\end{document}
+
+
+```
