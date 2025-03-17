@@ -366,7 +366,7 @@ x   =  -2      \\
 
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
-    \draw[->] (-10,0) -- (7,0) node[right] {};
+    \draw[->] (-10,0) -- (1,0) node[right] {};
     
     % Draw tick marks and labels
     \foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1} {
@@ -374,11 +374,11 @@ x   =  -2      \\
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (-6,-1.5) -- (-7,1.5);
-    \draw[dashed] (-2 ,-1.5) -- (3,1.5);
+    \draw[dashed] (-6,-1.5) -- (-6,1.5);
+    \draw[dashed] (-2 ,-1.5) -- (-2,1.5);
     % Text annotations
-    \node at ( -10,1.8) {$x = -10$};
-    \node at ( -10,1.2) {$-10^2+4\cdot -10  - 21 >   0 $};
+    \node at ( -3,1.8) {$x = -3$};
+    \node at ( -3,1.2) {$-10^2+4\cdot -10  - 21 >   0 $};
     
     \node at ( 1,1.8) {$x = 1$};
     \node at ( 1,1.2) {$1^2+4 - 21 < 0   $};
