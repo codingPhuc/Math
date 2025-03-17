@@ -283,3 +283,6 @@ x   =   \frac{2  -   3\sqrt{ 15 }}{6}    \\
 
 ```
 
+so the interval notation  for the above  is  $$
+(-\infty ,\frac{2  -   3\sqrt{ 15 }}{6}  )  \cap (\frac{2  +   3\sqrt{ 15 }}{6} ,  +\infty )$$
+
