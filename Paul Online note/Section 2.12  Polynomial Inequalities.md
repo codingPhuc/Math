@@ -42,8 +42,6 @@ We have already found the crossing point dividing   each region   ,  by using th
 ![[Pasted image 20250317124619.png]]
 we can used test  point to test for  inequalities in   each region  , you should make these  test point  simple to plug in 
 5. Write down the answer  , by  plugging in the point we can see that the middle region  satisfy the  inequality that is  desire for  our  problem . We conclude this  bases on the fact that when we plug in a  point  and it turn  out  lest  than  0   ,   so  if the inequality  is satisfy  for a point in that region  then it is  satisfied for any point in that region  .  As a result , the interval that we need to find is   $(-2 ,  5)$  
-
+```tikz 
+\begin{document} \begin{tikzpicture}[domain=0:4] \draw[very thin,color=gray] (-0.1,-1.1) grid (3.9,3.9); \draw[->] (-0.2,0) -- (4.2,0) node[right] {$x$}; \draw[->] (0,-1.2) -- (0,4.2) node[above] {$f(x)$}; \draw[color=red] plot (\x,\x) node[right] {$f(x) =x$}; \draw[color=blue] plot (\x,{sin(\x r)}) node[right] {$f(x) = \sin x$}; \draw[color=orange] plot (\x,{0.05*exp(\x)}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x$}; \end{tikzpicture} \end{document} 
 ```
-```
-
-$$$$
