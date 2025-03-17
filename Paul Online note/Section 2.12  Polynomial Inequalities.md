@@ -314,10 +314,10 @@ x   =  3     \\
 
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
-    \draw[->] (-8,0) -- (7,0) node[right] {};
+    \draw[->] (-10,0) -- (7,0) node[right] {};
     
     % Draw tick marks and labels
-    \foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
+    \foreach \x in {-10,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
     }
     
@@ -326,13 +326,13 @@ x   =  3     \\
     \draw[dashed] (3 ,-1.5) -- (3,1.5);
     % Text annotations
     \node at ( -10,1.8) {$x = -10$};
-    \node at ( -10,1.2) {$-10^2+4\cdot -10  - 21 $};
+    \node at ( -10,1.2) {$-10^2+4\cdot -10  - 21 >   0 $};
     
     \node at ( 1,1.8) {$x = 1$};
-    \node at ( 1,1.2) {$1^2+4\cdot  - 21$};
+    \node at ( 1,1.2) {$1^2+4 - 21 < 0   $};
     
     \node at ( 5,1.8) {$x = 5$};
-    \node at (5,1.2) {$5^2+4\cdot 5  - 21$};
+    \node at (5,1.2) {$5^2+4\cdot 5  - 21 .)$};
     
 \end{tikzpicture}
 \end{document}
