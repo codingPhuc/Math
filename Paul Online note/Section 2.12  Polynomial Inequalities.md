@@ -403,7 +403,7 @@ so the interval notation  for the above  is  $$
 $$\begin{array}{l }
 4t^2≤15−17t   \\
 4t^2 +17t  - 15  ≤    0   \\
-    \\
+(t + 5) ( 4t   -  3)    \\
   \left\{
 \begin{array}{l}
 x   = -6   \\
