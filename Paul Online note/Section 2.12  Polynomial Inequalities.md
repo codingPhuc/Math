@@ -465,8 +465,8 @@ z =  \frac{12 \pm   \sqrt{   12^2   -  4\cdot  1  \cdot  34 }  }{2}  \\
 z =    6 \pm  \sqrt{ 2 }    \\
   \left\{
 \begin{array}{l}
-x   = -5  \\
-x   =  \frac{3}{4}     \\
+x   =     6 - \sqrt{ 2 }     \\
+x   =      6 +   \sqrt{ 2 }         \\
 \end{array} \\
 \right. 
 \end{array}$$
@@ -489,8 +489,8 @@ x   =  \frac{3}{4}     \\
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (0.75,-1.5) -- (0.75,1.5);
-    \draw[dashed] (-5 ,-1.5) -- (-5,1.5);
+    \draw[dashed] (7.4,-1.5) -- (0.75,1.5);
+    \draw[dashed] (5/,-1.5) -- (-5,1.5);
     % Text annotations
     \node at ( -6,1.8) {$x = -6$};
     \node at ( -6,1.2) {$( -6 + 5) ( 4 \cdot  -6   -  3) \geq  0 $};
