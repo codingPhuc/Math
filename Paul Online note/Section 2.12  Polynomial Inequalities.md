@@ -523,8 +523,8 @@ t^2 (t^2   + t  - 12  ) <  0    \\
   \left\{
 \begin{array}{l}
 t = 0    \\
-x   =  -4  \\
-x  =  3     \\
+t=  -4  \\
+t  =  3     \\
 \end{array} \\
 \right. 
 \end{array}$$
@@ -547,8 +547,9 @@ x  =  3     \\
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (-6,-1.5) -- (-6,1.5);
-    \draw[dashed] (-2 ,-1.5) -- (-2,1.5);
+    \draw[dashed] (0,-1.5) -- (0,1.5);
+    \draw[dashed] (-4 ,-1.5) -- (-4,1.5);0
+    \draw[dashed] (3 ,-1.5) -- (3 ,1.5);
     % Text annotations
     \node at ( -3,1.8) {$x = -3$};
     \node at ( -3,1.2) {$(-3 +  6)(-3  +  2  )<0$};
