@@ -481,7 +481,7 @@ x   =      6 +   \sqrt{ 2 }         \\
 
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
-    \draw[->] (-10,0) -- (4,0) node[right] {};
+    \draw[->] (0,0) -- (9,0) node[right] {};
     
     % Draw tick marks and labels
     \foreach \x in {0,1,2,3,4,5,6,7,8,9} {
@@ -493,13 +493,13 @@ x   =      6 +   \sqrt{ 2 }         \\
     \draw[dashed] (4.5,-1.5) -- (4.5,1.5);
     % Text annotations
     \node at ( 6,1.8) {$x = 6$};
-    \node at ( 6,1.2) {$( -6 + 5) ( 4 \cdot  -6   -  3) \geq  0 $};
+    \node at ( 6,1.2) {$z^2  -  12z +34  >  0 $};
     
     \node at (0,1.8) {$x = 0$};
-    \node at ( 0,1.2) {$(0 + 5) ( 0   -  3)\leq  0 $};
+    \node at ( 0,1.2) {$z^2  -  12  . 0  +34  >  0 $};
     
     \node at ( 2,1.8) {$x = 2$};
-    \node at (2,1.2) {$(2+ 5) ( 4\cdot 2   -  3)\geq  0 $};
+    \node at (2,1.2) {$z^2  -  12z +34  >  0$};
     
 \end{tikzpicture}
 \end{document}
