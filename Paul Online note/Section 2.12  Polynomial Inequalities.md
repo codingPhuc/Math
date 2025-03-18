@@ -513,3 +513,56 @@ x   =      6 +   \sqrt{ 2 }         \\
 
 
 
+
+
+
+
+
+$$\begin{array}{l }
+t^4  +  t^3   - 12t^2 <  0    \\
+t^2 (t^2   + t  - 12  ) <  0     \\
+  \left\{
+\begin{array}{l}
+x   = -6   \\
+x   =  -2      \\
+\end{array} \\
+\right. 
+\end{array}$$
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-10,0) -- (4,0) node[right] {};
+    
+    % Draw tick marks and labels
+    \foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    
+    % Vertical dashed lines at -2 and 5
+    \draw[dashed] (-6,-1.5) -- (-6,1.5);
+    \draw[dashed] (-2 ,-1.5) -- (-2,1.5);
+    % Text annotations
+    \node at ( -3,1.8) {$x = -3$};
+    \node at ( -3,1.2) {$(-3 +  6)(-3  +  2  )<0$};
+    
+    \node at ( 1,1.8) {$x = 1$};
+    \node at ( 1,1.2) {$(1 +  6)(1  +  2  )>0  $};
+    
+    \node at ( -7,1.8) {$x = -7$};
+    \node at (-7,1.2) {$(-7 +  6)(-7   +  2  )>0$};
+    
+\end{tikzpicture}
+\end{document}
+
+
+```
+so the interval notation  for the above  is  $$
+(  -6  , -2 )$$
