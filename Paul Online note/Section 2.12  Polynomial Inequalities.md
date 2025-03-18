@@ -552,13 +552,13 @@ t  =  3     \\
     \draw[dashed] (3 ,-1.5) -- (3 ,1.5);
     % Text annotations
     \node at ( -3,1.8) {$x = -3$};
-    \node at ( -3,1.2) {$(-3 +  6)(-3  +  2  )<0$};
+    \node at ( -3,1.2) {$t^2 ( x+4) (x-3)<0$};
     
     \node at ( 1,1.8) {$x = 1$};
-    \node at ( 1,1.2) {$(1 +  6)(1  +  2  )>0  $};
+    \node at ( 1,1.2) {$t^2 ( x+4) (x-3)>0  $};
     
     \node at ( -7,1.8) {$x = -7$};
-    \node at (-7,1.2) {$(-7 +  6)(-7   +  2  )>0$};
+    \node at (-7,1.2) {$t^2 ( x+4) (x-3)>0$};
     
 \end{tikzpicture}
 \end{document}
