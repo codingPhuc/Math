@@ -433,7 +433,7 @@ x   =  \frac{3}{4}     \\
     \draw[dashed] (0.75,-1.5) -- (0.75,1.5);
     \draw[dashed] (-5 ,-1.5) -- (-5,1.5);
     % Text annotations
-    \node at ( -6,1.8) {$x = -3$};
+    \node at ( -6,1.8) {$x = -6$};
     \node at ( -6,1.2) {$( -6 + 5) ( 4 \cdot  -6   -  3) \geq  0 $};
     
     \node at (0,1.8) {$x = 0$};
@@ -447,6 +447,7 @@ x   =  \frac{3}{4}     \\
 
 
 ```
-so the interval notation  for the above  is  $$
-(  -6  , -2 )$$
- 
+
+ so the interval notation  for the above  is  $$
+[  -5  , \frac{3}{4}    )$$
+
