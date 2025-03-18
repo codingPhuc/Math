@@ -516,15 +516,15 @@ x   =      6 +   \sqrt{ 2 }         \\
 
 
 
-
-
 $$\begin{array}{l }
 t^4  +  t^3   - 12t^2 <  0    \\
-t^2 (t^2   + t  - 12  ) <  0     \\
+t^2 (t^2   + t  - 12  ) <  0    \\
+ t^2 ( x+4) (x-3) <  0  \\
   \left\{
 \begin{array}{l}
-x   = -6   \\
-x   =  -2      \\
+t = 0    \\
+x   =  -4  \\
+x  =  3     \\
 \end{array} \\
 \right. 
 \end{array}$$
