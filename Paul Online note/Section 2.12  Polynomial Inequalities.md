@@ -547,11 +547,15 @@ t  =  3     \\
     }
     
     % Vertical dashed lines at -2 and 5
+    \draw[dashed] (-4 ,-1.5) -- (-4,1.5);
     \draw[dashed] (0,-1.5) -- (0,1.5);
-    \draw[dashed] (-4 ,-1.5) -- (-4,1.5);0
+ 
     \draw[dashed] (3 ,-1.5) -- (3 ,1.5);
     % Text annotations
-    \node at ( -3,1.8) {$x = -3$};
+    \node at (-5 ,1.8) {$x = -5 $};
+    \node at ( -5 ,1.2) {$-5 ^2 ( -5 +4) (-5 -3)> 0$};
+	
+	\node at ( -3,1.8) {$x = -3$};
     \node at ( -3,1.2) {$t^2 ( x+4) (x-3)<0$};
 
 
