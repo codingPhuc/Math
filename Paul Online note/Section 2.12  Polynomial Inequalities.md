@@ -509,8 +509,7 @@ x   =      6 +   \sqrt{ 2 }         \\
 
 
  so the interval notation  for the above  is  $$
-[  -5  , \frac{3}{4}    )$$
-
+(-\infty ,6 - \sqrt{ 2 }   ) \cap (6 + \sqrt{ 2 }  ,  +\infty )$$
 
 
 
