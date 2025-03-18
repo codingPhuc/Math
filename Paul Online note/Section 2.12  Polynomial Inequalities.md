@@ -498,14 +498,15 @@ x   =      6 +   \sqrt{ 2 }         \\
     \node at (0,1.8) {$x = 0$};
     \node at ( 0,1.2) {$0^2  -  12  . 0  +34  >  0 $};
     
-    \node at ( 2,1.8) {$x = 8$};
-    \node at (2,1.2) {$8^2  -  12 \cdot  8  +34  >  0$};
+    \node at (8,1.8) {$x = 8$};
+    \node at (8,1.2) {$8^2  -  12 \cdot  8  +34  <  0$};
     
 \end{tikzpicture}
 \end{document}
 
 
 ```
+
 
  so the interval notation  for the above  is  $$
 [  -5  , \frac{3}{4}    )$$
