@@ -460,7 +460,8 @@ x   =  \frac{3}{4}     \\
 $$\begin{array}{l }
    \\
 z^2+34 >    12z    \\
-z^2  -  12z +34   >     0       \\
+z^2  -  12z +34   >     0   \\
+z =  12 \pm   \sqrt{   12^2   -  4\cdot  1  \cdot  3 }       \\
   \left\{
 \begin{array}{l}
 x   = -5  \\
