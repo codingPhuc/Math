@@ -434,7 +434,7 @@ x   =  \frac{3}{4}     \\
     \draw[dashed] (-5 ,-1.5) -- (-5,1.5);
     % Text annotations
     \node at ( -6,1.8) {$x = -3$};
-    \node at ( -3,1.2) {$(t + 5) ( 4t   -  3)\leq  0 $};
+    \node at ( -6,1.2) {$( -6 + 5) ( 4 \cdot  -6   -  3)\geq  0 $};
     
     \node at ( 1,1.8) {$x = 1$};
     \node at ( 1,1.2) {$(t + 5) ( 4t   -  3)\leq  0 $};
