@@ -484,16 +484,16 @@ x   =      6 +   \sqrt{ 2 }         \\
     \draw[->] (-10,0) -- (4,0) node[right] {};
     
     % Draw tick marks and labels
-    \foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4} {
+    \foreach \x in {0,1,2,3,4,5,6,7,8,9} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (7.4,-1.5) -- (0.75,1.5);
-    \draw[dashed] (5/,-1.5) -- (-5,1.5);
+    \draw[dashed] (7.4,-1.5) -- (7.4,1.5);
+    \draw[dashed] (4.5,-1.5) -- (4.5,1.5);
     % Text annotations
-    \node at ( -6,1.8) {$x = -6$};
-    \node at ( -6,1.2) {$( -6 + 5) ( 4 \cdot  -6   -  3) \geq  0 $};
+    \node at ( 6,1.8) {$x = 6$};
+    \node at ( 6,1.2) {$( -6 + 5) ( 4 \cdot  -6   -  3) \geq  0 $};
     
     \node at (0,1.8) {$x = 0$};
     \node at ( 0,1.2) {$(0 + 5) ( 0   -  3)\leq  0 $};
