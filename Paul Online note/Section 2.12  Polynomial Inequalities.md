@@ -439,8 +439,8 @@ x   =  \frac{3}{4}     \\
     \node at (0,1.8) {$x = 0$};
     \node at ( 0,1.2) {$(0 + 5) ( 0   -  3)\leq  0 $};
     
-    \node at ( -7,1.8) {$x = -7$};
-    \node at (-7,1.2) {$(t + 5) ( 4t   -  3)\geq  0 $};
+    \node at ( 2,1.8) {$x = 2$};
+    \node at (2,1.2) {$(2+ 5) ( 4\cdot 2   -  3)\geq  0 $};
     
 \end{tikzpicture}
 \end{document}
