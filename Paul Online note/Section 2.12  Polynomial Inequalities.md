@@ -570,5 +570,6 @@ t  =  3     \\
 
 
 ```
-so the interval notation  for the above  is  $$
-(  -6  , -2 )$$
+so the interval notation  for the above  is  so the interval notation  for the above  is  $$
+(-4, 0 )   \cap (0,3)$$
+
