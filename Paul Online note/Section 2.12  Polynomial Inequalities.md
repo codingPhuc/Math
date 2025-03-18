@@ -451,3 +451,59 @@ x   =  \frac{3}{4}     \\
  so the interval notation  for the above  is  $$
 [  -5  , \frac{3}{4}    )$$
 
+
+
+
+
+
+
+$$\begin{array}{l }
+   \\
+4t^2 +17t  - 15  ≤    0   \\
+(t + 5) ( 4t   -  3) ≤    0    \\
+  \left\{
+\begin{array}{l}
+x   = -5  \\
+x   =  \frac{3}{4}     \\
+\end{array} \\
+\right. 
+\end{array}$$
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-10,0) -- (4,0) node[right] {};
+    
+    % Draw tick marks and labels
+    \foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    
+    % Vertical dashed lines at -2 and 5
+    \draw[dashed] (0.75,-1.5) -- (0.75,1.5);
+    \draw[dashed] (-5 ,-1.5) -- (-5,1.5);
+    % Text annotations
+    \node at ( -6,1.8) {$x = -6$};
+    \node at ( -6,1.2) {$( -6 + 5) ( 4 \cdot  -6   -  3) \geq  0 $};
+    
+    \node at (0,1.8) {$x = 0$};
+    \node at ( 0,1.2) {$(0 + 5) ( 0   -  3)\leq  0 $};
+    
+    \node at ( 2,1.8) {$x = 2$};
+    \node at (2,1.2) {$(2+ 5) ( 4\cdot 2   -  3)\geq  0 $};
+    
+\end{tikzpicture}
+\end{document}
+
+
+```
+
+ so the interval notation  for the above  is  $$
+[  -5  , \frac{3}{4}    )$$
