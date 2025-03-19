@@ -3,4 +3,4 @@ $$
 \frac{x + 1}{ x - 5} \leq    0  
 
 $$
-We do  not  
+We do  not  solve it the same way we solve rational  expression  . With equation the first thing  we did  
