@@ -181,10 +181,10 @@ so the interval notation  for the above  is  $$
 
 
 $$\begin{array}{l}
-\frac{3x     + 1  }{   x +  4    }  > 1 \\
-\frac{3x     + 1  }{   x +  4    }    -  1 > 0     \\
-\frac{3x     + 1   -  x   -   4   }{   x +  4    }     > 0    \\
-\frac{2x    -   3     }{   x +  4    }     > 0   \\
+\frac{3x     + 1  }{   x +  4    }  \geq 1 \\
+\frac{3x     + 1  }{   x +  4    }    -  1  \geq 0     \\
+\frac{3x     + 1   -  x   -   4   }{   x +  4    }      \geq 0    \\
+\frac{2x    -   3     }{   x +  4    }      \geq 0   \\
   \left\{
 \begin{array}{l} 
 x =  \frac{3}{2} \\
@@ -222,10 +222,10 @@ x  =  -  4    \\
     
 
     \node at ( 0,1.8) {$x = 0$};
-    \node at ( 0,1.2) {$\frac{2.   -5   -   3     }{   -5 +  4    }  <  0   $};
+    \node at ( 0,1.2) {$\frac{2.  0  -   3     }{   0 +  4    }  <  0   $};
 
     \node at ( 6,1.8) {$x = 6$};
-    \node at ( 6,1.2) {$\frac{2x    -   3     }{   x +  4    }  > 0    $};
+    \node at ( 6,1.2) {$\frac{2 .  6    -   3     }{   6 +  4    }  > 0    $};
     
 \end{tikzpicture}
 \end{document}
