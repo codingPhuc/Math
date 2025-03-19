@@ -646,9 +646,9 @@ x  =  0  \\
     \draw[dashed] (6,-1.5) -- (6,1.5);
     % Text annotations
 	\node at ( -5,1.8) {$x = -5$};
-    \node at ( -5,1.2) {$ \frac{t^2 (t   -  6  ) }{t -2  }   < 0  $};
+    \node at ( -5,1.2) {$ \frac{-5^2 (-5  -  6  ) }{-5 -2  }   > 0  $};
     
-    \node at ( 0,1.8) {$x =   0 $};
+    \node at ( 1,1.8) {$x =   1 $};
     \node at ( 0 ,1.2) {$ \frac{t^2 (t   -  6  ) }{t -2  }  > 0   $};
 
 	    
