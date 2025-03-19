@@ -241,8 +241,8 @@ so the interval notation  for the above  is  $$
 
 $$\begin{array}{l}
 \frac{x  -  8    }{   x   }  \leq   3  - x    \\
-\frac{x  -  8    }{   x   }  \leq   3  - x     \\
-\frac{3x     + 1   -  x   -   4   }{   x +  4    }      \geq 0    \\
+\frac{x  -  8    }{   x   }  +  x  - 3   \leq  0     \\
+\frac{x  -  8    +   x^2   - 3x   }{   x   }   \leq  0    \\
 \frac{2x    -   3     }{   x +  4    }      \geq 0   \\
   \left\{
 \begin{array}{l} 
