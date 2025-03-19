@@ -9,4 +9,5 @@ Since we do not  know  if the denominator will be a positive or negative value  
 2. the second step is to factor   the  numerator and the denominator   
 3. the third step  is to determine  where  both the numerator and denominator are  0  
  for the example above we  have   numerator :$x=−1$ denominator : $x=5$ 
- 
+ there are two  reason  why we need the  to find the 0   value  in both the denominator and numerator   :  
+	1.  the first reasond
