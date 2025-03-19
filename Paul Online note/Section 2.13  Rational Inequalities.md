@@ -52,5 +52,4 @@ so the interval notation  for the above  is  $$
 [-1 ,5 ) $$
 
 
-
-#  definition  
+##  solving ine
