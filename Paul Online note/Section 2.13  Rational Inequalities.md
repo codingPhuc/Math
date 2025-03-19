@@ -389,13 +389,10 @@ x  =     7  \\
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (2,-1.5) -- (-2 ,1.5);
-    \draw[dashed] (0,-1.5) -- (0,1.5);
-    \draw[dashed] (4 ,-1.5) -- (4,1.5);
+    \draw[dashed] (2.5,-1.5) -- (2.5 ,1.5);
+    \draw[dashed] (7,-1.5) -- (7,1.5);
     % Text annotations
-	\node at ( -5,1.8) {$x = -5$};
-    \node at ( -5,1.2) {$\frac{ (-5  -  4  ) (-5 +  2  )    }{   -5   }  > 0  $};
-    
+
     \node at ( -1,1.8) {$x = -1$};
     \node at ( -1,1.2) {$\frac{ (-1 -  4  ) (-1+  2  )    }{   -1   }  >   0   $};
 
