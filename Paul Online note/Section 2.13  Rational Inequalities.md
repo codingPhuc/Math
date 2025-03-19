@@ -546,7 +546,7 @@ so the interval notation  for the above  is  $$
 $$\begin{array}{l}
 u  \leq   \frac{4}{u  - 3 }       \\
 u  - \frac{4}{u  - 3 }      \leq       0   \\
-\frac{3x+8  + 2x    -2     }{   x  -1     }  +   <    0    \\
+ \frac{  u^2     -3u   -  4}{u  - 3 }   \\
 \frac{5x+6     }{   x  -1     }    <    0     \\ 
   \left\{
 \begin{array}{l} 
