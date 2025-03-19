@@ -8,4 +8,5 @@ Since we do not  know  if the denominator will be a positive or negative value  
 1. the first step  is to  get zero  on  one side 
 2. the second step is to factor   the  numerator and the denominator   
 3. the third step  is to determine  where  both the numerator and denominator are  0  
-numerator :$x=−1$ denominator : x=5
+ for the example above we  have   numerator :$x=−1$ denominator : $x=5$ 
+ 
