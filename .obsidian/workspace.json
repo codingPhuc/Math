@@ -201,7 +201,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -309,8 +310,9 @@
       }
     ]
   },
-  "active": "9b3f64ef23927a5f",
+  "active": "5c035cef5ff54e6b",
   "lastOpenFiles": [
+    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "Paul Online note/Factoring Polynomials.md",
     "Paul Online note/Radicals.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
@@ -323,7 +325,6 @@
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
     "Pasted image 20250317124619.png",
     "Pasted image 20250317123754.png",
-    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "Pasted image 20250316165949.png",
     "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
     "Paul Online note/Rational  Expression.md",
