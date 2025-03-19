@@ -613,10 +613,10 @@ $$\begin{array}{l}
 \frac{t^2 (t   -  6  ) }{t -2  }    >0   \\
   \left\{
 \begin{array}{l} 
-x =  4 \\
+x =  6 \\
 
-x  = 3 \\ 
-x  =  -1  \\
+x  = 2 \\ 
+x  =  0  \\
 \end{array} \\
 
 \right.
@@ -641,22 +641,22 @@ x  =  -1  \\
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (-1,-1.5) -- (-1 ,1.5);
-    \draw[dashed] (3,-1.5) -- (3,1.5);
-    \draw[dashed] (4,-1.5) -- (4,1.5);
+    \draw[dashed] (0,-1.5) -- (0 ,1.5);
+    \draw[dashed] (2,-1.5) -- (2,1.5);
+    \draw[dashed] (6,-1.5) -- (6,1.5);
     % Text annotations
 	\node at ( -5,1.8) {$x = -5$};
-    \node at ( -5,1.2) {$ \frac{ (   -5   -4) ( -5  + 1  )}{-5 - 3 }  < 0  $};
+    \node at ( -5,1.2) {$ \frac{t^2 (t   -  6  ) }{t -2  }   < 0  $};
     
     \node at ( 0,1.8) {$x =   0 $};
-    \node at ( 0 ,1.2) {$ \frac{ (   0   -4) ( 0   + 1  )}{0  - 3 }  > 0   $};
+    \node at ( 0 ,1.2) {$ \frac{t^2 (t   -  6  ) }{t -2  }  > 0   $};
 
 	    
     \node at ( 3.5,1.8) {$x =   03.5$};
-    \node at ( 3.5 ,1.2) {$ \frac{ (   3.5  -4) ( 3.5 + 1  )}{3.5  - 3 }  <  0   $};
+    \node at ( 3.5 ,1.2) {$ \frac{t^2 (t   -  6  ) }{t -2  }   <  0   $};
     
 	\node at ( 6,1.8) {$x =  6$};
-    \node at ( 6 ,1.2) {$ \frac{ (   6   -4) ( 6  + 1  )}{6 - 3 }  >   0   $};
+    \node at ( 6 ,1.2) {$ \frac{t^2 (t   -  6  ) }{t -2  }  >   0   $};
     
 
     
