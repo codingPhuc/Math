@@ -512,21 +512,19 @@ x  =  1  \\
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (-2,-1.5) -- (-2 ,1.5);
-    \draw[dashed] (0,-1.5) -- (0,1.5);
-    \draw[dashed] (4 ,-1.5) -- (4,1.5);
+    \draw[dashed] (-1.2,-1.5) -- (-1.2 ,1.5);
+    \draw[dashed] (1,-1.5) -- (1,1.5);
     % Text annotations
 	\node at ( -5,1.8) {$x = -5$};
     \node at ( -5,1.2) {$\frac{ (-5  -  4  ) (-5 +  2  )    }{   -5   }  > 0  $};
     
-    \node at ( -1,1.8) {$x = -1$};
-    \node at ( -1,1.2) {$\frac{ (-1 -  4  ) (-1+  2  )    }{   -1   }  >   0   $};
+    \node at ( 0,1.8) {$x =   0 $};
+    \node at ( 0 ,1.2) {$\frac{ (-1 -  4  ) (-1+  2  )    }{   -1   }  >   0   $};
 
 	\node at ( 2,1.8) {$x =  2$};
     \node at ( 2 ,1.2) {$\frac{ (2 -  4  ) (2 +  2  )    }{   2  } <  0   $};
     
-    \node at ( 6,1.8) {$x = 6$};
-    \node at ( 6,1.2) {$\frac{ (6  -  4  ) (6 +  2  )    }{   6   }  > 0    $};
+
     
 \end{tikzpicture}
 \end{document}
