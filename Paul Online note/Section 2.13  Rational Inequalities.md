@@ -10,5 +10,5 @@ Since we do not  know  if the denominator will be a positive or negative value  
 3. the third step  is to determine  where  both the numerator and denominator are  0  
  for the example above we  have   numerator :$x=−1$ denominator : $x=5$ 
  there are two  reason  why we need the  to find the 0   value  in both the denominator and numerator   :  
-	1.  the first reason is that we need to find the region  where the sign change  bases  on the mark  point  of  our   [[Section 2.12  Polynomial Inequalities]]  
-	2. 
+	1.  the first reason is that we need to find the region  where the rational  expression may change sign  similar too   [[Section 2.12  Polynomial Inequalities]]  
+	2. the second reason  is that we nee
