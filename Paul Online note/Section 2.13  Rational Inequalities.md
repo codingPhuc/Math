@@ -187,9 +187,9 @@ $$\begin{array}{l}
 \frac{2x    -   3     }{   x +  4    }     > 0   \\
   \left\{
 \begin{array}{l} 
-x =  -4  \\
-x  =  +  4    \\
-x  =    1     \\
+x =  \frac{3}{2} \\
+x  =  -  4    \\
+
 \end{array} \\
 
 \right.
@@ -214,9 +214,8 @@ x  =    1     \\
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (-4,-1.5) -- (-4,1.5);
-    \draw[dashed] (1 ,-1.5) -- (1  ,1.5); 
-    \draw[dashed] (4 ,-1.5) -- (4,1.5);
+    \draw[dashed] (1.5,-1.5) -- (1.5,1.5);
+    \draw[dashed] (-4 ,-1.5) -- (-4,1.5);
     % Text annotations
 	\node at ( -5,1.8) {$x = -5$};
     \node at ( -5,1.2) {$\frac{(-5 +  4) ( -5 -4  )}{ (-5 -  1 )^2    }  > 0  $};
