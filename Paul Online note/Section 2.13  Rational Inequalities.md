@@ -481,14 +481,12 @@ so the interval notation  for the above  is  $$
 $$\begin{array}{l}
 \frac{3x+8    }{   x  -1     } < -2     \\
 \frac{3x+8    }{   x  -1     }  + 2  <    0    \\
-\frac{x  -  8    +   x^2   - 3x   }{   x   }   \leq  0    \\
-\frac{  x^2   - 2x   -8    }{   x   }   \leq  0  \\
-\frac{ (x  -  4  ) (x +  2  )    }{   x   }   \leq  0  \\ \\ 
+\frac{3x+8  + 2x    -2     }{   x  -1     }  +   <    0    \\
+\frac{5x+6     }{   x  -1     }  +   <    0     \\ 
   \left\{
 \begin{array}{l} 
-x =  4 \\
-x  =  - 2   \\
-x   =   0      \\
+x =  -\frac{6}{5} \\
+x  =  1  \\
 
 \end{array} \\
 
