@@ -87,9 +87,10 @@ x  = 1    \\
     
     % Vertical dashed lines at -2 and 5
     \draw[dashed] (-1,-1.5) -- (-1,1.5);
-    \draw[dashed] (5 ,-1.5) -- (5,1.5);
+    \draw[dashed] (-3 ,-1.5) -- (-3  ,1.5); 
+    \draw[dashed] (1 ,-1.5) -- (1,1.5);
     % Text annotations
-    \node at ( -2,1.8) {$x = -2$};
+    \node at ( 2,1.8) {$x = 2$};
     \node at ( -2,1.2) {$ \frac{-1}{7}  > 0    $};
     
     \node at ( 0,1.8) {$x = 0$};
