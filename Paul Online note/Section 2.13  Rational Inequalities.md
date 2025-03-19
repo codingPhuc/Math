@@ -55,9 +55,8 @@ so the interval notation  for the above  is  $$
 ##  solving inequalities for  polynomial  in rational expression  
 
 $$\begin{array}{l}
-\frac{x^2  + 4x  +  3}{ }  > 0 \\
- x =  \frac{1\pm   \sqrt{ 34  }}{  3}   \\
-
+\frac{x^2  + 4x  +  3}{ x -  1   }  > 0 \\
+\frac{(x  + 1) ( x + 3  )}{ x -  1   }  > 0    \\
   \left\{
 \begin{array}{l}
 x   =  \frac{1 - \sqrt{ 34  }}{  3}    \\
