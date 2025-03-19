@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 2.13  Rational Inequalities.md",
+                "file": "Paul Online note/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 2.13  Rational Inequalities"
+              "title": "Untitled"
             }
           },
           {
@@ -201,8 +201,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "floating": {
@@ -312,9 +311,10 @@
   },
   "active": "5c035cef5ff54e6b",
   "lastOpenFiles": [
+    "Paul Online note/Section 2.13  Rational Inequalities.md",
+    "Paul Online note/Untitled.md",
     "Paul Online note/Section 2.12  Polynomial Inequalities.md",
     "Paul Online note/Factoring Polynomials.md",
-    "Paul Online note/Section 2.13  Rational Inequalities.md",
     "Paul Online note/Section 2.11  Linear Inequalities.md",
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
     "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
@@ -340,7 +340,6 @@
     "Professor Leonard/x 6.7 Word Problem.md",
     "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
     "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
-    "Professor Leonard/7.5 Solving Rational Equations (Equations with Rational Expressions).md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Pasted Image 20250226155530_564.png",
