@@ -655,8 +655,8 @@ x  =  0  \\
     \node at ( 3,1.8) {$x =   3$};
     \node at ( 3 ,1.2) {$ \frac{3^2 (3  -  6  ) }{3 -2  }   <  0   $};
     
-	\node at ( 6,1.8) {$x =  6$};
-    \node at ( 6 ,1.2) {$ \frac{t^2 (t   -  6  ) }{t -2  }  >   0   $};
+	\node at ( 7,1.8) {$x =  7$};
+    \node at ( 7 ,1.2) {$ \frac{7^2 (7   -  6  ) }{7 -2  }  >   0   $};
     
 
     
@@ -666,6 +666,6 @@ x  =  0  \\
 
 ```
 so the interval notation  for the above  is  $$
-( -\infty  ,   -1     ]    \cap ( 3   ,4]      $$
+( -\infty  ,   -2    )    \cap ( 3   ,4]      $$
 
 
