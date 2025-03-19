@@ -359,12 +359,11 @@ so the interval notation  for the above  is  $$
 
 $$\begin{array}{l}
 \frac{2z - 5     }{  z   - 7     }  \leq 0    \\
-\frac{2z - 5     }{  z   - 7     }  \leq 0   \\
+
   \left\{
 \begin{array}{l} 
-x =  4 \\
-x  =  - 2   \\
-x   =   0      \\
+x =  \frac{5}{2} \\
+x  =     7  \\
 
 \end{array} \\
 
@@ -390,7 +389,7 @@ x   =   0      \\
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (-2,-1.5) -- (-2 ,1.5);
+    \draw[dashed] (2,-1.5) -- (-2 ,1.5);
     \draw[dashed] (0,-1.5) -- (0,1.5);
     \draw[dashed] (4 ,-1.5) -- (4,1.5);
     % Text annotations
