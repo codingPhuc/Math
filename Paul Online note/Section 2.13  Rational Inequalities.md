@@ -11,4 +11,42 @@ Since we do not  know  if the denominator will be a positive or negative value  
  for the example above we  have   numerator :$x=−1$ denominator : $x=5$ 
  there are two  reason  why we need the  to find the 0   value  in both the denominator and numerator   :  
 	1.  the first reason is that we need to find the region  where the rational  expression may change sign  similar too   [[Section 2.12  Polynomial Inequalities]]  
-	2. the second reason  is that we need to figure  out  where to  avoid  value that  make the 
+	2. the second reason  is that we need to figure  out  where to  avoid  value that  make the denominator  0    
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-10,0) -- (7,0) node[right] {};
+    
+    % Draw tick marks and labels
+    \foreach \x in {-10,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    
+    % Vertical dashed lines at -2 and 5
+    \draw[dashed] (-7,-1.5) -- (-7,1.5);
+    \draw[dashed] (3 ,-1.5) -- (3,1.5);
+    % Text annotations
+    \node at ( -10,1.8) {$x = -10$};
+    \node at ( -10,1.2) {$-10^2+4\cdot -10  - 21 >   0 $};
+    
+    \node at ( 1,1.8) {$x = 1$};
+    \node at ( 1,1.2) {$1^2+4 - 21 < 0   $};
+    
+    \node at ( 5,1.8) {$x = 5$};
+    \node at (5,1.2) {$5^2+4\cdot 5  - 21 >  0 $};
+    
+\end{tikzpicture}
+\end{document}
+
+
+```
+so the interval notation  for the above  is  $$
+(-\infty ,-7   ]  \cap [3 ,  +\infty )$$
+
