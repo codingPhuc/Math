@@ -34,7 +34,7 @@ Since we do not  know  if the denominator will be a positive or negative value  
     \draw[dashed] (3 ,-1.5) -- (3,1.5);
     % Text annotations
     \node at ( -10,1.8) {$x = -10$};
-    \node at ( -10,1.2) {$-10^2+4\cdot -10  - 21 >   0 $};
+    \node at ( -10,1.2) {$ x +  1 >   0 $};
     
     \node at ( 1,1.8) {$x = 1$};
     \node at ( 1,1.2) {$1^2+4 - 21 < 0   $};
