@@ -603,6 +603,71 @@ x  =  -1  \\
 
 ```
 so the interval notation  for the above  is  $$
-( -\infty  ,   -1     )       $$
+( -\infty  ,   -1     ]    \cap ( 3   ,4]      $$
+
+
+
+
+$$\begin{array}{l}
+u  \leq   \frac{4}{u  - 3 }       \\
+u  - \frac{4}{u  - 3 }      \leq       0   \\
+ \frac{  u^2     -3u   -  4}{u  - 3 }   \\
+ \frac{ (   u   -4) ( u   + 1  )}{u  - 3 }   \\  \\
+  \left\{
+\begin{array}{l} 
+x =  4 \\
+
+x  = 3 \\ 
+x  =  -1  \\
+\end{array} \\
+
+\right.
+\end{array}$$
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    
+    % Vertical dashed lines at -2 and 5
+    \draw[dashed] (-1,-1.5) -- (-1 ,1.5);
+    \draw[dashed] (3,-1.5) -- (3,1.5);
+    \draw[dashed] (4,-1.5) -- (4,1.5);
+    % Text annotations
+	\node at ( -5,1.8) {$x = -5$};
+    \node at ( -5,1.2) {$ \frac{ (   -5   -4) ( -5  + 1  )}{-5 - 3 }  < 0  $};
+    
+    \node at ( 0,1.8) {$x =   0 $};
+    \node at ( 0 ,1.2) {$ \frac{ (   0   -4) ( 0   + 1  )}{0  - 3 }  > 0   $};
+
+	    
+    \node at ( 3.5,1.8) {$x =   03.5$};
+    \node at ( 3.5 ,1.2) {$ \frac{ (   3.5  -4) ( 3.5 + 1  )}{3.5  - 3 }  <  0   $};
+    
+	\node at ( 6,1.8) {$x =  6$};
+    \node at ( 6 ,1.2) {$ \frac{ (   6   -4) ( 6  + 1  )}{6 - 3 }  >   0   $};
+    
+
+    
+\end{tikzpicture}
+\end{document}
+
+
+```
+so the interval notation  for the above  is  $$
+( -\infty  ,   -1     ]    \cap ( 3   ,4]      $$
 
 
