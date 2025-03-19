@@ -201,8 +201,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "floating": {
@@ -310,7 +309,7 @@
       }
     ]
   },
-  "active": "5c035cef5ff54e6b",
+  "active": "9b3f64ef23927a5f",
   "lastOpenFiles": [
     "Paul Online note/Factoring Polynomials.md",
     "Paul Online note/Radicals.md",
