@@ -609,10 +609,8 @@ so the interval notation  for the above  is  $$
 
 
 $$\begin{array}{l}
-u  \leq   \frac{4}{u  - 3 }       \\
-u  - \frac{4}{u  - 3 }      \leq       0   \\
- \frac{  u^2     -3u   -  4}{u  - 3 }   \\
- \frac{ (   u   -4) ( u   + 1  )}{u  - 3 }   \\  \\
+\frac{t^3−6t^2}{t -2  }    >0  \\
+\frac{t^2 (t   -  6  ) }{t -2  }    >0   \\
   \left\{
 \begin{array}{l} 
 x =  4 \\
