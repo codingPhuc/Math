@@ -52,4 +52,19 @@ so the interval notation  for the above  is  $$
 [-1 ,5 ) $$
 
 
-##  solving ine
+##  solving inequalities for  polynomial  in rational expression  
+
+$$\begin{array}{l}
+\frac{x^2  + 4x  +  3}{ }  > 0 \\
+ x =  \frac{1\pm   \sqrt{ 34  }}{  3}   \\
+
+  \left\{
+\begin{array}{l}
+x   =  \frac{1 - \sqrt{ 34  }}{  3}    \\
+x   =  \frac{1 +    \sqrt{ 34  }}{  3}     \\
+\end{array} \\
+
+\right.
+\end{array}$$
+
+
