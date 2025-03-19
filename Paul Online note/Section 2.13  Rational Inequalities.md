@@ -1,2 +1,1 @@
-
-
+in this chapter we will be solving  rational  inequation  .
