@@ -174,10 +174,14 @@ so the interval notation  for the above  is  $$
 
 
 
+##  Don't have zero   at one side of the  inequation  
+
+
+
 
 
 $$\begin{array}{l}
-\frac{x^2    -  16 }{ (x -  1 )^2    }  > 0 \\
+\frac{3x     + 1  }{   x +  4    }  > 1 \\
 \frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0    \\
   \left\{
 \begin{array}{l} 
@@ -232,4 +236,3 @@ x  =    1     \\
 ```
 so the interval notation  for the above  is  $$
 (-4  ,   1   )    \cap (1 ,   4  )    $$
-
