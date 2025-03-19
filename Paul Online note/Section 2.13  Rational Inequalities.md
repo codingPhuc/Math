@@ -152,14 +152,15 @@ x  =    1     \\
 	\node at ( -5,1.8) {$x = -5$};
     \node at ( -5,1.2) {$\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0  $};
     
-    \node at ( -2,1.8) {$x = -2$};
-    \node at ( -2,1.2) {$\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0    $};
-    
+
     \node at ( 0,1.8) {$x = 0$};
     \node at ( 0,1.2) {$\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0   $};
     
     \node at ( 2,1.8) {$x = 2$};
     \node at ( 2,1.2) {$\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0    $};
+    
+    \node at ( 6,1.8) {$x = -2$};
+    \node at ( ,1.2) {$\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0    $};
     
 \end{tikzpicture}
 \end{document}
