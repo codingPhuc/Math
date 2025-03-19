@@ -4,4 +4,4 @@ $$
 
 $$
 We do  not  solve it the same way we solve rational  expression  . With equation the first thing  we did  was  clear out the denominator by  multiplying it  with the less  common denominator  .   However    , that solution will not work  this  time  
-Since we do not  know  if the denominator will be a p
+Since we do not  know  if the denominator will be a positive or negative value   ,  because  if we were to  multiply  the   sign of the comparator will switch  side 
