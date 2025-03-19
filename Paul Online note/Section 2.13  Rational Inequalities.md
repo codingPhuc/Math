@@ -233,4 +233,4 @@ x  =  -  4    \\
 
 ```
 so the interval notation  for the above  is  $$
-(-4  ,   1   )    \cap (1 ,   4  )    $$
+(  - \infty    ,    -  4     )    \cap \left( \frac{3}{2} ,   4   \right)    $$
