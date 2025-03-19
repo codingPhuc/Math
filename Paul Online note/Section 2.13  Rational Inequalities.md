@@ -408,4 +408,4 @@ x  =     7  \\
 
 ```
 so the interval notation  for the above  is  $$
-(  0   ,    4     ]      $$
+[  \frac{5}{2} ,    7     )      $$
