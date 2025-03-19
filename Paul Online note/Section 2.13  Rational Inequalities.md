@@ -150,17 +150,17 @@ x  =    1     \\
     \draw[dashed] (4 ,-1.5) -- (4,1.5);
     % Text annotations
 	\node at ( -5,1.8) {$x = -5$};
-    \node at ( -5,1.2) {$\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0  $};
+    \node at ( -5,1.2) {$\frac{(-5 +  4) ( -5 -4  )}{ (-5 -  1 )^2    }  > 0  $};
     
 
     \node at ( 0,1.8) {$x = 0$};
-    \node at ( 0,1.2) {$\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0   $};
+    \node at ( 0,1.2) {$\frac{(0 +  4) ( 0  -4  )}{ (0 -  1 )^2    }  <  0   $};
     
     \node at ( 2,1.8) {$x = 2$};
-    \node at ( 2,1.2) {$\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0    $};
+    \node at ( 2,1.2) {$\frac{(2 +  4) ( 2  -4  )}{ (x -  1 )^2    }  > 0    $};
     
-    \node at ( 6,1.8) {$x = -2$};
-    \node at ( ,1.2) {$\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0    $};
+    \node at ( 6,1.8) {$x = 6$};
+    \node at ( 6,1.2) {$\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0    $};
     
 \end{tikzpicture}
 \end{document}
