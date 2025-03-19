@@ -304,17 +304,12 @@ so the interval notation  for the above  is  $$
 
 
 $$\begin{array}{l}
-\frac{x  -  8    }{   x   }  \leq   3  - x    \\
-\frac{x  -  8    }{   x   }  +  x  - 3   \leq  0     \\
-\frac{x  -  8    +   x^2   - 3x   }{   x   }   \leq  0    \\
-\frac{  x^2   - 2x   -8    }{   x   }   \leq  0  \\
-\frac{ (x  -  4  ) (x +  2  )    }{   x   }   \leq  0  \\ \\ 
+\frac{4  -  x    }{   x   +  3   }  > 0     \\
+
   \left\{
 \begin{array}{l} 
 x =  4 \\
-x  =  - 2   \\
-x   =   0      \\
-
+x  =   -  3     \\
 \end{array} \\
 
 \right.
