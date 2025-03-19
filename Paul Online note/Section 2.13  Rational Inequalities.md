@@ -108,4 +108,4 @@ x  = 1    \\
 
 ```
 so the interval notation  for the above  is  $$
-[-1 ,5 ) $$
+(1 ,    +  ) $$
