@@ -547,12 +547,13 @@ $$\begin{array}{l}
 u  \leq   \frac{4}{u  - 3 }       \\
 u  - \frac{4}{u  - 3 }      \leq       0   \\
  \frac{  u^2     -3u   -  4}{u  - 3 }   \\
-\frac{5x+6     }{   x  -1     }    <    0     \\ 
+ \frac{ (   u   -4) ( u   + 1  )}{u  - 3 }   \\  \\
   \left\{
 \begin{array}{l} 
-x =  -\frac{6}{5} \\
-x  =  1  \\
+x =  4 \\
 
+x  = 3 \\ 
+x  =  -1  \\
 \end{array} \\
 
 \right.
