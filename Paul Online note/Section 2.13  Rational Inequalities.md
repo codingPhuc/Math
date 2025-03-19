@@ -91,13 +91,13 @@ x  = 1    \\
     \draw[dashed] (1 ,-1.5) -- (1,1.5);
     % Text annotations
     \node at ( 2,1.8) {$x = 2$};
-    \node at ( -2,1.2) {$ \frac{-1}{7}  > 0    $};
+    \node at ( 2,1.2) {$\frac{(2  + 1) ( 2+ 3  )}{ 2 -  1   }  >0    $};
     
     \node at ( 0,1.8) {$x = 0$};
-    \node at ( 0,1.2) {$\frac{-1}{5}  > 0      $};
+    \node at ( 0,1.2) {$\frac{(x  + 1) ( x + 3  )}{ x -  1   }  > 0  $};
     
     \node at ( 6,1.8) {$x = 6$};
-    \node at (6,1.2) {$7 >  0 $};
+    \node at (6,1.2) {$\frac{(x  + 1) ( x + 3  )}{ x -  1   } >  0   $};
     
 \end{tikzpicture}
 \end{document}
