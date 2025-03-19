@@ -182,7 +182,9 @@ so the interval notation  for the above  is  $$
 
 $$\begin{array}{l}
 \frac{3x     + 1  }{   x +  4    }  > 1 \\
-\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0    \\
+\frac{3x     + 1  }{   x +  4    }    -  1 > 0     \\
+\frac{3x     + 1   -  x   -   4   }{   x +  4    }     > 0    \\
+\frac{2x    -   3     }{   x +  4    }     > 0   \\
   \left\{
 \begin{array}{l} 
 x =  -4  \\
