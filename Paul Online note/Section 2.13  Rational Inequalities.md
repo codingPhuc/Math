@@ -394,13 +394,13 @@ x  =     7  \\
     % Text annotations
 
     \node at ( -1,1.8) {$x = -1$};
-    \node at ( -1,1.2) {$\frac{2z - 5     }{  z   - 7     } >   0   $};
+    \node at ( -1,1.2) {$\frac{2. -1  - 5     }{  -1  - 7     } >   0   $};
     
     \node at ( 6,1.8) {$x = 6$};
-    \node at ( 6,1.2) {$\frac{2z - 5     }{  z   - 7     } >   0 > 0    $};
+    \node at ( 6,1.2) {$\frac{2. 6 - 5     }{  6  - 7     } < 0    $};
     
     \node at ( 9,1.8) {$x = 9$};
-    \node at ( 9,1.2) {$\frac{2z - 5     }{  z   - 7     } >   0 > 0    $};
+    \node at ( 9,1.2) {$\frac{2. 9 - 5     }{  9   - 7     }  > 0    $};
     
 \end{tikzpicture}
 \end{document}
