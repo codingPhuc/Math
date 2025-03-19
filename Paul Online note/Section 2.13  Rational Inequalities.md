@@ -7,5 +7,5 @@ We do  not  solve it the same way we solve rational  expression  . With equation
 Since we do not  know  if the denominator will be a positive or negative value   ,  because  if we were to  multiply  the   sign of the comparator will switch  side  leading  to  un predictable out  come  for  our equation  . To make thing  worse , recall that the solution of x  for the equation can be  both  positive and negative 
 1. the first step  is to  get zero  on  one side 
 2. the second step is to factor   the  numerator and the denominator   
-3. the third step  is to determine  where both the numerator and denominator are  0  
-4. 
+3. the third step  is to determine  where  both the numerator and denominator are  0  
+numerator :$x=−1$ denominator : x=5
