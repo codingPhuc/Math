@@ -1,3 +1,4 @@
+# #definition   
 in this chapter we will be solving  rational  inequation  .   It is the same process as solving  [[Section 2.12  Polynomial Inequalities]] 
 $$
 \frac{x + 1}{ x - 5} \leq    0  
@@ -34,7 +35,7 @@ Since we do not  know  if the denominator will be a positive or negative value  
     \draw[dashed] (5 ,-1.5) -- (5,1.5);
     % Text annotations
     \node at ( -2,1.8) {$x = -2$};
-    \node at ( -2,1.2) {$ \frac{-1}{7}  > 0    0 $};
+    \node at ( -2,1.2) {$ \frac{-1}{7}  > 0    $};
     
     \node at ( 0,1.8) {$x = 0$};
     \node at ( 0,1.2) {$\frac{-1}{5}  > 0      $};
@@ -52,3 +53,4 @@ so the interval notation  for the above  is  $$
 
 
 
+#  definition  
