@@ -603,6 +603,6 @@ x  =  -1  \\
 
 ```
 so the interval notation  for the above  is  $$
-( -\frac{6}{5}  ,   1     )      $$
+( -\infty  ,   -1     )       $$
 
 
