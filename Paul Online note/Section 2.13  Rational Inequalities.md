@@ -30,10 +30,10 @@ Since we do not  know  if the denominator will be a positive or negative value  
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (-7,-1.5) -- (-7,1.5);
-    \draw[dashed] (3 ,-1.5) -- (3,1.5);
+    \draw[dashed] (-1,-1.5) -- (-1,1.5);
+    \draw[dashed] (5 ,-1.5) -- (5,1.5);
     % Text annotations
-    \node at ( -10,1.8) {$x = -10$};
+    \node at ( -10,1.8) {$x = -2$};
     \node at ( -10,1.2) {$ x +  1 >   0 $};
     
     \node at ( 1,1.8) {$x = 1$};
