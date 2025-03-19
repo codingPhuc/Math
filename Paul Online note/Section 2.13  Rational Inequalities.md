@@ -666,6 +666,6 @@ x  =  0  \\
 
 ```
 so the interval notation  for the above  is  $$
-( -\infty  ,   -2    )    \cap ( 3   ,4]      $$
+  ( -\infty  , 0    )    \cap   ( 0  , -2    )  \cap ( 6   ,+\infty )     $$
 
 
