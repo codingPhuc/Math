@@ -338,13 +338,13 @@ x  =   -  3     \\
     \draw[dashed] (4 ,-1.5) -- (4,1.5);
     % Text annotations
 	\node at ( -5,1.8) {$x = -5$};
-    \node at ( -5,1.2) {$\frac{4  -  -5   }{   -5  +  3   } > 0  $};
+    \node at ( -5,1.2) {$\frac{4  +  5   }{   -5  +  3   } <  0  $};
     
 	\node at ( 2,1.8) {$x =  2$};
-    \node at ( 2 ,1.2) {$\frac{4  -  x    }{   x   +  3   } <  0   $};
+    \node at ( 2 ,1.2) {$\frac{4  -  2   }{   2   +  3   } >   0   $};
     
     \node at ( 6,1.8) {$x = 6$};
-    \node at ( 6,1.2) {$\frac{4  -  x    }{   x   +  3   } > 0    $};
+    \node at ( 6,1.2) {$\frac{4  -  6    }{   6   +  3   } < 0    $};
     
 \end{tikzpicture}
 \end{document}
