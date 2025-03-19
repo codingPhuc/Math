@@ -477,15 +477,18 @@ so the interval notation  for the above  is  $$
 
 
 
+
 $$\begin{array}{l}
-\frac{  w^2+5w−6    }{   w   -3     }     
-≥  0  \\
- \frac{ ( w  +   6)  ( w -1  )   }{   w   -3     }  \\ 
+\frac{3x+8    }{   x  -1     } < -2     \\
+\frac{3x+8    }{   x  -1     }  + 2  <    0    \\
+\frac{x  -  8    +   x^2   - 3x   }{   x   }   \leq  0    \\
+\frac{  x^2   - 2x   -8    }{   x   }   \leq  0  \\
+\frac{ (x  -  4  ) (x +  2  )    }{   x   }   \leq  0  \\ \\ 
   \left\{
 \begin{array}{l} 
-x =  3 \\
-x  =  - 6 \\
-x   =   1       \\
+x =  4 \\
+x  =  - 2   \\
+x   =   0      \\
 
 \end{array} \\
 
@@ -511,24 +514,21 @@ x   =   1       \\
     }
     
     % Vertical dashed lines at -2 and 5
-    \draw[dashed] (-6,-1.5) -- (-6 ,1.5);
-    \draw[dashed] (1,-1.5) -- (1,1.5);
-    \draw[dashed] (3 ,-1.5) -- (3,1.5);
+    \draw[dashed] (-2,-1.5) -- (-2 ,1.5);
+    \draw[dashed] (0,-1.5) -- (0,1.5);
+    \draw[dashed] (4 ,-1.5) -- (4,1.5);
     % Text annotations
-	    
-    \node at ( -7,1.8) {$x = -7$};
-    \node at ( -7,1.2) {$ \frac{ ( -7  +   6)  ( -7 -1  )   }{  -7   -3     }  <   0   $};
-
-	
 	\node at ( -5,1.8) {$x = -5$};
-    \node at ( -5,1.2) {$ \frac{ ( -5  +   6)  ( -5 -1  )   }{  -5  -3     }   > 0  $};
-
+    \node at ( -5,1.2) {$\frac{ (-5  -  4  ) (-5 +  2  )    }{   -5   }  > 0  $};
+    
+    \node at ( -1,1.8) {$x = -1$};
+    \node at ( -1,1.2) {$\frac{ (-1 -  4  ) (-1+  2  )    }{   -1   }  >   0   $};
 
 	\node at ( 2,1.8) {$x =  2$};
-    \node at ( 2 ,1.2) {$ \frac{ ( 2  +   6)  ( 2 -1  )   }{   2   -3     }  <  0   $};
+    \node at ( 2 ,1.2) {$\frac{ (2 -  4  ) (2 +  2  )    }{   2  } <  0   $};
     
     \node at ( 6,1.8) {$x = 6$};
-    \node at ( 6,1.2) {$ \frac{ ( 6  +   6)  ( 6 -1  )   }{   6   -3     }   < 0    $};
+    \node at ( 6,1.2) {$\frac{ (6  -  4  ) (6 +  2  )    }{   6   }  > 0    $};
     
 \end{tikzpicture}
 \end{document}
@@ -536,4 +536,4 @@ x   =   1       \\
 
 ```
 so the interval notation  for the above  is  $$
-[  -6  ,    1    ]      $$
+(  0   ,    4     ]      $$
