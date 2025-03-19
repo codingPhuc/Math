@@ -168,4 +168,67 @@ x  =    1     \\
 
 ```
 so the interval notation  for the above  is  $$
-(-  ,      )    \cap (1 ,    + \infty  )    $$
+(-4  ,   1   )    \cap (1 ,   4  )    $$
+
+
+
+
+
+
+
+$$\begin{array}{l}
+\frac{x^2    -  16 }{ (x -  1 )^2    }  > 0 \\
+\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0    \\
+  \left\{
+\begin{array}{l} 
+x =  -4  \\
+x  =  +  4    \\
+x  =    1     \\
+\end{array} \\
+
+\right.
+\end{array}$$
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    
+    % Vertical dashed lines at -2 and 5
+    \draw[dashed] (-4,-1.5) -- (-4,1.5);
+    \draw[dashed] (1 ,-1.5) -- (1  ,1.5); 
+    \draw[dashed] (4 ,-1.5) -- (4,1.5);
+    % Text annotations
+	\node at ( -5,1.8) {$x = -5$};
+    \node at ( -5,1.2) {$\frac{(-5 +  4) ( -5 -4  )}{ (-5 -  1 )^2    }  > 0  $};
+    
+
+    \node at ( 0,1.8) {$x = 0$};
+    \node at ( 0,1.2) {$\frac{(0 +  4) ( 0  -4  )}{ (0 -  1 )^2    }  <  0   $};
+    
+    \node at ( 2,1.8) {$x = 2$};
+    \node at ( 2,1.2) {$\frac{(2 +  4) ( 2  -4  )}{ (2 -  1 )^2    }  <  0    $};
+    
+    \node at ( 6,1.8) {$x = 6$};
+    \node at ( 6,1.2) {$\frac{(6 +  4) ( 6   -4  )}{ (6  -  1 )^2    }  > 0    $};
+    
+\end{tikzpicture}
+\end{document}
+
+
+```
+so the interval notation  for the above  is  $$
+(-4  ,   1   )    \cap (1 ,   4  )    $$
