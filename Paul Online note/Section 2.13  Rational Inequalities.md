@@ -157,10 +157,10 @@ x  =    1     \\
     \node at ( 0,1.2) {$\frac{(0 +  4) ( 0  -4  )}{ (0 -  1 )^2    }  <  0   $};
     
     \node at ( 2,1.8) {$x = 2$};
-    \node at ( 2,1.2) {$\frac{(2 +  4) ( 2  -4  )}{ (x -  1 )^2    }  > 0    $};
+    \node at ( 2,1.2) {$\frac{(2 +  4) ( 2  -4  )}{ (2 -  1 )^2    }  <  0    $};
     
     \node at ( 6,1.8) {$x = 6$};
-    \node at ( 6,1.2) {$\frac{(x +  4) ( x  -4  )}{ (x -  1 )^2    }  > 0    $};
+    \node at ( 6,1.2) {$\frac{(6 +  4) ( 6   -4  )}{ (6  -  1 )^2    }  > 0    $};
     
 \end{tikzpicture}
 \end{document}
@@ -168,4 +168,4 @@ x  =    1     \\
 
 ```
 so the interval notation  for the above  is  $$
-(-3  ,  -1    )    \cap (1 ,    + \infty  )    $$
+(-  ,      )    \cap (1 ,    + \infty  )    $$
