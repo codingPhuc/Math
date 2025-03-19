@@ -414,13 +414,13 @@ so the interval notation  for the above  is  $$
 
 
 $$\begin{array}{l}
-\frac{  x^2   - 2x   -8    }{   x   }   \leq  0  \\
-\frac{ (x  -  4  ) (x +  2  )    }{   x   }   \leq  0  \\ \\ 
+\frac{  w^2+5w−6    }{   w   -3     }   \leq  0  \\
+ \frac{ ( w  +   6)  ( w -1  )   }{   w   -3     }  \\ 
   \left\{
 \begin{array}{l} 
-x =  4 \\
-x  =  - 2   \\
-x   =   0      \\
+x =  3 \\
+x  =  - 6 \\
+x   =   1       \\
 
 \end{array} \\
 
