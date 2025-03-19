@@ -233,4 +233,63 @@ x  =  -  4    \\
 
 ```
 so the interval notation  for the above  is  $$
-(  - \infty    ,    -  4     )    \cap \left( \frac{3}{2} ,   4   \right)    $$
+(  - \infty    ,    -  4     )    \cap \left[\frac{3}{2} ,   \infty \right)    $$
+
+
+
+
+
+$$\begin{array}{l}
+\frac{x  -  8    }{   x   }  \leq   3  - x    \\
+\frac{x  -  8    }{   x   }  \leq   3  - x     \\
+\frac{3x     + 1   -  x   -   4   }{   x +  4    }      \geq 0    \\
+\frac{2x    -   3     }{   x +  4    }      \geq 0   \\
+  \left\{
+\begin{array}{l} 
+x =  \frac{3}{2} \\
+x  =  -  4    \\
+
+\end{array} \\
+
+\right.
+\end{array}$$
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    
+    % Vertical dashed lines at -2 and 5
+    \draw[dashed] (1.5,-1.5) -- (1.5,1.5);
+    \draw[dashed] (-4 ,-1.5) -- (-4,1.5);
+    % Text annotations
+	\node at ( -5,1.8) {$x = -5$};
+    \node at ( -5,1.2) {$\frac{2 .  -5    -   3     }{   -5 +  4    }   > 0  $};
+    
+
+    \node at ( 0,1.8) {$x = 0$};
+    \node at ( 0,1.2) {$\frac{2.  0  -   3     }{   0 +  4    }  <  0   $};
+
+    \node at ( 6,1.8) {$x = 6$};
+    \node at ( 6,1.2) {$\frac{2 .  6    -   3     }{   6 +  4    }  > 0    $};
+    
+\end{tikzpicture}
+\end{document}
+
+
+```
+so the interval notation  for the above  is  $$
+(  - \infty    ,    -  4     )    \cap \left[\frac{3}{2} ,   \infty \right)    $$
