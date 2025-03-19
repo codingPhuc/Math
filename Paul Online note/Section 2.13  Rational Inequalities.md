@@ -3,4 +3,5 @@ $$
 \frac{x + 1}{ x - 5} \leq    0  
 
 $$
-We do  not  solve it the same way we solve rational  expression  . With equation the first thing  we did  was  clear out the denominator by  multiplying it  with the less  common denominator  .   However    , that solution wi
+We do  not  solve it the same way we solve rational  expression  . With equation the first thing  we did  was  clear out the denominator by  multiplying it  with the less  common denominator  .   However    , that solution will not work  this  time  
+Since we do not  know  if the denominator will be a p
