@@ -33,11 +33,11 @@ Since we do not  know  if the denominator will be a positive or negative value  
     \draw[dashed] (-1,-1.5) -- (-1,1.5);
     \draw[dashed] (5 ,-1.5) -- (5,1.5);
     % Text annotations
-    \node at ( -10,1.8) {$x = -2$};
-    \node at ( -10,1.2) {$ x +  1 >   0 $};
+    \node at ( -2,1.8) {$x = -2$};
+    \node at ( -2,1.2) {$ \frac{-1}{7}  > 0    0 $};
     
     \node at ( 1,1.8) {$x = 1$};
-    \node at ( 1,1.2) {$1^2+4 - 21 < 0   $};
+    \node at ( 1,1.2) {$\frac{-1}{5}  > 0      $};
     
     \node at ( 5,1.8) {$x = 5$};
     \node at (5,1.2) {$5^2+4\cdot 5  - 21 >  0 $};
@@ -49,4 +49,4 @@ Since we do not  know  if the denominator will be a positive or negative value  
 ```
 so the interval notation  for the above  is  $$
 (-\infty ,-7   ]  \cap [3 ,  +\infty )$$
-
+$\frac{-1}{7}$
