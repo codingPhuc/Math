@@ -1,1 +1,1 @@
-we will  look at equation  a
+we will  look at equation  and  inequialitiest
