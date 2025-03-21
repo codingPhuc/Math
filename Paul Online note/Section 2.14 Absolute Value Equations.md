@@ -19,3 +19,4 @@ $$
     -p, & \text{if } p < 0
 \end{cases}
 $$
+this tell us to drop the absolute  notati
