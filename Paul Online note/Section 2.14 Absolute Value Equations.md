@@ -221,8 +221,8 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
-x   =  \frac{1}{4} \\
-x   =  -\frac{3}{2} \\
+x   = -2 \\
+x   =  0 \\
 
 \end{array} \\
 \right.
@@ -230,3 +230,4 @@ x   =  -\frac{3}{2} \\
 
 $$
 we will get  a solution on the other side but it is a  negative sign  causing the equation to fail  
+even  thought  there are  two  solution  
