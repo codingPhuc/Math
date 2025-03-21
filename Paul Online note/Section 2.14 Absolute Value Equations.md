@@ -122,11 +122,10 @@ x  =    \frac{7}{5}\\
 $$
 ## where  b is  zero or negative  
 $$\begin{array}{l}
-\mid 10x−3 \mid   = 9   \\
+\mid 10x−3 \mid   = 0    \\
  \left\{
 \begin{array}{l} 
-2x  -  5 =  - 9  \\
-2x  -  5  =  +   9     \\
+10x    =   3  
 
 \end{array} \\
 
@@ -134,8 +133,25 @@ $$\begin{array}{l}
 \implies
  \left\{
 \begin{array}{l} 
-x   =  -2  \\
-x  =   7    \\
+x   =  \frac{3}{10}
+
+\end{array} \\
+
+\right.
+\end{array} $$
+$$\begin{array}{l}
+\mid 10x−3 \mid   = 0    \\
+ \left\{
+\begin{array}{l} 
+10x    =   3  
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x   =  \frac{3}{10}
 
 \end{array} \\
 
