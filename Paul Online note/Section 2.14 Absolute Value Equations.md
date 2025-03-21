@@ -147,6 +147,8 @@ $$\begin{array}{l}
 \end{array} $$ there is  $|p|≥0$ .  In other word  ,  we cannot get a  negative value out   of the absolute value.  That is  what the equation is saying .   As a result , there  is  **no  solution** to this equation 
 
 
+##    absolute   values   other than one  real value 
 
+at this  point we have look at number that a
 
 
