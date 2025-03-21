@@ -82,7 +82,7 @@ x  =   7    \\
 \left\{
 \begin{array}{l} 
  1-  3t = 20  \\
- 1-  3t =  +20     \\
+ 1-  3t = - 20    \\
 
 \end{array} \\
 
@@ -90,8 +90,8 @@ x  =   7    \\
 \implies
  \left\{
 \begin{array}{l} 
-x   =  -2  \\
-x  =   7    \\
+x   =  -\frac{19}{3}   \\
+x  =   7 \\
 
 \end{array} \\
 
