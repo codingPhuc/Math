@@ -2,5 +2,6 @@ we will  look at equation  and   inequation  that  contain absolute value .  We 
 we need to discuss that the  notation for absolute  value is  p  and $\mid p \mid$ note  that the bar for  absolute value is  not parentheses 
 
 ##  Geometric Definition 
-In this definition  we are going to thing  of  $asb$
+In this definition  we are going to thing  of  $\mid p \mid$ as  the distance of p from the origin  on the number line   . Also  , we will  always  use a positive value for distance 
+ ![[Pasted image 20250320194833.png]] 
  
