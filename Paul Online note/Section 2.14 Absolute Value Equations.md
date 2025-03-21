@@ -4,4 +4,7 @@ we need to discuss that the  notation for absolute  value is  p  and $\mid p \mi
 ##  Geometric Definition 
 In this definition  we are going to thing  of  $\mid p \mid$ as  the distance of p from the origin  on the number line   . Also  , we will  always  use a positive value for distance 
  ![[Pasted image 20250320194833.png]] 
- 
+ from this  we can get the following  absolute value 
+ $$
+ \mid  2 \mid 
+ $$
