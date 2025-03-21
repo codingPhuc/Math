@@ -70,10 +70,14 @@ $$\begin{array}{l}
 \implies
  \left\{
 \begin{array}{l} 
-2x  -  5 =  - 9  \\
-2x  -  5  =  +   9     \\
+x   =  -2  \\
+x  =   7    \\
 
 \end{array} \\
 
 \right.
-\end{array} $$$$|1−3t|=20$$
+\end{array} $$$$
+\begin{array}
+
+\end{array}
+$$
