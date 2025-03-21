@@ -41,3 +41,7 @@ don't make the assumption that positive will make all the negative sign  into  p
 $$
 \mid  4x    -3  \mid     \neq  4x  + 3  
 $$
+this equation   answer is not true , to prove it let plug in  some number 
+$$
+\mid  4x    -3  \mid     \neq  4x  + 3  
+$$
