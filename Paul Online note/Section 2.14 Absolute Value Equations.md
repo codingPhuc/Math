@@ -184,3 +184,5 @@ x   =  -\frac{3}{2} \\
 \end{array} \\
 \right.
 \end{array} $$
+
+note  however that  if we plug  in t 
