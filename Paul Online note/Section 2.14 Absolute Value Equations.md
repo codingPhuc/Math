@@ -21,3 +21,11 @@ $$
 $$
 this tell us to drop the absolute  notation for p  if it is  positive , if it negative then add a negative sign  at the beginning 
 So  here are a couple of quick example   
+$$
+\begin{aligned}
+    |4| &= 4 \quad &\text{because } 4 \geq 0 \\
+    |-8| &= -(-8) = 8 \quad &\text{because } -8 < 0 \\
+    |0| &= 0 \quad &\text{because } 0 \geq 0
+\end{aligned}
+$$
+
