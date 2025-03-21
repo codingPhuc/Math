@@ -189,8 +189,9 @@ note  however that  if we plug  in  the solution  $x  =-\frac{3}{2}$  into the e
 because if we plug it into the equation  
 $$
 \begin{array}{l}
-|-\frac{3}{2} −2|=3(-\frac{3}{2})+1      \\
-
+|-\frac{3}{2} −2|=3\left( -\frac{3}{2} \right)+1      \\
+\frac{7}{2      } \neq   -\frac{7}{2}
 \end{array}
 
 $$
+we will get  a solution on the other side but it is a  negative sign  causing the equation to fail  
