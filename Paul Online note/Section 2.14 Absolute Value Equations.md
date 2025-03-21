@@ -46,4 +46,6 @@ $$
 7=|−7|=|4(−1)−3|≠4(−1)+3=−1
 $$
 1.  the two number when  evaluated  are not the same  
-2. second the number 
+2. second the number on the right is negative while the number on  the left is positive  
+
+it's  now  time to start solve equation that contain  absolute value   
