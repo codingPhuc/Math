@@ -178,8 +178,8 @@ $$\begin{array}{l}
 \implies
  \left\{
 \begin{array}{l} 
-x   =  \frac{5}{} \\
-2x  -  5  = 3x+1  \\
+x   =  \frac{6}{5} \\
+x   =  -6 \\
 
 \end{array} \\
 \right.
