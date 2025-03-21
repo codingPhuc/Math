@@ -161,8 +161,8 @@ $$\begin{array}{l}
 |x−2|=3x+1   \\
  \left\{
 \begin{array}{l} 
-2x  -  5 =  - (3x+1) \\
-2x  -  5  = 3x+1  \\
+x−2=  - (3x+1) \\
+x−2 = 3x+1  \\
 
 \end{array} \\
 
@@ -170,16 +170,16 @@ $$\begin{array}{l}
 \implies
  \left\{
 \begin{array}{l} 
-2x  -  5 =   -  3x  +  1 \\
-2x  -  5  = 3x+1  \\
+x−2 =   -  3x  +  1 \\
+x−2  = 3x+1  \\
 
 \end{array} \\
 \right.    
 \implies
  \left\{
 \begin{array}{l} 
-x   =  \frac{6}{5} \\
-x   =  -6 \\
+x   =  \frac{1}{4} \\
+x   =  -\frac{3}{2} \\
 
 \end{array} \\
 \right.
