@@ -43,5 +43,7 @@ $$
 $$
 this equation   answer is not true , to prove it let plug in  some number 
 $$
-\mid  4x    -3  \mid     \neq  4x  + 3  
+7=|−7|=|4(−1)−3|≠4(−1)+3=−1
 $$
+1.  the two number when  evaluated  are not the same  
+2. second the number 
