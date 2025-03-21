@@ -54,4 +54,6 @@ Now, if we think of this from a geometric point of view this means that whatever
 
 $$p=−4\;  or\; p=4$$
 Now  , if you think of it  we can do  this  for any positive number  not including  4 leading to the following formula  for the equation 
-$$If |p|=b,b>0then p=−bor p=b$$
+$$If  \; |p|=b,b>0 \;then \;p=−b\;or p=b$$ this only  apply if b is a p
+## solve each of the following eqation 
+
