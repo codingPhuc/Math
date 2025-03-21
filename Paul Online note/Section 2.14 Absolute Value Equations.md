@@ -37,4 +37,6 @@ regardless of the value of    p
 
 we  need to  be careful to not miss used the definition of this value  .  for example  we cannot used the definition on  
 $$\mid -x \mid   $$because  we don't know if x is positive or negative 
+don't make the assumption that positive will make all the negative sign  into  positive one   for example 
+
 
