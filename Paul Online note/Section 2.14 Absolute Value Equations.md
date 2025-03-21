@@ -113,10 +113,31 @@ $$
  \left\{
 \begin{array}{l} 
 x   =  \frac{9}{5}  \\
-x  =    \frac{7}{}\\
+x  =    \frac{7}{5}\\
 
 \end{array} \\
 
 \right.
 \end{array}
 $$
+## where  b is  zero or negative  
+$$\begin{array}{l}
+\mid 10x−3 \mid   = 9   \\
+ \left\{
+\begin{array}{l} 
+2x  -  5 =  - 9  \\
+2x  -  5  =  +   9     \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x   =  -2  \\
+x  =   7    \\
+
+\end{array} \\
+
+\right.
+\end{array} $$
