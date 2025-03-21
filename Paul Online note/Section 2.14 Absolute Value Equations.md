@@ -48,4 +48,4 @@ $$
 1.  the two number when  evaluated  are not the same  
 2. second the number on the right is negative while the number on  the left is positive  
 
-it's  now  time to start solve equation that contain  absolute value   
+Now, if we think of this from a geometric point of view this means that whatever pp is it must have a distance of 4 from the origin. Well there are only two numbers that have a distance of 4 from the origin, namely 4 and -4. So, there are two solutions to this equation,
