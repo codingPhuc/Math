@@ -77,7 +77,24 @@ x  =   7    \\
 
 \right.
 \end{array} $$$$
-\begin{array}
+\begin{array}{l}
+\mid 1-  3t  \mid   =  20   \\
+\left\{
+\begin{array}{l} 
+ 1-  3t = 20  \\
+ 1-  3t =  +20     \\
 
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x   =  -2  \\
+x  =   7    \\
+
+\end{array} \\
+
+\right.
 \end{array}
 $$
