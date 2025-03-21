@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "e6df2463ff62fd84",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-20 19.34.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-20 19.34.24.excalidraw"
+            }
+          },
+          {
             "id": "f669a7acd8d235bf",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -310,10 +322,11 @@
       }
     ]
   },
-  "active": "5c035cef5ff54e6b",
+  "active": "e6df2463ff62fd84",
   "lastOpenFiles": [
-    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
+    "Excalidraw/Drawing 2025-03-20 19.34.24.excalidraw.md",
+    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "mathwiki/Proof in Math.md",
     "Paul Online note/Section 2.13  Rational Inequalities.md",
     "Paul Online note/Section 2.12  Polynomial Inequalities.md",
@@ -340,7 +353,6 @@
     "Professor Leonard/x 7.1 Rational Function.md",
     "mathwiki/README.md",
     "Professor Leonard/x 6.7 Word Problem.md",
-    "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
     "Pasted Image 20250226155530_564.png",
