@@ -10,4 +10,4 @@ In this definition  we are going to thing  of  $\mid p \mid$ as  the distance of
  $$
  
 ## mathematic Definition  
-we can  also  give a strict mathematical  formula   for  definition 
+we can  also  give a strict mathematical  formula   for  definition abs
