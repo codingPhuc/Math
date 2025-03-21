@@ -59,5 +59,21 @@ $$If  \; |p|=b,b>0 \;then \;p=−b\;or p=b$$ this only  apply if b is a posit
 
 $$\begin{array}{l}
 \mid 2x  -  5  \mid   = 9   \\
+ \left\{
+\begin{array}{l} 
+2x  -  5 =  - 9  \\
+2x  -  5  =  +   9     \\
 
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+2x  -  5 =  - 9  \\
+2x  -  5  =  +   9     \\
+
+\end{array} \\
+
+\right.
 \end{array} $$$$|1−3t|=20$$

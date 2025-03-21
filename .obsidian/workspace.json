@@ -39,12 +39,14 @@
             "id": "e6df2463ff62fd84",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-20 19.34.24.excalidraw.md"
+                "file": "Paul Online note/Section 2.13  Rational Inequalities.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-20 19.34.24.excalidraw"
+              "icon": "lucide-file",
+              "title": "Section 2.13  Rational Inequalities"
             }
           },
           {
@@ -324,15 +326,15 @@
   },
   "active": "5c035cef5ff54e6b",
   "lastOpenFiles": [
-    "mathwiki/latex.md",
-    "Paul Online note/Section 2.14 Absolute Value Equations.md",
-    "Pasted image 20250320194833.png",
+    "Paul Online note/Section 2.13  Rational Inequalities.md",
     "Excalidraw/Drawing 2025-03-20 19.34.24.excalidraw.md",
-    "Paul Online note/Section 2.12  Polynomial Inequalities.md",
     "Paul Online note/Factoring Polynomials.md",
+    "Paul Online note/Section 2.14 Absolute Value Equations.md",
+    "mathwiki/latex.md",
+    "Pasted image 20250320194833.png",
+    "Paul Online note/Section 2.12  Polynomial Inequalities.md",
     "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "mathwiki/Proof in Math.md",
-    "Paul Online note/Section 2.13  Rational Inequalities.md",
     "Paul Online note/Section 2.11  Linear Inequalities.md",
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
     "Paul Online note/Radicals.md",
