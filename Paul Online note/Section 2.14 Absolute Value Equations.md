@@ -162,7 +162,7 @@ $$\begin{array}{l}
  \left\{
 \begin{array}{l} 
 2x  -  5 =  - (3x+1) \\
-2x  -  5  =  +   9     \\
+2x  -  5  = 3x+1  \\
 
 \end{array} \\
 
@@ -170,10 +170,17 @@ $$\begin{array}{l}
 \implies
  \left\{
 \begin{array}{l} 
-x   =  -2  \\
-x  =   7    \\
+2x  -  5 =   -  3x  +  1 \\
+2x  -  5  = 3x+1  \\
 
 \end{array} \\
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x   =  \frac{5}{} \\
+2x  -  5  = 3x+1  \\
 
+\end{array} \\
 \right.
 \end{array} $$
