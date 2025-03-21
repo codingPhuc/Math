@@ -6,5 +6,5 @@ In this definition  we are going to thing  of  $\mid p \mid$ as  the distance of
  ![[Pasted image 20250320194833.png]] 
  from this  we can get the following  absolute value 
  $$
- \mid  2 \mid 
+ \mid  2 \mid  = 2     \;  \mid -3 \mid  = 3  \; \mid \frac{9}{2} \mid   
  $$
