@@ -28,4 +28,5 @@ $$
     |0| &= 0 \quad &\text{because } 0 \geq 0
 \end{aligned}
 $$
-
+note that we used the same definition  for  geometric interpretation 
+one way to think of  absolute value is that it  input  put a  number and make it positive 
