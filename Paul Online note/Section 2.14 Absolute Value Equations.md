@@ -19,4 +19,4 @@ $$
     -p, & \text{if } p < 0
 \end{cases}
 $$
-this tell us to drop the absolute  notati
+this tell us to drop the absolute  notation for p  if it is  positive , if it negative then add a negative sign  at the beginning 
