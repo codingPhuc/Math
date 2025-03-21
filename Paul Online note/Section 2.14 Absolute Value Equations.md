@@ -2,3 +2,6 @@ we will  look at equation  and   inequation  that  contain absolute value .  We 
 
 
 what absolute value is  ?  the  notion  for absolute value of   p  is  
+$$
+abs
+$$
