@@ -278,7 +278,7 @@ Let’s first check x   =  $-\frac{4}{3 }$
 
 $$|2\left( -\frac{4}{3 } \right)  - 1 |=|4\left( -\frac{4}{3 } \right)+9|\implies  \frac{11}{3 }  = \frac{11}{3}$$
 In the case the quantities inside the absolute value were the same number but opposite signs. However, upon taking the absolute value we got the same number and so x=−43x=−43 is a solution. Now, let’s check $x=−5$.
-$$|2\cdot  -   - 1 |=|4x+9|$$
+$$|2\cdot  - 5   - 1 |=|4\cdot  - 5+9| \implies 11  =11 $$
 In the case we got the same value inside the absolute value bars.
 
 So, as suggested above both answers did in fact work and both are solutions to the equation.
