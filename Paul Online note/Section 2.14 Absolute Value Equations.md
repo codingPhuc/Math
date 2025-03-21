@@ -124,4 +124,4 @@ $$
 $$\begin{array}{l}
 \mid 15x  + 9  \mid   = -3 \\
 
-\end{array} $$ there is  $|p|≥0$ .  In other word we  cannot get  a  ne
+\end{array} $$ there is  $|p|≥0$ .  In other word  ,  we cannot get a  negative value out   of the absolute value.  That is  what the equation is saying .   As a result , there  
