@@ -161,7 +161,7 @@ $$\begin{array}{l}
 |x−2|=3x+1   \\
  \left\{
 \begin{array}{l} 
-2x  -  5 =  - 9  \\
+2x  -  5 =  - (3x+1) \\
 2x  -  5  =  +   9     \\
 
 \end{array} \\
