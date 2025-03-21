@@ -232,9 +232,18 @@ $$
 we will get  a solution on the other side but it is a  negative sign  causing the equation to fail  
 even  thought  there are  two  solution  there  is not  solution  that  contradict  the equation when  plug  in so  we can take both  solution  x = -2  and  x = 0  
 
+
+
+
+
+This case looks very different from any of the previous problems we’ve worked to this point and in this case the formula we’ve been using doesn’t really work at all. However, if we think about this a little we can see that we’ll still do something similar here to get a solution.
+
+Both sides of the equation contain absolute values and so the only way the two sides are equal will be if the two quantities inside the absolute value bars are equal or equal but with opposite signs. Or in other words, we must have,
+
+
 $$
 \begin{array}{l}
-|4x+3|=3−x   \\
+|2x   - 1 |=3−x   \\
 \left\{
 \begin{array}{l} 
 4x+3 =  - (3−x ) \\
@@ -262,3 +271,17 @@ x   =  0 \\
 \end{array}
 
 $$
+
+Now, we won’t need to verify our solutions here as we did in the previous two parts of this problem. Both with be solutions provided we solved the two equations correctly. However, it will probably be a good idea to verify them anyway just to show that the solution technique we used here really did work properly.
+
+Let’s first check x=−43x=−43.
+
+∣∣∣2(−43)−1∣∣∣?=∣∣∣4(−43)+9∣∣∣∣∣∣−113∣∣∣?=∣∣∣113∣∣∣113=113OK|2(−43)−1|=?⁡|4(−43)+9||−113|=?⁡|113|113=113OK
+
+In the case the quantities inside the absolute value were the same number but opposite signs. However, upon taking the absolute value we got the same number and so x=−43x=−43 is a solution. Now, let’s check x=−5x=−5.
+
+|2(−5)−1|?=|4(−5)+9||−11|?=|−11|11=11OK|2(−5)−1|=?⁡|4(−5)+9||−11|=?⁡|−11|11=11OK
+
+In the case we got the same value inside the absolute value bars.
+
+So, as suggested above both answers did in fact work and both are solutions to the equation.
