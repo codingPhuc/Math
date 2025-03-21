@@ -195,3 +195,38 @@ $$
 
 $$
 we will get  a solution on the other side but it is a  negative sign  causing the equation to fail  
+
+
+
+
+$$
+\begin{array}{l}
+|4x+3|=3−x   \\
+\left\{
+\begin{array}{l} 
+4x+3 =  - (3−x ) \\
+4x+3= 3−x   \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x−2 =   -  3x  +  1 \\
+x−2  = 3x+1  \\
+
+\end{array} \\
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x   =  \frac{1}{4} \\
+x   =  -\frac{3}{2} \\
+
+\end{array} \\
+\right.
+\end{array}
+
+$$
+we will get  a solution on the other side but it is a  negative sign  causing the equation to fail  
