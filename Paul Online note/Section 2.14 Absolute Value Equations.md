@@ -1,1 +1,1 @@
-we will  look at equation  and  inequialitiest
+we will  look at equation  and   inequation  that  contain absolute value .  We  will  look  at equations  with  
