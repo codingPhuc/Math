@@ -157,4 +157,23 @@ at this  point we have look  at equation that have an absolute number  on the  o
 
 
 
-|x−2|=3x+1
+$$\begin{array}{l}
+|x−2|=3x+1   \\
+ \left\{
+\begin{array}{l} 
+2x  -  5 =  - 9  \\
+2x  -  5  =  +   9     \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x   =  -2  \\
+x  =   7    \\
+
+\end{array} \\
+
+\right.
+\end{array} $$
