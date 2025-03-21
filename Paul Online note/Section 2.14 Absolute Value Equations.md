@@ -104,7 +104,7 @@ $$
 \left\{
 \begin{array}{l} 
 5y  - 8 = 1  \\
-5y  - 8 = 1    \\
+5y  - 8 = -1    \\
 
 \end{array} \\
 
@@ -112,8 +112,8 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
-x   =  -\frac{19}{3}   \\
-x  =   7 \\
+x   =  \frac{9}{5}  \\
+x  =    \frac{7}{}\\
 
 \end{array} \\
 
