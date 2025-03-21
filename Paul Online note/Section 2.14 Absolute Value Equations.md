@@ -274,10 +274,9 @@ $$
 
 Now, we won’t need to verify our solutions here as we did in the previous two parts of this problem. Both with be solutions provided we solved the two equations correctly. However, it will probably be a good idea to verify them anyway just to show that the solution technique we used here really did work properly.
 
-Let’s first check x   =  $-\frac{4}{3 } $
+Let’s first check x   =  $-\frac{4}{3 }$
 
-∣∣∣2(−43)−1∣∣∣?=∣∣∣4(−43)+9∣∣∣∣∣∣−113∣∣∣?=∣∣∣113∣∣∣113=113OK|2(−43)−1|=?⁡|4(−43)+9||−113|=?⁡|113|113=113OK
-
+$|2\left( -\frac{4}{3 } \right)  - 1 |=|4\left( -\frac{4}{3 } \right)+9|\implies  \frac{11}{3 }  = \frac{11}{3}$
 In the case the quantities inside the absolute value were the same number but opposite signs. However, upon taking the absolute value we got the same number and so x=−43x=−43 is a solution. Now, let’s check x=−5x=−5.
 
 |2(−5)−1|?=|4(−5)+9||−11|?=|−11|11=11OK|2(−5)−1|=?⁡|4(−5)+9||−11|=?⁡|−11|11=11OK
