@@ -122,6 +122,31 @@ x  =    \frac{7}{5}\\
 $$
 ## where  b is  zero or negative  
 $$\begin{array}{l}
+\mid 10x−3 \mid   = 0    \\
+ \left\{
+\begin{array}{l} 
+10x    =   3  
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x   =  3
+
+\end{array} \\
+
+\right.
+\end{array} $$
+here  since the  equation is  0   we can just solve it like  normal 
+
+$$\begin{array}{l}
 \mid 15x  + 9  \mid   = -3 \\
 
-\end{array} $$ there is  $|p|≥0$ .  In other word  ,  we cannot get a  negative value out   of the absolute value.  That is  what the equation is saying .   As a result , there  is  **no  solution** to this equtaion 
+\end{array} $$ there is  $|p|≥0$ .  In other word  ,  we cannot get a  negative value out   of the absolute value.  That is  what the equation is saying .   As a result , there  is  **no  solution** to this equation 
+
+
+
+
+
