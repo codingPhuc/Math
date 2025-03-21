@@ -57,5 +57,7 @@ Now  , if you think of it  we can do  this  for any positive number  not includi
 $$If  \; |p|=b,b>0 \;then \;p=−b\;or p=b$$ this only  apply if b is a positive number we will look  at cases where b is negative or  zero 
 ## solve each of the following equation 
 
-$$|2x−5|=9$$
-$$|1−3t|=20$$
+$$\begin{array}{l}
+\mid 2x  -  5  \mid   = 9   \\
+
+\end{array} $$$$|1−3t|=20$$
