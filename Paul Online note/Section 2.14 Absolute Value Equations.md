@@ -243,11 +243,11 @@ Both sides of the equation contain absolute values and so the only way the two s
 
 $$
 \begin{array}{l}
-|2x   - 1 |=3−x   \\
+|2x   - 1 |=|4x+9|   \\
 \left\{
 \begin{array}{l} 
-4x+3 =  - (3−x ) \\
-4x+3= 3−x   \\
+2x   - 1 =  - (4x+9) \\
+2x   - 1 = 4x+9   \\
 
 \end{array} \\
 
@@ -255,15 +255,15 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
-4x+3  =  -3   +  x  \\
-4x+3   = 3−x   \\
+2x   - 1 =  - 4x  - 9   \\
+2x   - 1 = 4x+9    \\
 
 \end{array} \\
 \right.    
 \implies
  \left\{
 \begin{array}{l} 
-x   = -2 \\
+x   = \\
 x   =  0 \\
 
 \end{array} \\
