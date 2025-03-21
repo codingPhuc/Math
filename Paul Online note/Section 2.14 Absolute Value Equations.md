@@ -230,4 +230,35 @@ x   =  0 \\
 
 $$
 we will get  a solution on the other side but it is a  negative sign  causing the equation to fail  
-even  thought  there are  two  solution  
+even  thought  there are  two  solution  there  is not  solution  that  contradict  the equation when  plug  in so  we can take both  solution  x = -2  and  x = 0  
+
+$$
+\begin{array}{l}
+|4x+3|=3−x   \\
+\left\{
+\begin{array}{l} 
+4x+3 =  - (3−x ) \\
+4x+3= 3−x   \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+4x+3  =  -3   +  x  \\
+4x+3   = 3−x   \\
+
+\end{array} \\
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x   = -2 \\
+x   =  0 \\
+
+\end{array} \\
+\right.
+\end{array}
+
+$$
