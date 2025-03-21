@@ -98,3 +98,25 @@ x  =   7 \\
 \right.
 \end{array}
 $$
+$$
+\begin{array}{l}
+\mid 5y  - 8 \mid  =  1  \\
+\left\{
+\begin{array}{l} 
+5y  - 8 = 1  \\
+5y  - 8 = 1    \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x   =  -\frac{19}{3}   \\
+x  =   7 \\
+
+\end{array} \\
+
+\right.
+\end{array}
+$$
