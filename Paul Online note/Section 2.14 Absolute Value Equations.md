@@ -30,3 +30,9 @@ $$
 $$
 note that we used the same definition  for  geometric interpretation 
 one way to think of  absolute value is that it  input  put a  number and make it positive 
+$$
+\mid p \mid \geq  0  
+$$
+regardless of the value of    p 
+
+we  need to  be careful to not miss used the definition of this value  .  for example  
