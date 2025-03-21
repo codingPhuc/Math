@@ -53,3 +53,5 @@ $$|p|=4$$
 Now, if we think of this from a geometric point of view this means that whatever pp is it must have a distance of 4 from the origin. Well there are only two numbers that have a distance of 4 from the origin, namely 4 and -4. So, there are two solutions to this equation,
 
 $$p=−4\;  or\; p=4$$
+Now  , if you think of it  we can do  this  for any positive number  not including  4 leading to the following formula  for the equation 
+$$If |p|=b,b>0then p=−bor p=b$$
