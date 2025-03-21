@@ -213,8 +213,8 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
-x−2 =   -  3x  +  1 \\
-x−2  = 3x+1  \\
+4x+3  =  -3   +  x  \\
+4x+3   = 3−x   \\
 
 \end{array} \\
 \right.    
