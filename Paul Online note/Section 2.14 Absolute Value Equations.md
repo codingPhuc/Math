@@ -186,3 +186,4 @@ x   =  -\frac{3}{2} \\
 \end{array} $$
 
 note  however that  if we plug  in  the solution  $x  =-\frac{3}{2}$  into the equation it will output this error 
+because if we p
