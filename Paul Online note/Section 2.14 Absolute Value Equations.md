@@ -122,38 +122,6 @@ x  =    \frac{7}{5}\\
 $$
 ## where  b is  zero or negative  
 $$\begin{array}{l}
-\mid 10x−3 \mid   = 0    \\
- \left\{
-\begin{array}{l} 
-10x    =   3  
+\mid 15x  + 9  \mid   = -3 \\
 
-\end{array} \\
-
-\right.    
-\implies
- \left\{
-\begin{array}{l} 
-x   =  \frac{3}{10}
-
-\end{array} \\
-
-\right.
-\end{array} $$
-$$\begin{array}{l}
-\mid 10x−3 \mid   = 0    \\
- \left\{
-\begin{array}{l} 
-10x    =   3  
-
-\end{array} \\
-
-\right.    
-\implies
- \left\{
-\begin{array}{l} 
-x   =  \frac{3}{10}
-
-\end{array} \\
-
-\right.
-\end{array} $$
+\end{array} $$ there is  
