@@ -149,6 +149,6 @@ $$\begin{array}{l}
 
 ##    absolute   values   other than one  real value 
 
-at this  point we have look at number that a
+at this  point we have look  at equation that have an absolute number  on the  other side of = sign . However , there are case 
 
 
