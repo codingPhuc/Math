@@ -12,4 +12,10 @@ In this definition  we are going to thing  of  $\mid p \mid$ as  the distance of
 ## mathematic Definition  
 we can  also  give a strict mathematical  formula   for  definition 
 
-$$$$
+$$
+|p| =
+\begin{cases}
+    p, & \text{if } p \geq 0 \\
+    -p, & \text{if } p < 0
+\end{cases}
+$$
