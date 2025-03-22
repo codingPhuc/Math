@@ -1,1 +1,3 @@
-d  jango 
+
+rayluz :  
+- the chat bot  
