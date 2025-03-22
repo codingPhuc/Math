@@ -124,4 +124,4 @@ $$
   \\
 \end{array} 
 $$
-b
+this is identical to the problem  above ,  but now it  require  the absolute value is not   0 
