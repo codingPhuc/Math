@@ -12,5 +12,5 @@ $$
 we could  get a similar    < and  get a similar result 
 In general  ,  we have to following  formulas to use here ,  
 $$
-
-$$
+\boxed{\begin{array}{ll}\mathrm{If~}|p|\leq b,&b>0&\mathrm{~then~}-b\leq p\leq b\\\mathrm{If~}|p|<b,&b>0&\mathrm{~then~}-b<p<b\end{array}}
+$$ this requ
