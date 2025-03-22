@@ -77,7 +77,7 @@ $$
 t   > -\frac{7}{6}  & t  <  -\frac{13}{6}
 \end{array} 
 $$
-the interval  solution   is  $( -\frac{7}{6},  \infty ) \cap(-\infty,  -\frac{13}{6})$
+the interval  solution   is  $[ -\frac{7}{6},  \infty ) \cap(-\infty,  -\frac{13}{6}]$
 
  
 
@@ -88,6 +88,6 @@ $$
 t   < -\frac{4}{3} & t  >  2 
 \end{array} 
 $$
-the interval  solution   is  $( -\frac{7}{6},  \infty ) \cap(-\infty,  -\frac{13}{6})$
+the interval  solution   is  $( 2 ,  \infty ) \cap(-\infty,  -\frac{4}{3} )$
 
- 
+ #
