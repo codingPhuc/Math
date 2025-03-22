@@ -284,3 +284,9 @@ In the case we got the same value inside the absolute value bars.
 So, as suggested above both answers did in fact work and both are solutions to the equation.
 
 # #Practice_Exercise  
+$$
+\begin{array}{l}
+\mid 4p  - 7 \mid    = 3  \\
+ 
+\end{array}
+$$
