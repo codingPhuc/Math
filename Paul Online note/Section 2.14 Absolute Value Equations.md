@@ -398,9 +398,15 @@ $$
  \left\{
 \begin{array}{l} 
 \frac{9}{2} z   =   2    \\
-       \\
+-\frac{7}{2}z =    -10    \\
 \end{array} \\
-
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+z   =   \frac{4}{9}    \\
+-\frac{7}{2}z =    -10    \\
+\end{array} \\
 \right.
 \end{array}
 $$
