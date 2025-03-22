@@ -152,3 +152,12 @@ why  is  it or equal to a negative number. ?
 
 
 
+
+# #Practice_Exercise   
+$$
+\begin{array}{l}
+\mid 4t +9 \mid    < 3      \\
+
+\end{array}
+
+$$
