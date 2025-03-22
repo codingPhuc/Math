@@ -93,4 +93,7 @@ the interval  solution   is  $( 2 ,  \infty ) \cap(-\infty,  -\frac{4}{3} )$
 
 
 
-##  
+##   
+
+$$|3x+2|<0$$
+we know that   $\mid p \mid$
