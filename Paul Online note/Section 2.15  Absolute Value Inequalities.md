@@ -129,8 +129,7 @@ $$3x-  9=0  \implies  x   =   3 $$
 ##    quick set of examples  with negative number  
 $$
 \begin{array}{l}
-\mid 4x  +  15  \mid  =   \\
-x   -9  =    0  \\
-x  =   9
+\mid 4x  +  15  \mid   <  -2   \; \cap  \mid 4x  + 15 \mid     \leq  -2    \\
+
 \end{array} 
 $$
