@@ -221,7 +221,7 @@ $$
 $$
 \begin{array}{l}
 \mid 10−3w  \mid    > 4       \\
-10−3w  \geq 4  \cap  10−3w \leq 4   \\
-w    >  4  \cap   w    < -3    \\
+10−3w  \geq 4  \cap  10−3w \leq -4   \\
+10−3w  \leq  4  \cap  10−3w \leq -4    \\
 \end{array}
 $$
