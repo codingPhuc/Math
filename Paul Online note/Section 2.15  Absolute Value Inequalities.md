@@ -39,10 +39,10 @@ the interval  solution   is  $(-\frac{3}{9},  -\frac{1}{9} )$
 
 $$
 \begin{array}{l}
-\mid 3 - 2z\mid <  1    \\
--1<   9m   +  2 <  1  \\
--3  <  9m     <    -1  \\
--\frac{3}{9}  <  m   <  -\frac{1}{9} 
+\mid 3 - 2z\mid <  5    \\
+-5 <   3 - 2z <  5   \\
+-8 <  - 2z <  2    \\
+-1 <  z <  4
 \end{array} 
 $$
 the interval  solution   is  $(-\frac{3}{9},  -\frac{1}{9} )$
