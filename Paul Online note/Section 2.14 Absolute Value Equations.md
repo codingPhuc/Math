@@ -335,7 +335,7 @@ $$
 
 $$
 \begin{array}{l}
-6u  =   \mid 1 +   3u \mid     \\
+ \mid 1 +   3u \mid       =   6u    \\
 \left\{
 \begin{array}{l} 
  2−4x = 1 \\
