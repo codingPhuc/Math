@@ -30,7 +30,19 @@ $$
 \mid 9m   +  2\mid <  1    \\
 -1<   9m   +  2 <  1  \\
 -3  <  9m     <    -1  \\
--\frac{3}{9}  <  m   <   7  
+-\frac{3}{9}  <  m   <  -\frac{1}{9} 
 \end{array} 
 $$
-the interval  solution   is  $(-3,  7)$
+the interval  solution   is  $(-\frac{3}{9},  -\frac{1}{9} )$
+
+
+
+$$
+\begin{array}{l}
+\mid 3 - 2z\mid <  1    \\
+-1<   9m   +  2 <  1  \\
+-3  <  9m     <    -1  \\
+-\frac{3}{9}  <  m   <  -\frac{1}{9} 
+\end{array} 
+$$
+the interval  solution   is  $(-\frac{3}{9},  -\frac{1}{9} )$
