@@ -167,9 +167,9 @@ $$
 $$
 \begin{array}{l}
 \mid 6-5x   \mid    \leq 10       \\
-- 10  \leq   \leq10  \\
--12  <   4t    <   -6   \\
--3  <   t  <  -\frac{3}{2} 
+- 10  \leq  6-5x  \leq10  \\
+- 16  \leq \ -5x   \leq  4    \\
+- 16  \leq \ -5x   \leq  \frac{16}{5}
 \end{array}
 
 $$
