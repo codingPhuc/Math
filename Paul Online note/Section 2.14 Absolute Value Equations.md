@@ -355,7 +355,7 @@ u   =  -\frac{1}{9}   \\
 \right.
 \end{array}
 $$ 
-
+since   $x=-\frac{1}{9}$ will cause the equation  too have opo
 
 $$
 \begin{array}{l}
