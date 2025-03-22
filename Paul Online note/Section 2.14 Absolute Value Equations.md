@@ -355,8 +355,7 @@ u   =  -\frac{1}{9}   \\
 \right.
 \end{array}
 $$ 
-since   $x=-\frac{1}{9}$ will cause the equation  too have opo
-
+since   $x=-\frac{1}{9}$ will cause the equation  too have opposite sign    ,  the only  solution we will have is   u  = $\frac{1}{3}$
 $$
 \begin{array}{l}
 \mid 2x-3 \mid        =   4-x     \\
