@@ -90,4 +90,8 @@ rayluz
 - bougous   coperation  
 - envidia video  game  dragon  layer  laizer  displace game 
 - laizer  printer  
-- visiting  a place in  pensivanial  , 70 plant each 
+- visiting  a place in  pensivanial  , 70 plant each plant  have a 1000  people nothing  as  IBM   
+	- big in the banking industry  
+- pensivanial  electric system  the guy  
+	- been  here  19 year  4 weeks of  vacation not too happy  
+	- well  
