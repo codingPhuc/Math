@@ -415,11 +415,11 @@ $$
 
 $$
 \begin{array}{l}
-\mid \frac{1}{2}z  + 4 \mid        =   \mid  4z -6 \mid     \\
+\mid x^2   +  2x   \mid       =  15    \\
 \left\{
 \begin{array}{l} 
-\frac{1}{2}z  + 4        =   -4z  + 6    \\
-\frac{1}{2}z  + 4       =  4z -6         \\
+\mid x^2   +  2x   \mid       =  15   \\
+\mid x^2   +  2x   \mid       =  15      \\
 
 \end{array} \\
 
