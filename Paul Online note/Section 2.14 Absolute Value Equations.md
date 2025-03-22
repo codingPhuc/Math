@@ -289,8 +289,8 @@ $$
 \mid 4p  - 7 \mid    = 3  \\
 \left\{
 \begin{array}{l} 
-5y  - 8 = 1  \\
-5y  - 8 = -1    \\
+4p  - 7 = 3  \\
+4p  - 7 = -3     \\
 
 \end{array} \\
 
@@ -298,8 +298,9 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
-x   =  \frac{9}{5}  \\
-x  =    \frac{7}{5}\\
+p  =   \\
+p = -3     \\
+
 
 \end{array} \\
 
