@@ -189,15 +189,28 @@ $$
 \begin{array}{l}
 \mid 2w -  1  \mid   < 1       \\
 0 <  2w   < 1  \\
-0 \leq  w   \leq \frac{1}{2}   \\
+0 <   w   <  \frac{1}{2}   \\
 \end{array}
 
-$$  
+$$ 
+
 
 $$
 \begin{array}{l}
 \mid 2w -  1  \mid    \leq 1       \\
 0 \leq  2w   \leq 1  \\
+0 \leq  w   \leq \frac{1}{2}   \\
+\end{array}
+
+$$
+
+
+
+
+$$
+\begin{array}{l}
+\mid 2z -  7 \mid    >  1       \\
+2z -  7    >  1  \cap \\
 0 \leq  w   \leq \frac{1}{2}   \\
 \end{array}
 
