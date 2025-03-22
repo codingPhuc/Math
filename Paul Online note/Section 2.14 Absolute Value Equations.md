@@ -434,7 +434,38 @@ x^2   +  2x    +  15     =   0  \\
 \implies
  \left\{
 \begin{array}{l} 
-x   =  -5 \\
+x   =  -5 \\ 
+x   =   3 \\
+x  =  -   1 \pm \sqrt{   14 }i\\
+\end{array} \\
+\right.
+\end{array}
+$$
+
+
+$$
+\begin{array}{l}
+\mid x^2   + 4  \mid       =  1    \\
+\left\{
+\begin{array}{l} 
+x^2   + 4      =  1   \\
+x^2   + 4        =  -1     \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x^2   + 5     =    0 \\
+x^2   +  2x    +  15     =   0  \\
+\end{array} \\
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x   =  -5 \\ 
+x   =   3 \\
 x  =  -   1 \pm \sqrt{   14 }i\\
 \end{array} \\
 \right.
