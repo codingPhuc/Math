@@ -79,5 +79,5 @@ Fabrice for  automaticting deployment
         [](https://cdn.arstechnica.net/wp-content/uploads/2025/03/robot_no_sign_3-1152x648.jpg)
 
 
-play write  
-convert this  
+https://tutorial.math.lamar.edu/Problems/Alg/IntegerExponents.aspx 
+- 
