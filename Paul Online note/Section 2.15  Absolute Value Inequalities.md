@@ -72,9 +72,9 @@ the interval  solution   is  $( 5 ,  \infty ) \cap(-\infty,-2)$
 
 $$
 \begin{array}{l}
-\mid 6t  + 10  \mid  >   7   \\
-2x -3  >   7     &  2x - 3 <  -7  \\
-x  >  5   &  x < -2 
+\mid 6t  + 10  \mid  >   3   \\
+6t  + 10   > 3   & 6t  + 10 <  -3  \\
+t   > -\frac{7}{6}  & 6t  <  -13
 \end{array} 
 $$
 the interval  solution   is  $( 5 ,  \infty ) \cap(-\infty,-2)$
