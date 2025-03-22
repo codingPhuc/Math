@@ -418,8 +418,8 @@ $$
 \mid x^2   +  2x   \mid       =  15    \\
 \left\{
 \begin{array}{l} 
-\mid x^2   +  2x   \mid       =  15   \\
-\mid x^2   +  2x   \mid       =  15      \\
+ x^2   +  2x       =  15   \\
+x^2   +  2x         =  -15      \\
 
 \end{array} \\
 
@@ -427,15 +427,15 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
-\frac{9}{2} z   =   2    \\
--\frac{7}{2}z =    -10    \\
+ x^2   +  2x  - 15      =    0 \\
+x^2   +  2x    +  15     =   0  \\
 \end{array} \\
 \right.    
 \implies
  \left\{
 \begin{array}{l} 
-z   =   \frac{4}{9}    \\
-z =   \frac{20}{7}   \\
+x   =   -\frac{2}{} \\
+x^2   +  2x    +  15     =   0  \\
 \end{array} \\
 \right.
 \end{array}
