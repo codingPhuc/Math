@@ -61,8 +61,8 @@ $$
 $$
 \begin{array}{l}
 \mid 2x -3  \mid  >   7   \\
-2x -3  >   7     &  -2x + 3 <  -7  \\
-x  >  5   &  
+2x -3  >   7     &  2x - 3 <  -7  \\
+x  >  5   &  x < -2 
 \end{array} 
 $$
-the interval  solution   is  $[-1 ,  -4]$
+the interval  solution   is  $( 5 ,  infi)$
