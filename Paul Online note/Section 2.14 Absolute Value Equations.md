@@ -322,11 +322,37 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
-x  =  \\
-2−4x = -1     \\
+x  =  \frac{1}{4}\\
+x  =  \frac{3}{4}     \\
 
 \end{array} \\
 
 \right.
 \end{array}
 $$ 
+
+
+
+$$
+\begin{array}{l}
+6u  =   \mid 1 +   3u \mid     \\
+\left\{
+\begin{array}{l} 
+ 2−4x = 1 \\
+2−4x = -1     \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x  =  \frac{1}{4}\\
+x  =  \frac{3}{4}     \\
+
+\end{array} \\
+
+\right.
+\end{array}
+$$ 
+
