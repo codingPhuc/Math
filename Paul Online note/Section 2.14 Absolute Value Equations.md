@@ -435,7 +435,7 @@ x^2   +  2x    +  15     =   0  \\
  \left\{
 \begin{array}{l} 
 x   =  -5 \\
-x  =   \\
+x  =  -\frac{2+ i}{} \\
 \end{array} \\
 \right.
 \end{array}
