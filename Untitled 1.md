@@ -19,6 +19,7 @@ using tools like flash     ,  run thing in  unicorn  and all those deal
 [Every Python Library / Module Explained in 13 Minutes](https://www.youtube.com/watch?v=Yh5gcLG6C3Q)
 
 Fabrice for  automaticting deployment  
-manually    putting file on the website   for hh2 pulling   repo  you can automatic
-used for deploying a  site   ,  setting  up  system  d for  starting  a service  , configure engine x  automate that  
-way  for execute a file  
+- manually    putting file on the website   for hh2 pulling   repo  you can automatic
+- used for deploying a  site   ,  setting  up  system  d for  starting  a service  , configure engine x  automate that  
+- way  for execute a file  you still have to understand  what the thing work  
+- jango   load  balancer  
