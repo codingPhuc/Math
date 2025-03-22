@@ -74,9 +74,19 @@ $$
 \begin{array}{l}
 \mid 6t  + 10  \mid  >   3   \\
 6t  + 10   > 3   & 6t  + 10 <  -3  \\
-t   > -\frac{7}{6}  & 6t  <  -13
+t   > -\frac{7}{6}  & t  <  -\frac{13}{6}
 \end{array} 
 $$
-the interval  solution   is  $( 5 ,  \infty ) \cap(-\infty,-2)$
+the interval  solution   is  $( -\frac{7}{6},  \infty ) \cap(-\infty,  -\frac{13}{6})$
 
  
+
+$$
+\begin{array}{l}
+\mid  2 -  6y   \mid  >   10   \\
+2 -  6y   > 10   & 6t  + 10 <  -10  \\
+t   > -\frac{7}{6}  & t  <  -\frac{13}{6}
+\end{array} 
+$$
+the interval  solution   is  $( -\frac{7}{6},  \infty ) \cap(-\infty,  -\frac{13}{6})$
+
