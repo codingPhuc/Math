@@ -339,7 +339,7 @@ $$
 \left\{
 \begin{array}{l} 
 1 +   3u = 6u \\
-1 +   3u = -1     \\
+1 +   3u = -6u    \\
 
 \end{array} \\
 
@@ -347,8 +347,8 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
-x  =  \frac{1}{4}\\
-x  =  \frac{3}{4}     \\
+1 +   3u = 6u \\
+1 +   3u = 6u    \\
 
 \end{array} \\
 
