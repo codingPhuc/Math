@@ -222,6 +222,15 @@ $$
 \begin{array}{l}
 \mid 10−3w  \mid    > 4       \\
 10−3w  \geq 4  \cap  10−3w \leq -4   \\
-10−3w  \leq  4  \cap  10−3w \leq -4    \\
+w \leq  2  \cap  w \geq \frac{14}{3}    \\
+\end{array}
+$$
+
+
+$$
+\begin{array}{l}
+\mid 4 - 3x  \mid    >  7      \\
+4 - 3x   < 4  \cap  14 - 3x  >  -4   \\
+w \leq  2  \cap  w \geq \frac{14}{3}    \\
 \end{array}
 $$
