@@ -104,3 +104,4 @@ x   -9  =    0  \\
 x  =   9
 \end{array} 
 $$
+we cannot have a value that is less than  zero  . However   we can have a value that is equal to zero  so the  equation is  x  = 9  
