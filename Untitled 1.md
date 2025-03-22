@@ -10,4 +10,7 @@ handling   drake  :
 	- said that there is a  api  for the website for this  
 	- in the  easy  to  find   an  api  for 
 - web content  extractor  what is the name   ,   
-- in the flied with  deal 
+- in the flied with  deal  
+
+depoly   jango  project : 
+using tools like flash     ,  run thing in  unicorn  and all those deal  
