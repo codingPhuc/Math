@@ -133,4 +133,4 @@ $$
 
 \end{array} 
 $$
-Okay ,  if it an absolute value then there was  no solution  that  satisfy the problem 
+Okay ,  if it an absolute value then there was  no solution  that  satisfy the problem    
