@@ -175,10 +175,9 @@ $$
 $$
 $$
 \begin{array}{l}
-\mid 12x   +   \mid    \leq 10       \\
-- 10  \leq  6-5x  \leq10  \\
-- 16  \leq \ -5x   \leq  4    \\
-- \frac{4}{5}  \leq  x   \leq  \frac{16}{5}
+\mid 12x  +  1    \mid    \leq   - 9      \\
+
 \end{array}
 
 $$
+there  is no  solution  for the problem  since  an absolute value cannot  be  less than  negative  - 
