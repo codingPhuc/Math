@@ -93,7 +93,7 @@ the interval  solution   is  $( 2 ,  \infty ) \cap(-\infty,  -\frac{4}{3} )$
 
 
 
-##   
+##    when the 
 
 $$|3x+2|<0$$
-we know that   $\mid p \mid$
+we know that   $\mid p \mid \geq 0$ so there is no solution  for the equation  where the value is less than  zero .  As a  result , there is no  solution that is less than  0  
