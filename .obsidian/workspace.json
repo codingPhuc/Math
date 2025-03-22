@@ -215,7 +215,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -323,8 +324,9 @@
       }
     ]
   },
-  "active": "9b3f64ef23927a5f",
+  "active": "5c035cef5ff54e6b",
   "lastOpenFiles": [
+    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
     "Paul Online note/Factoring Polynomials.md",
@@ -333,7 +335,6 @@
     "mathwiki/latex.md",
     "Pasted image 20250320194833.png",
     "Paul Online note/Section 2.12  Polynomial Inequalities.md",
-    "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "mathwiki/Proof in Math.md",
     "Paul Online note/Section 2.11  Linear Inequalities.md",
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
