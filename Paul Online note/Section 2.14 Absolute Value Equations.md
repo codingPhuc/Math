@@ -347,8 +347,32 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
+   u = \frac{1}{3}\\
+u   =  -\frac{1}{9}   \\
+
+\end{array} \\
+
+\right.
+\end{array}
+$$ 
+
+
+$$
+\begin{array}{l}
+\mid    \mid        =   6u    \\
+\left\{
+\begin{array}{l} 
 1 +   3u = 6u \\
-1 +   3u = 6u    \\
+1 +   3u = -6u    \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+   u = \frac{1}{3}\\
+u   =  -\frac{1}{9}   \\
 
 \end{array} \\
 
