@@ -287,6 +287,22 @@ So, as suggested above both answers did in fact work and both are solutions to t
 $$
 \begin{array}{l}
 \mid 4p  - 7 \mid    = 3  \\
- 
+\left\{
+\begin{array}{l} 
+5y  - 8 = 1  \\
+5y  - 8 = -1    \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x   =  \frac{9}{5}  \\
+x  =    \frac{7}{5}\\
+
+\end{array} \\
+
+\right.
 \end{array}
 $$
