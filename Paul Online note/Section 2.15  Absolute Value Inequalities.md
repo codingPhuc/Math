@@ -13,4 +13,10 @@ we could  get a similar    < and  get a similar result
 In general  ,  we have to following  formulas to use here ,  
 $$
 \boxed{\begin{array}{ll}\mathrm{If~}|p|\leq b,&b>0&\mathrm{~then~}-b\leq p\leq b\\\mathrm{If~}|p|<b,&b>0&\mathrm{~then~}-b<p<b\end{array}}
-$$ this requ
+$$ this require  that   b will  be positive just like solving the equation of   [[Section 2.14 Absolute Value Equations]]
+
+$$
+\begin{array}{l}
+\mid  2x -  4 \mid 
+\end{array} 
+$$
