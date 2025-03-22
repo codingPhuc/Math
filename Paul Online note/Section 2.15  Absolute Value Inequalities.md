@@ -157,7 +157,9 @@ why  is  it or equal to a negative number. ?
 $$
 \begin{array}{l}
 \mid 4t +9 \mid    < 3      \\
-
+-3<  4t +  9  <    3    \\
+-12  <   4t    <   -6   \\
+ 
 \end{array}
 
 $$
