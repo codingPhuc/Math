@@ -359,10 +359,10 @@ $$
 
 $$
 \begin{array}{l}
-\mid    \mid        =   6u    \\
+\mid 2x-3 \mid        =   4-x     \\
 \left\{
 \begin{array}{l} 
-1 +   3u = 6u \\
+\mid 2x-3 \mid        =   4-x    \\
 1 +   3u = -6u    \\
 
 \end{array} \\
