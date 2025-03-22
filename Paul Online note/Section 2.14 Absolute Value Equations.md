@@ -298,12 +298,35 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
-p  =   \\
-p = -3     \\
+p  = \frac{5}{2}  \\
+p =  1 \\
 
 
 \end{array} \\
 
 \right.
 \end{array}
+$$ 
+
 $$
+\begin{array}{l}
+\mid 2−4x \mid    = 1  \\
+\left\{
+\begin{array}{l} 
+ 2−4x = 1 \\
+2−4x = -1     \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x  =  \\
+2−4x = -1     \\
+
+\end{array} \\
+
+\right.
+\end{array}
+$$ 
