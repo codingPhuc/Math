@@ -210,8 +210,19 @@ $$
 $$
 \begin{array}{l}
 \mid 2z -  7 \mid    >  1       \\
-2z -  7    >  1  \cap \\
-0 \leq  w   \leq \frac{1}{2}   \\
+2z -  7    >  1  \cap   2z -  7    < 1   \\
+z    >  4  \cap   z    < -3    \\
+\end{array}
+
+$$
+
+
+
+$$
+\begin{array}{l}
+\mid 2z -  7 \mid    >  1       \\
+2z -  7    >  1  \cap   2z -  7    < 1   \\
+z    >  4  \cap   z    < -3    \\
 \end{array}
 
 $$
