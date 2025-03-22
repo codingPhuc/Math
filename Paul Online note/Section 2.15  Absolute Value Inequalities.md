@@ -51,4 +51,4 @@ the interval  solution   is  $[-1 ,  -4]$
 let start of again  with a  simple number example  
 $$\mid  p  \mid    \geq  4$$ This say that p  is   that  p must  at least  have a distance  of 4    .  As a result ,  p   must be in the following range  
 $$  p    \geq  4 \text{ or } p \leq  -4$$ 
-this  mean that  p  must be  a number smaller than  -4 and larger then  4  .  Do  not make the mistake of assuming that   $-4\geq p\geq_{4}$ 
+this  mean that  p  must be  a number smaller than  -4 and larger then  4  .  Do  not make the mistake of assuming that   $-4\geq p\geq 4$ this is  a logical error  mean because there is  no p  smaller than -4 and  larger than  4 
