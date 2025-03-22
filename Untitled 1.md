@@ -94,4 +94,6 @@ rayluz
 	- big in the banking industry  
 - pensivanial  electric system  the guy  
 	- been  here  19 year  4 weeks of  vacation not too happy  
-	- well  
+	- well  what would you recoment  for me ,  don't  here  work  for the good  company that make  it big  quick  
+- work for video game company that was not mature  enough   
+- give some  
