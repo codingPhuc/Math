@@ -23,3 +23,4 @@ Fabrice for  automaticting deployment
 - used for deploying a  site   ,  setting  up  system  d for  starting  a service  , configure engine x  automate that  
 - way  for execute a file  you still have to understand  what the thing work  
 - jango   load  balancer  
+- there is a lot of little file that all  have to  be  put in  place all related   still  a  bit of a mess   
