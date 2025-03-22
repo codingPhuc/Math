@@ -7,4 +7,7 @@ rayluz :
 handling   drake  : 
 - look  at stock   ,  it does not see in  here interact though the key  find the one it does not have , 
 - rayluz  : 
-	- said that there is a  api  for
+	- said that there is a  api  for the website for this  
+	- the 
+- web content  extractor  what is the name   ,   
+- in the flied with  deal
