@@ -231,6 +231,6 @@ $$
 \begin{array}{l}
 \mid 4 - 3x  \mid    >  7      \\
 4 - 3x   > 7   \cap  4 - 3x  <  -7    \\
-x   < -1   \cap  4 - 3x  >  -7     \\
+x   < -1   \cap  4 - 3x  >  -\frac{11}{}     \\
 \end{array}
 $$
