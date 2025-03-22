@@ -180,4 +180,17 @@ $$
 \end{array}
 
 $$
-there  is no  solution  for the problem  since  an absolute value cannot  be  less than  negative  - 
+there  is no  solution  for the problem  since  an absolute value cannot  be  less than  negative  -9 
+
+
+
+
+$$
+\begin{array}{l}
+\mid 2w -  1  \mid    \leq 1       \\
+0 \leq  2w -  1  \leq 1  \\
+- 16  \leq \ -5x   \leq 2   \\
+- \frac{4}{5}  \leq  x   \leq  \frac{16}{5}
+\end{array}
+
+$$
