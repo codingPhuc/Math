@@ -166,8 +166,8 @@ $$
 
 $$
 \begin{array}{l}
-\mid 4t +9 \mid    < 3      \\
--3<  4t +  9  <    3    \\
+\mid 6-5x   \mid    \leq 10       \\
+- 10  \leq   \leq10  \\
 -12  <   4t    <   -6   \\
 -3  <   t  <  -\frac{3}{2} 
 \end{array}
