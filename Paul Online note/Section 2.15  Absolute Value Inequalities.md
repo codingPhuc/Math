@@ -114,3 +114,14 @@ $$
 \end{array} 
 $$
 absolute value   will always  be   more or equal to  zero  . So the interval  notation that we will get is  $(-\infty ,  \infty)$ 
+
+
+
+
+$$
+\begin{array}{l}
+\mid 2x  - 4 \mid   \geq  0     \\
+  \\
+\end{array} 
+$$
+absolute value   will always  be   more or equal to  zero  . So the interval  notation that we will get is  $(-\infty ,  \infty)$ 
