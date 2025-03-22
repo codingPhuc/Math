@@ -102,4 +102,4 @@ rayluz
 
 
 ##  why  is  ubunto  
-gpy
+gpu 
