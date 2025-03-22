@@ -356,6 +356,8 @@ u   =  -\frac{1}{9}   \\
 \end{array}
 $$ 
 since   $x=-\frac{1}{9}$ will cause the equation  too have opposite sign    ,  the only  solution we will have is   u  = $\frac{1}{3}$
+
+
 $$
 \begin{array}{l}
 \mid 2x-3 \mid        =   4-x     \\
@@ -379,4 +381,28 @@ x       =  -1       \\
 \end{array}
 $$
 
+
+
+$$
+\begin{array}{l}
+\mid \frac{1}{2}z  + 4 \mid        =   \mid  4z -6 \mid     \\
+\left\{
+\begin{array}{l} 
+\frac{1}{2}z  + 4        =   -4z  +     \\
+\frac{1}{2}z  + 4       =  -4   + x         \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+x           =    \frac{7}{3}   \\
+x       =  -1       \\
+
+\end{array} \\
+
+\right.
+\end{array}
+$$
 
