@@ -93,7 +93,14 @@ the interval  solution   is  $( 2 ,  \infty ) \cap(-\infty,  -\frac{4}{3} )$
 
 
 
-##    when the 
+##    when b is zero or negative 
 
 $$|3x+2|<0$$
 we know that   $\mid p \mid \geq 0$ so there is no solution  for the equation  where the value is less than  zero .  As a  result , there is no  solution that is less than  0  
+$$
+\begin{array}{l}
+\mid  x   -9  \mid  \leq     0    \\
+x   -9  =    0  \\
+x  =   9
+\end{array} 
+$$
