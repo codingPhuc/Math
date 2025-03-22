@@ -133,3 +133,4 @@ $$
 
 \end{array} 
 $$
+Okay ,  if it an absolute value then there was  no solution  that  
