@@ -13,4 +13,8 @@ handling   drake  :
 - in the flied with  deal  
 
 depoly   jango  project : 
-using tools like flash     ,  run thing in  unicorn  and all those deal  
+using tools like flash     ,  run thing in  unicorn  and all those deal    
+[Flash Bytes](https://www.youtube.com/channel/UCYEjQ85zgURqDHGhhW5eVcg)
+
+[Every Python Library / Module Explained in 13 Minutes](https://www.youtube.com/watch?v=Yh5gcLG6C3Q)
+
