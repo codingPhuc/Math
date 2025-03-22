@@ -62,6 +62,16 @@
               "icon": "lucide-file",
               "title": "Section 2.12  Polynomial Inequalities"
             }
+          },
+          {
+            "id": "b9946fa5d39e3332",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 1
@@ -326,9 +336,9 @@
   },
   "active": "5c035cef5ff54e6b",
   "lastOpenFiles": [
+    "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
     "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
-    "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
     "Paul Online note/Factoring Polynomials.md",
     "Paul Online note/Section 2.13  Rational Inequalities.md",
     "Excalidraw/Drawing 2025-03-20 19.34.24.excalidraw.md",

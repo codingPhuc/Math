@@ -125,4 +125,5 @@ $$
 \end{array} 
 $$
 this is identical to the problem  above ,  but now it  require  the absolute value to  not be  0  .  So   in conclusion   x cannot not  be : 
-$3x-  9$
+$$3x-  9=0  \implies  x   =   3 $$ 
+##    quick set of examples  with negative number  
