@@ -39,10 +39,12 @@ the interval  solution   is  $(-\frac{3}{9},  -\frac{1}{9} )$
 
 $$
 \begin{array}{l}
-\mid 3 - 2z\mid <  5    \\
--5 <   3 - 2z <  5   \\
--8 <  - 2z <  2    \\
--1 <  z <  4
+\mid 3 - 2z\mid \leq  5    \\
+-5 \leq   3 - 2z \leq  5   \\
+-8 \leq  - 2z \leq  2    \\
+-1 \leq  z \leq  4
 \end{array} 
 $$
-the interval  solution   is  $(-\frac{3}{9},  -\frac{1}{9} )$
+the interval  solution   is  $[-1 ,  -4]$
+
+##  inequation  involving  >  and  dm$\geq$
