@@ -81,4 +81,9 @@ Fabrice for  automaticting deployment
 
 https://tutorial.math.lamar.edu/Problems/Alg/IntegerExponents.aspx 
 - ![[Pasted image 20250322110628.png]]
-he said that I nee
+he said that I need  rayluz  
+rayluz  
+-  audit  engine  .aut  
+- data engineer  for  recent  election  
+- history  master   electronic  enginnering  
+- work  at navel  ocean  f
