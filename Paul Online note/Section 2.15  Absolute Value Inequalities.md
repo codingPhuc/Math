@@ -230,7 +230,7 @@ $$
 $$
 \begin{array}{l}
 \mid 4 - 3x  \mid    >  7      \\
-4 - 3x   < 4  \cap  14 - 3x  >  -4   \\
-w \leq  2  \cap  w \geq \frac{14}{3}    \\
+4 - 3x   > 7   \cap  4 - 3x  <  -7    \\
+x   < -1   \cap  4 - 3x  >  -7     \\
 \end{array}
 $$
