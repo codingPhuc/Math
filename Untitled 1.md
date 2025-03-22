@@ -80,4 +80,5 @@ Fabrice for  automaticting deployment
 
 
 https://tutorial.math.lamar.edu/Problems/Alg/IntegerExponents.aspx 
-- 
+- ![[Pasted image 20250322110628.png]]
+he said that I nee
