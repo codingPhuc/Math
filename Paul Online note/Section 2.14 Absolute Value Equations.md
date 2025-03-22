@@ -435,7 +435,7 @@ x^2   +  2x    +  15     =   0  \\
  \left\{
 \begin{array}{l} 
 x   =  -5 \\
-x  =  -\frac{2+ i}{} \\
+x  =  -   1 + \sqrt{   14 }\\
 \end{array} \\
 \right.
 \end{array}
