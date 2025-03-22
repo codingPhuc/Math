@@ -97,4 +97,4 @@ rayluz
 	- well  what would you recoment  for me ,  don't  here  work  for the good  company that make  it big  quick  
 - work for video game company that was not mature  enough   
 - give some  consulting  
-- standard group   impressive   can  put  a piece   of paper  revolutionaize thing  ,   japan cannot type  there language very well  
+- standard group   impressive   can  put  a piece   of paper  revolutionaize thing  ,   japan cannot type  there language very well  very interesting  different companies  learn .  Ran  these  show type thing  usually  have around 500  high  tech   on the marking  prym
