@@ -84,9 +84,10 @@ the interval  solution   is  $( -\frac{7}{6},  \infty ) \cap(-\infty,  -\frac{13
 $$
 \begin{array}{l}
 \mid  2 -  6y   \mid  >   10   \\
-2 -  6y   > 10   & 6t  + 10 <  -10  \\
-t   > -\frac{7}{6}  & t  <  -\frac{13}{6}
+2 -  6y   > 10   & 2 -  6y <  -10  \\
+t   < -\frac{4}{3} & t  >  2 
 \end{array} 
 $$
 the interval  solution   is  $( -\frac{7}{6},  \infty ) \cap(-\infty,  -\frac{13}{6})$
 
+ 
