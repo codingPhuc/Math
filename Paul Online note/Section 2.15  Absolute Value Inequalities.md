@@ -49,4 +49,4 @@ the interval  solution   is  $[-1 ,  -4]$
 
 ##  inequation  involving  >  and  dm$\geq$
 let start of again  with a  simple number example  
-$$\mid  p  \mid    >$$
+$$\mid  p  \mid    \geq  4$$ This say that p  is   that  p must  at least  have a distance  of 4    .    
