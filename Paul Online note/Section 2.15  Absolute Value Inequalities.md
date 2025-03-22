@@ -52,3 +52,18 @@ let start of again  with a  simple number example
 $$\mid  p  \mid    \geq  4$$ This say that p  is   that  p must  at least  have a distance  of 4    .  As a result ,  p   must be in the following range  
 $$  p    \geq  4 \text{ or } p \leq  -4$$ 
 this  mean that  p  must be  a number smaller than  -4 and larger then  4  .  Do  not make the mistake of assuming that   $-4\geq p\geq 4$ this is  a logical error  mean because there is  no p  smaller than -4 and  larger than  4 
+
+$$
+\boxed{\begin{array}{l}\mathrm{If~}|p|\geq b,&b>0\\\mathrm{If~}|p|>b,&b>0\end{array}\quad\mathrm{then~}p\leq-b\mathrm{~or~}p\geq b}
+$$
+
+
+$$
+\begin{array}{l}
+\mid 2x -3  \mid  >   7   \\
+-5 \leq   3 - 2z \leq  5   \\
+-8 \leq  - 2z \leq  2    \\
+-1 \leq  z \leq  4
+\end{array} 
+$$
+the interval  solution   is  $[-1 ,  -4]$
