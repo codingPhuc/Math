@@ -48,3 +48,5 @@ $$
 the interval  solution   is  $[-1 ,  -4]$
 
 ##  inequation  involving  >  and  dm$\geq$
+let start of again  with a  simple number example  
+$$\mid  p  \mid    >$$
