@@ -113,4 +113,4 @@ $$
   \\
 \end{array} 
 $$
-we cannot have a value that is less than  zero  . However   we can have a value that is equal to zero  so the  equation is  x  = 9  
+absolute value   will always  be   more ir
