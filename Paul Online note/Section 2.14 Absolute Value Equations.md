@@ -338,8 +338,8 @@ $$
  \mid 1 +   3u \mid       =   6u    \\
 \left\{
 \begin{array}{l} 
- 2−4x = 1 \\
-2−4x = -1     \\
+1 +   3u = 6u \\
+1 +   3u = -1     \\
 
 \end{array} \\
 
@@ -354,5 +354,6 @@ x  =  \frac{3}{4}     \\
 
 \right.
 \end{array}
-$$ 
+$$
+
 
