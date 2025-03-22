@@ -61,9 +61,8 @@ $$
 $$
 \begin{array}{l}
 \mid 2x -3  \mid  >   7   \\
--5 \leq   3 - 2z \leq  5   \\
--8 \leq  - 2z \leq  2    \\
--1 \leq  z \leq  4
+2x -3  >   7     &  -2x + 3 <  -7  \\
+x  >  5   &  
 \end{array} 
 $$
 the interval  solution   is  $[-1 ,  -4]$
