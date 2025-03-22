@@ -109,9 +109,8 @@ we cannot have a value that is less than  zero  . However   we can have a value 
 
 $$
 \begin{array}{l}
-\mid  x   -9  \mid  \leq     0    \\
-x   -9  =    0  \\
-x  =   9
+\mid 2x  - 4 \mid   \geq  0     \\
+  \\
 \end{array} 
 $$
 we cannot have a value that is less than  zero  . However   we can have a value that is equal to zero  so the  equation is  x  = 9  
