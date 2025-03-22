@@ -146,4 +146,6 @@ $$
  2x−9 >  -8    \\
  \\
 \end{array}
-$$
+$$In this case if the absolute value is positive or zero then it will always be greater than or equal to a negative number.
+
+The solution for each of these is then all real numbers.
