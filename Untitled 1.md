@@ -96,4 +96,5 @@ rayluz
 	- been  here  19 year  4 weeks of  vacation not too happy  
 	- well  what would you recoment  for me ,  don't  here  work  for the good  company that make  it big  quick  
 - work for video game company that was not mature  enough   
-- give some  
+- give some  consulting  
+- standard group   impressive   can  put  a piece   of paper  revolutionaize thing  ,   japan cannot type  there language very well  
