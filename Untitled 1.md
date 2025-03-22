@@ -1,3 +1,4 @@
 
 rayluz :  
-- the chat bot  
+- the chat bot  does not know if the 
+- 
