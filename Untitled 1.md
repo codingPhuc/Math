@@ -86,4 +86,8 @@ rayluz
 -  audit  engine  .aut  
 - data engineer  for  recent  election  
 - history  master   electronic  enginnering  
-- work  at navel  ocean  f
+- work  at navel  ocean  for  a while   
+- bougous   coperation  
+- envidia video  game  dragon  layer  laizer  displace game 
+- laizer  printer  
+- visiting  a place in  pensivanial  , 70 plant each 
