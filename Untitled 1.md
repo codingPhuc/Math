@@ -4,4 +4,6 @@ rayluz :
 -  smarter   response  for  longer  conversation  
 - tracking thing   started with  making  a printing  out other tools  which  
 - summarize the  repo   scan  a project and summarize it  .  It  can report  incorrect  file and  unexpected change  
-handling   razor  :  
+handling   drake  : 
+- look  at stock   ,  it does not see in  here interact though the key  find the one it does not have , 
+- ra
