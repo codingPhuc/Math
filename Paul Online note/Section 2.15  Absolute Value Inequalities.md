@@ -113,4 +113,4 @@ $$
   \\
 \end{array} 
 $$
-absolute value   will always  be   more ir
+absolute value   will always  be   more or equal to  zero  . So the interval  notation that we will get is  $(-\infty ,  \infty)$ 
