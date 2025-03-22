@@ -362,8 +362,8 @@ $$
 \mid 2x-3 \mid        =   4-x     \\
 \left\{
 \begin{array}{l} 
-\mid 2x-3 \mid        =   4-x    \\
-1 +   3u = -6u    \\
+2x-3        =   4-x    \\
+2x-3        =   -(4-x)        \\
 
 \end{array} \\
 
