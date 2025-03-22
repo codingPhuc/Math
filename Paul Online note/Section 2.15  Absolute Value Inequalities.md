@@ -24,3 +24,13 @@ $$
 \end{array} 
 $$
 the interval  solution   is  $(-3,  7)$
+
+$$
+\begin{array}{l}
+\mid 9m   +  2\mid <  1    \\
+-1<   9m   +  2 <  1  \\
+-3  <  9m     <    -1  \\
+-\frac{3}{9}  <  m   <   7  
+\end{array} 
+$$
+the interval  solution   is  $(-3,  7)$
