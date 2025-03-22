@@ -134,3 +134,9 @@ $$
 \end{array} 
 $$
 Okay ,  if it an absolute value then there was  no solution  that  satisfy the problem    
+$$
+\begin{array}{l}
+\mid 2x - 9  \mid   \geq   -8   \; \cap  \mid 2x−9 \mid     \geq  -8   \\
+
+\end{array} 
+$$
