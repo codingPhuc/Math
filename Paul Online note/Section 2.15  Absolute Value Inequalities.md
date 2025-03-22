@@ -10,3 +10,7 @@ $$
 -4\leq p  \leq 4
 $$
 we could  get a similar    < and  get a similar result 
+In general  ,  we have to following  formulas to use here ,  
+$$
+
+$$
