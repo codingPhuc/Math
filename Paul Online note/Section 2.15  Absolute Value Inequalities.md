@@ -90,4 +90,7 @@ t   < -\frac{4}{3} & t  >  2
 $$
 the interval  solution   is  $( 2 ,  \infty ) \cap(-\infty,  -\frac{4}{3} )$
 
- #
+
+
+
+##  
