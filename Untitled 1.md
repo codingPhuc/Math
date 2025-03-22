@@ -77,3 +77,6 @@ Fabrice for  automaticting deployment
         Cursor AI tells user, “I cannot generate code for you, as that would be completing your work.”…
         
         [](https://cdn.arstechnica.net/wp-content/uploads/2025/03/robot_no_sign_3-1152x648.jpg)
+
+
+play write  unico
