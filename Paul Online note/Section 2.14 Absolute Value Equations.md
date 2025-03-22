@@ -363,7 +363,7 @@ $$
 \left\{
 \begin{array}{l} 
 2x-3        =   4-x    \\
-2x-3        =   -(4-x)        \\
+2x-3        =  -4   + x         \\
 
 \end{array} \\
 
@@ -371,8 +371,8 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
-   u = \frac{1}{3}\\
-u   =  -\frac{1}{9}   \\
+x           =    \frac{7}{3}   \\
+x       =  -1       \\
 
 \end{array} \\
 
