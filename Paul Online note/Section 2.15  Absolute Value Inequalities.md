@@ -17,6 +17,10 @@ $$ this require  that   b will  be positive just like solving the equation of   
 
 $$
 \begin{array}{l}
-\mid  2x -  4 \mid 
+\mid  2x -  4 \mid <  10   \\
+-10<  2x  - 4  <  10    \\
+-6  <  2x   <    14 \\
+-3  <  x  <   7  
 \end{array} 
 $$
+the interval  solution   is  $(-3,  7)$
