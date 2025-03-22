@@ -434,8 +434,8 @@ x^2   +  2x    +  15     =   0  \\
 \implies
  \left\{
 \begin{array}{l} 
-x   =   -\frac{2}{} \\
-x^2   +  2x    +  15     =   0  \\
+x   =  -5 \\
+x  =   \\
 \end{array} \\
 \right.
 \end{array}
