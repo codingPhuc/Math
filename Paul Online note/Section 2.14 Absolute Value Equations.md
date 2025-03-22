@@ -405,7 +405,37 @@ $$
  \left\{
 \begin{array}{l} 
 z   =   \frac{4}{9}    \\
+z =   \frac{20}{7}   \\
+\end{array} \\
+\right.
+\end{array}
+$$
+
+
+
+$$
+\begin{array}{l}
+\mid \frac{1}{2}z  + 4 \mid        =   \mid  4z -6 \mid     \\
+\left\{
+\begin{array}{l} 
+\frac{1}{2}z  + 4        =   -4z  + 6    \\
+\frac{1}{2}z  + 4       =  4z -6         \\
+
+\end{array} \\
+
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+\frac{9}{2} z   =   2    \\
 -\frac{7}{2}z =    -10    \\
+\end{array} \\
+\right.    
+\implies
+ \left\{
+\begin{array}{l} 
+z   =   \frac{4}{9}    \\
+z =   \frac{20}{7}   \\
 \end{array} \\
 \right.
 \end{array}
