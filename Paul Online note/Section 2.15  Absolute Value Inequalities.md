@@ -187,10 +187,18 @@ there  is no  solution  for the problem  since  an absolute value cannot  be  le
 
 $$
 \begin{array}{l}
+\mid 2w -  1  \mid   < 1       \\
+0 <  2w   < 1  \\
+0 \leq  w   \leq \frac{1}{2}   \\
+\end{array}
+
+$$  
+
+$$
+\begin{array}{l}
 \mid 2w -  1  \mid    \leq 1       \\
-0 \leq  2w -  1  \leq 1  \\
-- 16  \leq \ -5x   \leq 2   \\
-- \frac{4}{5}  \leq  x   \leq  \frac{16}{5}
+0 \leq  2w   \leq 1  \\
+0 \leq  w   \leq \frac{1}{2}   \\
 \end{array}
 
 $$
