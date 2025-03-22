@@ -220,8 +220,8 @@ $$
 
 $$
 \begin{array}{l}
-\mid 2z -  7 \mid    >  1       \\
-2z -  7    >  1  \cap   2z -  7    < 1   \\
+\mid 10−3w  \mid    > 4       \\
+10−3w  \geq 4  \cap  10−3w \leq 4   \\
 z    >  4  \cap   z    < -3    \\
 \end{array}
 
