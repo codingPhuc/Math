@@ -136,7 +136,9 @@ $$
 Okay ,  if it an absolute value then there was  no solution  that  satisfy the problem    
 $$
 \begin{array}{l}
-\mid 2x - 9  \mid   \geq   -8   \; \cap  \mid 2x−9 \mid     \geq  -8   \\
+\mid 2x - 9  \mid   \geq   -8   \; \cap  \mid 2x−9 \mid     >   -8   \\
 
 \end{array} 
 $$
+so  for this solution  because it is an  operation we  only  need to care about  $\mid 2x−9 \mid     >   -8$
+
