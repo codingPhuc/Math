@@ -141,4 +141,9 @@ $$
 \end{array} 
 $$
 so  for this solution  because it is an  operation we  only  need to care about  $\mid 2x−9 \mid     >   -8$
+$$
+\begin{array}  {l }
+ 2x−9 >  -8    \\
 
+\end{array}
+$$
