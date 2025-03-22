@@ -388,8 +388,8 @@ $$
 \mid \frac{1}{2}z  + 4 \mid        =   \mid  4z -6 \mid     \\
 \left\{
 \begin{array}{l} 
-\frac{1}{2}z  + 4        =   -4z  +     \\
-\frac{1}{2}z  + 4       =  -4   + x         \\
+\frac{1}{2}z  + 4        =   -4z  + 6    \\
+\frac{1}{2}z  + 4       =  4z -6         \\
 
 \end{array} \\
 
@@ -397,9 +397,8 @@ $$
 \implies
  \left\{
 \begin{array}{l} 
-x           =    \frac{7}{3}   \\
-x       =  -1       \\
-
+\frac{9}{2} z   =   2    \\
+       \\
 \end{array} \\
 
 \right.
