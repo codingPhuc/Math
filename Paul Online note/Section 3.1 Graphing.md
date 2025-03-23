@@ -484,9 +484,8 @@ finding the x  intercept  we will need the coordinate  y  to  be   0
 
 $$
 \begin{array} {l}
- 6- x^2    = 0    \\
-x  =  \frac{10}{3 }
-
+ 6- x^2   = 0    \\
+x  =  \pm  \sqrt{  6 } 
 \end{array} 
 
 $$
