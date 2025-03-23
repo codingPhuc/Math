@@ -71,10 +71,17 @@ Let say that  we do not  know what the equation  is  or   method to  quickly  dr
 sketch the  graph  of $y= (x-1)^2  -4$  
 $$
 \begin{array}{l}
-y= (x-1)^2  -4   
+y= (x-1)^2  -4     \\
+x = \pm 2  - 1  \\
+\begin{array}{l} 
+x =  -4  \\
+x  =  +  4    \\
+x  =    1     \\
+\end{array} \\ 
 \end{array}
 $$
-I choose 3  point    x =   0   , x  = 
+
+
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
