@@ -440,7 +440,7 @@ $$
 	\fill (0,1) circle (2pt) node[above right] {$(0,1)$}; 
 	\fill (3,-8) circle (2pt) node[above right] {$(3,-8)$}; 
     % Draw the parabola
-    \draw[thick, blue, domain=-3:3, smooth] plot (\x, {2 +  \sqrt{(\x)} });
+    \draw[thick, blue, domain=-0:3, smooth] plot (\x, {2 +  sqrt(\x) });
 \end{tikzpicture}
 \end{document}
 
