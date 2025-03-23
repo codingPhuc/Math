@@ -188,10 +188,8 @@ x =  -  \sqrt{ 2 }i
 \end{array} 
 
 $$
-so the   x  intercept  of the equation  is  :   
-$$
-(+ \sqrt{ 2 }i   , 0  ) \cap (- \sqrt{ 2 }i   , 0  ) 
-$$
+Note that we have  a complex solution  resulting in  us  not having a  x  intercept  
+
 finding the y  intercept  we will need the coordinate  x  to  be   0    
 
 $$
@@ -227,7 +225,7 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-3:1, smooth] plot (\x, { (\x)^2   + 2 });
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { (\x)^2   + 2 });
 \end{tikzpicture}
 \end{document}
 
