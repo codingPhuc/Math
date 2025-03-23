@@ -173,11 +173,11 @@ finding the x  intercept  we will need the coordinate  y  to  be   0
 
 $$
 \begin{array} {l}
- x^2  + x  - 6  =     0  \\
-(x +  3)(x- 2 )  = 0  \\
+x^2   + 2  =     0  \\
+x   = \pm  \sqrt{ 2 }i  \\
 \left\{ \begin{array}{l} 
-x  =  -3  \\
-x =    2  
+x  =  + \sqrt{ 2 }i   \\
+x =  -  \sqrt{ 2 }i   
 \end{array} \\
 \right.   \\
 
