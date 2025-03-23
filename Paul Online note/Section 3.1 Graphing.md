@@ -273,7 +273,7 @@ $$
     \fill (3,0) circle (2pt) node[above right] {$(3,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {(\x  -1 )^2 -4});
+    \draw[thick, blue, domain=-3:1, smooth] plot (\x, {(\x  + 1)^2});
 \end{tikzpicture}
 \end{document}
 
