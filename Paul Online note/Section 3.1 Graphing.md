@@ -79,7 +79,7 @@ x =   -1
 \end{array} \\ 
 \end{array}
 $$
-x   =0     y  =   -3  ,  x   =  -2  y   =   ,  x   =  4  
+x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5 
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -101,17 +101,13 @@ x   =0     y  =   -3  ,  x   =  -2  y   =   ,  x   =  4
     }
 
     % Text annotations  
-	\node at ( -5,5) {$\text{Quadrant II}$};
-    \node at ( -3,2) {$( -3,2)$}; 
-    \node at ( 5,5)  {$\text{Quadrant I}$};
+    \node at ( -3,2) {$(0,-3)$}; 
+
     \node at ( 1,2) {$( 1,2)$};
-    
+
     \node at ( 2,1) {$( 2,1)$};
     \node at ( 1,2) {$( 1,2)  $};
-
-	\node at ( -5,-5)  {$\text{Quadrant III}$};
     \node at ( -1,-3) {$( -1,-3)$}; 
-    \node at ( 5,-5)  {$\text{Quadrant IV}$};
     \node at (3,-3) {$(3,-3)$};
     
 \end{tikzpicture}
