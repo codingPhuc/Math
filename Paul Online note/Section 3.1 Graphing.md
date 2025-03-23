@@ -227,7 +227,7 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-3:1, smooth] plot (\x, { \x^2   + 2 });
+    \draw[thick, blue, domain=-3:1, smooth] plot (\x, { (\x)^2   + 2 });
 \end{tikzpicture}
 \end{document}
 
