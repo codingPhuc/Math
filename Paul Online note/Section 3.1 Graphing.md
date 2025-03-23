@@ -137,7 +137,9 @@ finding the x  intercept  we will need the coordinate  y  to  be   0
 
 $$
 \begin{array} {l}
- y  = x^2  + x  - 6    \\
+ x^2  + x  - 6  =     0  \\
+(x +  3)(x- 2 )  = 0  \\
+   \\
 
 \end{array} 
 
