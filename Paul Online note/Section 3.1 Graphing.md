@@ -148,3 +148,8 @@ x =    2
 \end{array} 
 
 $$
+so the   x  intercept  of the equation  is  : 
+$$
+(-3, 0) \cap (2, 0)
+$$
+finding the y  intercept  we will need the coordinate  y  to  be   0  
