@@ -184,3 +184,16 @@ x =  -  \sqrt{ 2 }i
 \end{array} 
 
 $$
+so the   x  intercept  of the equation  is  :   
+$$
+()
+$$
+finding the y  intercept  we will need the coordinate  x  to  be   0    
+
+$$
+\begin{array} {l}
+  y  =    0^2   + 2   \\
+  y  =      2     \\
+
+\end{array} 
+$$
