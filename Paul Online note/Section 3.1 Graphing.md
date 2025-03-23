@@ -467,11 +467,44 @@ finding the y  intercept  we will need the coordinate  x  to  be   0
 
 $$
 \begin{array} {l}
-3x  - 10   = 0   \\
-  y  =      1     \\
+-7y    = 10 \\
+  y  =     -\frac{10}{7}   \\
 
 \end{array} 
 $$so the  y intercept  of the equation is :    
 $$
-(0 ,1)
+(0 ,-\frac{10}{7})
+$$ 
+
+
+
 $$
+3x   -  7y    = 10  
+$$
+finding the x  intercept  we will need the coordinate  y  to  be   0     
+
+$$
+\begin{array} {l}
+3x  - 10   = 0    \\
+x  =  \frac{10}{3 }
+
+\end{array} 
+
+$$
+so the   x  intercept  of the equation  is  :   
+$$
+\left( \frac{10}{3}  , 0   \right) 
+$$
+finding the y  intercept  we will need the coordinate  x  to  be   0    
+
+$$
+\begin{array} {l}
+-7y    = 10 \\
+  y  =     -\frac{10}{7}   \\
+
+\end{array} 
+$$so the  y intercept  of the equation is :    
+$$
+(0 ,-\frac{10}{7})
+$$ 
+
