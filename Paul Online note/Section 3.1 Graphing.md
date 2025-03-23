@@ -58,4 +58,8 @@ $$
 \begin{aligned}&-3\overset{?}{\operatorname*{\operatorname*{=}}}\left(2-1\right)^2-4\\&-3\overset{?}{\operatorname*{\operatorname*{=}}}\left(1\right)^2-4\\&-3=-3\quad\mathrm{OK}\end{aligned}
 $$
 so the coordinate  does not satisfy the equation   
-let  look  at another equa
+let  look  at another equation   ( 1  ,  5 ) for example   plugging in these coordinate give  
+$$
+\begin{aligned}&5\overset{?}{\operatorname*{\operatorname*{=}}}\left(1-1\right)^2-4\\&5\overset{?}{\operatorname*{\operatorname*{=}}}\left(0\right)^2-4\\&5\neq-4\quad\mathrm{NOT~OK}\end{aligned}
+$$
+
