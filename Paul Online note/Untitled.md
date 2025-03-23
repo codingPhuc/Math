@@ -18,14 +18,14 @@
     }
 
     % Text annotations
-    \node at ( -3,2) {$x = -2$};
-    \node at ( 1,2) {$ \frac{-1}{7}  > 0    $};
+    \node at ( -3,2) {$( -3,2)$};
+    \node at ( 1,2) {$( 1,2)$};
     
-    \node at ( 0,1.8) {$x = 0$};
-    \node at ( 0,1.2) {$\frac{-1}{5}  > 0      $};
+    \node at ( 2,1) {$( 2,1)$};
+    \node at ( 1,2) {$\frac{-1}{5}  > 0      $};
     
-    \node at ( 6,1.8) {$x = 6$};
-    \node at (6,1.2) {$7 >  0 $};
+    \node at ( -1,-3) {$x = 6$};
+    \node at (3,-3) {$7 >  0 $};
     
 \end{tikzpicture}
 \end{document}
