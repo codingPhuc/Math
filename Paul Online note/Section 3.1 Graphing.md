@@ -556,7 +556,7 @@ finding the x  intercept  we will need the coordinate  y  to  be   0
 
 $$
 \begin{array} {l}
-x^2   +  6x    -  7   =   0  \\
+x^2   +  10   =    0  \\
 (x   +  7) (x  - 1 ) =  \pm  \sqrt{  6 }   \\
 \left\{ \begin{array}{l} 
 x  = -7  \\
