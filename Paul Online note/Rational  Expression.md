@@ -484,3 +484,9 @@ $$
 \frac{-6}{\sqrt{5x}+10\sqrt{y}}
 $$
 ## determine if the statement is true or false. If it is false explain why it is false. 
+$$
+\sqrt[3]{x+6}=\sqrt[3]{x}+\sqrt[3]{6}
+$$
+$$
+\sqrt[4]{x^2}=\sqrt{x}
+$$
