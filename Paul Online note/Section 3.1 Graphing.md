@@ -20,7 +20,8 @@ We will start off with a    Rectangular or Cartesian coordinate system  .   This
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     }
 
-    % Text annotations
+    % Text annotations  
+	\node at ( -3,4) {$\text{}$};
     \node at ( -3,2) {$( -3,2)$};
     \node at ( 1,2) {$( 1,2)$};
     
