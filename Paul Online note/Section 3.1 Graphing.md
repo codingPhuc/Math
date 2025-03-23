@@ -634,12 +634,15 @@ finding the x  intercept  we will need the coordinate  y  to  be   0
 $$
 \begin{array} {l}
 (x +  3)^2   - 8   = 0  \\
-(x +  3)^2   = 8   \\
+(x +  3)^2   = 8    \\
+x  +  3   =  \pm  2\sqrt{ 2 }\\
 
 \left\{ \begin{array}{l} 
- x  + 2  =2\sqrt{ 2 } \\
-x =  -3  -   7i 
-\end{array} \\
+ x  + 3   =2\sqrt{ 2 } \\
+x  +  3 =   -2\sqrt{  2  } 
+\end{array} \\  \\
+\implies  \\
+ }
 \right.   \\
 \end{array} 
 
