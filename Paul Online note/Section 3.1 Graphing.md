@@ -595,7 +595,8 @@ finding the x  intercept  we will need the coordinate  y  to  be   0
 $$
 \begin{array} {l}
 x^2     +   6x+ 58   =  y  \\
-x    =  -\frac{6 +  \sqrt{ 36   -  232    }}{2}  \\
+x    =  \frac{-6 \pm \sqrt{ 36   -  232    }}{2}    \\
+x   =   -3  \pm  7\\
 \left\{ \begin{array}{l} 
 x  = -10  \\
 x =  10 
