@@ -101,17 +101,11 @@ x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5
     }
 
     % Text annotations  
-    \node at ( -3,2) {$(0,-3)$}; 
-
-    \node at ( 1,2) {$( 1,2)$};
-
-    \node at ( 2,1) {$( 2,1)$};
-    \node at ( 1,2) {$( 1,2)  $};
-    \node at ( -1,-3) {$( -1,-3)$}; 
-    \node at (3,-3) {$(3,-3)$};
-    
+    \node at (0,-3) {$(0,-3)$}; 
+    \node at ( -2,5){$( -2,5)$};
+    \node at ( 4,5) {$( 4,5)$};
 \end{tikzpicture}
 \end{document}
 
 
-```
+``` 
