@@ -336,7 +336,7 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-3:3, smooth] plot (\x, {3  \x   +  4});
+    \draw[thick, blue, domain=-3:3, smooth] plot (\x, {3\div  \x   +  4});
 \end{tikzpicture}
 \end{document}
 
