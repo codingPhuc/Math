@@ -21,13 +21,15 @@ We will start off with a    Rectangular or Cartesian coordinate system  .   This
     }
 
     % Text annotations  
-	\node at ( -3,4) {$\text{}$};
-    \node at ( -3,2) {$( -3,2)$};
+	\node at ( -5,5) {$\text{Quadrant II}$};
+    \node at ( -3,2) {$( -3,2)$}; 
+    \node at ( 5,5)  {$\text{Quadrant I}$};
     \node at ( 1,2) {$( 1,2)$};
     
     \node at ( 2,1) {$( 2,1)$};
     \node at ( 1,2) {$( 1,2)  $};
-    
+
+	\node at ( -5,-5)  {$\text{Quadrant IV}$};
     \node at ( -1,-3) {$( -1,-3)$};
     \node at (3,-3) {$(3,-3)$};
     
