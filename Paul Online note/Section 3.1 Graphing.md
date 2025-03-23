@@ -119,4 +119,6 @@ x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5
 
 
 ``` 
-notice that we used a different  scale  on each of the axes  .  
+
+
+ in this  axis system  ,  we  only   need to  go as much  as needed   .  since  we  
