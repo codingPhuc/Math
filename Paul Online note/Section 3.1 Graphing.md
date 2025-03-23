@@ -606,16 +606,17 @@ x =  -3  -   7i
 
 $$
 
-because there is a  complex  number in this equation there is no  x-interc
-finding the y  intercept  we will need the coordinate  x  to  be   0    
+because there is a  complex  number in this equation there is no  x-intercept 
 
+
+finding the y  intercept  we will need the coordinate  x  to  be   0    
 $$
-\begin{array} {l}
- y  =  10 
+\begin{array} {l} \\
+ 58   =  y 
 
 \end{array} 
 $$so the  y intercept  of the equation is :    
 $$
-(0 ,10)
+(0 ,58)
 $$ 
 
