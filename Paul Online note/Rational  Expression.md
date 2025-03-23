@@ -442,3 +442,4 @@ $$
 \sqrt[3]{343}
 $$
 
+##  simplify each of the following. Assume that xx, yy and zz are all positive. 
