@@ -433,8 +433,8 @@ $$
         \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     }
-
-
+	\fill (4,4) circle (2pt) node[above right] {$(-1,0)$};
+	\fill (0,2) circle (2pt) node[above right] {$(-1,0)$};
 
     % Draw the parabola
     \draw[thick, blue, domain=0:3, smooth] plot (\x, {2 +  sqrt(\x) });
