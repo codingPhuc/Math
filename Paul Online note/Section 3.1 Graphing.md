@@ -73,10 +73,11 @@ $$
 \begin{array}{l}
 y= (x-1)^2  -4     \\
 x = \pm 2  + 1  \\
-\begin{array}{l} 
+\left\{ \begin{array}{l} 
 x  =  3  \\
 x =   -1  
-\end{array} \\ 
+\end{array} \\
+\right.
 \end{array}
 $$
 x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5 
