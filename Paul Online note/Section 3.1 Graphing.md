@@ -46,4 +46,4 @@ the horizontal  and vertical   horizontal and vertical  axes ,  typically called
 - Quadrant III  x <   0    ,  or  x  negative  y   <  0  or  y  negative  
 - Quadrant III  x >   0    ,  or  x  positive   y   <  0  or  y  negative 
 
-each  point in the coordinate system  is define by the order  pair  of the point ( x  ,   y  )   .  The first number listed x  coordinate ,  
+each  point in the coordinate system  is define by the order  pair  of the point ( x  ,   y  )   .  The first number listed x  coordinate  of the point and the second  is the y   coordinate of the  point  .  
