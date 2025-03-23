@@ -661,11 +661,11 @@ $$
 finding the y  intercept  we will need the coordinate  x  to  be   0    
 $$
 \begin{array} {l} \\
- 58   =  y 
+y   =  1  
 
 \end{array} 
 $$so the  y intercept  of the equation is :    
 $$
-(0 ,58)
+(0 ,1)
 $$ 
 
