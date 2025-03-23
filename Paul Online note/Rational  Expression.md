@@ -447,3 +447,5 @@ $$
 $$
 \frac{\frac{3}{x+1}}{\frac{x+4}{x^2 + 11x + 10}}
 $$
+
+## For problems 8 – 12 perform the indicated operations. 
