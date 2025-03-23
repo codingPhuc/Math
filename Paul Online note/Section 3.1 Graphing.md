@@ -128,4 +128,13 @@ Additionally  ,  you can  see in the  graph that the point is cross on 3  line  
 
 Now  since the  x  intercept cross x-axis  then the y coordinate of the  x-intercept is   0   . Similarly , if the  y-intercept  cross the  x-axis then the x coordinate of the  y-intercepts  is  0  
 
+##  Determine the x  
 
+
+$$
+\begin{array}{l}
+
+\end{array}
+
+
+$$
