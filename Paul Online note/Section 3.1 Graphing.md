@@ -101,17 +101,19 @@ x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5
     }
 
     % Text annotations  
-	\fill (0,-3) circle (2pt);
-    \fill (-2,5) circle (2pt);
-    \fill (4,5) circle (2pt);
+    \fill (0,-3) circle (2pt) node[above right] {$(0,-3)$};
+    \fill (-2,5) circle (2pt) node[above left] {$(-2,5)$};
+    \fill (4,5) circle (2pt) node[above right] {$(4,5)$};
 
-    % Draw line connecting the points
-    \draw[thick, blue]  (-2,5)  -- (0,-3) -- (4,5);
+    % Add additional points
+    \fill (-3,12) circle (2pt) node[above left] {$(-3,12)$};
+    \fill (-1,0) circle (2pt) node[above right] {$(-1,0)$};
+    \fill (1,-4) circle (2pt) node[below right] {$(1,-4)$};
+    \fill (2,-3) circle (2pt) node[below right] {$(2,-3)$};
+    \fill (3,0) circle (2pt) node[above right] {$(3,0)$};
 
-    % Text annotations  
-    \node at (0.7,-3) {$(0,-3)$}; 
-    \node at (-3,5.3) {$( -2,5)$};
-    \node at (4.7,5.3) {$(4,5)$};
+    % Draw the parabola
+    \draw[thick, blue, domain=-4.5:5.5, smooth] plot (\x, {(\x)^2 - 2*(\x) - 3});
 \end{tikzpicture}
 \end{document}
 
