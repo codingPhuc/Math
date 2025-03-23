@@ -79,7 +79,7 @@ x =   -1
 \end{array} \\ 
 \end{array}
 $$
-x   =0     ,   
+x   =0     y  =   -3  ,  x   =  -2  y   =   ,  x   =  4  
 
 ```tikz
 \usepackage{amsmath,amssymb}
