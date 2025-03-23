@@ -113,10 +113,12 @@ x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5
     \fill (3,0) circle (2pt) node[above right] {$(3,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {(\x)^2 - 2*(\x) - 3});
+    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {(\x  -1 )^2 -4});
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
+
+
 
