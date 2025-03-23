@@ -225,17 +225,57 @@ x  =  -1\\
 $$
 so the   x  intercept  of the equation  is  :   
 $$
-(+ \sqrt{ 2 }i   , 0  ) \cap (- \sqrt{ 2 }i   , 0  ) 
+(-1  , 0  ) 
 $$
 finding the y  intercept  we will need the coordinate  x  to  be   0    
 
 $$
 \begin{array} {l}
-  y  =    0^2   + 2   \\
-  y  =      2     \\
+  y  =    (0  + 1)^2    \\
+  y  =      1     \\
 
 \end{array} 
 $$so the  y intercept  of the equation is :    
 $$
-(0 ,2 )
+(0 ,1)
 $$
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    \fill (0,-3) circle (2pt) node[above right] {$(0,-3)$};
+    \fill (-2,5) circle (2pt) node[above left] {$(-2,5)$};
+    \fill (4,5) circle (2pt) node[above right] {$(4,5)$};
+
+    % Add additional points
+ %%    \fill (-3,12) circle (2pt) node[above left] {$(-3,12)$}; %%
+    \fill (-1,0) circle (2pt) node[above right] {$(-1,0)$};
+    \fill (1,-4) circle (2pt) node[below right] {$(1,-4)$};
+    \fill (2,-3) circle (2pt) node[below right] {$(2,-3)$};
+    \fill (3,0) circle (2pt) node[above right] {$(3,0)$};
+
+    % Draw the parabola
+    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {(\x  -1 )^2 -4});
+\end{tikzpicture}
+\end{document}
+
+
+``` 
