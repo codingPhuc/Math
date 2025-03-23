@@ -187,7 +187,7 @@ $$
 
 
 
-## assignment problem  
+## Perform the indicated operation and write your answer in standard form.
 
 $$
  .\left(2-\frac{1}{2}i\right)\left(-\frac{1}{3}+5i\right)
@@ -221,4 +221,7 @@ $$
 
 $$
  (2-14i)\left(2+14i\right)
+$$
+$$
+\left(6+2i\right)^2
 $$
