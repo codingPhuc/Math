@@ -466,7 +466,7 @@ $$
 $$
 \left(\sqrt[4]{x}+\sqrt[4]{x^2}\right)^2
 $$
-## rationalize the denominator. Assume that xx and yy are both positive. 
+## rationalize the denominator. Assume that x and y are both positive. 
 
 $$
 \frac{2}{4-\sqrt{x}}
