@@ -54,3 +54,8 @@ now we  need to discuss graphing an equation  . The first question  is  how can 
 for example , the  point ( 2 ,   -3)  is the point on the graph  of   $y=(x−1)^2−4y$ while  (1, 5)   is not on the graph  .  
 
 in this case  we have x    = 2  and  y  =  -3   so  plugging   in gives  
+$$
+\begin{aligned}&-3\overset{?}{\operatorname*{\operatorname*{=}}}\left(2-1\right)^2-4\\&-3\overset{?}{\operatorname*{\operatorname*{=}}}\left(1\right)^2-4\\&-3=-3\quad\mathrm{OK}\end{aligned}
+$$
+so the coordinate  does not satisfy the equation   
+let  look  at another equa
