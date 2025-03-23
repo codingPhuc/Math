@@ -311,4 +311,11 @@ $$
 
 
 the  equation that you have given me  have been a mistery 
-the mind pain  
+the mind pain   
+
+
+paper  writing  for something  
+blood  of war  
+democrat 
+desire 
+blood though  ev
