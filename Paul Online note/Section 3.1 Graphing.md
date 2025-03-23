@@ -305,3 +305,10 @@ $$
 
 y  =  3x   +  4  
 $$
+
+
+
+
+
+the  equation that you have given me  have been a mistery 
+the mind pain  
