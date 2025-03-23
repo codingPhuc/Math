@@ -198,3 +198,10 @@ $$
 $$
 \left(9+2i\right)\left(1-3i\right)\left(5+4i\right)
 $$
+
+$$
+ \frac{1+i}{7-i}
+$$
+$$
+\frac{2+4i}{-9+3i}
+$$
