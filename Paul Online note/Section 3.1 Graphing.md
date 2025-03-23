@@ -68,3 +68,5 @@ This question depend  on how much you know the equation in the first place  . Fo
 
 Let say that  we do not  know what the equation  is  or   method to  quickly  draft  a graph  . In this cases  , we just need to find  find  point to fill the graph then draw  line connecting them ,  we will  pick  values  x then compute the  y coordinate  in the  equation  then  plot the graph  by the two  value  
 
+sketch the  graph  of $y= (x-1)^2  -4$  
+$ $y= (x-1)^2  -4$ $
