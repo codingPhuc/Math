@@ -443,3 +443,16 @@ $$
 $$
 
 ##  simplify each of the following. Assume that xx, yy and zz are all positive. 
+$$
+\sqrt[4]{x^3y^{20}z^5}
+$$
+$$
+\sqrt[4]{729x^7yz^{13}}
+$$
+$$
+\sqrt[3]{4x^2y}\sqrt[3]{10x^5y^2}
+
+$$
+$$
+\sqrt{3x}\sqrt{6x}\sqrt{14x}
+$$
