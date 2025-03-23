@@ -642,14 +642,21 @@ x  +  3   =  \pm  2\sqrt{ 2 }\\
 x  +  3 =   -2\sqrt{  2  } 
 \end{array} \\  \\
 \implies  \\
- }
+\left\{ \begin{array}{l} 
+ x  =2\sqrt{ 2 }   -  3 \\
+x  =   -2\sqrt{  2  }  -  3 
+\end{array} \\  \\
+
+\right.   \\
 \right.   \\
 \end{array} 
 
 $$
 
-because there is a  complex  number in this equation there is no  x-intercept 
-
+so the   x  intercept  of the equation  is  :   
+$$
+\left(  2\sqrt{ 2 }   -  3 , 0   \right)  \cap \left( -2\sqrt{ 2 }   -  3 , 0   \right) 
+$$
 
 finding the y  intercept  we will need the coordinate  x  to  be   0    
 $$
