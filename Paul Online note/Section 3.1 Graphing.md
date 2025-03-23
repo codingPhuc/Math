@@ -310,13 +310,7 @@ $$
 
 
 
-the  equation that you have given me  have been a mistery 
-the mind pain   
+|     |     |
+| --- | --- |
+|     |     |
 
-
-paper  writing  for something  
-blood  of war  
-democrat 
-desire 
-blood though  everything  to reach desire 
-fight 
