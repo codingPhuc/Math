@@ -588,14 +588,14 @@ $$
 
 
 $$
-x^2     +   
+x^2     +   6x+ 58   =  y 
 $$
 finding the x  intercept  we will need the coordinate  y  to  be   0     
 
 $$
 \begin{array} {l}
-x^2   +  10   =    0  \\
-x  =  \pm  \sqrt{ 10  }   \\
+x^2     +   6x+ 58   =  y  \\
+(x  -  ) =  \pm  \sqrt{ 10  }   \\
 \left\{ \begin{array}{l} 
 x  = -10  \\
 x =  10 
