@@ -330,19 +330,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 2737,
-        "y": -216,
-        "width": 461,
-        "height": 524,
-        "maximize": true,
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "5c035cef5ff54e6b",
+  "active": "0a9300246026dce5",
   "lastOpenFiles": [
-    "Paul Online note/Rational  Expression.md",
     "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
+    "Paul Online note/Rational  Expression.md",
     "Paul Online note/Section 2.10  Equations with Radicals.md",
     "Paul Online note/Section 2.3 Applications of Linear Equations.md",
     "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",

@@ -421,3 +421,7 @@ $$
 [[7.6 Using Proportions and Rational Methods in Problem Solving]] 
 [[7.5 Solving Rational Equations (Equations with Rational Expressions)]] 
 [[7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions]] 
+
+
+
+
