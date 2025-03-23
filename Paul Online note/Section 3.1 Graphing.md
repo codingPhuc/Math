@@ -516,13 +516,18 @@ finding the x  intercept  we will need the coordinate  y  to  be   0
 $$
 \begin{array} {l}
 x^2   +  6x    -  7   =   0  \\
-(x   _) =  \pm  \sqrt{  6 } 
+(x   +  7) (x  - 1 ) =  \pm  \sqrt{  6 }   \\
+\left\{ \begin{array}{l} 
+x  = -7  \\
+x =  1  
+\end{array} \\
+\right.   \\
 \end{array} 
 
 $$
 so the   x  intercept  of the equation  is  :   
 $$
-\left(  -\sqrt{ 6  }  , 0   \right)  \cap \left(  +\sqrt{ 6 } , 0   \right) 
+\left(  -7 , 0   \right)  \cap \left(  +\sqrt{ 6 } , 0   \right) 
 $$
 finding the y  intercept  we will need the coordinate  x  to  be   0    
 
