@@ -596,19 +596,17 @@ $$
 \begin{array} {l}
 x^2     +   6x+ 58   =  y  \\
 x    =  \frac{-6 \pm \sqrt{ 36   -  232    }}{2}    \\
-x   =   -3  \pm  7\\
+x   =   -3  \pm  7i\\
 \left\{ \begin{array}{l} 
-x  = -10  \\
-x =  10 
+x  =  -3  +   7i \\
+x =  -3  -   7i 
 \end{array} \\
 \right.   \\
 \end{array} 
 
 $$
-so the   x  intercept  of the equation  is  :   
-$$
-\left(  -10 , 0   \right)  \cap \left(  10 , 0   \right) 
-$$
+
+because there is a  complex  number in this equation there is no  x-interc
 finding the y  intercept  we will need the coordinate  x  to  be   0    
 
 $$
