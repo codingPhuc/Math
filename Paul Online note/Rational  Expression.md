@@ -442,7 +442,7 @@ $$
 \sqrt[3]{343}
 $$
 
-##  simplify each of the following. Assume that xx, yy and zz are all positive. 
+##  simplify each of the following. Assume that x, y and z are all positive. 
 $$
 \sqrt[4]{x^3y^{20}z^5}
 $$
