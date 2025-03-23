@@ -79,7 +79,7 @@ x =   -1
 \end{array} \\ 
 \end{array}
 $$
-
+x   =0     ,   
 
 ```tikz
 \usepackage{amsmath,amssymb}
