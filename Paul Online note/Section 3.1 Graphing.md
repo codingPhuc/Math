@@ -35,4 +35,4 @@ We will start off with a    Rectangular or Cartesian coordinate system  .   This
 
 
 ```
-the horizontal  and vertical   horizontal and vertical  axes ,  typically called   
+the horizontal  and vertical   horizontal and vertical  axes ,  typically called   x-axis and  y axis  ,  divide the  coordinate system  up into  quadrant   as shown  above  . 
