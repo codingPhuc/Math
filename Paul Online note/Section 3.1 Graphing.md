@@ -491,14 +491,14 @@ x  =  \pm  \sqrt{  6 }
 $$
 so the   x  intercept  of the equation  is  :   
 $$
-\left( \frac{10}{3}  , 0   \right) 
+\left(  -\sqrt{ 6  }  , 0   \right)  \cap \left(  +\sqrt{ 6 } , 0   \right) 
 $$
 finding the y  intercept  we will need the coordinate  x  to  be   0    
 
 $$
 \begin{array} {l}
--7y    = 10 \\
-  y  =     -\frac{10}{7}   \\
+ 6- x^2   = 0    \\
+x  =  \pm  \sqrt{  6 } 
 
 \end{array} 
 $$so the  y intercept  of the equation is :    
