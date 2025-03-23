@@ -428,3 +428,17 @@ $$
 ## write the expression in exponential form. 
 $$\sqrt[4]{xyz}$$
 $$\sqrt{x+y}$$
+$$
+.\sqrt[3]{a^{3}+b^{3}}
+$$
+## evaluate the radical. 
+$$
+ \sqrt[5]{-1024}
+$$
+$$
+\sqrt[3]{-216}
+$$
+$$
+\sqrt[3]{343}
+$$
+
