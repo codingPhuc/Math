@@ -333,7 +333,7 @@
         "y": 0,
         "width": 768,
         "height": 816,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
