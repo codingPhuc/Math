@@ -35,3 +35,4 @@ We will start off with a    Rectangular or Cartesian coordinate system  .   This
 
 
 ```
+the horizontal  and vertical   horizontal and vertical  axes ,  typically called   
