@@ -445,10 +445,34 @@ $$
 ``` 
 
 
+
 $$
+3x   -  7y    = 10  
+$$
+finding the x  intercept  we will need the coordinate  y  to  be   0     
 
-\begin{array}
+$$
+\begin{array} {l}
+ (x  + 1)^2   =     0  \\
+x  + 1   =   0  \\
+x  =  -1\\  
 
-\end{array}
-3x  - 7y  =  10 
+\end{array} 
+
+$$
+so the   x  intercept  of the equation  is  :   
+$$
+(-1  , 0  ) 
+$$
+finding the y  intercept  we will need the coordinate  x  to  be   0    
+
+$$
+\begin{array} {l}
+  y  =    (0  + 1)^2    \\
+  y  =      1     \\
+
+\end{array} 
+$$so the  y intercept  of the equation is :    
+$$
+(0 ,1)
 $$
