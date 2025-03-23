@@ -152,4 +152,15 @@ so the   x  intercept  of the equation  is  :
 $$
 (-3, 0) \cap (2, 0)
 $$
-finding the y  intercept  we will need the coordinate  y  to  be   0  
+finding the y  intercept  we will need the coordinate  x  to  be   0  $$
+\begin{array} {l}
+  y  =      0^2  + 0  - 6 \\
+  y  =      - 6   \\
+
+\end{array} 
+
+$$
+so the  y intercept  of the equation is :  
+$$
+(0, -6) 
+$$
