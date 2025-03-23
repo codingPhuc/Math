@@ -106,7 +106,7 @@ x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5
     \fill (4,5) circle (2pt) node[above right] {$(4,5)$};
 
     % Add additional points
-    \fill (-3,12) circle (2pt) node[above left] {$(-3,12)$};
+ %%    \fill (-3,12) circle (2pt) node[above left] {$(-3,12)$}; %%
     \fill (-1,0) circle (2pt) node[above right] {$(-1,0)$};
     \fill (1,-4) circle (2pt) node[below right] {$(1,-4)$};
     \fill (2,-3) circle (2pt) node[below right] {$(2,-3)$};
