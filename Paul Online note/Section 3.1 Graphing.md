@@ -297,3 +297,11 @@ $$
 
 
 ``` 
+
+
+# #Practice_Exercise   
+## For problems 1 – 3 construct a table of at least 4 ordered pairs of points on the graph of the equation and use the ordered pairs from the table to sketch the graph of the equation
+$$
+
+y  =  3x   +  4  
+$$
