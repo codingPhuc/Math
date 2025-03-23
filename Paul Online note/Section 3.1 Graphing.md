@@ -52,3 +52,5 @@ The point where two axes  cross is called the  origin  and  has the coordinate  
 now we  need to discuss graphing an equation  . The first question  is  how can  we graph  a equation ?   a  graph is  set of order  pairs  who equation satisfy    the equation  
 
 for example , the  point ( 2 ,   -3)  is the point on the graph  of   $y=(x−1)^2−4y$ while  (1, 5)   is not on the graph  .  
+
+in this case  we have x    = 2  and  y  =  -3   so  plugging   in gives  
