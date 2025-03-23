@@ -42,4 +42,7 @@ We will start off with a    Rectangular or Cartesian coordinate system  .   This
 the horizontal  and vertical   horizontal and vertical  axes ,  typically called   x-axis and  y axis  ,  divide the  coordinate system  up into  quadrant   as shown  above  . 
 
 -  Quadrant I   x >  0    ,  or  x  positive  y   >  0  or  y positive  
-- Quadrant I   x <  0    ,  or  x  neg  y   >  0  or  y positive  
+- Quadrant II    x <  0    ,  or  x  negative    y   >  0  or  y positive   
+- Quadrant III  x <   0    ,  or  x  negative  y   <  0  or  y  negative  
+- Quadrant III  x >   0    ,  or  x  positive   y   <  0  or  y  negative 
+
