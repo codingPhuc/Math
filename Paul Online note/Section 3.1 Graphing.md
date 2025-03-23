@@ -163,4 +163,24 @@ $$
 so the  y intercept  of the equation is :  
 $$
 (0, -6) 
-$$ 
+$$
+
+
+$$
+  y    = x^2   + 2 
+$$
+finding the x  intercept  we will need the coordinate  y  to  be   0     
+
+$$
+\begin{array} {l}
+ x^2  + x  - 6  =     0  \\
+(x +  3)(x- 2 )  = 0  \\
+\left\{ \begin{array}{l} 
+x  =  -3  \\
+x =    2  
+\end{array} \\
+\right.   \\
+
+\end{array} 
+
+$$
