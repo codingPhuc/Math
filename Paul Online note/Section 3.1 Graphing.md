@@ -132,4 +132,12 @@ Now  since the  x  intercept cross x-axis  then the y coordinate of the  x-inter
 $$
  y  = x^2  + x  - 6
 $$
-finding the x  intercept  we will need to  c
+finding the x  intercept  we will need the coordinate  y  to  be   0  
+
+$$
+\begin{array} {l}
+ y  = x^2  + x  - 6    \\
+
+\end{array} 
+
+$$
