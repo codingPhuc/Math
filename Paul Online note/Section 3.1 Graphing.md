@@ -128,8 +128,11 @@ Additionally  ,  you can  see in the  graph that the point is cross on 3  line  
 
 Now  since the  x  intercept cross x-axis  then the y coordinate of the  x-intercept is   0   . Similarly , if the  y-intercept  cross the  x-axis then the x coordinate of the  y-intercepts  is  0  
 
-##  Determine the x  
+##  Determine the x-intercepts and y-intercepts for each of the following equations.  
 
+$$
+y  =   x^2  = 
+$$
 
 $$
 \begin{array}{l}
