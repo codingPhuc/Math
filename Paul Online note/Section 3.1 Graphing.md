@@ -49,5 +49,6 @@ the horizontal  and vertical   horizontal and vertical  axes ,  typically called
 each  point in the coordinate system  is define by the order  pair  of the point ( x  ,   y  )   .  The first number listed x  coordinate  of the point and the second  is the y   coordinate of the  point  .  
 The point where two axes  cross is called the  origin  and  has the coordinate  ( 0  , 0  ) 
 
-now we  need to discuss graphing a  equation  
+now we  need to discuss graphing an equation  . The first question  is  how can  we graph  a equation ?   a  graph is  set of order  pairs  who equation satisfy    the equation  
 
+for 
