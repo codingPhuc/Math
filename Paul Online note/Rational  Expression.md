@@ -425,3 +425,6 @@ $$
 
 
 
+## write the expression in exponential form. 
+$$\sqrt[4]{xyz}$$
+$$\sqrt{x+y}$$
