@@ -449,3 +449,9 @@ $$
 $$
 
 ## For problems 8 – 12 perform the indicated operations. 
+$$
+\frac{1}{x^2-13x+42} + \frac{x+1}{x-6} - \frac{x^2}{x-7} \
+$$
+$$
+\frac{x+10}{(3x+8)^3} + \frac{x}{(3x+8)^2} 
+$$
