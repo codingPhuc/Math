@@ -456,3 +456,10 @@ $$
 $$
 \sqrt{3x}\sqrt{6x}\sqrt{14x}
 $$
+$$
+\sqrt[4]{2xy^3}\sqrt[4]{32x^2y^2}
+$$
+##  multiply each of the following. Assume that xx is positive. 
+$$
+\left(\sqrt{x}+\sqrt{2y}\right)\left(\sqrt{x}-\sqrt{2y}\right)
+$$
