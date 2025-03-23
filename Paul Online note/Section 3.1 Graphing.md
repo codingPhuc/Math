@@ -497,12 +497,42 @@ finding the y  intercept  we will need the coordinate  x  to  be   0
 
 $$
 \begin{array} {l}
- 6- x^2   = 0    \\
-x  =  \pm  \sqrt{  6 } 
+ y  =  6  
 
 \end{array} 
 $$so the  y intercept  of the equation is :    
 $$
-(0 ,-\frac{10}{7})
+(0 ,6)
+$$ 
+
+
+
+
+$$
+x^2   +  6x    -  7   =  y  
+$$
+finding the x  intercept  we will need the coordinate  y  to  be   0     
+
+$$
+\begin{array} {l}
+x^2   +  6x    -  7   =   0  \\
+(x   _) =  \pm  \sqrt{  6 } 
+\end{array} 
+
+$$
+so the   x  intercept  of the equation  is  :   
+$$
+\left(  -\sqrt{ 6  }  , 0   \right)  \cap \left(  +\sqrt{ 6 } , 0   \right) 
+$$
+finding the y  intercept  we will need the coordinate  x  to  be   0    
+
+$$
+\begin{array} {l}
+ y  =  6  
+
+\end{array} 
+$$so the  y intercept  of the equation is :    
+$$
+(0 ,6)
 $$ 
 
