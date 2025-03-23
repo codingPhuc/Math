@@ -7,14 +7,16 @@
 
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
-    \draw[->] (-10,0) -- (7,0) node[right] {};
-    \draw[->] (0,-10) -- (0,7) node[right] {};
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
     % Draw tick marks and labels
+    \foreach \x in {-10,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-10,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
+        \draw (\y,0.1) -- (\x,-0.1) node[below] {\x};
+    }
 
-    
-    % Vertical dashed lines at -2 and 5
-    \draw[dashed] (-1,-1.5) -- (-1,1.5);
-    \draw[dashed] (5 ,-1.5) -- (5,1.5);
     % Text annotations
     \node at ( -2,1.8) {$x = -2$};
     \node at ( -2,1.2) {$ \frac{-1}{7}  > 0    $};
