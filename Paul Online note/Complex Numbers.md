@@ -216,5 +216,9 @@ $$
 \frac{4+5i}{4-5i}
 $$
 $$
+\frac{i\left(10-12i\right)}{\left(2+i\right)\left(-1+4i\right)}
+$$
 
+$$
+ (2-14i)\left(2+14i\right)
 $$
