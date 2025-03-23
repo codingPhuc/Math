@@ -620,3 +620,42 @@ $$
 (0 ,58)
 $$ 
 
+
+
+
+
+
+
+$$
+(x +  3)^2   - 8  =  y 
+$$
+finding the x  intercept  we will need the coordinate  y  to  be   0     
+
+$$
+\begin{array} {l}
+(x +  3)^2   - 8   = 0  \\
+(x +  3)^2   = 8   \\
+
+\left\{ \begin{array}{l} 
+ x  + 2  =2\sqrt{ 2 } \\
+x =  -3  -   7i 
+\end{array} \\
+\right.   \\
+\end{array} 
+
+$$
+
+because there is a  complex  number in this equation there is no  x-intercept 
+
+
+finding the y  intercept  we will need the coordinate  x  to  be   0    
+$$
+\begin{array} {l} \\
+ 58   =  y 
+
+\end{array} 
+$$so the  y intercept  of the equation is :    
+$$
+(0 ,58)
+$$ 
+
