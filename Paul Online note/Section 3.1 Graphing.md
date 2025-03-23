@@ -124,4 +124,5 @@ x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5
  in this  axis system  ,  we  only   need to  go as much  as needed   .  since  we  did  not  go  pass  2 with  the plug  in  computation  resulting in  us  not passing 2  for  the graph  we are drawing 
 
 For a smoother graph we increment each  point by  1  on x and 2   on  y  axis  . 
-Additionally  ,  you can  see in the  graph that the point is cross on 3  line   2 for the x   horizontal axis  and 1 on the y  x  axis , these cross are call  intercepts .  For  further  specification ,  
+Additionally  ,  you can  see in the  graph that the point is cross on 3  line   2 for the x   horizontal axis  and 1 on the y  vertical  axis , these cross are call  intercepts .  For  further  specification ,  when  the line cross the x axis we call  it  an  x-intercept   ,  and if it cross the  y axis we call  it the y-intercept  
+
