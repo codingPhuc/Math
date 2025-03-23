@@ -425,12 +425,25 @@ $$
 
 # assignment    
 
-
-$\frac{x^2 - 6x - 7}{x^2 - 10x + 21}$
+## reduce each of the following to lowest terms. 
+$$\frac{x^2 - 6x - 7}{x^2 - 10x + 21}$$
 
 $$
 \frac{x^2 + 6x + 9}{x^2 - 9} 
 $$
 $$
 \frac{2x^2 - x - 28}{20 - x - x^2}
+$$
+##  perform the indicated operation and reduce the answer to lowest terms.  
+$$
+ \frac{x^2 + 5x - 24}{x^2 + 6x + 8} \cdot \frac{x^2 + 4x + 4}{x^2 - 3x} 
+$$
+$$
+\frac{x^2 - 49}{2x^2 - 3x - 5} \div \frac{x^2 - x - 42}{x^2 + 7x + 6}
+$$
+$$
+ \frac{x^2 - 2x - 8}{2x^2 - 8x - 24} \div \frac{x^2 - 9x + 20}{x^2 - 11x + 30}
+$$
+$$
+\frac{\frac{3}{x+1}}{\frac{x+4}{x^2 + 11x + 10}}
 $$
