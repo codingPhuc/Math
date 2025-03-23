@@ -66,4 +66,4 @@ $$
 The important question is  how can  we sketch the graph  of a  equation  ?   
 This question depend  on how much you know the equation in the first place  . For example  ,   if  we know that the  equation will draw  a line or circle  we can  used  method for determine   equation in these cases .  There  are  also  additional method that we will look at  
 
-Let say that  we do not  know what the equation  is  or   method to  quickly  draft  a graph  . In this cases  , we just nee
+Let say that  we do not  know what the equation  is  or   method to  quickly  draft  a graph  . In this cases  , we just need to find  find  point to fill the graph then draw  line connecting them ,  
