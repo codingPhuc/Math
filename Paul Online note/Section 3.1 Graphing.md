@@ -557,10 +557,10 @@ finding the x  intercept  we will need the coordinate  y  to  be   0
 $$
 \begin{array} {l}
 x^2   +  10   =    0  \\
-(x   +  7) (x  - 1 ) =  \pm  \sqrt{  6 }   \\
+x  =  \pm  \sqrt{ 10  }   \\
 \left\{ \begin{array}{l} 
-x  = -7  \\
-x =  1  
+x  = -10  \\
+x =  10 
 \end{array} \\
 \right.   \\
 \end{array} 
@@ -568,17 +568,55 @@ x =  1
 $$
 so the   x  intercept  of the equation  is  :   
 $$
-\left(  -7 , 0   \right)  \cap \left(  1 , 0   \right) 
+\left(  -10 , 0   \right)  \cap \left(  10 , 0   \right) 
 $$
 finding the y  intercept  we will need the coordinate  x  to  be   0    
 
 $$
 \begin{array} {l}
- y  =  - 7 
+ y  =  10 
 
 \end{array} 
 $$so the  y intercept  of the equation is :    
 $$
-(0 ,-7)
+(0 ,10)
+$$ 
+
+
+
+
+
+
+$$
+x^2     +   
+$$
+finding the x  intercept  we will need the coordinate  y  to  be   0     
+
+$$
+\begin{array} {l}
+x^2   +  10   =    0  \\
+x  =  \pm  \sqrt{ 10  }   \\
+\left\{ \begin{array}{l} 
+x  = -10  \\
+x =  10 
+\end{array} \\
+\right.   \\
+\end{array} 
+
+$$
+so the   x  intercept  of the equation  is  :   
+$$
+\left(  -10 , 0   \right)  \cap \left(  10 , 0   \right) 
+$$
+finding the y  intercept  we will need the coordinate  x  to  be   0    
+
+$$
+\begin{array} {l}
+ y  =  10 
+
+\end{array} 
+$$so the  y intercept  of the equation is :    
+$$
+(0 ,10)
 $$ 
 
