@@ -72,11 +72,10 @@ sketch the  graph  of $y= (x-1)^2  -4$
 $$
 \begin{array}{l}
 y= (x-1)^2  -4     \\
-x = \pm 2  - 1  \\
+x = \pm 2  + 1  \\
 \begin{array}{l} 
-x =  -4  \\
-x  =  +  4    \\
-x  =    1     \\
+x  =  3  \\
+x =   -1  
 \end{array} \\ 
 \end{array}
 $$
