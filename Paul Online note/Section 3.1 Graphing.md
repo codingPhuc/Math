@@ -29,8 +29,9 @@ We will start off with a    Rectangular or Cartesian coordinate system  .   This
     \node at ( 2,1) {$( 2,1)$};
     \node at ( 1,2) {$( 1,2)  $};
 
-	\node at ( -5,-5)  {$\text{Quadrant IV}$};
-    \node at ( -1,-3) {$( -1,-3)$};
+	\node at ( -5,-5)  {$\text{Quadrant III}$};
+    \node at ( -1,-3) {$( -1,-3)$}; 
+    \node at ( 5,-5)  {$\text{Quadrant IV}$};
     \node at (3,-3) {$(3,-3)$};
     
 \end{tikzpicture}
