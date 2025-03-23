@@ -445,7 +445,7 @@ $$
 ``` 
 
 
-
+##  determine the x-intercepts and y-intercepts for the equation. Do not sketch the graph. 
 $$
 3x   -  7y    = 10  
 $$
@@ -475,6 +475,8 @@ $$so the  y intercept  of the equation is :
 $$
 (0 ,-\frac{10}{7})
 $$ 
+
+
 
 
 $$
@@ -508,6 +510,7 @@ $$
 
 
 
+
 $$
 x^2   +  6x    -  7   =  y  
 $$
@@ -527,17 +530,17 @@ x =  1
 $$
 so the   x  intercept  of the equation  is  :   
 $$
-\left(  -7 , 0   \right)  \cap \left(  +\sqrt{ 6 } , 0   \right) 
+\left(  -7 , 0   \right)  \cap \left(  1 , 0   \right) 
 $$
 finding the y  intercept  we will need the coordinate  x  to  be   0    
 
 $$
 \begin{array} {l}
- y  =  6  
+ y  =  - 7 
 
 \end{array} 
 $$so the  y intercept  of the equation is :    
 $$
-(0 ,6)
+(0 ,-7)
 $$ 
 
