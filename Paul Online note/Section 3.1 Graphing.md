@@ -126,3 +126,4 @@ x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5
 For a smoother graph we increment each  point by  1  on x and 2   on  y  axis  . 
 Additionally  ,  you can  see in the  graph that the point is cross on 3  line   2 for the x   horizontal axis  and 1 on the y  vertical  axis , these cross are call  intercepts .  For  further  specification ,  when  the line cross the x axis we call  it  an  x-intercept   ,  and if it cross the  y axis we call  it the y-intercept  
 
+Now  since the  x  intercept cross x-axis
