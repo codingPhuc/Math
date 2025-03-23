@@ -336,11 +336,10 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue] plot (\x, {3*\x   +  4});
+    \draw[thick, blue, domain=-3:1, smooth] plot (\x, {3*\x   +  4});
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
-
 
