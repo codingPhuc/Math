@@ -329,19 +329,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 2513,
-        "y": 8,
-        "width": 370,
-        "height": 420,
-        "maximize": true,
+        "x": -11,
+        "y": 120,
+        "width": 371,
+        "height": 421,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e4002f4f480cac98",
+  "active": "0a9300246026dce5",
   "lastOpenFiles": [
-    "Paul Online note/Faction.md",
     "Paul Online note/Rational exponents.md",
+    "Paul Online note/Faction.md",
     "Paul Online note/Integer Exponents.md",
     "Paul Online note/Polynomials.md",
     "Paul Online note/Rational  Expression.md",
