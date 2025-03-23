@@ -463,3 +463,17 @@ $$
 $$
 \left(\sqrt{x}+\sqrt{2y}\right)\left(\sqrt{x}-\sqrt{2y}\right)
 $$
+$$
+\left(\sqrt[4]{x}+\sqrt[4]{x^2}\right)^2
+$$
+## rationalize the denominator. Assume that xx and yy are both positive. 
+
+$$
+\frac{2}{4-\sqrt{x}}
+$$
+$$
+\frac{9}{\sqrt{3y}+2}
+$$
+$$
+.\frac{4}{\sqrt{7}-6\sqrt{x}}
+$$
