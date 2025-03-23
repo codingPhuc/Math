@@ -123,4 +123,5 @@ x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5
 
  in this  axis system  ,  we  only   need to  go as much  as needed   .  since  we  did  not  go  pass  2 with  the plug  in  computation  resulting in  us  not passing 2  for  the graph  we are drawing 
 
-For a smoother graph we increment each  point by  
+For a smoother graph we increment each  point by  1  on x and 2   on  y  axis  . 
+Additionally  ,  you can  see in the  graph that the point is co
