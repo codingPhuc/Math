@@ -423,4 +423,14 @@ $$
 [[7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions]] 
 
 
-# assinbgm
+# assignment    
+
+
+$\frac{x^2 - 6x - 7}{x^2 - 10x + 21}$
+
+$$
+\frac{x^2 + 6x + 9}{x^2 - 9} 
+$$
+$$
+\frac{2x^2 - x - 28}{20 - x - x^2}
+$$
