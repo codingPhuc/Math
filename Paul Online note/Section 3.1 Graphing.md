@@ -359,7 +359,7 @@ $$
 | $-1$ | $0$             |
 | $1$  | 0               |
 | 0    | 1               |
-| 3    | 8               |
+| 3    | -8              |
 
 
 ```tikz
@@ -382,10 +382,10 @@ $$
     }
 
 
-	\fill (0,-3) circle (2pt) node[above right] {$(0,-3)$};  
-	\fill (0,-3) circle (2pt) node[above right] {$(0,-3)$}; 
-	\fill (0,-3) circle (2pt) node[above right] {$(0,-3)$}; 
-	\fill (0,-3) circle (2pt) node[above right] {$(0,-3)$}; 
+	\fill (-1,0) circle (2pt) node[above right] {$(-1,0)$};  
+	\fill (1,0) circle (2pt) node[above right] {$(1,0)$}; 
+	\fill (0,1) circle (2pt) node[above right] {$(0,1)$}; 
+	\fill (3,-8) circle (2pt) node[above right] {$(3,-8)$}; 
     % Draw the parabola
     \draw[thick, blue, domain=-3:1, smooth] plot (\x, {3*\x   +  4});
 \end{tikzpicture}
