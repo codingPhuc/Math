@@ -101,9 +101,17 @@ x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5
     }
 
     % Text annotations  
-    \node at (0,-3) {$(0,-3)$}; 
-    \node at ( -2,5){$( -2,5)$};
-    \node at ( 4,5) {$( 4,5)$};
+  \fill (0,-3) circle (2pt);
+    \fill (-2,5) circle (2pt);
+    \fill (4,5) circle (2pt);
+
+    % Draw line connecting the points
+    \draw[thick, blue] (0,-3) -- (-2,5) -- (4,5);
+
+    % Text annotations  
+    \node at (0.7,-3) {$(0,-3)$}; 
+    \node at (-3,5.3) {$( -2,5)$};
+    \node at (4.7,5.3) {$(4,5)$};
 \end{tikzpicture}
 \end{document}
 
