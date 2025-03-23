@@ -139,7 +139,11 @@ $$
 \begin{array} {l}
  x^2  + x  - 6  =     0  \\
 (x +  3)(x- 2 )  = 0  \\
-   \\
+\left\{ \begin{array}{l} 
+x  =  -3  \\
+x =    2  
+\end{array} \\
+\right.   \\
 
 \end{array} 
 
