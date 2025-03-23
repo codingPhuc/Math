@@ -63,3 +63,5 @@ $$
 \begin{aligned}&5\overset{?}{\operatorname*{\operatorname*{=}}}\left(1-1\right)^2-4\\&5\overset{?}{\operatorname*{\operatorname*{=}}}\left(0\right)^2-4\\&5\neq-4\quad\mathrm{NOT~OK}\end{aligned}
 $$
 
+The important question is  how can  we sketch the graph  of a  equation  ?   
+This question depend  on how much you know the e
