@@ -453,22 +453,21 @@ finding the x  intercept  we will need the coordinate  y  to  be   0
 
 $$
 \begin{array} {l}
- (x  + 1)^2   =     0  \\
-x  + 1   =   0  \\
-x  =  -1\\  
+3x  - 10   = 0    \\
+x  =  \frac{10}{3 }
 
 \end{array} 
 
 $$
 so the   x  intercept  of the equation  is  :   
 $$
-(-1  , 0  ) 
+\left( \frac{10}{3}  , 0   \right) 
 $$
 finding the y  intercept  we will need the coordinate  x  to  be   0    
 
 $$
 \begin{array} {l}
-  y  =    (0  + 1)^2    \\
+3x  - 10   = 0   \\
   y  =      1     \\
 
 \end{array} 
