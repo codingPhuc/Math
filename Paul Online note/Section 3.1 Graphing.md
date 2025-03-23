@@ -166,6 +166,10 @@ $$
 $$
 
 
+
+
+
+
 $$
   y    = x^2   + 2 
 $$
@@ -186,7 +190,7 @@ x =  -  \sqrt{ 2 }i
 $$
 so the   x  intercept  of the equation  is  :   
 $$
-()
+(+ \sqrt{ 2 }i   , 0  ) \cap (- \sqrt{ 2 }i   , 0  ) 
 $$
 finding the y  intercept  we will need the coordinate  x  to  be   0    
 
@@ -196,4 +200,46 @@ $$
   y  =      2     \\
 
 \end{array} 
+$$so the  y intercept  of the equation is :    
+$$
+(0 ,2 )
+$$ 
+
+
+
+
+
+$$
+  y    = (x  + )
+$$
+finding the x  intercept  we will need the coordinate  y  to  be   0     
+
+$$
+\begin{array} {l}
+x^2   + 2  =     0  \\
+x   = \pm  \sqrt{ 2 }i  \\
+\left\{ \begin{array}{l} 
+x  =  + \sqrt{ 2 }i   \\
+x =  -  \sqrt{ 2 }i   
+\end{array} \\
+\right.   \\
+
+\end{array} 
+
+$$
+so the   x  intercept  of the equation  is  :   
+$$
+(+ \sqrt{ 2 }i   , 0  ) \cap (- \sqrt{ 2 }i   , 0  ) 
+$$
+finding the y  intercept  we will need the coordinate  x  to  be   0    
+
+$$
+\begin{array} {l}
+  y  =    0^2   + 2   \\
+  y  =      2     \\
+
+\end{array} 
+$$so the  y intercept  of the equation is :    
+$$
+(0 ,2 )
 $$
