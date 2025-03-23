@@ -382,7 +382,10 @@ $$
     }
 
 
-
+	\fill (0,-3) circle (2pt) node[above right] {$(0,-3)$};  
+	\fill (0,-3) circle (2pt) node[above right] {$(0,-3)$}; 
+	\fill (0,-3) circle (2pt) node[above right] {$(0,-3)$}; 
+	\fill (0,-3) circle (2pt) node[above right] {$(0,-3)$}; 
     % Draw the parabola
     \draw[thick, blue, domain=-3:1, smooth] plot (\x, {3*\x   +  4});
 \end{tikzpicture}
