@@ -72,7 +72,10 @@ if   we have the equation of the slope  which is  a fraction  of    $m  = \frac{
 so  bases  on the  $m  = \frac{rise}{run}$  and  $m = \frac{y_{2} - y_{1}}{x_{2} -y_{1}}$ we can  get the  second point $(x_{2},  y_{2} )$ by   using the rise( downward or upward trend)   and  run  ( right direction)   to move to  move the point  up or down  and  too  the right  to  get $(x_{2},  y_{2} )$
 $$
 \begin{array}{l}
-x_{2}  =    x_{1}  +  run  
+x_{2}  =    x_{1}  +  run  \\ 
 y_{2}  =  y_{1}  +  rise  
 \end{array}
 $$
+
+## Determine the slope of each of the following lines. Sketch the graph of each line. 
+The line  that contains the two points(-2 ,  -3)  and   (3,1 )
