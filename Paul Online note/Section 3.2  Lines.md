@@ -106,8 +106,8 @@ The line  that contains the two points  (−3,2) and (5,2)
 $$ 
 \begin{array}{l}
 m  = \frac{rise}{run}   \\
-m  =   \frac{  1  +  3 }{3    +   2 }   \\
-m  =  \frac{5}{4}
+m  =   \frac{  2   -2 }{ 5 + 3  }   \\
+m  =  0
 \end{array}
 $$
 
