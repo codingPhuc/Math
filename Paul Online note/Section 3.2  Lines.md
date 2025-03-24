@@ -40,7 +40,9 @@ $$
     \draw[->] (0,-7) -- (0,7) node[right] {}; 
     \draw[->] (-1,-1) -- (6,6) node[right] {}; 
     \draw[-,dotted ] (6,6) -- (6,-1) node[right] {}; 
-    \draw[-,dotted ] (6,-1) -- (-1,-1) node[right] {};
+    \draw[-,dotted ] (6,-1) -- (-1,-1) node[right] {}; 
+    \draw[<->] (-1,-2) -- (6,-2) node[right] {};   
+     \draw[-,dotted ] (7,6) -- (6,-1) node[right] {}; 
     % Draw tick marks and labels
     \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
