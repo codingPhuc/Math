@@ -81,7 +81,9 @@ $$
 The line  that contains the two points (-2 ,  -3)  and   (3,1 )  
 $$ 
 \begin{array}{l}
-
+m  = \frac{rise}{run}   \\
+m  =   \frac{3    +   2  }{1  +  3 }   \\
+m  =  \frac{5}{4}
 \end{array}
+$$
 
-m  = \frac{rise}{run}$$
