@@ -69,4 +69,4 @@ $$
 if   we have the equation of the slope  which is  a fraction  of    $m  = \frac{rise}{run}$  ,  and a point on the  line as   $(x_{1}, y_{1})$ , then we can  easily find the second  point on that line .  Note  however  ,  if the slop  is negative  then the  minus sign  should be  place on the numerator not  the denominator , because it indicate a clear downward trend instead  of  a left or right direction  which will be confusing 
 
 
-so  bases  on the  $m  = \frac{rise}{run}$  and  $m = \frac{y_{2} - y_{1}}{x_{2} -y_{1}}$ we can  get the  second point $(x_{2},  y_{2} )$ by   using the rise( downward or upward trend)   and  run  ( left or right r)
+so  bases  on the  $m  = \frac{rise}{run}$  and  $m = \frac{y_{2} - y_{1}}{x_{2} -y_{1}}$ we can  get the  second point $(x_{2},  y_{2} )$ by   using the rise( downward or upward trend)   and  run  ( left or right direction)   to  subtract  the  available coordinate  to get the ream
