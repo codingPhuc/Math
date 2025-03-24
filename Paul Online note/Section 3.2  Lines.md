@@ -12,4 +12,6 @@ is  a  line    ,  as long as   A  and  B  are  not  simultaneously   0 .  It is 
 
 a  line  is define  by  two  point that are on the line .  Given  two  points that are on the line  we can graph the line   and write down the equation of the line . This fact will be used in serval  point  in the equation 
 
-a **slope** in the line is the level of  steepness of  lines  and can be used too  measure  whether  a line is increasing  or decreasing as we move from  left to right  . Here are
+a **slope** in the line is the level of  steepness of  lines  and can be used too  measure  whether  a line is increasing  or decreasing as we move from  left to right  . Here are the definition of    a slop of a  line 
+
+given  2  points  $(x_{1}  ,  y_{0}_{2}) ($
