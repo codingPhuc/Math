@@ -20,4 +20,5 @@ $$
 $$
 In other words  the slope is the different in the y  values  divided by the different  in the x  value .  do  not worry about the   subscripts(define the different version of the variable ) on the  variable   
 
-do  not worry  about which  point should  be first and which  point shou
+do  not worry  about which  point should  be first and which  point should be second  .  Because regardless of the order we can still  determine the different  of the slope
+
