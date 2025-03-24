@@ -94,8 +94,8 @@ The line  that contains the two points
 $$ 
 \begin{array}{l}
 m  = \frac{rise}{run}   \\
-m  =   \frac{  1  +  3 }{3    +   2 }   \\
-m  =  \frac{5}{4}
+m  =   \frac{    -2  -  5 }{  0   + 1   }   \\
+m  =  -7
 \end{array}
 $$
 
