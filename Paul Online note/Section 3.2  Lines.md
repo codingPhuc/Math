@@ -18,4 +18,4 @@ given  2  points  $(x_{1}  ,  y_{1}) \cap  (x_{2} ,  y_{2})$ the slope of the  g
 $$
  m = \frac{y_{2} - y_{1}}{x_{2} -y_{1}}
 $$
-
+In other words  the
