@@ -41,8 +41,8 @@ $$
     \draw[->] (-1,-1) -- (6,6) node[right] {}; 
     \draw[-,dotted ] (6,6) -- (6,-1) node[right] {}; 
     \draw[-,dotted ] (6,-1) -- (-1,-1) node[right] {}; 
-    \draw[<->] (-1,-2) -- (6,-2) node[midway , ] {$\text{rise}  =  y_{2} -  y_{1}$};   
-    \draw[<->] (7,6) -- (7,-1) node[right] {}; 
+    \draw[<->] (-1,-2) -- (6,-2) node[midway ,  below] {$\text{rise}  =  x_{2} -  x_{1}$};   
+    \draw[<->] (7,6) -- (7,-1) node[midway ,  right] {$\text{rise}  =  y_{2} -  y_{1}$};
     % Draw tick marks and labels
     \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
