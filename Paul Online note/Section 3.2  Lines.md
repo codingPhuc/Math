@@ -52,7 +52,7 @@ $$
     }
 
     % Text annotations  
-    \fill (0,-3) circle (2pt) node[above right] {$(0,-3)$};
+    \fill (6,6)  circle (2pt) node[above right] {$(0,-3)$};
     \fill (-2,5) circle (2pt) node[above left] {$(-2,5)$};
     \fill (4,5) circle (2pt) node[above right] {$(4,5)$};
 
