@@ -139,4 +139,34 @@ $$
    Write down the equation of the line that passes through the two points (−2,4)and (3,−5)
 $$
    4  +  5  =  m(-2  - 3)$$
-   
+   At first glance it may not appear that we’ll be able to use the point-slope form of the line since this requires a single point (we’ve got two) and the slope (which we don’t have). However, that fact that we’ve got two points isn’t really a problem; in fact, we can use these two points to determine the missing slope of the line since we do know that we can always find that from any two points on the line.
+
+So, let’s start off my finding the slope of the line.
+
+m=−5−43−(−2)=−95m=−5−43−(−2)=−95
+
+Now, which point should we use to write down the equation of the line? We can actually use either point. To show this we will use both.
+
+First, we’ll use(−2,4)(−2,4). Now that we’ve gotten the point all that we need to do is plug into the formula. We will use the second form.
+
+y=4−95(x−(−2))=4−95(x+2)y=4−95(x−(−2))=4−95(x+2)
+
+Now, let’s use (3,−5)(3,−5).
+
+y=−5−95(x−3)y=−5−95(x−3)
+
+Okay, we claimed that it wouldn’t matter which point we used in the formula, but these sure look like different equations. It turns out however, that these really are the same equation. To see this all that we need to do is distribute the slope through the parenthesis and then simplify.
+
+Here is the first equation.
+
+y=4−95(x+2)=4−95x−185=−95x+25y=4−95(x+2)=4−95x−185=−95x+25
+
+Here is the second equation.
+
+y=−5−95(x−3)=−5−95x+275=−95x+25y=−5−95(x−3)=−5−95x+275=−95x+25
+
+So, sure enough they are the same equation. 
+
+
+
+The final  form of the equation  is the slope intercept form  , 
