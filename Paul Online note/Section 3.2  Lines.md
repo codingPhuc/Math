@@ -123,4 +123,6 @@ m  =  undefine
 \end{array}
 $$ 
 
-we can use   this set of examples  to see the general  fact about the line . First we  can see that the larger the number ( ignoring  any minus sign )  
+we can use   this set of examples  to see the general  fact about the line . First we  can see that the larger the number ( ignoring  any minus sign )  the steeper the line .  So ,  the slope help  us know  how step the  line is  
+
+
