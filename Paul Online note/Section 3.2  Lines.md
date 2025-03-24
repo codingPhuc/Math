@@ -133,4 +133,4 @@ $$Likewise, a vertical line with an xx-intercept of aa will have the equation
 $$
   x  =  a 
 $$
-
+The next special line we need to look at is the point-slope  form  of  the line . This form  is very useful 
