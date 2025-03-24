@@ -137,3 +137,6 @@ The next special line we need to look at is the **point-slope  form**  of  the l
 $$
    y -y_{1}  =  m(x  - x_{1})$$ 
    Write down the equation of the line that passes through the two points (−2,4)and (3,−5)
+$$
+   4  +  5  =  m(-2  - 3)$$
+   
