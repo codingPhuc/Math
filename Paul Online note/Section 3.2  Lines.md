@@ -66,4 +66,4 @@ $$
 
 
 ``` 
-
+if   we have the equation of the slope  which is  a fraction  of    $m  = \frac{rise}{run}$  , 
