@@ -78,4 +78,10 @@ y_{2}  =  y_{1}  +  rise
 $$
 
 ## Determine the slope of each of the following lines. Sketch the graph of each line. 
-The line  that contains the two points(-2 ,  -3)  and   (3,1 )
+The line  that contains the two points (-2 ,  -3)  and   (3,1 )  
+$$ 
+\begin{array}{l}
+
+\end{array}
+
+m  = \frac{rise}{run}$$
