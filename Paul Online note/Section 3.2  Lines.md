@@ -87,3 +87,38 @@ m  =  \frac{5}{4}
 \end{array}
 $$
 
+
+
+The line  that contains the two points  
+(−1,5) and (0,−2)  
+$$ 
+\begin{array}{l}
+m  = \frac{rise}{run}   \\
+m  =   \frac{  1  +  3 }{3    +   2 }   \\
+m  =  \frac{5}{4}
+\end{array}
+$$
+
+
+
+
+The line  that contains the two points  (−3,2) and (5,2) 
+$$ 
+\begin{array}{l}
+m  = \frac{rise}{run}   \\
+m  =   \frac{  1  +  3 }{3    +   2 }   \\
+m  =  \frac{5}{4}
+\end{array}
+$$
+
+
+
+The line  that contains the two points (4,3) and (4,−2)
+$$ 
+\begin{array}{l}
+m  = \frac{rise}{run}   \\
+m  =   \frac{  1  +  3 }{3    +   2 }   \\
+m  =  \frac{5}{4}
+\end{array}
+$$
+
