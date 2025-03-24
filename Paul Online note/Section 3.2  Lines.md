@@ -123,4 +123,4 @@ m  =  undefine
 \end{array}
 $$ 
 
-
+we can use   this set of examples  to see the general  fact about the line 
