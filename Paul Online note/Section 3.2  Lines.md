@@ -22,3 +22,7 @@ In other words  the slope is the different in the y  values  divided by the diff
 
 do  not worry  about which  point should  be first and which  point should be second  .  Because regardless of the order we can still  determine the different  of the slope
 
+there is also  a  geometric  equation for the slope  and line  as well  . You will hear the slope and line define as follow 
+$$
+ m  = \frac{rise}{run}
+$$

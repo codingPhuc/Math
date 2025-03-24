@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,10 +233,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c035cef5ff54e6b",
+  "active": "e6df2463ff62fd84",
   "lastOpenFiles": [
-    "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 3.2  Lines.md",
+    "Pasted image 20250324133225.png",
+    "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 2.13  Rational Inequalities.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
@@ -269,8 +270,6 @@
     "Excalidraw/Drawing 2025-03-20 19.34.24.excalidraw.md",
     "mathwiki/latex.md",
     "Pasted image 20250320194833.png",
-    "mathwiki/Proof in Math.md",
-    "Pasted image 20250317124619.png",
     "Professor Leonard",
     "Paul Online note",
     "template",
