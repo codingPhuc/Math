@@ -119,7 +119,7 @@ $$
 m  = \frac{rise}{run}   \\
 m  =   \frac{    - 2    -3  }{ 4-4 }   \\
 m  =  -\frac{5}{0}  \\
-m  =  \underline{}
+m  =  undefine  
 \end{array}
 $$ 
 
