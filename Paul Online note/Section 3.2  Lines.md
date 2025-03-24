@@ -10,3 +10,4 @@ let start the section  off with  a  quick  mathematical definition of  a line  .
 $$Ax +  By   =  C $$ 
 is  a  line    ,  as long as   A  and  B  are  not  simultaneously   0 .  It is  okay if one of them  is  0  , we  just can't have  both as  0   . Note that this is sometime call the **standard form** of the line 
 
+a  line  is define  by  two  point that are on the line .  Given  two  points that are on the line  we can gra
