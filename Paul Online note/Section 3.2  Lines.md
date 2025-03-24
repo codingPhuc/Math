@@ -172,7 +172,14 @@ So, sure enough they are the same equation.
 The final  form of the equation  is the **slope intercept** form  .  In  this cases , we know that the line  has slope  m and has a  y-intercept  of( 0,b) then the slope intercept form of the equation is 
 $$
  y = mx   + b 
-$$ 
 $$
 
+
+## Determine the slope of each of the following equations and sketch the graph of the line.
+$$
+\begin{array} { l}
+2y  - 6x   = -2  \\
+
+\end{array}
+  
 $$
