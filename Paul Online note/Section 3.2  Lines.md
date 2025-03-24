@@ -53,13 +53,9 @@ $$
 
     % Add additional points
  %%    \fill (-3,12) circle (2pt) node[above left] {$(-3,12)$}; %%
-    \fill (-1,0) circle (2pt) node[above right] {$(-1,0)$};
-    \fill (1,-4) circle (2pt) node[below right] {$(1,-4)$};
-    \fill (2,-3) circle (2pt) node[below right] {$(2,-3)$};
-    \fill (3,0) circle (2pt) node[above right] {$(3,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {(\x  -1 )^2 -4});
+    \draw[->] (-1,0) -- (6,0) node[right] {};
 \end{tikzpicture}
 \end{document}
 
