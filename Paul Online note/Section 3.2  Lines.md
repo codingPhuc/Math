@@ -52,9 +52,9 @@ $$
     }
 
     % Text annotations  
-    \fill (6,6)  circle (2pt) node[above right] {$(0,-3)$};
-    \fill (-2,5) circle (2pt) node[above left] {$(-2,5)$};
-    \fill (4,5) circle (2pt) node[above right] {$(4,5)$};
+    \fill (6,6)  circle (2pt) node[above right] {$(6,6)$};
+    \fill (6,-1) circle (2pt) node[above left] {$(6,-1)$};
+    \fill (-1,-1)  circle (2pt) node[above right] {$(-1,-1) $};
 
     % Add additional points
  %%    \fill (-3,12) circle (2pt) node[above left] {$(-3,12)$}; %%
