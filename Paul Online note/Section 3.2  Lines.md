@@ -14,4 +14,7 @@ a  line  is define  by  two  point that are on the line .  Given  two  points th
 
 a **slope** in the line is the level of  steepness of  lines  and can be used too  measure  whether  a line is increasing  or decreasing as we move from  left to right  . Here are the definition of    a slop of a  line 
 
-given  2  points  $(x_{1}  ,  y_{0}_{2}) ($
+given  2  points  $(x_{1}  ,  y_{1}) \cap  (x_{2} ,  y_{2})$ the slope of the  given line is 
+$$
+ m = \frac{y_{2} - y_{1}}{x_{2} -}
+$$
