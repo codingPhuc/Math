@@ -179,7 +179,10 @@ $$
 $$
 \begin{array} { l}
 2y  - 6x   = -2  \\
+2  -  6x  =  2y   \\
+1 -  3x =  y   \\
 
 \end{array}
   
 $$
+the slope  intercept form  is   -3 
