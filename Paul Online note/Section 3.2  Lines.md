@@ -16,5 +16,6 @@ a **slope** in the line is the level of  steepness of  lines  and can be used to
 
 given  2  points  $(x_{1}  ,  y_{1}) \cap  (x_{2} ,  y_{2})$ the slope of the  given line is 
 $$
- m = \frac{y_{2} - y_{1}}{x_{2} -}
+ m = \frac{y_{2} - y_{1}}{x_{2} -y_{1}}
 $$
+
