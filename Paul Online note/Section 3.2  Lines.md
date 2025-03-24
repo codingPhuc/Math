@@ -133,4 +133,7 @@ $$Likewise, a vertical line with an xx-intercept of aa will have the equation
 $$
   x  =  a 
 $$
-The next special line we need to look at is the point-slope  form  of  the line . This form  is very useful for writing the equation of the line  . If we know the line passes  though  the point $(x_{1} , y_{1})$ and have the sl
+The next special line we need to look at is the point-slope  form  of  the line . This form  is very useful for writing the equation of the line  . If we know the line passes  though  the point $(x_{1} , y_{1})$ and has a slope of m then the point-slope form of the equation of the line is 
+$$
+   y -y_{1} 
+ = $$
