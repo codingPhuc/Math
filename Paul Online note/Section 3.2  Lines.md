@@ -126,4 +126,4 @@ $$
 we can use   this set of examples  to see the general  fact about the line . First we  can see that the larger the number ( ignoring  any minus sign )  the steeper the line .  So ,  the slope help  us know  how step the  line is  
 
 if the slope is  a negative number than the line will increase  from  left  to right . If the slope is a  positive number then the line will decrease  from  left to right 
-we now 
+we now  look  at special  form of the eq
