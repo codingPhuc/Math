@@ -364,10 +364,9 @@ $$
 the second point is then  
 $$
 \begin{array} {l}
-x_{2}   =   10  -  8  = 2     \\
-y_{2}  =   -3    -2   =-5     \\
+y=2-  \frac{3}{10 }(x−8)    \\
+y=2  -    \\
 (2  ,-5  )
 \end{array}
 
 $$
-$$y=y_{1}-  \frac{3}{10 }(x−8)$$
