@@ -353,7 +353,7 @@ $$
 $$
 \begin{array}{l}
 10y  +  3x  =  -2   \\
-  \\
-\frac{15}{7}  + \frac{9}{7}x    =   y     \\
+- 3x  +  2    = 10y  \\
+-\frac{3}{10}x + \frac{1}{5}   = y  \\
 \end{array}
 $$
