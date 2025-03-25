@@ -349,7 +349,7 @@ $$
 $$
 
 ##  Determine the equation of the line that passes through the point (8,2)and is, 
-
+parallel to the line given by 10y+3x=−2
 $$
 \begin{array}{l}
 10y  +  3x  =  -2   \\
@@ -367,7 +367,7 @@ $$
 y=2-  \frac{3}{10 }(x−8)    \\
 y=2  +  \frac{12}{5  }  -  \frac{3}{10} x \\
 y = \frac{22}{5 }  -   \frac{3}{10} x   \\
-(2  ,-5  )
 \end{array}
 
 $$
+perpendicular to the line given by 10y+3x=−2.  
