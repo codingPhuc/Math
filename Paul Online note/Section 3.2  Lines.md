@@ -357,3 +357,4 @@ $$
 -\frac{3}{10}x + \frac{1}{5}   = y  \\
 \end{array}
 $$
+so the slope  of the line is  $-\frac{3}{10}$ resulting in the 
