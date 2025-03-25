@@ -332,15 +332,12 @@ $$
 he slope  intercept form  is   $\frac{9}{7}$  ,  and y  interception for this point  is  (0 , $\frac{15}{7}$)  .  now to get the second point we like the slop  to be written  as  a fraction  to make it clear what rise and run  are . 
 
 $$
-m =   \frac{9}{7} = \frac{rise}{run}   \implies  rise =9 , \text{ run} =  7  
+m_{1} =   \frac{9}{7} = \frac{rise}{run}   \implies  rise =9 , \text{ run} =  7  
 $$
+so  the slop of the equation is  m = $\frac{9}{7}$ 
+for the coordinate line we need to  plug in the  number 
 
 
 $$
-\begin{array} {l}
-x_{2}   = 7 + 0  = 3      \\
-y_{2}  =  9   -  \frac{15}{7 }    = \frac{48}{7}   \\
-(3 ,\frac{48}{7}   )
-\end{array}
-
-$$ 
+m_{2}  =  
+$$
