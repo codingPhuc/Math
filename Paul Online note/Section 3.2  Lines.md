@@ -245,8 +245,8 @@ $$
 
 $$
 \begin{array} { l}
-3y  +  4x    = -2  \\
--2   +  4x  =  3y   \\
+3y  +  4x    = 6  \\
+6  - 4x  =  3y   \\
 -\frac{2}{3}  +   \frac{4}{3} x  =   y   
 
 \end{array}
@@ -261,8 +261,8 @@ the second point is then
 $$
 \begin{array} {l}
 x_{2}   =  0  + 3 = 3      \\
-y_{2}  = +  \frac{2}{3}   + 4  =2     \\
-(1 ,2 )
+y_{2}  = +  \frac{2}{3}   + 4  =\frac{14}{3}     \\
+(3  ,\frac{14}{3}  )
 \end{array}
 
 $$
