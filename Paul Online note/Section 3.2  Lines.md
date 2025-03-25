@@ -358,4 +358,11 @@ $$
 \end{array}
 $$ 
 so the slope  of the line is  $-\frac{3}{10}$ and the line is parallel  to the (8,2 )  points resulting in  
- $-\frac{3}{10} = \frac{ 8 -  y_{1}  }{2 +  x }$   
+$$
+m_{1} =   \frac{9}{7} = \frac{rise}{run}   \implies  rise =9 , \text{ run} =  7  
+$$
+$$
+\begin{array}{l}
+-\frac{3}{10} = \frac{ 8 -  y_{1}  }{2 -   x_{1} }  \\
+\end{array}
+$$
