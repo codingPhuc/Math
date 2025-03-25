@@ -402,5 +402,5 @@ $$
 
 $$(−2,4),(1,10)$$
 $$
-m =  \frac{\text{rise}}{\text{run}}   =  10 +2 
+m =  \frac{\text{rise}}{\text{run}}   =  \frac{10  -   2 }{1 + 2 }   = 
 $$
