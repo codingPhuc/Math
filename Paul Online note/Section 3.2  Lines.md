@@ -190,4 +190,10 @@ the slope  intercept form  is   3 ,  and y  interception for this point  is  (0 
 $$
 m =   3  = \frac{3}{1}  = \frac{rise}{run}   \implies  rise = 3 , \text{ run} =  1 
 $$
-the 
+the second point is then  
+$$
+\begin{array} (l)
+x_{2}   =  0  + 1 = 1     
+\end{array}
+
+$$
