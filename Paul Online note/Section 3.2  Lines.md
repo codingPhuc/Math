@@ -394,3 +394,7 @@ y=\frac{74}{3}  +  \frac{10}{3} x \\
 \end{array}
 
 $$
+
+
+
+##  Practice  Problems 
