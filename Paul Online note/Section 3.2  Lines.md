@@ -312,7 +312,8 @@ suppose that the slop  of  line  1  is parallel  and  the slope  of line 2  is p
 $$ 
 \begin{array}{l}
 \text{ parallel  :  }  m_{1}  =  m_{2} \\
-\text{ perpendicular}   m_{1}m2
+\text{ perpendicular:  }   m_{1}m_{2} = -\frac{1}{m_{1}}
 \end{array}
 
 $$
+note that there are two form  of equation for  perpendicular line . The second  is most common  and in this cas we usully  say that  $$
