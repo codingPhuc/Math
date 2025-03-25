@@ -281,7 +281,7 @@ $$
     \draw[->] (0,-7) -- (0,7) node[right] {}; 
     \draw[->] (0,2) -- (3  ,-2 ) node[right] {}; 
     \draw[-,dotted ] (3  ,2 )  -- (3  ,-2 ) node[right] {}; 
-    \draw[-,dotted ] (3  ,-2 )  -- (1,-1) node[right] {}; 
+    \draw[-,dotted ] (0,2)  -- (3  ,2 )  node[right] {}; 
     % Draw tick marks and labels
     \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
@@ -292,7 +292,7 @@ $$
 
     % Text annotations  
     \fill (3  ,-2 )  circle (2pt) node[above right] {$(3  ,-2 ) $};
-    \fill (0,-1) circle (2pt) node[above left] {$(0,-1)$};
+    \fill (0,2) circle (2pt) node[above left] {$(0,2)$};
     % Add additional points
  %%    \fill (-3,12) circle (2pt) node[above left] {$(-3,12)$}; %%
 
