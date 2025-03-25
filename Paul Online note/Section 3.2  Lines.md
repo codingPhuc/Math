@@ -246,13 +246,13 @@ $$
 $$
 \begin{array} { l}
 3y  +  4x    = 6  \\
-6  - 4x  =  3y   \\
--\frac{2}{3}  +   \frac{4}{3} x  =   y   
+6  -  4x  =  3y   \\
+2 +    - \frac{4}{3} x  =   y   
 
 \end{array}
   
 $$
-the slope  intercept form  is   $\frac{4}{3}$  ,  and y  interception for this point  is  (0 , $-\frac{2}{3}$)  .  now to get the second point we like the slop  to be written  as  a fraction  to make it clear what rise and run  are . 
+the slope  intercept form  is   $-\frac{4}{3}$  ,  and y  interception for this point  is  (0 , $2$)  .  now to get the second point we like the slop  to be written  as  a fraction  to make it clear what rise and run  are . 
 
 $$
 m =   \frac{4}{3}  = \frac{rise}{run}   \implies  rise = 4 , \text{ run} =  3  
@@ -261,8 +261,8 @@ the second point is then
 $$
 \begin{array} {l}
 x_{2}   =  0  + 3 = 3      \\
-y_{2}  = +  \frac{2}{3}   + 4  =\frac{14}{3}     \\
-(3  ,\frac{14}{3}  )
+y_{2}  = 2 - 4  =6    \\
+(3  ,6 )
 \end{array}
 
 $$
