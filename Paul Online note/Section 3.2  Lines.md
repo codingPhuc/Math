@@ -359,10 +359,14 @@ $$
 $$ 
 so the slope  of the line is  $-\frac{3}{10}$ and the line is parallel  to the (8,2 )  points resulting in  
 $$
-m_{1} =   \frac{9}{7} = \frac{rise}{run}   \implies  rise =9 , \text{ run} =  7  
+m_{1} =   -\frac{3}{10} = \frac{rise}{run}   \implies  rise =-3 , \text{ run} =  10  
 $$
+the second point is then  
 $$
-\begin{array}{l}
--\frac{3}{10} = \frac{ 8 -  y_{1}  }{2 -   x_{1} }  \\
+\begin{array} {l}
+x_{2}   =  -3  -  8  = 1      \\
+y_{2}  =   10     =2     \\
+(1 ,2 )
 \end{array}
+
 $$
