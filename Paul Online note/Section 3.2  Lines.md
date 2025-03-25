@@ -350,7 +350,10 @@ $$
 
 ##  Determine the equation of the line that passes through the point (8,2)and is, 
 
-first  we need to  get the slope of the line $10y+3x=−2$
 $$
-
+\begin{array}{l}
+10y  +  3x  =  -2   \\
+  \\
+\frac{15}{7}  + \frac{9}{7}x    =   y     \\
+\end{array}
 $$
