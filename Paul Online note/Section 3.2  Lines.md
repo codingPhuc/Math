@@ -365,7 +365,8 @@ the second point is then
 $$
 \begin{array} {l}
 y=2-  \frac{3}{10 }(x−8)    \\
-y=2  -    \\
+y=2  +  \frac{12}{5  }  -  \frac{3}{10} x \\
+y = \frac{22}{5 }  -   \frac{3}{10} x   \\
 (2  ,-5  )
 \end{array}
 
