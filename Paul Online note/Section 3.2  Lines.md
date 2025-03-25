@@ -356,5 +356,6 @@ $$
 - 3x  +  2    = 10y  \\
 -\frac{3}{10}x + \frac{1}{5}   = y  \\
 \end{array}
-$$
-so the slope  of the line is  $-\frac{3}{10}$ resulting in the 
+$$ 
+so the slope  of the line is  $-\frac{3}{10}$ and the line is parallel  to the (8,2 )  points resulting in  
+ $-\frac{3}{10} = $   
