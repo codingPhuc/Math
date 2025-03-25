@@ -323,5 +323,9 @@ note that there are two form  of equation for  perpendicular line . The second  
 
 
 $$
-7y  -  9x 
+\begin{array}{l}
+7y  -  9x   = 15    \\
+
+\end{array}
+
 $$
