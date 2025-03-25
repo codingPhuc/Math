@@ -324,7 +324,15 @@ note that there are two form  of equation for  perpendicular line . The second  
 
 $$
 \begin{array}{l}
-7y  -  9x   = 15    \\
+7y  -  9x   = 15  \\
+15   +  9x  =  7y   \\
+\frac{15}{7}  + \frac{9}{7}x    =   y     \\
 \end{array}
 $$
+he slope  intercept form  is   $-\frac{4}{3}$  ,  and y  interception for this point  is  (0 , $2$)  .  now to get the second point we like the slop  to be written  as  a fraction  to make it clear what rise and run  are . 
+#fail 
+$$
+m =   - \frac{4}{3}  = \frac{rise}{run}   \implies  rise = 4 , \text{ run} =  3  
+$$
+the second point is then  
 
