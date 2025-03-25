@@ -91,8 +91,7 @@
               "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,10 +246,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d29ad95f21d97f0a",
+  "active": "e4002f4f480cac98",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Untitled 2.md",
+    "Untitled 1.md",
     "Paul Online note/Section 3.2  Lines.md",
     "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section  3.1   Graphing.md",

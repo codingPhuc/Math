@@ -185,4 +185,5 @@ $$
 \end{array}
   
 $$
-the slope  intercept form  is   -3 
+the slope  intercept form  is   -3   
+so the  
