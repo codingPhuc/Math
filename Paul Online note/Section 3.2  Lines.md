@@ -185,4 +185,4 @@ $$
 \end{array}
   
 $$
-the slope  intercept form  is   3 , 
+the slope  intercept form  is   3 ,  and y  interception for this point  is  (0 , 1 ) 
