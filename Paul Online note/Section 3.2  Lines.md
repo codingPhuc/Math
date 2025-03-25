@@ -385,11 +385,12 @@ m_{1}  =   \frac{10}{3}
 \end{array}
 
 $$
-point-slope form of the line to write down the equation of the new line
+point-slope form of the line to write down the equation of the new line 
+#fail 
 $$
 \begin{array} {l}
 y=2   +  \frac{10}{3}(x−8)    \\
-y=\frac{86}{3}  +  \frac{10}{3} x \\
+y=\frac{74}{3}  +  \frac{10}{3} x \\
 \end{array}
 
 $$
