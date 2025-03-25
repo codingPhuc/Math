@@ -253,15 +253,15 @@ $$
   
 $$
 the slope  intercept form  is   $-\frac{4}{3}$  ,  and y  interception for this point  is  (0 , $2$)  .  now to get the second point we like the slop  to be written  as  a fraction  to make it clear what rise and run  are . 
-
+#fail 
 $$
-m =   \frac{4}{3}  = \frac{rise}{run}   \implies  rise = 4 , \text{ run} =  3  
+m =   - \frac{4}{3}  = \frac{rise}{run}   \implies  rise = 4 , \text{ run} =  3  
 $$
 the second point is then  
 $$
 \begin{array} {l}
 x_{2}   =  0  + 3 = 3      \\
-y_{2}  = 2 - 4  =6    \\
+y_{2}  = 2 - 4  =-2    \\
 (3  ,6 )
 \end{array}
 
