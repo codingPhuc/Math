@@ -397,4 +397,7 @@ $$
 
 
 
-##  Practice  Problems 
+# #Practice_Exercise  
+
+
+$$(−2,4),(1,10)$$
