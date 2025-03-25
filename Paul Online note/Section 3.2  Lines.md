@@ -381,7 +381,16 @@ $$
 $$
 \begin{array}{l}
 m_{1}  =   - \frac{1}{m_{2}}   \\
-m_{1}  =   
+m_{1}  =   \frac{10}{3} 
+\end{array}
+
+$$
+point-slope form of the line to write down the equation of the new line
+$$
+\begin{array} {l}
+y=2   +  \frac{10}{3}(x−8)    \\
+y=2  +  \frac{12}{5  }  -  \frac{3}{10} x \\
+y = \frac{22}{5 }  -   \frac{3}{10} x   \\
 \end{array}
 
 $$
