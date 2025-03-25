@@ -329,10 +329,18 @@ $$
 \frac{15}{7}  + \frac{9}{7}x    =   y     \\
 \end{array}
 $$
-he slope  intercept form  is   $-\frac{4}{3}$  ,  and y  interception for this point  is  (0 , $2$)  .  now to get the second point we like the slop  to be written  as  a fraction  to make it clear what rise and run  are . 
-#fail 
-$$
-m =   - \frac{4}{3}  = \frac{rise}{run}   \implies  rise = 4 , \text{ run} =  3  
-$$
-the second point is then  
+he slope  intercept form  is   $\frac{9}{7}$  ,  and y  interception for this point  is  (0 , $\frac{15}{7}$)  .  now to get the second point we like the slop  to be written  as  a fraction  to make it clear what rise and run  are . 
 
+$$
+m =   \frac{9}{7} = \frac{rise}{run}   \implies  rise =9 , \text{ run} =  7  
+$$
+
+
+$$
+\begin{array} {l}
+x_{2}   = 9  = 3      \\
+y_{2}  = 2 - 4  =-2    \\
+(3  ,-2 )
+\end{array}
+
+$$
