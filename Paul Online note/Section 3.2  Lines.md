@@ -247,12 +247,12 @@ $$
 \begin{array} { l}
 3y  +  4x    = -2  \\
 -2   +  4x  =  3y   \\
-
+-\frac{2}{3}  +   \frac{4}{3} x  =   y   
 
 \end{array}
   
 $$
-the slope  intercept form  is   3 ,  and y  interception for this point  is  (0 , 1 )  .  now to get the second point we like the slop  to be written  as  a fraction  to make it clear what rise and run  are . 
+the slope  intercept form  is   $\frac{4}{3}$  ,  and y  interception for this point  is  (0 , $-\frac{2}{3}$)  .  now to get the second point we like the slop  to be written  as  a fraction  to make it clear what rise and run  are . 
 
 $$
 m =   3  = \frac{3}{1}  = \frac{rise}{run}   \implies  rise = 3 , \text{ run} =  1 
