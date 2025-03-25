@@ -350,5 +350,7 @@ $$
 
 ##  Determine the equation of the line that passes through the point (8,2)and is, 
 
-parallel to the line given by 10y+3x=−2 
-first  we need to  get the slope of the line $10y+3x=−2$ 
+first  we need to  get the slope of the line $10y+3x=−2$
+$$
+
+$$
