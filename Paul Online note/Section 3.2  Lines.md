@@ -260,8 +260,8 @@ $$
 the second point is then  
 $$
 \begin{array} {l}
-x_{2}   =  0  + 1 = 1      \\
-y_{2}  = -1   + 3  =2     \\
+x_{2}   =  0  + 3 = 3      \\
+y_{2}  = +  \frac{2}{3}   + 4  =2     \\
 (1 ,2 )
 \end{array}
 
