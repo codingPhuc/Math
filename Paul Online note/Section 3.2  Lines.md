@@ -310,5 +310,5 @@ The final  topic we need to discuss  is the  parallel  and  perpendicular  line 
 ![[Pasted image 20250324202801.png]] 
 suppose that the slop  of  line  1  is parallel  and  the slope  of line 2  is perpendicular  lines  the following  will happend 
 $$
-\parallel l
+
 $$
