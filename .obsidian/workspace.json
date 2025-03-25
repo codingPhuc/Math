@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,11 +243,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9946fa5d39e3332",
+  "active": "d29ad95f21d97f0a",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Untitled 2.md",
     "Paul Online note/Section 3.2  Lines.md",
     "Paul Online note/Section 3.1 Graphing.md",
@@ -278,7 +280,6 @@
     "Paul Online note/Section 2.3 Applications of Linear Equations.md",
     "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
     "Professor Leonard/x 6.6 Solving Equation  By Factoring.md",
-    "Untitled 1.md",
     "Pasted image 20250322110628.png",
     "mathwiki/learning road map.md",
     "Excalidraw/Drawing 2025-03-20 19.34.24.excalidraw.md",
