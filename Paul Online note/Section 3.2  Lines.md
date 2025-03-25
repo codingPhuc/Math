@@ -364,9 +364,9 @@ $$
 the second point is then  
 $$
 \begin{array} {l}
-x_{2}   =  -3  -  8  = 1      \\
-y_{2}  =   10     =2     \\
-(1 ,2 )
+x_{2}   =   10  -  8  = 2     \\
+y_{2}  =   -3    -2   =-5     \\
+(2  ,-5  )
 \end{array}
 
 $$
