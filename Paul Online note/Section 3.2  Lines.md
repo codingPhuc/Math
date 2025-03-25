@@ -361,7 +361,7 @@ so the slope  of the line is  $-\frac{3}{10}$ and the line is parallel  to the (
 $$
 m_{1} =   -\frac{3}{10} = \frac{rise}{run}   \implies  rise =-3 , \text{ run} =  10  
 $$
-the second point is then  
+point-slope form of the line to write down the equation of the new line
 $$
 \begin{array} {l}
 y=2-  \frac{3}{10 }(x−8)    \\
