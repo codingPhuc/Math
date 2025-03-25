@@ -339,5 +339,7 @@ for the coordinate line we need to  plug in the  number
 
 
 $$
-m_{2}  =  
+m_{2}  =  \frac{- 1 + 10}{ 6   + 2}   =  \frac{9}{8 }
 $$
+since the rise and run  are not equal  for the two slope  we concluded that the slopes  is not  parallel 
+
