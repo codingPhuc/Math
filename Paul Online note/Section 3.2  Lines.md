@@ -343,3 +343,9 @@ m_{2}  =  \frac{- 1 + 10}{ 6   + 2}   =  \frac{9}{8 }
 $$
 since the rise and run  are not equal  for the two slope  we concluded that the slopes  is not  parallel 
 
+now multiply the slopes 
+$$ 
+ \frac{9}{7}   \cdot   \frac{9}{8}   = \frac{81}{56}
+$$
+
+##  Determine the equation of the line that passes through the point (8,2)(8,2) and is, 
