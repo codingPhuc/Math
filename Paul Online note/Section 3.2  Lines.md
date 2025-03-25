@@ -308,4 +308,7 @@ $$
 The final  topic we need to discuss  is the  parallel  and  perpendicular  line . Here  is a sketch of parallel  and perpendicular lines 
 
 ![[Pasted image 20250324202801.png]] 
-so
+suppose that the slop  of  line  1  is parallel  and  the slope  of line 2  is perpendicular  lines  the following  will happend 
+$$
+\parallel l
+$$
