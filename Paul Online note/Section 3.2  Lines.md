@@ -255,7 +255,7 @@ $$
 the slope  intercept form  is   $\frac{4}{3}$  ,  and y  interception for this point  is  (0 , $-\frac{2}{3}$)  .  now to get the second point we like the slop  to be written  as  a fraction  to make it clear what rise and run  are . 
 
 $$
-m =   3  = \frac{3}{1}  = \frac{rise}{run}   \implies  rise = 3 , \text{ run} =  1 
+m =   \frac{4}{3}  = \frac{rise}{run}   \implies  rise = 4 , \text{ run} =  3  
 $$
 the second point is then  
 $$
