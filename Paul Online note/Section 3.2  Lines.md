@@ -305,4 +305,7 @@ $$
 ``` 
 
 
-The final  topic we need to discuss  is the  parellel  and per
+The final  topic we need to discuss  is the  parallel  and  perpendicular  line . Here  is a sketch of parallel  and perpendicular lines 
+
+![[Pasted image 20250324202801.png]] 
+so
