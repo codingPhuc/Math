@@ -224,10 +224,8 @@ $$
     }
 
     % Text annotations  
-    \fill (6,6)  circle (2pt) node[above right] {$(6,6)$};
-    \fill (6,-1) circle (2pt) node[above left] {$(6,-1)$};
-    \fill (-1,-1)  circle (2pt) node[above right] {$(-1,-1) $};
-
+    \fill (1,2)  circle (2pt) node[above right] {$(1,2) $};
+    \fill (0,-1) circle (2pt) node[above left] {$(0,-1)$};
     % Add additional points
  %%    \fill (-3,12) circle (2pt) node[above left] {$(-3,12)$}; %%
 
@@ -238,3 +236,12 @@ $$
 
 
 ``` 
+
+$$
+\begin{array} {l}
+x_{2}   =  0  + 1 = 1      \\
+y_{2}  = -1   + 3  =2     \\
+(1 ,2 )
+\end{array}
+
+$$
