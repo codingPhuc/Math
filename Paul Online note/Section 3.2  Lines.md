@@ -317,5 +317,11 @@ $$
 
 $$
 note that there are two form  of equation for  perpendicular line . The second  is most common  and in this case we usually  say that  $m_{2}$ is the  negative reciprocal  of  $m_{1}$
- Determine if the line that passes through the points (−2,−10) and (6,−1) parallel, perpendicular or neither to the line given 
- 
+
+
+##  Determine if the line that passes through the points (−2,−10) and (6,−1) parallel, perpendicular or neither to the line given 
+
+
+$$
+7y  -  9x 
+$$
