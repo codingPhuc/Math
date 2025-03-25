@@ -370,4 +370,18 @@ y = \frac{22}{5 }  -   \frac{3}{10} x   \\
 \end{array}
 
 $$
-perpendicular to the line given by 10y+3x=−2.  
+perpendicular to the line given by 10y+3x=−2.   
+$$
+\begin{array}{l}
+10y  +  3x  =  -2   \\
+- 3x  +  2    = 10y  \\
+-\frac{3}{10}x + \frac{1}{5}   = y  \\
+\end{array}
+$$
+$$
+\begin{array}{l}
+m_{1}  =   - \frac{1}{m_{2}}   \\
+m_{1}  =   
+\end{array}
+
+$$
