@@ -310,5 +310,9 @@ The final  topic we need to discuss  is the  parallel  and  perpendicular  line 
 ![[Pasted image 20250324202801.png]] 
 suppose that the slop  of  line  1  is parallel  and  the slope  of line 2  is perpendicular  lines  the following  will happend 
 $$ 
-\text{ parallel  :  } 
+\begin{array}{l}
+\text{ parallel  :  }  m_{1}  =  m_{2} \\
+\text{ perpendicular}   m_{1}m2
+\end{array}
+
 $$
