@@ -283,4 +283,4 @@ x^2 +  8x +  16   +   y^2   = -4\\
 
 \end{array}
 $$
-now this is not the equation  of the circle since the right side is $r^2$ meaning that it should not be a 
+now this is not the equation  of the circle since the right side is $r^2$ meaning that it should be  positive number  
