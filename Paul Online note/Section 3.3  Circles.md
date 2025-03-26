@@ -228,7 +228,7 @@ x^2  +  (y - 5)^2   = 4    \\
  
 $$
 
-the radius of the circle is  4 , the center point of the circles  is ( 0  ,  5)
+the radius of the circle is  2 , the center point of the circles  is ( 0  ,  5)
 
 
 
@@ -236,13 +236,14 @@ the radius of the circle is  4 , the center point of the circles  is ( 0  ,  5)
 $$
 \begin{array}{l}
 (x  + 1 )^2  +  (y + 3)^2    = 6  \\
-   \\
-
 \end{array}
- 
 $$
 
-the radius of the circle is  4 , the center point of the circles  is ( 0  ,  5)
+the radius of the circle is  $2\sqrt{ 3 }$ , the center point of the circles  is ( -1  , -3) 
+## determine the radius and center of the circle. If the equation is not the equation of a circle clearly explain why not. 
+
+
+
 
 
 
