@@ -214,7 +214,13 @@ $$
 $$
 \begin{array}{l}
 (x - 9)^2  +  (y + 4)^2  = 25     \\
-
 \end{array}
 
+$$
+the radius of the circle is  5  , the center point of the circles  is ( 9 , - 4)
+
+
+$$
+
+x^2  +  (y - 5)^2   = 4  
 $$
