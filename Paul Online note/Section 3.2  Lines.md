@@ -723,3 +723,5 @@ y =  \frac{3}{7}x  +  1   \\
 \end{array}
 
 $$
+so  the slop  of the line is $\frac{3}{7}$ 
+
