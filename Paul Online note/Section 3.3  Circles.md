@@ -62,7 +62,7 @@ $$
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
     \draw (0,0) circle [radius  = 1cm ]  ;  
-    
+    \fill (0,0) circle (2pt) node[above left] {$(0,0)$};
 	
 
 
@@ -104,7 +104,7 @@ $$
     \draw (0,3)  circle [radius  = 2cm ]  ; 
     % Draw the parabola
     \draw[-,dotted ] (0,3)  -- (2,3)  node[right] {};  
-    \fill (1,-4)  circle (2pt) node[above left] {$(1,-4)$};
+    \fill (0,3) circle (2pt) node[above left] {$(0,3)$};
 \end{tikzpicture}
 \end{document}
 ```
@@ -139,8 +139,8 @@ $$
     \draw[-,dotted ] (1,-4)  -- (5,-4)  node[right] {};  
      \draw[-,dotted ] (1,-4)  -- (1,0)  node[right] {}; 
     \fill (1,-4)  circle (2pt) node[above left] {$(1,-4)$};
-
-
+	
+	
 
     % Draw the parabola
    
@@ -148,3 +148,4 @@ $$
 \end{document}
 ```
 
+## determind the  
