@@ -22,3 +22,11 @@ $$
 do not square out the two term  on the left leaving these terms here will help us quickly identify   the radios  and center of the circle  
 Graphing is  circle is easy when we know the  radios  and  center  point . Then  we just need the bottom point , left point , right point  and  top  point . 
 These point are simple to find  since we know that the point have a distance of r from the center 
+$$
+\begin{array}{l} 
+\text{right most  point : } (h + r , k ) \\
+\text{right most  point : } (h + r , k )  \\
+\text{right most  point : } (h + r , k ) \\
+\text{right most  point : } (h + r , k )
+\end{array}
+$$
