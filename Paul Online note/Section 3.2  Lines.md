@@ -764,4 +764,10 @@ $$
  8 \neq -7 
 $$
 the lines  are not parallel 
-since the slop  does not equal  -1 when  
+since the slop  does not equal  -1 when  multiply  : 
+$$
+ 8\cdot  -7  =  -56 
+$$
+the lines are not perpendicular 
+
+Find the equation of the line through (−7,2) and is parallel to the line 3x−14y=43x−14y=4
