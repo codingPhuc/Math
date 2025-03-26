@@ -201,9 +201,16 @@ $$
 
 1. Write the equation of the circle with radius 3 and center (6,0) 
 $$
-(x -  6)^2  +  y^2  =  3   
+(x -  6)^2  +  y^2  = 9
 $$
 2. Write the equation of the circle with radius $\sqrt{ 7 }$ and center (−1,−9) . 
 $$
-(x +  1)^2  (x+ 9)^
+(x +  1)^2  (x+ 9)^2   = 7
+$$
+
+## determine the radius and center of the circle and sketch the graph of the circle. 
+
+
+$$
+(x - 9)^2  +  (y + 4)^2  = 
 $$
