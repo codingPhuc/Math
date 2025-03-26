@@ -528,9 +528,7 @@ $$(−2,4),(1,10)$$
 First we need to find the slope of the two  points $$
 m =  \frac{\text{rise}}{\text{run}}   =  \frac{10 - 4   }{ 1  + 2   }   = \frac{6}{3}
 $$
-xiahu  cambugy  
 
-masatoshi    
 
 
 
@@ -553,6 +551,12 @@ $$
 
 
 
+
+
+$$(8,2),(14,−7)$$ 
+First we need to find the slope of the two  points $$
+m =  \frac{\text{rise}}{\text{run}}   =  \frac{-7 -2  }{  14   -  8    }   = \frac{6}{3}
+$$
 
 
 
