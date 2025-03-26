@@ -725,3 +725,11 @@ y =  \frac{3}{7}x  +  1   \\
 $$
 so  the slop  of the line is $\frac{3}{7}$ 
 
+$$
+\begin{array}{l}
+ 3y  +  7x  =  -10  \\
+-10  - 7x  =   3y  \\
+-\frac{10}{3} - \frac{7}{3}x  = y     \\
+\end{array}
+
+$$
