@@ -188,7 +188,7 @@ $$
 \begin{array}{l}
 x^2 + y^2  -3x + 10y   -1  = 0    \\
 x^2 + y^2  -3x + 10y  = 1  \\
-
+x^2  - 3x  + \frac{3}{2}  + y^2 +  10y   +  25   =  
 \end{array}
 
 
