@@ -169,4 +169,14 @@ $$
 x^2 +  y ^2  +  8x + 7    = 0   \\
  x^2 +  y ^2  +  8x     = -  7 
 \end{array}
+$$ 
+step 2:  for each of the term complete the square on the two term 
+
+
+$$
+\begin{array}{l}
+x^2 +  y ^2  +  8x + 7    = 0   \\
+ x^2   +  8x  + 16 +  y ^2      = -  7  + 16  \\
+
+\end{array}
 $$
