@@ -193,5 +193,5 @@ x^2  - 3x  + \frac{9}{4}  + y^2 +  10y   +  25   =  \frac{113}{4}  \\
 \end{array}
 $$ so  now we can pick the center and radius right off this : 
 $$
-\text{center} =  (-\frac{3}{2}  ,  5)  \;  \text{radius } = \sqrt{   \frac{113}{4}  } 
+\text{center} =  (\frac{3}{2}  , - 5)  \;  \text{radius } = \sqrt{   \frac{113}{4}  } 
 $$
