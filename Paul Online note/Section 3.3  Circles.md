@@ -63,7 +63,7 @@ $$
     } 
     \draw (0,0) circle [radius  = 1cm ]  ;  
     
-
+	
 
 
     % Draw the parabola
