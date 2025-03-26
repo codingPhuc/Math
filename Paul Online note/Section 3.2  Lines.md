@@ -555,3 +555,5 @@ y =   7
 $$
 
 so  the y-interception  point is (0,7) 
+
+slope-intercept form  is :  
