@@ -417,8 +417,8 @@ $$
     \draw[->] (-7,0) -- (7,0) node[right] {};
     \draw[->] (0,-7) -- (0,7) node[right] {}; 
     \draw[->] (-2,4) -- (1,10) node[right] {}; 
-    \draw[-,dotted ] (6,6) -- (-2,4) node[right] {}; 
-    \draw[-,dotted ] (6,-1) -- (-1,-1) node[right] {}; 
+    \draw[-,dotted ] (1,4) -- (-2,4) node[right] {}; 
+    \draw[-,dotted ] (1,10)  -- (1,4) node[right] {}; 
     \draw[<->] (-1,-2) -- (6,-2) node[midway ,  below] {$\text{rise}  =  x_{2} -  x_{1}$};   
     \draw[<->] (7,6) -- (7,-1) node[midway ,  right] {$\text{rise}  =  y_{2} -  y_{1}$};
     % Draw tick marks and labels
