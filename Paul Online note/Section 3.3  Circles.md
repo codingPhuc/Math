@@ -17,5 +17,6 @@ $$
 ## Write down the equation of a circle 
 with radius 8 and center (−4,7)
 $$
-8^2  =  (X +  4)^2 + (  y  - 7)^2  
+8^2  =  (x+  4)^2 + (  y  - 7)^2  
 $$
+do not square out the two term  on the left leav
