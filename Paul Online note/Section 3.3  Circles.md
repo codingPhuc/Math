@@ -221,6 +221,9 @@ the radius of the circle is  5  , the center point of the circles  is ( 9 , - 4)
 
 
 $$
+\begin{array}{l}
+x^2  +  (y - 5)^2   = 4    \\
 
-x^2  +  (y - 5)^2   = 4  
+\end{array}
+ 
 $$
