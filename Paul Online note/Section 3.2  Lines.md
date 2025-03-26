@@ -565,7 +565,7 @@ the point-slope  form  of the point is
 
 $$
 \begin{array}{l}
-y  =  4  +  2 ( x  + 2)    \\
+y  =  8   + \frac{-9}{6} ( x   - 2)    \\
 \end{array}
 $$
 slope-intercept form  is : 
