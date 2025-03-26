@@ -200,4 +200,7 @@ $$
 # #Practice_Exercise  
 
 1. Write the equation of the circle with radius 3 and center (6,0) 
-2. Write the eq
+$$
+y 
+$$
+2. Write the equation of the circle with radius $\sqrt{ 7 }$ and center (−1,−9) .
