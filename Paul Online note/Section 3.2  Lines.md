@@ -746,4 +746,12 @@ $$
 the line is perpendicular 
 
 
-8x−y=2 and the line containing the two points (1,3)(1,3)and (2,−4)
+$8x−y=2$ and the line containing the two points (1,3)and (2,−4) 
+$$
+\begin{array}{l}
+8x−y=2  \\
+8x=2  −y  \\
+-\frac{10}{3} - \frac{7}{3}x  = y     \\
+\end{array}
+
+$$
