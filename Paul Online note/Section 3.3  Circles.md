@@ -283,4 +283,14 @@ x^2 +  8x +  16   +   y^2   = -4\\
 
 \end{array}
 $$
-now this is not the equation  of the circle since the right side is $r^2$ meaning that it should be  positive number  
+now this is not the equation  of the circle since the right side is $r^2$ meaning that it should be  positive number   
+
+- **If the right side is negative** → No real circle.
+    
+- **If the coefficients of $x^2$ and $y^2$ are not equal → It’s not a circle (it’s an ellipse or hyperbola).
+    
+- **For the center**, flip the sign inside the parentheses:
+    
+    - $(x+4)2(x + 4)^2(x+4)2$ → Center’s x-coordinate is −4-4−4
+        
+    - (y−3)2(y - 3)^2(y−3)2 → Center’s y-coordinate is 333
