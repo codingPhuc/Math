@@ -565,15 +565,15 @@ the point-slope  form  of the point is
 
 $$
 \begin{array}{l}
-y  =  8     -\frac{3}{2} ( x   - 2)    \\
+y  =  2    -\frac{3}{2} ( x   - 8)    \\
 \end{array}
 $$
 slope-intercept form  is : 
 
 $$
 \begin{array}{l}
-y  =  8     -\frac{3}{2} ( x   - 2)    \\
-y  =  8  -\frac{3}{2}x + 3\\
+y  =  2    -\frac{3}{2} ( x   - 8)    \\
+y  =  2  -\frac{3}{2}x + 3\\
 y =  11    -\frac{3}{2}x  \\  
 \end{array}
 $$
