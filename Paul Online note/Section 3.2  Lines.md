@@ -536,7 +536,11 @@ abundant  nature  2  highest  grass mountain in japan tateyama   toyam bay  with
 suisei made from the fish capture  here fujosi  toyoma  prefector  doreman  author is there. 
 
 $$
-y  =  4  +  \frac{6}{4} ( x  + 2) 
+\begin{array}{l}
+y  =  4  +  \frac{6}{4} ( x  + 2)    \\
+y = 4 +  \frac{6}{4}  + 
+\end{array}
+
 $$
 
  
