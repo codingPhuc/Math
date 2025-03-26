@@ -555,7 +555,7 @@ $$
 
 $$(8,2),(14,−7)$$ 
 First we need to find the slope of the two  points $$
-m =  \frac{\text{rise}}{\text{run}}   =  \frac{-7 -2  }{  14   -  8    }   = \frac{-9}{6}
+m =  \frac{\text{rise}}{\text{run}}   =  \frac{-7 -2  }{  14   -  8    }   = \frac{-9}{6} =  -\frac{3}{2}
 $$
 
 
@@ -572,8 +572,8 @@ slope-intercept form  is :
 
 $$
 \begin{array}{l}
-y  =  4  +  2 ( x  + 2)    \\
-y  =  4 + 2x +  4  \\
+y  =  8   + \frac{-9}{6} ( x   - 2)    \\
+y  =  4 + \frac{-9}{6}x +  4  \\
 y =  8  + 2x  \\  
 \end{array}
 $$
