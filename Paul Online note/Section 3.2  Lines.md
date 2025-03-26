@@ -712,7 +712,9 @@ the point we are drawing the line is  are (0,4 )  and  (2,-1)
 
 ``` 
 
-## determine if the two given lines are parallel, perpendicular or neither. 
+## determine if the two given lines are parallel, perpendicular or neither.  
+
+$y=\frac{3}{7}x+1$  and  $3y+7x=-10$  
 
 $$
 \begin{array}{l}
