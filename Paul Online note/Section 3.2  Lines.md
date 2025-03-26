@@ -733,3 +733,8 @@ $$
 \end{array}
 
 $$
+so the slop of the line is $\frac{3}{7}$ 
+since the  slop of the line does not  equal each other  : 
+ $$
+ \frac{3}{7}  \neq -\frac{7}{3}
+$$
