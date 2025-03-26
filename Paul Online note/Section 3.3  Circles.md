@@ -103,7 +103,8 @@ $$
     } 
     \draw (0,3)  circle [radius  = 2cm ]  ; 
     % Draw the parabola
-    \draw[-,dotted ] (0,3)  -- (2,3)  node[right] {};  
+    \draw[-,dotted ] (-2,3)  -- (2,3)  node[right] {};   
+    \draw[-,dotted ] (0,1)  -- (0,5)  node[right] {};  
     \fill (0,3) circle (2pt) node[above left] {$(0,3)$};
 \end{tikzpicture}
 \end{document}
