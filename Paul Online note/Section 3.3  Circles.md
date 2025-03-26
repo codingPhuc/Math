@@ -30,4 +30,4 @@ $$
 \text{bottom most  point : } (h  , k - r  )
 \end{array}
 $$
-in other words all we need to do  is add r to the  x  or  y coordinates of the  center points to get the  right most point or top most point . 
+in other words all we need to do  is add r to the  x  or  y coordinates of the  center points to get the  right most point or top most point . Similarly  ,  we can  subtract  x  or  y coordinates of the  center points  to  get the bottom point or left point  
