@@ -161,9 +161,11 @@ $$
 ```
 
 ## Determine the center and radius of each of the following.
+#fail  
+
 $$
 \begin{array}{l}
 x^2 +  y ^2  +  8x + 7    = 0   \\
-(x  + 7 ) (x + 1 )
+(x  + 7 ) (x + 1 )   + y^2    =  0 
 \end{array}
 $$
