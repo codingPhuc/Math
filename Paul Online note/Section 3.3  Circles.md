@@ -108,7 +108,8 @@ $$
     \fill (0,3) circle (2pt) node[above left] {$(0,3)$}; 
         \fill  (0,1)  circle (2pt) node[above left] {$ (0,1) $};
             \fill (0,5) circle (2pt) node[above left] {$(0,5)$};
-                \fill (-2,3) circle (2pt) node[above left] {$(-2,3)$};
+                \fill (-2,3) circle (2pt) node[above left] {$(-2,3)$}; 
+                \fill (2,3) circle (2pt) node[above left] {$(2,3)$};
     
                     
 \end{tikzpicture}
@@ -159,4 +160,9 @@ $$
 \end{document}
 ```
 
-## determind the  
+## Determine the center and radius of each of the following.
+$$
+\begin{array}
+
+\end{array}
+$$
