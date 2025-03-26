@@ -20,4 +20,4 @@ $$
 8^2  =  (x+  4)^2 + (  y  - 7)^2  
 $$
 do not square out the two term  on the left leaving these terms here will help us quickly identify   the radios  and center of the circle  
-Graphing is  circle is easy when we know the 
+Graphing is  circle is easy when we know the  radios  and  center  point . Then  we just need the bottom point , left point , right point  and  top  point . 
