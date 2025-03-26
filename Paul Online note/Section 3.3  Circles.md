@@ -291,6 +291,8 @@ now this is not the equation  of the circle since the right side is $r^2$ meanin
     
 - **For the center**, flip the sign inside the parentheses:
     
-    - $(x+4)2(x + 4)^2(x+4)2$ → Center’s x-coordinate is −4-4−4
+    - $(x + 4)^2$ → Center’s x-coordinate is −4
         
-    - (y−3)2(y - 3)^2(y−3)2 → Center’s y-coordinate is 333
+    - $(y - 3)^2$→ Center’s y-coordinate is 3
+
+
