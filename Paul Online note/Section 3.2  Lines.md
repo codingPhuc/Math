@@ -811,8 +811,8 @@ since the line is perpendicular to the point (−7,2) the front slops form equat
 $$
 \begin{array}{l}
 y =  2   -  \frac{14}{3}(x  + 7)  \\
-y  = 2 -  \frac{14}{3}x   +  \frac{3}{2}  \\
-y =  \frac{3}{14}x + \frac{7}{2 }
+y  = 2 -  \frac{14}{3}x   +  \frac{98}{3}  \\
+y =   -  \frac{14}{3}x + \frac{104}{3 }
 \end{array}
    $$
    
