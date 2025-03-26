@@ -257,13 +257,13 @@ the radius of the circle is  3 , the center point of the circles  is ( -7 , 4)
 
 
 
-
+we need to find the number  we need to comped  the  square root of x and y  
 $$
 \begin{array}{l}
 9x^2+9y^2−6x−36y−107=0   \\
 9x^2+9y^2−6x−36y  =107   \\
  x^2+y^2 - \frac{2}{3}x  -  4y  =  \frac{107}{9 }   \\
-(x +   7)^2+  (y  -  4)^2  =  9 
+x^2   - \frac{2}{3}x +  \frac{1}{9}  + y^2  -4y  + 4  =  
 \end{array}
 $$
 
