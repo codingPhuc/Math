@@ -201,6 +201,9 @@ $$
 
 1. Write the equation of the circle with radius 3 and center (6,0) 
 $$
-y 
+(x -  6)^2  +  y^2  =  3   
 $$
-2. Write the equation of the circle with radius $\sqrt{ 7 }$ and center (−1,−9) .
+2. Write the equation of the circle with radius $\sqrt{ 7 }$ and center (−1,−9) . 
+$$
+(x +  1)^2  (x+ 9)^
+$$
