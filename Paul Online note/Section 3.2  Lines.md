@@ -539,8 +539,6 @@ the point-slope  form  of the point is
 $$
 \begin{array}{l}
 y  =  4  +  2 ( x  + 2)    \\
-y = 4 +  \2x  +  \frac{6}{2}  \\
-y = 2x +  7  
 \end{array}
 $$
 
