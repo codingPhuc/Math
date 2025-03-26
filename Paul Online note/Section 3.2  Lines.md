@@ -544,5 +544,11 @@ y = \frac{6}{4}x +  7
 \end{array}
 $$
 
-the  intercept
- 
+the  interception point is   we need the find the y  intercption  of th
+$$
+\begin{array}{l}
+y  =  4  +  \frac{6}{4} ( x  + 2)    \\
+y = 4 +  \frac{6}{4}x  +  \frac{6}{2}  \\
+y = \frac{6}{4}x +  7  
+\end{array}
+$$
