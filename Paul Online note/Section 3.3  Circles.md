@@ -103,7 +103,7 @@ $$
     } 
     \draw (0,3)  circle [radius  = 2cm ]  ; 
     % Draw the parabola
-   
+    \draw[-,dotted ] (0,3)  -- (2,3)  node[right] {}; 
 \end{tikzpicture}
 \end{document}
 ```
@@ -134,7 +134,8 @@ $$
         \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
-    \draw (1,-4) circle [radius  = 4cm ]  ;  
+    \draw (1,-4) circle [radius  = 4cm ]  ;   
+    \draw[-,dotted ] (0,3)  -- (2,3)  node[right] {}; 
     
 
 
