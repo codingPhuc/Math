@@ -195,3 +195,9 @@ $$ so  now we can pick the center and radius right off this :
 $$
 \text{center} =  (\frac{3}{2}  , - 5)  \;  \text{radius } = \sqrt{   \frac{113}{4}  } 
 $$
+
+
+# #Practice_Exercise  
+
+1. Write the equation of the circle with radius 3 and center (6,0) 
+2. Write the eq
