@@ -596,7 +596,7 @@ the point-slope  form  of the point is
 
 $$
 \begin{array}{l}
-y  =  2    -\frac{3}{2} ( x   - 8)    \\
+y  =   8   -  3 (x  - )    \\
 \end{array}
 $$
 slope-intercept form  is : 
