@@ -557,4 +557,6 @@ $$
 so  the y-interception  point is (0,7) 
 
 slope-intercept form  is :  
-y = 
+$$
+ y =  \frac{6}{4}x +  7
+$$
