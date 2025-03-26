@@ -604,8 +604,8 @@ slope-intercept form  is :
 $$
 \begin{array}{l}
 y  =   8   - \frac{28}{3} (x  +  4 )      \\
-y  = 8   - \frac{28}{3}x  - 12  \\
-y =   -3x   -4   \\  
+y  = 8   - \frac{28}{3}x  - \frac{112}{3}  \\
+y =   - \frac{28}{3}x   + \frac{136}{3}   \\  
 \end{array}
 $$
 
