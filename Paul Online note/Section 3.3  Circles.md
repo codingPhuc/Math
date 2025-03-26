@@ -182,5 +182,13 @@ x^2 +  y ^2  +  8x + 7    = 0   \\
 $$
 step 3 : since this is the  standard form of the equation of the circle and so we can  pick the center  and radius right  off this . 
 $$
-\text{center} =  (-4 ,  0)  \
+\text{center} =  (-4 ,  0)  \;  \text{radius } = \sqrt{  9 } =3  
+$$
+$$
+\begin{array}{l}
+x^2 + y^2  -3x + 10y   -1  = 0    \\
+
+\end{array}
+
+
 $$
