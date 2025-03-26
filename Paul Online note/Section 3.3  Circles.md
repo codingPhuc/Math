@@ -189,8 +189,9 @@ $$
 x^2 + y^2  -3x + 10y   -1  = 0    \\
 x^2 + y^2  -3x + 10y  = 1  \\
 x^2  - 3x  + \frac{3}{2}  + y^2 +  10y   +  25   =  \frac{55}{2}  \\
-\left( x  - \frac{3}{2} \right)^2   +  (y+ 5)^2  =  
+\left( x  - \frac{3}{2} \right)^2   +  (y+ 5)^2  =  \frac{55}{2}   \\
 \end{array}
-
-
+$$ so  now we can pick the center and radius right off this : 
+$$
+\text{center} =  (\frac{3}{2}  ,  5)  \;  \text{radius } = \sqrt{  9 } =3  
 $$
