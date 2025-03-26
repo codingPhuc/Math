@@ -187,6 +187,7 @@ $$
 $$
 \begin{array}{l}
 x^2 + y^2  -3x + 10y   -1  = 0    \\
+x^2 + y^2  -3x + 10y  = 1  \\
 
 \end{array}
 
