@@ -530,7 +530,6 @@ $$
 ``` 
 ##  write down the equation of the line that passes through the two points. Give your answer in point-slope form and slope-intercept form. 
 $$(−2,4),(1,10)$$
-First we need to find the slope of the two  points 
-$$
--\frac{2}{4}
+First we need to find the slope of the two  points $$
+m =  \frac{\text{rise}}{\text{run}}   =  \frac{10 - 4   }{ 1+ 3 }   = \frac{6}{4}
 $$
