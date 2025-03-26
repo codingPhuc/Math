@@ -583,12 +583,12 @@ $$
 
 
 
+#fail 
 
 $$(−4,8),(−1,−20)$$ 
 First we need to find the slope of the two  points $$
 m =  \frac{\text{rise}}{\text{run}}   =  \frac{-20   - 8   }{  -1  +  4      }   = \frac{-28}{3}   
 $$
-
 
 
 
@@ -605,7 +605,14 @@ $$
 \begin{array}{l}
 y  =   8   - \frac{28}{3} (x  +  4 )      \\
 y  = 8   - \frac{28}{3}x  - \frac{112}{3}  \\
-y =   - \frac{28}{3}x   + \frac{136}{3}   \\  
+y =   - \frac{28}{3}x   + \frac{88}{3}   \\  
 \end{array}
 $$
 
+## For problems 6 & 7 determine the slope of the line and sketch the graph of the line. 
+$$
+\begin{ar}
+
+\end{ar}
+ 4y  + x   = 8  
+$$
