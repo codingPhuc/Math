@@ -154,8 +154,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,7 +246,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4002f4f480cac98",
+  "active": "30b50d563073904f",
   "lastOpenFiles": [
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/Section 2.13  Rational Inequalities.md",
