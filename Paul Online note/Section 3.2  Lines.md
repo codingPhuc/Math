@@ -573,8 +573,39 @@ slope-intercept form  is :
 $$
 \begin{array}{l}
 y  =  2    -\frac{3}{2} ( x   - 8)    \\
-y  =  2  -\frac{3}{2}x + 3\\
-y =  11    -\frac{3}{2}x  \\  
+y  =  2  -\frac{3}{2}x + 12\\
+y =  14    -\frac{3}{2}x  \\  
+\end{array}
+$$
+
+
+
+
+
+
+
+$$(−4,8),(−1,−20)$$ 
+First we need to find the slope of the two  points $$
+m =  \frac{\text{rise}}{\text{run}}   =  \frac{-20   - 8   }{  14   -  8    }   = \frac{-9}{6} =  -\frac{3}{2}
+$$
+
+
+
+
+the point-slope  form  of the point is 
+
+$$
+\begin{array}{l}
+y  =  2    -\frac{3}{2} ( x   - 8)    \\
+\end{array}
+$$
+slope-intercept form  is : 
+
+$$
+\begin{array}{l}
+y  =  2    -\frac{3}{2} ( x   - 8)    \\
+y  =  2  -\frac{3}{2}x + 12\\
+y =  14    -\frac{3}{2}x  \\  
 \end{array}
 $$
 
