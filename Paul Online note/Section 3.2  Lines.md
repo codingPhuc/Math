@@ -755,4 +755,7 @@ $$
 
 $$
 so the slop of the line is  8  
-the slops  of the  line containing the  two point 
+the slops  of the  line containing the  two point $(1,3) \cap(2,−4)$
+ $$
+m =  \frac{\text{rise}}{\text{run}} = \frac{-4 -3}{ 2  -1 } = 7 
+$$
