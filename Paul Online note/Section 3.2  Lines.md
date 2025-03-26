@@ -746,6 +746,7 @@ $$
 the line is perpendicular 
 
 
+
 $8x−y=2$ and the line containing the two points (1,3)and (2,−4) 
 $$
 \begin{array}{l}
@@ -770,6 +771,9 @@ $$
 $$
 the lines are not perpendicular 
 
+
+
+
 Find the equation of the line through (−7,2) and is parallel to the line $3x−14y=4$ 
 $$
 \begin{array}{l}
@@ -787,3 +791,28 @@ y  = 2 + \frac{3}{14}x   +  \frac{3}{2}  \\
 y =  \frac{3}{14}x + \frac{7}{2 }
 \end{array}
    $$
+
+
+
+
+
+
+
+Find the equation of the line through (−7,2) and is perpendicular  to the line $3x−14y=4$ 
+$$
+\begin{array}{l}
+3x  - 14 y =  4     \\
+3x   - 4  = 14y   \\
+\frac{3}{14}x  -  \frac{4}{14} = y 
+\end{array}
+$$
+so the slops of the line is $\frac{3}{14}$ 
+since the line is parallel to the point (−7,2) the front slops form equation is 
+$$
+\begin{array}{l}
+y =  2   + \frac{3}{14}(x  + 7)  \\
+y  = 2 + \frac{3}{14}x   +  \frac{3}{2}  \\
+y =  \frac{3}{14}x + \frac{7}{2 }
+\end{array}
+   $$
+   
