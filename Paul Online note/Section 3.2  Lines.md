@@ -419,7 +419,12 @@ $$
     \draw[->] (-2,4) -- (1,10) node[right] {}; 
     \draw[-,dotted ] (1,4) -- (-2,4) node[right] {}; 
     \draw[-,dotted ] (1,10)  -- (1,4) node[right] {}; 
-
+	 \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
     % Draw tick marks and labels
     % Text annotations  
     \fill (1,10)  circle (2pt) node[above right] {$(1,10)$};
