@@ -148,7 +148,7 @@ Here's the formatted text:
 
 First, let's determine the slope mm of the line using the two points: (−2,4)(-2, 4) and (3,−5)(3, -5).
 
-m=−5−43−(−2)=−95m = \frac{-5 - 4}{3 - (-2)} = \frac{-9}{5}
+$$m=−5−43−(−2)=−95m = \frac{-5 - 4}{3 - (-2)} = \frac{-9}{5}$$
 
 ### Writing the Equation of the Line
 
@@ -529,3 +529,4 @@ $$
 
 ``` 
 ##  write down the equation of the line that passes through the two points. Give your answer in point-slope form and slope-intercept form. 
+(−2,4),(1,10)
