@@ -154,7 +154,7 @@ $$m=−5−43−(−2)=−95m = \frac{-5 - 4}{3 - (-2)} = \frac{-9}{5}$$
 
 We can use **either point** to write the equation of the line. Let's demonstrate this by using both points.
 
-#### Using the Point (−2,4)(-2, 4)
+#### Using the Point (−2,4)
 
 Plug the point into the point-slope form:
 
@@ -162,7 +162,7 @@ $$y−4=−95(x−(−2))y - 4 = \frac{-9}{5}(x - (-2))$$
 
 Simplify:
 
-y$$=4−95(x+2)y = 4 - \frac{9}{5}(x + 2)$$
+$$y=4−95(x+2)y = 4 - \frac{9}{5}(x + 2)$$
 
 Distribute the slope:
 
@@ -277,11 +277,6 @@ $$
 
 
 ``` 
-
-
-
-
-
 
 
 $$
@@ -535,4 +530,4 @@ m =  \frac{\text{rise}}{\text{run}}   =  \frac{10 - 4   }{ 1+ 3 }   = \frac{6}{4
 $$
 the point-slope  form  of the point is 
 
-y  =  (x  + )
+y  =  (x  + ) + b
