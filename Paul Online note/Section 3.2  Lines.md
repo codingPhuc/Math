@@ -770,4 +770,10 @@ $$
 $$
 the lines are not perpendicular 
 
-Find the equation of the line through (−7,2) and is parallel to the line 3x−14y=43x−14y=4
+Find the equation of the line through (−7,2) and is parallel to the line $3x−14y=4$ 
+$$
+\begin{array}{l}
+3x  - 14 y =  4     \\
+3x   - 4  = 15
+\end{array}
+$$
