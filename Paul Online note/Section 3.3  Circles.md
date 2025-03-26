@@ -241,7 +241,7 @@ $$
 
 the radius of the circle is  $2\sqrt{ 3 }$ , the center point of the circles  is ( -1  , -3) 
 ## determine the radius and center of the circle. If the equation is not the equation of a circle clearly explain why not. 
-
+we need to find the number  we need to comped  the  square root of x and y  
 $$
 \begin{array}{l}
 x^2 +   y^2  + 14x    - 8y  +  56   = 0    \\
@@ -260,8 +260,8 @@ the radius of the circle is  3 , the center point of the circles  is ( -7 , 4)
 
 $$
 \begin{array}{l}
-x^2 +   y^2  + 14x    - 8y  +  56   = 0    \\
-x^2 + 14x    +  y^2 - 8y  = - 56   \\
+9x^2+9y^2−6x−36y−107=0   \\
+9x^2+9y^2−6x−36y  =107   \\
 x^2 + 14x + 49   +  y^2 - 8y +  16  =  9   \\
 (x +   7)^2+  (y  -  4)^2  =  9 
 \end{array}
