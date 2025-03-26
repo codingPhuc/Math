@@ -596,16 +596,16 @@ the point-slope  form  of the point is
 
 $$
 \begin{array}{l}
-y  =   8   -  3 (x  - )    \\
+y  =   8   -  3 (x  +  4 )      \\
 \end{array}
 $$
 slope-intercept form  is : 
 
 $$
 \begin{array}{l}
-y  =  2    -\frac{3}{2} ( x   - 8)    \\
-y  =  2  -\frac{3}{2}x + 12\\
-y =  14    -\frac{3}{2}x  \\  
+y  =   8   -  3 (x  +  4 )      \\
+y  = 8   -  3x  - 12  \\
+y =   -3x   -4   \\  
 \end{array}
 $$
 
