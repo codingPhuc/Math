@@ -180,4 +180,7 @@ x^2 +  y ^2  +  8x + 7    = 0   \\
 (x + 4)^2   + y^2  =  9 
 \end{array}
 $$
-step 3 : since this is the  standard form of the cir
+step 3 : since this is the  standard form of the equation of the circle and so we can  pick the center  and radius right  off this . 
+$$
+\text{center} =  (-4 ,  0)  \
+$$
