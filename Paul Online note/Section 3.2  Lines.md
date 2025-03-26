@@ -475,7 +475,7 @@ $$
     % Text annotations  
     \fill (8,2)  circle (2pt) node[above right] {$(8,2)$};
     \fill  (14,-7)  circle (2pt) node[above left] {$ (14,-7) $};
-    \fill  (-2,4)  circle (2pt) node[above right] {$(-2,4) $};
+    \fill  (14,2)  circle (2pt) node[above right] {$(14,2) $};
 
     % Add additional points
  %%    \fill (-3,12) circle (2pt) node[above left] {$(-3,12)$}; %%
@@ -487,3 +487,4 @@ $$
 
 
 ``` 
+##  write down the equation of the line that passes through the two points. Give your answer in point-slope form and slope-intercept form. 
