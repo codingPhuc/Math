@@ -242,6 +242,12 @@ $$
 the radius of the circle is  $2\sqrt{ 3 }$ , the center point of the circles  is ( -1  , -3) 
 ## determine the radius and center of the circle. If the equation is not the equation of a circle clearly explain why not. 
 
+$$
+\begin{array}{l}
+x^2 +   y^2  + 14x  - 8x  +  56   = 0    \\
+x^2 +   y^2 
+\end{array}
+$$ 
 
 
 
