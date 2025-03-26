@@ -530,7 +530,9 @@ m =  \frac{\text{rise}}{\text{run}}   =  \frac{10 - 4   }{ 1+ 3 }   = \frac{6}{4
 $$
 the point-slope  form  of the point is 
 tokyo  
-14 time  smaller  tha
+14 time  smaller  than  tokyo 
+1 million  small city  
+abundant  nature  2  highest  grass mountain in japan tateyama   toyam bay  with a lot of  mineral  
 
 $$
 y  =  
