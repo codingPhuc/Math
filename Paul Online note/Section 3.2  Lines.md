@@ -544,4 +544,4 @@ y = \frac{6}{4}x +  7
 \end{array}
 $$
 
-to write the  slope-intercept form  ,we need to find the  
+to write the  slope-intercept form  ,we need to find the  y-interception  point  
