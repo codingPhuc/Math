@@ -529,4 +529,4 @@ $$
 
 ``` 
 ##  write down the equation of the line that passes through the two points. Give your answer in point-slope form and slope-intercept form. 
-(−2,4),(1,10)
+$$(−2,4),(1,10)$$ 
