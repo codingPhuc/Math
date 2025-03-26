@@ -163,10 +163,10 @@ $$
 ## Determine the center and radius of each of the following.
 #fail  
 
-step  1 :  group th
+step  1 :  group the  $x^2  \cap  y^2$ together    
 $$
 \begin{array}{l}
 x^2 +  y ^2  +  8x + 7    = 0   \\
- 
+ x^2 +  y ^2  +  8x     = -  7 
 \end{array}
 $$
