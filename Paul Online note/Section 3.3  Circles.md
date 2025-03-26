@@ -1,7 +1,7 @@
 
 
 # #definition 
-we will take a quick  look at circles .  Before that however  , we are going to  take a quick a look at circle 
+we will take a quick  look at circles .  Before that however  , we are going to  take a quick a look at formula   
 Given  two  points   $(x_{1} ,  y_{1})$ and  $(x_{2} , y_{2})$ the distance between  them is given  
 $$
 dm  = \sqrt{(x_{2}   -  x_{1})^2   + (y_{2}  - y_{1})^2  }
@@ -177,6 +177,7 @@ $$
 \begin{array}{l}
 x^2 +  y ^2  +  8x + 7    = 0   \\
  x^2   +  8x  + 16 +  y ^2      = -  7  + 16  \\
-
+(x + 4)^2   + y^2  =  9 
 \end{array}
 $$
+step 3 : since this is the  standard form of the cir
