@@ -774,6 +774,7 @@ Find the equation of the line through (−7,2) and is parallel to the line $3
 $$
 \begin{array}{l}
 3x  - 14 y =  4     \\
-3x   - 4  = 15
+3x   - 4  = 14y   \\
+\frac{3}{14}x  -  \frac{4}{14} = y 
 \end{array}
 $$
