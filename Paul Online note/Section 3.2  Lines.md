@@ -473,8 +473,8 @@ $$
     }
     % Draw tick marks and labels
     % Text annotations  
-    \fill (1,10)  circle (2pt) node[above right] {$(1,10)$};
-    \fill (1,4) circle (2pt) node[above left] {$(1,4)$};
+    \fill (8,2)  circle (2pt) node[above right] {$(8,2)$};
+    \fill  (14,-7)  circle (2pt) node[above left] {$ (14,-7) $};
     \fill  (-2,4)  circle (2pt) node[above right] {$(-2,4) $};
 
     % Add additional points
