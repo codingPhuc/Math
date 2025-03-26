@@ -779,4 +779,9 @@ $$
 \end{array}
 $$
 so the slops of the line is $\frac{3}{14}$ 
-since the line is parallel to the point (−7,2) the 
+since the line is parallel to the point (−7,2) the front slops form equation is 
+$$
+\begin{array}
+
+\end{array}
+y =  2   + \frac{3}{14}(x  + 7)   $$
