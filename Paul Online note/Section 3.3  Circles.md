@@ -4,3 +4,4 @@ Given  two  points   $(x_{1} ,  y_{1})$ and  $(x_{2} , y_{2})$ the distance betw
 $$
 dm  = \sqrt{(x_{2}   -  x_{1})^2   + (y_{2}  - y_{1})^2  }
 $$
+So why  is this  formula need  ,  recall that  a circle  is  just  all point of that have the same distance  ,  r is called the  radius o
