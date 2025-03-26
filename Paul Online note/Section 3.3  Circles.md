@@ -33,5 +33,10 @@ $$
 in other words all we need to do  is add r to the  x  or  y coordinates of the  center points to get the  right most point or top most point . Similarly  ,  we can  subtract  x  or  y coordinates of the  center points  to  get the bottom point or left point  
 ## Determine the center and radius of each of the following circles and sketch the graph of the circle. 
 $$
-x^2  + y^2  =1   
+\begin{array}{l }
+x^2  + y^2  =1   \\
+
+\end{array}
+
+  
 $$
