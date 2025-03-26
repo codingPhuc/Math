@@ -8,3 +8,7 @@ So why  is this  formula need  ,  recall that  a circle  is  just  all point of 
 $$
 r  =   \sqrt{  (x - h)^2  + (y_{2}  -  y_{1})^2  }
 $$
+or  if we square both the side we will get  : 
+$$
+r^2 =  (x  -  h)^2    +  ()
+$$
