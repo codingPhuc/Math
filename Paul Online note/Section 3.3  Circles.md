@@ -40,10 +40,10 @@ x^2  + y^2  =1   \\
 
   
 $$
--  the center of the equation is  (0, 0) 
+-  the center point of the equation is  (0, 0) 
 - the  radios  of the equation is  (1)
 
 $$
 x^2  + (y -3)^2  =  4   
 $$
-- the center of the equation is ()
+- the center point of the equation is ( 0  , + 3 )
