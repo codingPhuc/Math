@@ -25,8 +25,8 @@ These point are simple to find  since we know that the point have a distance of 
 $$
 \begin{array}{l} 
 \text{right most  point : } (h + r , k ) \\
-\text{right most  point : } (h + r , k )  \\
-\text{right most  point : } (h + r , k ) \\
-\text{right most  point : } (h + r , k )
+\text{left most  point : } (h - r , k )  \\
+\text{top most  point : } (h , k + r  ) \\
+\text{bottom most  point : } (h  , k - r  )
 \end{array}
 $$
