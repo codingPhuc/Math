@@ -252,7 +252,18 @@ x^2 + 14x + 49   +  y^2 - 8y +  16  =  9   \\
 $$
 
 
-the radius of the circle is  $2\sqrt{ 3 }$ , the center point of the circles  is ( -1  , -3) 
+the radius of the circle is  3 , the center point of the circles  is ( -7 , 4) 
 
 
+
+
+
+$$
+\begin{array}{l}
+x^2 +   y^2  + 14x    - 8y  +  56   = 0    \\
+x^2 + 14x    +  y^2 - 8y  = - 56   \\
+x^2 + 14x + 49   +  y^2 - 8y +  16  =  9   \\
+(x +   7)^2+  (y  -  4)^2  =  9 
+\end{array}
+$$
 
