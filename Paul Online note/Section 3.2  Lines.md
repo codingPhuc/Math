@@ -544,4 +544,14 @@ y = \frac{6}{4}x +  7
 \end{array}
 $$
 
-to write the  slope-intercept form  ,we need to find the  y-interception  point  
+to write the  slope-intercept form  ,we need to find the  y-interception  point  of the graph  
+
+$$
+\begin{array}{l}
+y  =  4  +  \frac{6}{4} ( 0 + 2)    \\
+y = 4 +  \frac{6}{4}0  +  \frac{6}{2}  \\
+y =   7  
+\end{array}
+$$
+
+so  the y-interception  point is (0,7) 
