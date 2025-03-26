@@ -738,9 +738,12 @@ since the  slop of the line does not  equal each other  :
  $$
  \frac{3}{7}  \neq -\frac{7}{3}
 $$
-we concluded that the line is not  parrallel 
+we concluded that the line is not  parallel  
 since the line  : 
 $$
  \frac{3}{7} \cdot -\frac{7}{3}  =  -1 
 $$
-the line is p
+the line is perpendicular 
+
+
+8x−y=2 and the line containing the two points (1,3)(1,3)and (2,−4)
