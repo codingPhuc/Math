@@ -526,7 +526,7 @@ $$
 ##  write down the equation of the line that passes through the two points. Give your answer in point-slope form and slope-intercept form. 
 $$(−2,4),(1,10)$$
 First we need to find the slope of the two  points $$
-m =  \frac{\text{rise}}{\text{run}}   =  \frac{10 - 4   }{ 1+ 3 }   = \frac{6}{4}
+m =  \frac{\text{rise}}{\text{run}}   =  \frac{10 - 4   }{ 1  + 2   }   = \frac{6}{3}
 $$
 xiahu  cambugy  
 
@@ -538,9 +538,9 @@ the point-slope  form  of the point is
 
 $$
 \begin{array}{l}
-y  =  4  +  \frac{6}{4} ( x  + 2)    \\
-y = 4 +  \frac{6}{4}x  +  \frac{6}{2}  \\
-y = \frac{6}{4}x +  7  
+y  =  4  +  2 ( x  + 2)    \\
+y = 4 +  \2x  +  \frac{6}{2}  \\
+y = 2x +  7  
 \end{array}
 $$
 
