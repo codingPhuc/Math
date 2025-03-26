@@ -613,7 +613,7 @@ $$
 $$
 \begin{array}{l}
  4y  + x   = 8     \\
-
+- x    +  8  
 \end{array}
 
 $$
