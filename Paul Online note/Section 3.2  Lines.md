@@ -416,7 +416,7 @@ $$
     % Draw x-axis
     \draw[->] (-7,0) -- (7,0) node[right] {};
     \draw[->] (0,-7) -- (0,7) node[right] {}; 
-    \draw[->] (-1,-1) -- (1,10) node[right] {}; 
+    \draw[->] (−2,4) -- (1,10) node[right] {}; 
     \draw[-,dotted ] (6,6) -- (6,-1) node[right] {}; 
     \draw[-,dotted ] (6,-1) -- (-1,-1) node[right] {}; 
     \draw[<->] (-1,-2) -- (6,-2) node[midway ,  below] {$\text{rise}  =  x_{2} -  x_{1}$};   
