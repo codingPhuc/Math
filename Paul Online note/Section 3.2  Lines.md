@@ -140,34 +140,75 @@ $$
 $$
    4  +  5  =  m(-2  - 3)$$
    At first glance it may not appear that we’ll be able to use the point-slope form of the line since this requires a single point (we’ve got two) and the slope (which we don’t have). However, that fact that we’ve got two points isn’t really a problem; in fact, we can use these two points to determine the missing slope of the line since we do know that we can always find that from any two points on the line.
+Here's the formatted text:
 
-So, let’s start off my finding the slope of the line.
+---
 
-m=−5−43−(−2)=−95m=−5−43−(−2)=−95
+### Finding the Slope of the Line
 
-Now, which point should we use to write down the equation of the line? We can actually use either point. To show this we will use both.
+First, let's determine the slope mm of the line using the two points: (−2,4)(-2, 4) and (3,−5)(3, -5).
 
-First, we’ll use(−2,4)(−2,4). Now that we’ve gotten the point all that we need to do is plug into the formula. We will use the second form.
+m=−5−43−(−2)=−95m = \frac{-5 - 4}{3 - (-2)} = \frac{-9}{5}
 
-y=4−95(x−(−2))=4−95(x+2)y=4−95(x−(−2))=4−95(x+2)
+### Writing the Equation of the Line
 
-Now, let’s use (3,−5)(3,−5).
+We can use **either point** to write the equation of the line. Let's demonstrate this by using both points.
 
-y=−5−95(x−3)y=−5−95(x−3)
+#### Using the Point (−2,4)(-2, 4)
 
-Okay, we claimed that it wouldn’t matter which point we used in the formula, but these sure look like different equations. It turns out however, that these really are the same equation. To see this all that we need to do is distribute the slope through the parenthesis and then simplify.
+Plug the point into the point-slope form:
 
-Here is the first equation.
+$$y−4=−95(x−(−2))y - 4 = \frac{-9}{5}(x - (-2))$$
 
-y=4−95(x+2)=4−95x−185=−95x+25y=4−95(x+2)=4−95x−185=−95x+25
+Simplify:
 
-Here is the second equation.
+y$$=4−95(x+2)y = 4 - \frac{9}{5}(x + 2)$$
 
-y=−5−95(x−3)=−5−95x+275=−95x+25y=−5−95(x−3)=−5−95x+275=−95x+25
+Distribute the slope:
 
-So, sure enough they are the same equation. 
+$$y=4−95x−185y = 4 - \frac{9}{5}x - \frac{18}{5}$$
 
+Convert 44 to have a denominator of 5:
 
+$$y=205−95x−185y = \frac{20}{5} - \frac{9}{5}x - \frac{18}{5}$$
+
+Combine the constants:
+
+$$y=−95x+25y = -\frac{9}{5}x + \frac{2}{5}$$
+
+---
+
+#### Using the Point (3,−5)(3, -5)
+
+Plug the point into the point-slope form:
+
+$$y−(−5)=−95(x−3)y - (-5) = \frac{-9}{5}(x - 3)$$
+
+Simplify:
+
+$$y=−5−95(x−3)y = -5 - \frac{9}{5}(x - 3)$$
+
+Distribute the slope:
+
+$$y=−5−95x+275y = -5 - \frac{9}{5}x + \frac{27}{5}$$
+
+Convert −5-5 to have a denominator of 5:
+
+$$y=−255−95x+275y = \frac{-25}{5} - \frac{9}{5}x + \frac{27}{5}$$
+
+Combine the constants:
+
+$$y=−95x+25y = -\frac{9}{5}x + \frac{2}{5}$$
+
+---
+
+### Conclusion
+
+Both forms of the equation simplify to the same line equation:
+
+$$y=−95x+25y = -\frac{9}{5}x + \frac{2}{5}$$
+
+Thus, it **doesn't matter which point** you use—both result in the same equation. ✅
 
 The final  form of the equation  is the **slope intercept** form  .  In  this cases , we know that the line  has slope  m and has a  y-intercept  of( 0,b) then the slope intercept form of the equation is 
 $$
