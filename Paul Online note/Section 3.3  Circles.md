@@ -269,4 +269,17 @@ x^2   - \frac{2}{3}x +  \frac{1}{9}  + y^2  -4y  + 4  =   \frac{107}{9 }    +  \
 \end{array}
 $$
 
-the radius of the circle is  $4$ , the center point of the circles  is $\left( \frac{1}{3}  , 2\right)$
+the radius of the circle is  $4$ , the center point of the circles  is $\left( \frac{1}{3}  , 2\right)$ 
+
+
+
+$$
+\begin{array}{l}
+x^2 +   y^2  +  8x  +  20   =  0    \\
+x^2 +   y^2  +  8x   = -   20  \\
+x^2 +   y^2  +  8x   = -   20 \\
+x^2   - \frac{2}{3}x +  \frac{1}{9}  + y^2  -4y  + 4  =   \frac{107}{9 }    +  \frac{1}{9}   + 4     \\
+\left( x   -   \frac{1}{3} \right)^2   + (y  - 2)^2  =  16  \\
+
+\end{array}
+$$
