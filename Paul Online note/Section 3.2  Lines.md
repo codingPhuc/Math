@@ -586,7 +586,7 @@ $$
 
 $$(−4,8),(−1,−20)$$ 
 First we need to find the slope of the two  points $$
-m =  \frac{\text{rise}}{\text{run}}   =  \frac{-20   - 8   }{  -1  +  4      }   = \frac{-9}{3} =  -3  
+m =  \frac{\text{rise}}{\text{run}}   =  \frac{-20   - 8   }{  -1  +  4      }   = \frac{-28}{3}   
 $$
 
 
@@ -596,15 +596,15 @@ the point-slope  form  of the point is
 
 $$
 \begin{array}{l}
-y  =   8   -  3 (x  +  4 )      \\
+y  =   8    - \frac{28}{3} (x  +  4 )      \\
 \end{array}
 $$
 slope-intercept form  is : 
 
 $$
 \begin{array}{l}
-y  =   8   -  3 (x  +  4 )      \\
-y  = 8   -  3x  - 12  \\
+y  =   8   - \frac{28}{3} (x  +  4 )      \\
+y  = 8   - \frac{28}{3}x  - 12  \\
 y =   -3x   -4   \\  
 \end{array}
 $$
