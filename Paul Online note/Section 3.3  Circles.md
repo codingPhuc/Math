@@ -105,10 +105,16 @@ $$
     % Draw the parabola
     \draw[-,dotted ] (-2,3)  -- (2,3)  node[right] {};   
     \draw[-,dotted ] (0,1)  -- (0,5)  node[right] {};  
-    \fill (0,3) circle (2pt) node[above left] {$(0,3)$};
+    \fill (0,3) circle (2pt) node[above left] {$(0,3)$}; 
+        \fill  (0,1)  circle (2pt) node[above left] {$ (0,1) $};
+            \fill (0,5) circle (2pt) node[above left] {$(0,5)$};
+                \fill (-2,3) circle (2pt) node[above left] {$(-2,3)$};
+    
+                    
 \end{tikzpicture}
 \end{document}
 ```
+
 
 
 $$
