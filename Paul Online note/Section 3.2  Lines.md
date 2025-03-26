@@ -540,13 +540,4 @@ y = \frac{6}{4}x +  7
 $$
 
 
- slope-intercept form. 
-
-
-$$
-\begin{array}{l}
-y  =  4  +  \frac{6}{4} ( x  + 2)    \\
-y = 4 +  \frac{6}{4}x  +  \frac{6}{2}  \\
-y = \frac{6}{4}x +  7  
-\end{array}
-$$
+ slope-intercept form.
