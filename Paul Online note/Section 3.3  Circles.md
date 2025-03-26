@@ -4,4 +4,7 @@ Given  two  points   $(x_{1} ,  y_{1})$ and  $(x_{2} , y_{2})$ the distance betw
 $$
 dm  = \sqrt{(x_{2}   -  x_{1})^2   + (y_{2}  - y_{1})^2  }
 $$
-So why  is this  formula need  ,  recall that  a circle  is  just  all point of that have the same distance  ,  r is called the  radius of a point , (h,k) called the center . In other word ,if (x , y )  is any point  in the circle, then it will have a distance of r from the center of the center 
+So why  is this  formula need  ,  recall that  a circle  is  just  all point of that have the same distance  ,  r is called the  radius of a point , (h,k) called the center . In other word ,if (x , y )  is any point  in the circle, then it will have a distance of r from the center of the center (h,k)  
+$$
+r  =   \sqrt{  (x - h)^2  +  }
+$$
