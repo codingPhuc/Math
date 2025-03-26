@@ -586,7 +586,7 @@ $$
 
 $$(−4,8),(−1,−20)$$ 
 First we need to find the slope of the two  points $$
-m =  \frac{\text{rise}}{\text{run}}   =  \frac{-20   - 8   }{  14   -  8    }   = \frac{-9}{6} =  -\frac{3}{2}
+m =  \frac{\text{rise}}{\text{run}}   =  \frac{-20   - 8   }{  -1  +  4      }   = \frac{-9}{3} =  -3  
 $$
 
 
