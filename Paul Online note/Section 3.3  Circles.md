@@ -30,3 +30,4 @@ $$
 \text{bottom most  point : } (h  , k - r  )
 \end{array}
 $$
+in other words all we n
