@@ -19,8 +19,8 @@ with radius 8 and center (−4,7)
 $$
 8^2  =  (x+  4)^2 + (  y  - 7)^2  
 $$
-do not square out the two term  on the left leaving these terms here will help us quickly identify   the radios  and center of the circle  
-Graphing is  circle is easy when we know the  radios  and  center  point . Then  we just need the bottom point , left point , right point  and  top  point . 
+do not square out the two term  on the left leaving these terms here will help us quickly identify   the radius  and center of the circle  
+Graphing is  circle is easy when we know the  radius  and  center  point . Then  we just need the bottom point , left point , right point  and  top  point . 
 These point are simple to find  since we know that the point have a distance of r from the center 
 $$
 \begin{array}{l} 
@@ -41,9 +41,16 @@ x^2  + y^2  =1   \\
   
 $$
 -  the center point of the equation is  (0, 0) 
-- the  radios  of the equation is  (1)
+- the  radius  of the equation is  (1)
 
 $$
 x^2  + (y -3)^2  =  4   
 $$
-- the center point of the equation is ( 0  , + 3 )
+- the center point of the equation is ( 0  , 3 ) 
+- the radius  of the equation is  2 
+
+$$
+(x  - 1)^2  +  (y  + )  =  4   
+$$
+- the center point of the equation is ( 0  , 3 ) 
+- the radius  of the equation is  2 
