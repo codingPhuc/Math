@@ -759,4 +759,9 @@ the slops  of the  line containing the  two point $(1,3) \cap(2,−4)$
  $$
 m =  \frac{\text{rise}}{\text{run}} = \frac{-4 -3}{ 2  -1 } = -7 
 $$
-since  8 
+since the  slop of the line does not  equal each other  :  
+$$
+ 8 \neq -7 
+$$
+the lines  are not parallel 
+since the slop  does not equal  -1 when  
