@@ -613,7 +613,9 @@ $$
 $$
 \begin{array}{l}
  4y  + x   = 8     \\
-- x    +  8  
+- x    +  8   = 4y  \\
+-\frac{1}{4} x + 2 =  y  
 \end{array}
 
 $$
+so the slop of the line is  
