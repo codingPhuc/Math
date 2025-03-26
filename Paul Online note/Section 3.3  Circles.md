@@ -50,7 +50,8 @@ $$
 - the radius  of the equation is  2 
 
 $$
-(x  - 1)^2  +  (y  + )  =  4   
+(x  - 1)^2  +  (y  +  4)^2   =  16    
 $$
-- the center point of the equation is ( 0  , 3 ) 
-- the radius  of the equation is  2 
+- the center point of the equation is ( 1 ,  -4)
+- the radius  of the equation is 4  
+
