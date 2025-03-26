@@ -135,7 +135,8 @@ $$
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
     \draw (1,-4) circle [radius  = 4cm ]  ;   
-    \draw[-,dotted ] (0,3)  -- (2,3)  node[right] {}; 
+    \draw[-,dotted ] (1,-4)  -- (5,-4)  node[right] {};  
+     \draw[-,dotted ] (1,-4)  -- (1,0)  node[right] {}; 
     
 
 

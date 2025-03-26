@@ -91,7 +91,8 @@
               "title": "Untitled 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,12 +247,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4002f4f480cac98",
+  "active": "d29ad95f21d97f0a",
   "lastOpenFiles": [
+    "Paul Online note/Section 3.1 Graphing.md",
+    "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 3.2  Lines.md",
     "Untitled 2.md",
-    "Paul Online note/Section 3.3  Circles.md",
-    "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 2.13  Rational Inequalities.md",
     "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
