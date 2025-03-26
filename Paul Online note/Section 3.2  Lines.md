@@ -555,7 +555,7 @@ $$
 
 $$(8,2),(14,−7)$$ 
 First we need to find the slope of the two  points $$
-m =  \frac{\text{rise}}{\text{run}}   =  \frac{-7 -2  }{  14   -  8    }   = \frac{6}{3}
+m =  \frac{\text{rise}}{\text{run}}   =  \frac{-7 -2  }{  14   -  8    }   = \frac{-9}{6}
 $$
 
 
