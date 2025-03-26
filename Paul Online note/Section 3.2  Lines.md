@@ -533,3 +533,5 @@ $$(−2,4),(1,10)$$
 First we need to find the slope of the two  points $$
 m =  \frac{\text{rise}}{\text{run}}   =  \frac{10 - 4   }{ 1+ 3 }   = \frac{6}{4}
 $$
+the point-slope  form  of the point is 
+
