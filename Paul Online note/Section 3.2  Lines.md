@@ -530,4 +530,8 @@ m =  \frac{\text{rise}}{\text{run}}   =  \frac{10 - 4   }{ 1+ 3 }   = \frac{6}{4
 $$
 the point-slope  form  of the point is 
 
-y  =  (x  + ) + b
+$$
+y  =  
+$$
+
+ 
