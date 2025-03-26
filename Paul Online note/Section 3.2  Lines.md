@@ -405,3 +405,42 @@ $$
 m =  \frac{\text{rise}}{\text{run}}   =  \frac{10  -   2 }{1 + 2 }   = \frac{8}{3}
 $$
 
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {}; 
+    \draw[->] (-1,-1) -- (1,10) node[right] {}; 
+    \draw[-,dotted ] (6,6) -- (6,-1) node[right] {}; 
+    \draw[-,dotted ] (6,-1) -- (-1,-1) node[right] {}; 
+    \draw[<->] (-1,-2) -- (6,-2) node[midway ,  below] {$\text{rise}  =  x_{2} -  x_{1}$};   
+    \draw[<->] (7,6) -- (7,-1) node[midway ,  right] {$\text{rise}  =  y_{2} -  y_{1}$};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    \fill (6,6)  circle (2pt) node[above right] {$(6,6)$};
+    \fill (6,-1) circle (2pt) node[above left] {$(6,-1)$};
+    \fill (-1,-1)  circle (2pt) node[above right] {$(-1,-1) $};
+
+    % Add additional points
+ %%    \fill (-3,12) circle (2pt) node[above left] {$(-3,12)$}; %%
+
+    % Draw the parabola
+
+\end{tikzpicture}
+\end{document}
+
+
+``` 
