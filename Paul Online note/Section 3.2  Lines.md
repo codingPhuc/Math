@@ -541,20 +541,36 @@ $$
 y  =  4  +  2 ( x  + 2)    \\
 \end{array}
 $$
-
-to write the  slope-intercept form  ,we need to find the  y-interception  point  of the graph  
+slope-intercept form  is : 
 
 $$
 \begin{array}{l}
-y  =  4  +  \frac{6}{4} ( 0 + 2)    \\
-y = 4 +  \frac{6}{4}0  +  \frac{6}{2}  \\
-y =   7  
+y  =  4  +  2 ( x  + 2)    \\
+y  =  4 + 2x +  4  \\
+y =  8  + 2x  \\  
 \end{array}
 $$
 
-so  the y-interception  point is (0,7) 
 
-slope-intercept form  is :  
+
+
+
+
+
+the point-slope  form  of the point is 
+
 $$
- y =  \frac{6}{4}x +  7
+\begin{array}{l}
+y  =  4  +  2 ( x  + 2)    \\
+\end{array}
 $$
+slope-intercept form  is : 
+
+$$
+\begin{array}{l}
+y  =  4  +  2 ( x  + 2)    \\
+y  =  4 + 2x +  4  \\
+y =  8  + 2x  \\  
+\end{array}
+$$
+
