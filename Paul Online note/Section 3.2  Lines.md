@@ -778,4 +778,5 @@ $$
 \frac{3}{14}x  -  \frac{4}{14} = y 
 \end{array}
 $$
-so the slops of the line is $\frac{3}{14}$
+so the slops of the line is $\frac{3}{14}$ 
+since the line is parallel to the point (−7,2) the 
