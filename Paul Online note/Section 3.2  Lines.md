@@ -618,4 +618,5 @@ $$
 \end{array}
 
 $$
-so the slop of the line is  
+so the slop of the line is  $-\frac{1}{4}$   
+the point we are drawing the line is  are (0,2 )  and  ()
