@@ -565,16 +565,16 @@ the point-slope  form  of the point is
 
 $$
 \begin{array}{l}
-y  =  8   + \frac{-9}{6} ( x   - 2)    \\
+y  =  8     -\frac{3}{2} ( x   - 2)    \\
 \end{array}
 $$
 slope-intercept form  is : 
 
 $$
 \begin{array}{l}
-y  =  8   + \frac{-9}{6} ( x   - 2)    \\
-y  =  4 + \frac{-9}{6}x +  4  \\
-y =  8  + 2x  \\  
+y  =  8     -\frac{3}{2} ( x   - 2)    \\
+y  =  8  -\frac{3}{2}x + 3\\
+y =  11    -\frac{3}{2}x  \\  
 \end{array}
 $$
 
