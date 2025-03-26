@@ -14,4 +14,8 @@ or  if we square both the side we will get  :
 $$
 r^2 =  (x  -  h)^2    +  (y -  k)^2 
 $$
-## Write down the equation of a circle with radius 8 and center (−4,7)
+## Write down the equation of a circle 
+with radius 8 and center (−4,7)
+$$
+8^2  =  (X +  4)^2 
+$$
