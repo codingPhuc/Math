@@ -162,7 +162,8 @@ $$
 
 ## Determine the center and radius of each of the following.
 $$
-\begin{array}
+\begin{array}{l}
+x^2 +  y ^2  +  8x + 7    = 0   \\
 
 \end{array}
 $$
