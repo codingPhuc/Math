@@ -61,7 +61,12 @@ t_{1}  =  \frac{3  \pm \sqrt{ 4  -  4\cdot   -2   }  }{2}   \\
 so  \;  t_{1}  =  \frac{3   -  \sqrt{  17  }  }{2}   \\
 t_{1}   =  \frac{3   +  \sqrt{ 17 }  }{2}
 \end{array}
- $$ The width of a rectangle is 1 m less than twice the length. If the area of the rectangle is 100 m2 what are the dimensions of the rectangle?   
+ $$ 
+ 
+ 
+ 
+ 
+ The width of a rectangle is 1 m less than twice the length. If the area of the rectangle is 100 m2 what are the dimensions of the rectangle?   
 we say that the length  of the triangle  is  represented by  the variable x  
 
 
