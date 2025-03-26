@@ -19,4 +19,4 @@ with radius 8 and center (−4,7)
 $$
 8^2  =  (x+  4)^2 + (  y  - 7)^2  
 $$
-do not square out the two term  on the left leav
+do not square out the two term  on the left leaving these terms here will help us quickly identify  these  equation as that of a circle 
