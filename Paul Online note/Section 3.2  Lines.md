@@ -419,19 +419,11 @@ $$
     \draw[->] (-2,4) -- (1,10) node[right] {}; 
     \draw[-,dotted ] (1,4) -- (-2,4) node[right] {}; 
     \draw[-,dotted ] (1,10)  -- (1,4) node[right] {}; 
-    \draw[<->] (-1,-2) -- (6,-2) node[midway ,  below] {$\text{rise}  =  x_{2} -  x_{1}$};   
-    \draw[<->] (7,6) -- (7,-1) node[midway ,  right] {$\text{rise}  =  y_{2} -  y_{1}$};
-    % Draw tick marks and labels
-    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
-        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
-    }
-        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
-        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
-    }
 
+    % Draw tick marks and labels
     % Text annotations  
-    \fill (6,6)  circle (2pt) node[above right] {$(6,6)$};
-    \fill (6,-1) circle (2pt) node[above left] {$(6,-1)$};
+    \fill (1,10)  circle (2pt) node[above right] {$(6,6)$};
+    \fill (1,4) circle (2pt) node[above left] {$(6,-1)$};
     \fill (-1,-1)  circle (2pt) node[above right] {$(-1,-1) $};
 
     % Add additional points
