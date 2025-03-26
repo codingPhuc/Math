@@ -544,5 +544,5 @@ y = \frac{6}{4}x +  7
 \end{array}
 $$
 
-
+the  intercept
  
