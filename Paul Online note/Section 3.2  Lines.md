@@ -739,7 +739,7 @@ since the  slop of the line does not  equal each other  :
  \frac{3}{7}  \neq -\frac{7}{3}
 $$
 we concluded that the line is not  parallel  
-since the line  : 
+since the slops equal  -1  when multiply    : 
 $$
  \frac{3}{7} \cdot -\frac{7}{3}  =  -1 
 $$
@@ -759,3 +759,4 @@ the slops  of the  line containing the  two point $(1,3) \cap(2,−4)$
  $$
 m =  \frac{\text{rise}}{\text{run}} = \frac{-4 -3}{ 2  -1 } = -7 
 $$
+since  8 
