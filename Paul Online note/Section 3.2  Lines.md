@@ -611,8 +611,9 @@ $$
 
 ## For problems 6 & 7 determine the slope of the line and sketch the graph of the line. 
 $$
-\begin{ar}
+\begin{array}{l}
+ 4y  + x   = 8     \\
 
-\end{ar}
- 4y  + x   = 8  
+\end{array}
+
 $$
