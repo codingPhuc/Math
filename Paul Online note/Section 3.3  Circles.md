@@ -137,9 +137,11 @@ $$
     } 
     \draw (1,-4) circle [radius  = 4cm ]  ;   
     \draw[-,dotted ] (1,-4)  -- (5,-4)  node[right] {};  
-     \draw[-,dotted ] (1,-4)  -- (1,0)  node[right] {}; 
-    \fill (1,-4)  circle (2pt) node[above left] {$(1,-4)$};
-	
+    \draw[-,dotted ] (1,-4)  -- (1,0)  node[right] {}; 
+    \fill (5,-4)  circle (2pt) node[above left] {$(5,-4)$};
+	\fill (1,0)  circle (2pt) node[above left] {$(1,0)$}; 
+	\fill (1,-4) circle (2pt) node[above left] {$(1,-4)$};
+
 	
 
     % Draw the parabola
