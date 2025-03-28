@@ -254,3 +254,5 @@ g(x^2 -  5) = \sqrt{ x^2 -  5 +  6  }  \\
 g(x^2 -  5) = \sqrt{ x^2 + 1   }    \\
 \end{array}
 $$
+
+while  we are  on the topic of function  evaluation we should now talk about **piecewise function** 
