@@ -125,3 +125,8 @@ additionally  , there should not be two solution for y since that mean that ther
 
 We now need to move on to something call the **function  notation** .  Function notation will be use though out most of the equation in this chapter 
 let start of  with the following quadratic equation : 
+$$
+ y   = x^2   - 5x  + 3  
+$$
+
+we can used the process 
