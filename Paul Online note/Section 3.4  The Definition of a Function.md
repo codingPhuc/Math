@@ -286,7 +286,8 @@ $$
 \left.g\left(t\right)=\left\{\begin{array}{ll}3t^2+4&\mathrm{if~}t\leq-4\\10&\mathrm{if~}-4<t\leq15\\1-6t&\mathrm{if~}t>15\end{array}\right.\right.
 $$
 1. g(−6)
+since the input argument  satisfy the bottom part , then 
 2. g(−4)
-3. g(1)g(1)
-4. g(15)g(15)
+3. g(1)
+4. g(15)
 5. g(21)
