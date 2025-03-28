@@ -43,4 +43,4 @@ Here is the list of second and first components  :
 $$
 \text{1st component } : \{6,0,-7\} \; \text{2nd component } : \{10 ,  3 , 4 ,-4 \} 
 $$
-from the first component let's choose 6.  Now , when  plugging  6 into the relation we will see that 6  have 2 orders pairs (6,10) (6.-4) . The list of second component  as
+from the first component let's choose 6.  Now , when  plugging  6 into the relation we will see that 6  have 2 orders pairs (6,10) (6.-4) . The list of second component  associated with 6 is then : 10 , -4  resulting in this being an invalid function since there is 2 c
