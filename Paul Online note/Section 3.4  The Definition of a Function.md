@@ -9,4 +9,4 @@ $$
 (−2,5)(−1,0)(0,−3)(1,−4)(2,−3)(3,0)(4,5) 
 $$ here are the relation  that will form from the set of order pairs 
 
-There are
+There are of course many  relation  we could form from the list of order pairs . 
