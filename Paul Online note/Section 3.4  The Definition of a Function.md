@@ -61,9 +61,12 @@ Before we move on , let examine the parse "that can be plugged into"  . This is 
 
 for  the example going forward , we will not deal  with complex number and always going to assume that x and y are real number 
 ## Determine which of the following are functions and which are not functions 
+
+plug in $x  = 3$
 $$
 \begin{array}{l}
-y = 5x + 1   
+y = 5x + 1  \\
+ y  = 16    
 \end{array}
 $$
-this is a function since you can  plug in a value
+this is a function since you can  plug in a value of x to  get an y 
