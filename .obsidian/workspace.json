@@ -151,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#definition",
+                "query": "tag:#definition  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -274,7 +275,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4002f4f480cac98",
+  "active": "2355cabcc82546b0",
   "lastOpenFiles": [
     "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 3.4  The Definition of a Function.md",

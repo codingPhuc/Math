@@ -1,6 +1,6 @@
 
 
-# Definition  of Relation 
+# #Definition  of Relation 
 A **relation**  is  a set of order pairs 
 
 This seem  like an odd definition ,  but we  need it for the definition  of a function( which is the main  topic of this section) .However, before the definition of a function  let see what a relationship actually is  
@@ -48,4 +48,4 @@ from the first component let's choose 6.  Now , when  plugging  6 into the relat
 even thought there are values like -7 and 0  that have a single pairs does not matter. The function will be invalid if there is  even 1 first component with more then 2 second component associated with it 
 
 ##  another definition of a function  
-Now let give a working definition of a function to what we are working with. However with the four relations we gave prior to the definition of a function and 
+Now let give a working definition of a function to what we are working with. However with the four relations we gave prior to the definition of a function and the relation we used in example 1 we often get the relation from some equation 
