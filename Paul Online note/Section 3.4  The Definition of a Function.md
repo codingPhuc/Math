@@ -233,7 +233,17 @@ $$
 
 $$
 \begin{array}{l}
-g(x )  =  \sqrt{ -10  +  6  }   \\
-g(t +  1)  =  \sqrt{  -4 } \\
+g(x )  =  \sqrt{ x +  6  }   \\
+g(t +  1)  =  \sqrt{ t   + 7 } \\
+\end{array}
+$$
+
+f)  $f(x^3)$ 
+$$
+\begin{array}{l}
+f(x)  = x^2  - 2x +  8   \\
+f(x^3) = (t +  1)^2  - 2  \cdot (t +  1) +  8  \\
+f(t +  1) = t^2 + 2t + 1  -  2t   - 2   + 8   \\
+f(t +  1) = t^2 + 7   \\
 \end{array}
 $$
