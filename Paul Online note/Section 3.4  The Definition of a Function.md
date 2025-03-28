@@ -65,7 +65,7 @@ for  the example going forward , we will not deal  with complex number and alway
 plug in $x  = 3$
 $$
 \begin{array}{l}
-y = 5x + 1  \\
+y = 5x + 1   \\
  y  = 16    
 \end{array}
 $$
