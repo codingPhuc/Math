@@ -220,4 +220,10 @@ f(x )  = x^2  - 2x +  8   \\
 f(t) = (t)^2  - 2 \cdot t   +  8   \\
 \end{array}
 $$
-e ) f(t +  1 ) and  f(x + 1 )
+e )  $f(t +  1 ) and  f(x + 1 )$
+$$
+\begin{array}{l}
+f(x )  = x^2  - 2x +  8   \\
+f(t) = (t)^2  - 2 \cdot t   +  8   \\
+\end{array}
+$$
