@@ -142,3 +142,6 @@ thing of $f(x)$ as  nothing more than a fancier way of writing  y
 
 ##  Evaluating function 
 evaluating is really simple . Let take a function we look at above  
+$$
+f(x) =  x^2  -5x + 3 
+$$
