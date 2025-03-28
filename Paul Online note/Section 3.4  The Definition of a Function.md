@@ -136,3 +136,5 @@ $$
 $$
 the notion of $f(x)$ is not  important since we can easily denote it as $g(x) \text{ or } h(x)$
 the letter for the function name does not matter since the only thing we need is the $(x)$ part  , the letter in the parenthesis must match the variable used on the right side of the equation 
+thing of $f(x)$ as  nothing more than a fancier way of writing  y  
+- keep in mind that 
