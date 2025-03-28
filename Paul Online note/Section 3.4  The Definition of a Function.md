@@ -129,4 +129,8 @@ $$
  y   = x^2   - 5x  + 3  
 $$
 
-we can used the process 
+we can used the process similar to what we used in the pervious example to convince our self that this is a function . Since this is a function we denote it as the following 
+
+$$
+ f(x) =  x^2  - 5x  +  3 
+$$
