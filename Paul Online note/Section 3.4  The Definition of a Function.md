@@ -290,7 +290,9 @@ since the input argument  satisfy the top  part
 so 
 $$
 \begin{array}{l}
-3
+g(t) =   3t^2 + 4 \\
+g(-6)  = 3\cdot (-6)^2  + 4   \\
+ g(-6)  = 112 
 \end{array}
 $$
 2. g(−4)
