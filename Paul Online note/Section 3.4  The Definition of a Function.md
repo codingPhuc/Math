@@ -39,3 +39,7 @@ Example 2  The following relation is  not a function
 $$
 \{(6,10)(−7,3)(0,4)(6,−4)\}
 $$
+Here is the list of second and first components  : 
+$$
+\text{1st component } : \{-1,0 , 2 ,3, 4\} \; \text{2nd component } : \{0,−3,0,5\} 
+$$
