@@ -282,3 +282,11 @@ $$
 This is a piece wise function . Think of a piece wise function as nothing more than  function that we broken into different pieces , the piece that  function return will be base on the value of x. If x is negative then we will used the  bottom piece and vice versa for positive 
 
 
+$$
+\left.g\left(t\right)=\left\{\begin{array}{ll}3t^2+4&\mathrm{if~}t\leq-4\\10&\mathrm{if~}-4<t\leq15\\1-6t&\mathrm{if~}t>15\end{array}\right.\right.
+$$
+1. g(−6)
+2. g(−4)
+3. g(1)g(1)
+4. g(15)g(15)
+5. g(21)
