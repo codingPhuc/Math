@@ -45,4 +45,4 @@ $$
 $$
 from the first component let's choose 6.  Now , when  plugging  6 into the relation we will see that 6  have 2 orders pairs (6,10) (6.-4) . The list of second component  associated with 6 is then : 10 , -4  resulting in this being an invalid function since there is 2 second components associated with 6 
 
-even thought there are values like -7 and 0  that have a single pai
+even thought there are values like -7 and 0  that have a single pairs does not matter. The function will be invalid if there is  even 1 first component wit
