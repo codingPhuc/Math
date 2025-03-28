@@ -145,4 +145,4 @@ evaluating is really simple . Let take a function we look at above
 $$
 f(x) =  x^2  -5x + 3 
 $$
-and ask what its value  is for x = 4 . In term of function  notation we will "ask" this using the notation f(4) . So when there is sometime other than the variable inside the parenthesis we are asking what the value of the function is for t
+and ask what its value  is for x = 4 . In term of function  notation we will "ask" this using the notation f(4) . So when there is sometime other than the variable inside the parenthesis we are asking what the return value of the function is for that particular quality 
