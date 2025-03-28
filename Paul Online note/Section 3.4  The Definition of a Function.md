@@ -43,4 +43,4 @@ Here is the list of second and first components  :
 $$
 \text{1st component } : \{6,0,-7\} \; \text{2nd component } : \{10 ,  3 , 4 ,-4 \} 
 $$
-from the first compo
+from the first component let's choose 6. 
