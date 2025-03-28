@@ -65,8 +65,9 @@ for  the example going forward , we will not deal  with complex number and alway
 plug in $x  = 3$
 $$
 \begin{array}{l}
-y = 5x + 1   \\
- y  = 16    
+x   = -4  , y = 5x + 1  \implies y = 5 \cdot -4  + 1   =  -19  \\
+x   = 0 , y = 5x + 1  \implies y = 5 \cdot -4  + 1   =  -19 \\
+ 
 \end{array}
 $$
 this is a function since you can  plug in a value of x to  get an y 
