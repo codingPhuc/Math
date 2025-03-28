@@ -87,3 +87,4 @@ x   = 2   , y = x^2  + 1   \implies y =  2^2   + 1   =  5 \\
 $$
 bases on this we can still see that the values of x
 
+
