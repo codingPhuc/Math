@@ -98,4 +98,4 @@ x   = 0   ,  y^2   =  x+ 1  \implies y   = \sqrt{ x+ 1 }     \implies  y = \sqrt
 x   = 2   ,  y^2   =  x+ 1  \implies  y  =  \sqrt{ x+ 1 }    \implies  y = \sqrt{ 2 + 1 } = \sqrt{ 3 } \\
  
 \end{array}
-$$ we conl
+$$ we concluded bases on this equation that 
