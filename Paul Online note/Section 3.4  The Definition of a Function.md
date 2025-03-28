@@ -255,4 +255,10 @@ g(x^2 -  5) = \sqrt{ x^2 + 1   }    \\
 \end{array}
 $$
 
-while  we are  on the topic of function  evaluation we should now talk about **piecewise function** 
+while  we are  on the topic of function  evaluation we should now talk about **piecewise function** . Recall the mathematical definition of absolute value 
+
+$$ 
+\mid x \mid = \left\{
+sdfd
+\right.
+$$
