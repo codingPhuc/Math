@@ -79,9 +79,9 @@ this is a function since you can  plug in  values of x to  get a value of  y
 
 $$
 \begin{array}{l}
-x   = -4  , y = x^2  + 1   \implies y = 5 \cdot -4  + 1   =  -19  \\
-x   = 0   , y = x^2  + 1   \implies y = 5 \cdot -4  + 1   =  -19   \\
-x   = 1   , y = x^2  + 1   \implies y = 5 \cdot -4  + 1   =  -19  \\
+x   = -2  , y = x^2  + 1   \implies y = 5 \cdot (-2)^2  +  1    =    \\
+x   = 0   , y = x^2  + 1   \implies y = 5 \cdot  0^2  +1    =  -19   \\
+x   = 2   , y = x^2  + 1   \implies y = 5 \cdot -4  + 1   =  -19  \\
  
 \end{array}
 $$
