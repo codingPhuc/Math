@@ -134,4 +134,5 @@ we can used the process similar to what we used in the pervious example to convi
 $$
  f(x) =  x^2  - 5x  +  3 
 $$
-the notion of $f(x)$ is not  important since we can easily denote it as $g(x)$
+the notion of $f(x)$ is not  important since we can easily denote it as $g(x) \text{ or } h(x)$
+the letter for the function name does not matter since the only thing we need is the 
