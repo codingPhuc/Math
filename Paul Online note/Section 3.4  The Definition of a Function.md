@@ -274,9 +274,10 @@ f(x)=
 \left\{
 \begin{array}{l}
 x  \text{ if } x\geq 0   \\
-x  \text{ if } x \leq 0  
+x  \text{ if } -x \leq 0  
 \end{array}
 \right.
 $$
 
-This is a piece wise function . Think of a piece wise function as nothing more than  function that we broken into different pieces , the piece that  function return will be base on the value of 
+This is a piece wise function . Think of a piece wise function as nothing more than  function that we broken into different pieces , the piece that  function return will be base on the value of x. If x is negative then we will used the  bottom piece and vice versa for positive 
+
