@@ -61,3 +61,8 @@ Before we move on , let examine the parse "that can be plugged into"  . This is 
 
 for  the example going forward , we will not deal  with complex number and always going to assume that x and y are real number 
 ## Determine which of the following are functions and which are not functions 
+$$
+\begin{array}{l}
+y = 5x + 1   \\
+\end{array}
+$$
