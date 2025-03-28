@@ -161,4 +161,13 @@ f(x )  = x^2  - 2x +  8 \cap g(x)  = \sqrt{ x +  6  }
 $$
 evaluate  each of the following : 
 a) $f(3)$ and  $g(3 )$ 
-b) 
+$$
+\begin{array}{l}
+f(x )  = x^2  - 2x +  8   \\
+
+ 
+\end{array}
+$$
+
+
+b)  $f(-10)$ and  $g(-10 )$    
