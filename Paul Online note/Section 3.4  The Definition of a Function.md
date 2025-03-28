@@ -48,4 +48,4 @@ from the first component let's choose 6.  Now , when  plugging  6 into the relat
 even thought there are values like -7 and 0  that have a single pairs does not matter. The function will be invalid if there is  even 1 first component with more then 2 second component associated with it 
 
 ##  another definition of a function  
-Now let give a working definit
+Now let give a working definition of a function to what we are working with 
