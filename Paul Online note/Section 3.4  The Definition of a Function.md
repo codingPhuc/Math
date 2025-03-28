@@ -150,4 +150,7 @@ and ask what its value  is for x = 4 . In term of function  notation we will "as
 $$
 f(x) =  x^2  -5x + 3  \implies  f(4) =  4^2  -5\cdot 4 + 3 = -1   
 $$
-notice that the evaluate a function is done the same way in which we evaluate equations . all we need to do is plug in x 
+notice that the evaluate a function is done the same way in which we evaluate equations .  The additional step we need to do is plug in value for the x inside the parentheses 
+$$
+f(x) =  x^2  -5x + 3  \implies  f(-6) =  -6^2  -5\cdot 4 + 3 = -1   
+$$
