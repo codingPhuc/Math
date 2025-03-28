@@ -258,7 +258,13 @@ $$
 while  we are  on the topic of function  evaluation we should now talk about **piecewise function** . Recall the mathematical definition of absolute value 
 
 $$ 
-\mid x \mid = \left\{
-sdfd
+\mid x \mid = 
+
+\left\{
+\begin{array}{l}
+x  \text{ if } x\geq 0   \\
+x  \text{ if } x \leq 0  
+\end{array}
 \right.
 $$
+this is  a
