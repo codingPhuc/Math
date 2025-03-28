@@ -186,7 +186,17 @@ $$
 \begin{array}{l}
 f(x )  = x^2  - 2x +  8   \\
 f(3)  = (-10)^2  - 2 \cdot -10   +  8   \\
- f(3)  =   11 \\
+ f(3)  =   128 \\
+\end{array}
+$$
+
+
+
+$$
+\begin{array}{l}
+g(x )  =  \sqrt{ -10  +  6  }   \\
+g(3)  =  \sqrt{  +  6  } \\
+ g(3)  =  3 \\
 \end{array}
 $$
 
