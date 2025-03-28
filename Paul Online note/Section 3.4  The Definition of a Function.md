@@ -154,3 +154,5 @@ notice that the evaluate a function is done the same way in which we evaluate eq
 $$
 f(x) =  x^2  -5x + 3  \implies  f(-6) =  (-6)^2  -5\cdot -6  + 3 =  69 
 $$
+
+
