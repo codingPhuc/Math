@@ -322,7 +322,16 @@ $$
 \begin{array}{l}
 g(t) =   3t^2 + 4 \\
 g(15)  = 3\cdot (15)^2  + 4   \\
- g(15)  = 7 
+ g(15)  = 679
 \end{array}
 $$
-5. g(21)
+5. g(21) 
+since the input argument  satisfy the bottom   part    
+so 
+$$
+\begin{array}{l}
+g(t) =   3t^2 + 4 \\
+g(15)  = 3\cdot (15)^2  + 4   \\
+ g(15)  = 679
+\end{array}
+$$
