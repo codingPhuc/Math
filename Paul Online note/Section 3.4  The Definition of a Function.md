@@ -52,4 +52,7 @@ Now let give a working definition of a function to what we are working with. How
 
 it is important to  note that not all relations come form equations .  The relations from the second equation for example was just an order pairs that we wrote down ,  didn't come from any equation . This can also be true for relation that are functions   
 
-However the function that we are using will all come from equation  , they are call the "working" definition of a function . Remember the term working meaning this is a sp
+However the function that we are using will all come from equation  , they are call the "working" definition of a function . Remember the term working meaning this is a specific type of function we are working with not the general definition like above
+
+## "working definition" of a function 
+A **funcito**
