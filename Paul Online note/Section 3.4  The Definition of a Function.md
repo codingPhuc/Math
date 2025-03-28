@@ -155,8 +155,10 @@ $$
 f(x) =  x^2  -5x + 3  \implies  f(-6) =  (-6)^2  -5\cdot -6  + 3 =  69 
 $$
 
+given 
 $$
 f(x )  = x^2  - 2x +  8 \cap g(x)  = \sqrt{ x +  6  }
 $$
-$
-$$
+evaluate  each of the following : 
+a) $f(3)$ and  $g(3 )$ 
+b) 
