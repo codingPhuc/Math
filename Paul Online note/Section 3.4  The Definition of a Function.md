@@ -71,5 +71,6 @@ x   = 1 , y = 5x + 1  \implies y = 5 \cdot 1  + 1   = 6 \\
  
 \end{array}
 $$
-
+bases on the equation  , and number we plug in . We concluded that this is an equation since : 
+1. when we plug in one value the value will be multiply by 5 and ad
 this is a function since you can  plug in a value of x to  get an y 
