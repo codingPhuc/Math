@@ -88,4 +88,14 @@ $$
 bases on the equation  , and number we plug in . We concluded that this is an equation since : 
 1. when we plug in one  x value will be raise to the  power of 2  and added by 1 
 2. since the output of the equation will always be 1 value is satisfy the constrains of  a function that a plug in values x can yield a values y  
-this is a function since you can  plug in  values of x to  get a value of  y , 
+this is a function since you can  plug in  values of x to  get a value of  y ,  
+
+
+$$
+\begin{array}{l}
+x   = -2  , y^2   =  x+ 1   \implies y =  (-2)^2  +  1    =  5  \\
+x   = 0   , y = x^2  + 1   \implies y =  0^2  +1    =   1   \\
+x   = 2   , y = x^2  + 1   \implies y =  2^2   + 1   =  5 \\
+ 
+\end{array}
+$$
