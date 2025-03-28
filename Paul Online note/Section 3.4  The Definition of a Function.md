@@ -41,5 +41,6 @@ $$
 $$
 Here is the list of second and first components  : 
 $$
-\text{1st component } : \{-1,0 , 2 ,3, 4\} \; \text{2nd component } : \{0,−3,0,5\} 
+\text{1st component } : \{6,0,-7\} \; \text{2nd component } : \{10 ,  3 , 4 ,-4 \} 
 $$
+from the first compo
