@@ -122,3 +122,5 @@ x   = 2  , x^2 +   y^2   = 4  \\
 $$ we concluded bases on this equation that  this is not a function since when plug in the value   9, it create a square root properties and there are no complex number  that are outputted from a function 
 additionally  , there should not be two solution for y since that mean that there is a  value of x that can produce values of y contradicting the constraints of what make a function 
 
+
+We now need to move on to something call the function  notation .  Function notation will be used  heavily  thoughtout most of the
