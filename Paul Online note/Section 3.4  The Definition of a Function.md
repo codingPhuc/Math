@@ -62,7 +62,6 @@ Before we move on , let examine the parse "that can be plugged into"  . This is 
 for  the example going forward , we will not deal  with complex number and always going to assume that x and y are real number 
 ## Determine which of the following are functions and which are not functions 
 
-plug in $x  = 3$
 $$
 \begin{array}{l}
 x   = -4  , y = 5x + 1  \implies y = 5 \cdot -4  + 1   =  -19  \\
@@ -75,3 +74,16 @@ bases on the equation  , and number we plug in . We concluded that this is an eq
 1. when we plug in one value the value will be multiply by 5 and add by 1 
 2. since the output of the equation will always be 1 value is satisfy the constrains of  a function that a plug in values x can yield a values y  
 this is a function since you can  plug in a value of x to  get an y 
+
+
+
+$$
+\begin{array}{l}
+x   = -4  , y = 5x + 1  \implies y = 5 \cdot -4  + 1   =  -19  \\
+x   = 0 , y = 5x + 1  \implies y = 5 \cdot 0  + 1   = 1   \\
+x   = 1 , y = 5x + 1  \implies y = 5 \cdot 1  + 1   = 6 \\
+ 
+\end{array}
+$$
+
+
