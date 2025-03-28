@@ -52,4 +52,6 @@ Now let give a working definition of a function to what we are working with. How
 
 it is important to  note that not all relations come form equations .  The relations from the second equation for example was just an order pairs that we wrote down ,  didn't come from any equation . This can also be true for relation that are functions   
 
-However the function that we are using from 
+However the function that we are using will all come from equation  
+
+the 
