@@ -296,6 +296,24 @@ g(-6)  = 3\cdot (-6)^2  + 4   \\
 \end{array}
 $$
 2. g(−4)
+since the input argument  satisfy the top  part    
+so 
+$$
+\begin{array}{l}
+g(t) =   3t^2 + 4 \\
+g(−4)  = 3\cdot (−4)^2  + 4   \\
+ g(-6)  = 52 
+\end{array}
+$$
 3. g(1)
+since the input argument  satisfy the top  part    
+so 
+$$
+\begin{array}{l}
+g(t) =   3t^2 + 4 \\
+g(−4)  = 3\cdot (−4)^2  + 4   \\
+ g(-6)  = 52 
+\end{array}
+$$
 4. g(15)
 5. g(21)
