@@ -95,7 +95,8 @@ $$
 \begin{array}{l}
 x   = -2  , y^2   =  x+ 1  \implies  y = \sqrt{ x+ 1 }   \implies y = \sqrt{ -2 + 1 } = \sqrt{ -1  }  \\
 x   = 0   ,  y^2   =  x+ 1  \implies y   = \sqrt{ x+ 1 }     \implies  y = \sqrt{ 0+ 1 }   \\
-x   = 2   ,  y^2   =  x+ 1  \implies  y  =  \sqrt{ x+ 1 }    \implies  y = \sqrt{ 2 + 1 } = \sqrt{ 3 } \\
+x   = 2   ,  y^2   =  x+ 1  \implies  y  =  \sqrt{ x+ 1 }    \implies  y = \sqrt{ 2 + 1 } = \pm  \sqrt{ 3 } \\
  
 \end{array}
-$$ we concluded bases on this equation that  this is not a function since when plug in the value   -2 , it create a square root properties and there are no complex number in the equation 
+$$ we concluded bases on this equation that  this is not a function since when plug in the value   -2 , it create a square root properties and there are no complex number  that are outputted from a function 
+additionally  , there should not be two solution for y since that mean that there is a 
