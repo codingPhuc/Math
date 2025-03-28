@@ -29,5 +29,5 @@ $$
 notice how the second component have only 1 -3 in  two ordered pairs but we only listed one 
 To  see why this is  a relation ,  select a  value from the first component , then plug the value in the order pairs  and list out all  it second components  . The list of  second  component will consist  of  exactly one value 
 
-
+For example , let look at 2  in the first component . Find a pairs  in the relation that have 2 as the first com
 
