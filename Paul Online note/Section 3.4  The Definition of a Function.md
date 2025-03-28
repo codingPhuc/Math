@@ -172,12 +172,21 @@ $$
 
 $$
 \begin{array}{l}
-g(x )  = x^2  - 2x +  8   \\
-g(3)  = 3^2  - 2 \cdot 3  +  8   \\
- g(3)  =   11 \\
+g(x )  =  \sqrt{ x +  6  }   \\
+g(3)  =  \sqrt{ 3 +  6  } \\
+ g(3)  =  3 \\
 \end{array}
 $$
 
 
 
 b)  $f(-10)$ and  $g(-10 )$    
+
+$$
+\begin{array}{l}
+f(x )  = x^2  - 2x +  8   \\
+f(3)  = (-10)^2  - 2 \cdot -10   +  8   \\
+ f(3)  =   11 \\
+\end{array}
+$$
+
