@@ -246,11 +246,11 @@ f(x^3) =  (x^3)^2  - 2\cdot x^3 +  8   \\
 f(x^3) =  x^6 - 2x^3 +  8    \\
 \end{array}
 $$
-
-
+f)  $g(x^2 -  5)$ 
 $$
 \begin{array}{l}
 g(x )  =  \sqrt{ x +  6  }   \\
-g(t +  1)  =  \sqrt{ t   + 7 } \\
+g(x^2 -  5) = \sqrt{ x +  6  }  \\
+f(x^3) =  x^6 - 2x^3 +  8    \\
 \end{array}
 $$
