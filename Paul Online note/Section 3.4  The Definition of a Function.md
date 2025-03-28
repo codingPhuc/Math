@@ -93,9 +93,9 @@ this is a function since you can  plug in  values of x to  get a value of  y ,
 
 $$
 \begin{array}{l}
-x   = -2  , y^2   =  x+ 1   \implies y =  (-2)^2  +  1    =  5  \\
-x   = 0   , y = x^2  + 1   \implies y =  0^2  +1    =   1   \\
-x   = 2   , y = x^2  + 1   \implies y =  2^2   + 1   =  5 \\
+x   = -2  , y^2   =  x+ 1  \implies  y = \sqrt{ x+ 1 }   \implies y =  (-2)^2  +  1    =  5  \\
+x   = 0   ,  y^2   =  x+ 1  \implies y   = \sqrt{ x+ 1 }     \implies y =  0^2  +1    =   1   \\
+x   = 2   ,  y^2   =  x+ 1  \implies  y  =  \sqrt{ x+ 1 }    \implies y =  2^2   + 1   =  5 \\
  
 \end{array}
 $$
