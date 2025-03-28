@@ -31,5 +31,5 @@ To  see why this is  a relation ,  select a  value from the first component , th
 
 For example , let look at 2  in the first component . Find a pairs  in the relation that have 2 as the first component , then plug 2 in  . You will see that we will get -3  in the second components 
 
-Note that 3
+Note that -3 occur 2 time in the relation, that is perfectly fine  since 3 is a values in the second component . We only want 
 
