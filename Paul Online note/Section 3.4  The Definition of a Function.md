@@ -195,8 +195,10 @@ $$
 $$
 \begin{array}{l}
 g(x )  =  \sqrt{ -10  +  6  }   \\
-g(3)  =  \sqrt{  -3 } \\
- g(3)  =  \pm  3 \\
+g(3)  =  \sqrt{  -4 } \\
 \end{array}
-$$ 
+$$
+since  we only get real number with this we cannot  plug in 10  into the equation 
+
+
 
