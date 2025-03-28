@@ -123,4 +123,5 @@ $$ we concluded bases on this equation that  this is not a function since when p
 additionally  , there should not be two solution for y since that mean that there is a  value of x that can produce values of y contradicting the constraints of what make a function 
 
 
-We now need to move on to something call the function  notation .  Function notation will be use though out most of th 
+We now need to move on to something call the **function  notation** .  Function notation will be use though out most of the equation in this chapter 
+let start of  with the following quadratic equation : 
