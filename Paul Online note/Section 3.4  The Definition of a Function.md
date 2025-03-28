@@ -63,6 +63,7 @@ for  the example going forward , we will not deal  with complex number and alway
 ## Determine which of the following are functions and which are not functions 
 $$
 \begin{array}{l}
-y = 5x + 1   \\
+y = 5x + 1   
 \end{array}
 $$
+this is a function since you can  plug in a value
