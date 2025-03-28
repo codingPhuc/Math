@@ -224,6 +224,15 @@ e )  $f(t +  1 ) and  f(x + 1 )$
 $$
 \begin{array}{l}
 f(x )  = x^2  - 2x +  8   \\
-f(t) = (t)^2  - 2 \cdot t   +  8   \\
+f(t +  1) = (t +  1)^2  - 2  \cdot (t +  1) +  8  \\
+f(t +  1) = t^2 + 2t + 1  -  2t   - 2   +   \\
+\end{array}
+$$
+
+
+$$
+\begin{array}{l}
+g(x )  =  \sqrt{ -10  +  6  }   \\
+g(3)  =  \sqrt{  -4 } \\
 \end{array}
 $$
