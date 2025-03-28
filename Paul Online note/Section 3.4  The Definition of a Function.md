@@ -108,7 +108,7 @@ $$
 x   = -2  , x^2 +   y^2   = 4  \\
   y^2   = 4  -   x^2  \\
  y =  \sqrt{ 4  -   (x)^2  }   \\
-\implies  y =  \sqrt{ 4  -   (-2)^2  }   = 0  \\
+\implies  y =  \sqrt{ 4  -   (3)^2  }   =\sqrt{ -5 }   \\
 x   = 0 , x^2 +   y^2   = 4  \\
   y^2   = 4  -   x^2  \\
  y =  \sqrt{ 4  -   x^2  }   \\
@@ -119,6 +119,6 @@ x   = 2  , x^2 +   y^2   = 4  \\
 \implies y =  \sqrt{ 4  -   (2)^2  }      = 0 \\
  
 \end{array}
-$$ we concluded bases on this equation that  this is not a function since when plug in the value   -2 , it create a square root properties and there are no complex number  that are outputted from a function 
+$$ we concluded bases on this equation that  this is not a function since when plug in the value   9, it create a square root properties and there are no complex number  that are outputted from a function 
 additionally  , there should not be two solution for y since that mean that there is a  value of x that can produce values of y contradicting the constraints of what make a function 
 
