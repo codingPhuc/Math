@@ -66,8 +66,10 @@ plug in $x  = 3$
 $$
 \begin{array}{l}
 x   = -4  , y = 5x + 1  \implies y = 5 \cdot -4  + 1   =  -19  \\
-x   = 0 , y = 5x + 1  \implies y = 5 \cdot -4  + 1   =  -19 \\
+x   = 0 , y = 5x + 1  \implies y = 5 \cdot 0  + 1   = 1   \\
+x   = 1 , y = 5x + 1  \implies y = 5 \cdot 1  + 1   = 6 \\
  
 \end{array}
 $$
+
 this is a function since you can  plug in a value of x to  get an y 
