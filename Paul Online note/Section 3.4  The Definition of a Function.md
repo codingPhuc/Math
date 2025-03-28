@@ -164,7 +164,8 @@ a) $f(3)$ and  $g(3 )$
 $$
 \begin{array}{l}
 f(x )  = x^2  - 2x +  8   \\
-
+f(3)  = 3^2  - 2 \cdot 3  +  8  \\
+ 
  
 \end{array}
 $$
