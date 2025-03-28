@@ -99,4 +99,5 @@ x   = 2   ,  y^2   =  x+ 1  \implies  y  =  \sqrt{ x+ 1 }    \implies  y = \sqrt
  
 \end{array}
 $$ we concluded bases on this equation that  this is not a function since when plug in the value   -2 , it create a square root properties and there are no complex number  that are outputted from a function 
-additionally  , there should not be two solution for y since that mean that there is a 
+additionally  , there should not be two solution for y since that mean that there is a  value of x that can produce values of y contradicting the constraints of what make a function 
+
