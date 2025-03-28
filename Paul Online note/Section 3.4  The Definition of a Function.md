@@ -19,3 +19,7 @@ Why do  we need to used  relation ?  Because some relation  are special and are 
 
 ## Definition of a function 
 A **function**  is a value , in which each value  from the  first  set of the order pairs is  associated with   exactly one value from the set of second components of the ordered pairs 
+example 1  the  following relation is  function 
+$$
+\{(−1,0)(0,−3)(2,−3)(3,0)(4,5)}
+$$
