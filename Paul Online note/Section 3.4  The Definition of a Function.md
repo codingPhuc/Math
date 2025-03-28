@@ -26,4 +26,5 @@ $$ from the list of  order pairs above we have the following set of first compon
 $$
 \text{1st component } : \{-1,0 , 2 ,3, 4\} \; \text{2nd component } : \{0,−3,0,5\} 
 $$
+notice how the second component have only 1 -3 in  two ordered pairs but we only listed one 
 
