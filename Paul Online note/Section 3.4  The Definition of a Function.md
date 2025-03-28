@@ -27,4 +27,5 @@ $$
 \text{1st component } : \{-1,0 , 2 ,3, 4\} \; \text{2nd component } : \{0,−3,0,5\} 
 $$
 notice how the second component have only 1 -3 in  two ordered pairs but we only listed one 
-To  see why this is  a relation ,  select a  value from the first component , then plug the val 
+To  see why this is  a relation ,  select a  value from the first component , then plug the value in the relation . You will see that there will be one relation for that value , that will return a single value 
+
