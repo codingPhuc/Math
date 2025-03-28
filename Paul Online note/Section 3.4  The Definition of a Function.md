@@ -50,4 +50,4 @@ even thought there are values like -7 and 0  that have a single pairs does not m
 ##  another definition of a function  
 Now let give a working definition of a function to what we are working with. However with the four relations we gave prior to the definition of a function and the relation we used in example 1 we often get the relation from some equation 
 
-it is important to  note that not all relations come form equaitons 
+it is important to  note that not all relations come form equations .  The relations from the second equation for example was just an order pairs that we wrote down . t 
