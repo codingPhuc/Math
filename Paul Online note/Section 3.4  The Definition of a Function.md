@@ -8,3 +8,5 @@ think  back to [[Section 3.1 Graphing#Practice_Exercise]] . In the  example we c
 $$
 (−2,5)(−1,0)(0,−3)(1,−4)(2,−3)(3,0)(4,5) 
 $$ here are the relation  that will form from the set of order pairs 
+
+There are
