@@ -14,4 +14,4 @@ There are of course many  relation  we could form from the list of order pairs  
 Why do  we need to used  relation ?  Because some relation  are special and are used in all level of math 
 
 ## Definition of a function 
-A **function**  is a value , in which each value  from the  first  set of the order pairs is  associated with   exactly one value from the set of second components of the ordered pai
+A **function**  is a value , in which each value  from the  first  set of the order pairs is  associated with   exactly one value from the set of second components of the ordered pairs 
