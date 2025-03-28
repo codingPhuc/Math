@@ -267,4 +267,15 @@ x  \text{ if } x \leq 0
 \end{array}
 \right.
 $$
-this is  a
+this is  a function ,  if we replace the $\mid x \mid$ $f(x)$ we will get 
+$$ 
+f(x)= 
+
+\left\{
+\begin{array}{l}
+x  \text{ if } x\geq 0   \\
+x  \text{ if } x \leq 0  
+\end{array}
+\right.
+$$
+
