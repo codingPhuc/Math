@@ -311,8 +311,8 @@ so
 $$
 \begin{array}{l}
 g(t) =   3t^2 + 4 \\
-g(1)  = 3\cdot (1)^2  + 4   \\
- g(1)  = 7 
+g(1)  = 10
+ 
 \end{array}
 $$
 4. g(15)
@@ -321,8 +321,7 @@ so
 $$
 \begin{array}{l}
 g(t) =   3t^2 + 4 \\
-g(15)  = 3\cdot (15)^2  + 4   \\
- g(15)  = 679
+g(15)  =10 
 \end{array}
 $$
 5. g(21) 
@@ -330,8 +329,8 @@ since the input argument  satisfy the bottom   part
 so 
 $$
 \begin{array}{l}
-g(t) =   3t^2 + 4 \\
-g(15)  = 3\cdot (15)^2  + 4   \\
- g(15)  = 679
+g(t) =  1- 6t \\
+g(15)  = 1- 6 \cdot  15 \\
+ g(15)  = -89
 \end{array}
 $$
