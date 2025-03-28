@@ -57,4 +57,4 @@ However the function that we are using will all come from equation  , they are c
 ## "working definition" of a function 
 A **function** , in which  values of x that can be plugged in to get a single value of y  out of the equation 
 
-Before we move on , let examine the parse "that can be plugged into"  . This is  in fact correct since there are values of x that collide  with the constraint of an equation . For example , you cannot divided 
+Before we move on , let examine the parse "that can be plugged into"  . This is  in fact correct since there are values of x that collide  with the constraint of an equation . For example , you cannot divided  by 0 and  you must not square the root of negative number  if you want to get a real number. 
