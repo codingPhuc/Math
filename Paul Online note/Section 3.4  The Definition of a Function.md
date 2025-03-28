@@ -306,14 +306,23 @@ g(−4)  = 3\cdot (−4)^2  + 4   \\
 \end{array}
 $$
 3. g(1)
-since the input argument  satisfy the top  part    
+since the input argument  satisfy the middle  part    
 so 
 $$
 \begin{array}{l}
 g(t) =   3t^2 + 4 \\
-g(−4)  = 3\cdot (−4)^2  + 4   \\
- g(-6)  = 52 
+g(1)  = 3\cdot (1)^2  + 4   \\
+ g(1)  = 7 
 \end{array}
 $$
 4. g(15)
+since the input argument  satisfy the middle  part    
+so 
+$$
+\begin{array}{l}
+g(t) =   3t^2 + 4 \\
+g(15)  = 3\cdot (15)^2  + 4   \\
+ g(15)  = 7 
+\end{array}
+$$
 5. g(21)
