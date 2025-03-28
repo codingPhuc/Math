@@ -33,4 +33,6 @@ For example , let look at 2  in the first component . Find a pairs  in the relat
 
 Note that -3 occur 2 time in the relation, that is perfectly fine  since 3 is a values in the second component . We only need there to be unique  value of the 1 components 
 
-we look  only at one vlaue
+we look  only at one value from the first example . But , it will be the same regardless of other choices 
+
+Example 2  The following rea
