@@ -35,4 +35,4 @@ Note that -3 occur 2 time in the relation, that is perfectly fine  since 3 is a 
 
 we look  only at one value from the first example . But , it will be the same regardless of other choices 
 
-Example 2  The following rea
+Example 2  The following relation is  not a function 
