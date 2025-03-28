@@ -105,9 +105,12 @@ additionally  , there should not be two solution for y since that mean that ther
 
 $$
 \begin{array}{l}
-x   = -2  , x^2 +   y^2   = 4  \implies x^2 +   y^2   = 4    \\
-x   = 0   , x^2 +   y^2   = 4   \implies y   = \sqrt{ x+ 1 }     \\
-x   = 2   ,  x^2 +   y^2   = 4   \implies  y  =  \sqrt{ x+ 1 }   \\
+x   = -2  , x^2 +   y^2   = 4  \\
+  y^2   = 4  -   x^2  \\
+   \\
+\implies (-2 )^2 +   y^2   = 4    \\
+x   = 0   , x^2 +   y^2   = 4   \implies x^2 +   y^2   = 4     \\
+x   = 2   ,  x^2 +   y^2   = 4   \implies  x^2 +   y^2   = 4    \\
  
 \end{array}
 $$ we concluded bases on this equation that  this is not a function since when plug in the value   -2 , it create a square root properties and there are no complex number  that are outputted from a function 
