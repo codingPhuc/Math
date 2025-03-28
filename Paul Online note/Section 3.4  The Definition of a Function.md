@@ -22,4 +22,7 @@ A **function**  is a value , in which each value  from the  first  set of the or
 example 1  the  following relation is  function 
 $$
 \{(−1,0)(0,−3)(2,−3)(3,0)(4,5)\}
-$$ from the list of  order pairs above we have the following set of first component (the first number of the od)
+$$ from the list of  order pairs above we have the following set of first component (the first number of the order pairs) and second component( the second value in the order pairs) 
+$$
+\text{1st component } : {}
+$$
