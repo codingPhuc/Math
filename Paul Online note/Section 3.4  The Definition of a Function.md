@@ -59,4 +59,5 @@ A **function** , in which  values of x that can be plugged in to get a single va
 
 Before we move on , let examine the parse "that can be plugged into"  . This is  in fact correct since there are values of x that collide  with the constraint of an equation . For example , you cannot divided  by 0 and  you must not square the root of negative number  if you want to get a real number. 
 
-for  the example going forward , we will not deal  with real number and always goign
+for  the example going forward , we will not deal  with complex number and always going to assume that x and y are real number 
+## Determine which of the following are functions and which are not functions 
