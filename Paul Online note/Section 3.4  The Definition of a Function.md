@@ -145,4 +145,4 @@ evaluating is really simple . Let take a function we look at above
 $$
 f(x) =  x^2  -5x + 3 
 $$
-and ask what its value  is for x = 4 . In term of function  notation we will "ask" this using the notation f(4) 
+and ask what its value  is for x = 4 . In term of function  notation we will "ask" this using the notation f(4) .
