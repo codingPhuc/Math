@@ -279,3 +279,4 @@ x  \text{ if } x \leq 0
 \right.
 $$
 
+This is a piece wise function . Think of a piece wise function as nothing more than  function that we broken into different pieces , the piece that  function return will be base on the value of 
