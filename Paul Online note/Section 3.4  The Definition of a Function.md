@@ -250,7 +250,7 @@ f)  $g(x^2 -  5)$
 $$
 \begin{array}{l}
 g(x )  =  \sqrt{ x +  6  }   \\
-g(x^2 -  5) = \sqrt{ x +  6  }  \\
-f(x^3) =  x^6 - 2x^3 +  8    \\
+g(x^2 -  5) = \sqrt{ x^2 -  5 +  6  }  \\
+g(x^2 -  5) = \sqrt{ x^2 + 1   }    \\
 \end{array}
 $$
