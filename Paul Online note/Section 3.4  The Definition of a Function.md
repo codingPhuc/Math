@@ -98,4 +98,4 @@ x   = 0   ,  y^2   =  x+ 1  \implies y   = \sqrt{ x+ 1 }     \implies  y = \sqrt
 x   = 2   ,  y^2   =  x+ 1  \implies  y  =  \sqrt{ x+ 1 }    \implies  y = \sqrt{ 2 + 1 } = \sqrt{ 3 } \\
  
 \end{array}
-$$ we concluded bases on this equation that 
+$$ we concluded bases on this equation that  this is not a function since when plug in the value   -2 , it create a square root prot
