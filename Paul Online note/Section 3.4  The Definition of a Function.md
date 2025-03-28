@@ -281,3 +281,4 @@ $$
 
 This is a piece wise function . Think of a piece wise function as nothing more than  function that we broken into different pieces , the piece that  function return will be base on the value of x. If x is negative then we will used the  bottom piece and vice versa for positive 
 
+
