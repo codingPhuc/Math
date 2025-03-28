@@ -202,3 +202,19 @@ since  we only get real number with this we cannot  plug in 10  into the equatio
 
 
 
+c ) $f(0)$  
+
+
+
+$$
+\begin{array}{l}
+f(x )  = x^2  - 2x +  8   \\
+f(0) = (0)^2  - 2 \cdot 0   +  8   \\
+ f(3)  =  8
+\end{array}
+$$
+
+d)  $f(t)$ 
+
+
+
