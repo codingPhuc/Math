@@ -73,5 +73,5 @@ x   = 1 , y = 5x + 1  \implies y = 5 \cdot 1  + 1   = 6 \\
 $$
 bases on the equation  , and number we plug in . We concluded that this is an equation since : 
 1. when we plug in one value the value will be multiply by 5 and add by 1 
-2. since the output of the equation will always be 1 value is satisfy the constrains of  a function that a plug in value can 
+2. since the output of the equation will always be 1 value is satisfy the constrains of  a function that a plug in values x can yield a values y  
 this is a function since you can  plug in a value of x to  get an y 
