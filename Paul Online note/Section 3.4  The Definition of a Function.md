@@ -79,11 +79,11 @@ this is a function since you can  plug in  values of x to  get a value of  y
 
 $$
 \begin{array}{l}
-x   = -2  , y = x^2  + 1   \implies y = 5 \cdot (-2)^2  +  1    =    \\
-x   = 0   , y = x^2  + 1   \implies y = 5 \cdot  0^2  +1    =  -19   \\
-x   = 2   , y = x^2  + 1   \implies y = 5 \cdot -4  + 1   =  -19  \\
+x   = -2  , y = x^2  + 1   \implies y =  (-2)^2  +  1    =  5  \\
+x   = 0   , y = x^2  + 1   \implies y =  0^2  +1    =   1   \\
+x   = 2   , y = x^2  + 1   \implies y =  2^2   + 1   =  5 \\
  
 \end{array}
 $$
-
+bases on this we can still see that the values of x
 
