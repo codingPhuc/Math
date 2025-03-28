@@ -138,4 +138,7 @@ the notion of $f(x)$ is not  important since we can easily denote it as $g(x) \t
 the letter for the function name does not matter since the only thing we need is the $(x)$ part  , the letter in the parenthesis must match the variable used on the right side of the equation 
 thing of $f(x)$ as  nothing more than a fancier way of writing  y  
 - keep in mind that f by x  is not  a multiplication of  f by x , this is one of the error when people deal with function .  
-- Next we need to talk about **evaluating functions** . Evaluating a function is nothing more than asking  what it values  is for a specific value of $x$ . An  example of this , is asking what the y for a valu
+- Next we need to talk about **evaluating functions** . Evaluating a function is nothing more than asking  what it values  is for a specific value of $x$ . An  example of this , is asking what the y for a value of x
+
+##  Evaluating function 
+evaluating is really simple . Let take a function we look at above  
