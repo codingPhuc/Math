@@ -55,4 +55,6 @@ it is important to  note that not all relations come form equations .  The relat
 However the function that we are using will all come from equation  , they are call the "working" definition of a function . Remember the term working meaning this is a specific type of function we are working with not the general definition like above
 
 ## "working definition" of a function 
-A **function** , in which  values of x that can be plug in to get a single value of y  out of the equation 
+A **function** , in which  values of x that can be plugged in to get a single value of y  out of the equation 
+
+Before we move on , let examine the parse "that can be plugged into"  . This is  
