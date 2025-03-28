@@ -9,6 +9,10 @@ $$
 (−2,5)(−1,0)(0,−3)(1,−4)(2,−3)(3,0)(4,5) 
 $$ here are the relation  that will form from the set of order pairs 
 
+$$
+\begin{aligned}&\{(-2,5)\quad(-1,0)\quad(2,-3)\}\\&\{(-1,0)\quad(0,-3)\quad(2,-3)\quad(3,0)\quad(4,5)\}\\&\{(3,0)\quad(4,5)\}\\&\{(-2,5)\quad(-1,0)\quad(0,-3)\quad(1,-4)\quad(2,-3)\quad(3,0)\quad(4,5)\}\end{aligned}
+$$
+
 There are of course many  relation  we could form from the list of order pairs  above , we just want to list a few possible relations to give some example .Note as well that we could get  any order pairs  from the relation and add those into the equation as well 
 
 Why do  we need to used  relation ?  Because some relation  are special and are used in all level of math 
