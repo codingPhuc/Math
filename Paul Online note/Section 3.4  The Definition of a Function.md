@@ -195,8 +195,8 @@ $$
 $$
 \begin{array}{l}
 g(x )  =  \sqrt{ -10  +  6  }   \\
-g(3)  =  \sqrt{  +  6  } \\
- g(3)  =  3 \\
+g(3)  =  \sqrt{  -3 } \\
+ g(3)  =  \pm  3 \\
 \end{array}
-$$
+$$ 
 
