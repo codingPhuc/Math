@@ -689,5 +689,25 @@ f(2)  =6+  9   =15\\
 
 $$
 2.  f(9)
+since the input argument  satisfy the top  part  
+$$
+\begin{array}{l}
+f(x) = x+  9   \\
+f(9)  =6\\
 
-3.  f(12)
+\end{array}
+
+$$
+2.  f(12)
+
+since the input argument  satisfy the top  part  
+$$
+\begin{array}{l}
+f(x) = x+  9   \\
+f(9)  =6\\
+
+\end{array}
+
+$$
+
+## compute the difference quotient for the given function. The difference quotient for the function f(x)f(x) is defined to be, 
