@@ -467,10 +467,10 @@ additionally  , there should not be two solution for y since that mean that ther
 
 $$
 \begin{array}{l}
-x   = -2  , x^2 +   y^2   = 4  \\
-  y^2   = 4  -   x^2  \\
- y =  \sqrt{ 4  -   (x)^2  }   \\
-\implies  y =  \sqrt{ 4  -   (3)^2  }   =\sqrt{ -5 }   \\
+y^4 - x^2  = 16 \\
+  y^4   =   x^2 + 16   \\
+ y =  \sqrt[4]{ x^2 + 16}   \\
+\implies  y =   \sqrt[4]{ x^2 + 16}  =\sqrt{ -5 }   \\
 
 \end{array}
 $$
