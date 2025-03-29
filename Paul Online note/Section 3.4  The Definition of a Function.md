@@ -529,3 +529,21 @@ $$
 
 
 given $g(w)  = \frac{4}{ w + 1 }$  determine each of the following. 
+1. g(−6)
+$$
+\begin{array}{l}
+g(w)  = \frac{4}{ w + 1 }\\
+f(x+  2 )  = 3−2\cdot(x+ 2 )^2 \\
+ f(3t)  = 3  - 2 (x^2  +  4x + 4 )  \\
+ f(3t)  = 3  -2x^2  +   8x - 8  \\
+ f(3t)  =  -2x^2  +   8x  - 5 \\
+\end{array}
+$$
+2.  g(−2)
+
+
+3.  g(0)
+
+4.  g(t−1)
+
+5.  g(4w+3)
