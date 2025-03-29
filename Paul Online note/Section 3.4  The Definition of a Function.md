@@ -411,5 +411,9 @@ so  the domain of x is $\left( \frac{1}{2}, 4  \right) \cap \left( 4 , + \infty 
 
 
 
-# #Practice_Exercise  
-v
+# #Practice_Exercise 
+
+## determine if the given solution is a function 
+$$
+{(2,4),(3,−7),(6,10)} 
+$$
