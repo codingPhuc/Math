@@ -721,8 +721,15 @@ $$
 $$
 \begin{array}{l}
 \frac{4 - 9(x + h )  - ( 4 - 9x ) }{ h}  \\
-\frac{4  - 9x +  9  }{ h}
+\frac{4  - 9x -  9h  - 4 +  9x  }{ h}  \\
+-9 
 
 \end{array}
 
-$$
+$$ 
+
+
+
+
+
+
