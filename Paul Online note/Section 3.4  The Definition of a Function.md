@@ -337,3 +337,7 @@ $$
 
 
 As a final topic  we cannot plug every   x into every function .We have talk briefly about this in the definition of a function section and another example when we were evaluating function . 
+
+## domain  and range 
+
+The domain of an equation is the set of all x that is plug into the equation and get back a real number for  y . 
