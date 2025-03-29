@@ -520,12 +520,12 @@ $$
 \begin{array}{l}
 f(x )  = 3−2x^2  \\
 f(x+  2 )  = 3−2\cdot(x+ 2 )^2 \\
- f(3t)  = 3  - 2 (x^2  +  2x + 4 )  \\
- f(3t)  = 3  -2x^2  +   4x - 8  \\
- f(3t)  =  -2x^2  +   4x  - 5 \\
+ f(3t)  = 3  - 2 (x^2  +  4x + 4 )  \\
+ f(3t)  = 3  -2x^2  +   8x - 8  \\
+ f(3t)  =  -2x^2  +   8x  - 5 \\
 \end{array}
 $$
 
 
 
-given $f(x)=3−2x^2$ determine each of the following. 
+given $g(w)  = \frac{4}{ w + 1 }$  determine each of the following. 
