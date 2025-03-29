@@ -460,7 +460,18 @@ x   = 0 , y =  \sqrt{ 3x^2  + 1  }   \implies y = \sqrt{ 3(0)^2  + 1  } = \pm 1 
 
 \end{array}
 $$
-bases on the equation  , and number we plug in . We concluded that this is an equation since : 
-1. when we plug in one value the value will be multiply by $-\frac{1}{3}$ and add by 14 
-2. since the output of the equation will always be 1 value is satisfy the constrains of  a function that a plug in values x can yield a values y  
-this is a function since you can  plug in  values of x to  get a value of  y  
+ we concluded bases on this equation that  this is not a function since when plug in the value   0 , it create a square root properties and there are no complex number  that are outputted from a function 
+additionally  , there should not be two solution for y since that mean that there is a  value of x that can produce values of y contradicting the constraints of what make a function 
+
+
+
+$$
+\begin{array}{l}
+x   = -3 , y = y   =  \sqrt{ 10  } \\
+x   = 0 , y =  \sqrt{ 3x^2  + 1  }   \implies y = \sqrt{ 3(0)^2  + 1  } = \pm 1     \\
+
+\end{array}
+$$
+ we concluded bases on this equation that  this is not a function since when plug in the value   0 , it create a square root properties and there are no complex number  that are outputted from a function 
+additionally  , there should not be two solution for y since that mean that there is a  value of x that can produce values of y contradicting the constraints of what make a function 
+
