@@ -333,4 +333,7 @@ g(t) =  1- 6t \\
 g(15)  = 1- 6 \cdot  15 \\
  g(15)  = -89
 \end{array}
-$$
+$$ 
+
+
+As a final topic  we cannot plug every   x into every function . 
