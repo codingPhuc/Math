@@ -843,10 +843,11 @@ $$
     \node at ( 4,1.2) {$(1)(-1)  < 0      $};
     
     \node at ( 6,1.8) {$x = 6$};
-    \node at (6,1.2) {$ ()>  0 $};
+    \node at (6,1.2) {$ (3)(1)>  0 $};
     
 \end{tikzpicture}
 \end{document}
 
 
 ```
+there for the domain for this function is $(,)()$
