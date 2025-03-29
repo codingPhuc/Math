@@ -815,7 +815,13 @@ x^2  - 8x  + 15  > 0    \\
  x - 3   >  0   \cap x  -5 > 0  \\
 x  -3  <  0  \cap x -5 < 0   \\
 
-\end{array}\right.
+\end{array}\right.   \\
+\implies   \\
+\left\{\begin{array}{l} 
+ x    > 3   \cap x   >5 \\
+x    < 3  \cap x  < 5   \\
+
+\end{array}\right.   \\
 \end{array}
 
 
