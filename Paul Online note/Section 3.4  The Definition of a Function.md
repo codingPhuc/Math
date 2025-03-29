@@ -651,5 +651,5 @@ h(7)  =  3\cdot  7    = 21 \\
 $$
 
 $$
-
+\mathrm{Given~}f\left(x\right)=\left\{\begin{aligned}&6&&\mathrm{if}x\geq9\\&x+9&&\mathrm{if}2<x<9\\&x^2&&\mathrm{if}x\leq2\end{aligned}\right.
 $$
