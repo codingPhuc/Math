@@ -363,13 +363,16 @@ $$
 \begin{array}{l}
 f(x)  = \sqrt{  5 - 3x  }   \\
 5 - 3x  \geq 0   \\
-(x + 5 )( x  - 2 )\neq 0  \\
-\left\{    \\
-\begin{array}{l}
-x  =  -5  \\
-x   =  2 \\
+x \leq  \frac{5}{3 }  \\
 \end{array}
- \right. 
+$$
+
+
+$$
+\begin{array}{l}
+h(x)  = \frac{\sqrt{ 7x + 8  }}{x^2 +  4}   \\
+5 - 3x  \geq 0   \\
+x \leq  \frac{5}{3 }  \\
 \end{array}
 $$
 
