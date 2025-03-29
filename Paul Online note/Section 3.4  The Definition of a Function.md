@@ -668,10 +668,26 @@ f(x)  =(-4)^2  = 16\\
 
 $$
 1.  f(2)
+since the input argument  satisfy the bottom part  
+$$
+\begin{array}{l}
+f(x) = x^2    \\
+f(2)  =(2)^2  = 4\\
 
+\end{array}
+
+$$
 
 2.  f(6)
+since the input argument  satisfy the middle part  
+$$
+\begin{array}{l}
+f(x) = x+  9   \\
+f(2)  =6+  9   =15\\
 
-3.  f(9)
+\end{array}
 
-4.  f(12)
+$$
+2.  f(9)
+
+3.  f(12)
