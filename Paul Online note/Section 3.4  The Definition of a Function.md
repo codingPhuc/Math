@@ -417,4 +417,9 @@ so  the domain of x is $\left( \frac{1}{2}, 4  \right) \cap \left( 4 , + \infty 
 $$
 \{(2,4),(3,−7),(6,10)\} 
 $$
-the giv
+
+
+$$
+\text{1st component } : \{2, 3 , 6\} \; \text{2nd component } : \{4 ,  -7 , 10\} 
+$$
+the  given relationship is a function since all the number in the first  component 1
