@@ -151,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#definition  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +205,7 @@
               "state": {
                 "file": "Paul Online note/Section 3.4  The Definition of a Function.md",
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -249,13 +249,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Place value.md"
+                "file": "Paul Online note/Section 3.4  The Definition of a Function.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Place value"
+              "title": "Outline of Section 3.4  The Definition of a Function"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -274,7 +278,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f5a6f5228a78d19",
+  "active": "efca9649f6ae0f03",
   "lastOpenFiles": [
     "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 3.4  The Definition of a Function.md",
