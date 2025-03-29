@@ -850,4 +850,4 @@ $$
 
 
 ```
-there for the domain for this function is $(,)()$
+there for the domain for this function is $(-\infty,3)(5, \infty)$
