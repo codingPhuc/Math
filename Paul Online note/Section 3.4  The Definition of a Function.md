@@ -811,8 +811,10 @@ $$
 f(x) =  \frac{1}{\sqrt{  x^2  - 8x  + 15   }}\\
 x^2  - 8x  + 15  > 0    \\
 (x  -  3)( x- 5 )> 0    \\
-\left\{\begin{array}{l}
-x -
+\left\{\begin{array}{l} 
+ x - 3   >  0   \cap x  -5 > 0  \\
+x  -3  <  0  \cap x -5 < 0   \\
+
 \end{array}\right.
 \end{array}
 
