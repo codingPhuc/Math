@@ -341,4 +341,4 @@ As a final topic  we cannot plug every   x into every function .We have talk bri
 ## domain  and range 
 
 The domain of an equation is the set of all x that is plug into the equation and get back a real number for  y . The **range** of equation is the set of y that we get out of the equation 
-determind the
+determine the range of an equation/function can get really  difficult to do for many function so  we are not going to do that. We are must more interested in determining the domains
