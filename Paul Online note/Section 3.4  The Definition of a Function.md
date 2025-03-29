@@ -431,6 +431,15 @@ $$
 
 
 $$
-\text{1st component } : \{-1,4 , -1 , 0 \} \; \text{2nd component } : \{\} 
+\text{1st component } : \{-1,4 , -1 , 0 \} \; \text{2nd component } : \{8 , -7 , 6  ,  0 \} 
 $$
 the  given relationship is a not function since the number -1 have 2  values in the second component 
+
+
+
+##   determine if the given  equation is a function 
+$$
+\begin{array}{ }
+
+\end{array}
+$$
