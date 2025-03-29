@@ -336,4 +336,4 @@ g(15)  = 1- 6 \cdot  15 \\
 $$ 
 
 
-As a final topic  we cannot plug every   x into every function .We have talk briefly about this in the definition of a function section and another example when we were e
+As a final topic  we cannot plug every   x into every function .We have talk briefly about this in the definition of a function section and another example when we were evaluating function . 
