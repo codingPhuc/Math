@@ -404,7 +404,7 @@ $$ so we need to avoid number that can cause x to be 0
 $$
 \begin{array}{l}
 10x  - 5 \geq  0 \\ 
-10x  - 5   \\
+x   \geq  \frac{1}{2} \\
 \end{array}
 $$
-x need to be larger than  $-\frac{8}{7}$
+so  the domain of x is $\left( \frac{1}{2} \right,)$
