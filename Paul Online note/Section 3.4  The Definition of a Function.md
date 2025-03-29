@@ -642,10 +642,11 @@ h(2)  = 1 +   2^2    = 5\\
 $$
 2.  h(7) 
 
+since the input argument  satisfy the bottom part 
 $$
 \begin{array}{l}
-h(z)  =  3z   \\
-h(7)  =  3\cdot  7    = 21 \\
+h(z)  = 1+z^2   \\
+h(7)  = 1 +   7^2    = 15\\
 
 \end{array}
 
@@ -658,10 +659,11 @@ $$
 
 
  1. h(0) 
+ since the input argument  satisfy the bottom  part 
 $$
 \begin{array}{l}
 h(z)  = x^2    \\
-h(7)  =  3\cdot  7    = 21 \\
+h(7)  =  7^2   = 21 \\
 
 \end{array}
 
