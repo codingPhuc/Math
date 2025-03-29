@@ -403,8 +403,8 @@ x   = 4  \\
 $$ so we need to avoid number that can cause x to be 0 
 $$
 \begin{array}{l}
-7x +  8  \geq  0 \\ 
-x   \geq  -\frac{8}{7}  \\
+10x  - 5 \geq  0 \\ 
+10x  - 5   \\
 \end{array}
 $$
 x need to be larger than  $-\frac{8}{7}$
