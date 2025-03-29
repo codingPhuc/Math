@@ -804,18 +804,19 @@ $$
 
 
 
-
 $$
 
 
 \begin{array}{l}
-g(W)  = \frac{1}{\sqrt{x^2  - 8x + 15  }}  \\
-9w  +  7 \geq 0  \\
- w  \geq  -\frac{7}{9}  \\
-
+f(x) =  \frac{1}{\sqrt{  x^2  - 8x  + 15   }}\\
+t^2   - 7t - 18  \neq  0  \\
+(t -  9)(t +  2)  \neq  0   \\
+\left\{\begin{array}{l}
+x\neq 9   \\
+x \neq  -3  
+\end{array}\right.
 \end{array}
 
 
 $$
-
 
