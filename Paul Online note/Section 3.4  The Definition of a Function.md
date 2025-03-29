@@ -759,7 +759,10 @@ $$
 \begin{array}{l}
 f(x)   =  \frac{1}{x^2  - 25}   \\
 x^2 -  25  \neq  0  \\
-(x +  5) (x- )
+(x +  5) (x- 5)   \neq  0   \\
+\left\{\begin{array}{l}
+
+\end{array}r
 \end{array}
 
 $$
