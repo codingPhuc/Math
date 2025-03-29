@@ -657,17 +657,9 @@ $$
 $$
  determine each of the following.  
 
-
- 1. h(0) 
- since the input argument  satisfy the bottom  part 
-$$
-\begin{array}{l}
-h(z)  = x^2    \\
-h(7)  =  7^2   = 21 \\
-
-\end{array}
-
-$$
- 1. h(2)
-
- 2. h(7)
+1. f(−4) 
+2
+2.  f(2)f(2)
+3.  f(6)f(6)
+4.  f(9)f(9)
+5.  f(12)
