@@ -630,11 +630,12 @@ h(0)  =  3\cdot  0    =0 \\
 \end{array}
 
 $$
-2.  h(2)
+2.  h(2) 
+since the input argument  satisfy the bottom part 
 $$
 \begin{array}{l}
-h(z)  =  3z   \\
-h(2)  =  3\cdot  2    =6 \\
+h(z)  = 1+z^2   \\
+h(2)  = 1 +   2^2    = 5\\
 
 \end{array}
 
@@ -653,11 +654,13 @@ $$
 $$
 \mathrm{Given~}f\left(x\right)=\left\{\begin{aligned}&6&&\mathrm{if}x\geq9\\&x+9&&\mathrm{if}2<x<9\\&x^2&&\mathrm{if}x\leq2\end{aligned}\right.
 $$
- determine each of the following. 
+ determine each of the following.  
+
+
  1. h(0) 
 $$
 \begin{array}{l}
-h(z)  = x^   \\
+h(z)  = x^2    \\
 h(7)  =  3\cdot  7    = 21 \\
 
 \end{array}
