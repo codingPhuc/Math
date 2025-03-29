@@ -720,8 +720,8 @@ $$
 
 $$
 \begin{array}{l}
-f(x) = x^2    \\
-f(x)  =(-4)^2  = 16\\
+\frac{4 - 9(x + h )  - ( 4 - 9x ) }{ h}  \\
+\frac{4  - 9x +  9  }{ h}
 
 \end{array}
 
