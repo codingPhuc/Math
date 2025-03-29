@@ -761,9 +761,14 @@ f(x)   =  \frac{1}{x^2  - 25}   \\
 x^2 -  25  \neq  0  \\
 (x +  5) (x- 5)   \neq  0   \\
 \left\{\begin{array}{l}
-
-\end{array}r
+x\neq -5   \\
+x \neq  5 
+\end{array}\right.
 \end{array}
 
 $$
 Since the value of A(x) is not affected by  any value of x there is no domain 
+
+$$
+g(t)  = \frac{8t}{}
+$$
