@@ -533,17 +533,27 @@ given $g(w)  = \frac{4}{ w + 1 }$  determine each of the following.
 $$
 \begin{array}{l}
 g(w)  = \frac{4}{ w + 1 }\\
-f(x+  2 )  = 3−2\cdot(x+ 2 )^2 \\
- f(3t)  = 3  - 2 (x^2  +  4x + 4 )  \\
- f(3t)  = 3  -2x^2  +   8x - 8  \\
- f(3t)  =  -2x^2  +   8x  - 5 \\
+g(-6)  = \frac{4}{ -6  + 1 } \\
+g(-6)  = \frac{4}{ -5 } \\
 \end{array}
 $$
 2.  g(−2)
-
+$$
+\begin{array}{l}
+g(w)  = \frac{4}{ w + 1 }\\
+g(-2)  = \frac{4}{ -2  + 1 } \\
+g(-2)  = -4 \\
+\end{array}
+$$
 
 3.  g(0)
-
+$$
+\begin{array}{l}
+g(w)  = \frac{4}{ w + 1 }\\
+g(-2)  = \frac{4}{ 0  + 1 } \\
+g(-2)  = -4 \\
+\end{array}
+$$
 4.  g(t−1)
 
 5.  g(4w+3)
