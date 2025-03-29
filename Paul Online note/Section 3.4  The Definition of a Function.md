@@ -793,8 +793,8 @@ $$
 
 \begin{array}{l}
 g(W)  = \sqrt{  9w +  7 }  \\
-g(W)  = \sqrt{  9w +  7 } \\
-(t -  9)(t +  2)  \neq  0   \\
+9w  +  7 \geq 0  \\
+ w  \geq  -\frac{7}{9}  \\
 \left\{\begin{array}{l}
 x\neq 9   \\
 x \neq  -3  
