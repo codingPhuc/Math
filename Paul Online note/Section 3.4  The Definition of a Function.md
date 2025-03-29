@@ -551,9 +551,22 @@ $$
 \begin{array}{l}
 g(w)  = \frac{4}{ w + 1 }\\
 g(-2)  = \frac{4}{ 0  + 1 } \\
-g(-2)  = -4 \\
+g(-2)  =  4 \\
 \end{array}
 $$
 4.  g(t−1)
-
-5.  g(4w+3)
+$$
+\begin{array}{l}
+g(w)  = \frac{4}{ w + 1 }\\
+g(t−1)  = \frac{4}{ t−1  + 1 } \\
+g(t−1)  =   \frac{4}{ t } \\
+\end{array}
+$$
+5.  g(4w+3) 
+$$
+\begin{array}{l}
+g(w)  = \frac{4}{ w + 1 }\\
+g(4w+3)  = \frac{4}{4w+3 + 1 } \\
+g4w+3)  =   \frac{4}{ 4w  } \\
+\end{array}
+$$
