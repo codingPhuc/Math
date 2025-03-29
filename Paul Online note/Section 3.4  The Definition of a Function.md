@@ -400,7 +400,7 @@ x   = 4  \\
 \end{array}
  \right.
 \end{array}
-$$ so we need to avoid number that can cause x to be 0 $$
+$$ so we need to avoid number that can cause x to be 0 
 $$
 \begin{array}{l}
 7x +  8  \geq  0 \\ 
