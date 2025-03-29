@@ -575,7 +575,36 @@ $$
 given $h(t)  =t^2  + 6$  determine each of the following.   
 
 1. h(0)
-2.  h(−2)h(−2)
-3.  h(2)h(2)
-4.  h(√x)h(x)
+$$
+\begin{array}{l}
+h(t)  =t^2  + 6\\
+h(0)  =0^2  + 6\\
+h(0)  =  6 \\
+\end{array}
+$$
+2.  h(−2)
+$$
+\begin{array}{l}
+g(w)  = \frac{4}{ w + 1 }\\
+g(4w+3)  = \frac{4}{4w+3 + 1 } \\
+g(4w+3)  =   \frac{4}{ 4w +  4 } \\
+\end{array}
+$$
+
+3.  h(2)
+$$
+\begin{array}{l}
+g(w)  = \frac{4}{ w + 1 }\\
+g(4w+3)  = \frac{4}{4w+3 + 1 } \\
+g(4w+3)  =   \frac{4}{ 4w +  4 } \\
+\end{array}
+$$
+4.  h(√x)
+$$
+\begin{array}{l}
+g(w)  = \frac{4}{ w + 1 }\\
+g(4w+3)  = \frac{4}{4w+3 + 1 } \\
+g(4w+3)  =   \frac{4}{ 4w +  4 } \\
+\end{array}
+$$
 5.  h(3−t)
