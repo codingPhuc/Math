@@ -738,8 +738,8 @@ $$
 
 $$
 \begin{array}{l}
-\frac{f(x  + h) - 2x^2   -x  }{ h}   \\
-\frac{4  - 9x -  9h  - 4 +  9x  }{ h}  \\
+\frac{2(x +  h )^2   -(x + h)   - (2x^2   -x)  }{ h}   \\
+\frac{2(x^2  +  2xh  + h^2) - x- h  - 2x^ }{ h}    \\
 -9 
 
 \end{array}
