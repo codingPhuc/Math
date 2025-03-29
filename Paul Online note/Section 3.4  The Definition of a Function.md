@@ -1,6 +1,6 @@
 
 
-# #Definition  of Relation 
+#  #definition 
 A **relation**  is  a set of order pairs 
 
 This seem  like an odd definition ,  but we  need it for the definition  of a function( which is the main  topic of this section) .However, before the definition of a function  let see what a relationship actually is  
@@ -336,4 +336,4 @@ g(15)  = 1- 6 \cdot  15 \\
 $$ 
 
 
-As a final topic  we cannot plug every   x into every function .We have talk briefly about this in the 
+As a final topic  we cannot plug every   x into every function .We have talk briefly about this in the definition of a function section and another example when we were e
