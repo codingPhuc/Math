@@ -467,8 +467,10 @@ additionally  , there should not be two solution for y since that mean that ther
 
 $$
 \begin{array}{l}
-x   = -3 , y = y   =  \sqrt{ 10  } \\
-x   = 0 , y =  \sqrt{ 3x^2  + 1  }   \implies y = \sqrt{ 3(0)^2  + 1  } = \pm 1     \\
+x   = -2  , x^2 +   y^2   = 4  \\
+  y^2   = 4  -   x^2  \\
+ y =  \sqrt{ 4  -   (x)^2  }   \\
+\implies  y =  \sqrt{ 4  -   (3)^2  }   =\sqrt{ -5 }   \\
 
 \end{array}
 $$
