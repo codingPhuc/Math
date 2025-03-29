@@ -470,10 +470,13 @@ $$
 x = 0  , y^4 - x^2  = 16 \\
   y^4   =   x^2 + 16   \\
  y =  \sqrt[4]{ x^2 + 16}   \\
-\implies  y =   \sqrt[4]{ x^2 + 16}  =\sqrt[4]{ x^2 + 16}   \\
+\implies  y =   \sqrt[4]{ 2^2 + 16}  = \pm 2  \\
 
 \end{array}
 $$
  we concluded bases on this equation that  this is not a function since when plug in the value   0 , it create a square root properties and there are no complex number  that are outputted from a function 
 additionally  , there should not be two solution for y since that mean that there is a  value of x that can produce values of y contradicting the constraints of what make a function 
 
+
+
+given f(x)=3−2x2determine each of the following.
