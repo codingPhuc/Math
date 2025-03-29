@@ -407,4 +407,8 @@ $$
 x   \geq  \frac{1}{2} \\
 \end{array}
 $$
-so  the domain of x is $\left( \frac{1}{2}, 4  \right) \cap \left( \frac{1}{2}, 4  \right)$
+so  the domain of x is $\left( \frac{1}{2}, 4  \right) \cap \left( 4 , + \infty \right)$
+
+
+
+# 
