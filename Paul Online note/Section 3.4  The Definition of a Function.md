@@ -825,10 +825,10 @@ $$
 
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
-    \draw[->] (-10,0) -- (7,0) node[right] {};
+    \draw[->] (-5,0) -- (7,0) node[right] {};
     
     % Draw tick marks and labels
-    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
+    \foreach \x in {-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
     }
     
@@ -836,11 +836,11 @@ $$
     \draw[dashed] (3,-1.5) -- (3,1.5);
     \draw[dashed] (5 ,-1.5) -- (5,1.5);
     % Text annotations
-    \node at ( -2,1.8) {$x = -2$};
-    \node at ( -2,1.2) {$ \frac{-1}{7}  > 0    $};
+    \node at ( 2,1.8) {$x = -2$};
+    \node at ( 2,1.2) {$ () > 0    $};
     
-    \node at ( 0,1.8) {$x = 0$};
-    \node at ( 0,1.2) {$\frac{-1}{5}  > 0      $};
+    \node at ( 4,1.8) {$x = 0$};
+    \node at ( 4,1.2) {$\frac{-1}{5}  > 0      $};
     
     \node at ( 6,1.8) {$x = 6$};
     \node at (6,1.2) {$7 >  0 $};
