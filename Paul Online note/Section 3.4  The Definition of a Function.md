@@ -603,8 +603,16 @@ $$
 $$
 \begin{array}{l}
 h(t)  =t^2  + 6 \\
-h(-2)  =(-2)^2  + 6 \\
-h(-2)  = 10\\ 
+h(\sqrt{ x })  =(\sqrt{ x })^2  + 6 \\
+h(\sqrt{ x })  = x  +  6\\ 
 \end{array}
 $$
-5.  h(3−t)
+5.  h(3−t) 
+
+$$
+\begin{array}{l}
+h(t)  =t^2  + 6 \\
+h(3−t)  =(3−t)^2  + 6 \\
+h(3−t)  = t^2  -    +  6\\ 
+\end{array}
+$$
