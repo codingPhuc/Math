@@ -567,6 +567,15 @@ $$
 \begin{array}{l}
 g(w)  = \frac{4}{ w + 1 }\\
 g(4w+3)  = \frac{4}{4w+3 + 1 } \\
-g4w+3)  =   \frac{4}{ 4w  } \\
+g(4w+3)  =   \frac{4}{ 4w +  4 } \\
 \end{array}
 $$
+
+
+given $h(t)  =t^2  + 6$  determine each of the following.   
+
+1. h(0)
+2.  h(−2)h(−2)
+3.  h(2)h(2)
+4.  h(√x)h(x)
+5.  h(3−t)
