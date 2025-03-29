@@ -431,6 +431,6 @@ $$
 
 
 $$
-\text{1st component } : \{2, 3 , 6\} \; \text{2nd component } : \{4 ,  -7 , 10\} 
+\text{1st component } : \{-1,4 , -1 , 0 \} \; \text{2nd component } : \{4 ,  -7 , 10\} 
 $$
-the  given relationship is a function since all the number in the first  component will have single value from the second component 
+the  given relationship is a not function since the number -1 have 2  values in the second component 
