@@ -742,8 +742,9 @@ $$
 \frac{2(x^2  +  2xh  + h^2) - x- h  - 2x^2 + x }{ h}  \\
  \frac{2x^2 +  4xh  + 2h^2  - x- h  - 2x^2 + x }{ h}    \\
  \frac{   4xh  + 2h^2  - h   }{ h}    \\
--9 
+ 4x  + 2h  - 1
 
 \end{array}
 
 $$ 
+## Determine the domain of the function 
