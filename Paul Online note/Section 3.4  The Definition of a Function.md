@@ -739,7 +739,9 @@ $$
 $$
 \begin{array}{l}
 \frac{2(x +  h )^2   -(x + h)   - (2x^2   -x)  }{ h}   \\
-\frac{2(x^2  +  2xh  + h^2) - x- h  - 2x^ }{ h}    \\
+\frac{2(x^2  +  2xh  + h^2) - x- h  - 2x^2 + x }{ h}  \\
+ \frac{2x^2 +  4xh  + 2h^2  - x- h  - 2x^2 + x }{ h}    \\
+ \frac{   4xh  + 2h^2  - h   }{ h}    \\
 -9 
 
 \end{array}
