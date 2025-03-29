@@ -658,8 +658,20 @@ $$
  determine each of the following.  
 
 1. f(−4) 
-2
-2.  f(2)f(2)
-3.  f(6)f(6)
-4.  f(9)f(9)
-5.  f(12)
+since the input argument  satisfy the bottom part  
+$$
+\begin{array}{l}
+f(x) = x^2    \\
+f(x)  =(-4)^2  = 16\\
+
+\end{array}
+
+$$
+1.  f(2)
+
+
+2.  f(6)
+
+3.  f(9)
+
+4.  f(12)
