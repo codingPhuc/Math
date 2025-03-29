@@ -618,5 +618,10 @@ h(3−t)  = t^2  -  6t   +  15 \\
 $$
 
 $$
- 
+ \mathrm{Given~}h\left(z\right)=\left\{\begin{array}{ll}3z&\mathrm{if}z<2\\1+z^2&\mathrm{if}z\geq2\end{array}\right.
 $$
+1. h(0)
+
+2.  h(2)
+
+3.  h(7)
