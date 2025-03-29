@@ -748,3 +748,6 @@ $$
 
 $$ 
 ## Determine the domain of the function 
+$$
+A(x)   =  6x  + 14
+$$
