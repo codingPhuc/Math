@@ -812,8 +812,7 @@ f(x) =  \frac{1}{\sqrt{  x^2  - 8x  + 15   }}\\
 x^2  - 8x  + 15  > 0    \\
 (x  -  3)( x- 5 )> 0    \\
 \left\{\begin{array}{l}
-x\neq 9   \\
-x \neq  -3  
+x -
 \end{array}\right.
 \end{array}
 
