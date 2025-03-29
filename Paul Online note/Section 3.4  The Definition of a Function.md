@@ -756,6 +756,11 @@ Since the value of A(x) is not affected by  any value of x there is no domain
 
 
 $$
-f(x)   =  \frac{1}{x^2  - 25} 
+\begin{array}{l}
+f(x)   =  \frac{1}{x^2  - 25}   \\
+x^2 -  25  \neq  0  \\
+(x +  5) (x- )
+\end{array}
+
 $$
 Since the value of A(x) is not affected by  any value of x there is no domain 
