@@ -440,7 +440,7 @@ the  given relationship is a not function since the number -1 have 2  values in 
 ##   determine if the given  equation is a function 
 $$
 \begin{array}{l }
-y  =  14  - \frac{1}{3 } x    \\
+y  =  14  - \frac{1}{3 } x     \\
 
 \end{array} 
 $$
