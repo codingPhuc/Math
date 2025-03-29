@@ -447,6 +447,21 @@ x   = 2 , y = 14 -  \frac{1}{3} x  \implies y = 14 -  \frac{1}{3} \cdot 3    = 1
 \end{array}
 $$
 bases on the equation  , and number we plug in . We concluded that this is an equation since : 
-1. when we plug in one value the value will be multiply by 5 and add by 1 
+1. when we plug in one value the value will be multiply by $-\frac{1}{3}$ and add by 14 
 2. since the output of the equation will always be 1 value is satisfy the constrains of  a function that a plug in values x can yield a values y  
-this is a function since you can  plug in  values of x to  get a value of  y 
+this is a function since you can  plug in  values of x to  get a value of  y  
+
+
+
+$$
+\begin{array}{l}
+x   = -3 , y = \sqrt{ 3x^2  + 1  }  \implies y = \sqrt{ 3(-3)^2  + 1  }    =  15 \\
+x   = 0 , y = 14 -  \frac{1}{3} x   \implies y = 14  \\
+x   = 2 , y = 14 -  \frac{1}{3} x  \implies y = 14 -  \frac{1}{3} \cdot 3    = 13 \\
+ 
+\end{array}
+$$
+bases on the equation  , and number we plug in . We concluded that this is an equation since : 
+1. when we plug in one value the value will be multiply by $-\frac{1}{3}$ and add by 14 
+2. since the output of the equation will always be 1 value is satisfy the constrains of  a function that a plug in values x can yield a values y  
+this is a function since you can  plug in  values of x to  get a value of  y  
