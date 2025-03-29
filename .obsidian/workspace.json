@@ -151,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Group_Theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,8 +182,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning road map.md",
+                "file": "Paul Online note/Section 3.4  The Definition of a Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from learning road map"
+              "title": "Outgoing links from Section 3.4  The Definition of a Function"
             }
           },
           {
@@ -237,7 +236,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -278,7 +279,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efca9649f6ae0f03",
+  "active": "30b50d563073904f",
   "lastOpenFiles": [
     "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 3.4  The Definition of a Function.md",
