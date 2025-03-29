@@ -710,4 +710,7 @@ f(9)  =6\\
 
 $$
 
-## compute the difference quotient for the given function. The difference quotient for the function f(x)f(x) is defined to be, 
+## compute the difference quotient for the given function. The difference quotient for the function f(x) is defined to be, 
+$$
+\frac{f(x  + h) - f(x)}{ h} 
+$$
