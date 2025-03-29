@@ -731,5 +731,17 @@ $$
 
 
 
+$$
+f(x )  = 2x^2   -x  
+$$
 
 
+$$
+\begin{array}{l}
+\frac{f(x  + h) - 2x^2   -x  }{ h}   \\
+\frac{4  - 9x -  9h  - 4 +  9x  }{ h}  \\
+-9 
+
+\end{array}
+
+$$ 
