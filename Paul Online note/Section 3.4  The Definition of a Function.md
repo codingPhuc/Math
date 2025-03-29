@@ -440,9 +440,9 @@ the  given relationship is a not function since the number -1 have 2  values in 
 ##   determine if the given  equation is a function 
 $$
 \begin{array}{l}
-x   = -3 , y = 14 -  \frac{1}{3} x   \implies y = 14 -  \frac{1}{3} -3    =  -19  \\
-x   = 0 , y = 5x + 1  \implies y = 5 \cdot 0  + 1   = 1   \\
-x   = 2 , y = 5x + 1  \implies y = 5 \cdot 1  + 1   = 6 \\
+x   = -3 , y = 14 -  \frac{1}{3} x   \implies y = 14 -  \frac{1}{3} \cdot -3    =  15 \\
+x   = 0 , y = 14 -  \frac{1}{3} x   \implies y = 14  \\
+x   = 2 , y = 14 -  \frac{1}{3} x  \implies y = 14 -  \frac{1}{3} \cdot 3    = 13 \\
  
 \end{array}
 $$
