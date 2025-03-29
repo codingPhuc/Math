@@ -377,6 +377,9 @@ x  \neq \sqrt{  -4 }
 \end{array}
 $$ 
 $$
-
+\begin{array}{l}
+7x +  8  \geq  0 \\ 
+x   \geq  -\frac{8}{7}  \\
+\end{array}
 $$
 
