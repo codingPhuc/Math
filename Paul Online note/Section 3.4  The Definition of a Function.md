@@ -770,5 +770,17 @@ $$
 Since the value of A(x) is not affected by  any value of x there is no domain 
 
 $$
-g(t)  = \frac{8t}{}
+
+
+\begin{array}{l}
+g(t)  = \frac{8t - 24}{ t^2   - 7t - 18}    \\
+t^2   - 7t - 18  \neq  0  \\
+(t -  )  \neq  0   \\
+\left\{\begin{array}{l}
+x\neq -5   \\
+x \neq  5 
+\end{array}\right.
+\end{array}
+
+
 $$
