@@ -411,4 +411,5 @@ so  the domain of x is $\left( \frac{1}{2}, 4  \right) \cap \left( 4 , + \infty 
 
 
 
-# 
+# #Practice_Exercise  
+v
