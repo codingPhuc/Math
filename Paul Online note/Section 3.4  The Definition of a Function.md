@@ -467,10 +467,10 @@ additionally  , there should not be two solution for y since that mean that ther
 
 $$
 \begin{array}{l}
-y^4 - x^2  = 16 \\
+x = 0  , y^4 - x^2  = 16 \\
   y^4   =   x^2 + 16   \\
  y =  \sqrt[4]{ x^2 + 16}   \\
-\implies  y =   \sqrt[4]{ x^2 + 16}  =\sqrt{ -5 }   \\
+\implies  y =   \sqrt[4]{ x^2 + 16}  =\sqrt[4]{ x^2 + 16}   \\
 
 \end{array}
 $$
