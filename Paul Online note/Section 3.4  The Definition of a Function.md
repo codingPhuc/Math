@@ -431,6 +431,6 @@ $$
 
 
 $$
-\text{1st component } : \{-1,4 , -1 , 0 \} \; \text{2nd component } : \{4 ,  -7 , 10\} 
+\text{1st component } : \{-1,4 , -1 , 0 \} \; \text{2nd component } : \{\} 
 $$
 the  given relationship is a not function since the number -1 have 2  values in the second component 
