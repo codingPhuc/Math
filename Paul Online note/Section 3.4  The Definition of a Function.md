@@ -479,4 +479,17 @@ additionally  , there should not be two solution for y since that mean that ther
 
 
 
-given f(x)=3−2x2determine each of the following.
+given $f(x)=3−2x^2$ determine each of the following. 
+
+1. f(0) 
+$$
+\begin{array}{l}
+f(x )  = 3−2x^2  \\
+f(0)  =  \\
+ f(3)  =   11 \\
+\end{array}
+$$
+2.  f(2)
+3.  f(−4)
+4.  f(3t)
+5.  f(x+2)
