@@ -392,10 +392,15 @@ $$
 \begin{array}{l}
 h(x)  = \frac{\sqrt{ 10x  - 5  }}{x^2  - 16 }     \\
 x^2  - 16  \neq  0    \\
-( x +  4) (x  - 4 )\neq  -  4     \\ 
-x  \neq \sqrt{  -4 }  
+( x +  4) (x  - 4 )\neq 0     \\ 
+\left\{    \\
+\begin{array}{l}
+x  =  -4  \\
+x   = 4  \\
 \end{array}
-$$ since  the result of the denominator is  an complex number there is no x that can cause the denominator to be  0 
+ \right.
+\end{array}
+$$ so we need to avoid number that can cause x to be 0 $$
 $$
 \begin{array}{l}
 7x +  8  \geq  0 \\ 
