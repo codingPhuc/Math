@@ -792,8 +792,8 @@ $$
 
 
 \begin{array}{l}
-g(W)  = \sqrt{  }  \\
-t^2   - 7t - 18  \neq  0  \\
+g(W)  = \sqrt{  9w +  7 }  \\
+g(W)  = \sqrt{  9w +  7 } \\
 (t -  9)(t +  2)  \neq  0   \\
 \left\{\begin{array}{l}
 x\neq 9   \\
