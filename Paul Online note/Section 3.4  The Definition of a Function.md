@@ -370,11 +370,13 @@ $$
 
 $$
 \begin{array}{l}
-h(x)  = \frac{\sqrt{ 7x + 8  }}{x^2 +  4}   \\
-h(x)  = \frac{\sqrt{ 7x + 8  }}{x^2 +  4}  \\  \\
-x^2   +  4 =  0    \\
-x^2   =   -  4     \\ 
-x  = \sqrt{  -4 }  
+h(x)  = \frac{\sqrt{ 7x + 8  }}{x^2 +  4}     \\
+x^2   +  4 \neq  0    \\
+x^2   \neq  -  4     \\ 
+x  \neq \sqrt{  -4 }  
 \end{array}
+$$ 
+$$
+
 $$
 
