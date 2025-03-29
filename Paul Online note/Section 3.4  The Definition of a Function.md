@@ -631,5 +631,25 @@ h(0)  =  3\cdot  0    =0 \\
 
 $$
 2.  h(2)
+$$
+\begin{array}{l}
+h(z)  =  3z   \\
+h(2)  =  3\cdot  2    =6 \\
 
-3.  h(7)
+\end{array}
+
+$$
+2.  h(7) 
+
+$$
+\begin{array}{l}
+h(z)  =  3z   \\
+h(7)  =  3\cdot  7    = 21 \\
+
+\end{array}
+
+$$
+
+$$
+
+$$
