@@ -485,11 +485,27 @@ given $f(x)=3−2x^2$ determine each of the following.
 $$
 \begin{array}{l}
 f(x )  = 3−2x^2  \\
-f(0)  =  \\
- f(3)  =   11 \\
+f(0)  = 3−2\cdot0^2 \\
+ f(3)  =   3 \\
 \end{array}
 $$
-2.  f(2)
-3.  f(−4)
-4.  f(3t)
-5.  f(x+2)
+2.  f(2) 
+
+$$
+\begin{array}{l}
+f(x )  = 3−2x^2  \\
+f(2)  = 3−2\cdot2^2 \\
+ f(3)  =   -5 \\
+\end{array}
+$$
+1.  f(−4)
+
+$$
+\begin{array}{l}
+f(x )  = 3−2x^2  \\
+f(2)  = 3−2\cdot2^2 \\
+ f(3)  =   -5 \\
+\end{array}
+$$
+1.  f(3t)
+2.  f(x+2)
