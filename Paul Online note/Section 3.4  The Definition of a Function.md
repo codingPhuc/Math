@@ -422,4 +422,15 @@ $$
 $$
 \text{1st component } : \{2, 3 , 6\} \; \text{2nd component } : \{4 ,  -7 , 10\} 
 $$
-the  given relationship is a function since all the number in the first  component 1
+the  given relationship is a function since all the number in the first  component will have single value from the second component 
+
+
+$$
+\{(−1,8),(4,−7),(−1,6),(0,0)\}
+$$
+
+
+$$
+\text{1st component } : \{2, 3 , 6\} \; \text{2nd component } : \{4 ,  -7 , 10\} 
+$$
+the  given relationship is a function since all the number in the first  component will have single value from the second component 
