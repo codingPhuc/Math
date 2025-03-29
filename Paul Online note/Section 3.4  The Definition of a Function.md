@@ -455,10 +455,9 @@ this is a function since you can  plug in  values of x to  get a value of  y
 
 $$
 \begin{array}{l}
-x   = -3 , y = \sqrt{ 3x^2  + 1  }  \implies y = \sqrt{ 3(-3)^2  + 1  }    =  15 \\
-x   = 0 , y = 14 -  \frac{1}{3} x   \implies y = 14  \\
-x   = 2 , y = 14 -  \frac{1}{3} x  \implies y = 14 -  \frac{1}{3} \cdot 3    = 13 \\
- 
+x   = -3 , y = \sqrt{ 3x^2  + 1  }  \implies y = \sqrt{ 3(-3)^2  + 1  }    =  \sqrt{ 10  } \\
+x   = 0 , y =  \sqrt{ 3x^2  + 1  }   \implies y = \sqrt{ 3(0)^2  + 1  } = \pm 1     \\
+
 \end{array}
 $$
 bases on the equation  , and number we plug in . We concluded that this is an equation since : 
