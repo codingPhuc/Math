@@ -203,9 +203,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning road map.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Paul Online note/Section 3.4  The Definition of a Function.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -213,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for learning road map"
+              "title": "Backlinks for Section 3.4  The Definition of a Function"
             }
           },
           {
@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,7 +274,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2355cabcc82546b0",
+  "active": "9f5a6f5228a78d19",
   "lastOpenFiles": [
     "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 3.4  The Definition of a Function.md",
