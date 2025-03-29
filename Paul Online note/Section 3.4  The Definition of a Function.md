@@ -803,7 +803,7 @@ $$
 
 
 #fail 
-
+remember the [[Section 2.12  Polynomial Inequalities]]]]
 $$
 
 
