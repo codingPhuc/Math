@@ -346,7 +346,6 @@ determine the range of an equation/function can get really  difficult to do for 
 $$
 \begin{array}{l}
  g(x) = \frac{x+ 3}{x^2  +  3x -  10 }   \\
-x^2  + 3x  - 10 \neq 0  \\
-
+x^2  + 3x  - 10 \neq 0  
 \end{array}
 $$
