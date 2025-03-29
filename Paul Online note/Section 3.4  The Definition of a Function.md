@@ -751,3 +751,11 @@ $$
 $$
 A(x)   =  6x  + 14
 $$
+Since the value of A(x) is not affected by  any value of x there is no domain 
+
+
+
+$$
+f(x)   =  \frac{1}{x^2  - 25} 
+$$
+Since the value of A(x) is not affected by  any value of x there is no domain 
