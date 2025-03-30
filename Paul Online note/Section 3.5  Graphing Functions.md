@@ -8,7 +8,7 @@ f(x) =   (x - 1)^3 + 1
 \end{array}
  
 $$
-t
+in this graph we plug in the value of x to get  the value of y , then draw the gar
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -35,7 +35,4 @@ t
     % Draw the parabola
     \draw[thick, blue, domain=-1:2, smooth] plot (\x, {( \x - 1)^3+1});
 \end{tikzpicture}
-\end{document}
-
-
-``` 
+\end{docume
