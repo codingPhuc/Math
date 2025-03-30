@@ -414,10 +414,11 @@ Here are separate tables for each piece of the piecewise function:
 
 ### For f(x)=1−x2f(x) = 1 - x^2 when x<−2x < -2
 
-|xx|f(x)=1−x2f(x) = 1 - x^2|(x,y)(x, y)|
-|---|---|---|
-|-3|1 - (-3)^2 = -8|(-3, -8)|
-|-4|1 - (-4)^2 = -15|(-4, -15)|
+| xx  | f(x)=1−x2f(x) = 1 - x^2 | (x,y)(x, y) |
+| --- | ----------------------- | ----------- |
+| -3  | 1 - (-3)^2 = -8         | (-3, -8)    |
+| -4  | 1 - (-4)^2 = -15        | (-4, -15)   |
+|     |                         |             |
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -443,7 +444,8 @@ Here are separate tables for each piece of the piecewise function:
 	\fill(2 ,  6)  circle (2pt) node[above right] {$(2 ,  6) $};	
     % Draw the parabola 
     
-    \draw[thick, blue, domain=0:2, smooth] plot (\x,{10  - 2*\x });
+    \draw[thick, blue, domain=0:2, smooth] plot (\x,{\x  + 5 });
+    \draw[thick, blue, domain=2:3, smooth] plot (\x,{(\x)^2+ 2 } ); 
     \draw[thick, blue, domain=2:3, smooth] plot (\x,{(\x)^2+ 2 } );
 
 \end{tikzpicture}
