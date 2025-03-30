@@ -178,9 +178,8 @@ Here are three separate tables for each piece of the piecewise function:
     }
 
     % Text annotations  
-    \fill (-4, -1)  circle (2pt) node[above right] {$(1, 1) $};
-    \fill[red] (1, 3) circle (2pt) node[above right] {$(1, 3)$};
-
+    \fill[red] (-2 ,  1)  circle (2pt) node[above right] {$(1, 3)$};
+    \fill (-2 ,  1)  circle (2pt) node[above right] {$(1, 3)$};	
 
     % Draw the parabola 
     
