@@ -128,14 +128,15 @@ Here are three separate tables for each piece of the piecewise function:
 
 ### For $h(x)=x+3h(x) = x + 3$ when $x < -2$
 
-| xx  | $h(x)=x+3\;h(x) = x + 3$ | (x,y)(x, y) |
-| --- | ------------------------ | ----------- |
-| -4  | -4 + 3 = -1              | (-4, -1)    |
-| -3  | -3 + 3 = 0               | (-3, 0)     |
+| x   | $h(x)=x+3\;h(x) = x + 3$ | (x,y)(x, y |
+| --- | ------------------------ | ---------- |
+| -4  | -4 + 3 = -1              | (-4, -1)   |
+| -3  | -3 + 3 = 0               | (-3, 0)    |
+| -2  | -2 + 3   = 1             | (-2 ,  1)  |
 
 ---
 
-### For $h(x)=x2h(x) = x^2$ when $-2 \leq x < 1$
+### For $h(x) = x^2$ when $-2 \leq x < 1$
 
 | xx  | $h(x)=x^2\;h(x) = x^2$ | (x,y)(x, y) |
 | --- | ---------------------- | ----------- |
@@ -174,9 +175,7 @@ Here are three separate tables for each piece of the piecewise function:
         \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     }
-| (-4, -1)    |
-| ----------- |
-| (-3, 0)     |
+
     % Text annotations  
     \fill (-4, -1)  circle (2pt) node[above right] {$(1, 1) $};
     \fill[red] (1, 3) circle (2pt) node[above right] {$(1, 3)$};
