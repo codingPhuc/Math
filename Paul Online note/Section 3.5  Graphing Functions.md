@@ -75,12 +75,11 @@ We need to be careful with x =   1 since that will only be valid for the bottom 
 
 
 
-| $x$ | $2x - 1$ | $(x,y)$   |
-| --- | -------- | --------- |
-| -2  | 0        | (-2 ,  0) |
-| -1  | 3        | (-1, 3 )  |
-| 0   | 4        | (0,4)     |
-| 1   | 3        | (1,3)     |
+| $x$ | $2x - 1$ | $(x,y)$ |
+| --- | -------- | ------- |
+| 1   | 1        | (1,1)   |
+| 2   | 3        | (2, 3)  |
+| 3   | 5        | (3,5)   |
 
 
 what does specific interval mean ? 
