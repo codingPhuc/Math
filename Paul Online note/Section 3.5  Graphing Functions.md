@@ -102,7 +102,8 @@ We need to be careful with x =   1 since that will only be valid for the bottom 
 
     % Text annotations  
     \fill (1, 1) circle (2pt) node[above right] {$(1, 1) $};
-    \fill[black] (1, 3) circle  (2pt) node[above right] {$(1, 3)$}; 
+    \fill[red] (1, 3) circle (2pt) node[above right] {$(1, 3)$};
+
 
     % Draw the parabola
     \draw[thick, blue, domain=-2:1, smooth] plot (\x, {-(\x)^2  + 4});
@@ -112,7 +113,7 @@ We need to be careful with x =   1 since that will only be valid for the bottom 
 
 
 ``` 
-
+here we specify with the red circle that the  graph does not reach the  top graph does not reach the x =1 point as oppose  to the botte
 
 what does specific interval mean ? 
 	an interval is a range of number between two point 
