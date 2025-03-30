@@ -10,13 +10,13 @@ f(x) =   (x - 1)^3 + 1
 $$
 in this graph we plug in the value of x to get  the value of y , then draw the graph  : 
 
-| $x$ | $f(x)$ | $(x,y)$ |
-| --- | ------ | ------- |
-| -1  | -7     |         |
-| 0   | 0      |         |
-| 1   | 1      |         |
-| 2   | 2      |         |
-| 3   | 9      |         |
+| $x$ | $f(x)$ | $(x,y)$  |
+| --- | ------ | -------- |
+| -1  | -7     | (-1, -7) |
+| 0   | 0      | (0,0 )   |
+| 1   | 1      | (1,1)    |
+| 2   | 2      | (2,2)    |
+| 3   | 9      | (3,9)    |
 
 
 ```tikz
@@ -40,8 +40,8 @@ in this graph we plug in the value of x to get  the value of y , then draw the g
 
     % Text annotations  
 
-    \fill (3,0) circle (2pt) node[above right] {$(3,0)$};
-
+    \fill (-1, -7) circle (2pt) node[above right] {$(3,0)$};
+	\fill (-1, -7) circle (2pt) node[above right] {$(3,0)$};
     % Draw the parabola
     \draw[thick, blue, domain=-1:2, smooth] plot (\x, {( \x - 1)^3+1});
 \end{tikzpicture}
