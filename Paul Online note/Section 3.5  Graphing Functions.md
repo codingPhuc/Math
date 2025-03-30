@@ -350,11 +350,11 @@ Here are three separate tables for each piece of the piecewise function:
 | 1   | 8             | (1, 8)    |
 | 2   | 6             | (2 , 6)   |
 
-| x   | $h(x)=10- 2x$ | (x,y)   |
-| --- | ------------- | ------- |
-| 2   | 6             | (2, 5)  |
-| 1   | 8             | (1, 8)  |
-| 2   | 6             | (2 , 6) |
+| x   | $h(x)=x^2  +2$ | (x,y)   |
+| --- | -------------- | ------- |
+| 2   | 6              | (2, 6)  |
+| 3   | 11             | (3, 11) |
+
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -381,7 +381,7 @@ Here are three separate tables for each piece of the piecewise function:
     % Draw the parabola 
     
     \draw[thick, blue, domain=-4:-2, smooth] plot (\x,{\x + 3 });
-    \draw[thick, blue, domain=-2:1, smooth] plot (\x,{(\x)^2});
+    \draw[thick, blue, domain=-2:1, smooth] plot (\x,{(\x)^2} + 2 );
     \draw[thick, blue, domain=1:3, smooth] plot (\x,{-\x + 2 });
 
 \end{tikzpicture}
