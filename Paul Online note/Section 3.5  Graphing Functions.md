@@ -60,4 +60,5 @@ There is one function we have seen  ,  that have not been  graphed like the firs
 $$
 \begin{aligned}\bullet\\\\g\left(x\right)=\left\{\begin{array}{ll}-x^{2}+4&\mathrm{if~}x<1\\2x-1&\mathrm{if~}x\geq1\end{array}\right.\end{aligned}
 $$
-okay when  graphing piecewise function  we are graphing serval function at one .
+okay when  graphing piecewise function  we are graphing serval function at one, except when we are going to graph them on specific interval .  
+what does specific interval mean ? 
