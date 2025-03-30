@@ -68,3 +68,5 @@ We need to be careful with x =   1 since that will only be valid for the bottom 
 
 what does specific interval mean ? 
 	an interval is a range of number between two point 
+
+
