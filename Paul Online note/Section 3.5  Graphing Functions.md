@@ -12,12 +12,12 @@ in this graph we plug in the value of x to get  the value of y , then draw the g
 
 | $x$ | $f(x)$ | $(x,y)$ |
 | --- | ------ | ------- |
-| -1  |        |         |
-| 0   |        |         |
-| 1   |        |         |
-| 2   |        |         |
-| 3   |        |         |
-|     |        |         |
+| -1  | -7     |         |
+| 0   | 0      |         |
+| 1   | 1      |         |
+| 2   | 2      |         |
+| 3   | 9      |         |
+
 
 ```tikz
 \usepackage{amsmath,amssymb}
