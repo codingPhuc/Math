@@ -277,7 +277,7 @@ $$
 
     % Text annotations  
 
-    \draw[thick, blue, domain=-1:3, smooth] plot (\x,{(\x)^(\frac{1}{2}) + 1   });
+    \draw[thick, blue, domain=-1:3, smooth] plot (\x,{sqrt(\x + 1) });
 
 
 \end{tikzpicture}
