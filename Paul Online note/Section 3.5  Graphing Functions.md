@@ -107,7 +107,7 @@ We need to be careful with x =   1 since that will only be valid for the bottom 
 	\fill (2,2) circle (2pt) node[above right] {$(2,2)$};
 	\fill (3,9)   circle (2pt) node[above right] {$(3,9) $};
     % Draw the parabola
-    \draw[thick, blue, domain=-1:2, smooth] plot (\x, {( \x - 1)^3+1});
+    \draw[thick, blue, domain=-1:2, smooth] plot (\x, {-\x^2  + 4});
 \end{tikzpicture}
 \end{document}
 
