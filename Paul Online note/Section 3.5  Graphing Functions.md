@@ -101,9 +101,10 @@ We need to be careful with x =   1 since that will only be valid for the bottom 
     }
 
     % Text annotations  
-    \fill (-1, -7) circle (2pt) node[above right] {$(3,0)$};
+    \fill (1, 1) circle (2pt) node[above right] {$(3,0)$};
+    \fill (1, 1) circle (2pt) node[above right] {$(3,0)$};
     % Draw the parabola
-    \draw[thick, blue, domain=-2:1, smooth] plot (\x, {-\x^2  + 4});
+    \draw[thick, blue, domain=-2:1, smooth] plot (\x, {-(\x)^2  + 4});
     \draw[thick, red, domain=1:3, smooth] plot (\x, {2*\x  - 1});
 \end{tikzpicture}
 \end{document}
