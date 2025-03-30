@@ -375,13 +375,13 @@ Here are three separate tables for each piece of the piecewise function:
     }
 
     % Text annotations  
-    \fill[red] (-2 ,  1)  circle (2pt) node[above right] {$(-2 ,  1) $};
+    \fill[red] (2 ,  1)  circle (2pt) node[above right] {$(-2 ,  1) $};
     \fill (-2 ,  4)  circle (2pt) node[above right] {$ (-2 ,  4) $};	
     \fill (1 ,  1)  circle (2pt) node[above right] {$(1 ,  1)$};	
     % Draw the parabola 
     
-    \draw[thick, blue, domain=-4:-2, smooth] plot (\x,{  - 2*\x });
-    \draw[thick, blue, domain=-2:1, smooth] plot (\x,{(\x)^2} + 2 );
+    \draw[thick, blue, domain=0:2, smooth] plot (\x,{10  - 2*\x });
+    \draw[thick, blue, domain=2:3, smooth] plot (\x,{(\x)^2+ 2 } );
 
 \end{tikzpicture}
 \end{document}
