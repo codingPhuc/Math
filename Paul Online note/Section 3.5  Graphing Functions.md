@@ -64,7 +64,7 @@ okay when  graphing piecewise function  we are graphing serval function at one, 
 $$
 \begin{array}{rcl}-x^2+4&\mathrm{~on~}&x<1\\2x-1&\mathrm{~on~}&x\geq1\end{array}
 $$
-We need to be careful with x =   1 since that will only be valid for the bottom function  . However we will deal 
+We need to be careful with x =   1 since that will only be valid for the bottom function  . However we will deal with it when drawing the graph . For now , x =1  will be used in both function 
 
 what does specific interval mean ? 
 	an interval is a range of number between two point 
