@@ -1,1 +1,1 @@
-in this topic we are dealing with combinging 
+in this topic we are dealing with combining function . This mean to perform basic arithmetic (addition , subtraction , )
