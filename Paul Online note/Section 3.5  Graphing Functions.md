@@ -113,9 +113,10 @@ We need to be careful with x =   1 since that will only be valid for the bottom 
 
 
 ``` 
-here we specify with the red circle that the  graph does not reach the  top graph does not reach the x =1 point as oppose  to the botte
+here we specify with the red circle that the  graph does not reach the  top graph does not reach the x =1 point as oppose  to the bottom graph 
 
 what does specific interval mean ? 
 	an interval is a range of number between two point 
 
+##  sketch the graph of the following piecewise function 
 
