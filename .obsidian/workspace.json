@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 3.4  The Definition of a Function.md",
+                "file": "Paul Online note/Section 3.5  Graphing Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 3.4  The Definition of a Function"
+              "title": "Section 3.5  Graphing Functions"
             }
           },
           {
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 3.4  The Definition of a Function.md",
+                "file": "Paul Online note/Section 3.5  Graphing Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 3.4  The Definition of a Function"
+              "title": "Outline of Section 3.5  Graphing Functions"
             }
           }
         ],
@@ -275,17 +275,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e4002f4f480cac98",
   "lastOpenFiles": [
+    "Paul Online note/Solutions and Solution Sets.md",
+    "Paul Online note/Section 3.4  The Definition of a Function.md",
+    "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 2.13  Rational Inequalities.md",
     "Paul Online note/Section 2.12  Polynomial Inequalities.md",
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
     "Paul Online note/Section 3.2  Lines.md",
-    "Paul Online note/Section 3.4  The Definition of a Function.md",
     "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section  3.1   Graphing.md",
     "Paul Online note/Section 3.3  Circles.md",
@@ -302,13 +305,11 @@
     "Pasted image 20250324202801.png",
     "Untitled 1.md",
     "Pasted image 20250324133225.png",
-    "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Radicals.md",
     "Paul Online note/Complex Numbers.md",
     "Pasted image 20250322201946.png",
     "Paul Online note/Rational exponents.md",
     "Paul Online note/Rational  Expression.md",
-    "Paul Online note/Faction.md",
     "Pasted image 20250322172045.png",
     "Pasted image 20250322171957.png",
     "Pasted image 20250322171709.png",
