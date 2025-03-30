@@ -277,7 +277,7 @@ $$
 
     % Text annotations  
 
-    \draw[thick, blue, domain=-2:1, smooth] plot (\x,{(\x)^2 -2 });
+    \draw[thick, blue, domain=-1:3, smooth] plot (\x,{(\x)^(1) + 1   });
 
 
 \end{tikzpicture}
@@ -286,3 +286,5 @@ $$
 
 ``` 
 
+
+sq
