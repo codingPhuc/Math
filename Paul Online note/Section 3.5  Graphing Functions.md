@@ -66,6 +66,14 @@ $$
 $$
 We need to be careful with x =   1 since that will only be valid for the bottom function  . However we will deal with it when drawing the graph . For now , x =1  will be used in both function 
 
+| $x$ | $f(x)$ | $(x,y)$  |
+| --- | ------ | -------- |
+| -2  | 0      | (-2 ,  ) |
+| -1  | 3      | (0,0 )   |
+| 0   | 4      | (1,1)    |
+| 1   | 3      | (2,2)    |
+
+
 what does specific interval mean ? 
 	an interval is a range of number between two point 
 
