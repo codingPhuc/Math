@@ -123,18 +123,33 @@ what does specific interval mean ?
 $$
 \left.h\left(x\right)=\left\{\begin{array}{ll}x+3&\mathrm{if~}x<-2\\x^2&\mathrm{if~}-2\leq x<1\\-x+2&\mathrm{if~}x\geq1\end{array}\right.\right. 
 $$
+Here are three separate tables for each piece of the piecewise function:
 
-| $x$ | $x +  3$ | $(x,y)$   |
-| --- | -------- | --------- |
-| 1   | 4        | (-2 ,  0) |
-| -1  | 3        | (-1, 3 )  |
-| 0   | 4        | (0,4)     |
-| 1   | 3        | (1,3)     |
+### For h(x)=x+3h(x) = x + 3 when x<−2x < -2
 
+|xx|h(x)=x+3h(x) = x + 3|(x,y)(x, y)|
+|---|---|---|
+|-4|-4 + 3 = -1|(-4, -1)|
+|-3|-3 + 3 = 0|(-3, 0)|
 
+---
 
-| $x$ | $2x - 1$ | $(x,y)$ |
-| --- | -------- | ------- |
-| 1   | 1        | (1,1)   |
-| 2   | 3        | (2, 3)  |
-| 3   | 5        | (3,5)   |
+### For h(x)=x2h(x) = x^2 when −2≤x<1-2 \leq x < 1
+
+|xx|h(x)=x2h(x) = x^2|(x,y)(x, y)|
+|---|---|---|
+|-2|(-2)^2 = 4|(-2, 4)|
+|-1|(-1)^2 = 1|(-1, 1)|
+|0|(0)^2 = 0|(0, 0)|
+
+---
+
+### For h(x)=−x+2h(x) = -x + 2 when x≥1x \geq 1
+
+|xx|h(x)=−x+2h(x) = -x + 2|(x,y)(x, y)|
+|---|---|---|
+|1|-1 + 2 = 1|(1, 1)|
+|2|-2 + 2 = 0|(2, 0)|
+|3|-3 + 2 = -1|(3, -1)|
+
+These tables separate the values based on the given function's domain restrictions. Let me know if you need modifications! 🚀
