@@ -8,7 +8,17 @@ f(x) =   (x - 1)^3 + 1
 \end{array}
  
 $$
-in this graph we plug in the value of x to get  the value of y , then draw the gar
+in this graph we plug in the value of x to get  the value of y , then draw the graph  : 
+
+| $x$ | $f(x)$ | $(x,y)$ |
+| --- | ------ | ------- |
+| -1  |        |         |
+| 0   |        |         |
+| 1   |        |         |
+| 2   |        |         |
+| 3   |        |         |
+|     |        |         |
+
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -35,4 +45,7 @@ in this graph we plug in the value of x to get  the value of y , then draw the g
     % Draw the parabola
     \draw[thick, blue, domain=-1:2, smooth] plot (\x, {( \x - 1)^3+1});
 \end{tikzpicture}
-\end{docume
+\end{document}
+
+
+``` 
