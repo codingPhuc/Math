@@ -39,9 +39,11 @@ in this graph we plug in the value of x to get  the value of y , then draw the g
     }
 
     % Text annotations  
-
     \fill (-1, -7) circle (2pt) node[above right] {$(3,0)$};
-	\fill (-1, -7) circle (2pt) node[above right] {$(3,0)$};
+	\fill (0,0 ) circle (2pt) node[above right] {$(0,0 )$}; 
+	\fill (1,1) circle (2pt) node[above right] {$(1,1)$};
+	\fill (2,2) circle (2pt) node[above right] {$(2,2)$};
+	\fill (3,9)   circle (2pt) node[above right] {$(3,9) $};
     % Draw the parabola
     \draw[thick, blue, domain=-1:2, smooth] plot (\x, {( \x - 1)^3+1});
 \end{tikzpicture}
