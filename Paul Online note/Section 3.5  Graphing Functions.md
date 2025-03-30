@@ -444,9 +444,9 @@ Here are separate tables for each piece of the piecewise function:
 	\fill(2 ,  6)  circle (2pt) node[above right] {$(2 ,  6) $};	
     % Draw the parabola 
     
-    \draw[thick, blue, domain=0:2, smooth] plot (\x,{\x  + 5 });
-    \draw[thick, blue, domain=2:3, smooth] plot (\x,{(\x)^2+ 2 } ); 
-    \draw[thick, blue, domain=2:3, smooth] plot (\x,{(\x)^2+ 2 } );
+    \draw[thick, blue, domain=1:3, smooth] plot (\x,{\x  + 5 });
+    \draw[thick, blue, domain=-2:1, smooth] plot (\x,{2 } ); 
+    \draw[thick, blue, domain=-4:-2, smooth] plot (\x,{1  - x^2 } );
 
 \end{tikzpicture}
 \end{document}
