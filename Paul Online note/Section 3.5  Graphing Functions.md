@@ -126,7 +126,7 @@ $$
 $$
 Here are three separate tables for each piece of the piecewise function:
 
-### For $h(x)=x+3h(x) = x + 3$ when $x < -2$
+### For $h(x) = x + 3$ when $x < -2$
 
 | x   | $h(x)=x+3\;h(x) = x + 3$ | (x,y)(x, y |
 | --- | ------------------------ | ---------- |
@@ -146,7 +146,7 @@ Here are three separate tables for each piece of the piecewise function:
 
 ---
 
-### For $h(x)=−x+2h(x) = -x + 2$ when $x≥1$
+### For $h(x) = -x + 2$ when $x≥1$
 
 | xx  | $h(x)=−x+2\;h(x) = -x + 2$ | (x,y)(x, y) |
 | --- | -------------------------- | ----------- |
