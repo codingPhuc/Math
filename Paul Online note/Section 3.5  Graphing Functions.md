@@ -56,4 +56,7 @@ So  graphing function is pretty much the same as graphing equations
 
 There is one function we have seen  ,  that have not been  graphed like the first part of this chapter 
 
-##  sketch the 
+##  sketch the graph of the following piecewise function 
+$$
+\begin{aligned}\bullet\\\\g\left(x\right)=\left\{\begin{array}{ll}-x^{2}+4&\mathrm{if~}x<1\\2x-1&\mathrm{if~}x\geq1\end{array}\right.\end{aligned}
+$$
