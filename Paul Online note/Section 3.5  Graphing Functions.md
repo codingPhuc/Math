@@ -80,6 +80,7 @@ We need to be careful with x =   1 since that will only be valid for the bottom 
 | 1   | 1        | (1,1)   |
 | 2   | 3        | (2, 3)  |
 | 3   | 5        | (3,5)   |
+|     |          |         |
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -134,7 +135,7 @@ Here are three separate tables for each piece of the piecewise function:
 
 ---
 
-### For $h(x)=x2h(x) = x^2$ when $−2≤x<1-2 \leq x < 1$
+### For $h(x)=x2h(x) = x^2$ when $-2 \leq x < 1$
 
 | xx  | $h(x)=x^2\;h(x) = x^2$ | (x,y)(x, y) |
 | --- | ---------------------- | ----------- |
@@ -144,7 +145,7 @@ Here are three separate tables for each piece of the piecewise function:
 
 ---
 
-### For $h(x)=−x+2h(x) = -x + 2$ when $x≥1x \geq 1$
+### For $h(x)=−x+2h(x) = -x + 2$ when $x≥1$
 
 | xx  | $h(x)=−x+2\;h(x) = -x + 2$ | (x,y)(x, y) |
 | --- | -------------------------- | ----------- |
@@ -152,4 +153,40 @@ Here are three separate tables for each piece of the piecewise function:
 | 2   | -2 + 2 = 0                 | (2, 0)      |
 | 3   | -3 + 2 = -1                | (3, -1)     |
 
-These tables separate the values based on the given function's domain restrictions. Let me know if you need modifications! 🚀
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+| (-4, -1)    |
+| ----------- |
+| (-3, 0)     |
+    % Text annotations  
+    \fill (-4, -1)  circle (2pt) node[above right] {$(1, 1) $};
+    \fill[red] (1, 3) circle (2pt) node[above right] {$(1, 3)$};
+
+
+    % Draw the parabola
+    \draw[thick, blue, domain=-2:1, smooth] plot (\x, {-(\x)^2  + 4});
+    \draw[thick, red, domain=1:3, smooth] plot (\x, {2*\x  - 1});
+\end{tikzpicture}
+\end{document}
+
+
+``` 
