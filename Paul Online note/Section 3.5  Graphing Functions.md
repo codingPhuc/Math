@@ -446,7 +446,7 @@ Here are separate tables for each piece of the piecewise function:
     
     \draw[thick, blue, domain=1:3, smooth] plot (\x,{\x  + 5 });
     \draw[thick, blue, domain=-2:1, smooth] plot (\x,{2 } ); 
-    \draw[thick, blue, domain=-4:-2, smooth] plot (\x,{1  - \x^2 } );
+    \draw[thick, blue, domain=-4:-2, smooth] plot (\x,{1  - (\x)^2 } );
 
 \end{tikzpicture}
 \end{document}
