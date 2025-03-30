@@ -51,3 +51,6 @@ in this graph we plug in the value of x to get  the value of y , then draw the g
 
 
 ``` 
+
+So  graphing function is pretty much the same as graphing equations 
+
