@@ -338,21 +338,18 @@ $$
 
 
 $$
-\left.h\left(x\right)=\left\{\begin{array}{ll}x+3&\mathrm{if~}x<-2\\x^2&\mathrm{if~}-2\leq x<1\\-x+2&\mathrm{if~}x\geq1\end{array}\right.\right. 
+.f\left(x\right)=\left\{\begin{aligned}&10-2x&&\mathrm{if}x<2\\&x^{2}+2&&\mathrm{if}x\geq2\end{aligned}\right.
 $$
 Here are three separate tables for each piece of the piecewise function:
 
-### For $h(x) = x + 3$ when $x < -2$
 
-| x   | $h(x)=x+3\;h(x) = x + 3$ | (x,y)(x, y |
-| --- | ------------------------ | ---------- |
-| -4  | -4 + 3 = -1              | (-4, -1)   |
-| -3  | -3 + 3 = 0               | (-3, 0)    |
-| -2  | -2 + 3   = 1             | (-2 ,  1)  |
 
----
+| x   | $h(x)=10- 2x \;h(x) = x + 3$ | (x,y)(x, y |
+| --- | ---------------------------- | ---------- |
+| -4  | -4 + 3 = -1                  | (-4, -1)   |
+| -3  | -3 + 3 = 0                   | (-3, 0)    |
+| -2  | -2 + 3   = 1                 | (-2 ,  1)  |
 
-### For $h(x) = x^2$ when $-2 \leq x < 1$
 
 | xx  | $h(x)=x^2\;h(x) = x^2$ | (x,y)(x, y) |
 | --- | ---------------------- | ----------- |
@@ -361,9 +358,6 @@ Here are three separate tables for each piece of the piecewise function:
 | 0   | $(0)^2 = 0$            | (0, 0)      |
 | 1   | $1^2=0$                | (1, 1 )     |
 
----
-
-### For $h(x) = -x + 2$ when $x≥1$
 
 | xx  | $h(x)=−x+2\;h(x) = -x + 2$ | (x,y)(x, y) |
 | --- | -------------------------- | ----------- |
