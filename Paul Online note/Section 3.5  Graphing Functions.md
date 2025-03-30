@@ -120,3 +120,21 @@ what does specific interval mean ?
 
 ##  sketch the graph of the following piecewise function 
 
+$$
+\left.h\left(x\right)=\left\{\begin{array}{ll}x+3&\mathrm{if~}x<-2\\x^2&\mathrm{if~}-2\leq x<1\\-x+2&\mathrm{if~}x\geq1\end{array}\right.\right. 
+$$
+
+| $x$ | $x +  3$ | $(x,y)$   |
+| --- | -------- | --------- |
+| 1   | 4        | (-2 ,  0) |
+| -1  | 3        | (-1, 3 )  |
+| 0   | 4        | (0,4)     |
+| 1   | 3        | (1,3)     |
+
+
+
+| $x$ | $2x - 1$ | $(x,y)$ |
+| --- | -------- | ------- |
+| 1   | 1        | (1,1)   |
+| 2   | 3        | (2, 3)  |
+| 3   | 5        | (3,5)   |
