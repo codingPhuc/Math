@@ -8,6 +8,7 @@ f(x) =   (x - 1)^3 + 1
 \end{array}
  
 $$
+t
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -28,19 +29,11 @@ $$
     }
 
     % Text annotations  
-    \fill (0,-3) circle (2pt) node[above right] {$(0,-3)$};
-    \fill (-2,5) circle (2pt) node[above left] {$(-2,5)$};
-    \fill (4,5) circle (2pt) node[above right] {$(4,5)$};
 
-    % Add additional points
- %%    \fill (-3,12) circle (2pt) node[above left] {$(-3,12)$}; %%
-    \fill (-1,0) circle (2pt) node[above right] {$(-1,0)$};
-    \fill (1,-4) circle (2pt) node[below right] {$(1,-4)$};
-    \fill (2,-3) circle (2pt) node[below right] {$(2,-3)$};
     \fill (3,0) circle (2pt) node[above right] {$(3,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {( x - 1)^3});
+    \draw[thick, blue, domain=-1:2, smooth] plot (\x, {( \x - 1)^3+1});
 \end{tikzpicture}
 \end{document}
 
