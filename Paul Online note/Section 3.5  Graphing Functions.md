@@ -102,7 +102,7 @@ We need to be careful with x =   1 since that will only be valid for the bottom 
 
     % Text annotations  
     \fill (1, 1) circle (2pt) node[above right] {$(1, 1) $};
-    \fill (1, 3) circle (2pt) node[above right] {$(1, 3)$}; 
+    \fill[black] (1, 3) circle  (2pt) node[above right] {$(1, 3)$}; 
 
     % Draw the parabola
     \draw[thick, blue, domain=-2:1, smooth] plot (\x, {-(\x)^2  + 4});
