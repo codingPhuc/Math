@@ -1,3 +1,3 @@
 
 
-Now we need to discuss  about graphing functions . if we recall from the pervious section we said that $f(x)$ is nothing more than a fancy way of writing y .This mean that we already know how to graph functions . We graph function in exactly the same way we graph equations . If we know ahead of time what the function is a graph of , we can used t to help us graph if we do not know what the function is a graph of 
+Now we need to discuss  about graphing functions . if we recall from the pervious section we said that $f(x)$ is nothing more than a fancy way of writing y .This mean that we already know how to graph functions . We graph function in exactly the same way we graph equations . If we know ahead of time what the function is a graph of , we can used that information to help us graph, if we do not know what the function is a graph of 
