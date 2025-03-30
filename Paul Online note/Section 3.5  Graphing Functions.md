@@ -195,3 +195,51 @@ Here are three separate tables for each piece of the piecewise function:
 
 
 # #Practice_Exercise  
+
+$$
+f(x) =  x^2  - 2 
+$$
+ 
+
+| $x$ | f(x) =  x^2  - 2  | $(x,y)$   |
+| --- | ----------------- | --------- |
+| -2  | 0                 | (-2 ,  0) |
+| -1  | 3                 | (-1, 3 )  |
+| 0   | 4                 | (0,4)     |
+| 1   | 3                 | (1,3)     |
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    \fill[red] (-2 ,  1)  circle (2pt) node[above right] {$(-2 ,  1) $};
+    \fill (-2 ,  4)  circle (2pt) node[above right] {$ (-2 ,  4) $};	
+    \fill (1 ,  1)  circle (2pt) node[above right] {$(1 ,  1)$};	
+    % Draw the parabola 
+    
+    \draw[thick, blue, domain=-4:-2, smooth] plot (\x,{\x + 3 });
+    \draw[thick, blue, domain=-2:1, smooth] plot (\x,{(\x)^2});
+    \draw[thick, blue, domain=1:3, smooth] plot (\x,{-\x + 2 });
+
+\end{tikzpicture}
+\end{document}
+
+
+``` 
+
