@@ -72,5 +72,11 @@ Finally , function  composition  is similar to function evaluation . We simply p
 ##  Give $f(x)  =2+3x  - x^2$ and $g(x) =2x - 1$ evaluate  each  of the following function 
 
 1. (fg)(x)
-2. (f∘g)(x)(f∘g)(x)
+$$
+\begin{array} {l}
+ (fg)(x)  = (2+3x  - x^2)()
+\end{array} 
+$$
+2. (f∘g)(x)
+
 3. (g∘f)(x)
