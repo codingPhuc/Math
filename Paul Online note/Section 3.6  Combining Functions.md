@@ -42,6 +42,6 @@ $$
 $$
 \begin{array}{l}
 (fg)(x)\\
-\frac{2 + 3x - x^2 }{2x  - 1   }  = ()
+\frac{2 + 3x - x^2 }{2x  - 1   }  = \frac{(x+1)(x+ 2)}{}
 \end{array}
 $$
