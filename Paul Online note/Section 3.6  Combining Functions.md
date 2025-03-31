@@ -26,8 +26,8 @@ $$
 2. $g−f$
 $$
 \begin{array}{l}
-(f+g)(4) \\
-2+  3\cdot 4   -4^2   + 2\cdot 4  - 1   = 5 
+(g-f )\\
+2  +  3x   - x^2  - 2x   + 1   = -x^2 + x + 3 
 \end{array}
 $$
 3. $(fg)(x)$
