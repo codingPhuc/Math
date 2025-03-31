@@ -31,6 +31,11 @@ $$
 \end{array}
 $$
 3. $(fg)(x)$
-
+$$
+\begin{array}{l}
+(fg)(x)\\
+(2 + 3x - x^2 )(2x  -  1) = 4x 
+\end{array}
+$$
 4. $\left( \frac{f}{g} \right)(0)$
 5. 
