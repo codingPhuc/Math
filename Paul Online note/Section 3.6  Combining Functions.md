@@ -56,3 +56,10 @@ $$
 \end{array}
 $$
 The **composition  of**  $f(x)$ and   $g(x)$   (again ,  the note the order ) is : 
+$$
+\begin{array}{l}
+(g \circ f) (x) = g [f(x)] \\
+
+\end{array}
+$$
+we need to  note  a couple of thing  about function fussion 
