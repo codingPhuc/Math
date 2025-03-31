@@ -146,7 +146,10 @@ $$
 $$
 \begin{array} {l}
 (f∘h)(4)   = f[h(4)]\\
-= \sqrt{ \sqrt{ 8 + 1 } + 1 } \\
-  = 2
+= x   -  2     \\
+ =  4 - 2 =  2 
 \end{array} 
 $$
+
+##  Given  $f(x)  =  3x   - 2$  and $g(x) =\frac{x}{}$
+
