@@ -11,9 +11,13 @@ notice that if put x in the  parenthesis  we often put the number in as well
 $$
 \begin{array}{l}
 f(x)  = 2 + 3x - x^2    \\
-g(x ) = 2x  - 1  \\
-
+g(x ) = 2x  - 1  
 \end{array}
-
-
 $$
+1. $(f+g)(4)$
+
+2. $g−f$
+
+3. $(fg)(x)$
+
+4. $(fg)(0)$
