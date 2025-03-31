@@ -250,6 +250,7 @@ $$
 \begin{array} {l}  \\
 \frac{4t^2+3t−1}{(2−t^2 ) }  \\
  \frac{4( - 2)^2+3(-2)−1}{(2−(-2)^2 ) }  \\
- \frac{}{(2−(-2)^2 ) }\\
+ \frac{-9}{(2}\\
 \end{array} 
 $$
+Given $f(x)=6x2$ and g(x)=x2+3x−1compute each of the following.
