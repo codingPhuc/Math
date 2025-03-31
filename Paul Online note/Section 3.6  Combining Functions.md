@@ -111,8 +111,8 @@ the idea from the pervious  example are important enough to make again . First  
 1. (f∘h)(x)
 $$
 \begin{array} {l}
-(g∘f)(x)  = g [f(x)] \\
-= 2(2 +  3x -  x^2 )  - 1  \\
+(f∘h)(x) = f[h(x )] \\
+=   \\
  = 4 + 6x -  2x^2   - 1   \\
 = -  2x^2 +  6x   + 3  
 \end{array} 
