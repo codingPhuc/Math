@@ -192,7 +192,7 @@ $$
 2.  (f∘h)(z)
 $$
 \begin{array} {l}
-(f∘h)(z) =f[h(z)] (h∘f)(z) =h[f(z)]    \\
+(h∘f)(z) =h[f(z)]    \\
 7(4-z) +  6   \\
 28  - 7z  +  6  \\
 -7z + 34  
@@ -201,7 +201,7 @@ $$
 3.  (h∘f)(z)
 $$
 \begin{array} {l}
-\\
+(f∘h)(z) =f[h(z)]  \\
 4-  (7z + 6)  \\
 4 -  7z  -  6  \\
 = - 7z - 2 
@@ -217,3 +217,6 @@ $$
 49x +   48 \\
 \end{array} 
 $$
+
+
+ Given $P(t)=4t^2+3t−1$and $A(t)=2−t^2$compute each of the following. 
