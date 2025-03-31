@@ -220,3 +220,40 @@ $$
 
 
  Given $P(t)=4t^2+3t−1$ and $A(t)=2−t^2$compute each of the following. 
+1. (P+A)(t) 
+$$
+\begin{array} {l}
+(P+A)(t)    \\
+   \\
+49x  +  42  +  6  \\
+49x +   48 \\
+\end{array} 
+$$
+
+2.  A−P
+$$
+\begin{array} {l}
+(h∘)h(z) =h[h(z)]  \\
+7(7x + 6) + 6    \\
+49x  +  42  +  6  \\
+49x +   48 \\
+\end{array} 
+$$
+3.  (PA)(t)
+$$
+\begin{array} {l}
+(h∘)h(z) =h[h(z)]  \\
+7(7x + 6) + 6    \\
+49x  +  42  +  6  \\
+49x +   48 \\
+\end{array} 
+$$
+4.  (PA)(−2) 
+$$
+\begin{array} {l}
+(h∘)h(z) =h[h(z)]  \\
+7(7x + 6) + 6    \\
+49x  +  42  +  6  \\
+49x +   48 \\
+\end{array} 
+$$
