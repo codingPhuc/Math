@@ -106,4 +106,7 @@ $$
 \end{array} 
 $$
 
-the idea from the pervious  example are important enough to make again . First  , function composite  is NOT  function multiplication . Second , the order in which we do function composition is important . In  most casss
+the idea from the pervious  example are important enough to make again . First  , function composite  is NOT  function multiplication . Second , the order in which we do function composition is important . In  most cases we will get different answer with diff order . However , there are also cases where we get the same result with diff order 
+## Given $f(x) = x^2 - 3$ and 
+
+
