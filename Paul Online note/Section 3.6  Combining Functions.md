@@ -302,6 +302,6 @@ $$
 \begin{array} {l}
 (A∘R)(t)  =   A[R(x)]\\
 (\sqrt{ t  - 2  }+2)^2 \\
- t - 2   \\
+ t     +  4\sqrt{ t-2 }  +  2  \\
 \end{array} 
 $$
