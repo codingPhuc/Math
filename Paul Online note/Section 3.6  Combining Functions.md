@@ -183,7 +183,7 @@ $(f -  g ) (2)$
 1. (fh)(z)
 $$
 \begin{array} {l}
-(fh)(z)  = f[h(4)]\\
+(fh)(z)  = f[h(z)]\\
 = x   -  2     \\
  =  4 - 2 =  2 
 \end{array} 
