@@ -233,17 +233,13 @@ $$
 $$
 \begin{array} {l}
 (P+A)(t)    \\
-  4t^2 +  3t  - 1   + 2  -  t^2  \\
-3t^2   +  3t + 1 \\
+  4t^2 +  3t  - 1 -  2  +  t^2  \\
+5t^2  + 3t  - 3  
 \end{array} 
 $$
 3.  (PA)(t)
 $$
-\begin{array} {l}
-(h∘)h(z) =h[h(z)]  \\
-7(7x + 6) + 6    \\
-49x  +  42  +  6  \\
-49x +   48 \\
+\begin{array} {l} 
 \end{array} 
 $$
 4.  (PA)(−2) 
