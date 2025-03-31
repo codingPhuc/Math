@@ -180,3 +180,37 @@ so this is our  answer it is possible to get the same solution on both  occasion
 
 Given $f(x)=6x+2$ and $g(x)=10−7x$ compute each of the following 
 $(f -  g ) (2)$  
+1. (fh)(z)
+$$
+\begin{array} {l}
+(fh)(z)  = f[h(4)]\\
+= x   -  2     \\
+ =  4 - 2 =  2 
+\end{array} 
+$$
+
+2.  (f∘h)(z)
+$$
+\begin{array} {l}
+(f∘h)(4)   = f[h(4)]\\
+= x   -  2     \\
+ =  4 - 2 =  2 
+\end{array} 
+$$
+3.  (h∘f)(z)
+$$
+\begin{array} {l}
+(f∘h)(4)   = f[h(4)]\\
+= x   -  2     \\
+ =  4 - 2 =  2 
+\end{array} 
+$$
+4.  (h∘h)(z) 
+
+$$
+\begin{array} {l}
+(f∘h)(4)   = f[h(4)]\\
+= x   -  2     \\
+ =  4 - 2 =  2 
+\end{array} 
+$$
