@@ -206,7 +206,6 @@ $$
  5. $\frac{f}{g}$
 $$
 \begin{array} {l}
-\frac{6x  +  2}{(10 - 7x) }  \\
-= 
+\frac{6x  +  2}{(10 - 7x) }  
 \end{array} 
 $$
