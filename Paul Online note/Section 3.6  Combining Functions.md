@@ -178,8 +178,7 @@ so this is our  answer it is possible to get the same solution on both  occasion
 
 # #Practice_Exercise  
 
-Given $f(x)=6x+2$ and $g(x)=10−7x$ compute each of the following 
-$(f -  g ) (2)$  
+Given  $h(z)=7z+6h$ and $f(z)=4−z$ compute each of the following 
 1. (fh)(z)
 $$
 \begin{array} {l}
