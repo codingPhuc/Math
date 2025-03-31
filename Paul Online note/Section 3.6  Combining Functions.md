@@ -18,13 +18,18 @@ $$
 $$
 \begin{array}{l}
 (f+g)(4) \\
-2+  3\cdot 4   -4^2   
+2+  3\cdot 4   -4^2   + 2\cdot 4  - 1   = 5 
 \end{array}
 $$
 
 
 2. $g−f$
-
+$$
+\begin{array}{l}
+(f+g)(4) \\
+2+  3\cdot 4   -4^2   + 2\cdot 4  - 1   = 5 
+\end{array}
+$$
 3. $(fg)(x)$
 
 4. $\left( \frac{f}{g} \right)(0)$
