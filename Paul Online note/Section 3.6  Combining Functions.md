@@ -180,32 +180,3 @@ so this is our  answer it is possible to get the same solution on both  occasion
 
 Given $f(x)=6x+2$ and $g(x)=10−7x$ compute each of the following 
 $(f -  g ) (2)$  
-
-$$
-\begin{array} {l}
-(f -  g ) (2)      \\
-= 6x   + 2  - 10  + 7x   \\
-= 13x  - 8    \\
-\end{array} 
-$$  2. (g−f)(2)
-$$
-\begin{array} {l}
-(g−f)(2)     \\
-=  10  -  7 x  - 6x  -2  \\
-=  -13x  + 8   \\
-\end{array} 
-$$
- 4. fg
-$$
-\begin{array} {l}
-(6x  +  2)(10 - 7x)  \\
-=  60x  -  42x^2   + 20 - 14x    \\
-=  -  42x^2  + 46x  + 20  
-\end{array} 
-$$
- 5. $\frac{f}{g}$
-$$
-\begin{array} {l}
-\frac{6x  +  2}{(10 - 7x) }  
-\end{array} 
-$$
