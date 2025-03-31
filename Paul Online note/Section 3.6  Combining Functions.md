@@ -151,5 +151,15 @@ $$
 \end{array} 
 $$
 
-##  Given  $f(x)  =  3x   - 2$  and $g(x) =\frac{x}{}$
+##  Given  $f(x)  =  3x   - 2$  and $g(x) =\frac{x}{3} + \frac{2}{3}$ evaluate each of the following 
+
+1. (f∘h)(x)
+$$
+\begin{array} {l}
+(f∘g)(x)    = 
+=  (\sqrt{   x + 1  })^2  -3 \\
+ = x  + 1  - 3  \\
+= x   -  2   
+\end{array} 
+$$
 
