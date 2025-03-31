@@ -45,3 +45,5 @@ $$
 \frac{2 + 3x - x^2 }{2x  - 1   }    = \frac{2 + 3\cdot 0  - 0^2 }{2\cdot 0  - 1   }  =-2 
 \end{array}
 $$
+
+Now we need to discuss the new method of combining function . The new method is called **functio  composition** 
