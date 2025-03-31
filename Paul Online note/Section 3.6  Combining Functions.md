@@ -6,4 +6,14 @@ let start with basic arithmetic of function . give the two function $f(x)$ and  
 
 Sometimes we will drop  (x) part and just write the following 
 
-notice that if put x in the  parenthesis  we often put the number in a
+notice that if put x in the  parenthesis  we often put the number in as well 
+
+$$
+\begin{array}{l}
+f(x)  = 2 + 3x - x^2    \\
+g(x ) = 2x  - 1  \\
+
+\end{array}
+
+
+$$
