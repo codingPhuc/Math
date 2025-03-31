@@ -203,4 +203,10 @@ $$
 =  -  42x^2  + 46x  + 20  
 \end{array} 
 $$
- 5. (fg)
+ 5. $\frac{f}{g}$
+$$
+\begin{array} {l}
+\frac{6x  +  2}{(10 - 7x) }  \\
+= 
+\end{array} 
+$$
