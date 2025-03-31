@@ -239,7 +239,10 @@ $$
 $$
 3.  (PA)(t)
 $$
-\begin{array} {l} 
+\begin{array} {l}  \\
+(4t^2+3t−1)(2−t^2 )  \\
+8t^2+6t−2  -  4t^4 - 3t^3 + t^2   \\
+
 \end{array} 
 $$
 4.  (PA)(−2) 
