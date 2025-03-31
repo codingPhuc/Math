@@ -178,7 +178,7 @@ so this is our  answer it is possible to get the same solution on both  occasion
 
 # #Practice_Exercise  
 
-Given  $h(z)=7z+6h$ and $f(z)=4−z$ compute each of the following 
+Given  $h(z)=7z+6$ and $f(z)=4−z$ compute each of the following 
 1. (fh)(z)
 $$
 \begin{array} {l}
@@ -193,9 +193,9 @@ $$
 $$
 \begin{array} {l}
 (f∘h)(z) =f[h(z)]  \\
-(7z  + 6 ) (4-  z )   \\
-= 14z -  7z^2 +  24 -  6z   \\
- =  -  7z^2 + 22z  + 24 
+7(4-z) +  6   \\
+28  - 7z  +  6  \\
+-7z + 32  
 \end{array} 
 $$
 3.  (h∘f)(z)
