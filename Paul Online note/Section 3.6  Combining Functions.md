@@ -288,4 +288,20 @@ $$
 6(6x^2)^2 \\
 = 216x^4 
 \end{array} 
-$$Given R(t)=√t−2 and A(t)=(t+2)^2, t≥0t≥0 compute each of the following
+$$Given $R(t)=√t−2$ and $A(t)=(t+2)^2$, t≥0t≥0 compute each of the following 
+7. (R∘A)(t)
+$$
+\begin{array} {l}
+(R∘A)(t)  =   R[A(x)]\\
+6(6x^2)^2 \\
+= 216x^4 
+\end{array} 
+$$
+8.  (A∘R)(t) 
+$$
+\begin{array} {l}
+(f∘f)(x)   =   g[f(x)]\\
+6(6x^2)^2 \\
+= 216x^4 
+\end{array} 
+$$
