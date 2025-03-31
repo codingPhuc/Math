@@ -69,4 +69,8 @@ Second,  the order we list the function  is very important , since it can be dif
 
 Finally , function  composition  is similar to function evaluation . We simply put the second function into the first function .  In the definition we used the `[]` instead of the normal `()` to avoid the confusion with different parenthesis , but the evaluation will work the same 
 
-##  Give $f(x)  =2+3x  - x^$
+##  Give $f(x)  =2+3x  - x^2$ and $g(x) =2x - 1$ evaluate  each  of the following function 
+
+1. (fg)(x)
+2. (f∘g)(x)(f∘g)(x)
+3. (g∘f)(x)
