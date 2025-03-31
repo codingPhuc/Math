@@ -34,7 +34,7 @@ $$
 $$
 \begin{array}{l}
 (fg)(x)\\
-(2 + 3x - x^2 )(2x  -  1)   =  4x   +  6x^2 - 2x^3  -  2 -3x+ x^2  - 
+(2 + 3x - x^2 )(2x  -  1)   =  4x   +  6x^2 - 2x^3  -  2 -3x+ x^2  = - 2x^3 + 7x^2 - 2  
 \end{array}
 $$
 4. $\left( \frac{f}{g} \right)(0)$
