@@ -1,3 +1,5 @@
+
+
 in this topic we are dealing with combining function . This mean to perform basic arithmetic (addition , subtraction , and division   ) . There is one new way of combing functions that we will look into 
 
 let start with basic arithmetic of function . give the two function $f(x)$ and  $g(x)$ we have the following notation and operation 
@@ -86,7 +88,16 @@ $$
  = (2+3(2x   -1 )  - (2x - 1)^2)  \\
 = 2   + 6x   - 3  - (4x^2  - 4x   + 1 )  \\
 =  2 + 6x - 3 -  4x^2 + 4x  - 1   \\
-= -4x^2 + 10x 
+= -4x^2 + 10x -2 
 \end{array} 
 $$
-1. (g∘f)(x)
+3. (g∘f)(x) 
+$$
+\begin{array} {l}
+(f∘g)(x) = f[g(x) ] \\
+ = (2+3(2x   -1 )  - (2x - 1)^2)  \\
+= 2   + 6x   - 3  - (4x^2  - 4x   + 1 )  \\
+=  2 + 6x - 3 -  4x^2 + 4x  - 1   \\
+= -4x^2 + 10x -2 
+\end{array} 
+$$
