@@ -62,4 +62,5 @@ $$
 
 \end{array}
 $$
-we need to  note  a couple of thing  about function fussion 
+
+there are a few thing to note about function fusion . First this is **NOT** multiplication . Regales  of what the notation simpl
