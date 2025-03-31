@@ -112,13 +112,20 @@ the idea from the pervious  example are important enough to make again . First  
 $$
 \begin{array} {l}
 (f∘h)(x) = f[h(x )] \\
-=   \\
- = 4 + 6x -  2x^2   - 1   \\
-= -  2x^2 +  6x   + 3  
+=  (\sqrt{   x + 1  })^2  -3 \\
+ = x  + 1  - 3  \\
+= x   -  2   
 \end{array} 
 $$
 2. (h∘f)(x)
-
+$$
+\begin{array} {l}
+(h \circ f )(x) = h[f(x )] \\
+=  (\sqrt{   x + 1  })^2  -3 \\
+ = x  + 1  - 3  \\
+= x   -  2   
+\end{array} 
+$$
 
 3. (f∘f)(x)
 
