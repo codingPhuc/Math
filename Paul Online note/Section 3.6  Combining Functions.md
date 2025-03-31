@@ -50,9 +50,9 @@ Now we need to discuss the new method of combining function . The new method is 
 
 give two function $f(x)$  $g(x)$ we have the following definition 
 $$
-\begin{in a}
+\begin{array}{l}
+(f \circ  g) (x)  = f[g(x)]  \\
 
-\end{in a}
-
-(f \circ  g) (x)  = f[g(x)]
+\end{array}
 $$
+The **composition  of**  $f(x)$ and   $g(x)$   (again ,  the note the order ) is : 
