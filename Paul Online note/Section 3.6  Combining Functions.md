@@ -50,5 +50,5 @@ Now we need to discuss the new method of combining function . The new method is 
 
 give two function $f(x)$  $g(x)$ we have the following definition 
 $$
-
+\circ 
 $$
