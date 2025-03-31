@@ -106,4 +106,4 @@ $$
 \end{array} 
 $$
 
-the idea from the pervious  example are important engo
+the idea from the pervious  example are important enough to make again . First  , function composite  is NOT  function multiplication . Second , the order in which we do function composition is important . In  most casss
