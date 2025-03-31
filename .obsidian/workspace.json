@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 3.5  Graphing Functions.md",
+                "file": "Paul Online note/Section 3.6  Combining Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 3.5  Graphing Functions"
+              "title": "Section 3.6  Combining Functions"
             }
           },
           {
@@ -265,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 3.5  Graphing Functions.md",
+                "file": "Paul Online note/Section 3.6  Combining Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 3.5  Graphing Functions"
+              "title": "Outline of Section 3.6  Combining Functions"
             }
           }
         ],
@@ -296,6 +296,7 @@
   },
   "active": "4d45063765cd633d",
   "lastOpenFiles": [
+    "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 3.6  Combining Functions.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
     "Paul Online note/Rational  Expression.md",
@@ -311,7 +312,6 @@
     "Linear algebra.md",
     "Introduction to algorithm.md",
     "AI math promt.md",
-    "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 3.2  Lines.md",
     "Paul Online note/Section 3.3  Circles.md",
