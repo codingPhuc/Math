@@ -182,10 +182,9 @@ Given  $h(z)=7z+6h$ and $f(z)=4−z$ compute each of the following
 1. (fh)(z)
 $$
 \begin{array} {l}
-(fh)(z)  = f[h(z)] \\
-= 6(10 -  7z) + 2  \\
-= 60 - 42z   + 2   \\
-=  -42z   +  62  
+(fh)(z)  \\
+(7z  + 6 ) (4-  z )   \\
+= 14z -  7z^2 +  24 -  6z  
 \end{array} 
 $$
 
