@@ -156,10 +156,8 @@ $$
 1. (f∘h)(x)
 $$
 \begin{array} {l}
-(f∘g)(x)    = 
-=  (\sqrt{   x + 1  })^2  -3 \\
- = x  + 1  - 3  \\
-= x   -  2   
+(f∘g)(x)    =  f[g(x )] \\
+3x - 2    
 \end{array} 
 $$
 
