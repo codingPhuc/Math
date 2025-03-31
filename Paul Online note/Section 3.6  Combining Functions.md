@@ -293,15 +293,15 @@ $$Given $R(t)=√t−2$ and $A(t)=(t+2)^2$, t≥0t≥0 compute each of the f
 $$
 \begin{array} {l}
 (R∘A)(t)  =   R[A(t)]\\
-6(6x^2)^2 \\
-= 216x^4 
+\sqrt{ (t   + 2)^2   -2  }  \\
+\sqrt{t^2    -2  } 
 \end{array} 
 $$
 8.  (A∘R)(t) 
 $$
 \begin{array} {l}
 (A∘R)(t)  =   A[R(x)]\\
-(\sqrt{ t  - 2  }+2)^2 \\
- t     +  4\sqrt{ t-2 }  +  2  \\
+(\sqrt{ t  } - 2  +2)^2 \\
+t \\
 \end{array} 
 $$
