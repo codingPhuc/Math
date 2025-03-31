@@ -74,9 +74,17 @@ Finally , function  composition  is similar to function evaluation . We simply p
 1. (fg)(x)
 $$
 \begin{array} {l}
- (fg)(x)  = (2+3x  - x^2)()
+ (fg)(x)  = (2+3x  - x^2)(2x - 1)  \\
+ 4x   +  6x^2 - 2x^3  -  2 -3x+ x^2    \\
+- 2x^3 + 7x^2 - 2  
 \end{array} 
 $$
 2. (f∘g)(x)
-
-3. (g∘f)(x)
+$$
+\begin{array} {l}
+ (fg)(x)  = (2+3x  - x^2)(2x - 1)  \\
+ 4x   +  6x^2 - 2x^3  -  2 -3x+ x^2    \\
+- 2x^3 + 7x^2 - 2  
+\end{array} 
+$$
+1. (g∘f)(x)
