@@ -292,7 +292,7 @@ $$Given $R(t)=√t−2$ and $A(t)=(t+2)^2$, t≥0t≥0 compute each of the f
 7. (R∘A)(t)
 $$
 \begin{array} {l}
-(R∘A)(t)  =   R[A(x)]\\
+(R∘A)(t)  =   R[A(t)]\\
 6(6x^2)^2 \\
 = 216x^4 
 \end{array} 
@@ -301,7 +301,6 @@ $$
 $$
 \begin{array} {l}
 (f∘f)(x)   =   g[f(x)]\\
-6(6x^2)^2 \\
-= 216x^4 
+\\
 \end{array} 
 $$
