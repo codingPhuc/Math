@@ -179,4 +179,12 @@ so this is our  answer it is possible to get the same solution on both  occasion
 # #Practice_Exercise  
 
 Given $f(x)=6x+2$ and $g(x)=10−7x$ compute each of the following 
-$(f -  g ) (2)$ 
+$(f -  g ) (2)$  
+
+$$
+\begin{array} {l}
+(f -  g ) (2)     =  g[f(x )]  \\
+\frac{3x   - 2}{3}  + \frac{2}{3}  \\
+x   
+\end{array} 
+$$
