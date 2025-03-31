@@ -63,4 +63,6 @@ $$
 \end{array}
 $$
 
-there are a few thing to note about function fusion . First this is **NOT** multiplication . Regales  of what the notation simpl
+there are a few thing to note about function fusion . First this is **NOT** multiplication . Regales  of what the notation suggest  this is not multiplication 
+
+Second,  the order we list the function  is very important , since it can be different depend on the order we listed them 
