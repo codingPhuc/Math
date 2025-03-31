@@ -50,5 +50,9 @@ Now we need to discuss the new method of combining function . The new method is 
 
 give two function $f(x)$  $g(x)$ we have the following definition 
 $$
-\circ 
+\begin{in a}
+
+\end{in a}
+
+(f \circ  g) (x)  = f[g(x)]
 $$
