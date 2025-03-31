@@ -156,8 +156,20 @@ $$
 1. (f∘h)(x)
 $$
 \begin{array} {l}
-(f∘g)(x)    =  f[g(x )] \\
-3x - 2    
+(f∘g)(x)    =  f[g(x )]  \\
+3\left( \frac{x}{3} +  \frac{2}{3} \right)   - 2    \\
+x  + 2   -  2  =   x     
 \end{array} 
 $$
 
+  
+(g∘f)(x) 
+
+
+$$
+\begin{array} {l}
+(f∘g)(x)    =  f[g(x )]  \\
+3\left( \frac{x}{3} +  \frac{2}{3} \right)   - 2    \\
+x  + 2   -  2  =   x     
+\end{array} 
+$$
