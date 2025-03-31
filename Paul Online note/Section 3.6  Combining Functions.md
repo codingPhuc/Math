@@ -258,8 +258,8 @@ Given $f(x)=6x^2$ and $g(x)=x^2+3x−1$compute each of the following.
 $$
 \begin{array} {l}
 (gf)(x) \\
-(7z  + 6 ) (4-  z )   \\
-= 14z -  7z^2 +  24 -  6z   \\
+6x^2 (x^2    + 3x   -1 )  \\
+= 6x^4  +     \\
  =  -  7z^2 + 22z  + 24 
 \end{array} 
 $$
