@@ -285,7 +285,7 @@ $$
 $$
 \begin{array} {l}
 (f∘f)(x)   =   g[f(x)]\\
-6(6x^2) \\
-= 36x^4  +  18x -  1  
+6(6x^2)^2 \\
+= 216x^4 
 \end{array} 
-$$
+$$Given R(t)=√t−2 and A(t)=(t+2)^2, t≥0t≥0 compute each of the following
