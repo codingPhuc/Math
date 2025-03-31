@@ -15,7 +15,12 @@ g(x ) = 2x  - 1
 \end{array}
 $$
 1. $(f+g)(4)$
-
+$$
+\begin{array}{l}
+(f+g)(4) \\
+2+  3\cdot 4   -4^2   
+\end{array}
+$$
 
 
 2. $g−f$
