@@ -219,4 +219,4 @@ $$
 $$
 
 
- Given $P(t)=4t^2+3t−1$and $A(t)=2−t^2$compute each of the following. 
+ Given $P(t)=4t^2+3t−1$ and $A(t)=2−t^2$compute each of the following. 
