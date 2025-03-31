@@ -196,5 +196,10 @@ $$
 \end{array} 
 $$
  4. fg
-
+$$
+\begin{array} {l}
+(6x  +  2)(10 - 7x)  \\
+=  60x  -  42
+\end{array} 
+$$
  5. (fg)
