@@ -253,4 +253,32 @@ $$
  \frac{-9}{(2}\\
 \end{array} 
 $$
-Given $f(x)=6x2$ and g(x)=x2+3x−1compute each of the following.
+Given $f(x)=6x^2$ and $g(x)=x^2+3x−1$compute each of the following. 
+3. (gf)(x)
+$$
+\begin{array} {l}
+(gf)(x) \\
+(7z  + 6 ) (4-  z )   \\
+= 14z -  7z^2 +  24 -  6z   \\
+ =  -  7z^2 + 22z  + 24 
+\end{array} 
+$$
+4.  (f∘g)(x
+$$
+\begin{array} {l}
+(fh)(z)  \\
+(7z  + 6 ) (4-  z )   \\
+= 14z -  7z^2 +  24 -  6z   \\
+ =  -  7z^2 + 22z  + 24 
+\end{array} 
+$$
+5.  (g∘f)(x)
+$$
+\begin{array} {l}
+(fh)(z)  \\
+(7z  + 6 ) (4-  z )   \\
+= 14z -  7z^2 +  24 -  6z   \\
+ =  -  7z^2 + 22z  + 24 
+\end{array} 
+$$
+6.  (f∘f)(x)
