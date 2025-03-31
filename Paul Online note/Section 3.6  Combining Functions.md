@@ -67,4 +67,6 @@ there are a few thing to note about function fusion . First this is **NOT** mult
 
 Second,  the order we list the function  is very important , since it can be different depend on the order we listed them 
 
-Finally , function  composition  is similar to function evaluation . We simply put the second function into the first function .  In the definition we used the `[]` instead of the normal ()
+Finally , function  composition  is similar to function evaluation . We simply put the second function into the first function .  In the definition we used the `[]` instead of the normal `()` to avoid the confusion with different parenthesis , but the evaluation will work the same 
+
+##  Give $f(x)  =2+3x  - x^$
