@@ -107,6 +107,22 @@ $$
 $$
 
 the idea from the pervious  example are important enough to make again . First  , function composite  is NOT  function multiplication . Second , the order in which we do function composition is important . In  most cases we will get different answer with diff order . However , there are also cases where we get the same result with diff order 
-## Given $f(x) = x^2 - 3$ and 
+## Given $f(x) = x^2 - 3$ and $h(x) =\sqrt{ x+1 }$ evaluate each of the following 
+1. (f∘h)(x)
+$$
+\begin{array} {l}
+(g∘f)(x)  = g [f(x)] \\
+= 2(2 +  3x -  x^2 )  - 1  \\
+ = 4 + 6x -  2x^2   - 1   \\
+= -  2x^2 +  6x   + 3  
+\end{array} 
+$$
+2. (h∘f)(x)
 
 
+3. (f∘f)(x)
+
+
+4. (h∘h)(8)
+
+5. (f∘h)(4)
