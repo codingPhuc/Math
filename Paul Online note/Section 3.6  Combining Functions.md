@@ -46,4 +46,6 @@ $$
 \end{array}
 $$
 
-Now we need to discuss the new method of combining function . The new method is called **functio  composition** 
+Now we need to discuss the new method of combining function . The new method is called **function composition** here is the definition 
+
+give two function $f(x)$  $g(x)$ we have the following definition 
