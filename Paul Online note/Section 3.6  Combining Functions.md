@@ -139,7 +139,14 @@ $$
 \begin{array} {l}
 (h∘h)(8)  = h [h(8)]\\
 = \sqrt{ \sqrt{ 8 + 1 } + 1 } \\
-  =  4 
+  = 2
 \end{array} 
 $$
-5. (f∘h)(4)
+5. (f∘h)(4) 
+$$
+\begin{array} {l}
+(f∘h)(4)   = f[h(4)]\\
+= \sqrt{ \sqrt{ 8 + 1 } + 1 } \\
+  = 2
+\end{array} 
+$$
