@@ -293,8 +293,9 @@ $$Given $R(t)=√t−2$ and $A(t)=(t+2)^2$, t≥0t≥0 compute each of the f
 $$
 \begin{array} {l}
 (R∘A)(t)  =   R[A(t)]\\
-\sqrt{ (t   + 2)^2   -2  }  \\
-\sqrt{t^2    -2  } 
+\sqrt{ (t   + 2)^2  }  -2   \\
+t +2  -2   \\
+t 
 \end{array} 
 $$
 8.  (A∘R)(t) 
