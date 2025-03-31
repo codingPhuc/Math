@@ -248,7 +248,7 @@ $$
 2.  $\left( \frac{P}{A} \right)(−2)$ 
 $$
 \begin{array} {l}  \\
-\frac{4t^2+3t−1}{(2−t^2 ) } \\
- 110 
+\frac{4t^2+3t−1}{(2−t^2 ) }  \\
+ \frac{4t^2+3t−1}{(2−t^2 ) } \\
 \end{array} 
 $$
