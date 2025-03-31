@@ -121,14 +121,17 @@ $$
 $$
 \begin{array} {l}
 (h \circ f )(x) = h[f(x )] \\
-=  (\sqrt{   x + 1  })^2  -3 \\
- = x  + 1  - 3  \\
-= x   -  2   
+=  \sqrt{   x^2  - 3 }\\ 
 \end{array} 
 $$
 
 3. (f∘f)(x)
-
+$$
+\begin{array} {l}
+(f∘f)(x) = h[f(x )] \\
+=  \sqrt{   x^2  - 3 }\\ 
+\end{array} 
+$$
 
 4. (h∘h)(8)
 
