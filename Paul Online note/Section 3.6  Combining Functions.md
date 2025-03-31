@@ -168,8 +168,9 @@ $$
 
 $$
 \begin{array} {l}
-(f∘g)(x)    =  f[g(x )]  \\
-3\left( \frac{x}{3} +  \frac{2}{3} \right)   - 2    \\
-x  + 2   -  2  =   x     
+(g∘f)(x)      =  g[f(x )]  \\
+\frac{3x   - 2}{3}  + \frac{2}{3}  \\
+x   
 \end{array} 
 $$
+so this
