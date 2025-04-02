@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 3.6  Combining Functions.md",
+                "file": "Paul Online note/Section 3.7  Inverse Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 3.6  Combining Functions"
+              "title": "Section 3.7  Inverse Functions"
             }
           },
           {
@@ -265,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 3.6  Combining Functions.md",
+                "file": "Paul Online note/Section 3.7  Inverse Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 3.6  Combining Functions"
+              "title": "Outline of Section 3.7  Inverse Functions"
             }
           }
         ],
@@ -290,13 +290,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "4d45063765cd633d",
   "lastOpenFiles": [
-    "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 3.6  Combining Functions.md",
+    "Paul Online note/Section 3.7  Inverse Functions.md",
+    "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
     "Paul Online note/Rational  Expression.md",
     "Paul Online note/Section 2.7 Quadratic Equations  A Summary.md",
@@ -320,7 +322,6 @@
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
     "Paul Online note/Section  3.1   Graphing.md",
-    "Untitled 2.md",
     "Pasted image 20250324202801.png",
     "Pasted image 20250324133225.png",
     "Pasted image 20250322201946.png",
