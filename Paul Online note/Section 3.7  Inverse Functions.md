@@ -57,8 +57,11 @@ $$
 then we can say that $f(x)$ and $g(x)$ are inverse of each other  . More specifically we will say that g(x ) is the inverse of f(x) and denote it by $$
 g(x)  = f^{-1}(x) 
 $$
-likewise , we could say that f(x) is the inverse of g()
-
+likewise , we could say that f(x) is the inverse of g(x) and denote it by 
+$$
+f(x) = g^{-1}(x)
+$$
+The notation that we use really depend on the  problem . In  most cases either is accp
  
 
 
