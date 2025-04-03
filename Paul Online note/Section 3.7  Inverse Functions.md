@@ -80,4 +80,5 @@ given $f(x)$ we want to find the inverse of $f^{-1}(x)$
 1. first replace the value $f(x)$ with y . This is to make the rest of the process easier 
 2. replace every x with y and every y with x 
 3. Solve the equation from step 2 for y . This is the step where mistake are often made 
-4. Replace 
+4. Replace y with $f^{-1}(x)$ . In other word, manage to find the inverse at this point 
+5. verify this by checking that $(f\circf)$
