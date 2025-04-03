@@ -120,7 +120,9 @@ $$
 $$
 \begin{array}{ l}
 y  = \frac{x+ 4} {2x   - 5}   \\
-y =   
+x   = \frac{y+ 4} {2y   - 5}   \\
+y + 4 =  (2y - 5) x   \\
+y +  4   = 2x
 \end{array}
 $$
 
