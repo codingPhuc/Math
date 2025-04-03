@@ -94,5 +94,6 @@ $$
 g(x) \sqrt{ x  -3  } \text{ find } g^{-1}(x) , x \geq 0  
 $$
 $$
-h(x)  = 
+h(x)  = \frac{x+ 4} {2x   - 5}   \text{ find } h^{-1}(x)
 $$
+
