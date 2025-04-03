@@ -144,5 +144,11 @@ $$
 f(x) = (x  - 2)^3 + 1 \text{ find } f^{-1}(x)
 $$
 $$
-A(x) = \sqrt{  }
+A(x) = \sqrt[5]{2x + 11  } \text{ find } A^{-1}(x)
+$$
+$$
+f(x) = \frac{4x}{5-x} \text{ find } f^{-1}(x)
+$$
+$$
+
 $$
