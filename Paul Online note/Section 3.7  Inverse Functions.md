@@ -51,7 +51,10 @@ Showing that a function is one to one is a tedious and difficult process . For t
 
 
 ##  Inverse function 
-Given  two one-to-one function $f(x) \text{and }$
+Given  two one-to-one function $f(x) \text{ and } g(x)$ if  $$
+(f \circ g)(x ) = x  \text{ And } (g\circ f)(x)  = x 
+$$
+then we can say that f(x )
 
 
 
