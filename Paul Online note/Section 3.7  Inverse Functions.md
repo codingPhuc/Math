@@ -41,4 +41,4 @@ $$
 Note as well that both agree with the formula of the pervious section  [[Section 3.6  Combining Functions]]. We get back out of the function the number we previously  plug  into the equation 
 
 So what is going on ? In some way the function cancel out each other , when we plug the value of -1 into f(x) and then plug the resulting value back into  g  for some reason g undid what f have done and gave us the pervious value 
-Function pairs that do this  are called **inverse function** . 
+Function pairs that do this  are called **inverse function** . Before defining 
