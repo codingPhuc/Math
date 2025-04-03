@@ -90,7 +90,14 @@ In the verification step there is a real need to check $(f\circ f^{-1})(x)  =x$ 
 $$
 f(x)   = 3x  - 2 \text{ find } f^{-1}(x)  
 $$
-
+$$
+\begin{array}{l}
+f(x)   = 3x  - 2   \\
+y =   3x  -  2  \\
+x  =  3y   -2   \\
+x = 
+\end{array}
+$$
 
 
 $$
