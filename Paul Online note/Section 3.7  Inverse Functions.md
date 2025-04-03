@@ -83,3 +83,4 @@ given $f(x)$ we want to find the inverse of $f^{-1}(x)$
 4. Replace y with $f^{-1}(x)$ . In other word, manage to find the inverse at this point 
 5. verify this by checking that $(f\circ f^{-1})(x)  =x$ and $(f^{-1}\circ f)(x) =x$ are both true 
 
+In 
