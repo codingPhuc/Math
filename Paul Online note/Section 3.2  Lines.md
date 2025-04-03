@@ -146,7 +146,7 @@ Here's the formatted text:
 
 ### Finding the Slope of the Line
 
-First, let's determine the slope mm of the line using the two points: (−2,4)(-2, 4) and (3,−5)(3, -5).
+First, let's determine the slope mm of the line using the two points: (−2,4)and (3,−5)
 
 $$m=−5−43−(−2)=−95m = \frac{-5 - 4}{3 - (-2)} = \frac{-9}{5}$$
 
