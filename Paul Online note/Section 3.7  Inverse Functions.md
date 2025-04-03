@@ -207,7 +207,9 @@ y =  \frac{1+ 2x}{7+ x}  \\
 x  =\frac{1+ 2y}{7+ y}   \\
 x(7+ y) = 1 + 2y     \\
 7x  + xy  = 1 + 2y       \\
-  2y    - xy   =     \\
-f^{-1}(x) =  \frac{5x}{4+ x }
+  2y    - xy   =   7x  - 1  \\
+y (2 - x ) =  7x  - 1  \\
+y  =   \frac{7x  - 1}{2-x }\\  \\
+h^{-1}(x)   =  \frac{7x  - 1}{2-x }
 \end{array}
 $$
