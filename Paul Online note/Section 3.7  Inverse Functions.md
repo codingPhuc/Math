@@ -36,5 +36,5 @@ $$
 $$
 and the second cases is really  
 $$
-(g\circ g) (2)   = f [g(2)]  = f\left[ \frac{4}{3} \right]  = 2  
+(f\circ g) (2)   = f [g(2)]  = f\left[ \frac{4}{3} \right]  = 2  
 $$
