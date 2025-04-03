@@ -30,4 +30,11 @@ $$
 in the first cases we plugged in $x = -1$ into $f(x)$ and got a value of -5. We need to turn around and plugged x =  -5 into $g(x)$  and got a  value of  -1 , the number we started off with 
 In the second case we did something similar . Here we plugged in the value of 2 and got $\frac{4}{3 }$ , we turn around and plug the resulting value into g which give us 2 
 
-Noted however that we are really doing some function compos
+Noted however that we are really doing some function composition here 
+$$
+(g\circ f) (-1 ) =  g[f(-1)]  = g[-5]  = -1 
+$$
+and the second cases is really  
+$$
+(g\circ g) ( )
+$$
