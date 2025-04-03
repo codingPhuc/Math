@@ -175,7 +175,12 @@ $$
 A(x) = \sqrt[5]{2x + 11  } \text{ find } A^{-1}(x)
 $$
 $$
-A_{9}
+\begin{array}{l} \\
+y =  \sqrt[5]{ 2x + 11 } \\ 
+x =   \sqrt[5]{ 2y + 11 }  \\
+x^
+\end{array}
+
 $$
 $$
 f(x) = \frac{4x}{5-x} \text{ find } f^{-1}(x)
