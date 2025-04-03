@@ -140,9 +140,9 @@ $$
 $$
 \begin{array}{l}
 y = 5 - 9x  \\
-x = 5  - y   \\
-y  = 5- x   \\
-h^{-1} (x)   = 5 - x  
+x = 5  - 9y   \\
+y  = \frac{5- x}{9}   \\
+h^{-1} (x)   = \frac{5 - x }{9} 
 \end{array}
 $$
 
