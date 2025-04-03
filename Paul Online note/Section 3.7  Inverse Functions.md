@@ -7,4 +7,7 @@ reference:
 Current date: "2025-04-02"
 ---
 In the last example in the pervious section we look at two function , $f(x) =3x -  2$ and $g(x) =\frac{x}{3}+ \frac{2}{3}$ 
-D
+$$
+\left(f\circ g\right)\left(x\right)=\left(g\circ f\right)\left(x\right)=x
+$$
+these are very special function  . Let see what make them so special . 
