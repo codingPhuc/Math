@@ -49,5 +49,9 @@ Now , let see an example of function that is not one to one . The function $f(x)
 
 Showing that a function is one to one is a tedious and difficult process . For the most part function we are going to be dealing with are one to one 
 
+
 ##  Inverse function 
+Given  two one-to-one function $f(x) \text{and }$
+
+
 
