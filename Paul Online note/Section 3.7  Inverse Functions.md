@@ -45,4 +45,4 @@ Function pairs that do this  are called **inverse function** . Before defining i
 
 A function is called  **one to one** if no two value of x give the same y .  this is fairly simple definition of **one-to-one**  but it take an example of a function that is not one to one to show just what it mean . Before going further , we should note that this definition of one to one is not the  mathematical equivalent of one to one . Not  Because , operation are not the same, but due to    not used the mathematical notation for explanation 
 
-Now , let see a
+Now , let see an example of function that is not one to one . The function $f(x) =  x^2$  is not  one - to -one because of both$f(-2) =4$ and $f( 2)= 4$ 
