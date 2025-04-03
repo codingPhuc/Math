@@ -193,10 +193,21 @@ y =  \frac{4x}{5 - x } \\
 x  =  \frac{4y}{5-y}  \\
 x(5 - y )  = 4y  \\
 5x  - xy  = 4y    \\
-5x  =   y(4 + x)
+5x  =   y(4 + x)  \\
+f^{-1}(x) =  \frac{5x}{4+ x }
 \end{array}
 $$
 $$
 h(x) = \frac{1+ 2x}{7+ x} \text{ find } h^{-1}(x)
 $$
 
+$$
+\begin{array}{l}  \\
+y =  \frac{1+ 2x}{7+ x}  \\
+x  =  \\
+x(5 - y )  = 4y  \\
+5x  - xy  = 4y    \\
+5x  =   y(4 + x)  \\
+f^{-1}(x) =  \frac{5x}{4+ x }
+\end{array}
+$$
