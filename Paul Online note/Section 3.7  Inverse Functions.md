@@ -110,11 +110,18 @@ g(x) =  \sqrt{  x - 3  }  \\
 y  = \sqrt{ x - 3  }  \\
 x = \sqrt{ y  - 3 }  \\
 x^2  =  y  - 3   \\
-y  =  x^2
+y  =  x^2  + 3   \\
+ g^{-1}(x)  = x^2  + 3  
 \end{array}
 $$
 $$
 h(x)  = \frac{x+ 4} {2x   - 5}   \text{ find } h^{-1}(x)
+$$
+$$
+\begin{array}{ l}
+y  = \frac{x+ 4} {2x   - 5}   \\
+y =   
+\end{array}
 $$
 
 there is an interesting relation between the graph  of  a function and it inverse 
