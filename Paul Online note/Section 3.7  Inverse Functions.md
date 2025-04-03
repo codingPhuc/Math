@@ -204,7 +204,7 @@ $$
 $$
 \begin{array}{l}  \\
 y =  \frac{1+ 2x}{7+ x}  \\
-x  =  \\
+x  =\frac{1+ 2y}{7+ y}   \\
 x(5 - y )  = 4y  \\
 5x  - xy  = 4y    \\
 5x  =   y(4 + x)  \\
