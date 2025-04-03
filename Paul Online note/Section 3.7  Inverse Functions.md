@@ -90,3 +90,9 @@ In the verification step there is a real need to check $(f\circ f^{-1})(x)  =x$ 
 $$
 f(x)   = 3x  - 2 \text{ find } f^{-1}(x)  
 $$
+$$
+g(x) \sqrt{ x  -3  } \text{ find } g^{-1}(x) , x \geq 0  
+$$
+$$
+h(x)  = 
+$$
