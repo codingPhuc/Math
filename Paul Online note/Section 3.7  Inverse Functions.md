@@ -138,5 +138,11 @@ $$
 h(x )   = 5- 9x \text{ find } h^{-1}(x )
 $$
 $$
-g(x)  =  \frac{1}{2}
+g(x)  =  \frac{1}{2}x + 7 \text{ find } g^{-1}(x)
+$$
+$$
+f(x) = (x  - 2)^3 + 1 \text{ find } f^{-1}(x)
+$$
+$$
+A(x) = \sqrt{  }
 $$
