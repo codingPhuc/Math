@@ -76,3 +76,5 @@ $$
 f^{-1}(x)  = \frac{1}{f(x)}
 $$
 ## Finding the inverse of a functions 
+given $f(x)$ we want to find the inverse of $f^{-1}(x)$  
+1. first replace the value $f(x)$
