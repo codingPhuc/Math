@@ -98,3 +98,4 @@ h(x)  = \frac{x+ 4} {2x   - 5}   \text{ find } h^{-1}(x)
 $$
 
 there is an interesting relation between the graph  of  a function and it inverse 
+![[Pasted image 20250402182343.png]]
