@@ -124,9 +124,17 @@ x   = \frac{y+ 4} {2y   - 5}   \\
 y + 4 =  (2y - 5) x   \\
 y +  4   = 2yx  - 5x  \\
 y (1 -2x  )  = -5x  - 4  \\
-y  =  \frac{-5x  - 4}{1 -2x }
+y  =  \frac{-5x  - 4}{1 -2x } = \frac{4+5x }{2x  -1 }
 \end{array}
 $$
 
 there is an interesting relation between the graph  of  a function and it inverse 
 ![[Pasted image 20250402182343.png]]
+
+
+# #Practice_Exercise  
+
+
+$$
+ 
+$$
