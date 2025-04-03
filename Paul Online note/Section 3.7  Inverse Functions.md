@@ -68,8 +68,10 @@ f(x)   =  3x   -2  \quad f^{-1} (x)  =  \frac{x}{3} + \frac{2}{3}
 $$
 
 $$
-g(x)  =  \frac{x}{3} + \frac{2}{3}  \quad g^{-1} 
+g(x)  =  \frac{x}{3} + \frac{2}{3}  \quad g^{-1}(x)  = 3x - 2 
 $$
+
+we need to remember the -1  is not a inverse exponent [[Integer Exponents]] 
  
 
 
