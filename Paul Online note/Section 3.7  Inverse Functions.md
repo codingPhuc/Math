@@ -164,7 +164,10 @@ f(x) = (x  - 2)^3 + 1 \text{ find } f^{-1}(x)
 $$
 $$
 \begin{array}{l}
-
+y = (x  - 2)^3 + 1   \\
+x =  (y  - 2)^3 +  1  \\
+(y - 2)^3 =  x - 1  \\
+y - 2  = \sqrt{  } 
 \end{array}
 $$
 $$
