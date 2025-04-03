@@ -128,7 +128,7 @@ we can use   this set of examples  to see the general  fact about the line . Fir
 if the slope is  a negative number than the line will increase  from  left  to right . If the slope is a  positive number then the line will decrease  from  left to right 
 we now  look  at special  form of the equation   .  A  horizontal line with a y-intercept of b will have the equation,   $$
    y  =  b 
-$$Likewise, a vertical line with an xx-intercept of aa will have the equation,  
+$$Likewise, a vertical line with an x-intercept of a will have the equation,  
 
 $$
   x  =  a 
