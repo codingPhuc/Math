@@ -138,6 +138,13 @@ $$
 h(x )   = 5- 9x \text{ find } h^{-1}(x )
 $$
 $$
+\begin{array}{l}
+y = 5 - 9x  \\
+x = 5  - y   \\
+y  = 
+\end{array}
+$$
+$$
 g(x)  =  \frac{1}{2}x + 7 \text{ find } g^{-1}(x)
 $$
 $$
@@ -150,5 +157,6 @@ $$
 f(x) = \frac{4x}{5-x} \text{ find } f^{-1}(x)
 $$
 $$
-
+h(x) = \frac{1+ 2x}{7+ x} \text{ find } h^{-1}(x)
 $$
+
