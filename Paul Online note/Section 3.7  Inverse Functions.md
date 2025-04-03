@@ -12,6 +12,10 @@ $$
 $$
 these are very special function  . Let see what make them so special . Consider the following evaluations   
 
+
 $$
-()
+\begin{array}
+
+\end{array}
+f(-1) = 3(-1) -2  = -5  
 $$
