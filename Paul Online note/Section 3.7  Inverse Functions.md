@@ -43,4 +43,6 @@ Note as well that both agree with the formula of the pervious section  [[Section
 So what is going on ? In some way the function cancel out each other , when we plug the value of -1 into f(x) and then plug the resulting value back into  g  for some reason g undid what f have done and gave us the pervious value 
 Function pairs that do this  are called **inverse function** . Before defining inverse function and it notation . We need to first look at the definitions  that come with it 
 
-A function is called  **one to one** if no two value of x give the same y .  this is fairly simple definition of **one-to-one**  but it take an example of a function that is not one to one to show just what it mean . Before going further , we should note that this definition of one to one is not the  mathematical equivalent of one to one . Because , it does not used the mathematical notation for explanation the operation are still the 
+A function is called  **one to one** if no two value of x give the same y .  this is fairly simple definition of **one-to-one**  but it take an example of a function that is not one to one to show just what it mean . Before going further , we should note that this definition of one to one is not the  mathematical equivalent of one to one . Not  Because , operation are not the same, but due to    not used the mathematical notation for explanation the 
+
+
