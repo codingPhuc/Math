@@ -55,7 +55,10 @@ Given  two one-to-one function $f(x) \text{ and } g(x)$ if  $$
 (f \circ g)(x ) = x  \text{ And } (g\circ f)(x)  = x 
 $$
 then we can say that $f(x)$ and $g(x)$ are inverse of each other  . More specifically we will say that g(x ) is the inverse of f(x) and denote it by $$
+g(x)  = f^{-1}(x) 
 $$
+likewise , we could say that f(x) is the inverse of g()
+
  
 
 
