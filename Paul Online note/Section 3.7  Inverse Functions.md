@@ -14,8 +14,14 @@ these are very special function  . Let see what make them so special . Consider 
 
 
 $$
-\begin{array}
-
+\begin{array}{l}
+f(-1) = 3(-1) -2  =  -5    \\
+g(-5) = -\frac{5}{3} +  \frac{2}{3 }  = -\frac{3}{3}  =  -1 
 \end{array}
-f(-1) = 3(-1) -2  = -5  
+
+$$
+$$
+\begin{array}{l}
+ g(2) = \frac{2}{3} + \frac{2}{3}  = \frac{4}{3 }
+\end{array}
 $$
