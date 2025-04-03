@@ -1,1 +1,1 @@
-
+We're not going to be doing any graphing in this section . Teh
