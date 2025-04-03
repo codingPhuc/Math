@@ -189,7 +189,11 @@ f(x) = \frac{4x}{5-x} \text{ find } f^{-1}(x)
 $$
 $$
 \begin{array}{l}  \\
-y =  4x
+y =  \frac{4x}{5 - x } \\
+x  =  \frac{4y}{5-y}  \\
+x(5 - y )  = 4y  \\
+5x  - xy  = 4y    \\
+5x  =   y(4 + x)
 \end{array}
 $$
 $$
