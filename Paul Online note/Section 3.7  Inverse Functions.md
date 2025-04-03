@@ -134,7 +134,9 @@ there is an interesting relation between the graph  of  a function and it invers
 
 # #Practice_Exercise  
 
-
 $$
- 
+h(x )   = 5- 9x \text{ find } h^{-1}(x )
+$$
+$$
+g(x)  =  \frac{1}{2}
 $$
