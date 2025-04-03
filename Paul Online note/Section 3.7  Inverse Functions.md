@@ -105,6 +105,15 @@ $$
 g(x) \sqrt{ x  -3  } \text{ find } g^{-1}(x) , x \geq 0  
 $$
 $$
+\begin{array}{l}
+g(x) =  \sqrt{  x - 3  }  \\
+y  = \sqrt{ x - 3  }  \\
+x = \sqrt{ y  - 3 }  \\
+x^2  =  y  - 3   \\
+y  =  x^2
+\end{array}
+$$
+$$
 h(x)  = \frac{x+ 4} {2x   - 5}   \text{ find } h^{-1}(x)
 $$
 
