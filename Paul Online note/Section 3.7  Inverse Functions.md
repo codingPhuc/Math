@@ -22,6 +22,8 @@ g(-5) = -\frac{5}{3} +  \frac{2}{3 }  = -\frac{3}{3}  =  -1
 $$
 $$
 \begin{array}{l}
- g(2) = \frac{2}{3} + \frac{2}{3}  = \frac{4}{3 }
+ g(2) = \frac{2}{3} + \frac{2}{3}  = \frac{4}{3 }\\
+f\left( \frac{4}{3} \right) = 3\left( \frac{4}{3} \right) - 2 =  4 - 2  = 2  \\
 \end{array}
+
 $$
