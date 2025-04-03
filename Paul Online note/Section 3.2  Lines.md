@@ -10,9 +10,9 @@ let start the section  off with  a  quick  mathematical definition of  a line  .
 $$Ax +  By   =  C $$ 
 is  a  line    ,  as long as   A  and  B  are  not  simultaneously   0 .  It is  okay if one of them  is  0  , we  just can't have  both as  0   . Note that this is sometime call the **standard form** of the line 
 
-a  line  is define  by  two  point that are on the line .  As  a result , in order to get the equation and graph the line we ne   . This fact will be used in serval  point  in the equation 
+a  line  is define  by  two  point that are on the line .  As  a result , in order to get the equation and graph the line we need to create two point on the line   . This fact will be used in serval  point  in the equation 
 
-a **slope** in the line is the level of  steepness of  lines  and can be used too  measure  whether  a line is increasing  or decreasing as we move from  left to right  . Here are the definition of    a slop of a  line 
+a line **slope**  is the level of  steepness that the  line have  and can be used too  measure  whether  a line is increasing  or decreasing as we move from  left to right  . Here are the definition of    a slop of a  line 
 
 given  2  points  $(x_{1}  ,  y_{1}) \cap  (x_{2} ,  y_{2})$ the slope of the  given line is 
 $$
