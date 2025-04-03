@@ -152,11 +152,20 @@ $$
 $$
 \begin{array}{l}  \\
 y =  \frac{1}{2}x + 7  \\
-x =  \frac{1}{2} y  + 7
+x =  \frac{1}{2} y  + 7  \\
+ \frac{1}{2 }  y =  x -  7   \\
+y = 2x  - 14    \\
+g^{-1}(x) =  2x  - 14  
 \end{array}
 $$
+
 $$
 f(x) = (x  - 2)^3 + 1 \text{ find } f^{-1}(x)
+$$
+$$
+\begin{array}{l}
+
+\end{array}
 $$
 $$
 A(x) = \sqrt[5]{2x + 11  } \text{ find } A^{-1}(x)
