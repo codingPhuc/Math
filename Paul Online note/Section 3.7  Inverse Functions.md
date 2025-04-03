@@ -10,7 +10,7 @@ In the last example in the pervious section we look at two function , $f(x) =3x 
 $$
 \left(f\circ g\right)\left(x\right)=\left(g\circ f\right)\left(x\right)=x
 $$
-these are very special function  . Let see what make them so special . Consider the following equation 
+these are very special function  . Let see what make them so special . Consider the following evaluations   
 
 $$
 ()
