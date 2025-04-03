@@ -39,3 +39,5 @@ $$
 (f\circ g) (2)   = f [g(2)]  = f\left[ \frac{4}{3} \right]  = 2  
 $$
 Note as well that both agree with the formula of the pervious section  [[Section 3.6  Combining Functions]]. We get back out of the function the number we previously  plug  into the equation 
+
+So what is going on ? In some way the function cancel out each other , when we plug the value of -1 into f(x) and then plug the resulting value 
