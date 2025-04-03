@@ -77,4 +77,6 @@ f^{-1}(x)  = \frac{1}{f(x)}
 $$
 ## Finding the inverse of a functions 
 given $f(x)$ we want to find the inverse of $f^{-1}(x)$  
-1. first replace the value $f(x)$
+1. first replace the value $f(x)$ with y . This is to make the rest of the process easier 
+2. replace every x with y and every y with x 
+3. 
