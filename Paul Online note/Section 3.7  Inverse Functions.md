@@ -61,7 +61,8 @@ likewise , we could say that f(x) is the inverse of g(x) and denote it by
 $$
 f(x) = g^{-1}(x)
 $$
-The notation that we use really depend on the  problem . In  most cases either is accp
+The notation that we use really depend on the  problem . In  most cases either is   acceptable 
+
  
 
 
