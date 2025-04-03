@@ -64,10 +64,11 @@ $$
 The notation that we use really depend on the  problem . In  most cases either is   acceptable 
 For the function we start this section with we could write two of the following set of notation  
 $$
-f(x)   =  3x   -2  \quad 
-$$
+f(x)   =  3x   -2  \quad f^{-1} (x)  =  \frac{x}{3} + \frac{2}{3}
 $$
 
+$$
+g(x)  =  \frac{x}{3} + \frac{2}{3}  \quad g^{-1} 
 $$
  
 
