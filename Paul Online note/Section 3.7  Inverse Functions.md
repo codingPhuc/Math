@@ -178,12 +178,19 @@ $$
 \begin{array}{l} \\
 y =  \sqrt[5]{ 2x + 11 } \\ 
 x =   \sqrt[5]{ 2y + 11 }  \\
-x^
+x^5 =  2y  + 11  \\
+y    =  \frac{x^5 - 11}{ 2 }  \\
+ A^{-1}(x)  = \frac{x^5 - 11}{ 2 }  
 \end{array}
 
 $$
 $$
 f(x) = \frac{4x}{5-x} \text{ find } f^{-1}(x)
+$$
+$$
+\begin{array}{l}  \\
+y =  4x
+\end{array}
 $$
 $$
 h(x) = \frac{1+ 2x}{7+ x} \text{ find } h^{-1}(x)
