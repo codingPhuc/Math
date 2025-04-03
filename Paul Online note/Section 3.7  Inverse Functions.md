@@ -141,11 +141,19 @@ $$
 \begin{array}{l}
 y = 5 - 9x  \\
 x = 5  - y   \\
-y  = 
+y  = 5- x   \\
+h^{-1} (x)   = 5 - x  
 \end{array}
 $$
+
 $$
 g(x)  =  \frac{1}{2}x + 7 \text{ find } g^{-1}(x)
+$$
+$$
+\begin{array}{l}  \\
+y =  \frac{1}{2}x + 7  \\
+x =  \frac{1}{2} y  + 7
+\end{array}
 $$
 $$
 f(x) = (x  - 2)^3 + 1 \text{ find } f^{-1}(x)
