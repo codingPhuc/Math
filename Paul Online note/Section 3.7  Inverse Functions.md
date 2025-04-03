@@ -27,3 +27,4 @@ f\left( \frac{4}{3} \right) = 3\left( \frac{4}{3} \right) - 2 =  4 - 2  = 2  \\
 \end{array}
 
 $$
+in the first cases we plugged in $x = -1$ into $f(x)$ and got a value of -5. We need to turn around and plugge
