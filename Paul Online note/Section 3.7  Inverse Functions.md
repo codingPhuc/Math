@@ -81,4 +81,5 @@ given $f(x)$ we want to find the inverse of $f^{-1}(x)$
 2. replace every x with y and every y with x 
 3. Solve the equation from step 2 for y . This is the step where mistake are often made 
 4. Replace y with $f^{-1}(x)$ . In other word, manage to find the inverse at this point 
-5. verify this by checking that $(f\circf)$
+5. verify this by checking that $(f\circ f^{-1})(x)  =x$ and $(f^{-1}\circ f)(x) =x$ are both true 
+
