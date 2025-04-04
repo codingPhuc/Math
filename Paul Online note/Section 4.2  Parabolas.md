@@ -39,9 +39,9 @@ $$
 the vertex of the equation above is $(-3, -8)$ 
 2. Finding the y intercept $(0,f(0))$  
 $$
-\begin{array }
-
-\end{array }
+\begin{array}{l} 
+2(x +  3)^2 - 8
+\end{array}
 $$
 
 ```tikz
