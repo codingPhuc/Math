@@ -296,3 +296,4 @@ now this is not the equation  of the circle since the right side is $r^2$ meanin
     - $(y - 3)^2$→ Center’s y-coordinate is 3
 
 
+# #todo_do 
