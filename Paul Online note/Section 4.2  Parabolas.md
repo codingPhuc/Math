@@ -1,1 +1,5 @@
-In this section we want to look at the graph of a quandrat
+In this section we want to look at the graph of a quadratic function . The most general form of the quadratic function is 
+$$
+f(x)   = ax^2   + bx + c
+$$
+the graph of the  function are called 
