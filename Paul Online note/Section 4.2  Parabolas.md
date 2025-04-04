@@ -44,7 +44,13 @@ f(0)  = 2(0 +  3)^2 - 8 \\
 f(0)  = 10 
 \end{array}
 $$
-
+3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
+$$
+\begin{array}{l} 
+f(0)  = 2(0 +  3)^2 - 8 \\
+f(0)  = 10 
+\end{array}
+$$
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
