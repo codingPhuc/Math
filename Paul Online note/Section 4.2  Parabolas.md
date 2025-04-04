@@ -87,8 +87,8 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:1, smooth] plot (\x, {-(\x)^2  + 4});
-    \draw[thick, red, domain=1:3, smooth] plot (\x, {2*\x  - 1});
+    \draw[thick, blue, domain=-5:-1, smooth] plot (\x, {2*(\x +  3)^2 - 8  });
+ 
 \end{tikzpicture}
 \end{document}
 
