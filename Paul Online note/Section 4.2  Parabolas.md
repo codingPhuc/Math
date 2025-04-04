@@ -4,4 +4,4 @@ f(x)   = ax^2   + bx + c
 $$
 the graph of the  function are called **parabolas** . here are some example of parabolas 
 ![[Pasted image 20250403173519.png]]
-all parabolas are vaguely "U" shaped and they will have a highest and lowest point  called the vertex 
+all parabolas are vaguely "U" shaped and they will have a highest and lowest point  called the vertex .  
