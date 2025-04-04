@@ -46,6 +46,8 @@ We will start off with a    Rectangular or Cartesian coordinate system  .   This
 
 
 ```
+
+
 the horizontal  and vertical   horizontal and vertical  axes ,  typically called   x-axis and  y axis  ,  divide the  coordinate system  up into  quadrant   as shown  above  . 
 
 -  Quadrant I   x >  0    ,  or  x  positive  y   >  0  or  y positive  
@@ -129,6 +131,8 @@ x   =0     y  =   -3  ,  x   =  -2  y   = 5  ,  x   =  4   y   = 5
 ``` 
 
 
+
+ 
  in this  axis system  ,  we  only   need to  go as much  as needed   .  since  we  did  not  go  pass  2 with  the plug  in  computation  resulting in  us  not passing 2  for  the graph  we are drawing 
 
 For a smoother graph we increment each  point by  1  on x and 2   on  y  axis  . 
@@ -137,6 +141,9 @@ Additionally  ,  you can  see in the  graph that the point is cross on 3  line  
 Now  since the  x  intercept cross x-axis  then the y coordinate of the  x-intercept is   0   . Similarly , if the  y-intercept  cross the  x-axis then the x coordinate of the  y-intercepts  is  0  
 
 ##  Determine the x-intercepts and y-intercepts for each of the following equations.  
+
+
+
 $$
  y  = x^2  + x  - 6
 $$
@@ -306,6 +313,8 @@ $$
 
 
 # #Practice_Exercise   
+ #todo 
+
 ##  construct a table of at least 4 ordered pairs of points on the graph of the equation and use the ordered pairs from the table to sketch the graph of the equation
 $$
 
