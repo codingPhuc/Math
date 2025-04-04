@@ -14,3 +14,5 @@ the dash line in a parabolas is called the axis of symmetry . Every parabolas ha
 intercepts are the point where the graph will cross the x and y axis . We also saw a graph in [[Section 3.1 Graphing#Determine the x-intercepts and y-intercepts for each of the following equations.]] where a graph touch the intercept but does not cross it   
 ##  sketching Parabolas  
 
+1. Find the vertex .There are simple method to finding this which we will discuss latter 
+2. Finding the y 
