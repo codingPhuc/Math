@@ -787,4 +787,11 @@ y  = - \frac{14}{3}x   -  \frac{92}{3}  \\
 
 
 ##  #todo_do  
-- [ ] prove that the  ![[Pasted image 20250403171426.png]]
+- [ ] prove the equation bellow 
+$$ 
+\begin{array}{l}
+\text{ parallel  :  }  m_{1}  =  m_{2} \\
+\text{ perpendicular:  }   m_{1}m_{2} = -\frac{1}{m_{1}}
+\end{array}
+
+$$
