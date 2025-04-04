@@ -47,8 +47,9 @@ $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
 $$
 \begin{array}{l} 
-f(0)  = 2(0 +  3)^2 - 8 \\
-f(0)  = 10 
+ 2(x +  3)^2 - 8  =0  \\
+2(x^2   + 6x + 9 ) - 8  = 0   \\
+2x^2  -  12X + 18
 \end{array}
 $$
 ```tikz
