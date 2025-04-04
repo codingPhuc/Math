@@ -21,5 +21,5 @@ intercepts are the point where the graph will cross the x and y axis . We also s
 5. Sketch the graph 
 Now there are two form of the parabola that we will be looking at. The first form method is easy , while the second form require more work to sketch 
 $$
-f(x)  = a(x  -  h
+f(x)  = a(x  -  h)^2 + k  
 $$
