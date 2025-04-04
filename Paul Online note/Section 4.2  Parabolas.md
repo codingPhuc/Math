@@ -2,4 +2,5 @@ In this section we want to look at the graph of a quadratic function . The most 
 $$
 f(x)   = ax^2   + bx + c
 $$
-the graph of the  function are called parabolas  . Her
+the graph of the  function are called **parabolas** . here are some example of parabolas 
+![[Pasted image 20250403173519.png]]
