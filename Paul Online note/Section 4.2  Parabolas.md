@@ -5,4 +5,4 @@ $$
 the graph of the  function are called **parabolas** . here are some example of parabolas 
 ![[Pasted image 20250403173519.png]]
 all parabolas are vaguely "U" shaped and they will have a highest and lowest point  called the vertex .  Parabolas may open  up or down and may or may not have a x-intercept but they will almost have a single y-intercept 
-parabola that open dow
+parabola that open down will always open down and parabola that open up will always open up . 
