@@ -19,3 +19,4 @@ intercepts are the point where the graph will cross the x and y axis . We also s
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept 
 4. Make sure you got one point in each side of the vertex . Firstly , if the parabola have two x-intercepts we already got these point by solving the quadratic equation . Secondly , if it have only one x-intercepts then we plug in another value of x .  Finally , if there are no x-intercepts then we need to used the y-intercepts and the axis of symmetry to get the second point 
 5. Sketch the graph 
+Now there are two form of the parabola that we will be looking at, 
