@@ -51,8 +51,11 @@ $$
 2(x^2   + 6x + 9 ) - 8  = 0   \\
 2x^2  -  12x + 10 = 0  \\
 x^2   - 6x  +  5   =0    \\
-\left \\
-\frac{\right}{ }
+\left\{  \\
+\begin{array}{l}
+
+\end{array}
+\right.
 \end{array}
 $$
 ```tikz
