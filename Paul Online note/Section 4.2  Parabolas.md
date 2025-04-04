@@ -1,0 +1,1 @@
+In this section we want to look at the graph of a quandrat

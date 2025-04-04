@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 3.3  Circles.md",
+                "file": "Paul Online note/Section 4.2  Parabolas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 3.3  Circles"
+              "title": "Section 4.2  Parabolas"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 3.3  Circles.md",
+                "file": "Paul Online note/Section 4.2  Parabolas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 3.3  Circles"
+              "title": "Outline of Section 4.2  Parabolas"
             }
           }
         ],
@@ -211,9 +211,10 @@
   },
   "active": "dbae192c9568f6f3",
   "lastOpenFiles": [
+    "Paul Online note/Section 3.3  Circles.md",
+    "Paul Online note/Section 4.2  Parabolas.md",
     "Paul Online note/Section 3.2  Lines.md",
     "Todo Task.md",
-    "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 3.6  Combining Functions.md",
     "Paul Online note/Section 4.1  Lines, Circles and Piecewise Functions.md",
     "Pasted image 20250403171426.png",
@@ -239,7 +240,6 @@
     "README.md",
     "python with math.md",
     "Linear algebra.md",
-    "Introduction to algorithm.md",
     "Pasted image 20250324202801.png",
     "Pasted image 20250324133225.png",
     "Pasted image 20250322201946.png",
