@@ -669,4 +669,3 @@ $$so the  y intercept  of the equation is :
 $$
 (0 ,1)
 $$ 
-

@@ -784,9 +784,8 @@ y =  2   -  \frac{14}{3}(x  + 7)  \\
 y  = - \frac{14}{3}x   -  \frac{92}{3}  \\
 \end{array}
    $$
+# #todo 
 
-
-#  #todo  
 - [ ] prove the equation bellow 
 $$ 
 \begin{array}{l}
