@@ -787,4 +787,4 @@ y  = - \frac{14}{3}x   -  \frac{92}{3}  \\
 
 
 ## Todo line 
-- [ ] prove that the 
+- [ ] prove that the  ![[Pasted image 20250403171426.png]]
