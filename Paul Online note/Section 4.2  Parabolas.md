@@ -29,6 +29,7 @@ there are two pieces of information about the parabola that we can get form this
 
 $$
 \begin{array}{l}  \\
+f(x) =  2(x +  3)^2 - 8   \\
 
 \end{array}
 $$
