@@ -27,6 +27,7 @@ there are two pieces of information about the parabola that we can get form this
 
 ##  sketch the graph of the following parabolas 
 
+
 $$
 \begin{array}{l}  \\
 f(x) =  2(x +  3)^2 - 8   \\
@@ -34,7 +35,8 @@ f(x) =  2(x +  3)^2 - 8   \\
 \end{array}
 $$
 
-
+1. Find the vertex .There are simple method to finding this which we will discuss latter  
+the vertex of the equation above is $()$
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
