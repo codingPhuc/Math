@@ -160,45 +160,15 @@ Plug the point into the point-slope form:
 
 $$y =  4  - \frac{9}{5} (x - (-2)) = 4 - \frac{9}{5}(x + 2)$$
 
-Simplify:
-
-$$y=4−95(x+2)y = 4 - \frac{9}{5}(x + 2)$$
-
-Distribute the slope:
-
-$$y=4−95x−185y = 4 - \frac{9}{5}x - \frac{18}{5}$$
-
-Convert 44 to have a denominator of 5:
-
-$$y=205−95x−185y = \frac{20}{5} - \frac{9}{5}x - \frac{18}{5}$$
-
-Combine the constants:
-
-$$y=−95x+25y = -\frac{9}{5}x + \frac{2}{5}$$
 
 ---
 
-#### Using the Point (3,−5)(3, -5)
+#### Using the Point (3,−5)
 
 Plug the point into the point-slope form:
 
-$$y−(−5)=−95(x−3)y - (-5) = \frac{-9}{5}(x - 3)$$
+$$y−(−5) = \frac{-9}{5}(x - 3)$$
 
-Simplify:
-
-$$y=−5−95(x−3)y = -5 - \frac{9}{5}(x - 3)$$
-
-Distribute the slope:
-
-$$y=−5−95x+275y = -5 - \frac{9}{5}x + \frac{27}{5}$$
-
-Convert −5-5 to have a denominator of 5:
-
-$$y=−255−95x+275y = \frac{-25}{5} - \frac{9}{5}x + \frac{27}{5}$$
-
-Combine the constants:
-
-$$y=−95x+25y = -\frac{9}{5}x + \frac{2}{5}$$
 
 ---
 
