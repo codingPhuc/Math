@@ -158,7 +158,7 @@ We can use **either point** to write the equation of the line. Let's demonstrate
 
 Plug the point into the point-slope form:
 
-$$y−4=−95(x−(−2))y - 4 = \frac{-9}{5}(x - (-2))$$
+$$y =  4  - \frac{9}{5} (x - (-2)) = 4 - \frac{9}{5}(x + 2)$$
 
 Simplify:
 
