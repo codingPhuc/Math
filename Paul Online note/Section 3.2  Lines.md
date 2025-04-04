@@ -786,7 +786,7 @@ y  = - \frac{14}{3}x   -  \frac{92}{3}  \\
    $$
 
 
-#  #todo_do  
+#  #todo  
 - [ ] prove the equation bellow 
 $$ 
 \begin{array}{l}
