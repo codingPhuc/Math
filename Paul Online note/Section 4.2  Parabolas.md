@@ -16,4 +16,5 @@ intercepts are the point where the graph will cross the x and y axis . We also s
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter 
 2. Finding the y intercept $(0,f(0))$ 
-3. solve the $f(x)= 0$ intercept if they exits , there are mu
+3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept 
+4. Make sure you got one point in each side of the vertex .
