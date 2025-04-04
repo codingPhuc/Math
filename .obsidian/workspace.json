@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 4.2  Parabolas.md",
+                "file": "Paul Online note/Section 3.3  Circles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 4.2  Parabolas"
+              "title": "Section 3.3  Circles"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Group_Theory",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 4.2  Parabolas.md",
+                "file": "Paul Online note/Section 3.3  Circles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.2  Parabolas"
+              "title": "Outline of Section 3.3  Circles"
             }
           }
         ],
@@ -210,19 +210,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "30b50d563073904f",
   "lastOpenFiles": [
+    "Todo Task.md",
+    "Paul Online note/Section 3.3  Circles.md",
+    "Paul Online note/Section 4.1  Lines, Circles and Piecewise Functions.md",
+    "Paul Online note/Section 3.7  Inverse Functions.md",
+    "Paul Online note/Section 4.2  Parabolas.md",
     "Paul Online note/Section 3.2  Lines.md",
     "Paul Online note/Section 3.1 Graphing.md",
-    "Paul Online note/Section 4.2  Parabolas.md",
     "Pasted image 20250403173519.png",
-    "Paul Online note/Section 3.3  Circles.md",
-    "Todo Task.md",
     "Paul Online note/Section 3.6  Combining Functions.md",
-    "Paul Online note/Section 4.1  Lines, Circles and Piecewise Functions.md",
     "Pasted image 20250403171426.png",
     "Pasted image 20250403171423.png",
-    "Paul Online note/Section 3.7  Inverse Functions.md",
     "Paul Online note/Section 2.3 Applications of Linear Equations.md",
     "Paul Online note/Section 2.7 Quadratic Equations  A Summary.md",
     "Paul Online note/Section 2.11  Linear Inequalities.md",
