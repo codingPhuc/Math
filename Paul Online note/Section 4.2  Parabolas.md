@@ -12,5 +12,5 @@ parabola that open down will always open down and parabola that open up will alw
 the dash line in a parabolas is called the axis of symmetry . Every parabolas have a axis of symmetry , additionally the graph in one side of the axis of symmetry is a mirror to another 
 
 intercepts are the point where the graph will cross the x and y axis . We also saw a graph in [[Section 3.1 Graphing#Determine the x-intercepts and y-intercepts for each of the following equations.]] where a graph touch the intercept but does not cross it   
-
+##  sketching Parabolas  
 
