@@ -23,4 +23,12 @@ Now there are two form of the parabola that we will be looking at. The first for
 $$
 f(x)  = a(x  -  h)^2 + k  
 $$
-there are two pieces of information about the parabola that we can get form this function . If a is positive then the parabola will open up and if a is negative then the parabola will open down .Secondly , the vertex of the parabola is the point (h, k) 
+there are two pieces of information about the parabola that we can get form this function . If a is positive then the parabola will open up and if a is negative then the parabola will open down .Secondly , the vertex of the parabola is the point (h, k) . Be careful with sign when getting the vertex 
+
+##  sketch the graph of the following parabolas 
+
+$$
+\begin{array}{l}  \\
+
+\end{array}
+$$
