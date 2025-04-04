@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 4.2  Parabolas.md",
+                "file": "Paul Online note/Section 3.5  Graphing Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.2  Parabolas"
+              "title": "Outline of Section 3.5  Graphing Functions"
             }
           }
         ],
@@ -210,8 +210,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "30b50d563073904f",
   "lastOpenFiles": [
+    "Paul Online note/Section 4.2  Parabolas.md",
+    "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 3.6  Combining Functions.md",
     "Paul Online note/Section 3.7  Inverse Functions.md",
@@ -219,9 +221,7 @@
     "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 3.2  Lines.md",
     "Todo Task.md",
-    "Paul Online note/Section 4.2  Parabolas.md",
     "Paul Online note/Section 4.1  Lines, Circles and Piecewise Functions.md",
-    "Paul Online note/Section 3.1 Graphing.md",
     "Pasted image 20250403173519.png",
     "Pasted image 20250403171426.png",
     "Pasted image 20250403171423.png",
