@@ -282,6 +282,7 @@ $$
 $$
 
 
+
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -311,9 +312,8 @@ $$
 
 ``` 
 
-
 # #Practice_Exercise   
- #todo 
+
 
 ##  construct a table of at least 4 ordered pairs of points on the graph of the equation and use the ordered pairs from the table to sketch the graph of the equation
 $$
