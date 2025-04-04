@@ -176,7 +176,7 @@ $$y−(−5) = \frac{-9}{5}(x - 3)$$
 
 Both forms of the equation simplify to the same line equation:
 
-$$y=−95x+25y = -\frac{9}{5}x + \frac{2}{5}$$
+$$y= -\frac{9}{5}x + \frac{2}{5}$$
 
 Thus, it **doesn't matter which point** you use—both result in the same equation. ✅
 
