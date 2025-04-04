@@ -23,3 +23,4 @@ Now there are two form of the parabola that we will be looking at. The first for
 $$
 f(x)  = a(x  -  h)^2 + k  
 $$
+there are two pieces of information about the parabola that we can get form this function . 
