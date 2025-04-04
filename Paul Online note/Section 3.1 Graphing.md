@@ -144,6 +144,8 @@ Now  since the  x  intercept cross x-axis  then the y coordinate of the  x-inter
 
 
 
+
+
 $$
  y  = x^2  + x  - 6
 $$
@@ -180,9 +182,7 @@ $$
 $$
 
 
-
-
-
+point  of break ? #todo 
 
 $$
   y    = x^2   + 2 
