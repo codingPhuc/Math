@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#Practice_Exercise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
