@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Practice_Exercise",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,10 +228,10 @@
   "lastOpenFiles": [
     "Paul Online note/Section 4.2  Parabolas.md",
     "Paul Online note/Section 3.2  Lines.md",
+    "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
     "Paul Online note/Section 3.5  Graphing Functions.md",
-    "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 3.6  Combining Functions.md",
     "Paul Online note/Section 3.7  Inverse Functions.md",
     "Paul Online note/Section 3.4  The Definition of a Function.md",

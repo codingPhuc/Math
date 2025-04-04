@@ -1,4 +1,9 @@
+
+
 # #definition  
+
+
+
 
 We will start off with a    Rectangular or Cartesian coordinate system  .   This is the standard system  we used to sketch our graph  
 
