@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 4.2  Parabolas.md",
+                "file": "Todo Task.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.2  Parabolas"
+              "title": "Outline of Todo Task"
             }
           }
         ],
@@ -211,10 +211,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2355cabcc82546b0",
+  "active": "5d5451db8b9cef6c",
   "lastOpenFiles": [
-    "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 4.2  Parabolas.md",
+    "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 4.1  Lines, Circles and Piecewise Functions.md",
     "Paul Online note/Section 3.7  Inverse Functions.md",
     "Paul Online note/Section 3.2  Lines.md",
