@@ -49,8 +49,7 @@
               "title": "Todo Task"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 3.2  Lines.md",
+                "file": "Paul Online note/Section 3.3  Circles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 3.2  Lines"
+              "title": "Outline of Section 3.3  Circles"
             }
           }
         ],
@@ -210,10 +209,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "dbae192c9568f6f3",
   "lastOpenFiles": [
-    "Todo Task.md",
     "Paul Online note/Section 3.2  Lines.md",
+    "Todo Task.md",
     "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 3.6  Combining Functions.md",
     "Paul Online note/Section 4.1  Lines, Circles and Piecewise Functions.md",
