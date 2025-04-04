@@ -54,7 +54,7 @@ x^2   - 6x  +  5   =0    \\
 (x   - 5)( x   - 1 ) \\
 \left\{  \\
 \begin{array}{l}
-(x - )
+\times
 \end{array}
 \right.
 \end{array}
