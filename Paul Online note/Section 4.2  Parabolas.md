@@ -159,12 +159,11 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
     }
 
     % Text annotations  
-    \fill (-5, 0) circle (2pt) node[above right] {$(-5, 0) $};
-    \fill[red] (-1, 0) circle (2pt) node[above right] {$(-1, 0)$};
+    \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-6:0, smooth] plot (\x, { -(\x -2)^2 - 1});
+    \draw[thick, blue, domain=0:4, smooth] plot (\x, { -(\x -2)^2 - 1});
  
 \end{tikzpicture}
 \end{document}
