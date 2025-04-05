@@ -178,16 +178,16 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 $$
 \begin{array}{l}  \\
-h(x)   = x^2   +   \\
+h(x)   = x^2   + 4   \\
 \end{array}
 $$
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter  
-the vertex of the equation above is $(2, -1)$ 
+the vertex of the equation above is $(0, 4)$ 
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
-g(0) = -(0 -2)^2 - 1\\
+g(0) =  0^2   + 4  \\
 g(0)  = -5
 \end{array}
 $$
