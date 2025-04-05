@@ -478,9 +478,8 @@ $$
 f(x)=−x^2+10x−1  \\
 f(x)=-\left(x^2-10x+1 \right)  \\
 f(x)=-\left(x^2-10x + 25 - 25 +1 \right)    \\
-f(x)=  \\
-f(x)=  \\
- f(x)=
+f(x)= -\left((x- 5)^2  - 24 \right)  \\
+f(x)=  -(x- 5)^2  +  24\\
 \end{array}
 $$
 # #todo
