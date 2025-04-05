@@ -222,11 +222,11 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
     }
 
     % Text annotations  
-    \fill (0,-5) circle (2pt) node[above right] {$(0,-5) $};
+    \fill (0,4) circle (2pt) node[above right] {$(0,4) $};
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:4, smooth] plot (\x, { -(\x -2)^2 - 1});
+    \draw[thick, blue, domain=0:4, smooth] plot (\x, {  \x^2   + 4  });
  
 \end{tikzpicture}
 \end{document}
