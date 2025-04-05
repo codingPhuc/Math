@@ -466,7 +466,8 @@ $$
 f(x)=2x^2−12x+3   \\
 f(x)=2\left( x^2  -  6x  +  \frac{3}{2} \right)  \\
 f(x)=2\left( x^2  -  6x  + 9  \frac{3}{2} -  9  \right)   \\
-f(x)=2\left( x^2  -  6x  + 9  \frac{3}{2}  -  9  \right) 
+f(x)=2\left((x -3)^2 +  \frac{3}{2}  -  9  \right)  \\
+f(x)=2\left((x -3)^2 -15  \right) 
 \end{array}
 $$
 # #todo
