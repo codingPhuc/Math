@@ -127,17 +127,17 @@ $$
 x - 2  = -i  \\
  x-  2 =  i  
 \end{array} \\ \\
-
+\implies 
 \left\{  \\
 \begin{array}{l}
-x - 2  = -i  \\
- x-  2 =  i  
+x   = -i  +  2 \\
+ x =  i   + 2
 \end{array}
 \right.
 \right.
 \end{array}
 $$
-
+this  indicate that there is no x intercept  
 Make sure that you’ve got at least one point to either side of the vertex. This is to make sure we get a somewhat accurate sketch. If the parabola has two xx-intercepts then we’ll already have these points. If it has 0 or 1 xx-intercept we can either just plug in another xx value or use the yy-intercept and the axis of symmetry to get the second point.
 ```tikz
 \usepackage{amsmath,amssymb}

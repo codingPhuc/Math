@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,10 +219,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbae192c9568f6f3",
+  "active": "30b50d563073904f",
   "lastOpenFiles": [
     "Paul Online note/Section 4.1  Lines, Circles and Piecewise Functions.md",
     "Paul Online note/Section 3.7  Inverse Functions.md",
