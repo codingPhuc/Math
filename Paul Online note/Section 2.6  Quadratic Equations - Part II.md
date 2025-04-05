@@ -15,7 +15,7 @@ $$ax^2+bx+c=0\; a≠0$$
 ## Completing the Square 
 The process  call completing the Square  ,  like it suggest need to  completed  the square inorder to solve the equation  .  So  let first  define what completing the square is   
 $$x^2  + bx $$ 
-we  notice that the  x^2  have a coefficient  of one .  That is require  in order to do this     .  Now  ,  to this let add $\left( \frac{b}{2} \right)^2$ doing this give the following **factorable**  equation  
+we  notice that the  $x^2$  have a coefficient  of one .  That is require  in order to do this     .  Now  ,  to this let add $\left( \frac{b}{2} \right)^2$ doing this give the following **factorable**  equation  
 
 
 $$x^2  + bx  +  \left( \frac{b}{2} \right)^2  =  \left( x + \frac{b}{2} \right)^2 $$ this process  is call  **completing the square** 
