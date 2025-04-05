@@ -101,8 +101,7 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 $$
 \begin{array}{l}  \\
-f(x) =  2(x +  3)^2 - 8   \\
-
+(x) = -(x -2)^2 - 1  \\
 \end{array}
 $$
 
