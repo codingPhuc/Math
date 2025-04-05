@@ -120,13 +120,20 @@ $$
 \begin{array}{l} 
  -(x -2)^2 - 1 = 0   \\
 -(x - 2)^2    =  1  \\
- 
+ (x - 2)^2   = -  1   
+\\
+\left\{  \\
+\begin{array}{l}
+x - 2  = -i  \\
+ x-  2 =  i  
+\end{array} \\ \\
 
 \left\{  \\
 \begin{array}{l}
-x  = -5  \\
-x =  -1  
+x - 2  = -i  \\
+ x-  2 =  i  
 \end{array}
+\right.
 \right.
 \end{array}
 $$
