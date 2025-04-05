@@ -372,17 +372,17 @@ the vertex is $(4,16)$
     }
 
     % Text annotations  
-    \fill (0,5) circle (2pt) node[above right] {$(0,5)$};
-	\fill (2,5) circle (2pt) node[above right] {$(2,5) $};
+    \fill (0,0) circle (2pt) node[above right] {$(0,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:2, smooth] plot (\x, {  - (\x)^2  +  8*\x   });
+    \draw[thick, blue, domain=0:5, smooth] plot (\x, {  - (\x)^2  +  8*\x   });
  
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
+
 
 
 # #todo
