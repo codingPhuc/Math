@@ -111,7 +111,7 @@ the vertex of the equation above is $(2, -1)$
 $$
 \begin{array}{l} 
 g(0) = -(0 -2)^2 - 1\\
-g(0)  = 3 
+g(0)  = -5
 \end{array}
 $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
@@ -159,7 +159,7 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
     }
 
     % Text annotations  
-    \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
+    \fill (0,-5) circle (2pt) node[above right] {$(0,-5) $};
 
 
     % Draw the parabola
@@ -170,6 +170,86 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
 ``` 
+
+
+
+
+
+
+$$
+\begin{array}{l}  \\
+h(x)   = x^2   +   \\
+\end{array}
+$$
+
+1. Find the vertex .There are simple method to finding this which we will discuss latter  
+the vertex of the equation above is $(2, -1)$ 
+2. Finding the y intercept $(0,f(0))$  
+$$
+\begin{array}{l} 
+g(0) = -(0 -2)^2 - 1\\
+g(0)  = -5
+\end{array}
+$$
+3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
+#fail 
+$$
+\begin{array}{l} 
+ -(x -2)^2 - 1 = 0   \\
+-(x - 2)^2    =  1  \\
+ (x - 2)^2   = -  1   
+\\
+\left\{  \\
+\begin{array}{l}
+x - 2  = -i  \\
+ x-  2 =  i  
+\end{array} \\ \\
+\implies 
+\left\{  \\
+\begin{array}{l}
+x   = -i  +  2 \\
+ x =  i   + 2
+\end{array}
+\right.
+\right.
+\end{array}
+$$
+this  indicate that there is no x intercept  
+Make sure that you’ve got at least one point to either side of the vertex. This is to make sure we get a somewhat accurate sketch. If the parabola has two xx-intercepts then we’ll already have these points. If it has 0 or 1 xx-intercept we can either just plug in another xx value or use the yy-intercept and the axis of symmetry to get the second point.
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    \fill (0,-5) circle (2pt) node[above right] {$(0,-5) $};
+
+
+    % Draw the parabola
+    \draw[thick, blue, domain=0:4, smooth] plot (\x, { -(\x -2)^2 - 1});
+ 
+\end{tikzpicture}
+\end{document}
+
+
+``` 
+
+
+
 
 
 
