@@ -464,7 +464,7 @@ we should used the method completing the square in [[Section 2.6  Quadratic Equa
 $$
 \begin{array}{l}
 f(x)=2x^2−12x+3   \\
-f(x)=2x^2−12x+3 + 36  -  36   \\
+f(x)=2()  \\
 f(x)=()   -  33
 \end{array}
 $$
