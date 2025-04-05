@@ -117,8 +117,8 @@ $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
 $$
 \begin{array}{l} 
- 2(x +  3)^2 - 8  =0  \\
-2(x^2   + 6x + 9 ) - 8  = 0   \\
+ -(x -2)^2 - 1 = 0   \\
+ -(x -2)^2   = 1    \\
 2x^2  +  12x + 10 = 0  \\
 x^2   + 6x  +  5   =0    \\ 
 (x   + 5)( x   + 1 ) \\
