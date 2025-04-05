@@ -475,12 +475,12 @@ $$
 
 $$
 \begin{array}{l}
-f(x)=−x2+10x−1  \\
-f(x)=2\left( x^2  -  6x  +  \frac{3}{2} \right)  \\
-f(x)=2\left( x^2  -  6x  + 9  \frac{3}{2} -  9  \right)   \\
-f(x)=2\left((x -3)^2 +  \frac{3}{2}  -  9  \right)  \\
-f(x)=2\left((x -3)^2 -\frac{15}{2}  \right)  \\
- f(x)=2(x -3)^2 - 15 
+f(x)=−x^2+10x−1  \\
+f(x)=-\left(x^2-10x+1 \right)  \\
+f(x)=-\left(x^2-10x + 25 - 25 +1 \right)    \\
+f(x)=  \\
+f(x)=  \\
+ f(x)=
 \end{array}
 $$
 # #todo
