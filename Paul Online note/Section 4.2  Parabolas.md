@@ -164,13 +164,14 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-6:0, smooth] plot (\x, {2*(\x +  3)^2 - 8  });
+    \draw[thick, blue, domain=-6:0, smooth] plot (\x, { -(\x -2)^2 - 1});
  
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
+
 
 
 
