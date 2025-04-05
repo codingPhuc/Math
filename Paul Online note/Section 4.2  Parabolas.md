@@ -251,6 +251,9 @@ $$
 f(0)  = a 0^2  + b\cdot 0  + c  
 $$
 
+
+
+
 sketch  the graph of each of the following parabolas 
 $$
 g(x)  = 3x^2 - 6x + 5 
@@ -313,6 +316,72 @@ the vertex is $(1,2)$
 ``` 
 
 
+
+
+
+
+
+
+sketch  the graph of each of the following parabolas 
+$$
+g(x)  =  - x^2  +  8x 
+$$
+the y  intercept is  : 
+
+$$
+\begin{array}{ l}
+g(x)  =  - x^2  +  8x  \\
+g(0)  =  - x^2  +  8\cdot0 \\
+g(0)  = 5 
+\end{array}
+$$
+the vertex of the equation is 
+$$
+x =  -\frac{b}{2a}   = \frac{6}{6}   = 1  
+$$
+
+$$
+\begin{array}{ l}
+g(x)  = 3x^2 - 6x + 5   \\
+g( 1 )  = 3\cdot  1 ^2   - 6\cdot  1   +  5   \\
+g(1)  = 2 
+\end{array}
+$$
+the vertex is $(1,2)$
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    \fill (0,5) circle (2pt) node[above right] {$(0,5)$};
+	\fill (2,5) circle (2pt) node[above right] {$(2,5) $};
+
+    % Draw the parabola
+    \draw[thick, blue, domain=0:2, smooth] plot (\x, {  3*(\x)^2 - 6*\x + 5  });
+ 
+\end{tikzpicture}
+\end{document}
+
+
+``` 
 
 # #todo
 
