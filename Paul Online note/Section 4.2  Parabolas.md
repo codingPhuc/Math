@@ -188,11 +188,10 @@ the vertex of the equation above is $(0, 4)$
 $$
 \begin{array}{l} 
 g(0) =  0^2   + 4  \\
-g(0)  = -5
+g(0)  = 4 
 \end{array}
 $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
-#fail 
 $$
 \begin{array}{l} 
  -(x -2)^2 - 1 = 0   \\
