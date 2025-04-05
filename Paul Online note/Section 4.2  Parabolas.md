@@ -460,14 +460,27 @@ $$
  f(x)  = a(x  - h )^2  + k 
 $$
 we should used the method completing the square in [[Section 2.6  Quadratic Equations - Part II#Completing the Square]] 
-
+#fail  
 $$
 \begin{array}{l}
 f(x)=2x^2−12x+3   \\
 f(x)=2\left( x^2  -  6x  +  \frac{3}{2} \right)  \\
 f(x)=2\left( x^2  -  6x  + 9  \frac{3}{2} -  9  \right)   \\
 f(x)=2\left((x -3)^2 +  \frac{3}{2}  -  9  \right)  \\
-f(x)=2\left((x -3)^2 -15  \right) 
+f(x)=2\left((x -3)^2 -\frac{15}{2}  \right)  \\
+ f(x)=2(x -3)^2 - 15 
+\end{array}
+$$ 
+
+
+$$
+\begin{array}{l}
+f(x)=−x2+10x−1  \\
+f(x)=2\left( x^2  -  6x  +  \frac{3}{2} \right)  \\
+f(x)=2\left( x^2  -  6x  + 9  \frac{3}{2} -  9  \right)   \\
+f(x)=2\left((x -3)^2 +  \frac{3}{2}  -  9  \right)  \\
+f(x)=2\left((x -3)^2 -\frac{15}{2}  \right)  \\
+ f(x)=2(x -3)^2 - 15 
 \end{array}
 $$
 # #todo
