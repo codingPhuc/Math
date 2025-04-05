@@ -183,7 +183,7 @@ h(x)   = x^2   + 4   \\
 $$
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter  
-the vertex of the equation above is $(0, 4)$ since this indicate that the vertex is above the x axist 
+the vertex of the equation above is $(0, 4)$ since this indicate that the vertex is above the x axis we concluded that there will not be a x intercept 
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
@@ -226,7 +226,7 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, {  \x^2   + 4  });
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x, {  (\x)^2   + 4  });
  
 \end{tikzpicture}
 \end{document}
