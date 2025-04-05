@@ -414,11 +414,11 @@ $$
 \begin{array}{ l}
 g(x)  =x^2  + 4x  +  4 \\
 g(-2)  =-2^2  + 4\cdot -2   +  4    \\
-g(4)  = 16 
+g(-2)  = 0 
 \end{array}
 $$
 
-the vertex is $(4,16)$
+the vertex is $(-2,0)$
 
 
 
@@ -442,16 +442,17 @@ the vertex is $(4,16)$
     }
 
     % Text annotations  
-    \fill (0,0) circle (2pt) node[above right] {$(0,0)$};
+    \fill (0,0) circle (2pt) node[above right] {$(-2,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:5, smooth] plot (\x, {  - (\x)^2  +  8*\x   });
+    \draw[thick, blue, domain=0:5, smooth] plot (\x, { (\x)^2  + 4*\x  +  4   });
  
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
+
 
 # #todo
 
