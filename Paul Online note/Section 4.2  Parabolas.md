@@ -106,7 +106,7 @@ $$
 $$
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter  
-the vertex of the equation above is $(-3, -8)$ 
+the vertex of the equation above is $(2, -1)$ 
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
