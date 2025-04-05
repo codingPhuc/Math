@@ -300,11 +300,11 @@ the vertex is $(1,2)$
     }
 
     % Text annotations  
-    \fill (0,4) circle (2pt) node[above right] {$(0,4) $};
-
+    \fill (0,5) circle (2pt) node[above right] {$(0,5)$};
+	
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, {  3*(\x)^2 - 6*x + 5  });
+    \draw[thick, blue, domain=-1:1, smooth] plot (\x, {  3*(\x)^2 - 6*x + 5  });
  
 \end{tikzpicture}
 \end{document}
