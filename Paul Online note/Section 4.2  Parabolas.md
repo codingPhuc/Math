@@ -331,13 +331,13 @@ the y  intercept is  :
 $$
 \begin{array}{ l}
 g(x)  =  - x^2  +  8x  \\
-g(0)  =  - x^2  +  8\cdot0 \\
-g(0)  = 5 
+g(0)  =  - 0^2  +  8\cdot0 \\
+g(0)  = 0 
 \end{array}
 $$
 the vertex of the equation is 
 $$
-x =  -\frac{b}{2a}   = \frac{6}{6}   = 1  
+x =  -\frac{b}{2a}   = \frac{-8}{-2}   = 1  
 $$
 
 $$
