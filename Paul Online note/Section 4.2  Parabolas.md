@@ -252,7 +252,10 @@ f(0)  = a 0^2  + b\cdot 0  + c
 $$
 
 sketch  the graph of each of the following parabolas 
-
+$$
+g(x)  = 3x^2 - 6x + 5 
+$$
+the ver t
 
 
 
