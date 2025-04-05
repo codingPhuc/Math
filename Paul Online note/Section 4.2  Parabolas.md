@@ -226,7 +226,7 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:4, smooth] plot (\x, {  \x^2   + 4  });
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x, {  \x^2   + 4  });
  
 \end{tikzpicture}
 \end{document}
