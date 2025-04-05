@@ -260,9 +260,13 @@ the y  intercept is  :
 $$
 \begin{array}{ l}
 g(x)  = 3x^2 - 6x + 5   \\
-g(0)  = 3\cdot 0^2   - 6
+g(0)  = 3\cdot 0^2   - 6\cdot 0  +  5   \\
+g(0)  = 5 
 \end{array}
-
+$$
+the vertex of the equation is 
+$$
+-\frac{b}{2a}   = \frac{6}{6}   = 1
 $$
 
 
