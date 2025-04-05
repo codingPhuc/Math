@@ -461,6 +461,12 @@ $$
 $$
 we should used the method completing the square in [[Section 2.6  Quadratic Equations - Part II#Completing the Square]] 
 
+$$
+\begin{array}{l}
+f(x)=2x^2−12x+3   \\
+f(x)=2x^2−12x+3 
+\end{array}
+$$
 # #todo
 
 - [ ] $f(x)  = a(x  -  h)^2 + k$ where did this formula came from , prove it 
