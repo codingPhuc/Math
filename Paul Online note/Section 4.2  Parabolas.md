@@ -240,7 +240,8 @@ We need to understand how to graph a parabola in it general form .
 $$
 f(x)  = ax^2  + bx + c  
 $$
-a just like the old form will determine if a parabola  is pointed upward or down ward . 
+a just like the old form will determine if a parabola  is open upward or downward . Unlike the pervious we will not get the vertex for free this time 
+
 
 
 
