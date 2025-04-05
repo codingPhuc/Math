@@ -194,21 +194,10 @@ $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
 $$
 \begin{array}{l} 
-
+x^2   + 4  = 0   \\
+x  =  \pm  2i
 \\
-\left\{  \\
-\begin{array}{l}
-x - 2  = -i  \\
- x-  2 =  i  
-\end{array} \\ \\
-\implies 
-\left\{  \\
-\begin{array}{l}
-x   = -i  +  2 \\
- x =  i   + 2
-\end{array}
-\right.
-\right.
+
 \end{array}
 $$
 this  indicate that there is no x intercept  
