@@ -115,13 +115,13 @@ g(0)  = 3
 \end{array}
 $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
+#fail 
 $$
 \begin{array}{l} 
  -(x -2)^2 - 1 = 0   \\
-- (x^2 -  4x   + 4)  = 1    \\
-x^2 -  4x   + 4  = 1  \\
-x^2 -  4x   + 5  = 0  \\
-(x -  )()  = 0 
+-(x - 2)^2    =  1  \\
+ 
+
 \left\{  \\
 \begin{array}{l}
 x  = -5  \\
