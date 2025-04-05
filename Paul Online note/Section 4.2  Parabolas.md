@@ -95,6 +95,9 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 ``` 
 
+
+
+
 # #todo
 
 - [ ] $f(x)  = a(x  -  h)^2 + k$ where did this formula came from , prove it 
