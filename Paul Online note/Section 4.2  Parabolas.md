@@ -235,9 +235,7 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 ``` 
 
 
-
-
-
+##  graph a general  form of a parabola 
 
 
 
