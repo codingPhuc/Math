@@ -245,7 +245,7 @@ However it will still be easy to find the vertex for a general form
 $$
 \left( -\frac{b}{2a} ,  f\left( -\frac{b}{2a} \right) \right)
 $$
-all we are doing is
+all we are doing is computing the x  coordinate from 
 
 
 
