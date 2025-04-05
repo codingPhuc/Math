@@ -348,7 +348,7 @@ g(4)  = 16
 \end{array}
 $$
 
-the vertex is $(1,2)$
+the vertex is $(4,16)$
 
 
 
@@ -376,13 +376,14 @@ the vertex is $(1,2)$
 	\fill (2,5) circle (2pt) node[above right] {$(2,5) $};
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:2, smooth] plot (\x, {  3*(\x)^2 - 6*\x + 5  });
+    \draw[thick, blue, domain=0:2, smooth] plot (\x, {  - (\x)^2  +  8*\x   });
  
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
+
 
 # #todo
 
