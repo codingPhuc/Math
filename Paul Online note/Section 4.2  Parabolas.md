@@ -248,8 +248,11 @@ $$
 all we are doing is computing the x  coordinate from  a and b the plug it into y coordinate  . Not quite as simple but still good enough 
 note as well we can still get the free  intercept in this form it is 
 $$
-
+f(0)  = a 0^2  + b\cdot 0  + c  
 $$
+
+sketch  the graph of each of the following parabolas 
+
 
 
 
