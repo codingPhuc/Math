@@ -236,7 +236,10 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
 ##  graph a general  form of a parabola 
-
+We need to understand how to graph a parabola in it general form . 
+$$
+f(x)  = ax^2  +
+$$
 
 
 
