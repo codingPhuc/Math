@@ -266,8 +266,18 @@ g(0)  = 5
 $$
 the vertex of the equation is 
 $$
--\frac{b}{2a}   = \frac{6}{6}   = 1
+x =  -\frac{b}{2a}   = \frac{6}{6}   = 1  
 $$
+
+$$
+\begin{array}{ l}
+g(x)  = 3x^2 - 6x + 5   \\
+g( 1 )  = 3\cdot  1 ^2   - 6\cdot  1   +  5   \\
+g(1)  = 2 
+\end{array}
+$$
+the vertex is $(1,2)$
+
 
 
 # #todo
