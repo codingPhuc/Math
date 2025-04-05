@@ -459,7 +459,8 @@ how to take a parabola in general form and convert it into the form
 $$
  f(x)  = a(x  - h )^2  + k 
 $$
-we sho
+we should used the method completing the square in [[Section 2.6  Quadratic Equations - Part II#Completing the Square]] 
+
 # #todo
 
 - [ ] $f(x)  = a(x  -  h)^2 + k$ where did this formula came from , prove it 
