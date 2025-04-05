@@ -454,6 +454,8 @@ the vertex is $(-2,0)$
 ``` 
 
 
+
+
 # #todo
 
 - [ ] $f(x)  = a(x  -  h)^2 + k$ where did this formula came from , prove it 

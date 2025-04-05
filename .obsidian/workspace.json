@@ -63,7 +63,8 @@
               "title": "Section 3.2  Lines"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "complete the square ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +127,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,7 +225,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30b50d563073904f",
+  "active": "2355cabcc82546b0",
   "lastOpenFiles": [
     "Paul Online note/Section 4.1  Lines, Circles and Piecewise Functions.md",
     "Paul Online note/Section 3.7  Inverse Functions.md",
