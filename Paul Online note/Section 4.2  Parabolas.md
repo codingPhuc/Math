@@ -255,8 +255,15 @@ sketch  the graph of each of the following parabolas
 $$
 g(x)  = 3x^2 - 6x + 5 
 $$
-the ver t
+the y  intercept is  : 
 
+$$
+\begin{array}{ l}
+g(x)  = 3x^2 - 6x + 5   \\
+g(0)  = 3\cdot 0^2   - 6
+\end{array}
+
+$$
 
 
 # #todo
