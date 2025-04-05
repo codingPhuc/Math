@@ -442,10 +442,10 @@ the vertex is $(-2,0)$
     }
 
     % Text annotations  
-    \fill (0,0) circle (2pt) node[above right] {$(-2,0)$};
+    \fill (-2,0) circle (2pt) node[above right] {$(-2,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:5, smooth] plot (\x, { (\x)^2  + 4*\x  +  4   });
+    \draw[thick, blue, domain=-4:0, smooth] plot (\x, { (\x)^2  + 4*\x  +  4   });
  
 \end{tikzpicture}
 \end{document}
