@@ -238,8 +238,9 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 ##  graph a general  form of a parabola 
 We need to understand how to graph a parabola in it general form . 
 $$
-f(x)  = ax^2  +
+f(x)  = ax^2  + bx + c  
 $$
+a just like the old form will determine if a parabola  is pointed upward or down ward . 
 
 
 
