@@ -337,16 +337,17 @@ g(0)  = 0
 $$
 the vertex of the equation is 
 $$
-x =  -\frac{b}{2a}   = \frac{-8}{-2}   = 1  
+x =  -\frac{b}{2a}   = \frac{-8}{-2}   = 4   
 $$
 
 $$
 \begin{array}{ l}
-g(x)  = 3x^2 - 6x + 5   \\
-g( 1 )  = 3\cdot  1 ^2   - 6\cdot  1   +  5   \\
-g(1)  = 2 
+g(x)  =- x^2  +  8x   \\
+g( 4 )  = - (4)^2  +  8\cdot 4   \\
+g(4)  = 16 
 \end{array}
 $$
+
 the vertex is $(1,2)$
 
 
