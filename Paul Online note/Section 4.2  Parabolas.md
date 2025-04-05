@@ -407,13 +407,13 @@ g(0)  = 4
 $$
 the vertex of the equation is 
 $$
-x =  -\frac{b}{2a}   = \frac{-8}{-2}   = 4   
+x =  -\frac{b}{2a}   = \frac{-4}{2}   = -2    
 $$
 
 $$
 \begin{array}{ l}
-g(x)  =- x^2  +  8x   \\
-g( 4 )  = - (4)^2  +  8\cdot 4   \\
+g(x)  =x^2  + 4x  +  4 \\
+g(-2)  =-2^2  + 4\cdot -2   +  4    \\
 g(4)  = 16 
 \end{array}
 $$
