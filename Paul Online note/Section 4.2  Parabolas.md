@@ -464,8 +464,9 @@ we should used the method completing the square in [[Section 2.6  Quadratic Equa
 $$
 \begin{array}{l}
 f(x)=2x^2−12x+3   \\
-f(x)=2()  \\
-f(x)=()   -  33
+f(x)=2\left( x^2  -  6x  +  \frac{3}{2} \right)  \\
+f(x)=2\left( x^2  -  6x  + 9  \frac{3}{2} -  9  \right)   \\
+f(x)=2\left( x^2  -  6x  + 9  \frac{3}{2}  -  9  \right) 
 \end{array}
 $$
 # #todo
