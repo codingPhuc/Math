@@ -241,8 +241,11 @@ $$
 f(x)  = ax^2  + bx + c  
 $$
 a just like the old form will determine if a parabola  is open upward or downward . Unlike the pervious we will not get the vertex for free this time 
-However it will still be easy to find the vertex o
-
+However it will still be easy to find the vertex for a general form 
+$$
+\left( -\frac{b}{2a} ,  f\left( -\frac{b}{2a} \right) \right)
+$$
+all we are doing is
 
 
 
