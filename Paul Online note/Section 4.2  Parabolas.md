@@ -245,7 +245,11 @@ However it will still be easy to find the vertex for a general form
 $$
 \left( -\frac{b}{2a} ,  f\left( -\frac{b}{2a} \right) \right)
 $$
-all we are doing is computing the x  coordinate from  a and b the plug it into y
+all we are doing is computing the x  coordinate from  a and b the plug it into y coordinate  . Not quite as simple but still good enough 
+note as well we can still get the free  intercept in this form it is 
+$$
+
+$$
 
 
 
