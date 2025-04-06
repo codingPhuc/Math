@@ -848,45 +848,36 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
 
+sketch  the graph of each of the following parabolas 
+$$
+f(x)  = 4x^2 -  4x + 1  
+$$
+the y  intercept is  : 
 
 $$
-\begin{array}{l}  \\
-f(x )  = 4x^2  - 4x  + 1   \\
+\begin{array}{ l}
+f(x)  = 4x^2 -  4x + 1   \\
+f(x)  = 4\cdot0^2 -  4x + 1  
+f(x)  = 4x^2 -  4x + 1  
 \end{array}
+$$
+the vertex of the equation is 
+$$
+x =  -\frac{b}{2a}   = \frac{-8}{-2}   = 4   
 $$
 
-1. Find the vertex .There are simple method to finding this which we will discuss latter  
-the vertex of the equation above is $(  ,   8)$ 
-2. Finding the y intercept $(0,f(0))$  
 $$
-\begin{array}{l} 
-f(0)  = 2\cdot 0 ^2 - 12\cdot   0  + 26    \\
-f(0)  =   26 
-\end{array}
-$$
-3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
-$$
-\begin{array}{l} 
-2(x -3)^2  + 8  =0   \\
-(x - 3)^2 =  -4   \\
-x -  3  =  \pm 2i   \\    \\
-\left\{  \\
-\begin{array}{l}
-x -  3   = 2i  \\
-x-  3 = - 2i 
-\end{array} \\ \\
-\implies 
-\left\{  \\
-\begin{array}{l}
-x   = 2i  + 3 \\
-x = - 2i + 3
-\end{array}
-\right.
-\right.
+\begin{array}{ l}
+g(x)  =- x^2  +  8x   \\
+g( 4 )  = - (4)^2  +  8\cdot 4   \\
+g(4)  = 16 
 \end{array}
 $$
 
-Make sure that you’ve got at least one point to either side of the vertex. This is to make sure we get a somewhat accurate sketch. If the parabola has two x-intercepts then we’ll already have these points. If it has 0 or 1 xx-intercept we can either just plug in another xx value or use the yy-intercept and the axis of symmetry to get the second point.
+the vertex is $(4,16)$
+
+
+
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -907,16 +898,19 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
     }
 
     % Text annotations  
-
+    \fill (0,0) circle (2pt) node[above right] {$(0,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=2:4, smooth] plot (\x, { 2*(\x -3)^2  + 8   });
+    \draw[thick, blue, domain=0:5, smooth] plot (\x, {  - (\x)^2  +  8*\x   });
  
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
+
+
+
 
 
 
