@@ -577,7 +577,20 @@ $$
 5(x^2   - 2x + 1 )  - 20    =0   \\
 x^2   - 2x + 1   - 4    =0 \\
 x^2   - 2x  - 3   = 0   \\
-(x ) \\ 
+(x -  3 ) (x  +  1 )  = 0 \\  \\
+ \left\{  \\
+\begin{array}{l}
+x -  3  = 0  \\
+x  +  1  =  0  
+\end{array} \\ \\
+\implies 
+\left\{  \\
+\begin{array}{l}
+x   = -i  +  2 \\
+ x =  i   + 2
+\end{array}
+\right.
+\right.
 \end{array}
 $$
 
