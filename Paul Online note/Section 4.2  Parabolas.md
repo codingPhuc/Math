@@ -851,17 +851,12 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 $$
 \begin{array}{l}  \\
-f(x )  =2x^2 - 12x  + 26   \\
-f(x )  = 2x^2 - 12x  + 26  \\
- f(x )  = 2(x^2 -  6x +  13)    \\
-F(x)  =   2(x^2 -  6x + 9  - 9 + 13)  \\
-F(x)  =   2((x -  3)^2 + 4 )   \\
-F(x)  =   2(x -3)^2  + 8    \\
+f(x )  = 4x^2  - 4x  + 1   \\
 \end{array}
 $$
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter  
-the vertex of the equation above is $( 3 ,   8)$ 
+the vertex of the equation above is $(  ,   8)$ 
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
