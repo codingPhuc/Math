@@ -98,8 +98,8 @@ b = 2
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} ( 7 , ) \\
-\text{left most point} (h   -a  , k)
+\text{right most point} ( 7 , -3) \\
+\text{left most point} (  , k)
  \\
 \text{top most point}( h , k + b)
  \\
