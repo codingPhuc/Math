@@ -702,7 +702,7 @@ f(x )  = x^2  + 12x + 36 - 36  +  11  \\
 $$
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter  
-the vertex of the equation above is $( -4 ,   7)$ 
+the vertex of the equation above is $( -6 ,   -25)$ 
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
@@ -713,9 +713,9 @@ $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
 $$
 \begin{array}{l} 
-3x^2 +  7   = 0  \\
-x^2   =  \frac{7}{3}     \\
-x^2   =  \sqrt{ \frac{7}{3}  }  \\
+x^2  + 12x +  11 =0   \\
+(x + 11)(x+ 1)   =  0   \\
+
 \end{array}
 $$
 
