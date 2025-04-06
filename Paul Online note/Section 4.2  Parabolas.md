@@ -498,12 +498,12 @@ f(x )  =  (x + 4 )^2 -3      \\
 $$
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter  
-the vertex of the equation above is $(-3, -8)$ 
+the vertex of the equation above is $(-4, -3)$ 
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
-f(0)  = 2(0 +  3)^2 - 8 \\
-f(0)  = 10 
+f(0)  = (0 + 4 )^2 -3  \\
+f(0)  =13 
 \end{array}
 $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
