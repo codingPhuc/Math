@@ -511,19 +511,12 @@ $$
 \begin{array}{l} 
 (x + 4 )^2 -3  =0  \\
 (x +  4)^2  = 3    \\
-x^2  + 8x + 13 = 0  \\
-x^2   + 6x  +  5   =0    \\ 
-(x   + 5)( x   + 1 ) \\
-\left\{  \\
-\begin{array}{l}
-x  = -5  \\
-x =  -1  
-\end{array}
-\right.
+x   +  4  =  \mp 3  \\
+x      =  \mp 3  - 4    \\ 
 \end{array}
 $$
 
-Make sure that you’ve got at least one point to either side of the vertex. This is to make sure we get a somewhat accurate sketch. If the parabola has two xx-intercepts then we’ll already have these points. If it has 0 or 1 xx-intercept we can either just plug in another xx value or use the yy-intercept and the axis of symmetry to get the second point.
+Make sure that you’ve got at least one point to either side of the vertex. This is to make sure we get a somewhat accurate sketch. If the parabola has two x-intercepts then we’ll already have these points. If it has 0 or 1 xx-intercept we can either just plug in another xx value or use the yy-intercept and the axis of symmetry to get the second point.
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -549,7 +542,7 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-6:0, smooth] plot (\x, {2*(\x +  3)^2 - 8  });
+    \draw[thick, blue, domain=-6:0, smooth] plot (\x, {(\x + 4 )^2 -3  });
  
 \end{tikzpicture}
 \end{document}
