@@ -37,7 +37,7 @@ $$
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} ( h + a , k) \\
+\text{right most point} ( , k) \\
 \text{left most point} (h   -a  , k)
  \\
 \text{top most point}( h , k + b)
