@@ -85,24 +85,25 @@ $$
 
 
 
-
+#fail 
 
 $$
 \begin{array}{l} \\
 \frac{x^2}{49} + \frac{(y  - 3 )^2}{4}   =  1   \\
 h  =  0   \\
-k   = -3  \\
+k   = 3  \\
  a =  7   \\
 b = 2  
 \end{array}
-$$
+$$ 
+
 $$
 \begin{array}{l} \\
-\text{right most point} ( 7 , -3) \\
-\text{left most point} (  - 7 ,  -3 )
+\text{right most point} ( 7 , 3) \\
+\text{left most point} (  - 7 ,  3 )
  \\
-\text{top most point}( 0  ,-1 )\\
-\text{bottom most point}( 0  ,  - 5 )
+\text{top most point}( 0  ,5 )\\
+\text{bottom most point}( 0  ,  1 )
 \end{array}
 $$
 
@@ -125,12 +126,12 @@ $$
         \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
-	\fill ( 7 , -3)  circle (2pt) node[above left] {$( 7 , -3) $};
-	\fill (  - 7 ,  -3 )  circle (2pt) node[above left] {$(  - 7 ,  -3 )$};
+	\fill ( 7 , 3)  circle (2pt) node[above left] {$( 7 , 3) $};
+	\fill (  - 7 ,  -3 )  circle (2pt) node[above left] {$(  - 7 ,  3 )$};
 	\fill ( 0  ,-1 ) circle (2pt) node[above left]  {$( 0  ,-1 ) $};
 	\fill ( 0  ,  - 5 )  circle (2pt) node[above left]{$( 0  ,  - 5 )$};
     % Draw x-axis
-	\draw[thick, blue] (0 ,-3) ellipse [x radius=7, y radius=2];
+	\draw[thick, blue] (0 ,3) ellipse [x radius=7, y radius=2];
 
     
                     
