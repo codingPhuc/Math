@@ -924,13 +924,13 @@ the y  intercept is  :
 $$
 \begin{array}{ l}
 f(x)  = -3x^2  +  6x  + 3  \\
-f(0)  = -3\cdot 0^2  +  6x  + 3  \\ 
-f(x)  = 1 
+f(0)  = -3\cdot 0^2  +  6\cdot 0   + 3  \\ 
+f(x)  = 3
 \end{array}
 $$
 the vertex of the equation is 
 $$
-x =  -\frac{b}{2a}   = \frac{-4 }{8}   = \frac{1}{2}   
+x =  -\frac{b}{2a}   = \frac{-6}{-6}   = 1   
 $$
 
 $$
