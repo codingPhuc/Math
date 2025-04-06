@@ -37,12 +37,12 @@ $$
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} ( 1 , 5 ) \\
-\text{left most point} ( 5 , 5)
+\text{right most point} ( h + a , k) \\
+\text{left most point} (h   -a  , k)
  \\
-\text{top most point}( 3 , 9 )
+\text{top most point}( h , k + b)
  \\
-\text{bottom most point}(3  , 1  )
+\text{bottom most point}(h  , k -b )
 
 \end{array}
 $$
@@ -66,9 +66,9 @@ $$
         \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
-%% 	\fill ( 1 , 5 )  circle (2pt) node[above left] 
-\fill ( 5 , 5)  circle (2pt) node[above left] 
-	\fill ( 3 , 9 )  circle (2pt) node[above left] 
+	\fill ( 1 , 5 )  circle (2pt) node[above left] {$( 1 , 5 )$};
+	\fill ( 5 , 5)  circle (2pt) node[above left] {$( 5 , 5)$};
+	\fill ( 3 , 9 )  circle (2pt) node[above left]  {$( 3 , 9 ) $};
 	\fill (3,1)  circle (2pt) node[above left]{$(5,-4)$};
     % Draw x-axis
 
