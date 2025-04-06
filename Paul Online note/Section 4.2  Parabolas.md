@@ -769,6 +769,83 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
 
+$$
+\begin{array}{l}  \\
+f(x )  =2x^2 - 12x  + 26   \\
+f(x )  = 2x^2 - 12x  + 26  \\
+ f(x )  = (x + 6)^2 -25   \\
+\end{array}
+$$
+
+1. Find the vertex .There are simple method to finding this which we will discuss latter  
+the vertex of the equation above is $( -6 ,   -25)$ 
+2. Finding the y intercept $(0,f(0))$  
+$$
+\begin{array}{l} 
+f(0)  = 0^2  + 12\cdot 0 +  11   \\
+f(0)  =  11 
+\end{array}
+$$
+3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
+$$
+\begin{array}{l} 
+x^2  + 12x +  11 =0   \\
+(x + 11)(x+ 1)   =  0   \\
+\left\{  \\
+\begin{array}{l}
+x + 11  = 0  \\
+x+ 1 =  0  
+\end{array} \\ \\
+\implies 
+\left\{  \\
+\begin{array}{l}
+x   = - 11 \\
+x =  -1   
+\end{array}
+\right.
+\right.
+\end{array}
+$$
+
+Make sure that you’ve got at least one point to either side of the vertex. This is to make sure we get a somewhat accurate sketch. If the parabola has two x-intercepts then we’ll already have these points. If it has 0 or 1 xx-intercept we can either just plug in another xx value or use the yy-intercept and the axis of symmetry to get the second point.
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+
+
+    % Draw the parabola
+    \draw[thick, blue, domain=-1:1, smooth] plot (\x, { 3*(\x)^2 +  7    });
+ 
+\end{tikzpicture}
+\end{document}
+
+
+``` 
+
+
+
+
+
+
+
+
 
 # #todo
 
