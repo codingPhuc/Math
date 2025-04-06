@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "completing the square",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,10 +221,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "2355cabcc82546b0",
   "lastOpenFiles": [
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Paul Online note/Section 4.2  Parabolas.md",

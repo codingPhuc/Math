@@ -482,6 +482,11 @@ f(x)= -\left((x- 5)^2  - 24 \right)  \\
 f(x)=  -(x- 5)^2  +  24\\
 \end{array}
 $$
+
+
+
+
+
 # #todo
 
 - [ ] $f(x)  = a(x  -  h)^2 + k$ where did this formula came from , prove it 
