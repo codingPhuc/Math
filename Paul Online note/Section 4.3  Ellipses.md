@@ -156,11 +156,11 @@ $$
 $$
 \begin{array}{l} \\
 \text{right most point} \left(   -\frac{1}{2} ,  -3 \right) \\
-\text{left most point} \left( \frac{3}{2}  , k \right)
+\text{left most point} \left( - \frac{3}{2}  , -3  \right)
  \\
-\text{top most point}( h , k + b)
+\text{top most point}( -1 , -2 )
  \\
-\text{bottom most point}(h  , k -b )
+\text{bottom most point}( -1  , -4 )
 
 \end{array}
 $$
@@ -184,12 +184,17 @@ $$
         \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
-	\fill ( 1 , 5 )  circle (2pt) node[above left] {$( 1 , 5 )$};
+	\fill ( 0., 5 )  circle (2pt) node[above left] {$( 1 , 5 )$};
 	\fill ( 5 , 5)  circle (2pt) node[above left] {$( 5 , 5)$};
 	\fill ( 3 , 9 )  circle (2pt) node[above left]  {$( 3 , 9 ) $};
 	\fill (3,1)  circle (2pt) node[above left]{$(5,-4)$};
     % Draw x-axis
-
+\text{right most point} \left(   -\frac{1}{2} ,  -3 \right) \\
+\text{left most point} \left( - \frac{3}{2}  , -3  \right)
+ \\
+\text{top most point}( -1 , -2 )
+ \\
+\text{bottom most point}( -1  , -4 )
 	\draw[thick, blue] (-2,4) ellipse [x radius=3, y radius=5];
 
     
