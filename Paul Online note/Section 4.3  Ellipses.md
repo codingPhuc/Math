@@ -205,3 +205,4 @@ so to clear the denominator we need  to  multiply  all the term by $a^2$
 $$
 (x - b)^2+ (y-k)^2 = a^2 
 $$
+so this is the standard form of  a circle with radius a . So , circle are the standard form of a ellipse 
