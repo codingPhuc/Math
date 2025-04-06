@@ -967,7 +967,7 @@ the vertex is $(1,6)$
     \fill (0,0) circle (2pt) node[above right] {$(0,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=-1:2, smooth] plot (\x, { 4*(\x)^2 -  4*\x + 1   });
+    \draw[thick, blue, domain=-1:2, smooth] plot (\x, { -3*(\x)^2  +  6*\x  + 3   });
  
 \end{tikzpicture}
 \end{document}
@@ -979,7 +979,7 @@ the vertex is $(1,6)$
 
 
 
-
+##  Convert the equation into the form  $a(x-h)^2 + k$
 
 
 # #todo
