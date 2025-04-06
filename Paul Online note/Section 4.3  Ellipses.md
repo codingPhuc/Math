@@ -37,12 +37,12 @@ $$
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} ( , k) \\
-\text{left most point} (h   -a  , k)
+\text{right most point} ( 1 , 5 ) \\
+\text{left most point} ( 5 , 5)
  \\
-\text{top most point}( h , k + b)
+\text{top most point}( 3 , k + b)
  \\
-\text{bottom most point}(h  , k -b )
+\text{bottom most point}(3  , k -b )
 
 \end{array}
 $$
