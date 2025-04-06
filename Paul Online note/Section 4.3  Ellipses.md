@@ -58,8 +58,7 @@ $$
 
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
-
-
+ \draw (0,0) ellipse (2cm and 1cm);
 
     
                     
