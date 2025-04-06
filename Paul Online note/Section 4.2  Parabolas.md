@@ -586,8 +586,8 @@ x  +  1  =  0
 \implies 
 \left\{  \\
 \begin{array}{l}
-x   = -i  +  2 \\
- x =  i   + 2
+x   = 3 \\
+ x =  -1
 \end{array}
 \right.
 \right.
@@ -618,7 +618,7 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-6:-2, smooth] plot (\x, {(\x + 4 )^2 -3  });
+    \draw[thick, blue, domain=-1:3, smooth] plot (\x, {5(\x - 1)^2  - 20   });
  
 \end{tikzpicture}
 \end{document}
