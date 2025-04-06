@@ -980,6 +980,16 @@ the vertex is $(1,6)$
 
 
 ##  Convert the equation into the form  $a(x-h)^2 + k$
+$$
+\begin{array}{l} \\
+f(x) = x^2  -24x + 157   \\
+f(x) = x^2  -24x + 157  
+\end{array}
+$$
+
+$$
+
+$$
 
 
 # #todo
