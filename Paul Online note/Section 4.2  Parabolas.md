@@ -562,12 +562,12 @@ f(x )  =  5(x - 1)^2  - 20  \\
 $$
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter  
-the vertex of the equation above is $( 1 ,  )$ 
+the vertex of the equation above is $( 1 ,   20)$ 
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
-f(0)  = (0 + 4 )^2 -3  \\
-f(0)  =13 
+f(0)  = 5(0 - 1)^2  - 20  \\
+f(0)  = - 15 
 \end{array}
 $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
