@@ -644,15 +644,15 @@ the vertex of the equation above is $( 0 ,   7)$
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
-f(0)  = 5(0 - 1)^2  - 20  \\
-f(0)  = - 15 
+f(0)  = 3\cdot 0^2 +  7  \\
+f(0)  = 7 
 \end{array}
 $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
 $$
 \begin{array}{l} 
-5(x - 1)^2  - 20   =0  \\
-5(x^2   - 2x + 1 )  - 20    =0   \\
+3x^2 +  7   = 0  \\
+x^2   =  \frac{7}{3}     \\
 x^2   - 2x + 1   - 4    =0 \\
 x^2   - 2x  - 3   = 0   \\
 (x -  3 ) (x  +  1 )  = 0 \\  \\
