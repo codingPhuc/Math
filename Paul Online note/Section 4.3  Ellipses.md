@@ -57,6 +57,22 @@ $$
 \tikzset{every picture/.style={line width=0.75pt}} % set default line width
 
 \begin{tikzpicture}[x=1cm,y=1cm]
+    \draw[->] (-4,0) -- (4,0) node[right] {};
+    \draw[->] (0,-4) -- (0,4) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {,-4,-3,-2,-1,0,1,2,3,4} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    } 
+\fill (5,-4)  circle (2pt) node[above left] ( 1 , 5 ) \\
+\text{left most point} ( 5 , 5)
+ \\
+\text{top most point}( 3 , 9 )
+ \\
+\text{bottom most point}(3  , 1  )
+
     % Draw x-axis
 \draw[thick, blue] (-2,4) ellipse [x radius=3, y radius=5];
 
