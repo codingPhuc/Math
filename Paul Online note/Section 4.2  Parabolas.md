@@ -900,7 +900,7 @@ the vertex is $(4,16)$
     \fill (0,0) circle (2pt) node[above right] {$(0,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=-1:2, smooth] plot (\x, { 4*\x^2 -  4*\x + 1   });
+    \draw[thick, blue, domain=-1:2, smooth] plot (\x, { 4*(\x)^2 -  4*\x + 1   });
  
 \end{tikzpicture}
 \end{document}
