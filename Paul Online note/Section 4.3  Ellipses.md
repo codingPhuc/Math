@@ -40,10 +40,10 @@ b   = 5
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} ( -2  + a , k) \\
-\text{left most point} (h   -a  , k)
+\text{right most point} ( 1 , 4) \\
+\text{left most point} (   -5  , 4)
  \\
-\text{top most point}( h , k + b)
+\text{top most point}( -2 , 9 )
  \\
 \text{bottom most point}(h  , k -b )
 
