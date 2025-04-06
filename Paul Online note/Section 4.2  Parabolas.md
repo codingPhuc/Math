@@ -992,7 +992,18 @@ $$
 f(x) = 6x^2  + 12x + 3    \\
 f(x) = 6\left( x^2 +  2x +  \frac{1}{2} \right)\\
 f(x) = 6\left( x^2 +  2x  +  1  -1   +  \frac{1}{2} \right)  \\
-f(x) = 6\left( (x  +  2) -  \frac{1}{2} \right)
+f(x) = 6\left( (x  +  1)^2  -  \frac{1}{2} \right) \\
+f(x) = 6(x  +  1)^2  - 3  
+\end{array}
+$$ 
+
+$$
+\begin{array}{l} \\
+f(x) = -x^2  - 8x  -  18    \\
+f(x) = \\
+f(x) = 6\left( x^2 +  2x  +  1  -1   +  \frac{1}{2} \right)  \\
+f(x) = 6\left( (x  +  1)^2  -  \frac{1}{2} \right) \\
+f(x) = 6(x  +  1)^2  - 3  
 \end{array}
 $$
 $$
