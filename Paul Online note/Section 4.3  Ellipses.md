@@ -58,7 +58,7 @@ $$
 
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
- \draw (0,0) ellipse (2cm and 1cm);
+\draw[thick, blue] (-2,4) ellipse [x radius=3, y radius=5];
 
     
                     
