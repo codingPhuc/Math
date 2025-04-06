@@ -28,3 +28,9 @@ $$
 \end{array}
 $$
 ## Sketch the graph of each of the following ellipses.
+
+$$
+\begin{array}{l} \\
+\frac{(x + 2)^2}{9}  +  \frac{y}{}
+\end{array}
+$$

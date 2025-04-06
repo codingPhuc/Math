@@ -1010,7 +1010,6 @@ $$
 
 $$
 
-# sdfsdfr
 # #todo
 
 - [ ] $f(x)  = a(x  -  h)^2 + k$ where did this formula came from , prove it 
