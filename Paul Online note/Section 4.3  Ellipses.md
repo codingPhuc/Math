@@ -99,11 +99,11 @@ $$
 $$
 \begin{array}{l} \\
 \text{right most point} ( 7 , -3) \\
-\text{left most point} (  , k)
+\text{left most point} (  - 7 ,  -3 )
  \\
-\text{top most point}( h , k + b)
+\text{top most point}( 0  ,-1 )
  \\
-\text{bottom most point}(h  , k -b )
+\text{bottom most point}( 0  , k -b )
 
 \end{array}
 $$
