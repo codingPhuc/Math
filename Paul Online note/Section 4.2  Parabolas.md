@@ -868,9 +868,8 @@ $$
 
 $$
 \begin{array}{ l}
-f(0)  = 4(\frac{1}{2})^2 -  4\cdot \frac{1}{2}+ 1    \\
-f(0)  = 0 \\
-g(4 
+f(\frac{1}{2})  = 4(\frac{1}{2})^2 -  4\cdot \frac{1}{2}+ 1    \\
+f(\frac{1}{2})  = 0 \\ 
 \end{array}
 $$
 
@@ -901,7 +900,7 @@ the vertex is $(4,16)$
     \fill (0,0) circle (2pt) node[above right] {$(0,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:5, smooth] plot (\x, {  - (\x)^2  +  8*\x   });
+    \draw[thick, blue, domain=-1:2, smooth] plot (\x, { 4*\x^2 -  4*\x + 1   });
  
 \end{tikzpicture}
 \end{document}
