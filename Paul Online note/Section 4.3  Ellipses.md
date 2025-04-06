@@ -69,7 +69,7 @@ $$
     } 
     \draw (0,3)  circle [radius  = 2cm ]  ; 
     % Draw the parabola
-    \draw[-,dotted ] ( 1 , 5 )  -- (2,3)  node[right] {};   
+    \draw[-,dotted ] ( 1 , 5 )  -- (5,5)  node[right] {};   
     \draw[-,dotted ] (0,1)  -- (0,5)  node[right] {};  
     \fill (0,3) circle (2pt) node[above left] {$(0,3)$}; 
         \fill  (0,1)  circle (2pt) node[above left] {$ (0,1) $};
