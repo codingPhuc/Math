@@ -13,3 +13,5 @@ $$
 \frac{(x -  h)^2}{a^2} + \frac{(y  - k)^2} { b^2 }   = 1 
 $$
 
+Note that  the right side need to be exactly one in order for this too work 
+just like with graphing a circle all we need to graph  
