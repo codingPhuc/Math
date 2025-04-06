@@ -857,13 +857,13 @@ the y  intercept is  :
 $$
 \begin{array}{ l}
 f(x)  = 4x^2 -  4x + 1   \\
-f(x)  = 4\cdot0^2 -  4x + 1  
-f(x)  = 4x^2 -  4x + 1  
+f(x)  = 4\cdot0^2 -  4\cdot  0  + 1   \\ 
+f(x)  = 1 
 \end{array}
 $$
 the vertex of the equation is 
 $$
-x =  -\frac{b}{2a}   = \frac{-8}{-2}   = 4   
+x =  -\frac{b}{2a}   = \frac{-4 }{8}   = \frac{1}{2}   
 $$
 
 $$
