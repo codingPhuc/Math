@@ -917,7 +917,7 @@ the vertex is $(4,16)$
 
 sketch  the graph of each of the following parabolas 
 $$
-f(x)  = 4x^2 -  4x + 1  
+f(x)  = -3x^2  +  6x  + 3 
 $$
 the y  intercept is  : 
 
