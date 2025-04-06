@@ -186,15 +186,9 @@ $$
     } 
 	\fill ( -  0.5,-3 )  circle (2pt) node[above left] {$( -  0.5,-3 )$};
 	\fill (  -  1.5  , -3)  circle (2pt) node[above left] {$(  -  1.5  , -3)$};
-	\fill ( -1 , -2 )  circle (2pt) node[above left]  {$( 3 , 9 ) $};
-	\fill (3,1)  circle (2pt) node[above left]{$(5,-4)$};
+	\fill ( -1 , -2 )  circle (2pt) node[above left]  {$( -1 , -2 ) $};
+	\fill (-1,-4)  circle (2pt) node[above left]{$(-1,-4)$};
     % Draw x-axis
-\text{right most point} \left(   -\frac{1}{2} ,  -3 \right) \\
-\text{left most point} \left( - \frac{3}{2}  , -3  \right)
- \\
-\text{top most point}( -1 , -2 )
- \\
-\text{bottom most point}( -1  , -4 )
 	\draw[thick, blue] (-2,4) ellipse [x radius=3, y radius=5];
 
     
