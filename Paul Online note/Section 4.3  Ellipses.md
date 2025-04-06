@@ -10,5 +10,6 @@ In the pervious [[Section 3.3  Circles]] we look at graph and circle since circl
 
 here is the standard form of ellipse 
 $$
-\frac{(x )}{}
+\frac{(x -  h)^2}{a^2} + \frac{(y  - k)^2} { b^2 }   = 1 
 $$
+
