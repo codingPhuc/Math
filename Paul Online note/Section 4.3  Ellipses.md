@@ -31,6 +31,18 @@ $$
 
 $$
 \begin{array}{l} \\
-\frac{(x + 2)^2}{9}  +  \frac{y}{}
+\frac{(x + 2)^2}{9}  +  \frac{( y - 4)^2 }{ 25}  =  1  \\
+
+\end{array}
+$$
+$$
+\begin{array}{l} \\
+\text{right most point} ( h + a , k) \\
+\text{left most point} (h   -a  , k)
+ \\
+\text{top most point}( h , k + b)
+ \\
+\text{bottom most point}(h  , k -b )
+
 \end{array}
 $$
