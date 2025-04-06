@@ -199,5 +199,9 @@ $$
 
 Finally we need to acknowledge that circle are nothing more than a special case of ellipse  , where a= b  . In this case we will have 
 $$
-\frac{(x - b)^2}{a^2} + (y-b)
+\frac{(x - b)^2}{a^2} + \frac{(y-k)^2}{a^2} =  1
+$$
+so to clear the denominator we need  to  multiply  all the term by $a^2$
+$$
+(x - b)^2+ (y-k)^2 = a^2 
 $$
