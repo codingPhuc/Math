@@ -197,4 +197,7 @@ $$
 \end{document}
 ```
 
-Finally we need to acknowledge that circle are nothin
+Finally we need to acknowledge that circle are nothing more than a special case of ellipse  , where a= b  . In this case we will have 
+$$
+\frac{(x - b)^2}{a^2} + (y-b)
+$$
