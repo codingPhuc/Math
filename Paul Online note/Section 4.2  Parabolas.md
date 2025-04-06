@@ -653,22 +653,7 @@ $$
 \begin{array}{l} 
 3x^2 +  7   = 0  \\
 x^2   =  \frac{7}{3}     \\
-x^2   - 2x + 1   - 4    =0 \\
-x^2   - 2x  - 3   = 0   \\
-(x -  3 ) (x  +  1 )  = 0 \\  \\
- \left\{  \\
-\begin{array}{l}
-x -  3  = 0  \\
-x  +  1  =  0  
-\end{array} \\ \\
-\implies 
-\left\{  \\
-\begin{array}{l}
-x   = 3 \\
- x =  -1
-\end{array}
-\right.
-\right.
+x^2   =  \sqrt{ \frac{7}{3}  }  \\
 \end{array}
 $$
 
@@ -696,7 +681,7 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-1:3, smooth] plot (\x, {5*(\x - 1)^2  - 20   });
+    \draw[thick, blue, domain=-1:1, smooth] plot (\x, { 3*(\x)^2 +  7    });
  
 \end{tikzpicture}
 \end{document}
