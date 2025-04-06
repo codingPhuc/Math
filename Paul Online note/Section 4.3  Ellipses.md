@@ -101,10 +101,8 @@ $$
 \text{right most point} ( 7 , -3) \\
 \text{left most point} (  - 7 ,  -3 )
  \\
-\text{top most point}( 0  ,-1 )
- \\
-\text{bottom most point}( 0  , k -b )
-
+\text{top most point}( 0  ,-1 )\\
+\text{bottom most point}( 0  ,  - 5 )
 \end{array}
 $$
 
