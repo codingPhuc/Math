@@ -695,7 +695,9 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 $$
 \begin{array}{l}  \\
-f(x )  = x^2  + 12 +  11 \\
+f(x )  = x^2  + 12x +  11  \\
+f(x )  = x^2  + 12x + 36 - 36  +  11  \\
+ f(x )  = x^2  + 12x + 36 - 36  +  11   \\
 \end{array}
 $$
 
@@ -704,8 +706,8 @@ the vertex of the equation above is $( 0 ,   7)$
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
-f(0)  = 0^2  + 12 +  11   \\
-f(0)  = 7 
+f(0)  = 0^2  + 12\cdot 0 +  11   \\
+f(0)  =  11 
 \end{array}
 $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
