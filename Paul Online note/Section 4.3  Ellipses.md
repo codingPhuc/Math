@@ -184,9 +184,9 @@ $$
         \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
-	\fill ( 0., 5 )  circle (2pt) node[above left] {$( 1 , 5 )$};
-	\fill ( 5 , 5)  circle (2pt) node[above left] {$( 5 , 5)$};
-	\fill ( 3 , 9 )  circle (2pt) node[above left]  {$( 3 , 9 ) $};
+	\fill ( -  0.5,-3 )  circle (2pt) node[above left] {$( -  0.5,-3 )$};
+	\fill (  -  1.5  , -3)  circle (2pt) node[above left] {$(  -  1.5  , -3)$};
+	\fill ( -1 , -2 )  circle (2pt) node[above left]  {$( 3 , 9 ) $};
 	\fill (3,1)  circle (2pt) node[above left]{$(5,-4)$};
     % Draw x-axis
 \text{right most point} \left(   -\frac{1}{2} ,  -3 \right) \\
