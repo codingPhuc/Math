@@ -935,12 +935,12 @@ $$
 
 $$
 \begin{array}{ l}
-f(\frac{1}{2})  = 4(\frac{1}{2})^2 -  4\cdot \frac{1}{2}+ 1    \\
-f(\frac{1}{2})  = 0 \\ 
+f(1)  = -3\cdot 1 ^2  +  6\cdot  1   + 3    \\
+f(1)  = 6 \\ 
 \end{array}
 $$
 
-the vertex is $(4,16)$
+the vertex is $(1,6)$
 
 
 
