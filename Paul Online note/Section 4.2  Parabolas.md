@@ -794,17 +794,17 @@ $$
 \begin{array}{l} 
 2(x -3)^2  + 8  =0   \\
 (x - 3)^2 =  -4   \\
-x -  3  =  \pm 2\sqrt{ i }   \\
+x -  3  =  \pm 2i   \\    \\
 \left\{  \\
 \begin{array}{l}
-x + 11  = 0  \\
-x+ 1 =  0  
+x -  3   = 2i  \\
+x-  3 = - 2i 
 \end{array} \\ \\
 \implies 
 \left\{  \\
 \begin{array}{l}
-x   = - 11 \\
-x =  -1   
+x   = 2i  + 3 \\
+x = - 2i + 3
 \end{array}
 \right.
 \right.
@@ -835,7 +835,7 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-1:1, smooth] plot (\x, { 3*(\x)^2 +  7    });
+    \draw[thick, blue, domain=-1:1, smooth] plot (\x, { 2(\x -3)^2  + 8   });
  
 \end{tikzpicture}
 \end{document}
