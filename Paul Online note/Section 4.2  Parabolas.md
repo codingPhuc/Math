@@ -697,12 +697,12 @@ $$
 \begin{array}{l}  \\
 f(x )  = x^2  + 12x +  11  \\
 f(x )  = x^2  + 12x + 36 - 36  +  11  \\
- f(x )  = x^2  + 12x + 36 - 36  +  11   \\
+ f(x )  = (x + 6)^2 -25   \\
 \end{array}
 $$
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter  
-the vertex of the equation above is $( 0 ,   7)$ 
+the vertex of the equation above is $( -4 ,   7)$ 
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
