@@ -189,7 +189,7 @@ $$
 	\fill ( -1 , -2 )  circle (2pt) node[above left]  {$( -1 , -2 ) $};
 	\fill (-1,-4)  circle (2pt) node[above left]{$(-1,-4)$};
     % Draw x-axis
-	\draw[thick, blue] (-2,4) ellipse [x radius=3, y radius=5];
+	\draw[thick, blue] (-1,-3) ellipse [x radius=0.5, y radius=1];
 
     
                     
