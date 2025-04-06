@@ -89,16 +89,16 @@ $$
 
 $$
 \begin{array}{l} \\
-\frac{x^2}{49} + \frac{(y  - 3 )^}{} \\
-h    =  -2   \\
-k =  4   \\
-a  =  3   \\
-b   = 5 
+\frac{x^2}{49} + \frac{(y  - 3 )^2}{4}   =  1   \\
+h  =  0   \\
+k   = -3  \\
+ a =  7   \\
+b = 2  
 \end{array}
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} ( h + a , k) \\
+\text{right most point} ( 7 , ) \\
 \text{left most point} (h   -a  , k)
  \\
 \text{top most point}( h , k + b)
