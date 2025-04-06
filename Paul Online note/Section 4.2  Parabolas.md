@@ -715,7 +715,19 @@ $$
 \begin{array}{l} 
 x^2  + 12x +  11 =0   \\
 (x + 11)(x+ 1)   =  0   \\
-
+\left\{  \\
+\begin{array}{l}
+x + 11  = 0  \\
+x+ 1 =  0  
+\end{array} \\ \\
+\implies 
+\left\{  \\
+\begin{array}{l}
+x   = - 11 \\
+x =  -1   
+\end{array}
+\right.
+\right.
 \end{array}
 $$
 
