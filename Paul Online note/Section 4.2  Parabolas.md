@@ -923,8 +923,8 @@ the y  intercept is  :
 
 $$
 \begin{array}{ l}
-f(x)  = 4x^2 -  4x + 1   \\
-f(x)  = 4\cdot0^2 -  4\cdot  0  + 1   \\ 
+f(x)  = -3x^2  +  6x  + 3  \\
+f(0)  = -3\cdot 0^2  +  6x  + 3  \\ 
 f(x)  = 1 
 \end{array}
 $$
