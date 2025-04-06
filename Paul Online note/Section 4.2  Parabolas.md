@@ -486,6 +486,15 @@ $$
 
 
 
+# #Practice_Exercise  
+$$
+\begin{array}{l}
+f(x )  =  (x + 4 )^2 -3     \\
+ \\
+\end{array}
+
+
+$$
 
 # #todo
 
