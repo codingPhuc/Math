@@ -792,8 +792,9 @@ $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
 $$
 \begin{array}{l} 
-x^2  + 12x +  11 =0   \\
-(x + 11)(x+ 1)   =  0   \\
+2(x -3)^2  + 8  =0   \\
+(x - 3)^2 =  -4   \\
+x -  3  =  \pm 2\sqrt{ i }   \\
 \left\{  \\
 \begin{array}{l}
 x + 11  = 0  \\
