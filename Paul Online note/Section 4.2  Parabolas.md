@@ -618,7 +618,7 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-1:3, smooth] plot (\x, {5(\x - 1)^2  - 20   });
+    \draw[thick, blue, domain=-1:3, smooth] plot (\x, {5*(\x - 1)^2  - 20   });
  
 \end{tikzpicture}
 \end{document}
