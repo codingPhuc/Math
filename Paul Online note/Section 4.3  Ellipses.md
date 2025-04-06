@@ -17,11 +17,12 @@ Note that  the right side need to be exactly one in order for this too work
 just like with graphing a circle all we need to graph a ellipse is the right most top most bottom most and left most point . 
 $$
 \begin{array}{l} \\
-\text{right most point} \\
-\text{right most point}
-\text{right most point}
+\text{right most point} ( h + a , k) \\
+\text{left most point} (h   -a  , k)
  \\
-\text{right most point}
+\text{top most point}( h , k + b)
+ \\
+\text{bottom most point}(h  , k -b )
 
 \end{array}
 $$
