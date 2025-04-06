@@ -130,8 +130,12 @@ $$
 	\fill ( 3 , 9 )  circle (2pt) node[above left]  {$( 3 , 9 ) $};
 	\fill (3,1)  circle (2pt) node[above left]{$(5,-4)$};
     % Draw x-axis
-
-	\draw[thick, blue] (-2,4) ellipse [x radius=3, y radius=5];
+\text{right most point} ( 7 , -3) \\
+\text{left most point} (  - 7 ,  -3 )
+ \\
+\text{top most point}( 0  ,-1 )\\
+\text{bottom most point}( 0  ,  - 5 )
+	\draw[thick, blue] (0 ,-3) ellipse [x radius=3, y radius=5];
 
     
                     
