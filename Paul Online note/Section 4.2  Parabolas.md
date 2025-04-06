@@ -984,14 +984,15 @@ $$
 \begin{array}{l} \\
 f(x) = x^2  -24x + 157   \\
 f(x) = x^2  -24 + 144    - 144 +  157   \\
-f(x) = (x +  12)^2    13  
+f(x) = (x -   12)^2 +    13  
 \end{array}
 $$
 $$
 \begin{array}{l} \\
 f(x) = 6x^2  + 12x + 3    \\
 f(x) = 6\left( x^2 +  2x +  \frac{1}{2} \right)\\
-f(x) = 6\left( x^2 +  2x +  \frac{1}{2} \right)
+f(x) = 6\left( x^2 +  2x  +  1  -1   +  \frac{1}{2} \right)  \\
+f(x) = 6\left( (x  +  2) -  \frac{1}{2} \right)
 \end{array}
 $$
 $$
