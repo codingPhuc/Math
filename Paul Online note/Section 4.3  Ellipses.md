@@ -130,7 +130,7 @@ $$
 	\fill ( 0  ,-1 ) circle (2pt) node[above left]  {$( 0  ,-1 ) $};
 	\fill ( 0  ,  - 5 )  circle (2pt) node[above left]{$( 0  ,  - 5 )$};
     % Draw x-axis
-	\draw[thick, blue] (0 ,-3) ellipse [x radius=5, y radius=5];
+	\draw[thick, blue] (0 ,-3) ellipse [x radius=7, y radius=2];
 
     
                     
