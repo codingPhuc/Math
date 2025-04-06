@@ -511,7 +511,7 @@ $$
 \begin{array}{l} 
 (x + 4 )^2 -3  =0  \\
 (x +  4)^2  = 3    \\
-x   +  4  =  \mp 3  \\
+x   +  4  =  \mp \sqrt{ 3    }\\
 x      =  \mp 3  - 4    \\ 
 \end{array}
 $$
@@ -542,7 +542,7 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-6:0, smooth] plot (\x, {(\x + 4 )^2 -3  });
+    \draw[thick, blue, domain={}:{}, smooth] plot (\x, {(\x + 4 )^2 -3  });
  
 \end{tikzpicture}
 \end{document}
