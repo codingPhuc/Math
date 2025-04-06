@@ -557,13 +557,12 @@ Make sure that you’ve got at least one point to either side of the vertex. Thi
 
 $$
 \begin{array}{l}  \\
-f(x )  =  (x + 4 )^2 -3      \\
-
+f(x )  =  5(x - 1)^2  - 20  \\
 \end{array}
 $$
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter  
-the vertex of the equation above is $(-4, -3)$ 
+the vertex of the equation above is $( 1 ,  )$ 
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
