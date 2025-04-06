@@ -147,16 +147,16 @@ $$
 $$
 \begin{array}{l}  \\
 4(x   + 1)^2  +  (y  +  3)^2 =  1  \\
-h    =   \frac{1}{4}   \\
-k =  4   \\
-a  =  3   \\
-b   = 5 
+h    =    -1  \\
+k =  - 3 \\
+a  =  \frac{1}{2 }  \\
+b   = 1 
 \end{array}
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} ( h + a , k) \\
-\text{left most point} (h   -a  , k)
+\text{right most point} \left(   -\frac{1}{2} ,  -3 \right) \\
+\text{left most point} \left( \frac{3}{2}  , k \right)
  \\
 \text{top most point}( h , k + b)
  \\
