@@ -125,17 +125,12 @@ $$
         \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
-	\fill ( 1 , 5 )  circle (2pt) node[above left] {$( 1 , 5 )$};
-	\fill ( 5 , 5)  circle (2pt) node[above left] {$( 5 , 5)$};
-	\fill ( 3 , 9 )  circle (2pt) node[above left]  {$( 3 , 9 ) $};
-	\fill (3,1)  circle (2pt) node[above left]{$(5,-4)$};
+	\fill ( 7 , -3)  circle (2pt) node[above left] {$( 7 , -3) $};
+	\fill (  - 7 ,  -3 )  circle (2pt) node[above left] {$(  - 7 ,  -3 )$};
+	\fill ( 0  ,-1 ) circle (2pt) node[above left]  {$( 0  ,-1 ) $};
+	\fill ( 0  ,  - 5 )  circle (2pt) node[above left]{$( 0  ,  - 5 )$};
     % Draw x-axis
-\text{right most point} ( 7 , -3) \\
-\text{left most point} (  - 7 ,  -3 )
- \\
-\text{top most point}( 0  ,-1 )\\
-\text{bottom most point}( 0  ,  - 5 )
-	\draw[thick, blue] (0 ,-3) ellipse [x radius=3, y radius=5];
+	\draw[thick, blue] (0 ,-3) ellipse [x radius=5, y radius=5];
 
     
                     
