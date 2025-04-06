@@ -6,6 +6,7 @@ tags:
 reference: https://tutorial.math.lamar.edu/Classes/Alg/Ellipses.aspx
 Current date: 2025-04-06
 ---
+# #definition 
 In the pervious [[Section 3.3  Circles]] we look at graph and circle since circle are a special cases of ellipses we've already got most of the tools under our belt . All we really need to do to get us started is the standard form of ellipse and info about how to interpret it 
 
 here is the standard form of ellipse 
@@ -26,3 +27,4 @@ $$
 
 \end{array}
 $$
+## Sketch the graph of each of the following ellipses.
