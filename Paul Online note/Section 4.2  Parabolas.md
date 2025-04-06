@@ -640,7 +640,7 @@ f(x )  = 3x^2 +  7  \\
 $$
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter  
-the vertex of the equation above is $( 1 ,   20)$ 
+the vertex of the equation above is $( 0 ,   7)$ 
 2. Finding the y intercept $(0,f(0))$  
 $$
 \begin{array}{l} 
