@@ -573,8 +573,8 @@ $$
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
 $$
 \begin{array}{l} 
-(x + 4 )^2 -3  =0  \\
-(x +  4)^2  = 3    \\
+5(x - 1)^2  - 20   =0  \\
+5(x^2   - 2x + 1)  =0   \\
 x   +  4  =  \mp \sqrt{ 3    }\\
 x      =  \mp 3  - 4    \\ 
 \end{array}
