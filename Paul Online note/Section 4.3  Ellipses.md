@@ -340,8 +340,8 @@ b  =  2
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} (   -1, -4 ) \\
-\text{left most point} (    1  , -4 )
+\text{right most point} \left(    -\frac{5}{2}, -4  \right) \\
+\text{left most point} (      , -4 )
  \\
 \text{top most point}(  0 ,  -1   )
  \\
