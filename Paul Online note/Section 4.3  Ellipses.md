@@ -333,15 +333,15 @@ $$
 \begin{array}{l} \\
 4(x + 2)^2 +  \frac{(y+ 4)^2}{4}  =1  \\
 h =   -2    \\
-k  = 1  \\
-a  = 1 \\
-b  = 2 
+k  = -4  \\
+a  = \frac{1}{2 }\\
+b  =  2 
 \end{array}
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} (   -1, 1 ) \\
-\text{left most point} (    1  , 1)
+\text{right most point} (   -1, -4 ) \\
+\text{left most point} (    1  , -4 )
  \\
 \text{top most point}(  0 ,  -1   )
  \\
