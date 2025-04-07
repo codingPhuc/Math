@@ -271,11 +271,11 @@ $$
 
 $$
 \begin{array}{l} \\
-x^2 + \frac{(y  -5 )^2 }{3}  = 1   \\
+x^2 + \frac{(y-1)^2}{4} = 1   \\
 h =   0    \\
 k  = 5   \\
 a  = 1  \\
-b  =\sqrt{ 3 }
+b  =2
 \end{array}
 $$
 $$
@@ -283,7 +283,7 @@ $$
 \text{right most point} (   -1, 5) \\
 \text{left most point} (    1  , 5)
  \\
-\text{top most point}( 1 ,5+  \sqrt{ 3 } )
+\text{top most point}( 1 ,  7  )
  \\
 \text{bottom most point}(1,5- \sqrt{ 3 } )
 
