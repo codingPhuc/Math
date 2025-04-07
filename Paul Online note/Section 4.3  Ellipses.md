@@ -389,5 +389,10 @@ $$
 ##  For problems 4 & 5 complete the square on the x and y portions of the equation and write the equation into the standard form of the equation of the ellipse. 
 
 $$
-x^2  + 8x  +
+\begin{array}{l}
+x^2  + 8x  +   3y^2 -  6y  + 7   = 0    \\
+x
+\end{array}
+
+
 $$
