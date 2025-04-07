@@ -391,7 +391,7 @@ $$
 $$
 \begin{array}{l}
 x^2  + 8x  +   3y^2 -  6y  + 7   = 0    \\
-x
+x^2  +  8x + 16 - 16 + 3(y^2  - 2 y)  
 \end{array}
 
 
