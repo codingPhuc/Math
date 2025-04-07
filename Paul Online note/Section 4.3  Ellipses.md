@@ -280,12 +280,12 @@ b  = 2
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} (   , 1 ) \\
-\text{left most point} (    1 , 5)
+\text{right most point} (   -1, 1 ) \\
+\text{left most point} (    1  , 1)
  \\
-\text{top most point}( 0,  7  )
+\text{top most point}(  0 ,  -1   )
  \\
-\text{bottom most point}(0 ,3 )
+\text{bottom most point}( 0  ,3 )
 
 \end{array}
 $$
@@ -309,9 +309,14 @@ $$
         \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
-	\fill   (    1  , 5)circle (2pt) node[above left] {$  (    1  , 5)$};
-	\fill (   -1, 5) circle (2pt) node[above left] {$(   -1, 5) $};
-
+	\fill  (   -1, 1 ) circle (2pt) node[above left] {$  (    1  , 5)$};
+	\fill (    1  , 1) circle (2pt) node[above left] {$(   -1, 5) $};
+\text{right most point} (   -1, 1 ) \\
+\text{left most point} (    1  , 1)
+ \\
+\text{top most point}(  0 ,  -1   )
+ \\
+\text{bottom most point}( 0  ,3 )
     % Draw x-axis
 
 	\draw[thick, blue] (0,5) ellipse [x radius=1, y radius=1.7];
