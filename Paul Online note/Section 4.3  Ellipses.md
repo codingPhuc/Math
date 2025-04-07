@@ -273,9 +273,9 @@ $$
 \begin{array}{l} \\
 x^2 + \frac{(y-1)^2}{4} = 1   \\
 h =   0    \\
-k  = 5   \\
-a  = 1  \\
-b  =2
+k  = 1    \\
+a  = 1 \\
+b  = 2 
 \end{array}
 $$
 $$
@@ -285,7 +285,7 @@ $$
  \\
 \text{top most point}( 0,  7  )
  \\
-\text{bottom most point}(1,3 )
+\text{bottom most point}(0 ,3 )
 
 \end{array}
 $$
