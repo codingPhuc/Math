@@ -341,11 +341,11 @@ $$
 $$
 \begin{array}{l} \\
 \text{right most point} \left(    -\frac{5}{2}, -4  \right) \\
-\text{left most point} (      , -4 )
+\text{left most point} \left(     -\frac{3}{2}  , -4  \right)
  \\
-\text{top most point}(  0 ,  -1   )
+\text{top most point}(  -2 ,     )
  \\
-\text{bottom most point}( 0  ,3 )
+\text{bottom most point}( -2   ,3 )
 
 \end{array}
 $$
