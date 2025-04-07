@@ -385,3 +385,5 @@ $$
 
 
 
+
+##  For problems 4 & 5 complete the square on the x and y portions of the equation and write the equation into the standard form of the equation of the ellipse. 
