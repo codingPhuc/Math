@@ -257,12 +257,71 @@ $$
 
     % Draw x-axis
 
-	\draw[thick, blue] (-3,5) ellipse [x radius=3, y radius=5];
+	\draw[thick, blue] (-3,5) ellipse [x radius=3, y radius=1.7];
 
     
                     
 \end{tikzpicture}
 \end{document}
 ```
+
+
+
+
+
+$$
+\begin{array}{l} \\
+\frac{(x  + 3 )^2}{9} + \frac{(y - 5)^2}{3}   = 1  \\
+h =  -3   \\
+k  = 5   \\
+a  = 3   \\
+b  =\sqrt{ 3 }
+\end{array}
+$$
+$$
+\begin{array}{l} \\
+\text{right most point} (  -6 , 5) \\
+\text{left most point} (   0  , 5)
+ \\
+\text{top most point}( -3 ,5+  \sqrt{ 3 } )
+ \\
+\text{bottom most point}(-3 ,5- \sqrt{ 3 } )
+
+\end{array}
+$$
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+%% \documentclass[pstricks,border=12pt]{standalone} %%
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    \draw[->] (-4,0) -- (4,0) node[right] {};
+    \draw[->] (0,-4) -- (0,4) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {,-4,-3,-2,-1,0,1,2,3,4} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    } 
+
+	\fill   (  -6 , 5)circle (2pt) node[above left] {$  (  -6 , 5)$};
+	\fill (   0  , 5) circle (2pt) node[above left] {$(   0  , 5)$};
+
+    % Draw x-axis
+
+	\draw[thick, blue] (-3,5) ellipse [x radius=3, y radius=1.7];
+
+    
+                    
+\end{tikzpicture}
+\end{document}
+```
+
 
 
