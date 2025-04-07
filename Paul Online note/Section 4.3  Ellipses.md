@@ -325,3 +325,63 @@ $$
 
 
 
+
+
+
+
+$$
+\begin{array}{l} \\
+4(x + 2)^2 +  \frac{(y+ 4)^2}{4}  =1  \\
+h =   -2    \\
+k  = 1  \\
+a  = 1 \\
+b  = 2 
+\end{array}
+$$
+$$
+\begin{array}{l} \\
+\text{right most point} (   -1, 1 ) \\
+\text{left most point} (    1  , 1)
+ \\
+\text{top most point}(  0 ,  -1   )
+ \\
+\text{bottom most point}( 0  ,3 )
+
+\end{array}
+$$
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+%% \documentclass[pstricks,border=12pt]{standalone} %%
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    \draw[->] (-4,0) -- (4,0) node[right] {};
+    \draw[->] (0,-4) -- (0,4) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {,-4,-3,-2,-1,0,1,2,3,4} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    } 
+	\fill  (   -1, 1 ) circle (2pt) node[above left] {$  (    1  , 5)$};
+	\fill (    1  , 1) circle (2pt) node[above left] {$(   -1, 5) $};
+		\fill  (  0 ,  -1   ) circle (2pt) node[above left] {$ (  0 ,  -1   )$};
+	\fill ( 0  ,3 ) circle (2pt) node[above left] {$( 0  ,3 ) $};
+    % Draw x-axis
+
+	\draw[thick, blue] (0,1) ellipse [x radius=1, y radius=2];
+
+    
+                    
+\end{tikzpicture}
+\end{document}
+```
+
+
+
