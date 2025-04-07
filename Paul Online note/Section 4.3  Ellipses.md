@@ -311,6 +311,8 @@ $$
     } 
 	\fill  (   -1, 1 ) circle (2pt) node[above left] {$  (    1  , 5)$};
 	\fill (    1  , 1) circle (2pt) node[above left] {$(   -1, 5) $};
+		\fill  (   -1, 1 ) circle (2pt) node[above left] {$  (    1  , 5)$};
+	\fill (    1  , 1) circle (2pt) node[above left] {$(   -1, 5) $};
 \text{right most point} (   -1, 1 ) \\
 \text{left most point} (    1  , 1)
  \\
