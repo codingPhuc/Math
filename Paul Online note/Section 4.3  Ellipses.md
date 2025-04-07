@@ -280,8 +280,8 @@ b  = 2
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} (   -2, 5) \\
-\text{left most point} (    2 , 5)
+\text{right most point} (   -1, ) \\
+\text{left most point} (    1 , 5)
  \\
 \text{top most point}( 0,  7  )
  \\
