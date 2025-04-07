@@ -280,12 +280,12 @@ b  =\sqrt{ 3 }
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} (  -6 , 5) \\
-\text{left most point} (   0  , 5)
+\text{right most point} (   -1, 5) \\
+\text{left most point} (    1  , 5)
  \\
-\text{top most point}( -3 ,5+  \sqrt{ 3 } )
+\text{top most point}( 1 ,5+  \sqrt{ 3 } )
  \\
-\text{bottom most point}(-3 ,5- \sqrt{ 3 } )
+\text{bottom most point}(1,5- \sqrt{ 3 } )
 
 \end{array}
 $$
@@ -309,7 +309,8 @@ $$
         \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
-
+\text{right most point} (   -1, 5) \\
+\text{left most point} (    1  , 5)
 	\fill   (  -6 , 5)circle (2pt) node[above left] {$  (  -6 , 5)$};
 	\fill (   0  , 5) circle (2pt) node[above left] {$(   0  , 5)$};
 
