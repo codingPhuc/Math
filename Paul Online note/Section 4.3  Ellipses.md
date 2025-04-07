@@ -343,9 +343,9 @@ $$
 \text{right most point} \left(    -\frac{5}{2}, -4  \right) \\
 \text{left most point} \left(     -\frac{3}{2}  , -4  \right)
  \\
-\text{top most point}(  -2 ,     )
+\text{top most point}(  -2 ,   -2   )
  \\
-\text{bottom most point}( -2   ,3 )
+\text{bottom most point}( -2   , -6)
 
 \end{array}
 $$
@@ -369,11 +369,17 @@ $$
         \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
-	\fill  (   -1, 1 ) circle (2pt) node[above left] {$  (    1  , 5)$};
-	\fill (    1  , 1) circle (2pt) node[above left] {$(   -1, 5) $};
+	\fill   (    2.5 , -4) circle (2pt) node[above left] {$  (    2.5 , -4)$};
+	\fill (    -1.5  , 1) circle (2pt) node[above left] {$(   -1, 5) $};
 		\fill  (  0 ,  -1   ) circle (2pt) node[above left] {$ (  0 ,  -1   )$};
 	\fill ( 0  ,3 ) circle (2pt) node[above left] {$( 0  ,3 ) $};
     % Draw x-axis
+\text{right most point} \left(    -\frac{5}{2}, -4  \right) \\
+\text{left most point} \left(     -\frac{3}{2}  , -4  \right)
+ \\
+\text{top most point}(  -2 ,   -2   )
+ \\
+\text{bottom most point}( -2   , -6)
 
 	\draw[thick, blue] (0,1) ellipse [x radius=1, y radius=2];
 
