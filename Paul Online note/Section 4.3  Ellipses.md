@@ -225,7 +225,7 @@ $$
 \text{right most point} (  -6 , 5) \\
 \text{left most point} (   0  , 5)
  \\
-\text{top most point}( -3 ,5-  \sqrt{ 3 } )
+\text{top most point}( -3 ,5+  \sqrt{ 3 } )
  \\
 \text{bottom most point}(-3 ,5- \sqrt{ 3 } )
 
@@ -254,8 +254,7 @@ $$
 
 	\fill   (  -6 , 5)circle (2pt) node[above left] {$  (  -6 , 5)$};
 	\fill (   0  , 5) circle (2pt) node[above left] {$(   0  , 5)$};
-	\fill ( -3 ,5-  \sqrt{ 3 } )  circle (2pt) node[above left]  {$( -3 ,5-  \sqrt{ 3 } ) $};
-	\fill (-3 ,5- \sqrt{ 3 } ) circle (2pt) node[above left]{$(-3 ,5- \sqrt{ 3 } )$};
+
     % Draw x-axis
 
 	\draw[thick, blue] (-3,5) ellipse [x radius=3, y radius=5];
