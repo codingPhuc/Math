@@ -369,13 +369,13 @@ $$
         \foreach \y in {-4,-3,-2,-1,1,2,3,4} {
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     } 
-	\fill   (    2.5 , -4) circle (2pt) node[above left] {$  (    2.5 , -4)$};
+	\fill   (    -2.5 , -4) circle (2pt) node[above left] {$  (    -2.5 , -4)$};
 	\fill (    -1.5  , -4) circle (2pt) node[above left] {$(    -1.5  , -4) $};
 		\fill  (  -2 ,   -2   ) circle (2pt) node[above left] {$ (  -2 ,   -2   )$};
 	\fill ( -2   , -6) circle (2pt) node[above left] {$( -2   , -6) $};
     % Draw x-axis
 
-	\draw[thick, blue] (-2,-4) ellipse [x radius=1, y radius=2];
+	\draw[thick, blue] (-2,-4) ellipse [x radius=0.5, y radius=2];
 
     
                     
