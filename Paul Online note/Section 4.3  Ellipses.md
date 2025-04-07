@@ -222,12 +222,12 @@ b  =\sqrt{ 3 }
 $$
 $$
 \begin{array}{l} \\
-\text{right most point} ( 1 , 4) \\
-\text{left most point} (   -5  , 4)
+\text{right most point} (  -6 , 5) \\
+\text{left most point} (   0  , 5)
  \\
-\text{top most point}( -2 , 9 )
+\text{top most point}( -3 ,5-  \sqrt{ 3 } )
  \\
-\text{bottom most point}(-2  ,-1 )
+\text{bottom most point}(-3 ,5- \sqrt{ 3 } )
 
 \end{array}
 $$
