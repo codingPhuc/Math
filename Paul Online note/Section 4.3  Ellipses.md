@@ -213,11 +213,11 @@ so this is the standard form of  a circle with radius a . So , circle are the st
 
 $$
 \begin{array}{l} \\
-\frac{(x  + 3 )^2}{}
-h    =  -2   \\
-k =  4   \\
-a  =  3   \\
-b   = 5 
+\frac{(x  + 3 )^2}{9} + \frac{(y - 5)^2}{3}   = 1  \\
+h =  -3   \\
+k  = 5   \\
+a  = 3   \\
+b  =\sqrt{  }
 \end{array}
 $$
 $$
