@@ -258,7 +258,7 @@ $$
 	\fill (-3 ,5- \sqrt{ 3 } ) circle (2pt) node[above left]{$(-3 ,5- \sqrt{ 3 } )$};
     % Draw x-axis
 
-	\draw[thick, blue] (-2,4) ellipse [x radius=3, y radius=5];
+	\draw[thick, blue] (-3,5) ellipse [x radius=3, y radius=5];
 
     
                     
