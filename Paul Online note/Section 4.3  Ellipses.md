@@ -311,17 +311,11 @@ $$
     } 
 	\fill  (   -1, 1 ) circle (2pt) node[above left] {$  (    1  , 5)$};
 	\fill (    1  , 1) circle (2pt) node[above left] {$(   -1, 5) $};
-		\fill  (   -1, 1 ) circle (2pt) node[above left] {$  (    1  , 5)$};
-	\fill (    1  , 1) circle (2pt) node[above left] {$(   -1, 5) $};
-\text{right most point} (   -1, 1 ) \\
-\text{left most point} (    1  , 1)
- \\
-\text{top most point}(  0 ,  -1   )
- \\
-\text{bottom most point}( 0  ,3 )
+		\fill  (  0 ,  -1   ) circle (2pt) node[above left] {$ (  0 ,  -1   )$};
+	\fill ( 0  ,3 ) circle (2pt) node[above left] {$( 0  ,3 ) $};
     % Draw x-axis
 
-	\draw[thick, blue] (0,5) ellipse [x radius=1, y radius=1.7];
+	\draw[thick, blue] (0,1) ellipse [x radius=1, y radius=2];
 
     
                     
