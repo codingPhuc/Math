@@ -92,9 +92,9 @@ $$
         plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
         \draw[thick, blue, domain=0:2, samples=200, smooth] 
         plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
-    \draw[thick, blue, domain=8.2:7, samples=200, smooth] 
+    \draw[thick, blue, domain=4:7, samples=200, smooth] 
         plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
-        \draw[thick, blue, domain=8.2:7, samples=200, smooth] 
+        \draw[thick, blue, domain=4:7, samples=200, smooth] 
         plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
     % Right branch
        \draw[dashed, red, domain=-6:6] plot (\x, { -1 - (7/5)*(\x - 3) });
@@ -129,11 +129,11 @@ $$
 
 
 
-| Property                    | Horizontal Hyperbola                                      |
-| --------------------------- | --------------------------------------------------------- |
-| **Standard Form**           | $$\frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1 $$ |
-| **Center**                  | $$(3,-1 )$$                                               |
-| **Opens**                   | Left and right                                            |
-| **Vertices**                | $$(8, 7), (2, 7)$$                                        |
-| **Slope of Asymptotes**     | $$\pm \frac{7}{5}$$                                       |
-| **Equations of Asymptotes** | $$y = -1 \pm \frac{7}{5}(x - 3)$$                         |
+| Property                    | Horizontal Hyperbola                              | Vertical Hyperbola                                |
+| --------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| **Standard Form**           | $$\frac{(x-h)^2}{a^2} - \frac{(y-k)^2}{b^2} = 1$$ | $$\frac{(y-k)^2}{b^2} - \frac{(x-h)^2}{a^2} = 1$$ |
+| **Center**                  | $$(h, k)$$                                        | $$(h, k)$$                                        |
+| **Opens**                   | Left and right                                    | Up and down                                       |
+| **Vertices**                | $$(h+a, k), (h-a, k)$$                            | $$(h, k+b), (h, k-b)$$                            |
+| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                               | $$\pm \frac{b}{a}$$                               |
+| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                  | $$y = k \pm \frac{b}{a}(x - h)$$                  |
