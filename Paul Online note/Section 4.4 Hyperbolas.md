@@ -19,14 +19,15 @@ Hyperbolas consist of two vaguely parabola shape pieces that open either up and 
 There are also two line on each graph. These line are called asymptotes as the graph show as we make x large (in both the positive and negative sense) the graph of the hyperbolas get closer and closer to the asymptotes .However they are included to make sure we get the sketch correct . The point where the two asymptotes cross is called the hyperbola 
 
 There are two standard form of the hyperbola , one for each directional type shown above 
-$$
-\begin{array} {l}
-\text{Form } \frac{(x-h)^2}{a^2}  -  \frac{(y - k)^2}{b^2} = 1 \;  \frac{(y-h)^2}{b^2}  -  \frac{(x - k)^2}{a^2} = 1 \\
-\text{Center } (h, k ) \;(h ,k) \\
-\text{Opens } \text{Opens left and right } \text{Open up and down } \\
-\text{Vertices } (h+ a , k) \text{ and } (h - a  ,k ) \; (h, k + b )  \text{ and } (h, k - b )   \\
-\text{ Slope of Asymptotes } \pm \frac{b}{a} \; \mp \frac{b}{a} \\
-\text{Equation of Asymptotes } y= k \pm \frac{b}{a}(x - h) \; y = k \pm \frac{b}{a}(x - h )
-\end{array}
-$$
+
+
+| Property                     | Horizontal Hyperbola                                      | Vertical Hyperbola                                        |
+|-----------------------------|------------------------------------------------------------|------------------------------------------------------------|
+| **Standard Form**           | $$\frac{(x-h)^2}{a^2} - \frac{(y-k)^2}{b^2} = 1$$          | $$\frac{(y-k)^2}{b^2} - \frac{(x-h)^2}{a^2} = 1$$          |
+| **Center**                  | $$(h, k)$$                                                 | $$(h, k)$$                                                 |
+| **Opens**                   | Left and right                                             | Up and down                                                |
+| **Vertices**                | $$(h+a, k), (h-a, k)$$                                     | $$(h, k+b), (h, k-b)$$                                     |
+| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                                        | $$\pm \frac{b}{a}$$                                        |
+| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                           | $$y = k \pm \frac{b}{a}(x - h)$$                           |
+
 
