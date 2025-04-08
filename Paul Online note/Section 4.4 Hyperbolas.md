@@ -303,7 +303,8 @@ $$
 \begin{array}{l} \\
 \frac{(x + 3)^2}{4}  - \frac{(y -1 )^2}{9}  =1    \\
 \frac{(x + 3)^2}{4}    = 1 +  \frac{(y -1 )^2}{9}   \\
-\fr   = 1 +  \frac{(y -1 )^2}{9}    
+(x + 3)^2    = 4 \left( 1 +  \frac{(y -1 )^2}{9}   \right)    \\
+x  = 2\sqrt{   1 +  \frac{(y -1 )^2}{9}   } -3 
 \end{array}
 $$
 
