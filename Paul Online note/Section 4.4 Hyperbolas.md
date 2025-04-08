@@ -40,6 +40,9 @@ we got the equation of the asymptotes by using the point slopes form of the line
 $$
 \frac{(x - 3)^2}{25}  -  \frac{(x + 1 )^2}{49 }  = 1 
 $$
+
+
+
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
