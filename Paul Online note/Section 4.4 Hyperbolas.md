@@ -22,7 +22,9 @@ There are two standard form of the hyperbola , one for each directional type sho
 $$
 \begin{array} {l}
 \text{Form } \frac{(x-h)^2}{a^2}  -  \frac{(y - k)^2}{b^2} = 1 \;  \frac{(y-h)^2}{b^2}  -  \frac{(x - k)^2}{a^2} = 1 \\
-\text{Center } (h, k ) \;(h m)
+\text{Center } (h, k ) \;(h ,k) \\
+\text{Opens } \text{Opens left and right } \text{Open up and down } \\
+\text{Vertices } ()
 \end{array}
 $$
 
