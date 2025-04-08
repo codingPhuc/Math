@@ -60,7 +60,7 @@ $$
 | **Opens**                   | Left and right                                            |
 | **Vertices**                | $$(8, 7), (2, 7)$$                                        |
 | **Slope of Asymptotes**     | $$\pm \frac{7}{5}$$                                       |
-| **Equations of Asymptotes** | $$y = 7 \pm \frac{7}{5}(x - 3)$$                          |
+| **Equations of Asymptotes** | $$y = 1 \pm \frac{7}{5}(x - 3)$$                          |
 
 
 ```tikz
@@ -96,8 +96,8 @@ $$
         \draw[thick, blue, domain=8.2:7, samples=200, smooth] 
         plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
     % Right branch
-       \draw[dashed, red, domain=-6:6] plot (\x, { 7 - (7/5)*(\x - 3) });
-        \draw[dashed, red, domain=-6:6] plot (\x, { 7 + (7/5)*(\x - 3) });
+       \draw[dashed, red, domain=-6:6] plot (\x, { 1 - (7/5)*(\x - 3) });
+        \draw[dashed, red, domain=-6:6] plot (\x, { 1 + (7/5)*(\x - 3) });
 
     % Asymptotes: y = ±(3/2)x
     % Center
