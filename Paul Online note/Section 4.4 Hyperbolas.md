@@ -97,16 +97,11 @@ $$
     % Center: (h, k) = (0, 0)
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola
-  3   \mp \frac{5}{7}\sqrt{ 49  + (y + 1 )^2 }  
-    \draw[thick, blue, domain=0:2, samples=200, smooth] 
-        plot (\x, {-1 + sqrt(  (49*((\x - 3)^2 / 25) - 1))});
-        \draw[thick, blue, domain=0:2, samples=200, smooth] 
-        plot (\x {3 + (5/7)* sqrt(49 + (\x  + 1 )^2 )}, );
-    
-    \draw[thick, blue, domain=4:7, samples=200, smooth] 
-        plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
-        \draw[thick, blue, domain=4:7, samples=200, smooth] 
-        plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
+        \draw[thick, blue, domain=-3:3, samples=200, smooth] 
+        plot ({3 - (5/7)* sqrt(49 + (\x  + 1 )^2 )} , \x );
+        \draw[thick, blue, domain=-3:3, samples=200, smooth] 
+        plot ({3 + (5/7)* sqrt(49 + (\x  + 1 )^2 )} , \x );
+
     % Right branch
        \draw[dashed, red, domain=-6:6] plot (\x, { -1 - (7/5)*(\x - 3) });
         \draw[dashed, red, domain=-6:6] plot (\x, { -1 + (7/5)*(\x - 3) });
