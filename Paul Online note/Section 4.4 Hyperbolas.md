@@ -432,7 +432,7 @@ $$
     %% \draw[thick, blue, domain=-2:3, samples=200, smooth]  plot (\x, {-3*sqrt(   (( \x^2 - 4)/9 )   });  %% % Left branch of the hyperbola
  \sqrt{ \frac{ 2  +  (y + 1)^2}{6 }  }  + 1 
       \draw[thick, blue, domain=-1:5, samples=200, smooth] 
-      plot ({ sqrt( (2 ) )  }   ,\x  ); 
+      plot ({ sqrt( (2+ (y  + 1 )^2 )/ 6  ) + 1  }   ,\x  ); 
      \draw[thick, blue, domain=-1:5, samples=200, smooth] 
         plot ( {- ( 2/3 )*  sqrt( 9 + ( \x- 1 )^2 ) -3  } , \x) ;
     % Right branch
