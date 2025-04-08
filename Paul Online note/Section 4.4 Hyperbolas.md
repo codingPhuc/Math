@@ -178,11 +178,10 @@ $$
     % Center: (h, k) = (0, 0)
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola 
--2 +   \sqrt{ \frac{y^2 -  9 }{9}  }     
-    \draw[thick, blue, domain=-:-1, samples=200, smooth] 
-        plot ({-2 +  sqrt((y^2 -  9)/9  }, \y );
-\draw[thick, blue, domain=1:3, samples=200, smooth] 
-      plot ({-2 +  sqrt((y^2 -  9)/9  },\y);
+    \draw[thick, blue, domain=2:3, samples=200, smooth] 
+        plot ({-2 +  sqrt((\y^2 -  9)/9  }, \y );
+\draw[thick, blue, domain=2:3, samples=200, smooth] 
+      plot ({-2 +  sqrt((\y^2 -  9)/9  },\y);
 
 
     % Right branch
