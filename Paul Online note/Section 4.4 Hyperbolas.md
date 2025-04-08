@@ -261,9 +261,9 @@ $$
 %%    \draw[thick, blue, domain=-2:3, samples=200, smooth] plot (\x, {3*sqrt(  (( \x^2 - 4)/9 )   ) }); %%  % Right branch of the hyperbola
 
     %% \draw[thick, blue, domain=-2:3, samples=200, smooth]  plot (\x, {-3*sqrt(   (( \x^2 - 4)/9 )   });  %% % Left branch of the hyperbola
-
+   plot ( \x  , {-3* sqrt(1 + (\x+ 2)^2)});
       \draw[thick, blue, domain=0:1, samples=200, smooth] 
-      plot ( \x  , {(4/3)*sqrt(9 + (\x -2 )^2)}); 
+      plot ( \x  , {(4/3)*  sqrt(9 + (\x- 2)^2)  sqrt(9 + (\x -2 )^2)}); 
         \draw[thick, blue, domain=0:1, samples=200, smooth] 
         plot ( \x  , {-(4/3)*sqrt(9 + (\x -2 )^2)}) 
     % Right branch
