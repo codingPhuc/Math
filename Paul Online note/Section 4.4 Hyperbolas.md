@@ -77,14 +77,10 @@ $$
     % Center: (h, k) = (0, 0)
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola
- 7 \pm \frac{7}{5}(x - 3)
-    % Right branch
-    \draw[thick, blue, domain=2.1:6, samples=200, smooth] plot (\x, {1.5*sqrt(\x*\x - 4)});
-    \draw[thick, blue, domain=2.1:6, samples=200, smooth] plot (\x, {-1.5*sqrt(\x*\x - 4)});
 
-    % Left branch
-    \draw[thick, blue, domain=-6:-2.1, samples=200, smooth] plot (\x, {1.5*sqrt(\x*\x - 4)});
-    \draw[thick, blue, domain=-6:-2.1, samples=200, smooth] plot (\x, {-1.5*sqrt(\x*\x - 4)});
+    % Right branch
+    \draw[thick, blue, domain=2.1:6, samples=200, smooth] plot (\x, { 7 - (7/5)*(\x - 3) });
+
 
     % Asymptotes: y = ±(3/2)x
     \draw[dashed, red, domain=-6:6] plot (\x, {1.5*\x});
