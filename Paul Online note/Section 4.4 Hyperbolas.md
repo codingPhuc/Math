@@ -90,11 +90,11 @@ $$
     % Center: (h, k) = (0, 0)
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola
-\draw[thick, blue, domain=2.1:6, samples=200, smooth] plot (\x, { 7\sqrt{  \frac{(x - 3)^2}{25}  - 1  }  -1  });
+\draw[thick, blue, domain=2.1:6, samples=200, smooth] plot (\x, { $7\sqrt{  \frac{(\x - 3)^2}{25}  - 1  }  -1$  });
 
     % Right branch
        \draw[dashed, red, domain=-6:6] plot (\x, { 7 - (7/5)*(\x - 3) });
-        \draw[dashed, red, domain=-6:6] plot (\x, { 7 + (7/5)*(\x - 3) });
+        \draw[dashed, red, domain=-6:6] plot (\x,  {7 * sqrt(((\x - 3)^2) / 25 - 1) - 1});
 
     % Asymptotes: y = ±(3/2)x
     % Center
