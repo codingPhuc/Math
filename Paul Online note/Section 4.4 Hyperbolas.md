@@ -132,9 +132,9 @@ $$
 | Property                    | Vertical Hyperbola                     |
 | --------------------------- | -------------------------------------- |
 | **Standard Form**           | $$\frac{y^2}{9}  - (x  + 2)^2   = 1 $$ |
-| **Center**                  | $$(h, k)$$                             |
+| **Center**                  | $$(2,  0 )$$                           |
 | **Opens**                   | Up and down                            |
-| **Vertices**                | $$(h, k+b), (h, k-b)$$                 |
+| **Vertices**                | $$( 2,1), (2, -1 )$$                   |
 | **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                    |
 | **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$       |
 
