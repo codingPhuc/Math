@@ -91,14 +91,13 @@ $$
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola
 \draw[thick, blue, domain=-3:-2.2, samples=200, smooth] 
-        plot (\x, {-1 + sqrt(49*((\x - 3)^2 / 25 - 1))});
-    \draw[thick, blue, domain=-3:-2.2, samples=200, smooth] 
-        plot (\x, {-1 - sqrt(49*((\x - 3)^2 / 25 - 1))});
-
-    \draw[thick, blue, domain=8.2:7, samples=200, smooth] 
-        plot (\x, {-1 + sqrt(49*((\x - 3)^2 / 25 - 1))});
-    \draw[thick, blue, domain=8.2:7, samples=200, smooth] 
-        plot (\x, {-1 - sqrt(49*((\x - 3)^2 / 25 - 1))});
+        plot (\x, {-1 + sqrt(49*(((\x - 3)^2 / 25) - 1))});
+\draw[thick, blue, domain=-3:-2.2, samples=200, smooth] 
+        plot (\x, {-1 - sqrt(49*(((\x - 3)^2 / 25) - 1))});
+\draw[thick, blue, domain=-3:-2.2, samples=200, smooth] 
+        plot (\x, {-1 + sqrt(49*(((\x - 3)^2 / 25) - 1))});
+\draw[thick, blue, domain=-3:-2.2, samples=200, smooth] 
+        plot (\x, {-1 + sqrt(49*(((\x - 3)^2 / 25) - 1))});
 
     % Right branch
        \draw[dashed, red, domain=-6:6] plot (\x, { 7 - (7/5)*(\x - 3) });
