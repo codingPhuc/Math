@@ -313,9 +313,9 @@ $$
 | **Standard Form**           | $$<br>\frac{(x + 3)^2}{4}  - \frac{(y -1 )^2}{9}  =1  <br>$$ |
 | **Center**                  | $$(-3 , +1)$$                                                |
 | **Opens**                   | Left and right                                               |
-| **Vertices**                | $$(-7, ), (h-a, k)$$                                         |
-| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                                          |
-| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                             |
+| **Vertices**                | $$(1, 1), (-7, 1)$$                                          |
+| **Slope of Asymptotes**     | $$\pm \frac{3}{2}$$                                          |
+| **Equations of Asymptotes** | $$y = 1 \pm \frac{3}{2}(x + 3)$$                             |
 
 
 
