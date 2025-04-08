@@ -218,23 +218,21 @@ $$
 \frac{(x  -2 )^2}{9}  =      \frac{y^2}{16}  -1    \\
 (x  -2 )^2  = 9\left(  \frac{y^2 - 16}{16}     \right) \\
 x  -2   = \pm \frac{3}{4  }  \sqrt{ y^2 - 16  }   \\
- \pm \frac{3}{4  }  \sqrt{ y^2 - 16  } +2
+x   =   \pm \frac{3}{4  }  \sqrt{ y^2 - 16  } +2
 \end{array}
 $$
 
 
+| Property                    | Horizontal Hyperbola                              | Vertical Hyperbola                                |
+| --------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| **Standard Form**           | $$\frac{(x-h)^2}{a^2} - \frac{(y-k)^2}{b^2} = 1$$ | $$\frac{(y-k)^2}{b^2} - \frac{(x-h)^2}{a^2} = 1$$ |
+| **Center**                  | $$(h, k)$$                                        | $$(h, k)$$                                        |
+| **Opens**                   | Left and right                                    | Up and down                                       |
+| **Vertices**                | $$(h+a, k), (h-a, k)$$                            | $$(h, k+b), (h, k-b)$$                            |
+| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                               | $$\pm \frac{b}{a}$$                               |
+| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                  | $$y = k \pm \frac{b}{a}(x - h)$$                  |
 
 
-
-
-| Property                    | Vertical Hyperbola                     |
-| --------------------------- | -------------------------------------- |
-| **Standard Form**           | $$\frac{y^2}{9}  - (x  + 2)^2   = 1 $$ |
-| **Center**                  | $$(-2,  0 )$$                          |
-| **Opens**                   | Up and down                            |
-| **Vertices**                | $$( -2,1), (-2, -1 )$$                 |
-| **Slope of Asymptotes**     | $$\pm \frac{3}{1}$$                    |
-| **Equations of Asymptotes** | $$y = \pm 3(x + 2)$$                   |
 
 
 ```tikz
@@ -287,3 +285,15 @@ $$
 
 - [ ] read this [document on tikz](https://tikz.dev/tikz-plots) 
 - [ ] why is it when y is minus the it move from left to right,  when x is minus it move from up to down 
+- [ ] prove every single formula here 
+
+
+
+| Property                    | Horizontal Hyperbola                              | Vertical Hyperbola                                |
+| --------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| **Standard Form**           | $$\frac{(x-h)^2}{a^2} - \frac{(y-k)^2}{b^2} = 1$$ | $$\frac{(y-k)^2}{b^2} - \frac{(x-h)^2}{a^2} = 1$$ |
+| **Center**                  | $$(h, k)$$                                        | $$(h, k)$$                                        |
+| **Opens**                   | Left and right                                    | Up and down                                       |
+| **Vertices**                | $$(h+a, k), (h-a, k)$$                            | $$(h, k+b), (h, k-b)$$                            |
+| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                               | $$\pm \frac{b}{a}$$                               |
+| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                  | $$y = k \pm \frac{b}{a}(x - h)$$                  |
