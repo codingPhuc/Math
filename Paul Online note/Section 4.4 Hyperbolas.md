@@ -38,9 +38,10 @@ we got the equation of the asymptotes by using the point slopes form of the line
 
 
 $$
+
 \frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1 
 $$
-
+the x cordinate 
 
 
 | Property                    | Horizontal Hyperbola                                      |
@@ -79,13 +80,10 @@ $$
     % Horizontal hyperbola
 
     % Right branch
-    \draw[thick, blue, domain=-7:7, samples=200, smooth] plot (\x, { 7 - (7/5)*(\x - 3) });
-    \draw[thick, blue, domain=-7:7, samples=200, smooth] plot (\x, { 7 + (7/5)*(\x - 3) });
+       \draw[dashed, red, domain=-6:6] plot (\x, { 7 - (7/5)*(\x - 3) });
+        \draw[dashed, red, domain=-6:6] plot (\x, { 7 + (7/5)*(\x - 3) });
 
     % Asymptotes: y = ±(3/2)x
-    \draw[dashed, red, domain=-6:6] plot (\x, {1.5*\x});
-    \draw[dashed, red, domain=-6:6] plot (\x, {-1.5*\x});
-    
     % Center
     \filldraw[black] (0, 0) circle (2pt) node[below left] {$(0, 0)$};
 
