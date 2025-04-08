@@ -14,5 +14,4 @@ the next graph we need to look at is the  hybebola .
 ![[Pasted image 20250408074110.png]]
 
 
-
-
+Hyperbolas consist of two vaguely parabola shape pieces , that  
