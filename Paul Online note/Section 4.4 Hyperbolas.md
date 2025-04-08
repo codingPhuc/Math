@@ -135,8 +135,8 @@ $$
 | **Center**                  | $$(2,  0 )$$                           |
 | **Opens**                   | Up and down                            |
 | **Vertices**                | $$( 2,1), (2, -1 )$$                   |
-| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                    |
-| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$       |
+| **Slope of Asymptotes**     | $$\pm \frac{3}{1}$$                    |
+| **Equations of Asymptotes** | $$y = \pm 2(x - 2)$$                   |
 
 
 ```tikz
