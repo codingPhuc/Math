@@ -101,8 +101,6 @@ $$
         plot ({3 - (5/7)* sqrt(49 + (\x  + 1 )^2 )} , \x );
         \draw[thick, blue, domain=-3:3, samples=200, smooth] 
         plot ({3 + (5/7)* sqrt(49 + (\x  + 1 )^2 )} , \x );
-            \draw[thick, blue, domain=-3:3, samples=200, smooth] 
-        plot (\x  ,  {3 - (5/7)* sqrt(49 + (\x  + 1 )^2 )});
 
 
     % Right branch
