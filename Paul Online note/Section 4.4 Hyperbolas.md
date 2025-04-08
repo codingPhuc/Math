@@ -215,8 +215,8 @@ the y coordinate  :
 $$
 \begin{array}{l} \\
 \frac{y^2}{16} -\frac{(x  -2 )^2}{9}  = 1     \\
-\frac{y^2}{16} = 1      \\
-y^2  = 9  + 9(x + 2)^2  \\
+\frac{(x  -2 )^2}{9}  =      \frac{y^2}{16}  -1    \\
+(x  -2 )^2  = 9( \frac{y^2 - 16}{16}  -1    ) \\
 y = 3\sqrt{ 1 + (x + 2)^2   } 
 \end{array}
 $$
