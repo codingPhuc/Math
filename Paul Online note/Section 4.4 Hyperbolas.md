@@ -136,7 +136,7 @@ $$
 | **Opens**                   | Up and down                            |
 | **Vertices**                | $$( -2,1), (-2, -1 )$$                 |
 | **Slope of Asymptotes**     | $$\pm \frac{3}{1}$$                    |
-| **Equations of Asymptotes** | $$y = \pm 2(x - 2)$$                   |
+| **Equations of Asymptotes** | $$y = \pm 3(x + 2)$$                   |
 
 
 ```tikz
@@ -173,8 +173,8 @@ $$
         \draw[thick, blue, domain=4:7, samples=200, smooth] 
         plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
     % Right branch
-       \draw[dashed, red, domain=-6:6] plot (\x, { -1 - (7/5)*(\x - 3) });
-        \draw[dashed, red, domain=-6:6] plot (\x, { -1 + (7/5)*(\x - 3) });
+       \draw[dashed, red, domain=-6:6] plot (\x, {3*(x + 2 ) });
+        \draw[dashed, red, domain=-6:6] plot (\x, {-3*(x + 2 )  });
 
     % Asymptotes: y = ±(3/2)x
     % Center
