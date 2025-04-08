@@ -34,7 +34,7 @@ Note that the different between the two term is which form have the minus sign .
 
 we got the equation of the asymptotes by using the point slopes form of the line and the fact that we know the asymptotes will got through the center of the lines 
 
-##  
+##  Sketch the graphs of each of the following hyperbolas 
 
 
 $$
