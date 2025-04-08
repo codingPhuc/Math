@@ -385,18 +385,19 @@ $$
 3(x -1 )^2 - \frac{(y + 1)^2}{2 } = 1  \\
 3(x -1 )^2  =    \frac{ 2  +  (y + 1)^2}{2 }    \\
 (x -1 )^2   = \frac{ 2  +  (y + 1)^2}{6 }   \\
-x - 1  =  \sqrt{ \frac{ 2  +  (y + 1)^2}{6 }  }
+x - 1  =  \sqrt{ \frac{ 2  +  (y + 1)^2}{6 }  }  \\
+x  =   \sqrt{ \frac{ 2  +  (y + 1)^2}{6 }  }  + 1 
 \end{array}
 $$
 
-| Property                    | Horizontal Hyperbola                                         |
-| --------------------------- | ------------------------------------------------------------ |
-| **Standard Form**           | $$<br>\frac{(x + 3)^2}{4}  - \frac{(y -1 )^2}{9}  =1  <br>$$ |
-| **Center**                  | $$(-3 , +1)$$                                                |
-| **Opens**                   | Left and right                                               |
-| **Vertices**                | $$(1, 1), (-7, 1)$$                                          |
-| **Slope of Asymptotes**     | $$\pm \frac{3}{2}$$                                          |
-| **Equations of Asymptotes** | $$y = 1 \pm \frac{3}{2}(x + 3)$$                             |
+| Property                    | Horizontal Hyperbola                        |
+| --------------------------- | ------------------------------------------- |
+| **Standard Form**           | $$3(x - 1)^2 - \frac{(y+ 1)^2}{2}  = 1   $$ |
+| **Center**                  | $$(1)$$                                     |
+| **Opens**                   | Left and right                              |
+| **Vertices**                | $$(1, 1), (-7, 1)$$                         |
+| **Slope of Asymptotes**     | $$\pm \frac{3}{2}$$                         |
+| **Equations of Asymptotes** | $$y = 1 \pm \frac{3}{2}(x + 3)$$            |
 
 
 
