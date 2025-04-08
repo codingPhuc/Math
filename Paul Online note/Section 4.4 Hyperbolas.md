@@ -24,7 +24,8 @@ $$
 \text{Form } \frac{(x-h)^2}{a^2}  -  \frac{(y - k)^2}{b^2} = 1 \;  \frac{(y-h)^2}{b^2}  -  \frac{(x - k)^2}{a^2} = 1 \\
 \text{Center } (h, k ) \;(h ,k) \\
 \text{Opens } \text{Opens left and right } \text{Open up and down } \\
-\text{Vertices } ()
+\text{Vertices } (h+ a , k) \text{ and } (h - a  ,k ) \; (h, k + b )  \text{ and } (h, k - b )   \\
+
 \end{array}
 $$
 
