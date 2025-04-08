@@ -19,7 +19,9 @@ Hyperbolas consist of two vaguely parabola shape pieces that open either up and 
 There are also two line on each graph. These line are called asymptotes as the graph show as we make x large (in both the positive and negative sense) the graph of the hyperbolas get closer and closer to the asymptotes .However they are included to make sure we get the sketch correct . The point where the two asymptotes cross is called the hyperbola 
 
 There are two standard form of the hyperbola , one for each directional type shown above 
-
-
-
+$$
+\begin{array} {l}
+\text{Form } \frac{(x-h)^2}{a^2}  -  \frac{(y - k)^2}{b^2} = 1 
+\end{array}
+$$
 
