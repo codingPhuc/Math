@@ -393,7 +393,7 @@ $$
 | Property                    | Horizontal Hyperbola                        |
 | --------------------------- | ------------------------------------------- |
 | **Standard Form**           | $$3(x - 1)^2 - \frac{(y+ 1)^2}{2}  = 1   $$ |
-| **Center**                  | $$(1)$$                                     |
+| **Center**                  | $$(1 ,  -1)$$                               |
 | **Opens**                   | Left and right                              |
 | **Vertices**                | $$(1, 1), (-7, 1)$$                         |
 | **Slope of Asymptotes**     | $$\pm \frac{3}{2}$$                         |
