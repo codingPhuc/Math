@@ -167,7 +167,7 @@ $$
     \draw[thick, blue, domain=-3:-1, samples=200, smooth] 
         plot (\x, { 3* sqrt(1 +  (\x + 2)^2 )});
         \draw[thick, blue, domain=-3:-1, samples=200, smooth] 
-        plot (\x, { 3* sqrt(1 +  (\x + 2)^2 )});
+        plot (\x, { 3* sqrt(1 +  (-\x + 2)^2 )});
 
     % Right branch
        \draw[dashed, red, domain=-6:6] plot (\x, {3*(\x + 2 ) });
