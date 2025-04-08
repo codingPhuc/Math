@@ -166,7 +166,7 @@ $$
     
  3\sqrt{ 1 + (x + 2)^2   } 
     \draw[thick, blue, domain=0:2, samples=200, smooth] 
-        plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
+        plot (\x, {-1 + sqrt()});
         \draw[thick, blue, domain=0:2, samples=200, smooth] 
         plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
 
