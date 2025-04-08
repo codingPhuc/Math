@@ -129,11 +129,62 @@ $$
 
 
 
-| Property                    | Horizontal Hyperbola                              | Vertical Hyperbola                                |
-| --------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| **Standard Form**           | $$\frac{(x-h)^2}{a^2} - \frac{(y-k)^2}{b^2} = 1$$ | $$\frac{(y-k)^2}{b^2} - \frac{(x-h)^2}{a^2} = 1$$ |
-| **Center**                  | $$(h, k)$$                                        | $$(h, k)$$                                        |
-| **Opens**                   | Left and right                                    | Up and down                                       |
-| **Vertices**                | $$(h+a, k), (h-a, k)$$                            | $$(h, k+b), (h, k-b)$$                            |
-| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                               | $$\pm \frac{b}{a}$$                               |
-| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                  | $$y = k \pm \frac{b}{a}(x - h)$$                  |
+| Property                    | Vertical Hyperbola                     |
+| --------------------------- | -------------------------------------- |
+| **Standard Form**           | $$\frac{y^2}{9}  - (x  + 2)^2   = 1 $$ |
+| **Center**                  | $$(h, k)$$                             |
+| **Opens**                   | Up and down                            |
+| **Vertices**                | $$(h, k+b), (h, k-b)$$                 |
+| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                    |
+| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$       |
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw axes
+    \draw[->] (-7,0) -- (7,0) node[right] {$x$};
+    \draw[->] (0,-7) -- (0,7) node[above] {$y$};
+
+    % Tick marks and labels
+    \foreach \x in {-6,-5,...,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-6,-5,...,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Parameters
+    % Center: (h, k) = (0, 0)
+    % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
+    % Horizontal hyperbola
+
+    \draw[thick, blue, domain=0:2, samples=200, smooth] 
+        plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
+        \draw[thick, blue, domain=0:2, samples=200, smooth] 
+        plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
+    \draw[thick, blue, domain=4:7, samples=200, smooth] 
+        plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
+        \draw[thick, blue, domain=4:7, samples=200, smooth] 
+        plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
+    % Right branch
+       \draw[dashed, red, domain=-6:6] plot (\x, { -1 - (7/5)*(\x - 3) });
+        \draw[dashed, red, domain=-6:6] plot (\x, { -1 + (7/5)*(\x - 3) });
+
+    % Asymptotes: y = ±(3/2)x
+    % Center
+    \filldraw[black] (0, 0) circle (2pt) node[below left] {$(0, 0)$};
+
+\end{tikzpicture}
+\end{document}
+
+```
+
+
+
+
