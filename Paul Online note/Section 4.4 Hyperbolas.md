@@ -264,8 +264,8 @@ $$
   
       \draw[thick, blue, domain=0:1, samples=200, smooth] 
       plot ( \x  , {( 4/3 )*  sqrt( 9 + ( \x- 2 )^2 ) }); 
-        \draw[thick, blue, domain=0:1, samples=200, smooth] 
-        plot ( \x  , {-(4/3)*sqrt(9 + (\x -2 )^2)}) 
+     \draw[thick, blue, domain=0:1, samples=200, smooth] 
+        plot ( \x  , {-(4/3)*sqrt(9 + (\x -2 )^2)}) ;
     % Right branch
        \draw[dashed, red, domain=-6:6] plot (\x, {(4/3)*(\x - 2 ) });
         \draw[dashed, red, domain=-6:6] plot (\x, {-(4/3)*(\x - 2 )  });
