@@ -79,8 +79,8 @@ $$
     % Horizontal hyperbola
 
     % Right branch
-    \draw[thick, blue, domain=2.1:6, samples=200, smooth] plot (\x, { 7 - (7/5)*(\x - 3) });
-
+    \draw[thick, blue, domain=-7:7, samples=200, smooth] plot (\x, { 7 - (7/5)*(\x - 3) });
+    \draw[thick, blue, domain=-7:7, samples=200, smooth] plot (\x, { 7 + (7/5)*(\x - 3) });
 
     % Asymptotes: y = ±(3/2)x
     \draw[dashed, red, domain=-6:6] plot (\x, {1.5*\x});
