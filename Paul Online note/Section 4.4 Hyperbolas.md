@@ -215,10 +215,8 @@ the y coordinate  :
 $$
 \begin{array}{l} \\
 \frac{y^2}{16} -\frac{(x  -2 )^2}{9}  = 1     \\
-\frac{(x  -2 )^2}{9}  =      \frac{y^2}{16}  -1    \\
-(x  -2 )^2  = 9\left(  \frac{y^2 - 16}{16}     \right) \\
-x  -2   = \pm \frac{3}{4  }  \sqrt{ y^2 - 16  }   \\
-x   =   \pm \frac{3}{4  }  \sqrt{ y^2 - 16  } +2
+ \frac{y^2}{16} =   1 + \frac{(x  -2 )^2}{9}   \\
+y  = \frac{4}{3}( )
 \end{array}
 $$
 
