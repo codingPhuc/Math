@@ -200,4 +200,7 @@ $$
 
 
 
-
+    \draw[thick, blue, domain=2:3, samples=200, smooth] 
+        plot ({-2 +  sqrt((\x^2 -  9)/9 ) }, \x );
+\draw[thick, blue, domain=2:3, samples=200, smooth] 
+      plot ({-2 +  sqrt((\x^2 -  9)/9 ) },\x);
