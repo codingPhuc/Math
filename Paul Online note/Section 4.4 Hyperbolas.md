@@ -88,9 +88,9 @@ $$
     % Center: (h, k) = (0, 0)
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola
-        \draw[thick, blue, domain=-3:3, samples=200, smooth] 
+        \draw[thick, blue, domain=-5:5, samples=200, smooth] 
         plot ({3 - (5/7)* sqrt(49 + (\x  + 1 )^2 )} , \x );
-        \draw[thick, blue, domain=-3:3, samples=200, smooth] 
+        \draw[thick, blue, domain=-5:5, samples=200, smooth] 
         plot ({3 + (5/7)* sqrt(49 + (\x  + 1 )^2 )} , \x );
 
 
@@ -207,7 +207,7 @@ $$
 
 $$
 
-\frac{y^2}{16} - \frac{x-2}{}
+\frac{y^2}{16}  
 $$
 $$
 
