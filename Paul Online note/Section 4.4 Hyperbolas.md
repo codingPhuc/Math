@@ -121,9 +121,7 @@ the x coordinate  :
 $$
 \begin{array}{l} \\
 \frac{y^2}{9}  - (x  + 2)^2   = 1   \\
-(x  + 2)^2   = \frac{y^2}{9}  -1   \\
-x  + 2  = \sqrt{  \frac{y^2 -  9}{9} }  \\
-x   = \sqrt{  \frac{y^2 -  9}{9} }-  2 
+\frac{y^2}{9}   = 1  +  
 \end{array}
 $$
 
@@ -162,7 +160,8 @@ $$
     % Parameters
     % Center: (h, k) = (0, 0)
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
-    % Horizontal hyperbola
+    % Horizontal hyperbola 
+    
 
     \draw[thick, blue, domain=0:2, samples=200, smooth] 
         plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
