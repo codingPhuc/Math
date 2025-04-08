@@ -38,7 +38,7 @@ we got the equation of the asymptotes by using the point slopes form of the line
 
 
 $$
-\frac{(x - 3)^2}{25}  -  \frac{(x + 1 )^2}{49 }  = 1 
+\frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1 
 $$
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -85,6 +85,17 @@ $$
 
 ```
 
+
+
+
+| Property                    | Horizontal Hyperbola                                      |
+| --------------------------- | --------------------------------------------------------- |
+| **Standard Form**           | $$\frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1 $$ |
+| **Center**                  | $$(h, k)$$                                                |
+| **Opens**                   | Left and right                                            |
+| **Vertices**                | $$(h+a, k), (h-a, k)$$                                    |
+| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                                       |
+| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                          |
 
 
 $$
