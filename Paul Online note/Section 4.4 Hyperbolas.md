@@ -252,7 +252,7 @@ $$
     \foreach \y in {-6,-5,...,6} {
         \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
     }
-
+y  = \frac{4}{3}( 9 +(x  -2 )^2   )
     % Parameters
     % Center: (h, k) = (0, 0)
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
@@ -262,8 +262,8 @@ $$
 
     %% \draw[thick, blue, domain=-2:3, samples=200, smooth]  plot (\x, {-3*sqrt(   (( \x^2 - 4)/9 )   });  %% % Left branch of the hyperbola
 
-%%         \draw[thick, blue, domain=-3:-1, samples=200, smooth] plot ( \x  , {3* sqrt(1 + (\x+ 2)^2)}); %%
-%%         \draw[thick, blue, domain=-3:-1, samples=200, smooth] plot ( \x  , {-3* sqrt(1 + (\x+ 2)^2)}); %%
+      \draw[thick, blue, domain=-1:5, samples=200, smooth] plot ( \x  , {3* sqrt(1 + (\x+ 2)^2)}); 
+        \draw[thick, blue, domain=-1:5, samples=200, smooth] plot ( \x  , {-3* sqrt(1 + (\x+ 2)^2)})
     % Right branch
        \draw[dashed, red, domain=-6:6] plot (\x, {(4/3)*(\x - 2 ) });
         \draw[dashed, red, domain=-6:6] plot (\x, {-(4/3)*(\x - 2 )  });
@@ -276,6 +276,9 @@ $$
 \end{document}
 
 ```
+
+
+
 
 # #todo  
 
