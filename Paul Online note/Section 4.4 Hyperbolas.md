@@ -57,7 +57,7 @@ $$
 \frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1   \\
 \frac{(x - 3)^2}{25}  =   1 + \frac{(y + 1 )^2}{49 }  \\
 (x - 3)^2    =\frac{5}{7}\sqrt{ 49  + (y + 1 )^2 } \\
-x    =\frac{5}{7}\sqrt{ 49  + (y + 1 )^2 }  + 3  
+x    =   3   \mp \frac{5}{7}\sqrt{ 49  + (y + 1 )^2 }  
 \end{array}
 $$
 
@@ -97,11 +97,11 @@ $$
     % Center: (h, k) = (0, 0)
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola
-
+  3   \mp \frac{5}{7}\sqrt{ 49  + (y + 1 )^2 }  
     \draw[thick, blue, domain=0:2, samples=200, smooth] 
         plot (\x, {-1 + sqrt(  (49*((\x - 3)^2 / 25) - 1))});
         \draw[thick, blue, domain=0:2, samples=200, smooth] 
-        plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
+        plot (\x, {-1 - sqrt(49 )});
     
     \draw[thick, blue, domain=4:7, samples=200, smooth] 
         plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
