@@ -226,9 +226,9 @@ $$
 | **Standard Form**           | $$\frac{y^2}{16} -\frac{(x  -2 )^2}{9}  = 1  $$ |
 | **Center**                  | $$(2, 0 )$$                                     |
 | **Opens**                   | Up and down                                     |
-| **Vertices**                | $$(h, k+b), (h, k-b)$$                          |
-| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                             |
-| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                |
+| **Vertices**                | $$(2 , 4), (2, -4)$$                            |
+| **Slope of Asymptotes**     | $$\pm \frac{4}{3}$$                             |
+| **Equations of Asymptotes** | $$y = k \pm \frac{4}{3}(x - h)$$                |
 
 
 
