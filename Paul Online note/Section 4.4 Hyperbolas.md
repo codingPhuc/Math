@@ -30,4 +30,4 @@ There are two standard form of the hyperbola , one for each directional type sho
 | **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                                        | $$\pm \frac{b}{a}$$                                        |
 | **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                           | $$y = k \pm \frac{b}{a}(x - h)$$                           |
 
-Note that the different between the two term is which form have the minus sign . if the y term have the minus sign then the hyperbola will open left 
+Note that the different between the two term is which form have the minus sign . if the y term have the minus sign then the hyperbola will open right and left, if the x term have the minus sign then the hyperbolas will open up and down 
