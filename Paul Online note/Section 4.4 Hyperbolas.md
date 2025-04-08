@@ -42,6 +42,7 @@ $$
 $$
 $$
 \begin{array} {l}
+\frac{(x - 3)^2}{25}  -  \frac{(x + 1 )^2}{49 }  = 1   \\
 
 \end{array}
 $$
