@@ -26,7 +26,7 @@ $$
 \text{Opens } \text{Opens left and right } \text{Open up and down } \\
 \text{Vertices } (h+ a , k) \text{ and } (h - a  ,k ) \; (h, k + b )  \text{ and } (h, k - b )   \\
 \text{ Slope of Asymptotes } \pm \frac{b}{a} \; \mp \frac{b}{a} \\
-\text{Equation of Asymptotes } 
+\text{Equation of Asymptotes } y= k \pm \frac{b}{a}(x - h) \; y = k \pm \frac{b}{a}(x - h )
 \end{array}
 $$
 
