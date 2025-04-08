@@ -454,8 +454,14 @@ $$
 
 
 
-##  For problem 4
+##   4 & 5 complete the square on the x and y portions of the equation and write the equation into the standard form of the equation of the hyperbola. 
 
+$$
+\begin{array}{l}  \\
+4x^2 - 32x - y^2 - 4y + 24  = 0  \\
+
+\end{array}
+$$
 
 
 # #todo  
