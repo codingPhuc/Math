@@ -382,7 +382,7 @@ $$
 the y coordinate  : 
 $$
 \begin{array}{l} \\
-\frac{(x + 3)^2}{4}  - \frac{(y -1 )^2}{9}  =1    \\
+\frac{(x+ 3)^2}{4} - \frac{(y - 1)^2}{2 }  = 1  \\
 \frac{(x + 3)^2}{4}    = 1 +  \frac{(y -1 )^2}{9}   \\
 (x + 3)^2    = 4 \left( 1 +  \frac{(y -1 )^2}{9}   \right)    \\
 x  =\pm \frac{2}{3}\sqrt{  9  + (y -1 )^2  } -3 
