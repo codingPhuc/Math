@@ -32,4 +32,4 @@ There are two standard form of the hyperbola , one for each directional type sho
 
 Note that the different between the two term is which form have the minus sign . if the y term have the minus sign then the hyperbola will open right and left, if the x term have the minus sign then the hyperbolas will open up and down 
 
-we got the equation of the asymptotes by using the po
+we got the equation of the asymptotes by using the point slopes form of the line and the fact that we know the asymtot
