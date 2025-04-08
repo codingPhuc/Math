@@ -52,6 +52,16 @@ y  =   7\sqrt{  \frac{(x - 3)^2}{25}  - 1  }  -1
 $$
 
 
+$$
+\begin{array}{l} \\
+\frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1   \\
+\frac{(x - 3)^2}{25}  =   1 + \frac{(y + 1 )^2}{49 }  \\
+\frac{(x - 3)^2}{25}     = 25  +    \\
+y  =   7\sqrt{  \frac{(x - 3)^2}{25}  - 1  }  -1 
+\end{array}
+$$
+
+
 
 | Property                    | Horizontal Hyperbola                                      |
 | --------------------------- | --------------------------------------------------------- |
@@ -92,6 +102,7 @@ $$
         plot (\x, {-1 + sqrt(  (49*((\x - 3)^2 / 25) - 1))});
         \draw[thick, blue, domain=0:2, samples=200, smooth] 
         plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
+    
     \draw[thick, blue, domain=4:7, samples=200, smooth] 
         plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
         \draw[thick, blue, domain=4:7, samples=200, smooth] 
