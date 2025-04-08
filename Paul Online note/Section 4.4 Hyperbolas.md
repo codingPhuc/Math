@@ -41,7 +41,18 @@ $$
 
 \frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1 
 $$
-the x cordinate 
+the x coordinate  : 
+$$
+\begin{array}{l} \\
+\frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1   \\
+\frac{(y + 1 )^2}{49 }   =  \frac{(x - 3)^2}{25}  - 1   \\
+y + 1   = \frac{(x - 3)^2}{25} \cdot 
+\end{array}
+$$
+
+$$
+ 
+$$
 
 
 | Property                    | Horizontal Hyperbola                                      |
