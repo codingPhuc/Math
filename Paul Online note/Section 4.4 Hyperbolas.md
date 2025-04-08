@@ -168,13 +168,10 @@ $$
         plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
         \draw[thick, blue, domain=0:2, samples=200, smooth] 
         plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
-    \draw[thick, blue, domain=4:7, samples=200, smooth] 
-        plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
-        \draw[thick, blue, domain=4:7, samples=200, smooth] 
-        plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
+
     % Right branch
-       \draw[dashed, red, domain=-6:6] plot (\x, {3*(x + 2 ) });
-        \draw[dashed, red, domain=-6:6] plot (\x, {-3*(x + 2 )  });
+       \draw[dashed, red, domain=-6:6] plot (\x, {3*(\x + 2 ) });
+        \draw[dashed, red, domain=-6:6] plot (\x, {(-3)*(\x + 2 )  });
 
     % Asymptotes: y = ±(3/2)x
     % Center
