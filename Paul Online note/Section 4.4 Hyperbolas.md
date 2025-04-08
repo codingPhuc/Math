@@ -164,9 +164,9 @@ $$
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola 
     
-    \draw[thick, blue, domain=0:2, samples=200, smooth] 
+    \draw[thick, blue, domain=-3:-1, samples=200, smooth] 
         plot (\x, { 3* sqrt(1 +  (\x + 2)^2 )});
-        \draw[thick, blue, domain=0:2, samples=200, smooth] 
+        \draw[thick, blue, domain=-3:-1, samples=200, smooth] 
         plot (\x, { 3* sqrt(1 +  (\x + 2)^2 )});
 
     % Right branch
