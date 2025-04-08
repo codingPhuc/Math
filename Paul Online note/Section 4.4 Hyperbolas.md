@@ -137,7 +137,8 @@ $$
 \begin{array}{l} \\
 \frac{y^2}{9}  - (x  + 2)^2   = 1   \\
 (x  + 2)^2 = \frac{y^2}{9} -1    \\
-x  + 2 = \sqrt{   }
+x  + 2 = \sqrt{ \frac{y^2 -  9 }{9}  }  \\
+x   = -2 +   \sqrt{ \frac{y^2 -  9 }{9}  } 
 \end{array}
 $$
 
