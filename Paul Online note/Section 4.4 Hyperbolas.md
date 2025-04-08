@@ -383,9 +383,8 @@ the y coordinate  :
 $$
 \begin{array}{l} \\
 3(x -1 )^2 - \frac{(y + 1)^2}{2 } = 1  \\
-  \\
-(x + 3)^2    = 4 \left( 1 +  \frac{(y -1 )^2}{9}   \right)    \\
-x  =\pm \frac{2}{3}\sqrt{  9  + (y -1 )^2  } -3 
+3(x -1 )^2  =  1 +  \frac{(y + 1)^2}{2 }    \\
+(x -1 )^2   =\pm \frac{2}{3}\sqrt{  9  + (y -1 )^2  } -3 
 \end{array}
 $$
 
