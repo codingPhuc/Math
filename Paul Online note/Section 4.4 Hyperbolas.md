@@ -228,7 +228,7 @@ $$
 | **Opens**                   | Up and down                                     |
 | **Vertices**                | $$(2 , 4), (2, -4)$$                            |
 | **Slope of Asymptotes**     | $$\pm \frac{4}{3}$$                             |
-| **Equations of Asymptotes** | $$y = k \pm \frac{4}{3}(x - h)$$                |
+| **Equations of Asymptotes** | $$y =  \pm \frac{4}{3}(x - 2)$$                 |
 
 
 
@@ -261,7 +261,7 @@ $$
 %%    \draw[thick, blue, domain=-2:3, samples=200, smooth] plot (\x, {3*sqrt(  (( \x^2 - 4)/9 )   ) }); %%  % Right branch of the hyperbola
 
     %% \draw[thick, blue, domain=-2:3, samples=200, smooth]  plot (\x, {-3*sqrt(   (( \x^2 - 4)/9 )   });  %% % Left branch of the hyperbola
-
+\frac{4}{3}( 9 +(x  -2 )^2   )
         \draw[thick, blue, domain=-3:-1, samples=200, smooth] 
         plot ( \x  , {3* sqrt(1 + (\x+ 2)^2)});
         \draw[thick, blue, domain=-3:-1, samples=200, smooth] 
