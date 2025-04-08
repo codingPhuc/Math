@@ -101,7 +101,7 @@ $$
     \draw[thick, blue, domain=0:2, samples=200, smooth] 
         plot (\x, {-1 + sqrt(  (49*((\x - 3)^2 / 25) - 1))});
         \draw[thick, blue, domain=0:2, samples=200, smooth] 
-        plot (\x, {-1 - sqrt(49 )});
+        plot (\x {3 + (5/7)* sqrt(49 + (\x  + 1 )^2 )}, );
     
     \draw[thick, blue, domain=4:7, samples=200, smooth] 
         plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
