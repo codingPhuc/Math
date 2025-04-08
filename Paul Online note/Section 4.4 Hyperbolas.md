@@ -9,3 +9,10 @@ Current date: 2025-04-08
 
 the next graph we need to look at is the  hybebola . 
 
+![[Pasted image 20250408074105.png]]
+
+![[Pasted image 20250408074110.png]]
+
+
+
+
