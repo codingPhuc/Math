@@ -216,19 +216,19 @@ $$
 \begin{array}{l} \\
 \frac{y^2}{16} -\frac{(x  -2 )^2}{9}  = 1     \\
  \frac{y^2}{16} =   1 + \frac{(x  -2 )^2}{9}   \\
-y  = \frac{4}{3}( )
+y  = \frac{4}{3}( 9 +(x  -2 )^2   )
 \end{array}
 $$
 
 
-| Property                    | Horizontal Hyperbola                              | Vertical Hyperbola                                |
-| --------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| **Standard Form**           | $$\frac{(x-h)^2}{a^2} - \frac{(y-k)^2}{b^2} = 1$$ | $$\frac{(y-k)^2}{b^2} - \frac{(x-h)^2}{a^2} = 1$$ |
-| **Center**                  | $$(h, k)$$                                        | $$(h, k)$$                                        |
-| **Opens**                   | Left and right                                    | Up and down                                       |
-| **Vertices**                | $$(h+a, k), (h-a, k)$$                            | $$(h, k+b), (h, k-b)$$                            |
-| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                               | $$\pm \frac{b}{a}$$                               |
-| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                  | $$y = k \pm \frac{b}{a}(x - h)$$                  |
+| Property                    | Vertical Hyperbola                              |
+| --------------------------- | ----------------------------------------------- |
+| **Standard Form**           | $$\frac{y^2}{16} -\frac{(x  -2 )^2}{9}  = 1  $$ |
+| **Center**                  | $$(2, 0 )$$                                     |
+| **Opens**                   | Up and down                                     |
+| **Vertices**                | $$(h, k+b), (h, k-b)$$                          |
+| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                             |
+| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                |
 
 
 
