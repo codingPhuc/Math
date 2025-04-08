@@ -308,15 +308,14 @@ x  =\pm \frac{2}{3}\sqrt{  9  + (y -1 )^2  } -3
 \end{array}
 $$
 
-
-| Property                    | Vertical Hyperbola                              |
-| --------------------------- | ----------------------------------------------- |
-| **Standard Form**           | $$\frac{y^2}{16} -\frac{(x  -2 )^2}{9}  = 1  $$ |
-| **Center**                  | $$(2, 0 )$$                                     |
-| **Opens**                   | Up and down                                     |
-| **Vertices**                | $$(2 , 4), (2, -4)$$                            |
-| **Slope of Asymptotes**     | $$\pm \frac{4}{3}$$                             |
-| **Equations of Asymptotes** | $$y =  \pm \frac{4}{3}(x - 2)$$                 |
+| Property                    | Horizontal Hyperbola                                         |
+| --------------------------- | ------------------------------------------------------------ |
+| **Standard Form**           | $$<br>\frac{(x + 3)^2}{4}  - \frac{(y -1 )^2}{9}  =1  <br>$$ |
+| **Center**                  | $$(-3 , +1)$$                                                |
+| **Opens**                   | Left and right                                               |
+| **Vertices**                | $$(-7, ), (h-a, k)$$                                         |
+| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                                          |
+| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                             |
 
 
 
