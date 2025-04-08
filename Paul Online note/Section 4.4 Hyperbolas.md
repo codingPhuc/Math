@@ -207,7 +207,7 @@ $$
 
 $$
 
-\frac{y^2}{9}  - (x  + 2)^2   = 1 
+\frac{y^2}{16} - \frac{x-2}{}
 $$
 $$
 
@@ -285,3 +285,6 @@ $$
 
 ```
 
+# #todo  
+
+- [ ] read this [document on tikz](https://tikz.dev/tikz-plots)
