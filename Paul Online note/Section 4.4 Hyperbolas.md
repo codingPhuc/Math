@@ -128,7 +128,7 @@ $$
 \frac{y^2}{9}  - (x  + 2)^2   = 1 
 $$
 
-the x coordinate  : 
+the y coordinate  : 
 $$
 \begin{array}{l} \\
 \frac{y^2}{9}  - (x  + 2)^2   = 1   \\
@@ -139,14 +139,7 @@ y = 3\sqrt{ 1 + (x + 2)^2   }
 $$
 
 
-$$
-\begin{array}{l} \\
-\frac{y^2}{9}  - (x  + 2)^2   = 1   \\
-(x  + 2)^2 = \frac{y^2}{9} -1    \\
-x  + 2 = \sqrt{ \frac{y^2 -  9 }{9}  }  \\
-x   = -2 +   \sqrt{ \frac{y^2 -  9 }{9}  } 
-\end{array}
-$$
+
 
 
 
