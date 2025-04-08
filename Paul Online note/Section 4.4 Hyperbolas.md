@@ -42,15 +42,6 @@ $$
 \frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1 
 $$
 the x coordinate  : 
-$$
-\begin{array}{l} \\
-\frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1   \\
-\frac{(y + 1 )^2}{49 }   =  \frac{(x - 3)^2}{25}  - 1   \\
-y + 1   = \sqrt{  \frac{(x - 3)^2}{25} \cdot 49 - 49  }  \\
-y  =   7\sqrt{  \frac{(x - 3)^2}{25}  - 1  }  -1 
-\end{array}
-$$
-
 
 $$
 \begin{array}{l} \\
@@ -202,7 +193,95 @@ $$
 
 
 
-    \draw[thick, blue, domain=2:3, samples=200, smooth] 
-        plot ({-2 +  sqrt((\x^2 -  9)/9 ) }, \x );
-\draw[thick, blue, domain=2:3, samples=200, smooth] 
-      plot ({-2 +  sqrt((\x^2 -  9)/9 ) },\x);
+
+
+
+
+
+
+
+
+
+
+
+
+$$
+
+\frac{y^2}{9}  - (x  + 2)^2   = 1 
+$$
+$$
+
+\frac{y^2}{9}  - (x  + 2)^2   = 1 
+$$
+
+the y coordinate  : 
+$$
+\begin{array}{l} \\
+\frac{y^2}{9}  - (x  + 2)^2   = 1   \\
+\frac{y^2}{9}   = 1  +  (x  + 2)^2   \\
+y^2  = 9  + 9(x + 2)^2  \\
+y = 3\sqrt{ 1 + (x + 2)^2   } 
+\end{array}
+$$
+
+
+
+
+
+
+| Property                    | Vertical Hyperbola                     |
+| --------------------------- | -------------------------------------- |
+| **Standard Form**           | $$\frac{y^2}{9}  - (x  + 2)^2   = 1 $$ |
+| **Center**                  | $$(-2,  0 )$$                          |
+| **Opens**                   | Up and down                            |
+| **Vertices**                | $$( -2,1), (-2, -1 )$$                 |
+| **Slope of Asymptotes**     | $$\pm \frac{3}{1}$$                    |
+| **Equations of Asymptotes** | $$y = \pm 3(x + 2)$$                   |
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw axes
+    \draw[->] (-7,0) -- (7,0) node[right] {$x$};
+    \draw[->] (0,-7) -- (0,7) node[above] {$y$};
+
+    % Tick marks and labels
+    \foreach \x in {-6,-5,...,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-6,-5,...,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Parameters
+    % Center: (h, k) = (0, 0)
+    % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
+    % Horizontal hyperbola 
+
+%%    \draw[thick, blue, domain=-2:3, samples=200, smooth] plot (\x, {3*sqrt(  (( \x^2 - 4)/9 )   ) }); %%  % Right branch of the hyperbola
+
+    %% \draw[thick, blue, domain=-2:3, samples=200, smooth]  plot (\x, {-3*sqrt(   (( \x^2 - 4)/9 )   });  %% % Left branch of the hyperbola
+
+        \draw[thick, blue, domain=-3:-1, samples=200, smooth] 
+        plot ( \x  , {3* sqrt(1 + (\x+ 2)^2)});
+        \draw[thick, blue, domain=-3:-1, samples=200, smooth] 
+        plot ( \x  , {-3* sqrt(1 + (\x+ 2)^2)});
+    % Right branch
+       \draw[dashed, red, domain=-6:6] plot (\x, {3*(\x + 2 ) });
+        \draw[dashed, red, domain=-6:6] plot (\x, {(-3)*(\x + 2 )  });
+
+    % Asymptotes: y = ±(3/2)x
+    % Center
+    \filldraw[black] (0, 0) circle (2pt) node[below left] {$(0, 0)$};
+
+\end{tikzpicture}
+\end{document}
+
+```
+
