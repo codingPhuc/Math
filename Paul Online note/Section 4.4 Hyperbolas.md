@@ -115,15 +115,13 @@ $$
 
 $$
 
-\frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1 
+\frac{y^2}{9}  - (x  + 2)^2   = 1 
 $$
 the x coordinate  : 
 $$
 \begin{array}{l} \\
-\frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1   \\
-\frac{(y + 1 )^2}{49 }   =  \frac{(x - 3)^2}{25}  - 1   \\
-y + 1   = \sqrt{  \frac{(x - 3)^2}{25} \cdot 49 - 49  }  \\
-y  =   7\sqrt{  \frac{(x - 3)^2}{25}  - 1  }  -1 
+\frac{y^2}{9}  - (x  + 2)^2   = 1   \\
+(x  + 2)^2   = \frac{y^2}{9}  -1  
 \end{array}
 $$
 
