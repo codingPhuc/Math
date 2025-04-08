@@ -164,11 +164,10 @@ $$
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola 
     
- 3\sqrt{ 1 + (x + 2)^2   } 
     \draw[thick, blue, domain=0:2, samples=200, smooth] 
-        plot (\x, {-1 + sqrt()});
+        plot (\x, { 3* sqrt(1 +  (\x + 2)^2 )});
         \draw[thick, blue, domain=0:2, samples=200, smooth] 
-        plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
+        plot (\x, { 3* sqrt(1 +  (\x + 2)^2 )});
 
     % Right branch
        \draw[dashed, red, domain=-6:6] plot (\x, {3*(\x + 2 ) });
