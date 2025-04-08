@@ -348,14 +348,14 @@ $$
 %%    \draw[thick, blue, domain=-2:3, samples=200, smooth] plot (\x, {3*sqrt(  (( \x^2 - 4)/9 )   ) }); %%  % Right branch of the hyperbola
 
     %% \draw[thick, blue, domain=-2:3, samples=200, smooth]  plot (\x, {-3*sqrt(   (( \x^2 - 4)/9 )   });  %% % Left branch of the hyperbola
-  
+  \pm \frac{2}{3}\sqrt{  9  + (y -1 )^2  } -3 
       \draw[thick, blue, domain=-1:5, samples=200, smooth] 
-      plot ( \x  , {( 4/3 )*  sqrt( 9 + ( \x- 2 )^2 ) }); 
+      plot ( \x  , {( 4/3 )*  sqrt( 9 + ( \x- 1 )^2 ) -3  }); 
      \draw[thick, blue, domain=-1:5, samples=200, smooth] 
         plot ( \x  , {-(4/3)*sqrt(9 + (\x -2 )^2)}) ;
     % Right branch
-       \draw[dashed, red, domain=-6:6] plot (\x, {(4/3)*(\x - 2 ) });
-        \draw[dashed, red, domain=-6:6] plot (\x, {-(4/3)*(\x - 2 )  });
+       \draw[dashed, red, domain=-6:6] plot (\x, {1 + (3/2)*(\x + 3 ) });
+        \draw[dashed, red, domain=-6:6] plot (\x, {1 -(3/2)*(\x + 3)  });
 
     % Asymptotes: y = ±(3/2)x
     % Center
