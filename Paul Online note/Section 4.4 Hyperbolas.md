@@ -6,3 +6,6 @@ tags:
 reference: 
 Current date: 2025-04-08
 ---
+
+the next graph we need to look at is the  hybebola . 
+
