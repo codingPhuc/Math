@@ -390,14 +390,14 @@ x  =   \sqrt{ \frac{ 2  +  (y + 1)^2}{6 }  }  + 1
 \end{array}
 $$
 
-| Property                    | Horizontal Hyperbola                      |
-| --------------------------- | ----------------------------------------- |
-| **Standard Form**           | $$3(x - 1)^2 - \frac{(y+ 1)^2}{2}  = 1 $$ |
-| **Center**                  | $$(1,  - 1)$$                             |
-| **Opens**                   | Left and right                            |
-| **Vertices**                | $$(, k), (h-a, k)$$                       |
-| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                       |
-| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$          |
+| Property                    | Horizontal Hyperbola                                                |
+| --------------------------- | ------------------------------------------------------------------- |
+| **Standard Form**           | $$3(x - 1)^2 - \frac{(y+ 1)^2}{2}  = 1 $$                           |
+| **Center**                  | $$(1,  - 1)$$                                                       |
+| **Opens**                   | Left and right                                                      |
+| **Vertices**                | $$\left( \frac{4}{3},  -1 \right), \left( \frac{2}{3}, -1 \right)$$ |
+| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                                                 |
+| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                                    |
 
 
 
