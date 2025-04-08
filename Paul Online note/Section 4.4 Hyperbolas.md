@@ -91,9 +91,9 @@ $$
 | Property                    | Horizontal Hyperbola                                      |
 | --------------------------- | --------------------------------------------------------- |
 | **Standard Form**           | $$\frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1 $$ |
-| **Center**                  | $$(h, k)$$                                                |
+| **Center**                  | $$(3,-1 )$$                                               |
 | **Opens**                   | Left and right                                            |
-| **Vertices**                | $$(h+a, k), (h-a, k)$$                                    |
+| **Vertices**                | $$(8, 7), (2, 7)$$                                        |
 | **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                                       |
 | **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                          |
 
