@@ -40,6 +40,7 @@ we got the equation of the asymptotes by using the point slopes form of the line
 $$
 \frac{(x - 3)^2}{25}  -  \frac{(y + 1 )^2}{49 }  = 1 
 $$
+
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -94,13 +95,51 @@ $$
 | **Center**                  | $$(3,-1 )$$                                               |
 | **Opens**                   | Left and right                                            |
 | **Vertices**                | $$(8, 7), (2, 7)$$                                        |
-| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                                       |
-| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                          |
+| **Slope of Asymptotes**     | $$\pm \frac{7}{5}$$                                       |
+| **Equations of Asymptotes** | $$y = 7 \pm \frac{7}{5}(x - h)$$                          |
 
 
-$$
-\begin{array} {l}
-\frac{(x - 3)^2}{25}  -  \frac{(x + 1 )^2}{49 }  = 1   \\
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
 
-\end{array}
-$$
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw axes
+    \draw[->] (-7,0) -- (7,0) node[right] {$x$};
+    \draw[->] (0,-7) -- (0,7) node[above] {$y$};
+
+    % Tick marks and labels
+    \foreach \x in {-6,-5,...,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-6,-5,...,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Parameters
+    % Center: (h, k) = (0, 0)
+    % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
+    % Horizontal hyperbola
+
+    % Right branch
+    \draw[thick, blue, domain=2.1:6, samples=200, smooth] plot (\x, {1.5*sqrt(\x*\x - 4)});
+    \draw[thick, blue, domain=2.1:6, samples=200, smooth] plot (\x, {-1.5*sqrt(\x*\x - 4)});
+
+    % Left branch
+    \draw[thick, blue, domain=-6:-2.1, samples=200, smooth] plot (\x, {1.5*sqrt(\x*\x - 4)});
+    \draw[thick, blue, domain=-6:-2.1, samples=200, smooth] plot (\x, {-1.5*sqrt(\x*\x - 4)});
+
+    % Asymptotes: y = ±(3/2)x
+    \draw[dashed, red, domain=-6:6] plot (\x, {1.5*\x});
+    \draw[dashed, red, domain=-6:6] plot (\x, {-1.5*\x});
+    
+    % Center
+    \filldraw[black] (0, 0) circle (2pt) node[below left] {$(0, 0)$};
+
+\end{tikzpicture}
+\end{document}
+
+```
