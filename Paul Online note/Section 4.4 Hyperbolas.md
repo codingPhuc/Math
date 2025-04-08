@@ -180,10 +180,10 @@ $$
     % Horizontal hyperbola 
 
     \draw[thick, blue, domain=-2:3, samples=200, smooth] 
-        plot (\x, {3*sqrt((\x^2 - 4)/9)});  % Right branch of the hyperbola
+        plot (\x, {3*sqrt((\x^2 - 4)/9)} );  % Right branch of the hyperbola
 
     \draw[thick, blue, domain=-2:3, samples=200, smooth] 
-        plot (\x, {-3*sqrt((\x^2 - 4)/9)});  % Left branch of the hyperbola
+        plot (\x, {-3*sqrt((\x^2 - 4)/9)} );  % Left branch of the hyperbola
 
     % Right branch
        \draw[dashed, red, domain=-6:6] plot (\x, {3*(\x + 2 ) });
