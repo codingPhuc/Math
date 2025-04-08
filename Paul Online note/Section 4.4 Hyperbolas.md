@@ -21,7 +21,8 @@ There are also two line on each graph. These line are called asymptotes as the g
 There are two standard form of the hyperbola , one for each directional type shown above 
 $$
 \begin{array} {l}
-\text{Form } \frac{(x-h)^2}{a^2}  -  \frac{(y - k)^2}{b^2} = 1 
+\text{Form } \frac{(x-h)^2}{a^2}  -  \frac{(y - k)^2}{b^2} = 1 \;  \frac{(y-h)^2}{b^2}  -  \frac{(x - k)^2}{a^2} = 1 \\
+\text{Center } (h, k ) \;(h m)
 \end{array}
 $$
 
