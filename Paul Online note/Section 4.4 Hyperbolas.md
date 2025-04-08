@@ -51,9 +51,6 @@ y  =   7\sqrt{  \frac{(x - 3)^2}{25}  - 1  }  -1
 \end{array}
 $$
 
-$$
- 
-$$
 
 
 | Property                    | Horizontal Hyperbola                                      |
@@ -94,11 +91,10 @@ $$
         plot (\x, {-1 + sqrt(49*(((\x - 3)^2 / 25) - 1))});
 \draw[thick, blue, domain=-3:-2.2, samples=200, smooth] 
         plot (\x, {-1 - sqrt(49*(((\x - 3)^2 / 25) - 1))});
-\draw[thick, blue, domain=-3:-2.2, samples=200, smooth] 
-        plot (\x, {-1 + sqrt(49*(((\x - 3)^2 / 25) - 1))});
-\draw[thick, blue, domain=-3:-2.2, samples=200, smooth] 
-        plot (\x, {-1 + sqrt(49*(((\x - 3)^2 / 25) - 1))});
-
+    \draw[thick, blue, domain=8.2:7, samples=200, smooth] 
+        plot (\x, {-1 + sqrt((49*((\x - 3)^2 / 25) - 1))});
+        \draw[thick, blue, domain=8.2:7, samples=200, smooth] 
+        plot (\x, {-1 - sqrt((49*((\x - 3)^2 / 25) - 1))});
     % Right branch
        \draw[dashed, red, domain=-6:6] plot (\x, { 7 - (7/5)*(\x - 3) });
         \draw[dashed, red, domain=-6:6] plot (\x, { 7 + (7/5)*(\x - 3) });
