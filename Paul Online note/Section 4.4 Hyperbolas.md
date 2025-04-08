@@ -21,14 +21,14 @@ There are also two line on each graph. These line are called asymptotes as the g
 There are two standard form of the hyperbola , one for each directional type shown above 
 
 
-| Property                     | Horizontal Hyperbola                                      | Vertical Hyperbola                                        |
-|-----------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| **Standard Form**           | $$\frac{(x-h)^2}{a^2} - \frac{(y-k)^2}{b^2} = 1$$          | $$\frac{(y-k)^2}{b^2} - \frac{(x-h)^2}{a^2} = 1$$          |
-| **Center**                  | $$(h, k)$$                                                 | $$(h, k)$$                                                 |
-| **Opens**                   | Left and right                                             | Up and down                                                |
-| **Vertices**                | $$(h+a, k), (h-a, k)$$                                     | $$(h, k+b), (h, k-b)$$                                     |
-| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                                        | $$\pm \frac{b}{a}$$                                        |
-| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                           | $$y = k \pm \frac{b}{a}(x - h)$$                           |
+| Property                    | Horizontal Hyperbola                              | Vertical Hyperbola                                |
+| --------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| **Standard Form**           | $$\frac{(x-h)^2}{a^2} - \frac{(y-k)^2}{b^2} = 1$$ | $$\frac{(y-k)^2}{b^2} - \frac{(x-h)^2}{a^2} = 1$$ |
+| **Center**                  | $$(h, k)$$                                        | $$(h, k)$$                                        |
+| **Opens**                   | Left and right                                    | Up and down                                       |
+| **Vertices**                | $$(h+a, k), (h-a, k)$$                            | $$(h, k+b), (h, k-b)$$                            |
+| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                               | $$\pm \frac{b}{a}$$                               |
+| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                  | $$y = k \pm \frac{b}{a}(x - h)$$                  |
 
 Note that the different between the two term is which form have the minus sign . if the y term have the minus sign then the hyperbola will open right and left, if the x term have the minus sign then the hyperbolas will open up and down 
 
@@ -215,7 +215,7 @@ the y coordinate  :
 $$
 \begin{array}{l} \\
 \frac{y^2}{16} -\frac{(x  -2 )^2}{9}  = 1     \\
-\frac{y^2}{16} -\frac{(x  -2 )^2}{9}  = 1      \\
+\frac{y^2}{16} = 1      \\
 y^2  = 9  + 9(x + 2)^2  \\
 y = 3\sqrt{ 1 + (x + 2)^2   } 
 \end{array}
@@ -284,4 +284,5 @@ $$
 
 # #todo  
 
-- [ ] read this [document on tikz](https://tikz.dev/tikz-plots)
+- [ ] read this [document on tikz](https://tikz.dev/tikz-plots) 
+- [ ] why is it when y is minus the it move from left to right,  when x is minus it move from up to down 
