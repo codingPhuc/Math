@@ -396,8 +396,8 @@ $$
 | **Center**                  | $$(1,  - 1)$$                                                       |
 | **Opens**                   | Left and right                                                      |
 | **Vertices**                | $$\left( \frac{4}{3},  -1 \right), \left( \frac{2}{3}, -1 \right)$$ |
-| **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                                                 |
-| **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                                    |
+| **Slope of Asymptotes**     | $$\pm \frac{2}{\frac{1}{3}}  = \pm 6$$                              |
+| **Equations of Asymptotes** | $$y =  \pm 6(x - h)$$                                               |
 
 
 
