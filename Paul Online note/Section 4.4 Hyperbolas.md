@@ -293,16 +293,17 @@ $$
 
 $$
 
-\frac{(x + 3)^2}{4} 
+\frac{(x + 3)^2}{4}  - \frac{(y -1 )^2}{9}  =1  
+
 $$
 
 
 the y coordinate  : 
 $$
 \begin{array}{l} \\
-\frac{y^2}{16} -\frac{(x  -2 )^2}{9}  = 1     \\
- \frac{y^2}{16} =   1 + \frac{(x  -2 )^2}{9}   \\
-y  = \frac{4}{3}\sqrt{  9 +(x  -2 )^2  }   
+\frac{(x + 3)^2}{4}  - \frac{(y -1 )^2}{9}  =1    \\
+\frac{(x + 3)^2}{4}    = 1 +  \frac{(y -1 )^2}{9}   \\
+\fr   = 1 +  \frac{(y -1 )^2}{9}    
 \end{array}
 $$
 
