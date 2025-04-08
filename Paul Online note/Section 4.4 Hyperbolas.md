@@ -29,5 +29,4 @@ There are two standard form of the hyperbola , one for each directional type sho
 | **Vertices**                | $$(h+a, k), (h-a, k)$$                                     | $$(h, k+b), (h, k-b)$$                                     |
 | **Slope of Asymptotes**     | $$\pm \frac{b}{a}$$                                        | $$\pm \frac{b}{a}$$                                        |
 | **Equations of Asymptotes** | $$y = k \pm \frac{b}{a}(x - h)$$                           | $$y = k \pm \frac{b}{a}(x - h)$$                           |
-
-
+Now 
