@@ -10,5 +10,4 @@ In this section we are going to go though simple graph that are going to help us
 
 ## vertical Shifts 
 The first transformation that we will be looking at is a vertical shift 
-
-
+Given the graphs of $f(x)$ the graph of $g(x)=f(x) + c$ will be the graph of $$
