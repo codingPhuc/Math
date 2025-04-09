@@ -101,9 +101,12 @@ we've dealt with function several time . It's now time to graph it
 
 $$
 \begin{array}{l}  \\
-\begin{array}
-
+\left \{  \\
+\begin{array}{l} 
+x \text{ if }  x  \\
+-x  \text{ if } x < 0  
 \end{array}
-x \text{ if }  x 
+\right. 
+
 \end{array}
 $$
