@@ -97,4 +97,8 @@ Next , we need to take a look at $f(x)  = \sqrt{ x }$ . First , note that since 
 
 ## Absolute Value 
 
-we've dealt with function several time 
+we've dealt with function several time . It's now time to graph it 
+
+$$
+
+$$
