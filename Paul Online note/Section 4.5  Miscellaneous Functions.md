@@ -56,4 +56,4 @@ this is the equation of the horizontal line
 
 
 ##  Square Root 
-Next , we need to take a look at $f(x)  = \sqrt{ x }$ 
+Next , we need to take a look at $f(x)  = \sqrt{ x }$ . First , note that since we do not want to get  complex number out of a function evaluation we have to restrict the value of x that we work in 
