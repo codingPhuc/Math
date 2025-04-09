@@ -26,5 +26,9 @@ g(x)  =  x^2  + 3   \\
 g(0 )   =  3   
 \end{array}
 $$
+
+3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
+since the vertex and y intercept is in the same line we concluded 
+g
 ## Horizontal shift 
 these are simple , there is 
