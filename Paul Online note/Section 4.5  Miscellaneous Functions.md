@@ -145,10 +145,11 @@ $$
 
     % Text annotations  
     % Draw the parabola
-    \draw[thick, blue, domain=0:6, smooth] plot (\x, \y);
- 
+    \draw[thick, blue, domain=0:6, smooth] plot (\x, \x);
+	 \draw[thick, blue, domain=0:6, smooth] plot (-\x, \x);
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
+
