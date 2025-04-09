@@ -101,7 +101,9 @@ we've dealt with function several time . It's now time to graph it
 
 $$
 \begin{array}{l}  \\
-\left \{  \\
+ 
+f(x) \implies 
+\left  \{  \\
 \begin{array}{l} 
 x \text{ if }  x  \\
 -x  \text{ if } x < 0  
@@ -110,3 +112,4 @@ x \text{ if }  x  \\
 
 \end{array}
 $$
+
