@@ -153,3 +153,5 @@ $$
 
 ``` 
 
+## Cubic Function 
+Now we are going to look at $f(x) = x^3$. There is not much other than plugging inso
