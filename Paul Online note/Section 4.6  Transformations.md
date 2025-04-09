@@ -20,6 +20,11 @@ $$
 1. Find the vertex .There are simple method to finding this which we will discuss latter   
 the vertex of the equation above is $(0,3)$ since this indicate that the vertex is above the x intersect . We concluded that there will not be a x intercepts 
 2. Finding the y intercept $(0,f(0))$   
-
+$$
+\begin{array}{l} \\
+g(x)  =  x^2  + 3   \\
+g(0 )   =  3   
+\end{array}
+$$
 ## Horizontal shift 
 these are simple , there is 
