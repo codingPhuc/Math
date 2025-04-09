@@ -121,7 +121,7 @@ $$
 | -1  | 1    |
 | 2   | 2    |
 | -2  | 2    |
-|     |      |
+
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -154,4 +154,45 @@ $$
 ``` 
 
 ## Cubic Function 
-Now we are going to look at $f(x) = x^3$. There is not much other than plugging inso
+Now we are going to look at $f(x) = x^3$. There is not much other than plugging in some point and plotting 
+
+| x   | f(x) |
+| --- | ---- |
+| 0   | 0    |
+| 1   | 1    |
+| -1  | -1   |
+| 2   | 8    |
+| -2  | -8   |
+
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    
+    \draw[->] (0,0) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {,-1,-2,-3,-4,-5,-6 ,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {0,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    % Draw the parabola
+    \draw[thick, blue, domain=0:6, smooth] plot (\x, \x);
+	 \draw[thick, blue, domain=0:6, smooth] plot (-\x, \x);
+\end{tikzpicture}
+\end{document}
+
+
+``` 
