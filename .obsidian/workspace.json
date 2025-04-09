@@ -140,7 +140,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,13 +209,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 4.4 Hyperbolas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.4 Hyperbolas"
+              "title": "Outline"
             }
           }
         ],
@@ -233,14 +233,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbae192c9568f6f3",
+  "active": "be10bde1c625cc9e",
   "lastOpenFiles": [
+    "Paul Online note/Section 4.4 Hyperbolas.md",
     "Paul Online note/Section 4.2  Parabolas.md",
     "Paul Online note/Section 3.3  Circles.md",
-    "Paul Online note/Section 4.4 Hyperbolas.md",
     "Pasted image 20250408074110.png",
     "Pasted image 20250408074105.png",
     "Pasted image 20250408074104.png",
