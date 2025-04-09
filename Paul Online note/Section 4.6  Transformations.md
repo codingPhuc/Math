@@ -55,7 +55,7 @@ $$
     }
 
     % Text annotations  
-    \fill (0,4) circle (2pt) node[above right] {$(0,4) $};
+    \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
 
 
     % Draw the parabola
@@ -66,6 +66,7 @@ $$
 
 
 ``` 
+
 
 
 
