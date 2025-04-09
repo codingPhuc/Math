@@ -21,3 +21,5 @@ So , every  point has a y coordinate of 4 . This is exactly what is define as th
 $$
 y = 4
 $$
+
+this is the equation of the horizontal line 
