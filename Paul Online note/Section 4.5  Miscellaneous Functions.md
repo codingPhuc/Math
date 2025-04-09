@@ -14,4 +14,4 @@ $$
 f(x)  = c 
 $$
 where c is some number 
-let take a look at  
+let take a look at  $f(x) =  4$ the biggest problem that student have for these function is that there is no x on the ri
