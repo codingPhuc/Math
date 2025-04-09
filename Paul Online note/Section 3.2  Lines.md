@@ -8,7 +8,7 @@ Current date: 2025-03-24
 ---
 let start the section  off with  a  quick  mathematical definition of  a line  .  Any equation that can be written  in the form  ,  
 $$Ax +  By   =  C $$ 
-is  a  line    ,  as long as   A  and  B  are  not  simultaneously   0 .  It is  okay if one of them  is  0  , we  just can't have  both as  0   . Note that this is sometime call the **standard form** of the line 
+is  a  line  ,  as long as   A  and  B  are  not  simultaneously   0 .  It is  okay if one of them  is  0  , we  just can't have  both as  0   . Note that this is sometime call the **standard form** of the line 
 
 a  line  is define  by  two  point that are on the line .  As  a result , in order to get the equation and graph the line we need to create two point on the line   . This fact will be used in serval  point  in the equation 
 
