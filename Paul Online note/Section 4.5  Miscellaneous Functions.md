@@ -16,4 +16,8 @@ $$
 where c is some number 
 let take a look at  $f(x) =  4$ the biggest problem that student have for these function is that there is no x on the right side to plug into the function . However , this mean that there is no substitution to do . In other word , no matter the value of x we will always get a value of 4 (c in the general cases ) out of the function 
 
-So , every  point has a y coor
+So , every  point has a y coordinate of 4 . This is exactly what is define as the horizontal line . In fact , we can recall that $f(x)$ is nothing more than a fancy way of writing y 
+
+$$
+y = 4
+$$
