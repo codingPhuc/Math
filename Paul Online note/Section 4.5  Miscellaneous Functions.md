@@ -100,5 +100,10 @@ Next , we need to take a look at $f(x)  = \sqrt{ x }$ . First , note that since 
 we've dealt with function several time . It's now time to graph it 
 
 $$
+\begin{array}{l}  \\
+\begin{array}
 
+\end{array}
+x \text{ if }  x 
+\end{array}
 $$
