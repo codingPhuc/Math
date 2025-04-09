@@ -140,8 +140,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,7 +236,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be10bde1c625cc9e",
+  "active": "30b50d563073904f",
   "lastOpenFiles": [
     "Paul Online note/Section 4.4 Hyperbolas.md",
     "Paul Online note/Section 4.2  Parabolas.md",
