@@ -17,7 +17,5 @@ $$
 g(x)  =  x^2 + 3  
 $$
 
-$$
-\left( 0 ,  f\left( -\frac{b}{2a} \right) \right)
-$$
-
+1. Find the vertex .There are simple method to finding this which we will discuss latter   
+the vertex of the equation above is $(0,4)$ 
