@@ -13,4 +13,11 @@ The first transformation that we will be looking at is a vertical shift
 Given the graphs of $f(x)$ the graph of $g(x)=f(x) + c$ will be the graph of $f(x)$ shifted up by $c$ units if c is positive and or down by c units if c is negative 
 
 
+$$
+g(x)  =  x^2 + 3  
+$$
+
+$$
+\left( 0 ,  f\left( -\frac{b}{2a} \right) \right)
+$$
 
