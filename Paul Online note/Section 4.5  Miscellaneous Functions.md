@@ -6,4 +6,6 @@ tags:
 reference: https://tutorial.math.lamar.edu/Classes/Alg/MiscFunctions.aspx
 Current date: 2025-04-09
 ---
-##  constant 
+# #definition  
+##  Constant Function
+this is the easiest  problem 
