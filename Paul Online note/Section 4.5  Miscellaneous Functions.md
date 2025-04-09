@@ -56,4 +56,5 @@ this is the equation of the horizontal line
 
 
 ##  Square Root 
-Next , we need to take a look at $f(x)  = \sqrt{ x }$ . First , note that since we do not want to get  complex number out of a function evaluation we have to restrict the value of x that we work in 
+Next , we need to take a look at $f(x)  = \sqrt{ x }$ . First , note that since we do not want to get  complex number out of a function evaluation we have to restrict the value of x that we work in . We can only plug in x in the range of  $x\geq 0$ . This mean that the graph exist only in this range 
+
