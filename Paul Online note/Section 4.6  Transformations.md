@@ -14,5 +14,3 @@ Given the graphs of $f(x)$ the graph of $g(x)=f(x) + c$ will be the graph of $f(
 
 
 
-1.  find the vertex of a graph 
-

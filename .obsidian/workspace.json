@@ -78,7 +78,27 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
+      },
+      {
+        "id": "8bd9f33ac5949455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08a49e2c33b5ac4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paul Online note/Section 4.2  Parabolas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section 4.2  Parabolas"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 4.6  Transformations.md",
+                "file": "Paul Online note/Section 4.2  Parabolas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.6  Transformations"
+              "title": "Outline of Section 4.2  Parabolas"
             }
           }
         ],
@@ -238,10 +258,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "08a49e2c33b5ac4c",
   "lastOpenFiles": [
-    "Paul Online note/Section 4.5  Miscellaneous Functions.md",
     "Paul Online note/Section 4.6  Transformations.md",
+    "Paul Online note/Section 4.5  Miscellaneous Functions.md",
     "Pasted image 20250409113454.png",
     "Pasted image 20250409113453.png",
     "Paul Online note/Section 4.2  Parabolas.md",
