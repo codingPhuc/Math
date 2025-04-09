@@ -28,7 +28,13 @@ g(0 )   =  3
 $$
 
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
-since the vertex and y intercept is in the same line we concluded 
-g
+since the vertex and y intercept are the same , w 
+
+$$
+x^2  + 3    = 0 
+x = \pm  \sqrt{ 3 }i
+$$
+
+
 ## Horizontal shift 
 these are simple , there is 
