@@ -12,3 +12,7 @@ In this section we are going to go though simple graph that are going to help us
 The first transformation that we will be looking at is a vertical shift 
 Given the graphs of $f(x)$ the graph of $g(x)=f(x) + c$ will be the graph of $f(x)$ shifted up by $c$ units if c is positive and or down by c units if c is negative 
 
+
+
+
+
