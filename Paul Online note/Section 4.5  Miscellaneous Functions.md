@@ -189,7 +189,7 @@ Now we are going to look at $f(x) = x^3$. There is not much other than plugging 
 
     % Text annotations  
     % Draw the parabola
-    \draw[thick, blue, domain=-6:6, smooth] plot (\x,{ (\x)^3} );
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x,{ (\x)^3} );
 \end{tikzpicture}
 \end{document}
 
