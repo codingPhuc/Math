@@ -87,7 +87,7 @@ Next , we need to take a look at $f(x)  = \sqrt{ x }$ . First , note that since 
 
     % Text annotations  
     % Draw the parabola
-    \draw[thick, blue, domain=0:6, smooth] plot ({sqrt(\x)}, 4);
+    \draw[thick, blue, domain=0:6, smooth] plot (\x, {sqrt(\x)});
  
 \end{tikzpicture}
 \end{document}
@@ -95,3 +95,6 @@ Next , we need to take a look at $f(x)  = \sqrt{ x }$ . First , note that since 
 
 ``` 
 
+## Absolute Value 
+
+we've dealt with function several time 
