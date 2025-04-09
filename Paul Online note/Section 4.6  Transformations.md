@@ -28,7 +28,7 @@ g(0 )   =  3
 $$
 
 3. solve the $f(x)= 0$ intercept if they exits , there are multiple number of solution ranging from 0 to 2 x-intercept  
-since the vertex and y intercept are the same , w 
+since the vertex and y intercept are the same , we concluded that y does not a x-intercept since 
 
 $$
 x^2  + 3    = 0 
