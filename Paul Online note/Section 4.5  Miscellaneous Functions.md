@@ -58,9 +58,40 @@ this is the equation of the horizontal line
 ##  Square Root 
 Next , we need to take a look at $f(x)  = \sqrt{ x }$ . First , note that since we do not want to get  complex number out of a function evaluation we have to restrict the value of x that we work in . We can only plug in x in the range of  $x\geq 0$ . This mean that the graph exist only in this range 
 
-| x | f(x) |
-|---|------|
-| 0 | 0    |
-| 1 | 1    |
-| 4 | 2    |
-| 9 | 3    |
+| x   | f(x) |
+| --- | ---- |
+| 0   | 0    |
+| 1   | 1    |
+| 4   | 2    |
+| 9   | 3    |
+|     |      |
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (0,0) -- (7,0) node[right] {};
+    \draw[->] (0,0) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {0,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    % Draw the parabola
+    \draw[thick, blue, domain=-6:6, smooth] plot (\x, 4);
+ 
+\end{tikzpicture}
+\end{document}
+
+
+``` 
+
