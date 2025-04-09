@@ -14,4 +14,4 @@ $$
 f(x)  = c 
 $$
 where c is some number 
-let take a look at  $f(x) =  4$ the biggest problem that student have for these function is that there is no x on the right side to plug into the function 
+let take a look at  $f(x) =  4$ the biggest problem that student have for these function is that there is no x on the right side to plug into the function . However , this mean that there is no substitution to do . In other word , no matter the value o
