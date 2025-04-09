@@ -18,4 +18,5 @@ g(x)  =  x^2 + 3
 $$
 
 1. Find the vertex .There are simple method to finding this which we will discuss latter   
-the vertex of the equation above is $(0,4)$ 
+the vertex of the equation above is $(0,4)$ since this indicate that the vertex is above the x intersect . We concluded that there will not be a x intercepts 
+
