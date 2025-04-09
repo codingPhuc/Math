@@ -46,10 +46,14 @@ this is the equation of the horizontal line
 
     % Text annotations  
     % Draw the parabola
-    \draw[thick, blue, domain=-6:0, smooth] plot (\x, {2*(\x +  3)^2 - 8  });
+    \draw[thick, blue, domain=-6:6, smooth] plot (\x, 4);
  
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
+
+
+##  Square Root 
+Next , we need to take a look at $f(x)  = \sqrt{ x }$ 
