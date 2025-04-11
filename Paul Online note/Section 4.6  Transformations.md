@@ -137,3 +137,13 @@ $$
 h(x  ) =  (x + 2 )^3  \\
 \end{array}
 $$
+
+since $h(x  ) =  (x + 2 )^3$ then we concluded that  $f(x) = x^3$ since $$
+
+| x   | h(x) |
+| --- | ---- |
+| 0   |      |
+| 1   | 1    |
+| -1  | 1    |
+| 2   | 2    |
+| -2  | 2    |
