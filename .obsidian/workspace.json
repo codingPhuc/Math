@@ -6,6 +6,7 @@
       {
         "id": "67c628547dda02c7",
         "type": "tabs",
+        "dimension": 61.05015673981191,
         "children": [
           {
             "id": "dbae192c9568f6f3",
@@ -83,6 +84,7 @@
       {
         "id": "8bd9f33ac5949455",
         "type": "tabs",
+        "dimension": 38.94984326018809,
         "children": [
           {
             "id": "08a49e2c33b5ac4c",
@@ -90,12 +92,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 3.5  Graphing Functions.md",
+                "file": "Paul Online note/Section 4.5  Miscellaneous Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 3.5  Graphing Functions"
+              "title": "Section 4.5  Miscellaneous Functions"
             }
           }
         ]
@@ -260,13 +262,13 @@
   },
   "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "Paul Online note/Section 4.5  Miscellaneous Functions.md",
+    "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 3.4  The Definition of a Function.md",
     "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 3.2  Lines.md",
-    "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 4.2  Parabolas.md",
-    "Paul Online note/Section 4.5  Miscellaneous Functions.md",
     "Pasted image 20250409113454.png",
     "Pasted image 20250409113453.png",
     "Paul Online note/Section 3.6  Combining Functions.md",
