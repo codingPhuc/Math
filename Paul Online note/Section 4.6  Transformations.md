@@ -490,5 +490,5 @@ the parent function of this is $f(x)= \sqrt{ x}$ so we can see that $h(x)$ is th
 ```
 
 $$
-f(x ) =
+f(x ) = x^3 - 2  
 $$
