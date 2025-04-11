@@ -420,11 +420,17 @@ here is the graph of the function
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
 
-\draw[dotted, red, domain= 0:2, smooth] plot (\x, sqrt(\x));
-\draw[thick, blue, domain= -2:-1, smooth] plot (\x, sqrt(-\x));
+\draw[dotted, red, domain= 0:2, smooth] plot (\x,{ sqrt(\x)});
+\draw[thick, blue, domain= -2:-0, smooth] plot (\x, {sqrt(-\x)});
 
 \end{tikzpicture}
 \end{document}
 
 
 ```
+
+
+
+
+
+
