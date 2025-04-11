@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "independent version/Transformations video lecture.md",
+                "file": "Paul Online note/Section 4.6  Transformations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transformations video lecture"
+              "title": "Outline of Section 4.6  Transformations"
             }
           }
         ],
@@ -260,10 +260,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "08a49e2c33b5ac4c",
   "lastOpenFiles": [
-    "Paul Online note/Section 4.6  Transformations.md",
     "independent version/Transformations video lecture.md",
+    "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/Section 3.3  Circles.md",
     "Professor Leonard/Untitled.md",
