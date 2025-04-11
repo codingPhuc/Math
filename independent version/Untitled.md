@@ -662,7 +662,7 @@ the parent function of this is $f(x)=-\sqrt{ x }$
 plug in 1 we will have $f(1)= -1$
 find the shifted point of $g(x)=4-\sqrt{ 3-x }$ we need to find $3-x =1\implies x=2$ 
 $$
- g(x ) = 4 - \sqrt{  3 - 4 }  =  3 
+ g(x ) = 4 - \sqrt{  3 - 2 }  =  3 
 $$
 
 
@@ -687,7 +687,7 @@ $$
 
     % Text annotations  
     \fill (1, -1 ) circle (2pt) node[above right] {$(1, -1 )$};
-	\fill (-1,2)  circle (2pt) node[above right] {$ (-1,2) $};
+	\fill (-1,2)  circle (2pt) node[above right] {$ (2,3) $};
     % Draw the parabola
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
