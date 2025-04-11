@@ -371,8 +371,8 @@ the parent of the function above is $f(x)=x^2$
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
 
-\draw[dotted, red, domain=-3:0, smooth] plot (\x, { 3  - (\x+ 2)^2 });
-\draw[thick, blue, domain=-2:2, smooth] plot (\x, { -(\x)^2});
+\draw[dotted, red, domain=-2:2, smooth] plot (\x, {-(\x)^2 });
+\draw[thick, blue, domain=-2:2, smooth] plot (\x, { (\x)^2});
 
 \end{tikzpicture}
 \end{document}
