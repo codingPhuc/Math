@@ -253,12 +253,13 @@ we know that $g(x)= f(x+c)+ k$ is the graph of $f(x)$ , we concluded that $h(x) 
 
 
     % Draw the parabola
-    \draw[dotted, red, domain=2:6, smooth] plot (\x, {(\x - 2 )^2  + 4});
-    \draw[thick, blue, domain=2:8, smooth] plot (\x, {(\x)^2});
+    \draw[dotted, red, domain=-2:4, smooth] plot (\x, {(\x)^2} );
+    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {(\x - 2 )^2  + 4});
  
 \end{tikzpicture}
 \end{document}
 
 
 ```
+
 
