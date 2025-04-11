@@ -586,7 +586,9 @@ the parent function of this is $f(x)=\mid x \mid$  so we can see that $h(x)$ is 
 
 
 $$
-h(x) =  \mid x + 2 \mid  
+h(x) = (x  - 5)^2  
 $$
  
-the parent function of this is $f(x)=-(x)^3$  so we can see that $h(x)$ is the function $f(x)$ shifted left  by  2 
+the parent function of this is $f(x)=x^2$  so we can see that $h(x)$ is the function $f(x)$ shifted right  by 5 
+
+
