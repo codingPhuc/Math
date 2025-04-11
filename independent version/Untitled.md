@@ -602,7 +602,10 @@ which clearly shows:
 - A **horizontal shift** left by 2 unit
 - A **vertical shift** up by 3 unit
 - A reflection over the x-axis (already part of the parent function)
-
+we will start with the parent function  
+$$
+f(x) = -(x)^2  
+$$
 
 
 
