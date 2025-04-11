@@ -78,8 +78,7 @@ $$
 \sqrt{  x }  - 5  =  y   \\ 
 \end{array}
 $$
-
-
+this is not  a line function like [[Section 3.2  Lines]] so we will not perform 
 
 ## Horizontal shift 
 These are simple  as well but there is one bit we need to be careful with 
