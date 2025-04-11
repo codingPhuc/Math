@@ -15,4 +15,7 @@ $f(x+3)$ shift to the left 3 unit
 
 $-f(x)$  flex over the x-axis 
 $f(-x)$ reflex over the y-axis
-$$
+$-f(-x)$ reflex over the origin 
+
+2$f(x)$ vertical stretch 
+
