@@ -596,4 +596,5 @@ for the example  :
 $$
 g(x) = 3  - (x+ 2)^2  
 $$
-you can find the y value quickly of the child function  $g(x)  =  3-(x-2)^2$ bases on the $f(x)=3$
+you can find the y value quickly of the child function  $g(x)  =  3-(x-2)^2$ bases on the parent  $f(x)=-(x)^2$  
+1. you need to plug in the value 
