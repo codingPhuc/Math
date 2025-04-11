@@ -219,3 +219,4 @@ since $g(x)  =  \sqrt{ x -4 }$ then we concluded that  $f(x) = \sqrt{ x }$ since
 
 
 ### Vertical and Horizontal Shifts 
+now we will look at a combinatio
