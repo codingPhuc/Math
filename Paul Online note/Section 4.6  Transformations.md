@@ -468,15 +468,20 @@ the parent function of this is $f(x)= \sqrt{ x}$ so we can see that $h(x)$ is th
     }
 
     % Text annotations  
-    \fill (1, -1 ) circle (2pt) node[above right] {$(1, -1 )$};
-	\fill (-1,2)  circle (2pt) node[above right] {$ (-1,2) $};
+ \filldraw[blue] (0,0) circle (2pt) node[below right] {$(0, 0)$};
+    \filldraw[blue] (1,1) circle (2pt) node[below right] {$(1, 1)$};
+    \filldraw[blue] (4,2) circle (2pt) node[below right] {$(4, 2)$};
+
+    \filldraw[red] (0,4) circle (2pt) node[above right] {$(0, 4)$};
+    \filldraw[red] (1,5) circle (2pt) node[above right] {$(1, 5)$};
+    \filldraw[red] (4,6) circle (2pt) node[above right] {$(4, 6)$};
     % Draw the parabola
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
 
-\draw[dotted, red, domain= 0:2, smooth] plot (\x,{ sqrt(\x)});
-\draw[thick, blue, domain= -2:-0, smooth] plot (\x, {sqrt(-\x)});
+\draw[dotted, red, domain= 0:4, smooth] plot (\x,{ sqrt(\x) +4});
+\draw[thick, blue, domain= 0:4, smooth] plot (\x, {sqrt(\x)});
 
 \end{tikzpicture}
 \end{document}
