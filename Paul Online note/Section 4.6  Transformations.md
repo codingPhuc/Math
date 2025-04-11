@@ -380,4 +380,4 @@ the parent of the function above is $f(x)=x^2$
 
 ```
 
-Now with this one let’s first address the minus sign under the square root in more general terms. We know that we can’t take the square roots of negative numbers, however the presence of that minus sign doesn’t necessarily cause problems. We won’t be able to plug positive values of xx into the function since that would give square roots of negative numbers. However, if xx were negative, then the negative of a negative number is positive and that is okay. For instance,
+Now with this one let address the 
