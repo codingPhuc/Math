@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 4.6  Transformations.md",
+                "file": "Professor Leonard/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 4.6  Transformations"
+              "title": "Untitled"
             }
           },
           {
@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 4.6  Transformations.md",
+                "file": "Professor Leonard/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.6  Transformations"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -262,10 +262,11 @@
   },
   "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "Paul Online note/Section 4.6  Transformations.md",
+    "Professor Leonard/Untitled.md",
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
     "Paul Online note/Section 4.5  Miscellaneous Functions.md",
-    "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 3.4  The Definition of a Function.md",
     "Paul Online note/Section 3.3  Circles.md",
@@ -297,7 +298,6 @@
     "Paul Online note/Untitled 1.md",
     "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
-    "Paul Online note/Rational  Expression.md",
     "Professor Leonard",
     "Paul Online note",
     "template",
