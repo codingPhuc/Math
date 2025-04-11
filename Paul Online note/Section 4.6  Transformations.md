@@ -60,6 +60,7 @@ $$
 
     % Draw the parabola
     \draw[thick, blue, domain=-2:2, smooth] plot (\x, { (\x)^2  + 3  });
+    \draw[thick, red, domain=-2:2, smooth] plot (\x, { (\x)^2   });
  
 \end{tikzpicture}
 \end{document}
