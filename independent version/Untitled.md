@@ -598,4 +598,4 @@ g(x) = 3  - (x+ 2)^2
 $$
 you can find the y value quickly of the child function  $g(x)  =  3-(x+2)^2$ bases on the parent  $f(x)=(x)^2$  
 1. you need to plug in the value 1 for example into $f(1)=1$ 
-2. then since so we need $x+2 =1\implies x=-1$ which will be g(x)  =  3-(-1+2)^2
+2. then since so we need $x+2 =1\implies x=-1$ which will be $g(x)  =  3-(-1+2)^2\implies g(x)=2$
