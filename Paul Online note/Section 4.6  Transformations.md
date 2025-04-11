@@ -226,4 +226,4 @@ $$
 h(x) = (x - 2 )^2  + 4
 \end{array}
 $$
-we know that $g(x)= f(x+c)+ k$ is the graph of $f(x)$ , we concluded that 
+we know that $g(x)= f(x+c)+ k$ is the graph of $f(x)$ , we concluded that $h(x) = (x - 2 )^2  + 4\implies f(x- 2)=f(x-2)$
