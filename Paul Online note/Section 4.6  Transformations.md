@@ -72,5 +72,6 @@ here we will draw the graph of $x^2$ first , then draw the graph when it  shift 
 
 
 
+
 ## Horizontal shift 
 These are simple  as well but there is one bit we need to be careful with 
