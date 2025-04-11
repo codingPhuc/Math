@@ -208,13 +208,14 @@ since $g(x)  =  \sqrt{ x -4 }$ then we concluded that  $f(x) = \sqrt{ x }$ since
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:6, smooth] plot (\x, {sqrt(\x)});
-    \draw[thick, blue, domain=0:6, smooth] plot (\x, {sqrt(\x -4)});
+    \draw[dot, blue, domain=0:8, smooth] plot (\x, {sqrt(\x)});
+    \draw[thick, blue, domain=4:8, smooth] plot (\x, {sqrt(\x - 4)});
  
 \end{tikzpicture}
 \end{document}
 
 
 ```
+
 
 
