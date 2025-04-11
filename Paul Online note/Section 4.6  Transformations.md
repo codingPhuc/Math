@@ -182,7 +182,7 @@ g(x)  =  \sqrt{ x -4 }\\
 \end{array}
 $$
 
-since $g(x)  =  \sqrt{ x -4 }$ then we concluded that  $f(x) = \sqrt{ x }$ since $h(x) =  (x + 2 )^3\implies f(x+2) = (x+ 2)^2$ so there is a 2  unit shift so we need to subtract 2  from  $f(x+2) = (x+ 2)^2$ to create $f(x)=x^3$ 
+since $g(x)  =  \sqrt{ x -4 }$ then we concluded that  $f(x) = \sqrt{ x }$ since $h(x) = g(x)  =  \sqrt{ x -4 }\implies f(x-4) = g(x)  =  \sqrt{ x -4 }$ so there is a 4  unit shift so we need to add  4  from  $f(x-4) = g(x)  =  \sqrt{ x -4 }$ to create $f(x)=x^$ 
 
 ```tikz
 \usepackage{amsmath,amssymb}
