@@ -658,3 +658,6 @@ so point $g(-1) = 2$ is the shifted point of $f(1)=-1$
 $$
 y  = 4 - \sqrt{  3 - x }
 $$
+the parent function of this is $f(x)=-\sqrt{ x }$  
+plug in 1 we will have $f(1)= -1$
+find the shifted
