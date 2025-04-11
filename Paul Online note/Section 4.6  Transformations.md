@@ -617,8 +617,8 @@ the parent function of this is $f(x)=x^2$  so we can see that $h(x)$ is the func
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:-4, smooth] plot (\x, {(\x -5)^2} );
-	\draw[thick, blue, domain=0:4, smooth] plot (\x, {x^2 } );
+    \draw[thick, blue, domain=0:5, smooth] plot (\x, {(\x -5)^2} );
+	 \draw[dotted, red, domain=0:5, smooth] plot (\x, {(\x)^2 } );
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
