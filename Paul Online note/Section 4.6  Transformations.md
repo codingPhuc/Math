@@ -493,3 +493,5 @@ $$
 f(x ) = x^3 - 2  
 $$
 
+ 
+the parent function of this is $f(x)= \sqrt{ x}$ so we can see that $h(x)$ is the function $f(x)$ shifted up by 4 
