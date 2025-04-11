@@ -693,12 +693,13 @@ $$
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
 
-\draw[dotted, red, domain=-3:0, smooth] plot (\x, { 3  - (\x+ 2)^2 });
-\draw[thick, blue, domain=-2:2, smooth] plot (\x, {4 - sqrt(3 - x) });
+\draw[dotted, red, domain=0:5, smooth] plot (\x, {sqrt(\x) });
+\draw[thick, blue, domain=3:5, smooth] plot (\x, {4 - sqrt(3 - \x) });
 
 \end{tikzpicture}
 \end{document}
 
 
 ```
+\
 
