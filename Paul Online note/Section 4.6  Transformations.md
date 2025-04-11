@@ -388,6 +388,3 @@ for example
 $$
 h(-4) = \sqrt{ -(-4) } =  \sqrt{ 4 } =  2 
 $$
-
- 
-
