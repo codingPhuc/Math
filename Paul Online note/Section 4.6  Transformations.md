@@ -530,8 +530,8 @@ the parent function of this is $f(x)=x^3$  so we can see that $h(x)$ is the func
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
 
-\draw[dotted, red, domain= 0:4, smooth] plot (\x,{ sqrt(\x) +4});
-\draw[thick, blue, domain= 0:4, smooth] plot (\x, {sqrt(\x)});
+\draw[dotted, red, domain= 0:4, smooth] plot (\x,{(\x)^3});
+\draw[thick, blue, domain= 0:4, smooth] plot (\x, {(\x)^3 -2} );
 
 \end{tikzpicture}
 \end{document}
