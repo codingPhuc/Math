@@ -123,5 +123,4 @@ first  we draw the graph of $\sqrt{ x }$ (the dotted line graph bellow) down by 
 
 ## Horizontal shift 
 These are simple  as well but there is one bit we need to be careful with 
-
-
+given a graph of $f(x)$ the graph of $g(x) =g(x+ c)$ will be the graph of $f(x)$ shift left by c unit of c 
