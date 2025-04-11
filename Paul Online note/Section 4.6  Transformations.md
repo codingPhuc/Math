@@ -125,4 +125,4 @@ first  we draw the graph of $\sqrt{ x }$ (the dotted line graph bellow) down by 
 These are simple  as well but there is one bit we need to be careful with 
 given a graph of $f(x)$ the graph of $g(x) =g(x+ c)$ will be the graph of $f(x)$ shift left by c unit of c is positive and right by c unit if c is negative 
 
-Now we need to be careful here . A positive value of c will negatively shift the graph while a negative value of c will 
+Now we need to be careful here . A positive value of c will negatively shift the graph while a negative value of c will positively shift the graph . This is the opposite of y
