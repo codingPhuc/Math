@@ -81,6 +81,9 @@ $$
 this is not  a line function like [[Section 3.2  Lines]] so we will not perform anything to get the equation of the lines 
 
 
+
+
+first  we draw the graph of $\sqrt{ x }$ (the dotted line graph bellow) down by 5 . Again from a coordi
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
