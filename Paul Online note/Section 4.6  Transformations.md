@@ -758,8 +758,8 @@ the parent function of this is $f(x)=\sqrt{ x }$  so we can see that $h(x)$ is t
     }
 
     % Text annotations  
-    \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
-
+    \fill (0,0) circle (2pt) node[above right] {$(0,0) $};
+    \fill (-4,-3) circle (2pt) node[above right] {$(-4,-3) $};
 
     % Draw the parabola
     \draw[thick, blue, domain=-4:0, smooth] plot (\x, {sqrt(\x + 4) -3  } );
