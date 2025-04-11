@@ -305,8 +305,8 @@ $f(x) =\mid x \mid$ so it shift to the left by 3 and down by 4
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
-\draw[dotted, red, domain=-, smooth] plot (\x, { -\x - 2 });
-\draw[dotted, red, domain=3:7, smooth] plot (\x, { \x - 8 });
+\draw[dotted, red, domain=-4:0, smooth] plot (\x, { -\x - 2 });
+\draw[dotted, red, domain=0:4, smooth] plot (\x, { \x - 8 });
 
 \end{tikzpicture}
 \end{document}
