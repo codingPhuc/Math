@@ -229,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 3.5  Graphing Functions.md",
+                "file": "Paul Online note/Section 4.6  Transformations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 3.5  Graphing Functions"
+              "title": "Outline of Section 4.6  Transformations"
             }
           }
         ],
@@ -258,8 +258,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08a49e2c33b5ac4c",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 3.4  The Definition of a Function.md",
     "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 3.2  Lines.md",
@@ -268,7 +269,6 @@
     "Paul Online note/Section 4.5  Miscellaneous Functions.md",
     "Pasted image 20250409113454.png",
     "Pasted image 20250409113453.png",
-    "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 3.6  Combining Functions.md",
     "Paul Online note/Section 3.7  Inverse Functions.md",
     "Paul Online note/Section 4.4 Hyperbolas.md",
