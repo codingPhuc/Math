@@ -383,6 +383,6 @@ the parent of the function above is $f(x)=x^2$
 $$
 h(x) = \sqrt{ -x }
 $$
-Now for this one , we know that we cannot graph the function if the squ
+Now for this one , we know that we cannot graph the function if the square root is a negative number, however the present of a minus sign does not cause problem to say . Instead of plugging in positive number , we will plu
 
 
