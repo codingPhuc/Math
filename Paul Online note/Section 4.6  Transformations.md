@@ -806,13 +806,15 @@ the parent function of this is $f(x)=\mid x \mid$  so we can see that $h(x)$ is 
 
     % Text annotations  
     \fill (0,0) circle (2pt) node[above right] {$(0,0) $};
-    \fill (-4,-3) circle (2pt) node[above right] {$(-4,-3) $};
+    \fill (7,2) circle (2pt) node[above right] {$(7,2)  $};
 
     % Draw the parabola
-    \draw[thick, blue, domain=-4:0, smooth] plot (\x, {sqrt(\x + 4) -3  } );
-	 \draw[dotted, red, domain=0:4, smooth] plot (\x, {sqrt(\x) } );
+    \draw[thick, blue, domain=0:-4, smooth] plot (\x, {-\x} );
+	\draw[thick, blue, domain=0:4, smooth] plot (\x, {\x } );
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
+    \draw[dotted, red, domain=-6: -2, smooth] plot (\x, {-(\x+2)} );
+	\draw[dotted, red, domain=-2:2, smooth] plot (\x, {\x +2} );
 
 
 \end{tikzpicture}
