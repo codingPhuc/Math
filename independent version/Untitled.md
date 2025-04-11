@@ -381,7 +381,7 @@ $y=\sqrt{ 2x }$
 
 
 ```
-
+this is a horizontal shrink because the x value is less than what is needed for y to reach 2 
 
 $y=\sqrt{ \frac{1}{2} }x$
 
@@ -425,3 +425,6 @@ $y=\sqrt{ \frac{1}{2} }x$
 
 ```
 this is a horizontal stretch because the x value need to be increase in order to reach the same y value 
+
+
+$y= x%$
