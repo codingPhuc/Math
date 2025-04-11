@@ -208,7 +208,7 @@ since $g(x)  =  \sqrt{ x -4 }$ then we concluded that  $f(x) = \sqrt{ x }$ since
 
 
     % Draw the parabola
-    \draw[dot, blue, domain=0:8, smooth] plot (\x, {sqrt(\x)});
+    \draw[dotted, red, domain=0:8, smooth] plot (\x, {sqrt(\x)});
     \draw[thick, blue, domain=4:8, smooth] plot (\x, {sqrt(\x - 4)});
  
 \end{tikzpicture}
@@ -218,4 +218,4 @@ since $g(x)  =  \sqrt{ x -4 }$ then we concluded that  $f(x) = \sqrt{ x }$ since
 ```
 
 
-
+### Vertical and Horizontal Shifts 
