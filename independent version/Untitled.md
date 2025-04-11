@@ -592,4 +592,8 @@ $$
 
 
 ## quick  trick to stretch the graph 
-
+for the example  : 
+$$
+y = 3  - (x+ 2)^2  
+$$
+you can find the y value quickly by 
