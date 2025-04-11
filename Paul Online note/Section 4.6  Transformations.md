@@ -17,6 +17,9 @@ $$
 g(x)  =  x^2 + 3  
 $$
 
+
+### Using transformations sketch the graph of the following functions. 
+
 1. Find the vertex .There are simple method to finding this which we will discuss latter   
 the vertex of the equation above is $(0,3)$ since this indicate that the vertex is above the x intersect . We concluded that there will not be a x intercepts 
 2. Finding the y intercept $(0,f(0))$   
@@ -127,3 +130,11 @@ given a graph of $f(x)$ the graph of $g(x) =g(x+ c)$ will be the graph of $f(x)$
 
 Now we need to be careful here . A positive value of c will negatively shift the graph while a negative value of c will positively shift the graph . This is the opposite of the vertical shift that we cover above 
 
+### Using transformations sketch the graph of the following functions 
+
+$$
+\begin{array}{l}  \\
+h(x  ) =  (x + 2 )^3  \\
+
+\end{array}
+$$
