@@ -613,8 +613,7 @@ to map the corresponding point of $f(x)$ to $g(x)$ we need to follow these step 
 $$
 g(−1)=3−(−1+2)^2=3−1=2
 $$
-so point $g(-1) = 2$ is the shifted point of 
-
+so point $g(-1) = 2$ is the shifted point of $f(1)=-1$
 
 
 
@@ -654,3 +653,8 @@ so point $g(-1) = 2$ is the shifted point of
 
 ```
 
+
+
+$$
+y  = 4 - \sqrt{  3 - x }
+$$
