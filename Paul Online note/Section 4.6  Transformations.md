@@ -433,3 +433,6 @@ here is the graph of the function
 
 # #Practice_Exercise 
 
+$$
+f(x)  =  \sqrt{ x } + 4   
+$$
