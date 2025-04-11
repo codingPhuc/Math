@@ -607,7 +607,8 @@ $$
 g(x)  =  -(x+ 2)^2  + 3 
 $$
 which confirm that there is a horizontal shift to the left by 2 , and a vertical shift to the top 3 
-to map the corresponding point of 
+to map the corresponding point of $f(x)$ to $g(x)$ we need to follow these step : 
+1. plug in a point of $f(1)=-(1)^2=-1$
 
 
 
