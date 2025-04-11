@@ -138,7 +138,7 @@ h(x  ) =  (x + 2 )^3  \\
 \end{array}
 $$
 
-since $h(x  ) =  (x + 2 )^3$ then we concluded that  $f(x) = x^3$ since $h(x) =  (x + 2 )^3\implies f(x) = x^3$
+since $h(x  ) =  (x + 2 )^3$ then we concluded that  $f(x) = x^3$ since $h(x) =  (x + 2 )^3\implies f(x+2) = (x+ 2)^2$ so there is a 2  unit shift so we need to subtract 2  from  
 
 | x   | h(x) |
 | --- | ---- |
