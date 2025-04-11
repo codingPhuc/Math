@@ -606,7 +606,11 @@ we will start with the parent function
 $$
 f(x) = -(x)^2  
 $$
-
+now let consider it transform function which is  
+$$
+g(x)  =  -(x+ 2)^2  + 3 
+$$
+which confirm that there is a horizontal shift to the left , and a vertical shift to the right 
 
 
 
