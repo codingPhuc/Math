@@ -75,10 +75,10 @@ here we will draw the graph of $x^2$ first , then draw the graph when it  shift 
 $$
 \begin{array}{l}  \\
 \sqrt{  x } - 5   = f(x )   \\
-\sqrt{  x }  - 5  =  y   \\
-
+\sqrt{  x }  - 5  =  y   \\ 
 \end{array}
 $$
+
 
 
 ## Horizontal shift 
