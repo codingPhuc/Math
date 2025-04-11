@@ -164,8 +164,8 @@ since $h(x  ) =  (x + 2 )^3$ then we concluded that  $f(x) = x^3$ since $h(x) = 
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-4:2, smooth] plot (\x, { (\x + 2 )^3});
- \draw[thick, blue, domain=-4:2, smooth] plot (\x, { (\x  )^3});
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { (\x + 2 )^3});
+ \draw[thick, blue, domain=-2:2, smooth] plot (\x, { (\x  )^3});
  
  
 \end{tikzpicture}
