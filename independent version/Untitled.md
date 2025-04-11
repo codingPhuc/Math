@@ -594,6 +594,6 @@ $$
 ## quick  trick to stretch the graph 
 for the example  : 
 $$
-y = 3  - (x+ 2)^2  
+g(x) = 3  - (x+ 2)^2  
 $$
-you can find the y value quickly by 
+you can find the y value quickly of the child function  $g(x)  =  3-(x-2)^2$ bases on the $f(x)=3$
