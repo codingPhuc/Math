@@ -598,10 +598,6 @@ g(x) = 3  - (x+ 2)^2
 $$
 
 which clearly shows:
-
-- A **horizontal shift** left by 2 unit
-- A **vertical shift** up by 3 unit
-- A reflection over the x-axis (already part of the parent function)
 we will start with the parent function  
 $$
 f(x) = -(x)^2  
@@ -610,7 +606,8 @@ now let consider it transform function which is
 $$
 g(x)  =  -(x+ 2)^2  + 3 
 $$
-which confirm that there is a horizontal shift to the left , and a vertical shift to the right 
+which confirm that there is a horizontal shift to the left by 2 , and a vertical shift to the top 3 
+to map the corresponding point of 
 
 
 
