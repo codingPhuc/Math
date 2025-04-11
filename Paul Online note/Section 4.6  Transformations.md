@@ -219,4 +219,4 @@ since $g(x)  =  \sqrt{ x -4 }$ then we concluded that  $f(x) = \sqrt{ x }$ since
 
 
 ### Vertical and Horizontal Shifts 
-now we will look at a combination of the two shift above into a single problem . If we know that the graph of $f(x)$ the graph of $g(x)= f(x+c)+ k$ will be the graph of $f(x)$ shi
+now we will look at a combination of the two shift above into a single problem . If we know that the graph of $f(x)$ the graph of $g(x)= f(x+c)+ k$ will be the graph of $f(x)$ shift left and right by c units 
