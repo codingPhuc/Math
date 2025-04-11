@@ -510,8 +510,7 @@ $$
  y  = (x- 2)^2 + 3
 $$
 
-
-
+so the origin will shift to the right by  2   and  up 3  
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -533,7 +532,7 @@ $$
 
     % Text annotations  
     \fill (0,2) circle (2pt) node[above right] {$(0,2)$};
-    
+	\fill (0,2) circle (2pt) node[above right] {$(0,2)$};
 
     % Draw the parabola
     \draw[thick, blue, domain=0:-4, smooth] plot (\x, {-\x} );
