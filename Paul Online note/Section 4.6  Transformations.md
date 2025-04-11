@@ -388,3 +388,4 @@ for example
 $$
 h(-4) = \sqrt{ -(-4) } =  \sqrt{ 4 } =  2 
 $$
+so since the minus sign here does not apply to the whole equation , meaning that it only apply to x then we are doing a reflection on the y axis 
