@@ -380,4 +380,9 @@ the parent of the function above is $f(x)=x^2$
 
 ```
 
-Now with this one let address the 
+$$
+h(x) = \sqrt{ -x }
+$$
+Now for this one , we know that we cannot graph the function if the squ
+
+
