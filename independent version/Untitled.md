@@ -539,8 +539,8 @@ so the origin will shift to the right by  2   and  up 3
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
 
-\draw[dotted, red, domain=-3:3, smooth] plot (\x, { (\x- 2)^2 + 3 });
-\draw[thick, blue, domain=-3:3, smooth] plot (\x, { (\x)^2 });
+\draw[dotted, red, domain=0:2, smooth] plot (\x, { (\x- 2)^2 + 3 });
+\draw[thick, blue, domain=-2:2, smooth] plot (\x, { (\x)^2 });
 
 \end{tikzpicture}
 \end{document}
