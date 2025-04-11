@@ -83,7 +83,7 @@ this is not  a line function like [[Section 3.2  Lines]] so we will not perform 
 
 
 
-first  we draw the graph of $\sqrt{ x }$ (the dotted line graph bellow) down by 5 . Again from a coordi
+first  we draw the graph of $\sqrt{ x }$ (the dotted line graph bellow) down by 5 . Again from a coordinate stand point , we subtract 5 from the y coordinate on points on $\sqrt{ x }$
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
