@@ -453,7 +453,7 @@ $y= \sqrt[3]{ x }$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:8, smooth] plot (\x, {sqrt[3](0.5*\x)} );
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x, {pow(\x, 3)} );
 
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
@@ -464,3 +464,4 @@ $y= \sqrt[3]{ x }$
 
 
 ```
+$$
