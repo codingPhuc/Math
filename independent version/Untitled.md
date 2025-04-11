@@ -535,13 +535,12 @@ so the origin will shift to the right by  2   and  up 3
 	\fill (0,3) circle (2pt) node[above right] {$ (0,3) $};
 	\fill (2,3) circle (2pt) node[above right] {$ (0,3) $};
     % Draw the parabola
-    \draw[thick, blue, domain=0:-4, smooth] plot (\x, {-\x} );
-	\draw[thick, blue, domain=0:4, smooth] plot (\x, {\x } );
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
-\draw[dotted, red, domain=-6:-3, smooth] plot (\x, { (\x- 2)^2 + 3 });
-\draw[dotted, red, domain=-3:0, smooth] plot (\x, { (\x  +3) -5 });
+
+\draw[dotted, red, domain=-3:3, smooth] plot (\x, { (\x- 2)^2 + 3 });
+\draw[thick, blue, domain=-3:3, smooth] plot (\x, { (\x)^2 });
 
 \end{tikzpicture}
 \end{document}
