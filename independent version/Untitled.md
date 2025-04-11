@@ -382,11 +382,8 @@ $y=\sqrt{ 2x }$
 
 ```
 
-$y=\sqrt{ \frac{1}{2} }x$ 
 
-
-
-
+$y=\sqrt{ \frac{1}{2} }x$
 
 
 
@@ -416,7 +413,7 @@ $y=\sqrt{ \frac{1}{2} }x$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:4, smooth] plot (\x, {sqrt(0.5*\x)} );
+    \draw[thick, blue, domain=0:8, smooth] plot (\x, {sqrt(0.5*\x)} );
 
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
@@ -427,3 +424,4 @@ $y=\sqrt{ \frac{1}{2} }x$
 
 
 ```
+this is a horizontal stretch because the x value need to be increase in order to reach the same y value 
