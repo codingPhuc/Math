@@ -489,4 +489,6 @@ the parent function of this is $f(x)= \sqrt{ x}$ so we can see that $h(x)$ is th
 
 ```
 
-f( )
+$$
+f(x ) =
+$$
