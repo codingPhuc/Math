@@ -274,7 +274,7 @@ g(x)  =  \mid x + 3 \mid   - 5
 $$
 
 
-so it shift to the left by 3 and down by 4 
+$f(x) =\mid x \mid$ so it shift to the left by 3 and down by 4  
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -300,6 +300,8 @@ so it shift to the left by 3 and down by 4
 
 
     % Draw the parabola
+    \draw[dotted, red, domain=0:-4, smooth] plot (-\x, {\x} );
+	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x } );
     \draw[dotted, red, domain=0:-4, smooth] plot (-\x, {(\x + 3 )  - 5} );
 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {(\x + 3 )  - 5} );
 \end{tikzpicture}
