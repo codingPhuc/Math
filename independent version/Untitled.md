@@ -18,4 +18,9 @@ $f(-x)$ reflex over the y-axis
 $-f(-x)$ reflex over the origin 
 
 2$f(x)$ vertical stretch 
+$\frac{1}{2}f(x)$ shink vertically 
+$f(2x)$ horizontal shink 
+$f\left( \frac{1}{2}x \right)$ horizontal stretch 
+
+
 
