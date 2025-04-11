@@ -441,9 +441,46 @@ the parent function of this is $f(x)= \sqrt{ x}$ so we can see that $h(x)$ is th
 
 
 
-| x   | $$f(x) =\sqrt{ x } + 4   $$ | $$h(x) = \sqrt{ x } $$ |
+| x   | $$h(x) =\sqrt{ x } + 4   $$ | $$f(x) = \sqrt{ x } $$ |
 | --- | --------------------------- | ---------------------- |
-| 0   | 0                           | 0                      |
-| 1   | 1                           | -1                     |
-| 2   | 4                           | -4                     |
-|     |                             |                        |
+| 0   | 4                           | 0                      |
+| 1   | 5                           | 1                      |
+| 4   | 6                           | 2                      |
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    \fill (1, -1 ) circle (2pt) node[above right] {$(1, -1 )$};
+	\fill (-1,2)  circle (2pt) node[above right] {$ (-1,2) $};
+    % Draw the parabola
+   %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
+%% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
+
+
+\draw[dotted, red, domain= 0:2, smooth] plot (\x,{ sqrt(\x)});
+\draw[thick, blue, domain= -2:-0, smooth] plot (\x, {sqrt(-\x)});
+
+\end{tikzpicture}
+\end{document}
+
+
+```
+
