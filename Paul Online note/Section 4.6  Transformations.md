@@ -300,9 +300,8 @@ so it shift to the left by 3 and down by 4
 
 
     % Draw the parabola
-    \draw[dotted, red, domain=-2:4, smooth] plot (\x, {(\x)^2} );
-    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {(\x - 2 )^2  + 4});
- 
+    \draw[dotted, red, domain=-2:4, smooth] plot (-\x, {(x + 3 )  - 5} );
+
 \end{tikzpicture}
 \end{document}
 
