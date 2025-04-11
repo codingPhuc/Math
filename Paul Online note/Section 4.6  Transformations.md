@@ -778,10 +778,10 @@ the parent function of this is $f(x)=\sqrt{ x }$  so we can see that $h(x)$ is t
 
 
 $$
-h(x) = \mid x -  7 \mid 
+h(x) = \mid x -  7 \mid + 2   
 $$
  
-the parent function of this is $f(x)=\sqrt{ x }$  so we can see that $h(x)$ is the function  of   $f(x)$  shifted  left  by 4 and down by 3 
+the parent function of this is $f(x)=\mid x \mid$  so we can see that $h(x)$ is the function  of   $f(x)$  shifted  right by 7 and up  by 2  
 
 
 
