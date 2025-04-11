@@ -323,4 +323,8 @@ the Final set of transformation that we're going to explain is not shift but ins
 
 
 ### reflection about the x-axis 
-Given the graph of $f(x)$ then the graph of $g(x) = -f(x)$ is the graph of $f(x)$ reflected about the x-axis . This mean the sign on the y cooridi   
+Given the graph of $f(x)$ then the graph of $g(x) = -f(x)$ is the graph of $f(x)$ reflected about the x-axis . This mean the sign on the y coordinates are change to the opposite sign 
+
+
+### reflection about the y-axis 
+Given the graph of $f(x)$ then the graph of $g(x)$
