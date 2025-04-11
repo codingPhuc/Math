@@ -434,5 +434,7 @@ here is the graph of the function
 # #Practice_Exercise 
 
 $$
-f(x)  =  \sqrt{ x } + 4   
-$$
+h(x)  =  \sqrt{ x } + 4   
+$$ 
+the parent function of this is $f(x)= \sqrt{ x}$ so we can see that this is just a
+
