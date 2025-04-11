@@ -251,7 +251,7 @@ $y= 2\mid x \mid$
 
 
 ```
-
+vertical stretch mean the y value increase 
 
 
 $y=\frac{1}{2}\mid x \mid$
@@ -296,5 +296,7 @@ $y=\frac{1}{2}\mid x \mid$
 
 ```
 
+vertical shrink when the y value decrease 
 
-vertical shrink appea
+
+
