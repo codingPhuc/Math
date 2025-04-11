@@ -602,10 +602,8 @@ which clearly shows:
 - A **horizontal shift** left by 2 unit
 - A **vertical shift** up by 3 unit
 - A reflection over the x-axis (already part of the parent function)
-you can find the y value quickly of the child function  $g(x)  =  3-(x+2)^2$ bases on the parent  $f(x)=-(x)^2$  
-1. you need to plug in the value 1 for example into $f(1)=-1$ 
-2. then since so we need $x+2 =1\implies x=-1$ which will be $g(x)  =  3-(-1+2)^2\implies g(x)=2$
-3. so the point of the parent function will be (1, -1 ) while the point of it children function shift left by 2 and up by 3 will be (-1,2) 
+
+
 
 
 
