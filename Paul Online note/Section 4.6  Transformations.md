@@ -333,3 +333,7 @@ $$
 g(x)  = -x^2 
 $$
 the parent of the function above is $f(x)=x^2$ 
+
+|     | f(x) | g(x) |
+| --- | ---- | ---- |
+|     |      |      |
