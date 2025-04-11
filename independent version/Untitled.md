@@ -660,7 +660,7 @@ y  = 4 - \sqrt{  3 - x }
 $$
 the parent function of this is $f(x)=-\sqrt{ x }$  
 plug in 1 we will have $f(1)= -1$
-find the shifted point of $g(x)=4-\sqrt{ 3-x }$ we need to find $3-x =-1\implies x=4$ 
+find the shifted point of $g(x)=4-\sqrt{ 3-x }$ we need to find $3-x =1\implies x=2$ 
 $$
  g(x ) = 4 - \sqrt{  3 - 4 }  =  3 
 $$
