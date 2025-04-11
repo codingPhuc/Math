@@ -35,7 +35,7 @@ x^2  + 3    = 0
 x = \pm  \sqrt{ 3 }i
 $$
 
-here we will draw the graph of $x^2$ shift up by 3 
+here we will draw the graph of $x^2$ first , then draw the graph when it  shift up by 3 unit which is $x^2 + 3$  
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
