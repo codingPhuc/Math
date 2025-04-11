@@ -814,7 +814,7 @@ the parent function of this is $f(x)=\mid x \mid$  so we can see that $h(x)$ is 
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
     \draw[dotted, red, domain=7: 3, smooth] plot (\x, {-(\x-7) +2} );
-	\draw[dotted, red, domain= -7:-11, smooth] plot (\x, {\x-7 +2} );
+	\draw[dotted, red, domain= 7:11, smooth] plot (\x, {\x-7 +2} );
 
 
 \end{tikzpicture}
