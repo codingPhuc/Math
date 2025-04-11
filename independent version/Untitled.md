@@ -597,7 +597,7 @@ $$
 g(x) = 3  - (x+ 2)^2  
 $$
 you can find the y value quickly of the child function  $g(x)  =  3-(x+2)^2$ bases on the parent  $f(x)=-(x)^2$  
-1. you need to plug in the value 1 for example into $f(1)=1$ 
+1. you need to plug in the value 1 for example into $f(1)=-1$ 
 2. then since so we need $x+2 =1\implies x=-1$ which will be $g(x)  =  3-(-1+2)^2\implies g(x)=2$
 3. so the point of the parent function will be (1, 1 ) while the point of it children function shift left by 2 and up by 3 will be (-1,2) 
 
@@ -624,9 +624,8 @@ you can find the y value quickly of the child function  $g(x)  =  3-(x+2)^2$ bas
     }
 
     % Text annotations  
-    \fill (2,0) circle (2pt) node[above right] {$(2,0)$};
-	\fill (0,3) circle (2pt) node[above right] {$ (0,3) $};
-	\fill (2,3) circle (2pt) node[above right] {$ (0,3) $};
+    \fill (1, -1 ) circle (2pt) node[above right] {$(1, -1 )$};
+	\fill (-1,2)  circle (2pt) node[above right] {$ (-1,2) $};
     % Draw the parabola
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
