@@ -7,7 +7,7 @@ reference: https://www.youtube.com/watch?v=Tmdrjs9xufc&ab_channel=TheOrganicChem
 Current date: 2025-04-11
 ---
 
-$f(x)+ 2$  vertical shift  down 2 unit 
+$f(x)+ 2$  vertical shift graph is gona move up 2 unit 
+$f(x) -3$ vertical shift down 3 unti 
 
-
-
+$f(x-4)$ horizon tal shift , this shift is 4 unit to the right 
