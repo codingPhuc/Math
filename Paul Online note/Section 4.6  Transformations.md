@@ -103,10 +103,11 @@ this is not  a line function like [[Section 3.2  Lines]] so we will not perform 
     % Text annotations  
     \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
 
-	 \draw[thick, blue, domain=0:6, smooth] plot (\x, {sqrt(\x)});
+
     % Draw the parabola
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, {  sqrt(\x)  });
-    \draw[dotted, red, domain=-2:2, smooth] plot (\x, {  sqrt(\x) -5 });
+    \draw[thick, blue, domain=0:6, smooth] plot (\x, {sqrt(\x)});
+        \draw[dotted, red, domain=0:6, smooth] plot (\x, {sqrt(\x) -5});
+ 
  
 \end{tikzpicture}
 \end{document}
