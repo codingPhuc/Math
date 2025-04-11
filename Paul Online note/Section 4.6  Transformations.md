@@ -734,7 +734,7 @@ $$
 h(x) = \sqrt{ x + 4 }  - 3 
 $$
  
-the parent function of this is $f(x)=x^3$  so we can see that $h(x)$ is the function reflection on the  x axis of   $f(x)$ 
+the parent function of this is $f(x)=\sqrt{ x }$  so we can see that $h(x)$ is the function  of   $f(x)$  shifted  left  by 4 and down by 3 
 
 
 
@@ -763,7 +763,7 @@ the parent function of this is $f(x)=x^3$  so we can see that $h(x)$ is the func
 
     % Draw the parabola
     \draw[thick, blue, domain=-2:2, smooth] plot (\x, {sqrt(\x + 4) -3  } );
-	 \draw[dotted, red, domain=-2:2, smooth] plot (\x, {(\x)^3 } );
+	 \draw[dotted, red, domain=-2:2, smooth] plot (\x, {sqrt(\x) } );
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
