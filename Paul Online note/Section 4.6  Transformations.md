@@ -79,6 +79,8 @@ $$
 
 \end{array}
 $$
+
+
 ## Horizontal shift 
 These are simple  as well but there is one bit we need to be careful with 
 
