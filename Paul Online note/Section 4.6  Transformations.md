@@ -223,6 +223,7 @@ now we will look at a combination of the two shift above into a single problem .
 
 $$
 \begin{array}{l}  \\
-f(x) = (x - 2 )^2  + 4
+h(x) = (x - 2 )^2  + 4
 \end{array}
 $$
+we know that $g(x)= f(x+c)+ k$ is the graph of $f(x)$ , we concluded that 
