@@ -135,6 +135,5 @@ Now we need to be careful here . A positive value of c will negatively shift the
 $$
 \begin{array}{l}  \\
 h(x  ) =  (x + 2 )^3  \\
-
 \end{array}
 $$
