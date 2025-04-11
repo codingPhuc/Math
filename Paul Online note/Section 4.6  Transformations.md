@@ -633,10 +633,10 @@ the parent function of this is $f(x)=x^2$  so we can see that $h(x)$ is the func
 
 
 $$
-h(x) = (x  - 5)^2  
+h(x) = - x^3 
 $$
  
-the parent function of this is $f(x)=x^2$  so we can see that $h(x)$ is the function $f(x)$ shifted right  by 5 
+the parent function of this is $f(x)=x^3$  so we can see that $h(x)$ is the function reflection on the   $f(x)$ 
 
 
 
