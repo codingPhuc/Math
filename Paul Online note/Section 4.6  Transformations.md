@@ -35,6 +35,7 @@ x^2  + 3    = 0
 x = \pm  \sqrt{ 3 }i
 $$
 
+here we will draw the graph of $x^2$ shift up by 3 
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -60,7 +61,7 @@ $$
 
     % Draw the parabola
     \draw[thick, blue, domain=-2:2, smooth] plot (\x, { (\x)^2  + 3  });
-    \draw[thick, red, domain=-2:2, smooth] plot (\x, { (\x)^2   });
+    \draw[dotted, red, domain=-2:2, smooth] plot (\x, { (\x)^2   });
  
 \end{tikzpicture}
 \end{document}
