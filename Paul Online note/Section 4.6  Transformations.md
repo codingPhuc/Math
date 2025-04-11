@@ -540,9 +540,10 @@ the parent function of this is $f(x)=x^3$  so we can see that $h(x)$ is the func
 ```
 
 $$
-\mid  \mid 
+f(x) =  \mid x + 2 \mid  
 $$
-
+ 
+the parent function of this is $f(x)=\mid x \mid$  so we can see that $h(x)$ is the function $f(x)$ shifted down by  2 
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -573,7 +574,7 @@ $$
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
-\draw[dotted, red, domain=-6:-3, smooth] plot (\x, { -(\x  +3) -5 });
+\draw[dotted, red, domain=-6:-3, smooth] plot (\x, {(x  )});
 \draw[dotted, red, domain=-3:0, smooth] plot (\x, { (\x  +3) -5 });
 
 \end{tikzpicture}
