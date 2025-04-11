@@ -762,8 +762,8 @@ the parent function of this is $f(x)=\sqrt{ x }$  so we can see that $h(x)$ is t
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, {sqrt(\x + 4) -3  } );
-	 \draw[dotted, red, domain=-2:2, smooth] plot (\x, {sqrt(\x) } );
+    \draw[thick, blue, domain=-4:0, smooth] plot (\x, {sqrt(\x + 4) -3  } );
+	 \draw[dotted, red, domain=0:4, smooth] plot (\x, {sqrt(\x) } );
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
