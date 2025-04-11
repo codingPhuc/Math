@@ -686,15 +686,16 @@ $$
     }
 
     % Text annotations  
-    \fill (1, -1 ) circle (2pt) node[above right] {$(1, -1 )$};
-	\fill (-1,2)  circle (2pt) node[above right] {$ (2,3) $};
+\fill (1, -1) circle (2pt) node[above right] {$(1, -1)$};
+\fill (2, 3) circle (2pt) node[above right] {$(2, 3)$};
+
     % Draw the parabola
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
 
 
 \draw[dotted, red, domain=0:5, smooth] plot (\x, {-sqrt(\x) });
-\draw[thick, blue, domain=-6:2.3, smooth] plot (\x, {4 - sqrt(3 - \x) });
+\draw[thick, blue, domain=-3:2.3, smooth] plot (\x, {4 - sqrt(3 - \x) });
 
 \end{tikzpicture}
 \end{document}
