@@ -6,7 +6,7 @@
       {
         "id": "67c628547dda02c7",
         "type": "tabs",
-        "dimension": 61.05015673981191,
+        "dimension": 45.924764890282134,
         "children": [
           {
             "id": "dbae192c9568f6f3",
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 4.6  Transformations.md",
+                "file": "independent version/Transformations video lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 4.6  Transformations"
+              "title": "Transformations video lecture"
             }
           },
           {
@@ -84,7 +84,7 @@
       {
         "id": "8bd9f33ac5949455",
         "type": "tabs",
-        "dimension": 38.94984326018809,
+        "dimension": 54.075235109717866,
         "children": [
           {
             "id": "08a49e2c33b5ac4c",
@@ -260,9 +260,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "08a49e2c33b5ac4c",
   "lastOpenFiles": [
-    "independent version/Untitled.md",
+    "independent version/Transformations video lecture.md",
     "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/Section 3.3  Circles.md",

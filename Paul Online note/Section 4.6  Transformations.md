@@ -321,5 +321,6 @@ $f(x) =\mid x \mid$ so it shift to the left by 3 and down by 4
 ## Reflection  
 the Final set of transformation that we're going to explain is not shift but instead they are called reflection and there are two of them 
 
+
 ### reflection about the x-axis 
 Given the graph of $f(x)$ then the graph of $g(x)$ = 
