@@ -138,7 +138,7 @@ h(x  ) =  (x + 2 )^3  \\
 \end{array}
 $$
 
-since $h(x  ) =  (x + 2 )^3$ then we concluded that  $f(x) = x^3$ since $$
+since $h(x  ) =  (x + 2 )^3$ then we concluded that  $f(x) = x^3$ since $h(x) =  (x + 2 )^3\implies f(x) = x^3$
 
 | x   | h(x) |
 | --- | ---- |
