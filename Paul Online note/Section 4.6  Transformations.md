@@ -327,4 +327,9 @@ Given the graph of $f(x)$ then the graph of $g(x) = -f(x)$ is the graph of $f(x)
 
 
 ### reflection about the y-axis 
-Given the graph of $f(x)$ then the graph of $g(x)=f(-x)$ is the graph of $f(x)$ reflect about the y-axis . This mean the sign on all hte x coordinates are changed to the oppositve si
+Given the graph of $f(x)$ then the graph of $g(x)=f(-x)$ is the graph of $f(x)$ reflect about the y-axis . This mean the sign on all hte x coordinates are changed to the opposite sign 
+
+$$
+g(x)  = -x^2 
+$$
+the parent of the function above is $f(x)=x^2$ 
