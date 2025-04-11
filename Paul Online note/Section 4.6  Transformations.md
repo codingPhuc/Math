@@ -436,5 +436,15 @@ here is the graph of the function
 $$
 h(x)  =  \sqrt{ x } + 4   
 $$ 
-the parent function of this is $f(x)= \sqrt{ x}$ so we can see that this is just a
+the parent function of this is $f(x)= \sqrt{ x}$ so we can see that $h(x)$ is the function $f(x)$ shifted up by 4 
 
+
+
+
+| x   | f(x) = x^2 | g(x) = -x^2 |
+| --- | ---------- | ------------|
+| -2  | 4          | -4          |
+| -1  | 1          | -1          |
+| 0   | 0          | 0           |
+| 1   | 1          | -1          |
+| 2   | 4          | -4          |
