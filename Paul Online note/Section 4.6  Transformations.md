@@ -327,4 +327,4 @@ Given the graph of $f(x)$ then the graph of $g(x) = -f(x)$ is the graph of $f(x)
 
 
 ### reflection about the y-axis 
-Given the graph of $f(x)$ then the graph of $g(x)$
+Given the graph of $f(x)$ then the graph of $g(x)=f(-x)$ is the graph of $f(x)$ reflect about the y-axis . This mean the sign on all hte x coordinates are changed to the oppositve si
