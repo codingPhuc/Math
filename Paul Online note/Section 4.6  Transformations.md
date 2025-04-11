@@ -468,13 +468,13 @@ the parent function of this is $f(x)= \sqrt{ x}$ so we can see that $h(x)$ is th
     }
 
     % Text annotations  
- \filldraw[blue] (0,0) circle (2pt) node[below right] {$(0, 0)$};
-    \filldraw[blue] (1,1) circle (2pt) node[below right] {$(1, 1)$};
-    \filldraw[blue] (4,2) circle (2pt) node[below right] {$(4, 2)$};
+ \filldraw(0,0) circle (2pt) node[below right] {$(0, 0)$};
+    \filldraw (1,1) circle (2pt) node[below right] {$(1, 1)$};
+    \filldraw (4,2) circle (2pt) node[below right] {$(4, 2)$};
 
-    \filldraw[red] (0,4) circle (2pt) node[above right] {$(0, 4)$};
-    \filldraw[red] (1,5) circle (2pt) node[above right] {$(1, 5)$};
-    \filldraw[red] (4,6) circle (2pt) node[above right] {$(4, 6)$};
+    \filldraw (0,4) circle (2pt) node[above right] {$(0, 4)$};
+    \filldraw (1,5) circle (2pt) node[above right] {$(1, 5)$};
+    \filldraw(4,6) circle (2pt) node[above right] {$(4, 6)$};
     % Draw the parabola
    %%  \draw[dotted, red, domain=-4:0, smooth] plot (\x, {-\x-2} ); %%
 %% 	\draw[dotted, red, domain=0:4, smooth] plot (\x, {\x -8} ); %%
