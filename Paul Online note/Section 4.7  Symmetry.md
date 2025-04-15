@@ -263,8 +263,7 @@ x-axis
 
 $$
 \begin{array}{l} \\
-x^2  =  7 y -  x^3  + 2  \\
-\frac{y^2}{ 4}  = 1 + \frac{x^2}{9}
+(-x)^2  =  7 y -  (-x)^3  + 2  \\
 \end{array}
 
 $$
