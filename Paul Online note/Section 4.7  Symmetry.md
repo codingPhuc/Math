@@ -172,7 +172,11 @@ $$
 x-axis 
 
 $$
-x =  4(-y )^6  -  (-y)^2  
+\begin{array}{l} \\
+x =  4(-y )^6  -  (-y)^2     \\
+x  =   4(y)^6  -   y^2
+\end{array}
+
 $$
 since the sign  on negative  $y_{1}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
 
