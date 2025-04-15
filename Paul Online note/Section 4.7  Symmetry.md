@@ -130,5 +130,9 @@ we've some fairly simply test for each different type of symmetry
 
 
 $$
-y = x^2 - 
+\begin{array}{l}  \\
+y = x^2 -  6x^4  + 2  \\
+f(-x )   = 
+\end{array}
+
 $$
