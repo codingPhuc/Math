@@ -41,18 +41,18 @@ Determine if the graphs of the equation would be symmetrical about the x-axis , 
 
 
 $$
-y = -x^4  + 4x^2  + 5 
+y  = x^3  - 2x 
 $$
 x-axis 
 
 $$
- - y_{1} = -x^4  + 4x^2  + 5 
+ - y_{1} = x^3  - 2x 
 $$
 since the sign  on negative  $y_{1}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
 
 y-axis 
 $$
-  y_{2} =  -  (-x)^4  + 4(-x)^2  + 5   =  -x^4  + 4x^2  + 5 
+  y_{2} =  (-x)^3  - 2(-x)    = -x^3   2x 
 $$
 since the sign on both part of the equation in $y_{2}$  match the sign in the equation y . We concluded that the equation in symmetric on the y axis 
 
