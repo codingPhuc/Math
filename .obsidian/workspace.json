@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
+                "file": "Paul Online note/Section 4.7  Symmetry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deriving the Equation of a Hyperbola Centered at the Origin"
+              "title": "Section 4.7  Symmetry"
             }
           }
         ]
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
+                "file": "Paul Online note/Section 4.4 Hyperbolas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deriving the Equation of a Hyperbola Centered at the Origin"
+              "title": "Outline of Section 4.4 Hyperbolas"
             }
           }
         ],
@@ -203,18 +203,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "08a49e2c33b5ac4c",
   "lastOpenFiles": [
-    "Paul Online note/Section 4.4 Hyperbolas.md",
-    "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "Paul Online note/Section 4.7  Symmetry.md",
+    "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
+    "independent version/Transformations video lecture.md",
+    "Paul Online note/Section 4.4 Hyperbolas.md",
     "Pasted image 20250414173933.png",
     "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Section 4.5  Miscellaneous Functions.md",
     "Paul Online note/Untitled 2.md",
     "templates/adjunction.md",
-    "independent version/Transformations video lecture.md",
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/Section 3.3  Circles.md",
     "Professor Leonard/Untitled.md",

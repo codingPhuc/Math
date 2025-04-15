@@ -6,19 +6,19 @@ tags:
 reference: https://www.youtube.com/watch?v=Tmdrjs9xufc&ab_channel=TheOrganicChemistryTutor
 Current date: 2025-04-11
 ---
-| **Type**                   | **Example**     | **Effect**                          |
-|----------------------------|------------------|--------------------------------------|
-| Vertical shift up         | `f(x) + 2`       | Up 2 units                           |
-| Vertical shift down       | `f(x) - 3`       | Down 3 units                         |
-| Horizontal shift right    | `f(x - 4)`       | Right 4 units                        |
-| Horizontal shift left     | `f(x + 3)`       | Left 3 units                         |
-| Reflection over x-axis    | `-f(x)`          | Flip vertically                      |
-| Reflection over y-axis    | `f(-x)`          | Flip horizontally                    |
-| Reflection over origin    | `-f(-x)`         | 180° rotation (origin symmetry)      |
-| Vertical stretch          | `2f(x)`          | Multiply y-values by 2               |
-| Vertical shrink           | `(1/2)f(x)`      | Divide y-values by 2                 |
-| Horizontal shrink         | `f(2x)`          | Multiply x-values by 1/2             |
-| Horizontal stretch        | `f(1/2 x)`       | Multiply x-values by 2               |
+| **Type**               | **Example** | **Effect**                      |
+| ---------------------- | ----------- | ------------------------------- |
+| Vertical shift up      | `f(x) + 2`  | Up 2 units                      |
+| Vertical shift down    | `f(x) - 3`  | Down 3 units                    |
+| Horizontal shift right | `f(x - 4)`  | Right 4 units                   |
+| Horizontal shift left  | `f(x + 3)`  | Left 3 units                    |
+| Reflection over x-axis | `-f(x)`     | Flip vertically                 |
+| Reflection over y-axis | `f(-x)`     | Flip horizontally               |
+| Reflection over origin | `-f(-x)`    | 180° rotation (origin symmetry) |
+| Vertical stretch       | `2f(x)`     | Multiply y-values by 2          |
+| Vertical shrink        | `(1/2)f(x)` | Divide y-values by 2            |
+| Horizontal shrink      | `f(2x)`     | Multiply x-values by 1/2        |
+| Horizontal stretch     | `f(1/2 x)`  | Multiply x-values by 2          |
 
 
 $y =\sqrt{ x }$ 
