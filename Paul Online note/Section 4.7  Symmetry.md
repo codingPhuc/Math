@@ -143,4 +143,4 @@ y = x^2 -  6x^4  + 2  \\
 \end{array}
 $$
 
-so we concluded that the equation is not eq
+so we concluded that the equation is not equivalent when -y . Additionally , since the  equation is not equivalent when -y  it is not syme
