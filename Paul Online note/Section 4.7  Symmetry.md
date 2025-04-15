@@ -284,11 +284,11 @@ origin
 
 $$
 \begin{array}{l} \\
-\frac{(-y)^2}{ 4}  = 1 + \frac{(-x)^2}{9}  \\
-\frac{y^2}{ 4}  = 1 + \frac{(x)^2}{9}
+(-x)^2  =  7 -y -  (-x)^3  + 2  \\
+(x)^2  =  -7 y +  (x)^3  + 2 
 \end{array}
 $$
-since the sign on both part of the equation in $y_{2}$  match the sign in the equation y . We concluded that the equation in symmetric on the origin 
+since the sign on the $-y_{2}$ does not match   y   . We concluded that the equation is not symmetric on the origin 
 
 
 
