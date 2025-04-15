@@ -235,7 +235,7 @@ $$
 \end{array}
 
 $$
-since the sign  on negative  $y_{1}$ does   match the sign in  $y$ . We concluded that  the equation is  equivalent on the y axis 
+since the sign  on negative  $y_{1}$ does   match the sign in  $y$ . We concluded that  the equation is  symmetric on the y axis 
 
 origin 
 
@@ -267,7 +267,7 @@ $$
 (x)^2  =  7 y +  (x)^3  + 2 \end{array}
 
 $$
-since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
+since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not symmetric on the x axis 
 
 y-axis 
 
@@ -278,7 +278,7 @@ x^2  =  -7 y -  x^3  + 2
 \end{array}
 
 $$
-since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the y axis 
+since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not symmetric on the y axis 
 
 origin 
 
@@ -318,7 +318,7 @@ $$
 - y   =   4x^2   +  x^6  - x^8 \end{array}
 
 $$
-since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
+since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not symmetric on the x axis 
 
 origin 
 
@@ -357,7 +357,7 @@ $$
 - y   =   4x^2   +  x^6  - x^8 \end{array}
 
 $$
-since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
+since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not symmetric on the x axis 
 
 origin 
 
@@ -395,7 +395,7 @@ $$
 -y =  7x + 4(x)^5 \end{array}
 
 $$
-since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
+since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not symmetric on the x axis 
 
 origin 
 
