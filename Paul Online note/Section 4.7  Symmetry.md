@@ -162,3 +162,31 @@ $$
 
 # #Practice_Exercise  
 
+
+Determine if the graphs of the equation would be symmetrical about the x-axis , y-axis , or the origin 
+
+
+$$
+x =  4y^6  -  y^2  
+$$
+x-axis 
+
+$$
+x =  4(-y )^6  -  (-y)^2  
+$$
+since the sign  on negative  $y_{1}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
+
+y-axis 
+$$
+x =  4(y )^6  -  (y)^2  
+$$
+since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the y axis 
+
+origin 
+
+$$
+ - y_{2} =  -    (-x)^3  - 2(-x)      =  -x^3  + 2x  
+$$
+since the sign on both part of the equation in $y_{2}$  match the sign in the equation y . We concluded that the equation in symmetric on the origin 
+
+
