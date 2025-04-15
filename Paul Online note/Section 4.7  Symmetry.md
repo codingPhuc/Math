@@ -257,13 +257,13 @@ Determine if the graphs of the equation would be symmetrical about the x-axis , 
 
 
 $$
-\frac{y^2}{ 4}  = 1 + \frac{x^2}{9}
+x^2  =  7 y -  x^3  + 2 
 $$
 x-axis 
 
 $$
 \begin{array}{l} \\
-\frac{(-y)^2}{ 4}  = 1 + \frac{x^2}{9}  \\
+x^2  =  7 y -  x^3  + 2  \\
 \frac{y^2}{ 4}  = 1 + \frac{x^2}{9}
 \end{array}
 
