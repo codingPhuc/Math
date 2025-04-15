@@ -310,7 +310,7 @@ y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
 y   =   4x^2   +  x^6  - x^8 \end{array}
 
 $$
-since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  symmetric  on the x axis 
+since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  symmetric  on the y axis 
 
 y-axis 
 $$
@@ -318,7 +318,85 @@ $$
 - y   =   4x^2   +  x^6  - x^8 \end{array}
 
 $$
-since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the y axis 
+since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
+
+origin 
+
+$$
+\begin{array}{l} \\
+-y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
+-y   =   4x^2   +  x^6  - x^8 \end{array}
+
+$$
+since the sign on the $-y_{2}$ does not match   y   . We concluded that the equation is not symmetric on the origin 
+
+
+
+
+
+
+Determine if the graphs of the equation would be symmetrical about the x-axis , y-axis , or the origin 
+
+
+$$
+y =  4x^2   +  x^6  - x^8 
+$$
+x-axis 
+
+$$
+\begin{array}{l} \\
+y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
+y   =   4x^2   +  x^6  - x^8 \end{array}
+
+$$
+since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  symmetric  on the y axis 
+
+y-axis 
+$$
+\begin{array}{l} \\
+- y   =   4x^2   +  x^6  - x^8 \end{array}
+
+$$
+since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
+
+origin 
+
+$$
+\begin{array}{l} \\
+-y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
+-y   =   4x^2   +  x^6  - x^8 \end{array}
+
+$$
+since the sign on the $-y_{2}$ does not match   y   . We concluded that the equation is not symmetric on the origin 
+
+
+
+
+
+
+Determine if the graphs of the equation would be symmetrical about the x-axis , y-axis , or the origin 
+
+
+$$
+y =  7x + 4x^5 
+$$
+x-axis 
+
+$$
+\begin{array}{l} \\
+y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
+y   =   4x^2   +  x^6  - x^8 \end{array}
+
+$$
+since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  symmetric  on the y axis 
+
+y-axis 
+$$
+\begin{array}{l} \\
+- y   =   4x^2   +  x^6  - x^8 \end{array}
+
+$$
+since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
 
 origin 
 
