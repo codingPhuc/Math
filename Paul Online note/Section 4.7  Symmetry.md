@@ -147,4 +147,10 @@ so we concluded that the equation is not equivalent when -y . Additionally , sin
 
 
 
+| equation               | -y                     | -x  | is equivalent |
+| ---------------------- | ---------------------- | --- | ------------- |
+| $y = x^2 -  6x^4  + 2$ | $y = x^2 -  6x^4  + 2$ |     |               |
+|                        |                        |     |               |
+|                        |                        |     |               |
+
 
