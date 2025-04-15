@@ -80,15 +80,15 @@ $$
 x-axis 
 
 $$
-  4  = x^2 + 4(-y)^2 =    x^2 + 4y^2 
+  4  = x^2 + 4(-y_{1})^2 =    x^2 + 4y_{1}^2 
 $$
-since the sign  on negative  $y_{1}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
+since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  equivalent on the x axis 
 
 y-axis 
 $$
-4  = (-x)^2 + 4y^2  
+4  = (-x)^2 + 4y^2    = 4  = (x)^2 + 4y_{2}^2  
 $$
-since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the y axis 
+since the sign  on negative  $y_{2}$ does not   the sign in  $y$ . We concluded that  the equation is  equivalent on the y axis 
 
 origin 
 
