@@ -196,9 +196,56 @@ origin
 $$
 \begin{array}{l} \\
 -x =  4(-y )^6  -  (-y)^2     \\
-x  =   4(y)^6  -   y^2
+-x  =   4(y)^6  -   y^2
 \end{array}
 $$
-since the sign on both part of the equation in $y_{2}$  match the sign in the equation y . We concluded that the equation in symmetric on the origin 
+since the sign on the $-y_{2}$ does not match   y   . We concluded that the equation is not symmetric on the origin 
+
+
+
+
+
+
+
+
+
+Determine if the graphs of the equation would be symmetrical about the x-axis , y-axis , or the origin 
+
+
+$$
+\frac{y^2}{ 4}  = 1 + \frac{x^2}{9}
+$$
+x-axis 
+
+$$
+\begin{array}{l} \\
+x =  4(-y )^6  -  (-y)^2     \\
+x  =   4(y)^6  -   y^2
+\end{array}
+
+$$
+since the sign  on negative  $y_{1}$ does   match the sign in  $y$ . We concluded that  the equation is  equivalent on the x axis 
+
+y-axis 
+
+$$
+\begin{array}{l} \\
+
+- x  =   4(y)^6  -   y^2
+\end{array}
+
+$$
+since the sign  on negative  $y_{1}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the y axis 
+
+origin 
+
+$$
+\begin{array}{l} \\
+-x =  4(-y )^6  -  (-y)^2     \\
+-x  =   4(y)^6  -   y^2
+\end{array}
+$$
+since the sign on the $-y_{2}$ does not match   y   . We concluded that the equation is not symmetric on the origin 
+
 
 
