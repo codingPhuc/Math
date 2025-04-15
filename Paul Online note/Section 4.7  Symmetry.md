@@ -219,8 +219,8 @@ x-axis
 
 $$
 \begin{array}{l} \\
-x =  4(-y )^6  -  (-y)^2     \\
-x  =   4(y)^6  -   y^2
+\frac{(-y)^2}{ 4}  = 1 + \frac{x^2}{9}  \\
+\frac{y^2}{ 4}  = 1 + \frac{x^2}{9}
 \end{array}
 
 $$
