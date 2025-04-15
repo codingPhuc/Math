@@ -21,5 +21,7 @@ since the sign  on negative  $y_{1}$ does not  match the sign in  $y$ . We concl
 
 y-axis 
 $$
-  y_{2} = -x^4  + 4x^2  + 5 
+  y_{2} =  -  (-x)^4  + 4(-x)^2  + 5   =  -x^4  + 4x^2  + 5 
 $$
+since the sign on both part of the equation in $y_{2}$  match the sign in the equation y . We concluded that the equation in symmetric on the y axis 
+
