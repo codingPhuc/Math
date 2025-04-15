@@ -227,7 +227,6 @@ $$
 since the sign  on negative  $y_{1}$ does   match the sign in  $y$ . We concluded that  the equation is  symmetric on the x axis 
 
 y-axis 
-
 $$
 \begin{array}{l} \\
 \frac{y^2}{ 4}  = 1 + \frac{(-x)^2}{9}  \\
@@ -235,6 +234,7 @@ $$
 \end{array}
 
 $$
+
 since the sign  on negative  $y_{1}$ does   match the sign in  $y$ . We concluded that  the equation is  symmetric on the y axis 
 
 origin 
@@ -260,22 +260,22 @@ $$
 x^2  =  7 y -  x^3  + 2 
 $$
 x-axis 
-
 $$
 \begin{array}{l} \\
-(-x)^2  =  7 y -  (-x)^3  + 2  \\
-(x)^2  =  7 y +  (x)^3  + 2 \end{array}
+x^2  =  7\cdot -y -  x^3  + 2   \\
+x^2  =  -7 y -  x^3  + 2  
+\end{array}
 
 $$
+
 since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not symmetric on the x axis 
 
 y-axis 
 
 $$
 \begin{array}{l} \\
-x^2  =  7\cdot -y -  x^3  + 2   \\
-x^2  =  -7 y -  x^3  + 2  
-\end{array}
+(-x)^2  =  7 y -  (-x)^3  + 2  \\
+(x)^2  =  7 y +  (x)^3  + 2 \end{array}
 
 $$
 since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not symmetric on the y axis 
@@ -303,19 +303,19 @@ $$
 y =  4x^2   +  x^6  - x^8 
 $$
 x-axis 
-
 $$
 \begin{array}{l} \\
-y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
-y   =   4x^2   +  x^6  - x^8 \end{array}
+- y   =   4x^2   +  x^6  - x^8 \end{array}
 
 $$
+
 since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  symmetric  on the y axis 
 
 y-axis 
 $$
 \begin{array}{l} \\
-- y   =   4x^2   +  x^6  - x^8 \end{array}
+y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
+y   =   4x^2   +  x^6  - x^8 \end{array}
 
 $$
 since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not symmetric on the x axis 
@@ -383,20 +383,22 @@ $$
 y =  7x + 4x^5 
 $$
 x-axis 
+$$
+\begin{array}{l} \\
+-y =  7x + 4(x)^5 \end{array}
+
+$$
+since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  symmetric  on the y axis 
+
+y-axis 
+
 
 $$
 \begin{array}{l} \\
 y =  - 7x + 4(-x)^5  \\
 y =  -7x - 4(x)^5  \end{array}
 $$
-since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  symmetric  on the y axis 
 
-y-axis 
-$$
-\begin{array}{l} \\
--y =  7x + 4(x)^5 \end{array}
-
-$$
 since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not symmetric on the x axis 
 
 origin 
