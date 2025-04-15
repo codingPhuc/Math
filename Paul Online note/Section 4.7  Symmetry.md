@@ -143,4 +143,5 @@ y = x^2 -  6x^4  + 2  \\
 \end{array}
 $$
 
-so we concluded that the equation is not equivalent when -y . Additionally , since the  equation is not equivalent when -y  it is not syme
+so we concluded that the equation is not equivalent when -y . Additionally , since the  equation is not equivalent when -y  it is not symmetric on the x axis  and origin but is symmetric on the x axis 
+
