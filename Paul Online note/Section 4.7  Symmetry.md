@@ -292,8 +292,43 @@ since the sign on the $-y_{2}$ does not match   y   . We concluded that the equa
 
 
 
+
+
+
+
+Determine if the graphs of the equation would be symmetrical about the x-axis , y-axis , or the origin 
+
+
 $$
-\begin{array } {l}
-y -
-\end{array } 
+y =  4x^2   +  x^6  - x^8 
 $$
+x-axis 
+
+$$
+\begin{array}{l} \\
+y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
+(x)^2  =  7 y +  (x)^3  + 2 \end{array}
+
+$$
+since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
+
+y-axis 
+
+$$
+\begin{array}{l} \\
+x^2  =  7\cdot -y -  x^3  + 2   \\
+x^2  =  -7 y -  x^3  + 2  
+\end{array}
+
+$$
+since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the y axis 
+
+origin 
+
+$$
+\begin{array}{l} \\
+(-x)^2  =  7 -y -  (-x)^3  + 2  \\
+(x)^2  =  -7 y +  (x)^3  + 2 
+\end{array}
+$$
+since the sign on the $-y_{2}$ does not match   y   . We concluded that the equation is not symmetric on the origin 
