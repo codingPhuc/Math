@@ -146,11 +146,14 @@ $$
 so we concluded that the equation is not equivalent when -y . Additionally , since the  equation is not equivalent when -y  it is not symmetric on the x axis  and origin but is symmetric on the y axis 
 
 
+$$
+y =  2x^3    - x^5 
+$$
 
-| equation               | -y                     | -x  | is equivalent |
-| ---------------------- | ---------------------- | --- | ------------- |
-| $y = x^2 -  6x^4  + 2$ | $y = x^2 -  6x^4  + 2$ |     |               |
-|                        |                        |     |               |
-|                        |                        |     |               |
+| equation             | -y                    | -x                    | is equivalent |
+| -------------------- | --------------------- | --------------------- | ------------- |
+| $y =  2x^3    - x^5$ | $y =  -2x^3    + x^5$ | $y =  -2x^3    + x^5$ |               |
+|                      |                       |                       |               |
+|                      |                       |                       |               |
 
 
