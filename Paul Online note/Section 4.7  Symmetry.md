@@ -310,7 +310,7 @@ y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
 y   =   4x^2   +  x^6  - x^8 \end{array}
 
 $$
-since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  equivalent on the x axis 
+since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  symmetric  on the x axis 
 
 y-axis 
 $$
@@ -324,8 +324,8 @@ origin
 
 $$
 \begin{array}{l} \\
-(-x)^2  =  7 -y -  (-x)^3  + 2  \\
-(x)^2  =  -7 y +  (x)^3  + 2 
-\end{array}
+-y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
+-y   =   4x^2   +  x^6  - x^8 \end{array}
+
 $$
 since the sign on the $-y_{2}$ does not match   y   . We concluded that the equation is not symmetric on the origin 
