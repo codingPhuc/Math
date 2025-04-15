@@ -385,14 +385,14 @@ x-axis
 $$
 \begin{array}{l} \\
 y =  - 7x + 4(-x)^5  \\
-y =  7x -4(x)^5  \end{array}
+y =  -7x - 4(x)^5  \end{array}
 $$
 since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  symmetric  on the y axis 
 
 y-axis 
 $$
 \begin{array}{l} \\
-y =  7x + 4(x)^5 \end{array}
+-y =  7x + 4(x)^5 \end{array}
 
 $$
 since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
@@ -401,8 +401,9 @@ origin
 
 $$
 \begin{array}{l} \\
--y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
--y   =   4x^2   +  x^6  - x^8 \end{array}
+-y =  -7x - 4(x)^5   \\
+y   =  7x + 4(x)^5  \end{array}
 
 $$
-since the sign on the $-y_{2}$ does not match   y   . We concluded that the equation is not symmetric on the origin 
+since the sign on both part of the equation in $y_{2}$  match the sign in the equation y . We concluded that the equation in symmetric on the origin 
+
