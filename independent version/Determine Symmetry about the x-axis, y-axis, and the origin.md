@@ -12,3 +12,4 @@ Determine if thegraphs of the equation would be symmetrical about the x-axis , y
 $$
 y = -x^4  + 4x^2  + 5 
 $$
+x-axis 
