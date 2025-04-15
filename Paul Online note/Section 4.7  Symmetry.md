@@ -230,12 +230,12 @@ y-axis
 
 $$
 \begin{array}{l} \\
-
-- x  =   4(y)^6  -   y^2
+\frac{y^2}{ 4}  = 1 + \frac{(-x)^2}{9}  \\
+\frac{y^2}{ 4}  = 1 + \frac{(x)^2}{9}
 \end{array}
 
 $$
-since the sign  on negative  $y_{1}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the y axis 
+since the sign  on negative  $y_{1}$ does   match the sign in  $y$ . We concluded that  the equation is  equivalent on the y axis 
 
 origin 
 
