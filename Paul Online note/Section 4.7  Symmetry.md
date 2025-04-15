@@ -82,4 +82,4 @@ In this section we want to look at three types of symmetry
 ``` 
 
 
-3. 
+3. A graph is said to be **about the origin** if whenever $(a, b)$ is on the graph so is $(-a  , - b)$ . Here is the sketch of the graph that is symmetric  
