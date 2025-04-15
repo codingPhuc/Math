@@ -178,7 +178,7 @@ x  =   4(y)^6  -   y^2
 \end{array}
 
 $$
-since the sign  on negative  $y_{1}$ does   match the sign in  $y$ . We concluded that  the equation is  equivalent on the x axis 
+since the sign  on negative  $y_{1}$ does   match the sign in  $y$ . We concluded that  the equation is  symmetric on the x axis 
 
 y-axis 
 
@@ -189,7 +189,7 @@ $$
 \end{array}
 
 $$
-since the sign  on negative  $y_{1}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the y axis 
+since the sign  on negative  $y_{1}$ does not  match the sign in  $y$ . We concluded that  the equation is not symmetric on the y axis 
 
 origin 
 
@@ -224,7 +224,7 @@ $$
 \end{array}
 
 $$
-since the sign  on negative  $y_{1}$ does   match the sign in  $y$ . We concluded that  the equation is  equivalent on the x axis 
+since the sign  on negative  $y_{1}$ does   match the sign in  $y$ . We concluded that  the equation is  symmetric on the x axis 
 
 y-axis 
 
