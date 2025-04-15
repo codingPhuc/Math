@@ -132,7 +132,8 @@ we've some fairly simply test for each different type of symmetry
 $$
 \begin{array}{l}  \\
 y = x^2 -  6x^4  + 2  \\
-f(-x )   = (-x)^2 -  6x^4  + 2
+f(-x )   = (-x)^2 -  6(-x)^4  + 2  =   x^2    - 6x^4  + 2   \\
 \end{array}
 
 $$
+so we concluded that the 
