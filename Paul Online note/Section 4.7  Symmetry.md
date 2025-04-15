@@ -36,7 +36,8 @@ In this section we want to look at three types of symmetry
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { (\x)^2  + 3  });
+    \draw[thick, blue, domain=-2:2, smooth] plot ( { (\x)^2  + 3  } ,\x );
+
  
 \end{tikzpicture}
 \end{document}
@@ -45,5 +46,3 @@ In this section we want to look at three types of symmetry
 ``` 
 
 
-
-z
