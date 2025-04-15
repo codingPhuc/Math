@@ -74,7 +74,7 @@ here we will draw the graph of $x^2$ first , then draw the graph when it  shift 
 
 
 
-
+z
 $$
 \begin{array}{l}  \\
 \sqrt{  x } - 5   = f(x )   \\
