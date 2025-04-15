@@ -17,4 +17,9 @@ x-axis
 $$
  - y_{1} = -x^4  + 4x^2  + 5 
 $$
-since the sign  on negative  $y_{1}$ does not  match the s
+since the sign  on negative  $y_{1}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
+
+y-axis 
+$$
+  y_{2} = -x^4  + 4x^2  + 5 
+$$
