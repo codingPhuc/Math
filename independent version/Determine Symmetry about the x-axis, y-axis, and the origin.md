@@ -13,3 +13,8 @@ $$
 y = -x^4  + 4x^2  + 5 
 $$
 x-axis 
+
+$$
+ - y_{1} = -x^4  + 4x^2  + 5 
+$$
+since the sign  on negative  $y_{1}$ does not  match the s
