@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 4.6  Transformations.md",
+                "file": "Paul Online note/Section 4.4 Hyperbolas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 4.6  Transformations"
+              "title": "Section 4.4 Hyperbolas"
             }
           }
         ]
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 4.7  Symmetry.md",
+                "file": "Paul Online note/Section 4.4 Hyperbolas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.7  Symmetry"
+              "title": "Outline of Section 4.4 Hyperbolas"
             }
           }
         ],
@@ -203,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "08a49e2c33b5ac4c",
   "lastOpenFiles": [
     "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 4.7  Symmetry.md",
