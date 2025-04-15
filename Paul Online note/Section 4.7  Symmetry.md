@@ -155,5 +155,6 @@ $$
 | $y =  2x^3    - x^5$ | $y =  -2x^3    + x^5$ | $y =  -2x^3    + x^5$ | not equivalent on any axis |
 |                      |                       |                       |                            |
 |                      |                       |                       |                            |
+|                      |                       |                       |                            |
 
 
