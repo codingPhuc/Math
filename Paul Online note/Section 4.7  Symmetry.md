@@ -136,4 +136,4 @@ f(-x )   = (-x)^2 -  6(-x)^4  + 2  =   x^2    - 6x^4  + 2   \\
 \end{array}
 
 $$
-so we concluded that the 
+so we concluded that the equation is equivalent 
