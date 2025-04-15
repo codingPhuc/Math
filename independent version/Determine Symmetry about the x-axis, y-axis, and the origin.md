@@ -25,3 +25,9 @@ $$
 $$
 since the sign on both part of the equation in $y_{2}$  match the sign in the equation y . We concluded that the equation in symmetric on the y axis 
 
+origin 
+
+$$
+ -  y_{2} =  -  (-x)^4  + 4(-x)^2  + 5   =  -x^4  + 4x^2  + 5
+$$
+since the sign on the $y_{2}$ does not match   y
