@@ -127,3 +127,8 @@ we've some fairly simply test for each different type of symmetry
 3. A graph will have symmetry  about the origin if we get an equivalent equation  when all the y are replace with  $-y$ and all the $x$ are replace with $-x$ 
 
 ## Determine the symmetry of each of the following equations.
+
+
+$$
+y = x^2 - 
+$$
