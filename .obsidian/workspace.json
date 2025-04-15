@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 4.4 Hyperbolas.md",
+                "file": "Paul Online note/Section 4.7  Symmetry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.4 Hyperbolas"
+              "title": "Outline of Section 4.7  Symmetry"
             }
           }
         ],
@@ -203,8 +203,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08a49e2c33b5ac4c",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "Paul Online note/Section 4.4 Hyperbolas.md",
     "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 4.7  Symmetry.md",
     "Paul Online note/Solutions and Solution Sets.md",
@@ -225,7 +226,6 @@
     "Pasted image 20250409113453.png",
     "Paul Online note/Section 3.6  Combining Functions.md",
     "Paul Online note/Section 3.7  Inverse Functions.md",
-    "Paul Online note/Section 4.4 Hyperbolas.md",
     "Pasted image 20250409112615.png",
     "Pasted image 20250408074110.png",
     "Pasted image 20250408074105.png",
