@@ -120,7 +120,7 @@ In this section we want to look at three types of symmetry
 
 Note that most graph does not have this kind of symmetry . Also , it is possible for a graph to have one kind of symmetry . For example , the graph of the circle center at the origin exhibit all three symmetries 
 
-##  
+##  Tests for Symmetry  
 
 
 
