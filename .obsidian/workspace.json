@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 4.4 Hyperbolas.md",
+                "file": "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.4 Hyperbolas"
+              "title": "Outline of Deriving the Equation of a Hyperbola Centered at the Origin"
             }
           }
         ],
@@ -203,12 +203,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08a49e2c33b5ac4c",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "Paul Online note/Section 4.4 Hyperbolas.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "Paul Online note/Section 4.7  Symmetry.md",
     "Pasted image 20250414173933.png",
-    "Paul Online note/Section 4.4 Hyperbolas.md",
     "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Section 4.5  Miscellaneous Functions.md",
