@@ -46,3 +46,4 @@ In this section we want to look at three types of symmetry
 ``` 
 
 
+2. A graph is said to be **symmetric** about the y-axis if whenever $(a, b)$ is on the graph so then $(-a , b)$ 
