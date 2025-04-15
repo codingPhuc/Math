@@ -134,6 +134,13 @@ $$
 y = x^2 -  6x^4  + 2  \\
 f(-x )   = (-x)^2 -  6(-x)^4  + 2  =   x^2    - 6x^4  + 2   \\
 \end{array}
-
 $$
-so we concluded that the equation is equivalent 
+so we concluded that the equation is equivalent when  -x  
+$$
+\begin{array}{l}  \\
+y = x^2 -  6x^4  + 2  \\
+- f(x )   = - x^2 +   6x^4  -  2   \\
+\end{array}
+$$
+
+so we concluded that the equation is not eq
