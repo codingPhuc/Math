@@ -93,6 +93,6 @@ since the sign  on negative  $y_{2}$ does not   the sign in  $y$ . We concluded 
 origin 
 
 $$
- - y_{2} =  -    (-x)^3  - 2(-x)      =  -x^3  + 2x  
+4  = (-x)^2 + 4(-y)^2    = 4  = (x)^2 + 4(y)^2  
 $$
 since the sign on both part of the equation in $y_{2}$  match the sign in the equation y . We concluded that the equation in symmetric on the origin 
