@@ -122,4 +122,6 @@ Note that most graph does not have this kind of symmetry . Also , it is possible
 
 ##  Tests for Symmetry  
 we've some fairly simply test for each different type of symmetry 
-1. A graph will have symmetry about the x-axis if we get the e
+1. A graph will have symmetry about the x-axis if we get the equivalent equation when  y are replace with  -y 
+2. A graph will get  symmetry about the y-axis if we get an equivalent equation when all the x are replace with -x  
+3. 
