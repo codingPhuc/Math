@@ -307,18 +307,15 @@ x-axis
 $$
 \begin{array}{l} \\
 y =  4(-x)^2   +  (-x)^6  - (-x)^8  \\
-(x)^2  =  7 y +  (x)^3  + 2 \end{array}
+y   =   4x^2   +  x^6  - x^8 \end{array}
 
 $$
-since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the x axis 
+since the sign  on negative  $y_{1}$    match the sign in  $y$ . We concluded that  the equation is  equivalent on the x axis 
 
 y-axis 
-
 $$
 \begin{array}{l} \\
-x^2  =  7\cdot -y -  x^3  + 2   \\
-x^2  =  -7 y -  x^3  + 2  
-\end{array}
+- y   =   4x^2   +  x^6  - x^8 \end{array}
 
 $$
 since the sign  on negative  $y_{2}$ does not  match the sign in  $y$ . We concluded that  the equation is not equivalent on the y axis 
