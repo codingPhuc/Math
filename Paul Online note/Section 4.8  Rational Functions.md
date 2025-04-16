@@ -287,12 +287,15 @@ the x-intercept
 $$
 \begin{array}{l}
 x^2 -4 = 0  \\
-
+  \left\{ \begin{array}{l }  
+x  =  2  \\
+x  =  -2   
+\end{array}
+ \right.
 \end{array}
 $$
 
-since the numerator is a whole number we do not have the x-intercept 
-
+since the numerator does not equal to  0 for value 
 Now the largest exponent in the graph is one so the horizontal asymptote at the line is 
 There is not  horizontal  asymptote because there is no x in the numerator 
 
