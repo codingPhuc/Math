@@ -70,5 +70,5 @@ So , as x get large (both positive and negative) the function keep the sign of x
 
 1. The line x = a  is a **vertical asymptote** if the graph  increase or decrease without bound on one or both sides of the line as x move in closer and closer to x = a  
 2. The line y =  b is a horizontal asymptote if the graph approaches y = b as x  increase or decrease without bound 
-
-#
+3. 
+#word_meaning 
