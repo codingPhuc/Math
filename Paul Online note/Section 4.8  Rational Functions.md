@@ -115,7 +115,8 @@ the x-intercept
 
 $$
 \begin{array}{l} \\
-f(x)  =  \frac{3\cdot 0 +  6}{0  -1 }   \\
-f(0) = -6 
+3\cdot x +  6  =  0  \\
+x  = -3
 \end{array}
 $$
+since $-3\neq 1$ we have the x intercept of $(-3 )$
