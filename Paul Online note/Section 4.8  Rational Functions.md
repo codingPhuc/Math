@@ -89,4 +89,4 @@ we then have the following facts about asymptotes
 
 ## Process for graphing a rational function 
 
-Find the intercepts , if there are any 
+Find the intercepts , if there are any . Remember that the y-intercept is given by $(0,f(0))$ and we find the x-intercepts  by setting the numerator equal to zero and solvign 
