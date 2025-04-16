@@ -241,9 +241,9 @@ $9$
 
 
     % Draw the parabola
-   \draw[red, thick, domain=1.5:5, samples=100] plot (\x, { 9/(\x^2 - 9) });
-   \draw[red, thick, domain=-5:0, samples=100] plot (\x,{ 9/(\x^2 - 9) });
- 
+   \draw[red, thick, domain=-6:-4, samples=100] plot (\x, { 9/(\x^2 - 9) });
+     \draw[red, thick, domain=2:-2, samples=100] plot (\x, { 9/(\x^2 - 9) });
+  \draw[red, thick, domain=4:6, samples=100] plot (\x, { 9/(\x^2 - 9) });
 \end{tikzpicture}
 \end{document}
 
