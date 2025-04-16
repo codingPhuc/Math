@@ -190,7 +190,7 @@ vertical  asymptotes:
  $$
  \begin{array}{l}
   x^2 - 9  = 0 \\ 
-  \left\{ \begin{array}{l }  \\
+  \left\{ \begin{array}{l }  
 x  =  3  \\
 x  = - 3 
 \end{array}
@@ -201,7 +201,7 @@ $$
 
 this mean that there will be three region in our graph  where $x< -3 \cap -3  <  x < 3 \cap 3>1$
 
-Now the largest exponent in the graph is one so the horizontal asymptote at the line 
+Now the largest exponent in the graph is one so the horizontal asymptote at the line is 
 
 $$
 y = \frac{3}{1}  = 3  
