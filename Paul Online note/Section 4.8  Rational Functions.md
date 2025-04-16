@@ -199,7 +199,7 @@ x  = - 3
 
 $$
 
-this mean that there will be two region of x where $x< -1 \cap x>1$
+this mean that there will be three region in our graph  where $x< -3 \cap -3  <  x < 3 \cap 3>1$
 
 Now the largest exponent in the graph is one so the horizontal asymptote at the line 
 
