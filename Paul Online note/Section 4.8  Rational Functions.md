@@ -59,3 +59,5 @@ So , as x get large (both positive and negative) the function keep the sign of x
 
 ```
 
+1. the graph illustrated above is divided into 2 pieces 
+2. 
