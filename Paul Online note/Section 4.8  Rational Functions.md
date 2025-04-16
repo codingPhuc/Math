@@ -264,7 +264,7 @@ $$
 f(0)  =  -\frac{4}{0}
 \end{array}
 $$
-we can
+the graph doesn't have a y intercept since there is no value that can divide by 0 
 the x-intercept  
 
 
