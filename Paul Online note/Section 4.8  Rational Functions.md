@@ -202,10 +202,8 @@ $$
 this mean that there will be three region in our graph  where $x< -3 \cap -3  <  x < 3 \cap 3>1$
 
 Now the largest exponent in the graph is one so the horizontal asymptote at the line is 
+There is not  horizontal  asymptote because there is no x
 
-$$
-y = \frac{3}{1}  = 3  
-$$
 
 Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
 
