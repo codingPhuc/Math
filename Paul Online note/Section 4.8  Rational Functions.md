@@ -191,8 +191,8 @@ vertical  asymptotes:
  \begin{array}{l}
   x^2 - 9  = 0 \\ 
   \left\{ \begin{array}{l }  \\
-x  =  \sqrt{  3 } \\
-x  = - \sqrt{ 3 }
+x  =  3  \\
+x  = - 3 
 \end{array}
  \right.
 \end{array}
