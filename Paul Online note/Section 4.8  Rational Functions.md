@@ -60,4 +60,5 @@ So , as x get large (both positive and negative) the function keep the sign of x
 ```
 
 1. the graph illustrated above is divided into 2 pieces 
-2. 
+2. the graph does not have any interception of any kind 
+	recall that a graph will have y-interception at point $(0,f(0))$ . However ,  in this cases we need to abv
