@@ -297,8 +297,7 @@ $$
 
 since the numerator does not have a solution  x that will create a zero in the denominator   we have 3 x intercept being (2  , 0 ) and (-2,0 )
 
-Now the largest exponent in the graph is one so the horizontal asymptote at the line is 
-There is not  horizontal  asymptote because there is no x in the numerator 
+
 
 
 Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
