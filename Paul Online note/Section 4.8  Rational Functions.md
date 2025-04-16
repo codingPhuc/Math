@@ -124,4 +124,9 @@ vertical  asymptotes
 $x  -1 =0  \implies x   =1$
 this mean that there will be two region of x where $x< -1 \cap x>1$
 
-Now the largest expoen
+Now the largest exponent in the graph is one so the horizontal asymptote at the line 
+
+$$
+y = \frac{3}{1}  = 3  
+$$
+
