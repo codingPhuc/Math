@@ -199,7 +199,7 @@ x  = - 3
 
 $$
 
-this mean that there will be three region in our graph  where $x< -3 \cap -3  <  x < 3 \cap 3>1$
+this mean that there will be three region in our graph  where $x< -3 \cap -3  <  x < 3 \cap x>3$
 
 Now the largest exponent in the graph is one so the horizontal asymptote at the line is 
 There is not  horizontal  asymptote because there is no x in the numerator 
@@ -211,6 +211,8 @@ $$
 f(-4 )  =  \frac{9}{(-4)^2  -  9}  = -9  
 
 $$
+$(-9)$
 $$
-f
+f(4)  =   9  
 $$
+$9$
