@@ -279,7 +279,7 @@ x  =  4
 $$
 
 
-this mean that there will be two region in our graph  where $x< 0 \cap x>4$
+this mean that there will be two region in our graph  where $x< 0 \cap 0< x < 4 \cap x>4$
 
 
 
@@ -332,7 +332,7 @@ $$
     % Draw the parabola
    \draw[red, thick, domain=-5:-1, samples=100] plot (\x, { ((\x)^2  - 4)/((\x)^2 -4*\x ) });
      \draw[red, thick, domain=5:8, samples=100] plot (\x, {((\x)^2  - 4)/((\x)^2 -4*\x )});
-
+     \draw[red, thick, domain=1:8, samples=100] plot (\x, {((\x)^2  - 4)/((\x)^2 -4*\x )});
 \end{tikzpicture}
 \end{document}
 
