@@ -91,4 +91,4 @@ we then have the following facts about asymptotes
 
 1. Find the intercepts , if there are any . Remember that the y-intercept is given by $(0,f(0))$ and we find the x-intercepts  by setting the numerator equal to zero and solving 
 2. Find the vertical asymptotes by setting the denominator equal to zero and solving 
-3. Find the horizontal asymptote , if it exis
+3. Find the horizontal asymptote , if it exists  , using the fact above 
