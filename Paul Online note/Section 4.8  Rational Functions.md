@@ -63,4 +63,5 @@ So , as x get large (both positive and negative) the function keep the sign of x
 2. the graph does not have any interception of any kind 
 	recall that a graph will have y-interception at point $(0,f(0))$ . However ,  in this cases we need to avoid $x=0$ and so this  graph will never cross the y axis. It will lean toward it but never touch it 
 3. next recall that we can get the x intercept by solving $f(x)=0$ . In rational function , this seem like a hard thing to deal with , but remember that we only need the numerator to be 0 not  the denominator . So try to avoid solution where the solution for $f(x)=0$ will cause the denominator to be 0
-4. Finally we get to address that the graph gets very close to the x  and y-axis but never crosses . Since there isn't anything special about axis  it self we'll   use the fact tha
+4. Finally we get to address that the graph gets very close to the x  and y-axis but never crosses . Since there isn't anything special about axis  it self we'll   use the fact that the x-axis is really the line given by $y=0$ and the y-axis is really the line given by $x=0$ 
+5. In our graph as the value of x approaches 
