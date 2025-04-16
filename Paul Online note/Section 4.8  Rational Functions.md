@@ -265,14 +265,10 @@ f(0)  =  -\frac{4}{0}
 \end{array}
 $$
 the graph doesn't have a y intercept since there is no value that can divide by 0 
-the x-intercept  
-
-
-since the numerator is a whole number we do not have the x-intercept 
 vertical  asymptotes: 
  $$
  \begin{array}{l}
-  x^2 - 9  = 0 \\ 
+x^2  - 4x = 0  \\ 
   \left\{ \begin{array}{l }  
 x  =  3  \\
 x  = - 3 
@@ -281,6 +277,18 @@ x  = - 3
 \end{array}
 
 $$
+
+
+
+the x-intercept  
+$$
+\begin{array}{l}
+x^2 -4
+\end{array}
+$$
+
+since the numerator is a whole number we do not have the x-intercept 
+
 
 this mean that there will be three region in our graph  where $x< -3 \cap -3  <  x < 3 \cap x>3$
 
