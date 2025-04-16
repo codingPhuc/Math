@@ -73,5 +73,5 @@ So , as x get large (both positive and negative) the function keep the sign of x
 
 #word_meaning 
 "**Increases or decreases without bound**" : means the graph shoots up toward **infinity** or down toward **negative infinity**. 
-	like  $\x \in {}$
+	like  $x \in {0.1,0.01,\dots}\implies f(X)\arrow$ 
 
