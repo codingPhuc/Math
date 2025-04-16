@@ -122,4 +122,6 @@ $$
 since $-3\neq 1$ we have the x intercept of $(-2,0)$
 vertical  asymptotes 
 $x  -1 =0  \implies x   =1$
-Now the fact that teh largest ep
+this mean that there will be two region of x where $x< -1 \cap x>1$
+
+Now the largest expoen
