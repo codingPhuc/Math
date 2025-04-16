@@ -106,12 +106,16 @@ $$
 the y-intercept  
 $$
 \begin{array}{l} \\
-f(0)  =  \frac{3\cdot_{0} +  6}{0  -1 }   \\
-
+ \frac{3x + 6}{x  -1}    \\
+f(0) = -6 
 \end{array}
-
-
-
 $$
 
-the x-intercept 
+the x-intercept  
+
+$$
+\begin{array}{l} \\
+f(x)  =  \frac{3\cdot 0 +  6}{0  -1 }   \\
+f(0) = -6 
+\end{array}
+$$
