@@ -213,6 +213,90 @@ f(-4 )  =  \frac{9}{(-4)^2  -  9}  = -\frac{9}{7}
 $$
 $(-9)$
 $$
+f(4)  =   \frac{9}{7}  
+$$
+$9$
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
+
+
+    % Draw the parabola
+   \draw[red, thick, domain=-8:-4, samples=100] plot (\x, { 9/((\x)^2 - 9) });
+     \draw[red, thick, domain=-2.5:2.5, samples=100] plot (\x, { 9/((\x)^2 - 9) });
+  \draw[red, thick, domain=4:8, samples=100] plot (\x, { 9/((\x)^2 - 9) });
+\end{tikzpicture}
+\end{document}
+
+```
+
+
+
+
+
+
+$$
+f(x )  = \frac{x^2 -4}{x^2  - 4x }
+$$
+
+the y-intercept  
+$$
+\begin{array}{l} \\
+ f(0) = \frac{9}{x^2  -  9}   \\
+f(0)  = -1 
+\end{array}
+$$
+we have a  y intercept of $(0,-1)$
+the x-intercept  
+
+
+since the numerator is a whole number we do not have the x-intercept 
+vertical  asymptotes: 
+ $$
+ \begin{array}{l}
+  x^2 - 9  = 0 \\ 
+  \left\{ \begin{array}{l }  
+x  =  3  \\
+x  = - 3 
+\end{array}
+ \right.
+\end{array}
+
+$$
+
+this mean that there will be three region in our graph  where $x< -3 \cap -3  <  x < 3 \cap x>3$
+
+Now the largest exponent in the graph is one so the horizontal asymptote at the line is 
+There is not  horizontal  asymptote because there is no x in the numerator 
+
+
+Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
+
+$$
+f(-4 )  =  \frac{9}{(-4)^2  -  9}  = -\frac{9}{7}
+
+$$
+$(-9)$
+$$
 f(4)  =   \frac{9}{}  
 $$
 $9$
@@ -248,6 +332,3 @@ $9$
 \end{document}
 
 ```
-$$
-f(x )  = \frac{x^2 -4}{x^2  - 4x }
-$$
