@@ -261,11 +261,10 @@ $$
 the y-intercept  
 $$
 \begin{array}{l} \\
- f(0) = \frac{9}{x^2  -  9}   \\
-f(0)  = -1 
+f(0)  =  -\frac{4}{0}
 \end{array}
 $$
-we have a  y intercept of $(0,-1)$
+we can
 the x-intercept  
 
 
