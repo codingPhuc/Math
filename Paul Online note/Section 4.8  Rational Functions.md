@@ -27,37 +27,35 @@ Now , let plug in some value of x to see what we see
 So , as x get large (both positive and negative) the function keep the sign of x and gets smaller and smaller . Likewise , as we approach $x=0$ the function again keep the same sign of x but start getting quick large 
 
 ```tikz
-\documentclass{article}
-\usepackage{pgfplots}
-\pgfplotsset{compat=1.18}
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
 
 \begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
 
-\begin{center}
-\begin{tikzpicture}
-  \begin{axis}[
-    axis lines=middle,
-    xlabel={$x$},
-    ylabel={$y$},
-    ymin=-10, ymax=10,
-    xmin=-5, xmax=5,
-    samples=200,
-    domain=-5:-0.05, % First part of the function
-    unbounded coords=jump,
-    width=10cm,
-    height=8cm,
-    enlargelimits=true,
-    axis line style={->},
-    ticklabel style={font=\small},
-    every axis y label/.style={at=(current axis.above origin), anchor=south},
-    every axis x label/.style={at=(current axis.right of origin), anchor=west}
-  ]
-    \addplot[red, thick] {1/x};
-    \addplot[red, thick, domain=0.05:5] {1/x}; % Second part of the function
-  \end{axis}
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
+
+
+    % Draw the parabola
+   \draw[red, thick, domain=0.3:3, samples=100] plot (\x, {1/\x});
+  \draw[red, thick, domain=-3:-0.3, samples=100] plot (\x, {1/\x});
+
+ 
 \end{tikzpicture}
-\end{center}
-
 \end{document}
 
 ```
+
