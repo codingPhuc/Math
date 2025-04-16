@@ -102,3 +102,4 @@ f(x) =  \frac{3x + 6}{x  -1}   \\
 \end{array}
 
 $$
+1. Find the intercepts , if there are any . Remember that the y-intercept is given by $(0,f(0))$ and we find the x-intercepts  by setting the numerator equal to zero and solving 
