@@ -62,3 +62,4 @@ So , as x get large (both positive and negative) the function keep the sign of x
 1. the graph illustrated above is divided into 2 pieces 
 2. the graph does not have any interception of any kind 
 	recall that a graph will have y-interception at point $(0,f(0))$ . However ,  in this cases we need to avoid $x=0$ and so this  graph will never cross the y axis. It will lean toward it but never touch it 
+3. next recall that when  we set the numerator to 0 
