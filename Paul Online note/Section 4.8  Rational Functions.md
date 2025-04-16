@@ -202,11 +202,15 @@ $$
 this mean that there will be three region in our graph  where $x< -3 \cap -3  <  x < 3 \cap 3>1$
 
 Now the largest exponent in the graph is one so the horizontal asymptote at the line is 
-There is not  horizontal  asymptote because there is no x
+There is not  horizontal  asymptote because there is no x in the numerator 
 
 
 Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
 
 $$
-f(2) =  \frac{3(2)+  6}{2-1} = \frac{12}{1 } = 12 
+f(-4 )  =  \frac{9}{(-4)^2  -  9}  = -9  
+
+$$
+$$
+f
 $$
