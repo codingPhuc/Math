@@ -208,12 +208,12 @@ There is not  horizontal  asymptote because there is no x in the numerator
 Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
 
 $$
-f(-4 )  =  \frac{9}{(-4)^2  -  9}  = -9  
+f(-4 )  =  \frac{9}{(-4)^2  -  9}  = -\frac{9}{7}
 
 $$
 $(-9)$
 $$
-f(4)  =   9  
+f(4)  =   \frac{9}{}  
 $$
 $9$
 
@@ -241,7 +241,7 @@ $9$
 
 
     % Draw the parabola
-   \draw[red, thick, domain=-8:-4, samples=100] plot (\x, { 9/(\x^2 - 9) });
+   \draw[red, thick, domain=-8:-4, samples=100] plot (\x, { 9/((\x)^2 - 9) });
      \draw[red, thick, domain=-2.5:2.5, samples=100] plot (\x, { 9/(\x^2 - 9) });
   \draw[red, thick, domain=4:8, samples=100] plot (\x, { 9/(\x^2 - 9) });
 \end{tikzpicture}
