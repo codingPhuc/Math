@@ -199,18 +199,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "581a36da74918a83",
   "lastOpenFiles": [
-    "Paul Online note/Section 4.7  Symmetry.md",
+    "Paul Online note/Solutions and Solution Sets.md",
+    "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
     "Paul Online note/Section 4.8  Rational Functions.md",
+    "Paul Online note/Section 4.7  Symmetry.md",
     "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
     "independent version/Transformations video lecture.md",
     "independent version/Untitled.md",
     "Paul Online note/Section 4.4 Hyperbolas.md",
-    "Paul Online note/Solutions and Solution Sets.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "Pasted image 20250414173933.png",
     "Paul Online note/Section 4.6  Transformations.md",
@@ -238,7 +240,6 @@
     "Paul Online note/Section 4.3  Ellipses.md",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Paul Online note/Section 4.1  Lines, Circles and Piecewise Functions.md",
-    "Paul Online note/Section 3.1 Graphing.md",
     "Pasted image 20250403173519.png",
     "Pasted image 20250403171426.png",
     "Professor Leonard",

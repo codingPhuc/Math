@@ -330,9 +330,9 @@ $$
     \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
 
     % Draw the parabola
-   \draw[red, thick, domain=-5:-1, samples=100] plot (\x, { ((\x)^2  - 4)/((\x)^2 -4*\x ) });
-     \draw[red, thick, domain=5:8, samples=100] plot (\x, {((\x)^2  - 4)/((\x)^2 -4*\x )});
-     \draw[red, thick, domain=1:8, samples=100] plot (\x, {((\x)^2  - 4)/((\x)^2 -4*\x )});
+   \draw[red, thick, domain=-5:-0.5, samples=100] plot (\x, { ((\x)^2  - 4)/((\x)^2 -4*\x ) });
+     \draw[red, thick, domain=4.5:8, samples=100] plot (\x, {((\x)^2  - 4)/((\x)^2 -4*\x )});
+     \draw[red, thick, domain=0.5:3.5, samples=100] plot (\x, {((\x)^2  - 4)/((\x)^2 -4*\x )});
 \end{tikzpicture}
 \end{document}
 
