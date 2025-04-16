@@ -186,8 +186,8 @@ the x-intercept
 
 
 since the numerator is a whole number we do not have the x-intercept 
-vertical  asymptotes 
-$x^2 - 9 $
+vertical  asymptotes: 
+$x^2 - 9$
 this mean that there will be two region of x where $x< -1 \cap x>1$
 
 Now the largest exponent in the graph is one so the horizontal asymptote at the line 
