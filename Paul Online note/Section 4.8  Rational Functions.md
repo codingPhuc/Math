@@ -69,9 +69,11 @@ So , as x get large (both positive and negative) the function keep the sign of x
 ##  general definition for the two asymptotes 
 
 1. The line x = a  is a **vertical asymptote** if the graph  increase or decrease without bound on one or both sides of the line as x move in closer and closer to x = a  
-2. The line y = b  is a **horizontal asymptote** if the graph approaching  y =b  as x  increase or decreases without bound  . Note that it only need to approach y  by one side meaning that x is consider  **horizontal asymptote**  if  it increase  , decrease or both  
+2. The line y = b  is a **horizontal asymptote** if the graph approaching  y =b  as x  increase or decreases without bound  . Note that it only need to approach y  by one side meaning that x is consider  **horizontal asymptote**  if  it increase  , decrease or both   
+
 
 #word_meaning 
 "**Increases or decreases without bound**" : means the graph shoots up toward **infinity** or down toward **negative infinity**. 
-	like  $x \in {0.1,0.01,\dots}\implies f(X)\arrow$ 
-
+	like  $x \in {0.1,0.01,\dots}\implies f(X)\rightarrow \infty$
+	 
+Determining asymptotes  is actually a fairly simple process  . First , let sta
