@@ -133,5 +133,39 @@ $$
 Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
 
 $$
-f(2) =  \frac{3}{}
+f(2) =  \frac{3(2)+  6}{2-1} = \frac{12}{1 } = 12 
 $$
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
+
+
+    % Draw the parabola
+   \draw[red, thick, domain=0.3:3, samples=100] plot (\x, {1/\x});
+  \draw[red, thick, domain=-3:-0.3, samples=100] plot (\x, {1/\x});
+
+ 
+\end{tikzpicture}
+\end{document}
+
+```
+
