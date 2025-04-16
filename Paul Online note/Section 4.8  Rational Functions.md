@@ -93,4 +93,12 @@ we then have the following facts about asymptotes
 2. Find the vertical asymptotes by setting the denominator equal to zero and solving 
 3. Find the horizontal asymptote , if it exists  , using the fact above 
 4. The vertical asymptotes will divide the number line into region . In each region graph at least one point in each region .This point will tell us whether the graph will be above or below the horizontal asymptote and we should get several point to determine the shape of the graph 
-5. sketch the gra
+5. sketch the graph 
+
+$$
+\begin{array}{l} \\
+f(x) =  \frac{3x + 6}{x  -1}   \\
+
+\end{array}
+
+$$
