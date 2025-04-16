@@ -81,3 +81,5 @@ $$
  f(x) = \frac{ax^n  + \dots} { bx^m + \dots}
 $$
 when  n is the largest exponent in the numerator and m is the largest exponent in the denominator  
+we then have the following facts about asymptotes 
+1. The graph will  have a vertical a
