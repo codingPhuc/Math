@@ -130,4 +130,8 @@ $$
 y = \frac{3}{1}  = 3  
 $$
 
-Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region 
+Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
+
+$$
+f(2) =  \frac{3}{}
+$$
