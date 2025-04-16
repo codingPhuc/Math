@@ -122,3 +122,4 @@ $$
 since $-3\neq 1$ we have the x intercept of $(-2,0)$
 vertical  asymptotes 
 $x  -1 =0  \implies x   =1$
+Now the fact that teh largest ep
