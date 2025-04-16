@@ -110,13 +110,13 @@ $$
 f(0) = -6 
 \end{array}
 $$
-
+we have a  y intercept of $(0,-6)$
 the x-intercept  
 
 $$
 \begin{array}{l} \\
 3\cdot x +  6  =  0  \\
-x  = -3
+x  = -2
 \end{array}
 $$
-since $-3\neq 1$ we have the x intercept of $(-3 )$
+since $-3\neq 1$ we have the x intercept of $(-2,0)$
