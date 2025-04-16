@@ -104,6 +104,14 @@ f(x) =  \frac{3x + 6}{x  -1}   \\
 $$
 1. Find the intercepts , if there are any . Remember that the y-intercept is given by $(0,f(0))$ and we find the x-intercepts  by setting the numerator equal to zero and solving  
 the y-intercept  
+$$
+\begin{array}{l} \\
+f(0)  =  \frac{3\cdot_{0} +  6}{0  -1 }   \\
 
+\end{array}
+
+
+
+$$
 
 the x-intercept 
