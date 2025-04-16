@@ -160,9 +160,8 @@ $$
 
 
     % Draw the parabola
-   \draw[red, thick, domain=0.3:3, samples=100] plot (\x, {(3*\x + 6)/});
-  \draw[red, thick, domain=-3:-0.3, samples=100] plot (\x, {1/\x});
-\frac{3x + 6}{x  -1} 
+   \draw[red, thick, domain=1.5:3, samples=100] plot (\x, {(3*\x + 6)/(\x-1)});
+  \draw[red, thick, domain=-3:-0.3, samples=100] plot (\x, {1/\x}); 
  
 \end{tikzpicture}
 \end{document}
