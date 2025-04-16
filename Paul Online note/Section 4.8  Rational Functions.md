@@ -24,4 +24,5 @@ Now , let plug in some value of x to see what we see
 | 2       | 0.5    |
 | 4       | 0.25   |
 
-So , as x get large (both positive and negative) the function keep the sign of x and gets smaller and smaller . 
+So , as x get large (both positive and negative) the function keep the sign of x and gets smaller and smaller . Likewise , as we approach $x=0$ the function again keep the same sign of x but start getting quick large 
+
