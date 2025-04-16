@@ -305,7 +305,7 @@ $\frac{m}{n}= \frac{1}{1}=1$
 
 Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
 $$
-f(5 )  = \frac{5^2 -4}{5^2  - 4\cdot 5 }
+f(5 )  = \frac{5^2 -4}{5^2  - 4\cdot 5 }  = \frac{21}{5}
 $$
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -329,7 +329,7 @@ $$
     % Text annotations  
     \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
 
-
+\frac{x^2 -4}{x^2  - 4x } ((\x)^2  - 4)/(\x^2 0)
     % Draw the parabola
    \draw[red, thick, domain=-8:-4, samples=100] plot (\x, { 9/((\x)^2 - 9) });
      \draw[red, thick, domain=-2.5:2.5, samples=100] plot (\x, { 9/((\x)^2 - 9) });
