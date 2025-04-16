@@ -23,3 +23,5 @@ Now , let plug in some value of x to see what we see
 | 1       | 1      |
 | 2       | 0.5    |
 | 4       | 0.25   |
+
+So , as x get large (both positive and negative) the function keep the sign of x and gets smaller and smaller . 
