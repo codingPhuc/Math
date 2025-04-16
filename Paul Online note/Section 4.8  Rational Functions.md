@@ -295,7 +295,8 @@ x  =  -2
 \end{array}
 $$
 
-since the numerator does not have a solution  x that will create a zero in the de
+since the numerator does not have a solution  x that will create a zero in the denominator   we have 3 x intercept being (2  , 0 ) and (-2,0 )
+
 Now the largest exponent in the graph is one so the horizontal asymptote at the line is 
 There is not  horizontal  asymptote because there is no x in the numerator 
 
