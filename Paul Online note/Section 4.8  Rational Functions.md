@@ -65,4 +65,7 @@ So , as x get large (both positive and negative) the function keep the sign of x
 3. next recall that we can get the x intercept by solving $f(x)=0$ . In rational function , this seem like a hard thing to deal with , but remember that we only need the numerator to be 0 not  the denominator . So try to avoid solution where the solution for $f(x)=0$ will cause the denominator to be 0
 4. Finally we get to address that the graph gets very close to the x  and y-axis but never crosses . Since there isn't anything special about axis  it self we'll   use the fact that the x-axis is really the line given by $y=0$ and the y-axis is really the line given by $x=0$ 
 5. In our graph as the value of x approaches x = 0 the graph start get very large on both side of the line given by x =0 . This line is called a **vertical asymptote** 
-6. Also as x get very large , both  positive and negative the graph  approach the line given  by y 
+6. Also as x get very large , both  positive and negative the graph  approach the line given  by y  = 0 . This is called horizontal asymptote 
+##  general definition for the two asymptotes 
+
+1. The line x = a  
