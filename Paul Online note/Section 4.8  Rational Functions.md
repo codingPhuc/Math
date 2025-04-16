@@ -89,4 +89,4 @@ we then have the following facts about asymptotes
 
 ## Process for graphing a rational function 
 
-Find the intercepts 
+Find the intercepts , if there are any 
