@@ -84,4 +84,7 @@ when  n is the largest exponent in the numerator and m is the largest exponent i
 we then have the following facts about asymptotes 
 1. The graph will  have a vertical asymptote  at $x=a$ if the denominator is zero at $x=a$ and the numerator is not zero at $x=a$ 
 2. if $x<m$ then the x-axis is the horizontal asymptote 
-3. 
+3. if $n=m$ then the line $y=\frac{a}{b}$ is the horizontal asymptote 
+4. if n > m there will be no horizontal asymptotes 
+
+## Prco
