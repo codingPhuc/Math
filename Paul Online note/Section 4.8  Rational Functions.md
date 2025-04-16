@@ -87,4 +87,6 @@ we then have the following facts about asymptotes
 3. if $n=m$ then the line $y=\frac{a}{b}$ is the horizontal asymptote 
 4. if n > m there will be no horizontal asymptotes 
 
-## Prco
+## Process for graphing a rational function 
+
+Find the intercepts 
