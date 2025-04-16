@@ -329,11 +329,10 @@ $$
     % Text annotations  
     \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
 
-\frac{x^2 -4}{x^2  - 4x } ((\x)^2  - 4)/(\x^2 0)
     % Draw the parabola
-   \draw[red, thick, domain=-8:-4, samples=100] plot (\x, { 9/((\x)^2 - 9) });
-     \draw[red, thick, domain=-2.5:2.5, samples=100] plot (\x, { 9/((\x)^2 - 9) });
-  \draw[red, thick, domain=4:8, samples=100] plot (\x, { 9/((\x)^2 - 9) });
+   \draw[red, thick, domain=-5:-1, samples=100] plot (\x, { ((\x)^2  - 4)/((\x)^2 -4*\x ) });
+     \draw[red, thick, domain=5:8, samples=100] plot (\x, {((\x)^2  - 4)/((\x)^2 -4*\x )});
+
 \end{tikzpicture}
 \end{document}
 
