@@ -242,9 +242,12 @@ $9$
 
     % Draw the parabola
    \draw[red, thick, domain=-8:-4, samples=100] plot (\x, { 9/((\x)^2 - 9) });
-     \draw[red, thick, domain=-2.5:2.5, samples=100] plot (\x, { 9/(\x^2 - 9) });
-  \draw[red, thick, domain=4:8, samples=100] plot (\x, { 9/(\x^2 - 9) });
+     \draw[red, thick, domain=-2.5:2.5, samples=100] plot (\x, { 9/((\x)^2 - 9) });
+  \draw[red, thick, domain=4:8, samples=100] plot (\x, { 9/((\x)^2 - 9) });
 \end{tikzpicture}
 \end{document}
 
 ```
+$$
+f(x )  = \frac{x^2 -4}{x^2  - 4x }
+$$
