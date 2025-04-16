@@ -170,5 +170,39 @@ $$
 
 
 $$
-f(x )  =  \frac{9}{}
+f(x )  =  \frac{9}{x^2  -  9}
+$$
+
+
+the y-intercept  
+$$
+\begin{array}{l} \\
+ f(0) = \frac{9}{x^2  -  9}   \\
+f(0) = -1 
+\end{array}
+$$
+we have a  y intercept of $(0,-6)$
+the x-intercept  
+
+$$
+\begin{array}{l} \\
+3\cdot x +  6  =  0  \\
+x  = -2
+\end{array}
+$$
+since $-3\neq 1$ we have the x intercept of $(-2,0)$
+vertical  asymptotes 
+$x  -1 =0  \implies x   =1$
+this mean that there will be two region of x where $x< -1 \cap x>1$
+
+Now the largest exponent in the graph is one so the horizontal asymptote at the line 
+
+$$
+y = \frac{3}{1}  = 3  
+$$
+
+Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
+
+$$
+f(2) =  \frac{3(2)+  6}{2-1} = \frac{12}{1 } = 12 
 $$
