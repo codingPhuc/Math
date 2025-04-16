@@ -11,11 +11,15 @@ Let's sketch the graph of $f(x) =\frac{1}{x}$ . First , since this is a rational
 
 Now , let plug in some value of x to see what we see 
 
-
-| $x$ | $f(x)$ |
-| --- | ------ |
-| -4  | -0.25  |
-|     |        |
-|     |        |
-|     |        |
-|     |        |
+| x       | f(x)   |
+|---------|--------|
+| -4      | -0.25  |
+| -2      | -0.5   |
+| -1      | -1     |
+| -0.1    | -10    |
+| -0.01   | -100   |
+| 0.01    | 100    |
+| 0.1     | 10     |
+| 1       | 1      |
+| 2       | 0.5    |
+| 4       | 0.25   |
