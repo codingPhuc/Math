@@ -184,13 +184,8 @@ $$
 we have a  y intercept of $(0,-1)$
 the x-intercept  
 
-$$
-\begin{array}{l} \\
-3\cdot x +  6  =  0  \\
-x  = -2
-\end{array}
-$$
-since $-3\neq 1$ we have the x intercept of $(-2,0)$
+
+since the numerator is a whole number we do not have the x-intercept 
 vertical  asymptotes 
 $x  -1 =0  \implies x   =1$
 this mean that there will be two region of x where $x< -1 \cap x>1$
