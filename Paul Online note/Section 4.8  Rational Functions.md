@@ -205,7 +205,7 @@ Now the largest exponent in the graph is one so the horizontal asymptote at the 
 There is not  horizontal  asymptote because there is no x in the numerator 
 
 
-Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
+Now we just need point  in each region of x . Since the y-intercept is already in the middle region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
 
 $$
 f(-4 )  =  \frac{9}{(-4)^2  -  9}  = -\frac{9}{7}
@@ -299,21 +299,11 @@ since the numerator does not have a solution  x that will create a zero in the d
 
  horizontal asymptote : 
  since  $m=n$ the horizontal asymptote is : 
-$\frac{m}{n}$
-  
+$\frac{m}{n}= \frac{1}{1}=1$
+
 
 
 Now we just need point  in each region of x . Since the y-intercept and x-intercept are already in the left region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
-
-$$
-f(-4 )  =  \frac{9}{(-4)^2  -  9}  = -\frac{9}{7}
-
-$$
-$(-9)$
-$$
-f(4)  =   \frac{9}{}  
-$$
-$9$
 
 ```tikz
 \usepackage{amsmath,amssymb}
