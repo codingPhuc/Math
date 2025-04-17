@@ -467,7 +467,7 @@ $$
 
 
 horizontal asymptote : 
-the horizontal  a
+since largest power of both the denominator and the numbe
 
 
 
