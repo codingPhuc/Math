@@ -467,7 +467,10 @@ $$
 
 
 horizontal asymptote : 
-since largest power of both the denominator and the numerator is 1 we concluded that the horizontal asymptote
+since largest power of both the denominator and the numerator is 1 we concluded that the horizontal asymptote is : 
+$$
+\frac{-2}{-1}  = 2 
+$$
 
 
 
