@@ -555,24 +555,22 @@ this mean that there will be three region in our graph  where $x<-3 \cap -3 <x <
 
 the x-intercept: 
 
-
+there is not x-intercept since the numerator is a whole number 
 
 
 
 
 horizontal asymptote : 
-since the largest power  of the denominator  m >  the largest  power of the numerator n , m > n the x  we concluded that the  horizontal asympto
+since the largest power  of the denominator  m >  the largest  power of the numerator n , m > n the x  we concluded that the  horizontal asymptote is the x-axis 
 
 
 now we need point in each region to graph the graph
+
 $$
-f(0)  = \frac{6 - 2\cdot0}{1-0}   =6   
+f(x  )  =  \frac{8}{0^2 + x  - 6 }
 $$
 
 
-$$
-f(2)  = \frac{6 - 2\cdot 2}{1-2}   =-2  
-$$
 
 ```tikz
 \usepackage{amsmath,amssymb}
