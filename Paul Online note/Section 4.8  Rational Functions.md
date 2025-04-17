@@ -364,17 +364,13 @@ since the numerator is a whole number we do not have the x-intercept
 vertical  asymptotes: 
  $$
  \begin{array}{l}
-x   - 2    = 
-  \left\{ \begin{array}{l }  
-x  =  3  \\
-x  = - 3 
-\end{array}
- \right.
+x   - 2    =   0   \\
+x =  2 
 \end{array}
 
 $$
 
-this mean that there will be three region in our graph  where $x< -3 \cap -3  <  x < 3 \cap x>3$
+this mean that there will be three region in our graph  where $x<2  \cap x >2$
 
 Now the largest exponent in the graph is one so the horizontal asymptote at the line is 
 There is not  horizontal  asymptote because there is no x in the numerator 
