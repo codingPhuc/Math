@@ -337,3 +337,11 @@ $$
 \end{document}
 
 ```
+
+
+
+## #Practice_Exercise  
+
+$$
+f(x )  =  -\frac{4}{x - 2} 
+$$
