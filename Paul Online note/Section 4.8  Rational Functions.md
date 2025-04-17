@@ -538,9 +538,14 @@ we have a  y intercept of $\left( 0,-\frac{4}{3} \right)$
 vertical  asymptotes: 
  $$
  \begin{array}{l}  \\
-x^2 + x  - 6      =     \\
-x = 1 
+x^2 + x  - 6      =     0   \\
+( x  + 3 )(x  -  2)=   0   \\
+  \left \right
+\begin{array } {l}
+
+\end{array } 
 \end{array}
+
 
 $$
 this mean that there will be three region in our graph  where $x<1  \cap x >1$
