@@ -528,7 +528,7 @@ $$
 the y-intercept :   
 
 $$
-f(x  )  =  \frac{8}{x^2 + x  - 6 }
+f(0  )  =  \frac{8  }{0^2 + 0  - 6 }   =    -  \frac{4}{3}
 $$
 
 
