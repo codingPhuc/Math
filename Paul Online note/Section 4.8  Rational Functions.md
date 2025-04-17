@@ -567,7 +567,7 @@ since the largest power  of the denominator  m >  the largest  power of the nume
 now we need point in each region to graph the graph
 
 $$
-f(x  )  =  \frac{8}{0^2 + x  - 6 }
+f(3 )  =  \frac{8}{3^2 + 3  - 6 }
 $$
 
 
