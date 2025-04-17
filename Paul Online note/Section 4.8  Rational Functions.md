@@ -353,18 +353,18 @@ $$
 the y-intercept  
 
 $$
-
+f(0 )   =   - \frac{4}{ 0 -2 }  =  2  
 $$
 
-we have a  y intercept of $(0,-1)$
-the x-intercept  
 
+we have a  y intercept of $(0,2)$
+the x-intercept  
 
 since the numerator is a whole number we do not have the x-intercept 
 vertical  asymptotes: 
  $$
  \begin{array}{l}
-  x^2 - 9  = 0 \\ 
+x   - 2    = 
   \left\{ \begin{array}{l }  
 x  =  3  \\
 x  = - 3 
