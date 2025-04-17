@@ -421,3 +421,11 @@ $$
 
 
 
+
+
+$$
+\begin{array}{l} \\
+\frac{6 - 2x}{}
+
+\end{array}
+$$
