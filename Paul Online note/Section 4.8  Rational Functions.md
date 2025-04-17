@@ -567,8 +567,12 @@ since the largest power  of the denominator  m >  the largest  power of the nume
 now we need point in each region to graph the graph
 
 $$
-f(3 )  =  \frac{8}{3^2 + 3  - 6 }
+f(3 )  =  \frac{8}{3^2 + 3  - 6  }   = \frac{4}{3}
+  $$
+
 $$
+f(-4 )  =  \frac{8}{3^2 + 3  - 6  }   = \frac{4}{3} = \frac{4}{9}
+  $$
 
 
 
@@ -592,8 +596,7 @@ $$
     }
 
     % Text annotations  
-
-
+ \frac{8}{x^2 + x  - 6 }
     % Draw the parabola
    \draw[red, thick, domain=-4:0, samples=100] plot (\x, {(6  - 2*\x )/(1-\x) });
      \draw[red, thick, domain=2:7, samples=100] plot (\x, { (6  - 2*\x )/(1-\x) });
