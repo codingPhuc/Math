@@ -477,11 +477,12 @@ $$
 
 now we need point in each region to graph the graph
 $$
-f(0)  = \frac{6 - 2x}{1-x}   =  
+f(0)  = \frac{6 - 2\cdot0}{1-0}   =6   
 $$
 
+
 $$
-f(1 )   = -\frac{4}{1-2}   = 4  
+f(2)  = \frac{6 - 2\cdot 2}{1-2}   =-2  
 $$
 
 ```tikz
@@ -506,9 +507,9 @@ $$
     % Text annotations  
     \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
 
-
+f(x)  = \frac{6 - 2x}{1-x} 
     % Draw the parabola
-   \draw[red, thick, domain=-4:1, samples=100] plot (\x, {(-4)/(\x - 2)});
+   \draw[red, thick, domain=-4:1, samples=100] plot (\x, {(6  - 2x ) });
      \draw[red, thick, domain=3:7, samples=100] plot (\x, { (-4)/(\x - 2) });
 \end{tikzpicture}
 \end{document}
