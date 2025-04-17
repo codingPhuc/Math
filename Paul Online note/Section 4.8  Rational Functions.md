@@ -555,18 +555,13 @@ this mean that there will be three region in our graph  where $x<-3 \cap -3 <x <
 
 the x-intercept: 
 
-since the largest power  of the d
+
 
 
 
 
 horizontal asymptote : 
-since largest power of both the denominator and the numerator is 1 we concluded that the horizontal asymptote is : 
-$$
-\frac{-2}{-1}  = 2 
-$$
-
-
+since the largest power  of the denominator  m >  the largest  power of the numerator n , m > n the x  we concluded that the  horizontal asympto
 
 
 now we need point in each region to graph the graph
