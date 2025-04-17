@@ -451,7 +451,7 @@ x = 1
 \end{array}
 
 $$
-
+this mean that there will be three region in our graph  where $x<1  \cap x >1$
 
 the x-intercept: 
 
@@ -464,10 +464,10 @@ x =  3
 $$
 
 
-this mean that there will be three region in our graph  where $x<2  \cap x >2$
+
 
 horizontal asymptote : 
-For this equation the largest exponent of x in the numerator is zero since the numerator is a constant. The largest exponent of x in the denominator is 1, which is larger than the largest exponent in the numerator, and so the x-axis will be the horizontal asymptote.
+
 
 
 now we need point in each region to graph the graph
