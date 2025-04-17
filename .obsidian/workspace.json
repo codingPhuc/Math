@@ -12,12 +12,14 @@
             "id": "581a36da74918a83",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250210124149.png"
+                "file": "Paul Online note/Section 4.8  Rational Functions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250210124149"
+              "icon": "lucide-file",
+              "title": "Section 4.8  Rational Functions"
             }
           }
         ]
@@ -172,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250210124149.png",
+                "file": "Paul Online note/Section 4.8  Rational Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250210124149"
+              "title": "Outline of Section 4.8  Rational Functions"
             }
           }
         ],
@@ -197,11 +199,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
+    "independent version/Transformations video lecture.md",
+    "Pasted image 20250210124149.png",
     "Pasted image 20250408074105.png",
     "Pasted image 20250409112615.png",
     "Pasted image 20250409113454.png",
@@ -210,10 +216,8 @@
     "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
     "Paul Online note/Section 4.7  Symmetry.md",
     "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
-    "independent version/Transformations video lecture.md",
     "independent version/Untitled.md",
     "Paul Online note/Section 4.4 Hyperbolas.md",
-    "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "Pasted image 20250414173933.png",
     "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 4.5  Miscellaneous Functions.md",
@@ -237,7 +241,6 @@
     "Paul Online note/Section 4.3  Ellipses.md",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Pasted image 20250403173519.png",
-    "Pasted image 20250403171426.png",
     "Professor Leonard",
     "Paul Online note",
     "template",
