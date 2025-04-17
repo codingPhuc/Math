@@ -425,7 +425,7 @@ $$
 
 $$
 \begin{array}{l} \\
-\frac{6 - 2x}{}
-
+f(x)  = \frac{6 - 2x}{1-x} 
+f( )
 \end{array}
 $$
