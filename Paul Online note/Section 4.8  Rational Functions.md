@@ -379,17 +379,14 @@ horizontal asymptote :
 For this equation the largest exponent of x in the numerator is zero since the numerator is a constant. The largest exponent of x in the denominator is 1, which is larger than the largest exponent in the numerator, and so the x-axis will be the horizontal asymptote.
 
 
-now we need to po
+now we need point in each region to graph the graph
+$$
+f(3 )  =  -\frac{4}{3 - 2}   =  4
+$$
 
 $$
-f(-4 )  =  \frac{9}{(-4)^2  -  9}  = -\frac{9}{7}
-
+f(1 )   = -\frac{4}{}
 $$
-$(-9)$
-$$
-f(4)  =   \frac{9}{7}  
-$$
-$9$
 
 ```tikz
 \usepackage{amsmath,amssymb}
