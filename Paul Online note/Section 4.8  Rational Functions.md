@@ -532,13 +532,13 @@ f(0  )  =  \frac{8  }{0^2 + 0  - 6 }   =    -  \frac{4}{3}
 $$
 
 
-we have a  y intercept of $(0,2)$
+we have a  y intercept of $\left( 0,-\frac{4}{3} \right)$
 
 
 vertical  asymptotes: 
  $$
  \begin{array}{l}  \\
-1- x      =   0   \\
+x^2 + x  - 6      =     \\
 x = 1 
 \end{array}
 
