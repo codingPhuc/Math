@@ -540,7 +540,7 @@ vertical  asymptotes:
  \begin{array}{l}  \\
 x^2 + x  - 6      =     0   \\
 ( x  + 3 )(x  -  2)=   0   \\
-  \left\{  \\
+  \left\{  
 \begin{array} {l}
 
 \end{array}  \\
