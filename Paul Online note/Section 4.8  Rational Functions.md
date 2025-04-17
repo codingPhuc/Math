@@ -505,12 +505,11 @@ $$
     }
 
     % Text annotations  
-    \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
 
-f(x)  = \frac{6 - 2x}{1-x} 
+
     % Draw the parabola
-   \draw[red, thick, domain=-4:1, samples=100] plot (\x, {(6  - 2x ) });
-     \draw[red, thick, domain=3:7, samples=100] plot (\x, { (-4)/(\x - 2) });
+   \draw[red, thick, domain=-4:0, samples=100] plot (\x, {(6  - 2*\x )/(1-\x) });
+     \draw[red, thick, domain=2:7, samples=100] plot (\x, { (6  - 2*\x )/(1-\x) });
 \end{tikzpicture}
 \end{document}
 
