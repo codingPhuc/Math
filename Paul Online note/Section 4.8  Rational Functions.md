@@ -381,11 +381,11 @@ For this equation the largest exponent of x in the numerator is zero since the
 
 now we need point in each region to graph the graph
 $$
-f(3 )  =  -\frac{4}{3 - 2}   =  4
+f(3 )  =  -\frac{4}{3 - 2}   =  -4
 $$
 
 $$
-f(1 )   = -\frac{4}{}
+f(1 )   = -\frac{4}{1-2}   = 4  
 $$
 
 ```tikz
@@ -410,9 +410,9 @@ $$
     % Text annotations  
     \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
 
-
+f(x )  =  -\frac{4}{x - 2} 
     % Draw the parabola
-   \draw[red, thick, domain=-8:-4, samples=100] plot (\x, { 9/((\x)^2 - 9) });
+   \draw[red, thick, domain=-8:-4, samples=100] plot (\x, (4/())});
      \draw[red, thick, domain=-2.5:2.5, samples=100] plot (\x, { 9/((\x)^2 - 9) });
   \draw[red, thick, domain=4:8, samples=100] plot (\x, { 9/((\x)^2 - 9) });
 \end{tikzpicture}
