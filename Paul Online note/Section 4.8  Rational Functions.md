@@ -521,12 +521,14 @@ $$
 
 
 
-
+$$
+f(x  )  =  \frac{8}{x^2 + x  - 6 }
+$$
 
 the y-intercept :   
 
 $$
-f(0)  = \frac{6 - 2\cdot 0 }{1-0}    =  6
+f(x  )  =  \frac{8}{x^2 + x  - 6 }
 $$
 
 
