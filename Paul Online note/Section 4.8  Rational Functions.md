@@ -467,7 +467,7 @@ $$
 
 
 horizontal asymptote : 
-since largest power of both the denominator and the numbe
+since largest power of both the denominator and the numerator is 1 we concluded that 
 
 
 
