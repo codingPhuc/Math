@@ -477,7 +477,7 @@ $$
 
 now we need point in each region to graph the graph
 $$
-f(3 )  =  -\frac{4}{3 - 2}   =  -4
+f(0)  = \frac{6 - 2x}{1-x}   =  
 $$
 
 $$
