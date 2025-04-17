@@ -426,6 +426,87 @@ $$
 $$
 \begin{array}{l} \\
 f(x)  = \frac{6 - 2x}{1-x} 
-f( )
 \end{array}
 $$
+
+
+
+
+
+the y-intercept :   
+
+$$
+f(0)  = \frac{6 - 2\cdot 0 }{1-0}    =  6
+$$
+
+
+we have a  y intercept of $(0,2)$
+the x-intercept: 
+
+
+$$
+\begin{array}{l}
+\end{array}
+$$
+
+
+vertical  asymptotes: 
+ $$
+ \begin{array}{l}
+x   - 2    =   0   \\
+x =  2 
+\end{array}
+
+$$
+
+
+
+
+this mean that there will be three region in our graph  where $x<2  \cap x >2$
+
+horizontal asymptote : 
+For this equation the largest exponent of x in the numerator is zero since the numerator is a constant. The largest exponent of x in the denominator is 1, which is larger than the largest exponent in the numerator, and so the x-axis will be the horizontal asymptote.
+
+
+now we need point in each region to graph the graph
+$$
+f(3 )  =  -\frac{4}{3 - 2}   =  -4
+$$
+
+$$
+f(1 )   = -\frac{4}{1-2}   = 4  
+$$
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
+
+
+    % Draw the parabola
+   \draw[red, thick, domain=-4:1, samples=100] plot (\x, {(-4)/(\x - 2)});
+     \draw[red, thick, domain=3:7, samples=100] plot (\x, { (-4)/(\x - 2) });
+\end{tikzpicture}
+\end{document}
+
+```
+
+
+
