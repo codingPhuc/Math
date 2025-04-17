@@ -370,12 +370,16 @@ x =  2
 
 $$
 
+
+
+
 this mean that there will be three region in our graph  where $x<2  \cap x >2$
 
+horizontal asymptote : 
+For this equation the largest exponent of x in the numerator is zero since the numerator is a constant. The largest exponent of x in the denominator is 1, which is larger than the largest exponent in the numerator, and so the x-axis will be the horizontal asymptote.
 
 
-
-Now we just need point  in each region of x . Since the y-intercept is already in the middle region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
+now we need to po
 
 $$
 f(-4 )  =  \frac{9}{(-4)^2  -  9}  = -\frac{9}{7}
