@@ -441,25 +441,27 @@ $$
 
 
 we have a  y intercept of $(0,2)$
-the x-intercept: 
-
-
-$$
-\begin{array}{l}
-\end{array}
-$$
 
 
 vertical  asymptotes: 
  $$
- \begin{array}{l}
-x   - 2    =   0   \\
-x =  2 
+ \begin{array}{l}  \\
+1- x      =   0   \\
+x = 1 
 \end{array}
 
 $$
 
 
+the x-intercept: 
+
+
+$$
+\begin{array}{l}  \\
+6 -  2x  = 0     \\
+x =  3  
+\end{array}
+$$
 
 
 this mean that there will be three region in our graph  where $x<2  \cap x >2$
