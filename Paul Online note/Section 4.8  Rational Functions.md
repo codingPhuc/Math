@@ -350,7 +350,7 @@ $$
 
 
 
-the y-intercept  
+the y-intercept :   
 
 $$
 f(0 )   =   - \frac{4}{ 0 -2 }  =  2  
@@ -358,7 +358,7 @@ $$
 
 
 we have a  y intercept of $(0,2)$
-the x-intercept  
+the x-intercept: 
 
 since the numerator is a whole number we do not have the x-intercept 
 vertical  asymptotes: 
@@ -372,8 +372,7 @@ $$
 
 this mean that there will be three region in our graph  where $x<2  \cap x >2$
 
-Now the largest exponent in the graph is one so the horizontal asymptote at the line is 
-There is not  horizontal  asymptote because there is no x in the numerator 
+
 
 
 Now we just need point  in each region of x . Since the y-intercept is already in the middle region we won't need to get any point there . That  mean that we only need to get the point in the right region . We  just need to keep it simple for this point 
