@@ -451,7 +451,7 @@ x = 1
 \end{array}
 
 $$
-this mean that there will be three region in our graph  where $x<1  \cap x >1$
+this mean that there will be two region in our graph  where $x<1  \cap x >1$
 
 the x-intercept: 
 
@@ -551,17 +551,11 @@ x  = 2
 
 
 $$
-this mean that there will be three region in our graph  where $x<1  \cap x >1$
+this mean that there will be three region in our graph  where $x<-3 \cap -3 <x < 2  \cap x >2$
 
 the x-intercept: 
 
-
-$$
-\begin{array}{l}  \\
-6 -  2x  = 0     \\
-x =  3  
-\end{array}
-$$
+since the largest power  of the d
 
 
 
