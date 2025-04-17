@@ -412,7 +412,7 @@ $$
 
 f(x )  =  -\frac{4}{x - 2} 
     % Draw the parabola
-   \draw[red, thick, domain=-8:-4, samples=100] plot (\x, (4/())});
+   \draw[red, thick, domain=-8:-4, samples=100] plot (\x, {(-4)/(\x - 2)});
      \draw[red, thick, domain=-2.5:2.5, samples=100] plot (\x, { 9/((\x)^2 - 9) });
   \draw[red, thick, domain=4:8, samples=100] plot (\x, { 9/((\x)^2 - 9) });
 \end{tikzpicture}
