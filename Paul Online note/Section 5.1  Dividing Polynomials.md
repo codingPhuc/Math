@@ -61,4 +61,7 @@ $$
 
 
 
-##  Used  synthetic division to do each of
+##  Used  synthetic division to do each of the following 
+$$
+2 \mid 2   
+$$
