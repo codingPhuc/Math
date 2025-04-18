@@ -56,5 +56,9 @@ Note as well that Q(x) and R are unique , or in other word , there is only one Q
 
 so the one example we've down  to this point we can see that : 
 $$
-Q(x) = 5x^2  _{}
+Q(x) = 5x^2  +  19x  + 76  \text{ and  } R =  310
 $$
+
+
+
+##  Used  synthetic division to do each of
