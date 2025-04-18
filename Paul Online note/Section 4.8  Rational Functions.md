@@ -669,12 +669,10 @@ since the largest power  of the denominator  m =  the largest  power of the nume
 now we need point in each region to graph the graph
 
 $$
-f(3 )  =  \frac{8}{3^2 + 3  - 6  }   = \frac{4}{3}
+f(5 )  =   \frac{4\cdot 5^2   - 36 }{5^2  -  2\cdot 5  -  8  }  =  
   $$
 
-$$
-f(-4 )  =  \frac{8}{3^2 + 3  - 6  }   = \frac{4}{3} = \frac{4}{9}
-  $$
+
 
 
 
