@@ -641,14 +641,25 @@ x  = -2
 
 
 $$
-this mean that there will be three region in our graph  where $x<-2 \cap -2 <x <   \cap x >2$
+this mean that there will be three region in our graph  where $x<-2 \cap -2 <x < 4  \cap x >4$
 
 the x-intercept: 
 
-there is not x-intercept since the numerator is a whole number 
+ $$
+ \begin{array}{l}  \\
+x^2  -  2x  -  8    =     0   \\
+( x -  4) (x  +  2)=   0   \\
+  \left\{  
+\begin{array} {l} 
+x  =  4 \\
+x  = -2  
+\end{array}  \\
+\right.
+
+\end{array}
 
 
-
+$$
 
 horizontal asymptote : 
 since the largest power  of the denominator  m >  the largest  power of the numerator n , m > n the x  we concluded that the  horizontal asymptote is the x-axis 
