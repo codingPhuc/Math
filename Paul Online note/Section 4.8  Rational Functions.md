@@ -618,11 +618,11 @@ $$
 the y-intercept :   
 
 $$
-f(0  )  = \frac{4\cdot 0^2   - 36 }{0^2  -  2\cdot  0   -  8  }
+f(0  )  = \frac{4\cdot 0^2   - 36 }{0^2  -  2\cdot  0   -  8  } = \frac{9}{2}
 $$
 
 
-we have a  y intercept of $\left( 0,-\frac{4}{3} \right)$
+we have a  y intercept of $\left( 0 ,  \frac{9}{2} \right)$
 
 
 vertical  asymptotes: 
