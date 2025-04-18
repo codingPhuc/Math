@@ -18,4 +18,6 @@ we need to  write down the term in decreasing order .  Making sure to not make a
 Now  we need to ask what we need to multiply  by  $x - 4$  to get the first term in the numerator polynomial . In this cases $5x^2$ so multiply $x-4$  by $5x^2$  then subtract the numerator polynomial by the multiply result  
 
 ![[Pasted image 20250417203328.png]] 
-the new polynomial is called the remainder .We continue the process until the degree of the remainder is less then the degree of the **divisor** or the denominator polynomial  which is $x -4$
+the new polynomial is called the remainder .We continue the process until the degree of the remainder is less then the degree of the **divisor** or the denominator polynomial  which is $x -4$ 
+
+recall in [[Polynomials]] that the 
