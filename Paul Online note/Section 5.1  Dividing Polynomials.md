@@ -28,4 +28,7 @@ okay so the solution to our equation is  :
 $$
 \frac{5x^3 - x^2  + 6} {x - 4}  = 5x^2  +  19x  +  76  + \frac{310}{x - 4}
 $$
-we can  also  write down a more 
+we can  also  write down a more easy  to look at solution 
+$$
+5x^3 - x^2  + 6    = ( x - 4)( 5x^2  +  19x  +  76)  +  310  
+$$
