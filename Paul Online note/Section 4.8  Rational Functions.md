@@ -697,8 +697,9 @@ f(5 )  =   \frac{4\cdot 5^2   - 36 }{5^2  -  2\cdot 5  -  8  }  =  \frac{64}{7}
 
     % Text annotations  
     % Draw the parabola\frac{4x^2   - 36 }{x^2  -  2x  -  8  }
-    \draw[red, thick, domain=-6:-3.5, samples=100] plot (\x, {(4*(\x)^2   - 36)/((\x)^2  -  2*\x  -  8 ) });
-  \draw[red, thick, domain=-6:-3.5, samples=100] plot (\x, {(4*(\x)^2   - 36)/((\x)^2  -  2*\x  -  8 ) });
+    \draw[red, thick, domain=-6:-3, samples=100] plot (\x, {(4*(\x)^2   - 36)/((\x)^2  -  2*\x  -  8 ) });
+  \draw[red, thick, domain=-1:3, samples=100] plot (\x, {(4*(\x)^2   - 36)/((\x)^2  -  2*\x  -  8 ) });
+    \draw[red, thick, domain=5:7, samples=100] plot (\x, {(4*(\x)^2   - 36)/((\x)^2  -  2*\x  -  8 ) });
 \end{tikzpicture}
 \end{document}
 
