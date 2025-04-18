@@ -12,9 +12,12 @@ In this section we need to take a look at dividing polynomials . This is somethi
 $$
 \begin{array}{l} \\
 \text{Divde } 5x^3  - x^2  + 6  \text{ by } x - 4   \\
+
 \frac{5x^3  - x^2  + 6}{x - 4 }   
 \end{array}
 $$
+
+
 
 
 
