@@ -647,12 +647,12 @@ the x-intercept:
 
  $$
  \begin{array}{l}  \\
-x^2  -  2x  -  8    =     0   \\
-( x -  4) (x  +  2)=   0   \\
+4x^2   - 36   =     0    \\
+
   \left\{  
 \begin{array} {l} 
-x  =  4 \\
-x  = -2  
+x  =  3 \\
+x  = -3   
 \end{array}  \\
 \right.
 
@@ -660,6 +660,7 @@ x  = -2
 
 
 $$
+so the x intercept is $()$
 
 horizontal asymptote : 
 since the largest power  of the denominator  m >  the largest  power of the numerator n , m > n the x  we concluded that the  horizontal asymptote is the x-axis 
