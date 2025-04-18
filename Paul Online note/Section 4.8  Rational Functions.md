@@ -628,8 +628,8 @@ we have a  y intercept of $\left( 0 ,  \frac{9}{2} \right)$
 vertical  asymptotes: 
  $$
  \begin{array}{l}  \\
-x^2 + x  - 6      =     0   \\
-( x  + 3 )(x  -  2)=   0   \\
+x^2  -  2x  -  8    =     0   \\
+( x -  4) (x  +  2)=   0   \\
   \left\{  
 \begin{array} {l} 
 x  =  - 3  \\
