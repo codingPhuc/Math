@@ -100,3 +100,4 @@ $$
 P(x)    = (x - r) Q(x) + R
 $$
 
+Now let evaluate our function $P(x)$  by plugging in r  . Let used the division function 
