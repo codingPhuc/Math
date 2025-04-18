@@ -632,8 +632,8 @@ x^2  -  2x  -  8    =     0   \\
 ( x -  4) (x  +  2)=   0   \\
   \left\{  
 \begin{array} {l} 
-x  =  - 3  \\
-x  = 2  
+x  =  4 \\
+x  = -2  
 \end{array}  \\
 \right.
 
@@ -641,7 +641,7 @@ x  = 2
 
 
 $$
-this mean that there will be three region in our graph  where $x<-3 \cap -3 <x < 2  \cap x >2$
+this mean that there will be three region in our graph  where $x<-2 \cap -2 <x <   \cap x >2$
 
 the x-intercept: 
 
