@@ -15,3 +15,4 @@ $$
 $$
 we need to  write down the term in decreasing order .  Making sure to not make any mistake we add in a missing term  with a zero coefficient  
 
+Now  we need to ask what we need to multiply  by  $x - 4$  to get the first term in the numerator polynomial . In this cases 5x^2 
