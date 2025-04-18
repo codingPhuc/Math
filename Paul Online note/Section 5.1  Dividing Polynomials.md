@@ -34,4 +34,4 @@ $$
 $$
 we will be restricted by  polynomial with degree of 1 in this exercise .  Long division can be implemented for more general form of polynomial but we will not go into detail in this section 
 
-the degree of 1 polynomial divisor 
+the degree of 1 polynomial divisor will be seen so much in this exercise that we can implement  something called a ****
