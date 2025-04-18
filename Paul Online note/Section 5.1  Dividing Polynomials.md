@@ -92,4 +92,6 @@ $$
 (4x^4  +  24x^3  - 10x^2 +  804x )(x  -  6) +  4825 
 $$
 
-why a
+why are we diving our function like this , the answer will be that in a later section ,we want to get our hand on the $Q(x)$ 
+
+Th
