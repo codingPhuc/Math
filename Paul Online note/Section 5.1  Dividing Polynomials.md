@@ -64,7 +64,7 @@ $$
 ##  Used  synthetic division to do each of the following 
 
 $$
-2x^3  - 3x  - 5 te
+2x^3  - 3x  - 5 \text{ by } x+ 2 
 $$
 $$
 2 \mid 2 \; 0 \; -3 \; -5 
