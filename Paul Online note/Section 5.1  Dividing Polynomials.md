@@ -34,9 +34,11 @@ $$
 $$
 we will be restricted by  polynomial with degree of 1 in this exercise .  Long division can be implemented for more general form of polynomial but we will not go into detail in this section 
 
-the degree of 1 polynomial divisor will be seen so much in this exercise that we can implement  something called a **synthetic division** that work wonder full for this kind of problem .  In order to use synthetic division we must be dividing a polynomial by a linear term in the form x−rx−r. If we aren’t then it won’t work. 
+the degree of 1 polynomial divisor will be seen so much in this exercise that we can implement  something called a **synthetic division** that work wonder full for this kind of problem .  In order to use synthetic division we must be dividing a polynomial by a linear term in the form x−r If we aren’t then it won’t work. 
 let redo the previous  exercise by synthetic division 
 $$
 \text{synthetic division to divide } 5x^3 - x^2 + 6  \text{ by } x - 4
 $$
 
+First, let's notice that in this case  $r=4$ 
+Now we need to set up the 
