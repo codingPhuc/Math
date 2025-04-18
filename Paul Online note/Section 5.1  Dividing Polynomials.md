@@ -32,4 +32,5 @@ we can  also  write down a more easy  to look at solution
 $$
 5x^3 - x^2  + 6    = ( x - 4)( 5x^2  +  19x  +  76)  +  310  
 $$
-we will be restricted by  polynomial with degree of 1 in this exercise .  Long division can be implemented for more general form of polynomial 
+we will be restricted by  polynomial with degree of 1 in this exercise .  Long division can be implemented for more general form of polynomial but we will not go into detail in this exercise 
+
