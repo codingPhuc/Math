@@ -109,3 +109,9 @@ P(r)  =  (r - r ) Q(r)  + R   \\
 \end{array}
 
 $$
+
+
+
+$$
+ \begin{gathered}\operatorname{If}P(x)=5x^3-x^2+6\mathrm{~then~}P(4)=310\\\operatorname{If}P(x)=2x^3-3x-5\mathrm{~then~}P\left(-2\right)=-15\\\mathrm{If~}P(x)=4x^4-10x^2+1\mathrm{~then~}P\left(6\right)=4825\end{gathered}
+$$
