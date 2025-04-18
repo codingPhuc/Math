@@ -669,7 +669,7 @@ since the largest power  of the denominator  m =  the largest  power of the nume
 now we need point in each region to graph the graph
 
 $$
-f(5 )  =   \frac{4\cdot 5^2   - 36 }{5^2  -  2\cdot 5  -  8  }  =  
+f(5 )  =   \frac{4\cdot 5^2   - 36 }{5^2  -  2\cdot 5  -  8  }  =  \frac{64}{7}
   $$
 
 
@@ -696,10 +696,9 @@ f(5 )  =   \frac{4\cdot 5^2   - 36 }{5^2  -  2\cdot 5  -  8  }  =
     }
 
     % Text annotations  
-    % Draw the parabola
-    \draw[red, thick, domain=-6:-3.5, samples=100] plot (\x, {(8)/((\x)^2 + \x  - 6 ) });
-    \draw[red, thick, domain=-2:1, samples=100] plot (\x, {(8)/((\x)^2 + \x  - 6 ) });
-    \draw[red, thick, domain=2.5:5, samples=100] plot (\x, {(8)/((\x)^2 + \x  - 6 ) });
+    % Draw the parabola\frac{4x^2   - 36 }{x^2  -  2x  -  8  }
+    \draw[red, thick, domain=-6:-3.5, samples=100] plot (\x, {(4*(\x)^2   - 36)/((\x)^2  -  2*\x  -  8 ) });
+  \draw[red, thick, domain=-6:-3.5, samples=100] plot (\x, {(4*(\x)^2   - 36)/((\x)^2  -  2*\x  -  8 ) });
 \end{tikzpicture}
 \end{document}
 
