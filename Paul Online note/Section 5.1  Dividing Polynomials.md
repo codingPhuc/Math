@@ -100,4 +100,12 @@ $$
 P(x)    = (x - r) Q(x) + R
 $$
 
-Now let evaluate our function $P(x)$  by plugging in r  . Let used the division function 
+Now let evaluate our function $P(x)$  by plugging in r  . Let used the division algorithm instead of the equation of P(x)
+$$
+\begin{array}{l }
+P(r)  =  (r - r ) Q(r)  + R   \\
+=  (0) Q( r) +  R  \\
+=  R 
+\end{array}
+
+$$
