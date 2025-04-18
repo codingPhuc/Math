@@ -52,3 +52,4 @@ Given a polynomial P(x) with degree at least 1  and any number r there is anothe
 $$
 P(x)  = (x  - r) Q(x)  + R
 $$
+Note as well that Q(x) and R are unique 
