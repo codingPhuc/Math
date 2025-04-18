@@ -52,4 +52,9 @@ Given a polynomial P(x) with degree at least 1  and any number r there is anothe
 $$
 P(x)  = (x  - r) Q(x)  + R
 $$
-Note as well that Q(x) and R are unique 
+Note as well that Q(x) and R are unique , or in other word , there is only one Q(x) and  R that will work for a given P( x) and r 
+
+so the one example we've down  to this point we can see that : 
+$$
+Q(x) = 5x^2  _{}
+$$
