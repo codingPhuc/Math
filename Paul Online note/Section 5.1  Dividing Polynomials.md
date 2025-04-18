@@ -10,3 +10,7 @@ In this section we need to take a look at dividing polynomials . This is somethi
 
 
 
+$$
+\frac{5x^3   -  x^2  +   }{}
+
+$$
