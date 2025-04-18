@@ -111,7 +111,11 @@ P(r)  =  (r - r ) Q(r)  + R   \\
 $$
 
 
-
+Now, that’s convenient. The remainder of the division algorithm is also the value of the polynomial evaluated at rr. So, from our previous examples we now know the following function evaluations.
 $$
  \begin{gathered}\operatorname{If}P(x)=5x^3-x^2+6\mathrm{~then~}P(4)=310\\\operatorname{If}P(x)=2x^3-3x-5\mathrm{~then~}P\left(-2\right)=-15\\\mathrm{If~}P(x)=4x^4-10x^2+1\mathrm{~then~}P\left(6\right)=4825\end{gathered}
 $$
+
+This is a very quick method for evaluating polynomials. For polynomials with only a few terms and/or polynomials with “small” degree this may not be much quicker that evaluating them directly. However, if there are many terms in the polynomial and they have large degrees this can be much quicker and much less prone to mistakes than computing them directly.
+
+As noted, we will be using this fact in a later section to greatly reduce the amount of work we’ll need to do in those problems.
