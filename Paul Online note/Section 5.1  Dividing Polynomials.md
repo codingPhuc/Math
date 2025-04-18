@@ -11,6 +11,6 @@ In this section we need to take a look at dividing polynomials . This is somethi
 
 
 $$
-\frac{5x^3   -  x^2  +    0 x   +  6  }{}
+\frac{5x^3   -  x^2  +    0 x   +  6  }{x  -4}
 $$
-Recall that  we need 
+we need to  write down the term in decreasing order .  
