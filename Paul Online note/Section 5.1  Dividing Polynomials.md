@@ -94,4 +94,9 @@ $$
 
 why are we diving our function like this , the answer will be that in a later section ,we want to get our hand on the $Q(x)$ 
 
-Th
+There are many reason for this we are going to make heavy usage of later on . Let first start with a division algorithm 
+
+$$
+P(x)    = (x - r) Q(x) + R
+$$
+
