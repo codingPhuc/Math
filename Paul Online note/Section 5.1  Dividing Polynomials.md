@@ -42,3 +42,5 @@ $$
 
 First, let's notice that in this case  $r=4$ 
 Now we need to set up the process . There are many different notation to do this , but we will be using the following 
+![[Pasted image 20250417210346.png]] 
+The number to the right of the vertical 
