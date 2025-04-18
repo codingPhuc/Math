@@ -663,8 +663,7 @@ $$
 so the x intercept is $(-3  , 0 ) \cap (3,0)$
 
 horizontal asymptote : 
-since the 
-
+since the largest power  of the denominator  m =  the largest  power of the numerator n , m > n the x  we concluded that the  horizontal asymptote is the x-axis 
 
 
 now we need point in each region to graph the graph
