@@ -20,4 +20,6 @@ Now  we need to ask what we need to multiply  by  $x - 4$  to get the first term
 ![[Pasted image 20250417203328.png]] 
 the new polynomial is called the remainder .We continue the process until the degree of the remainder is less then the degree of the **divisor** or the denominator polynomial  which is $x -4$ 
 
-recall in [[Polynomials]] that the 
+recall in [[Polynomials]] that the degree is the highest power of the polynomial  , while a constant is a polynomials with a degree of 0  
+
+![[Pasted image 20250417203642.png]]
