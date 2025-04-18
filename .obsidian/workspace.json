@@ -214,11 +214,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f3ae5521c8a5e4d9",
   "lastOpenFiles": [
+    "Pasted image 20250417203328.png",
     "Paul Online note/Untitled.md",
     "calculus book.md",
     "book/Precalculus Stewart 7th Edition.pdf",
@@ -255,7 +257,6 @@
     "Paul Online note/Section 4.2  Parabolas.md",
     "Pasted image 20250409113453.png",
     "Paul Online note/Section 3.6  Combining Functions.md",
-    "Paul Online note/Section 3.7  Inverse Functions.md",
     "Pasted image 20250408074110.png",
     "Pasted image 20250408074104.png",
     "Pasted image 20250408073657.png",
