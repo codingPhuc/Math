@@ -48,4 +48,4 @@ the number to right is the coefficients of the terms in  descending exponent   .
 First we  put the first number down into the third row un change . Second , we multiply the number we just put down by r in $x-r$ in this cases 4  into the second row . Third , subtract it by the number in the first row . Finally , continue until we reach the last number 
 
 ## Division  Algorithm 
-Given a polynomial P(x) with degree at least 1  
+Given a polynomial P(x) with degree at least 1  and any number r there is nnot
