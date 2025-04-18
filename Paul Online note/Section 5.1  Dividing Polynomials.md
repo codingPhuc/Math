@@ -1,0 +1,9 @@
+---
+title: Adjunction
+references: 
+tags:
+  - In_Progress
+reference: 
+Current date: "2025-04-17"
+---
+In this section we need to take a look at dividing polynomials . This is something we will be doing fof and 
