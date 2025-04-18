@@ -63,5 +63,5 @@ $$
 
 ##  Used  synthetic division to do each of the following 
 $$
-2 \mid 2 \; -3 \; -5 
+2 \mid 2 \; 0 \; -3 \; -5 
 $$
