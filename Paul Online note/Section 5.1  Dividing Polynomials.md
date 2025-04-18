@@ -45,4 +45,4 @@ Now we need to set up the process . There are many different notation to do this
 ![[Pasted image 20250417210346.png]] 
 the number to right is the coefficients of the terms in  descending exponent   . Missing term are acknowledge with a coefficient of zero 
 ![[Pasted image 20250417210559.png]]
-First we  put the first number down into the third row un change . Second , we 
+First we  put the first number down into the third row un change . Second , we multiply the number we just put down by r in $x-r$ in this cases 4  into the second row . Third , subtract it by the number in the f
