@@ -607,3 +607,110 @@ f(-4 )  =  \frac{8}{3^2 + 3  - 6  }   = \frac{4}{3} = \frac{4}{9}
 
 
 
+
+
+
+
+$$
+f(x  )  = \frac{4x^2   - 36 }{x^2  -  2x  -  8  }
+$$
+
+the y-intercept :   
+
+$$
+f(0  )  = \frac{4\cdot 0^2   - 36 }{0^2  -  2\cdot  0   -  8  }
+$$
+
+
+we have a  y intercept of $\left( 0,-\frac{4}{3} \right)$
+
+
+vertical  asymptotes: 
+ $$
+ \begin{array}{l}  \\
+x^2 + x  - 6      =     0   \\
+( x  + 3 )(x  -  2)=   0   \\
+  \left\{  
+\begin{array} {l} 
+x  =  - 3  \\
+x  = 2  
+\end{array}  \\
+\right.
+
+\end{array}
+
+
+$$
+this mean that there will be three region in our graph  where $x<-3 \cap -3 <x < 2  \cap x >2$
+
+the x-intercept: 
+
+there is not x-intercept since the numerator is a whole number 
+
+
+
+
+horizontal asymptote : 
+since the largest power  of the denominator  m >  the largest  power of the numerator n , m > n the x  we concluded that the  horizontal asymptote is the x-axis 
+
+
+now we need point in each region to graph the graph
+
+$$
+f(3 )  =  \frac{8}{3^2 + 3  - 6  }   = \frac{4}{3}
+  $$
+
+$$
+f(-4 )  =  \frac{8}{3^2 + 3  - 6  }   = \frac{4}{3} = \frac{4}{9}
+  $$
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    % Draw the parabola
+    \draw[red, thick, domain=-6:-3.5, samples=100] plot (\x, {(8)/((\x)^2 + \x  - 6 ) });
+    \draw[red, thick, domain=-2:1, samples=100] plot (\x, {(8)/((\x)^2 + \x  - 6 ) });
+    \draw[red, thick, domain=2.5:5, samples=100] plot (\x, {(8)/((\x)^2 + \x  - 6 ) });
+\end{tikzpicture}
+\end{document}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
