@@ -28,16 +28,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 5.1  Dividing Polynomials.md",
+                "file": "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 5.1  Dividing Polynomials"
+              "title": "Deriving the Equation of a Hyperbola Centered at the Origin"
+            }
+          },
+          {
+            "id": "53ed797a1cc8a1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Triangle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Triangle"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8bd9f33ac5949455",
@@ -189,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 5.1  Dividing Polynomials.md",
+                "file": "Triangle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 5.1  Dividing Polynomials"
+              "title": "Outline of Triangle"
             }
           }
         ],
@@ -214,11 +228,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3ae5521c8a5e4d9",
+  "active": "53ed797a1cc8a1cb",
   "lastOpenFiles": [
+    "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
+    "Triangle.md",
+    "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "Pasted image 20250417210559.png",
     "Pasted image 20250417210346.png",
     "Pasted image 20250417203642.png",
@@ -229,10 +247,8 @@
     "book/Precalculus Stewart 7th Edition.pdf.crdownload",
     "book",
     "New folder",
-    "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "Paul Online note/Section 4.8  Rational Functions.md",
     "Paul Online note/Section 4.7  Symmetry.md",
-    "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "independent version/Transformations video lecture.md",
     "Pasted image 20250210124149.png",
     "Pasted image 20250408074105.png",
@@ -259,7 +275,6 @@
     "Paul Online note/Section 4.2  Parabolas.md",
     "Pasted image 20250409113453.png",
     "Paul Online note/Section 3.6  Combining Functions.md",
-    "Pasted image 20250408074110.png",
     "Professor Leonard",
     "Paul Online note",
     "template",
