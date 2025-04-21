@@ -180,13 +180,13 @@ $$
 
 ## use synthetic division to perform the indicated division. 
 $$
-\text{Divide } x^3 + 2x^2 -3x + 4 \text{ by } x  - 7   
+\text{Divide } x^3  + x^2  + x +  1  \text{ by } x  +  9    
 $$
 $$
--7 \mid 1\; 2 \; -3 \; 4   
+-9  \mid 1\; 1 \; 1 \; 1   
 $$
 
-| 7   | 1   | 2   | -3  | 4   |
+| -9  | 1   | 1   | 1   | 1   |
 | --- | --- | --- | --- | --- |
 |     |     | 7   | 63  | 420 |
 |     | 1   | 9   | 60  | 416 |
