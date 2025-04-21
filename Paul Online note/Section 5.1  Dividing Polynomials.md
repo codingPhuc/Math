@@ -197,10 +197,10 @@ $$
 
 
 $$
-\text{Divide } 7x^3   - 1  \text{ by } x  +  9    
+\text{Divide } 7x^3   - 1  \text{ by }  x  +  9     
 $$
 $$
--9  \mid 1\; 1 \; 1 \; 1   
+-9  \mid 7 \; 0 \;  0 \; 1   
 $$
 
 | -9  | 1   | 1   | 1   | 1    |
