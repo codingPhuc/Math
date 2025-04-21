@@ -40,12 +40,14 @@
             "id": "53ed797a1cc8a1cb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250210124149.png"
+                "file": "Paul Online note/Section 5.1  Dividing Polynomials.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250210124149"
+              "icon": "lucide-file",
+              "title": "Section 5.1  Dividing Polynomials"
             }
           }
         ],
@@ -201,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250210124149.png",
+                "file": "Paul Online note/Section 5.1  Dividing Polynomials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250210124149"
+              "title": "Outline of Section 5.1  Dividing Polynomials"
             }
           }
         ],
@@ -230,16 +232,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30b50d563073904f",
+  "active": "53ed797a1cc8a1cb",
   "lastOpenFiles": [
+    "picture/Pasted image 20250210124149.png",
+    "picture/Pasted image 20250417210559.png",
+    "picture/Pasted image 20250417210346.png",
     "picture",
     "Triangle.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "Paul Online note/Section 5.1  Dividing Polynomials.md",
-    "Pasted image 20250417210559.png",
-    "Pasted image 20250417210346.png",
-    "Pasted image 20250417203642.png",
-    "Pasted image 20250417203328.png",
+    "picture/Pasted image 20250417203642.png",
+    "picture/Pasted image 20250417203328.png",
     "Paul Online note/Untitled.md",
     "calculus book.md",
     "book/Precalculus Stewart 7th Edition.pdf",
@@ -249,16 +252,15 @@
     "Paul Online note/Section 4.8  Rational Functions.md",
     "Paul Online note/Section 4.7  Symmetry.md",
     "independent version/Transformations video lecture.md",
-    "Pasted image 20250210124149.png",
-    "Pasted image 20250408074105.png",
-    "Pasted image 20250409112615.png",
-    "Pasted image 20250409113454.png",
+    "picture/Pasted image 20250408074105.png",
+    "picture/Pasted image 20250409112615.png",
+    "picture/Pasted image 20250409113454.png",
     "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
     "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
     "independent version/Untitled.md",
     "Paul Online note/Section 4.4 Hyperbolas.md",
-    "Pasted image 20250414173933.png",
+    "picture/Pasted image 20250414173933.png",
     "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 4.5  Miscellaneous Functions.md",
     "Paul Online note/Untitled 2.md",
@@ -272,12 +274,11 @@
     "Paul Online note/Section 3.4  The Definition of a Function.md",
     "Paul Online note/Section 3.2  Lines.md",
     "Paul Online note/Section 4.2  Parabolas.md",
-    "Pasted image 20250409113453.png",
+    "picture/Pasted image 20250409113453.png",
     "Professor Leonard",
     "Paul Online note",
     "template",
     "templates",
-    "Excalidraw",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

@@ -119,3 +119,6 @@ $$
 This is a very quick method for evaluating polynomials. For polynomials with only a few terms and/or polynomials with “small” degree this may not be much quicker that evaluating them directly. However, if there are many terms in the polynomial and they have large degrees this can be much quicker and much less prone to mistakes than computing them directly.
 
 As noted, we will be using this fact in a later section to greatly reduce the amount of work we’ll need to do in those problems.
+
+
+# #pr
