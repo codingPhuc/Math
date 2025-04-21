@@ -178,3 +178,22 @@ $$
 $$
 
 
+## use synthetic division to perform the indicated division. 
+$$
+\text{Divide } x^3 + 2x^2 -3x + 4 \text{ by } x  - 7   
+$$
+$$
+-7 \mid 1\; 2 \; -3 \; 4   
+$$
+
+| 7   | 1   | 2   | -3  | 4   |
+| --- | --- | --- | --- | --- |
+|     |     | 7   | 63  | 420 |
+|     | 1   | 9   | 60  | 416 |
+
+
+$$
+(x^3   + 9x^2  60x )(x  - 7)   +   416     
+$$
+
+
