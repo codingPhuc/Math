@@ -40,14 +40,12 @@
             "id": "53ed797a1cc8a1cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Triangle.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250210124149.png"
               },
-              "icon": "lucide-file",
-              "title": "Triangle"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250210124149"
             }
           }
         ],
@@ -203,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Triangle.md",
+                "file": "Pasted image 20250210124149.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Triangle"
+              "title": "Outline of Pasted image 20250210124149"
             }
           }
         ],
@@ -228,13 +226,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53ed797a1cc8a1cb",
+  "active": "30b50d563073904f",
   "lastOpenFiles": [
-    "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
+    "picture",
     "Triangle.md",
+    "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "Pasted image 20250417210559.png",
     "Pasted image 20250417210346.png",
@@ -273,7 +273,6 @@
     "Paul Online note/Section 3.2  Lines.md",
     "Paul Online note/Section 4.2  Parabolas.md",
     "Pasted image 20250409113453.png",
-    "Paul Online note/Section 3.6  Combining Functions.md",
     "Professor Leonard",
     "Paul Online note",
     "template",
