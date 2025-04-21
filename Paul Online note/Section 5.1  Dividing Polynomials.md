@@ -74,6 +74,7 @@ $$
 | --- | --- | --- | --- |
 |     | 4   | 8   | -10 |
 | 2   | -4  | 5   | -15 |
+|     |     |     |     |
 $$
 (2x^3  -  4x^2  +  5x)(x  +  2) -  15 
 $$
@@ -121,4 +122,19 @@ This is a very quick method for evaluating polynomials. For polynomials with onl
 As noted, we will be using this fact in a later section to greatly reduce the amount of work we’ll need to do in those problems.
 
 
-# #pr
+# #Practice_Exercise  
+
+Divide  $3x^4  -5x^2 + 3$ by  $x+ 2$ 
+
+$$
+2x^3  - 3x  - 5 \text{ by } x+ 2 
+$$
+$$
+2 \mid 2 \; 0 \; -3 \; -5 
+$$
+
+| -2  | 0   | -3  | -5  |
+| --- | --- | --- | --- |
+|     | 4   | 8   | -10 |
+| 2   | -4  | 5   | -15 |
+|     |     |     |     |
