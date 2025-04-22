@@ -152,4 +152,5 @@ x   = 3
 \right.
 \end{array}
 $$
+In this cases we will have two simple zero 
 
