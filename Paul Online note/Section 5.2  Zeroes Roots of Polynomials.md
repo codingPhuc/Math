@@ -202,3 +202,5 @@ This face say that if you list out all the zeroes and listing each one k times w
 We can go  back to the pervious example and verify that this fact is true for the polynomials listed there 
 
 This will be a nice fact in a couple of section to find all zero  in a polynomial .IF we know the upper bound for the number of zero for a polynomial then we will know when we've found all of them and so we can stop looking 
+
+Note as well that some of the zero  may be complex . In this section we have worked with polynomial that o
