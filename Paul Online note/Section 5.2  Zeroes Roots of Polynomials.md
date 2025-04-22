@@ -82,16 +82,18 @@ $$
 \begin{array}{l} \\
 \left\{  \\
  \begin{array}{l} 
-(x + 1)^2  =  0  \\
-(x - 2)^2  =   0  
+(x + 5)^2  =  0  \\
+(x - 3)^2  =   0    \\
+x^4  =  0 
 \end{array} 
 
  \right.
  \\
 \left\{  \\
  \begin{array}{l} 
-x  = -1  \\
-x =  2  
+x  = -5  \\
+x =  3   \\
+x  =  0  
 \end{array} 
 
  \right.
@@ -99,3 +101,31 @@ x =  2
 \end{array}
 
 $$ 
+
+
+$$
+R(x)=x^7+10x^6+27x^5−57x^3−30x^2+29x+20=(x+1)^3(x−1)^2(x+5)(x+4)
+$$
+$$
+\begin{array}{l} \\
+\left\{  \\
+ \begin{array}{l} 
+(x + 5)^2  =  0  \\
+(x - 3)^2  =   0    \\
+x^4  =  0 
+\end{array} 
+
+ \right.
+ \\
+\left\{  \\
+ \begin{array}{l} 
+x  = -5  \\
+x =  3   \\
+x  =  0  
+\end{array} 
+
+ \right.
+
+\end{array}
+
+$$
