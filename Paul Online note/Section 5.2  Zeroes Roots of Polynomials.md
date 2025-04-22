@@ -214,4 +214,7 @@ For the polynomial $P(x )$
 The factor theorem  lead to the following fact : 
 
 ### fact 1  
-if $P(x)$ is a polynomial of degree n and r is zero of P(x) then 
+if $P(x)$ is a polynomial of degree n and r is zero of P(x) then P(x) can be written in the following term $$
+P(x)  = (x - r)Q(x )
+$$
+Where  
