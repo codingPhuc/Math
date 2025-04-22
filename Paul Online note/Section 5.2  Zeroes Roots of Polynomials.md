@@ -154,3 +154,13 @@ x   = 3
 $$
 In this cases we will have two simple zero 
 
+
+$$
+\begin{array}{l}  \\
+P(x)=x^2   - 14x  +  49    =  0    \\
+(x    -  7)^2   =   0  \\
+
+\end{array}
+$$
+In this cases we will have one zero with a multiplicity  of  2 
+
