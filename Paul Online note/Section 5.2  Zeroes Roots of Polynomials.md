@@ -120,9 +120,10 @@ $$
  \\
 \left\{  \\
  \begin{array}{l} 
-x  = -5  \\
-x =  3   \\
-x  =  0  
+x  = -1   \\
+x =  1  \\
+x  =  -5   \\
+x =   -4   
 \end{array} 
 
  \right.
