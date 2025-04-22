@@ -281,7 +281,6 @@ $$
 \begin{array}{l}  \\
 f(x)   = 2x^2  + 13x  -  7    \\
 (2x  - 1) ( x +  7)    \\
-
 \end{array}
-
 $$
+the zero polynomial are 
