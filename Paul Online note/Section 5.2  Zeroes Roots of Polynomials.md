@@ -137,4 +137,6 @@ For example , the polynomial $P(x) =  x^2-10x+25=(x-5)^2$ will have one zero , x
 $$
  P(x)  = x^2  - 10x  + 25  = (x - 5)(x - 5)
 $$
-Written this way the term $x-5$ show up twice a
+Written this way the term $x-5$ show up twice and each term gives the same zero , x = 5  . Saying that the multiplicity of a zero is k just a shorthand acknowledge that the zero will occur k times in the list of all zero 
+
+
