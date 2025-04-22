@@ -358,13 +358,13 @@ so the three zero of the equation $P(x)$ is  x = 6, x   =  -3 , and x = 4
 Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
 
 $$
-P(x)=3x3+16x2−33x+14P(x)=3x3+16x2−33x+14 ; r=−7
+P(x)=3x^3+16x^2−33x+14 ; r =  -7 
 $$
 $$
-4 \mid 1 \; -7 \; -6 \; 72  
+-7 \mid 3 \; 16 \; -33 \; 14   
 $$
 
-| 4   | 1   | -7  | -6  | 72  |
+| -7  | 3   | 16  | -33 | 14  |
 | --- | --- | --- | --- | --- |
 |     |     | 4   | -12 | -72 |
 |     | 1   | -3  | -18 | 0   |
