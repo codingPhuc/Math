@@ -287,5 +287,6 @@ there are two simple  zero  polynomial
 
 
 $$
-g(x)=x^6−3x^5−6x^4+10x^3+21x^2+9x=x(x−3)^2(x+1)3g(x)=x6−3x5−6x4+10x3+21x2+9x=x(x−3)2(x+1)3
+g(x)=x^6−3x^5−6x^4+10x^3+21x^2+9x=x(x−3)^2(x+1)^3  
 $$
+there are two  zero polynomial and  a simple zero . x 
