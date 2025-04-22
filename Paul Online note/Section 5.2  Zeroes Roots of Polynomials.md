@@ -292,5 +292,6 @@ $$
 there are two  zero polynomial and  a simple zero . x =3 with multiplicities of 2 ,  x   = -1  with a multiplicities of 2 
 
 $$
-A(x)=x^8+2x^7−29x^6−76x^5+199x^4+722x3+261x2−648x−432=(x+1)2(x−4)2(x−1)(x+3)3
+A(x)=x^8+2x^7−29x^6−76x^5+199x^4+722x^3+261x^2−648x−432=(x+1)^2(x−4)^2(x−1)(x+3)^3
 $$
+there are three polynomial zero and one simple zero . 
