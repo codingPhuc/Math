@@ -48,5 +48,14 @@ We solve each of these by factoring then  use  the zero factor properties on the
 Let take a look at a couple of these 
 ## Find the zeroes of each of the following polynomials 
 $$
+P(x)=5x^5−20x^4+5x^3+50x^2−20x−40=5(x+1)^2(x−2)^3
+$$
+$$
+\left\{  \\
+ \begin{array}{l} 
+5(x + 1)^2  =  0  \\
+(x - 2)
+\end{array}
+ \right.
 
 $$
