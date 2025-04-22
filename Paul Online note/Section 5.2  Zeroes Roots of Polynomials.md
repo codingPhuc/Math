@@ -143,7 +143,11 @@ Written this way the term $x-5$ show up twice and each term gives the same zero 
 $$
 \begin{array}{l}  \\
 P(x)=x^2+2x−15     =  0    \\
-(x  )
+(x  +  5)(x  - 3 )   =   0  \\
+\left  \{   \\
+ x = -5  \\
+x  =
+\right.
 \end{array}
  
 $$
