@@ -16,8 +16,14 @@ The process for finding root of zero amount to nothing more than solving the equ
 Let's  first find the zeros  for  $P(x) =x^2 + 2x  - 15$ to do this we simply solve the following equation 
 
 $$
-\begin{array}{l } \\
-x^2 + 2x  - 15   = (x + 5) (x - 3 )   = 0 
+\begin{array}{l } 
+x^2 + 2x  - 15   = 0 \\
+(x + 5) (x - 3 )   = 0  \\
+\left\{  \\
+ \begin{array}{l} 
+ \\
+\end{array}
+ \right.
 \end{array}
 
 $$
