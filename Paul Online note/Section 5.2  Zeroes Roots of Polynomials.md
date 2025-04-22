@@ -181,3 +181,6 @@ Q(x)=x^8−4x^7−18x^6+108x^5−135x^4=      \\
 x^4(x−3)^3(x+5) =   0  \\
 \end{array}
 $$
+
+
+## Fundamental Theorem of Algebra 
