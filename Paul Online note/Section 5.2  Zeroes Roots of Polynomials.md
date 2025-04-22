@@ -164,3 +164,15 @@ P(x)=x^2   - 14x  +  49    =  0    \\
 $$
 In this cases we will have one zero with a multiplicity  of  2 
 
+
+
+
+
+$$
+\begin{array}{l}  \\
+P(x)= 5x^5  - 20x^4  + 5x^3 + 50x^2  - 20x - 40        \\
+= 5(x + 1)^2(x - 2)^3  =   0  \\
+
+\end{array}
+$$
+In this cases we will have one zero with a multiplicity  of  2 
