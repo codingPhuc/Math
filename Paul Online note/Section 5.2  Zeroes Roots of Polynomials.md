@@ -196,3 +196,4 @@ $$
 ## Fundamental Theorem of Algebra 
 if $P(x)$ is a polynomial degree of n then $P(x)$ will have exactly zeroes , some of which may repeat 
 
+This face say that if you list out all the zeroes and listing each one k times where 
