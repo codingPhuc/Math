@@ -326,16 +326,16 @@ so the three zero of the equation $P(x)$ is  x = 8 , x   =   0  , and x = -2
 Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
 
 $$
-P(x)=x^3−7x^2−6x+72P(x)=x3−7x2−6x+72 ; r=4
+P(x)=x^3−7x^2−6x+72 ; r=4
 $$
 $$
--2 \mid 1 \; -6 \; -16 \; 0  
+4 \mid 1 \; -7 \; 6 \; 72  
 $$
 
-| -2  | 1   | -6  | -16 | 0   |
+| 4   | 1   | -7  | 6   | 72  |
 | --- | --- | --- | --- | --- |
-|     |     | -2  | 16  | 0   |
-|     | 1   | -8  | 0   | 0   |
+|     |     |     |     |     |
+|     |     |     |     |     |
 $$
  \begin{array}{l }
 (x  +2 )( x^2 - 8x   )   \\
