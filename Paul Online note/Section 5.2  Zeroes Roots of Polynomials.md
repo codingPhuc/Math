@@ -42,4 +42,5 @@ x  =  7
   \right. \\
 \end{array}
 $$
-So ,  this second degree polynomial has a single zero or root . Also recall that when we first looked at these we called a root like this a double root 
+So ,  this second degree polynomial has a single zero or root . Also recall that when we first looked at these we called a root like this a double root  
+We solve each of these by factoring then  use  the zero factor properties on the factor form .  
