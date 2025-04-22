@@ -145,9 +145,11 @@ $$
 P(x)=x^2+2x−15     =  0    \\
 (x  +  5)(x  - 3 )   =   0  \\
 \left  \{   \\
- x = -5  \\
-x  =
+ \begin{array}{l} 
+x =  - 5  \\
+x   = 3  
+\end{array}
 \right.
 \end{array}
- 
 $$
+
