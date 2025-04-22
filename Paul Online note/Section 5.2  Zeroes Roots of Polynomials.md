@@ -349,3 +349,35 @@ we can then find the zero of the equation here they are :
 $Q(x)  = x^2  -3x^2 -  18      =(x - 6 )(x +  3 )$ 
 so the three zero of the equation $P(x)$ is  x = 6, x   =  -3 , and x = 4 
 
+
+
+
+
+
+
+Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
+
+$$
+P(x)=x^3−7x^2−6x+72 ; r=4
+$$
+$$
+4 \mid 1 \; -7 \; -6 \; 72  
+$$
+
+| 4   | 1   | -7  | -6  | 72  |
+| --- | --- | --- | --- | --- |
+|     |     | 4   | -12 | -72 |
+|     | 1   | -3  | -18 | 0   |
+$$
+ \begin{array}{l }
+(x  -4  )( x^2  -3x^2 -  18   )    \\
+\end{array}
+$$
+so this mean that 
+$$
+Q(x)   =   x^2  -3x^2 -  18   
+$$
+we can then find the zero of the equation here they are : 
+$Q(x)  = x^2  -3x^2 -  18      =(x - 6 )(x +  3 )$ 
+so the three zero of the equation $P(x)$ is  x = 6, x   =  -3 , and x = 4 
+
