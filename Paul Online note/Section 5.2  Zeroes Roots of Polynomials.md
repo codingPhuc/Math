@@ -223,3 +223,4 @@ Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing 
 $$
 \text{ if } P(x) = ( x - r)Q(x) \cap x = t \text{ is a zero of  Q(x) then } x = t \text{ will also be a zero of P(x)} 
 $$
+This fact is eas yengouh to verify directly . First , if $x = t$ is a zero of  $Q(x)$ then we k
