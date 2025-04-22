@@ -265,3 +265,9 @@ $$
 (x  -2 )( x^2 +  4x +  3 )   \\
 \end{array}
 $$
+so this mean that 
+$$
+Q(x)   =  x^2 +  4x + 3   
+$$
+we can then find the zero of the equation here they are : 
+$Q_{9}x $
