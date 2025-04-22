@@ -231,9 +231,11 @@ $$
 P(t )  = ( t  -r) Q(t)  = (t  -r ) 0  = 0  
 $$
 and so $x = t$ is a zero of $P(x)$
+Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
 
 Let  work on an example of how these fact can help us 
 $$
- \begin{array }{;}
-\end{array }
+ \begin{array}{l}
+( x -   2 )( ) \\
+\end{array}
 $$
