@@ -231,23 +231,13 @@ $$
 P(t )  = ( t  -r) Q(t)  = (t  -r ) 0  = 0  
 $$
 and so $x = t$ is a zero of $P(x)$
+Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
 
+Let  work on an example of how these fact can help us Given that x=2 is a zero of $P(x)=x^3+2x^2−5x−6$ find the other two zeroes. we used 
 
 
 
 Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
-
-Let  work on an example of how these fact can help us 
- Given that x=2 is a zero of $P(x)=x^3+2x^2−5x−6$ find the other two zeroes.
- we used 
- 
-Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
-$$
- \begin{array}{l}
-( x -   2 )( ) \\
-\end{array}
-$$
-
 
 $$
 x^3+2x^2−5x−6 \text{ by }x -   2 
@@ -300,6 +290,30 @@ $$
 there are three polynomial zero and one simple zero . a simple zero with x  =1   , x =-1 a multiplicities of 2 ,  x = 4 a multiplicities of 2 and x= -3 a multiplicities of 3 
 
 ## For problems 4 – 6 x=rx=r is a root of the given polynomial. Find the other two roots and write the polynomial in fully factored form.
+
+
+Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
+
 $$
-P(x) = x^3   - 6x^2   - 16x  ; r =  -2 
+x^3+2x^2−5x−6 \text{ by }x -   2 
 $$
+$$
+2 \mid 2 \; 0 \; -3 \; -5 
+$$
+
+| 2   | 1   | 2   | -5  | -6  |
+| --- | --- | --- | --- | --- |
+|     |     | 2   | 8   | 6   |
+|     | 1   | 4   | 3   | 0   |
+$$
+ \begin{array}{l }
+(x  -2 )( x^2 +  4x +  3 )   \\
+\end{array}
+$$
+so this mean that 
+$$
+Q(x)   =  x^2 +  4x + 3   
+$$
+we can then find the zero of the equation here they are : 
+$Q(x)  =x^2  +4x + 3= (x+ 3)(x + 1)$ 
+so the three zero of the equation $P(x)$ is  x = -3 , x   =  -1 , and x = 2 
