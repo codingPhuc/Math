@@ -271,4 +271,4 @@ Q(x)   =  x^2 +  4x + 3
 $$
 we can then find the zero of the equation here they are : 
 $Q(x)  =x^2  +4x + 3= (x+ 3)(x + 1)$ 
-so the three zero of the equation $P(x)$ is  x = -3 , x   =  -1 
+so the three zero of the equation $P(x)$ is  x = -3 , x   =  -1 , and x = 2 

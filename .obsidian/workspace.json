@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
+                "file": "Paul Online note/Section 5.1  Dividing Polynomials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 5.2  Zeroes Roots of Polynomials"
+              "title": "Outline of Section 5.1  Dividing Polynomials"
             }
           }
         ],
@@ -232,11 +232,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53ed797a1cc8a1cb",
+  "active": "08a49e2c33b5ac4c",
   "lastOpenFiles": [
+    "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "Paul Online note/Section 4.7  Symmetry.md",
-    "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/Untitled 1.md",
     "Paul Online note/Untitled 2.md",
     "Paul Online note/Untitled 3.md",
