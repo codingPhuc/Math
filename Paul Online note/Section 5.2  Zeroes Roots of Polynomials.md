@@ -34,6 +34,11 @@ Now , let's find the zeros for $P(x) =x^2 -14x+49$ that will mean solving ,
 $$
 \begin{array}{l}   
 x^2  -  14x   +  49  \\
-\left \\
+\left \{ \\
+ \begin{array}{l}
+(x - 7)^2 =   0   \\
+x  =  7  
+\end{array}
+  \right. \\
 \end{array}
 $$
