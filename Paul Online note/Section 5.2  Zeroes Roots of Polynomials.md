@@ -221,5 +221,5 @@ Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing 
 
 ### fact 2 
 $$
-\text{ if } P(x) = ( x - r)
+\text{ if } P(x) = ( x - r)Q(x) \cap x = t \text{ is a zero of  Q(x) then }  
 $$
