@@ -275,7 +275,10 @@ so the three zero of the equation $P(x)$ is  x = -3 , x   =  -1 , and x = 2
 
 
 
-# #Practice_Exercise 
+# #Practice_Exercise  
+
+## For problems 1 – 3 list all of the zeros of the polynomial and give their multiplicities. 
+
 
 $$
 \begin{array}{l}  \\
@@ -294,4 +297,9 @@ there are two  zero polynomial and  a simple zero . x =3 with multiplicities of 
 $$
 A(x)=x^8+2x^7−29x^6−76x^5+199x^4+722x^3+261x^2−648x−432=(x+1)^2(x−4)^2(x−1)(x+3)^3
 $$
-there are three polynomial zero and one simple zero . a simple zero with x  =1   , x =-1 a multiplicities of 2 ,  x = 4 a multiplicities of 2 and x= -3 a multiplicities of
+there are three polynomial zero and one simple zero . a simple zero with x  =1   , x =-1 a multiplicities of 2 ,  x = 4 a multiplicities of 2 and x= -3 a multiplicities of 3 
+
+## For problems 4 – 6 x=rx=r is a root of the given polynomial. Find the other two roots and write the polynomial in fully factored form.
+$$
+P(x) = x^3   - 6x^2   - 16x  ; r =  -2 
+$$
