@@ -226,4 +226,10 @@ $$
 This fact is eas yengouh to verify directly . First , if $x = t$ is a zero of  $Q(x)$ then we know that  , $$
 Q(t) =  0 
 $$
-since that is  what it means to be zero . SO  , if $x=t$ is to be a zero of $P(x)$ then all we need to do is show that $P(t)=0$ and that is actu
+since that is  what it means to be zero . SO  , if $x=t$ is to be a zero of $P(x)$ then all we need to do is show that $P(t)=0$ and that is actually simple like this 
+$$
+P(t )  = ( t  -r) Q(t)  = (t  -r ) 0  = 0  
+$$
+and so $x = t$ is a zero of $P(x)$
+
+Let  work on an example of
