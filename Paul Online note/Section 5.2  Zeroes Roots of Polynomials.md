@@ -280,6 +280,7 @@ so the three zero of the equation $P(x)$ is  x = -3 , x   =  -1 , and x = 2
 $$
 \begin{array}{l}  \\
 f(x)   = 2x^2  + 13x  -  7    \\
+(2x  - 1) ( x +  7)    \\
 
 \end{array}
 
