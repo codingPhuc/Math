@@ -132,4 +132,4 @@ x =   -4
 
 $$
 Now , we've got some terminology out of the way .  If is a zero of a polynomial and the exponent on the term that produced the root is  k , then we have to say that r has a multiplicity of k  . Zero with a multiplicity of 1 are often called simple zero 
-For example , the polynomial $P(x) =  x^2-10x+25=(x-5)^2$
+For example , the polynomial $P(x) =  x^2-10x+25=(x-5)^2$ will have one zero , x = 5 , and its multiplicity is 2 . In some way we can think of this zero occurring twice in the lists of all zeroes 
