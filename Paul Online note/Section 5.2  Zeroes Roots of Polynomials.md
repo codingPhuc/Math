@@ -205,3 +205,7 @@ This will be a nice fact in a couple of section to find all zero  in a polynomia
 
 Note as well that some of the zero  may be complex . In this section we have worked with polynomial that have real zero , but this theorem does not only apply to real zero but for complex equation 0 value as well . It is completely possible that complex zero will be in the equation as well 
 
+## The Factor Theorem 
+
+For the polynomial $P(x )$ 
+1. if r is a zero of $P(x)$ then 
