@@ -378,6 +378,6 @@ $$
 Q(x)   =   3x^2  -5x  + 2
 $$
 we can then find the zero of the equation here they are : 
-$Q(x)  = 3x^2  -5x  + 2      =(x - 6 )(x +  3 )$ 
+$Q(x)  = 3x^2  -5x  + 2      =(x  -2)(3x +  1 )$ 
 so the three zero of the equation $P(x)$ is  x = 6, x   =  -3 , and x = 4 
 
