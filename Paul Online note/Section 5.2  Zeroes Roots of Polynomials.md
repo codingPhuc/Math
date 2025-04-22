@@ -176,5 +176,8 @@ P(x)= 5x^5  - 20x^4  + 5x^3 + 50x^2  - 20x - 40        \\
 $$
 In this cases we will have two zero , one with a multiplicity of 2 and another with a multiplicity of  3  
 $$
-
+\begin{array}{l}  \\
+Q(x)=x^8−4x^7−18x^6+108x^5−135x^4=      \\
+x^4(x−3)^3(x+5) =   0  \\
+\end{array}
 $$
