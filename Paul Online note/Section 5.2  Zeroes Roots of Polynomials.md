@@ -231,11 +231,30 @@ $$
 P(t )  = ( t  -r) Q(t)  = (t  -r ) 0  = 0  
 $$
 and so $x = t$ is a zero of $P(x)$
+
+
+
+
 Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
 
 Let  work on an example of how these fact can help us 
+ Given that x=2x=2 is a zero of P(x)=x3+2x2−5x−6P(x)=x3+2x2−5x−6 find the other two zeroes.
+ we used 
+ 
+Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
 $$
  \begin{array}{l}
 ( x -   2 )( ) \\
 \end{array}
 $$
+$$
+2x^3  - 3x  - 5 \text{ by } x+ 2 
+$$
+$$
+2 \mid 2 \; 0 \; -3 \; -5 
+$$
+
+| -2  | 0   | -3  | -5  |
+| --- | --- | --- | --- |
+|     | 4   | 8   | -10 |
+| 2   | -4  | 5   | -15 |
