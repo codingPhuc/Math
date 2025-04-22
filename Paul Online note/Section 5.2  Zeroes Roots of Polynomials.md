@@ -307,13 +307,44 @@ $$
 |     | 1   | -8  | 0   | 0   |
 $$
  \begin{array}{l }
-(x  -2 )( x^2 +  4x +  3 )   \\
+(x  +2 )( x^2 - 8x   )   \\
 \end{array}
 $$
 so this mean that 
 $$
-Q(x)   =  x^2 +  4x + 3   
+Q(x)   =  x^2 - 8x  
 $$
 we can then find the zero of the equation here they are : 
-$Q(x)  =x^2  +4x + 3= (x+ 3)(x + 1)$ 
-so the three zero of the equation $P(x)$ is  x = -3 , x   =  -1 , and x = 2 
+$Q(x)  =x^2 - 8x  =(x)(x  - 8)$ 
+so the three zero of the equation $P(x)$ is  x = 8 , x   =   0  , and x = -2 
+
+
+
+
+
+
+Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
+
+$$
+P(x)=x^3−7x^2−6x+72P(x)=x3−7x2−6x+72 ; r=4
+$$
+$$
+-2 \mid 1 \; -6 \; -16 \; 0  
+$$
+
+| -2  | 1   | -6  | -16 | 0   |
+| --- | --- | --- | --- | --- |
+|     |     | -2  | 16  | 0   |
+|     | 1   | -8  | 0   | 0   |
+$$
+ \begin{array}{l }
+(x  +2 )( x^2 - 8x   )   \\
+\end{array}
+$$
+so this mean that 
+$$
+Q(x)   =  x^2 - 8x  
+$$
+we can then find the zero of the equation here they are : 
+$Q(x)  =x^2 - 8x  =(x)(x  - 8)$ 
+so the three zero of the equation $P(x)$ is  x = 8 , x   =   0  , and x = -2 
