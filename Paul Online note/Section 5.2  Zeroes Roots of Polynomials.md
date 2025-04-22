@@ -51,11 +51,23 @@ $$
 P(x)=5x^5−20x^4+5x^3+50x^2−20x−40=5(x+1)^2(x−2)^3
 $$
 $$
+\begin{array}{l} \\
 \left\{  \\
  \begin{array}{l} 
-5(x + 1)^2  =  0  \\
-(x - 2)
-\end{array}
+(x + 1)^2  =  0  \\
+(x - 2)^2  =   0  
+\end{array} 
+
  \right.
+ \\
+\left\{  \\
+ \begin{array}{l} 
+x  = -1  \\
+(x - 2)^2  =   0  
+\end{array} 
+
+ \right.
+
+\end{array}
 
 $$
