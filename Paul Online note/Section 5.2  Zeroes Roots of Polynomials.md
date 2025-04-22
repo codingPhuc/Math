@@ -21,9 +21,11 @@ x^2 + 2x  - 15   = 0 \\
 (x + 5) (x - 3 )   = 0  \\
 \left\{  \\
  \begin{array}{l} 
- \\
+x=  -5   \\
+x =  3 \\
 \end{array}
  \right.
 \end{array}
 
 $$
+So , 
