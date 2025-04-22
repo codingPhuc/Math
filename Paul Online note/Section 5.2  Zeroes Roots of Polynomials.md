@@ -131,3 +131,4 @@ x =   -4
 \end{array}
 
 $$
+Now , we've got some terminology out of the way .  If is a zero of a polynomial and the exponent on the term that produced the root is  k , then we have to s
