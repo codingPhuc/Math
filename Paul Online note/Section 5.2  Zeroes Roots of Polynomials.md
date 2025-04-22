@@ -217,4 +217,9 @@ The factor theorem  lead to the following fact :
 if $P(x)$ is a polynomial of degree n and r is zero of P(x) then P(x) can be written in the following term $$
 P(x)  = (x - r)Q(x )
 $$
-Where  
+Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
+
+### fact 2 
+$$
+\text{ if } P(x) = ( x - r)
+$$
