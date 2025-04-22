@@ -232,4 +232,8 @@ P(t )  = ( t  -r) Q(t)  = (t  -r ) 0  = 0
 $$
 and so $x = t$ is a zero of $P(x)$
 
-Let  work on an example of
+Let  work on an example of how these fact can help us 
+$$
+ \begin{array }{;}
+\end{array }
+$$
