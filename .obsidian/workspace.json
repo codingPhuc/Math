@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 5.1  Dividing Polynomials.md",
+                "file": "Paul Online note/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 5.1  Dividing Polynomials"
+              "title": "Untitled"
             }
           }
         ],
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 5.1  Dividing Polynomials.md",
+                "file": "Paul Online note/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 5.1  Dividing Polynomials"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -228,21 +228,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "53ed797a1cc8a1cb",
   "lastOpenFiles": [
+    "Paul Online note/Untitled 1.md",
+    "Paul Online note/Untitled 2.md",
+    "Paul Online note/Untitled.md",
+    "Paul Online note/Untitled 3.md",
+    "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "picture/Pasted image 20250210124149.png",
     "picture/Pasted image 20250417210559.png",
     "picture/Pasted image 20250417210346.png",
     "picture",
     "Triangle.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
-    "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "picture/Pasted image 20250417203642.png",
     "picture/Pasted image 20250417203328.png",
-    "Paul Online note/Untitled.md",
     "calculus book.md",
     "book/Precalculus Stewart 7th Edition.pdf",
     "book/Precalculus Stewart 7th Edition.pdf.crdownload",
@@ -262,7 +266,6 @@
     "picture/Pasted image 20250414173933.png",
     "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 4.5  Miscellaneous Functions.md",
-    "Paul Online note/Untitled 2.md",
     "templates/adjunction.md",
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/Section 3.3  Circles.md",
@@ -272,7 +275,6 @@
     "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 3.4  The Definition of a Function.md",
     "Paul Online note/Section 3.2  Lines.md",
-    "Paul Online note/Section 4.2  Parabolas.md",
     "picture/Pasted image 20250409113453.png",
     "Professor Leonard",
     "Paul Online note",
