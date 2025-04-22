@@ -346,5 +346,6 @@ $$
 Q(x)   =   x^2  -3x^2 -  18   
 $$
 we can then find the zero of the equation here they are : 
-$Q(x)  =x^2 - 8x  =(x)(x  - 8)$ 
-so the three zero of the equation $P(x)$ is  x = 8 , x   =   0  , and x = -2 
+$Q(x)  = x^2  -3x^2 -  18      =(x - 6 )(x +  3 )$ 
+so the three zero of the equation $P(x)$ is  x = 6, x   =  -3 , and x = 4 
+
