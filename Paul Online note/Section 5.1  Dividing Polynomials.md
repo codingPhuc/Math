@@ -76,8 +76,9 @@ $$
 | 2   | -4  | 5   | -15 |
 
 $$
-(2x^2  -  4x^2  +  5x)(x  +  2) -  15 
+(2x^2  -  4x +  5)(x  +  2) -  15 
 $$
+
 $$
 4x^4   - 10x^2 + 1  \text{ by } x - 6
 $$
@@ -90,7 +91,7 @@ $$
 |     |     | 24  | 144 | 804 | 4824 |
 |     | 4   | 24  | 134 | 804 | 4825 |
 $$
-(4x^4  +  24x^3  - 10x^2 +  804x )(x  -  6) +  4825 
+(4x^3  +  24x^2  - 10x +  804 )(x  -  6) +  4825 
 $$
 
 why are we diving our function like this , the answer will be that in a later section ,we want to get our hand on the $Q(x)$ 
