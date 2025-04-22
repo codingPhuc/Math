@@ -295,16 +295,16 @@ there are three polynomial zero and one simple zero . a simple zero with x  =1  
 Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
 
 $$
-x^3+2x^2−5x−6 \text{ by }x -   2 
+P(x) = x^3   - 6x^2   - 16x  ; r =  -2 
 $$
 $$
-2 \mid 2 \; 0 \; -3 \; -5 
+-2 \mid 1 \; -6 \; -16 \; 0  
 $$
 
-| 2   | 1   | 2   | -5  | -6  |
+| -2  | 1   | -6  | -16 | 0   |
 | --- | --- | --- | --- | --- |
-|     |     | 2   | 8   | 6   |
-|     | 1   | 4   | 3   | 0   |
+|     |     | -2  | 16  | 0   |
+|     | 1   | -8  | 0   | 0   |
 $$
  \begin{array}{l }
 (x  -2 )( x^2 +  4x +  3 )   \\
