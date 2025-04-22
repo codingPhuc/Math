@@ -343,7 +343,7 @@ $$
 $$
 so this mean that 
 $$
-Q(x)   =   x^2  -3x^2 -  18   
+Q(x)   =   x^2  -3x -  18   
 $$
 we can then find the zero of the equation here they are : 
 $Q(x)  = x^2  -3x^2 -  18      =(x - 6 )(x +  3 )$ 
@@ -367,17 +367,17 @@ $$
 | -7  | 3   | 16  | -33 | 14  |
 | --- | --- | --- | --- | --- |
 |     |     | -21 | 35  | -14 |
-|     | 3   | -5  | 2   |     |
+|     | 3   | -5  | 2   | 0   |
 $$
  \begin{array}{l }
-(x  -4  )( x^2  -3x^2 -  18   )    \\
+(x   +   7  )( 3x^2  -5x  + 2    )    \\
 \end{array}
 $$
 so this mean that 
 $$
-Q(x)   =   x^2  -3x^2 -  18   
+Q(x)   =   3x^2  -5x  + 2
 $$
 we can then find the zero of the equation here they are : 
-$Q(x)  = x^2  -3x^2 -  18      =(x - 6 )(x +  3 )$ 
+$Q(x)  = 3x^2  -5x  + 2      =(x - 6 )(x +  3 )$ 
 so the three zero of the equation $P(x)$ is  x = 6, x   =  -3 , and x = 4 
 
