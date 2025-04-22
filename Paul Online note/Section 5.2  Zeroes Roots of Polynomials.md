@@ -238,7 +238,7 @@ and so $x = t$ is a zero of $P(x)$
 Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
 
 Let  work on an example of how these fact can help us 
- Given that x=2x=2 is a zero of P(x)=x3+2x2−5x−6P(x)=x3+2x2−5x−6 find the other two zeroes.
+ Given that x=2 is a zero of $P(x)=x^3+2x^2−5x−6$ find the other two zeroes.
  we used 
  
 Where  $Q(x)$ is a polynomial with degree n -1 . Q(x) can be found  by dividing P(x) by $x-r$
