@@ -32,5 +32,8 @@ So , this second degree have two zero roots  .
 
 Now , let's find the zeros for $P(x) =x^2 -14x+49$ that will mean solving , 
 $$
-
+\begin{array}{l}   
+x^2  -  14x   +  49  \\
+\left \\
+\end{array}
 $$
