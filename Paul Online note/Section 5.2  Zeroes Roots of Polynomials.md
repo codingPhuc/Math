@@ -184,9 +184,16 @@ $$
 In this case we will have three zero  ,one with a multiplicity of 4 , one with multiplicity of 3 and one simple zero 
 
 
+$$
 
+
+\begin{array}{l}  \\
+R(x)=x^7+10x^6+27x^5−57x^3−30x^2+29x+20   \\
+=(x+1)^3(x−1)^2(x+5)(x+4)
+\end{array}
+$$
+In this case we will have four
 
 ## Fundamental Theorem of Algebra 
 
-$$
-$$
+$
