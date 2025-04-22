@@ -198,3 +198,7 @@ if $P(x)$ is a polynomial degree of n then $P(x)$ will have exactly zeroes , som
 
 This face say that if you list out all the zeroes and listing each one k times where k is it multiplicity you will have exactly n number in the list . Another way of saying this is that the multiplicity of all the zero will add back into the degree of the polynomial 
 
+
+We can go  back to the pervious example and verify that this fact is true for the polynomials listed there 
+
+This will be a nice fact in a couple of sectio 
