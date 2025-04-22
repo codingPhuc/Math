@@ -192,8 +192,8 @@ R(x)=x^7+10x^6+27x^5−57x^3−30x^2+29x+20   \\
 =(x+1)^3(x−1)^2(x+5)(x+4)
 \end{array}
 $$
-In this case we will have four
-
+ In the final case we’ve got four zeroes. x=−5 which is simple, x=−1 with multiplicity of 3, x=1with multiplicity 2 and x=−4 which is simple.
 ## Fundamental Theorem of Algebra 
 
-$
+$$
+$$
