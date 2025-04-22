@@ -141,5 +141,9 @@ Written this way the term $x-5$ show up twice and each term gives the same zero 
 ##  List the multiplicities of zeroes of each fo the following polynomials  
 
 $$
+\begin{array}{l}  \\
+P(x)=x^2+2x−15     =  0    \\
+(x  )
+\end{array}
  
 $$
