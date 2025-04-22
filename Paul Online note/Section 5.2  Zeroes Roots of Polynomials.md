@@ -181,6 +181,12 @@ Q(x)=x^8−4x^7−18x^6+108x^5−135x^4=      \\
 x^4(x−3)^3(x+5) =   0  \\
 \end{array}
 $$
+In this case we will have three zero  ,one with a multiplicity of 4 , one with multiplicity of 3 and one simple zero 
+
+
 
 
 ## Fundamental Theorem of Algebra 
+
+$$
+$$
