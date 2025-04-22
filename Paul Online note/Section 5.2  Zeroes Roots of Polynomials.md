@@ -211,4 +211,7 @@ For the polynomial $P(x )$
 1. if r is a zero of $P(x)$ then (x- r) will be a factor of $P(x)$ 
 2. if (x- r) is a factor of $P(x)$  then r is a zero of $P(x)$  
 
-The factor theorem  lead to the following fact 
+The factor theorem  lead to the following fact : 
+
+### fact 1  
+if $P(x)$ is a polynomial of degree n and r is zero of P(x) then 
