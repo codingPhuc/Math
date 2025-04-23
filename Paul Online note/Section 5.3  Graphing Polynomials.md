@@ -186,3 +186,9 @@ if $a<0$ and  n is even then the graph of$P(x)$ will decrease without bound at b
 
 We should give a quick warning about this process , this process assume that all zero are real zero before operating 
 
+
+
+Example 1 : 
+
+Sketch the graphs of  $P(x) =5x^5-20x^4+5x^3 +50x^2-20x-40$
+0
