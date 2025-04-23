@@ -200,8 +200,7 @@ x = 2     \text{ multplicity of 3}
 $$
 
  if k  is an odd number then the x = r will cross the x axis  
-
-
+we know that since the multiplicity of 2 is odd then 2 will cross the x axis 
  if k is and even number then the x =  r will only touch the x-axis and not actually cross it 
 
 
