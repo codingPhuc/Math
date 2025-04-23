@@ -189,7 +189,7 @@ We should give a quick warning about this process , this process assume that all
 
 
 Example 1 : 
-
+1. Determine all the zeroes of the polynomial and their multiplicity . Use the fact above to determine the x-intercept that correspond  to each zero will cross the x-axis or just touch it or if the x intercept will flatten out or not 
 Sketch the graphs of  $P(x) =5x^5-20x^4+5x^3 +50x^2-20x-40=5(x + 1)^2 (x- 2)^3$
 we found out the zero point and the multiplicity of the equation in the previous example so we will just write them out again 
 $$
@@ -206,7 +206,8 @@ we know that since the multiplicity of x =  -1  is odd then x =  -1 will touch t
 since both are larger then>1  we concluded that it would be flatten 
 2. Determine  the y-intercept $(0, P(0))$ 
 The y-intercept of the coefficient is (0 , -40 )
-3. Use the leading coefficient test to determine the behavior of the polynomial at the end of the graph 
+3. Use the leading coefficient test to determine the behavior of the polynomial at the end of the graph  
+since the coefficient of the 5th term  is positive and the exponent is odd we can concluded that the term is positive 
 
 
 ```tikz
