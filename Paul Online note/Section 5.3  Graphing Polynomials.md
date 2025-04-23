@@ -203,7 +203,7 @@ $$
 we know that since the multiplicity of x = 2 is odd then x = 2  will cross the x axis 
  if k is and even number then the x =  r will only touch the x-axis and not actually cross it 
 we know that since the multiplicity of x =  -1  is odd then x =  -1 will touch the x axis 
-since both are larger then>1  we concluded that it would be flatern 
+since both are larger then>1  we concluded that it would be flatten   
 
 
 
