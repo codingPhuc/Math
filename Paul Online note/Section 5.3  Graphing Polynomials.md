@@ -422,11 +422,11 @@ $$
 
  if k  is an odd number then the x = r will cross the x axis   :  
 we know that since the multiplicity of x = 0  is odd then x =  0    will cross the x axis  
-we know that since the multiplicity of x = -2 is odd then x = -2   will cross the x axis 
-we know that since the multiplicity of x = 2 is odd then x = 2   will cross the x axis 
+we know that since the multiplicity of x = -4 is odd then x = -4   will cross the x axis 
+we know that since the multiplicity of x = 6 is odd then x = 6   will cross the x axis 
  if k is and even number then the x =  r will only touch the x-axis and not actually cross it : 
 
-since only  x =  0  are larger then>1  then x  =  0 will will be flat   , x = -2  and  x  =  3 on the other hand will not be flatten  
+x   = 6  ,  x = -4  and  x  =  0  on the other hand will not be flatten  
 
 2. Determine  the y-intercept $(0, P(0))$ 
 The y-intercept of the coefficient is (0 , 0)
