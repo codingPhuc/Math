@@ -431,7 +431,7 @@ x   = 6  ,  x = -4  and  x  =  0  on the other hand will not be flatten
 2. Determine  the y-intercept $(0, P(0))$ 
 The y-intercept of the coefficient is (0 , 0)
 3. Use the leading coefficient test to determine the behavior of the polynomial at the end of the graph  
-since the coefficient of the 5th term  is negative  and the exponent is odd we can concluded that the graph will increase  without bound from the left  and decrease without bound in the right 
+since the coefficient of the 3th term  is negative  and the exponent is odd we can concluded that the graph will increase  without bound from the left  and decrease without bound in the right 
 4.  Plot a few more points. This is left intentionally vague. The more points that you plot the better the sketch. At the least you should plot at least one at either end of the graph and at least one point between each pair of zeroes. 
 $$
 f(-1) = -(-1)^3(-1  + 2)(-1  - 2 )  =   3  
