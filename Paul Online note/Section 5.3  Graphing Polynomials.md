@@ -47,5 +47,5 @@ P(x)   = ax^n + \dots
 $$
 We don't know if there are any other term in the polynomial , but  we do know that the first term will have to be one listed since it has degree n. We now have the following facts about the  graphs of  $P(x)$  at the ends of the graph 
 
-1. 
+1. if a> 0 and n  is even then the grap
   
