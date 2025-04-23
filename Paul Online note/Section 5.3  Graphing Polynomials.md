@@ -324,8 +324,6 @@ $$
 \draw[thick, blue, domain-3:3, smooth] plot (\x, {(\x)^2*(\x - 3)*(\x +2)});
 
     % Draw the parabola
- 
- 
 \end{tikzpicture}
 \end{document}
 
