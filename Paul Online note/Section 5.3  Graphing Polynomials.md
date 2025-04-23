@@ -265,8 +265,8 @@ Sketch the graphs of  $P(x) =x^4   -x^3 - 6x^2=x^2(x^2 - x-6 )$
 we found out the zero point and the multiplicity of the equation in the previous example so we will just write them out again 
 $$
  \begin{array}{l}  \\
-x =  -1  \text{ multplicity of 2} \\
-x = 2     \text{ multplicity of 3} 
+x =  0   \text{ multplicity of 2} \\
+x =     \text{ multplicity of 3} 
 \end{array}
 $$
 
