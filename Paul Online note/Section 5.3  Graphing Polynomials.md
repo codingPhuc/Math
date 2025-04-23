@@ -41,4 +41,4 @@ Furthermore  , if k > 1 then the graph will flatten out at $x=r$
 
 Finally notice that we let x get large in both the positive and negative sense (ie . at either end of the graph ) it will increase or decrease without bound . This will happen with every polynomial and we will used the following test to determine the endpoints of the graphs 
 ## Leading Coefficient  Test 
-
+Suppose teh  $$
