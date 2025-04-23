@@ -207,7 +207,9 @@ since both are larger then>1  we concluded that it would be flatten
 2. Determine  the y-intercept $(0, P(0))$ 
 The y-intercept of the coefficient is (0 , -40 )
 3. Use the leading coefficient test to determine the behavior of the polynomial at the end of the graph  
-since the coefficient of the 5th term  is positive and the exponent is odd we can concluded that the term is positive 
+since the coefficient of the 5th term  is positive and the exponent is odd we can concluded that the graph will decrease without bound to  the left , and increase without bound to the right  
+
+
 
 
 ```tikz
