@@ -17,3 +17,4 @@ Do not worry  about these polynomial we are giving these so that we can have the
 First notice how all the hole are nice and smooth . There are no hole in the gap not break in the gap it is always nice an smooth 
 
 Secondly  ,the hole  where the gap turn from increasing to decrease and vice versal are called turning point . For a graph with degree n it will have (n-1) turning point 
+
