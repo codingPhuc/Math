@@ -45,5 +45,5 @@ Suppose the  $P(x)$ is polynomial  with degree n . So we know that the polynomia
 $$
 P(x)   = ax^n + \dots 
 $$
-We don't know if there are any 
+We don't know if there are any other term in the polynomial , but  we do know that the first term will have to be one listed since it has 
   
