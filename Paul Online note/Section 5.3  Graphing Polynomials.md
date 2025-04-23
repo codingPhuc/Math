@@ -469,7 +469,7 @@ $$
 
     % Text annotations  
     \fill (-3,2) circle (2pt) node[above right] {$(0,3) $};
-\draw[thick, blue, domain=-1:, smooth] plot (\x, {\x*(\x+4)*(\x-6)});
+\draw[thick, blue, domain=-1:6, smooth] plot (\x, {\x*(\x+4)*(\x-6)});
 
     % Draw the parabola
 \end{tikzpicture}
