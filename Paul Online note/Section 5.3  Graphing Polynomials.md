@@ -39,4 +39,6 @@ Notice as well that the x-intercept can either flatten out as they cross the x-a
 	2. if k is and even number then the x =  r will only touch the x-axis and not actually cross it 
 Furthermore  , if k > 1 then the graph will flatten out at $x=r$ 
 
-Finally notice that we let x get large in both the positive and negative sense (ie . at either end of the graph ) it will increase or decrease without bound . This will happen with every polynomial and we will used the 
+Finally notice that we let x get large in both the positive and negative sense (ie . at either end of the graph ) it will increase or decrease without bound . This will happen with every polynomial and we will used the following test to determine the endpoints of the graphs 
+## Leading Coefficient  Test 
+
