@@ -408,8 +408,7 @@ $$
 
 $$
 \begin{array}{l} \\
- 
-x^3 -  2x^2 - 24x     =   \\
+ f(x)  =  x^3 -  2x^2 - 24x       \\
 
 \end{array}
 $$
