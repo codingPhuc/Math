@@ -24,3 +24,4 @@ Next we need to connect the relationship between the x intercept and the zero po
 $$
 P(x)  = 0 
 $$
+Also recall , that x = r is a zero of the polynomial 
