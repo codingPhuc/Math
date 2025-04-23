@@ -276,7 +276,7 @@ we know that since the multiplicity of x = 3 is odd then x = 3   will cross the 
 we know that since the multiplicity of x = -2 is odd then x = -2   will cross the x axis 
  if k is and even number then the x =  r will only touch the x-axis and not actually cross it : 
 we know that since the multiplicity of x =  0   is odd then x =  0 will touch the x axis 
-since only  x =  0  are larger then>1  then x  =  0 will will be flat   , x
+since only  x =  0  are larger then>1  then x  =  0 will will be flat   , x = -2 on the other hand will not be flatten
 2. Determine  the y-intercept $(0, P(0))$ 
 The y-intercept of the coefficient is (0 , -40 )
 3. Use the leading coefficient test to determine the behavior of the polynomial at the end of the graph  
