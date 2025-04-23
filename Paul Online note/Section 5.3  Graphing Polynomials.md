@@ -114,4 +114,4 @@ We don't know if there are any other term in the polynomial , but  we do know th
 ``` 
 
 
-if $a<0$ and  n 
+if $a<0$ and  n is even then the graph of$P(x)$ will decrease without bound at both endpoints . A good example of this is graphs of $x^2$
