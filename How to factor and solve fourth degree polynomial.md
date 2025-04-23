@@ -16,7 +16,7 @@ $$
 \text{ subtitude } x^2 \text{ to u }  \\
 t^2   - 5t + 4   \\
 (t-4)(t -1)  \\
-(x^2  -4)( x  - 1) \\
- 
+(x^2  -4)( x^2  - 1)  \\
+(x  - 2)( x  + 2)(x  - 1)(x+ 1) \\
 \end{array} 
-$$
+$$thus our solution set is  
