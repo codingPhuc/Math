@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 2.2 Linear Equations.md",
+                "file": "Paul Online note/Section 5.3  Graphing Polynomials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 2.2 Linear Equations"
+              "title": "Section 5.3  Graphing Polynomials"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 2.2 Linear Equations.md",
+                "file": "Paul Online note/Section 5.3  Graphing Polynomials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 2.2 Linear Equations"
+              "title": "Outline of Section 5.3  Graphing Polynomials"
             }
           }
         ],
@@ -233,13 +233,14 @@
   },
   "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "Paul Online note/Section 2.2 Linear Equations.md",
     "mathwiki/README.md",
     "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "Paul Online note/Section 4.5  Miscellaneous Functions.md",
     "Paul Online note/Section 4.7  Symmetry.md",
-    "Paul Online note/Untitled 1.md",
+    "Paul Online note/Section 5.3  Graphing Polynomials.md",
     "Paul Online note/Untitled 2.md",
     "Paul Online note/Untitled 3.md",
     "picture/Pasted image 20250210124149.png",
@@ -273,7 +274,6 @@
     "independent version",
     "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
     "Paul Online note/Section 3.5  Graphing Functions.md",
-    "Paul Online note/Section 3.4  The Definition of a Function.md",
     "picture/Pasted image 20250409113453.png",
     "Professor Leonard",
     "Paul Online note",
