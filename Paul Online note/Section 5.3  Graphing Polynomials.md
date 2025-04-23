@@ -193,9 +193,12 @@ Example 1 :
 Sketch the graphs of  $P(x) =5x^5-20x^4+5x^3 +50x^2-20x-40=5(x + 1)^2 (x- 2)^3$
 we found out the zero point and the multiplicity of the equation in the previous example so we will just write them out again 
 $$
- \begin{array}
+ \begin{array}{l}  \\
+x =  -1  \text{ multplicity of 2} \\
+x = 2     \text{ multplicity of 3} 
 \end{array}
 $$
+
 
 
 
