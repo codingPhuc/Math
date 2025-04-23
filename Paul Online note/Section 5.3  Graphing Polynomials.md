@@ -438,10 +438,10 @@ The y-intercept of the coefficient is (0 , 0)
 since the coefficient of the 3th term  is positive  and the exponent is odd we can concluded that the graph will decrease   without bound from the left  and increase  without bound in the right 
 4.  Plot a few more points. This is left intentionally vague. The more points that you plot the better the sketch. At the least you should plot at least one at either end of the graph and at least one point between each pair of zeroes. 
 $$
-G(-2)   =  -2^3  - 2(-2)^2  - 24\cdot  =   3  
+G(-2)   =  -2^3  - 2(-2)^2  - 24\cdot  -2   =   32  
 $$
 $$
-G(x)   =  x^3  - 2x^2  - 24x   =    3  
+G(-6)   =  -6^3  - 2(-6)^2  - 24\cdot -6    =    3  
 $$
 $$
 G(x)   =  x^3  - 2x^2  - 24x  =  -135     
