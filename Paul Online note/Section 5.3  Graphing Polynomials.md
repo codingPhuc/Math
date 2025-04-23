@@ -193,6 +193,7 @@ Example 1 :
 Sketch the graphs of  $P(x) =5x^5-20x^4+5x^3 +50x^2-20x-40$
 
 
+
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
