@@ -643,11 +643,11 @@ The y-intercept of the coefficient is (0 , 0)
 since the coefficient of the 4th term  is positive    and the exponent is even  we can concluded that the graph will increase     without bound from the left  and right 
 4.  Plot a few more points. This is left intentionally vague. The more points that you plot the better the sketch. At the least you should plot at least one at either end of the graph and at least one point between each pair of zeroes. 
 $$
-G(-5)   =(-5 −2)^2(-5+1)(-5+4) =    56 
+G(-3)   =(-3)^2(-3 + 2)^2(-3 - 4) =    -63 
 $$
 
 $$
-G(-3)   =  (-3−2)^2(-3+1)(-3+4) =   50        
+G(-3)   = x^2(x + 2)^2(x - 4) =   50        
 $$
 
 
