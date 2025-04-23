@@ -12,3 +12,6 @@ In this section we either be given a list of zero or they will be easy to find .
 ![[Pasted image 20250423084429.png]] 
 
 
+
+Do not worry  about these polynomial we are giving these so that we can have the basic idea of the polynomial . 
+First notice how all the
