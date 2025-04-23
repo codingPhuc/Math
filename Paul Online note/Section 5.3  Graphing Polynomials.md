@@ -625,17 +625,17 @@ Sketch the graphs of  $G(x)   = x^5  - 12x^3-16x^2 = x^2(x + 2)^2(x - 4)$
 we found out the zero point and the multiplicity of the equation in the previous example so we will just write them out again 
 $$
  \begin{array}{l}  \\
-x =  2    \text{   multiplicity  of  2   } \\
-x =  -1   \text{ simple zero }   \\
-x =  -4   \text{ simple zero }   \\
+x =   0   \text{   multiplicity  of  2   } \\
+x =  -2   \text{ multiplicity  of  2  }   \\
+x =  4   \text{ simple zero }   \\
 \end{array}
 $$
 
  if k  is an odd number then the x = r will cross the x axis   :  
-we know that since the multiplicity of x = -1  is odd then x =  -1     will cross the x axis  
 we know that since the multiplicity of x = -4 is odd then x =  -4      will cross the x axis  
  if k is and even number then the x =  r will only touch the x-axis and not actually cross it : 
 we know that since the multiplicity of x =  2  is even  then x =  2   will touch the x axis 
+we know that since the multiplicity of x = 0  is odd then x =   0      will cross the x axis  
 since  x  = 2  have a multiplicity that is lager then   x  =2 is be flatten ,   x   = -1 and x = -4  on the other hand will not be flatten  
 2. Determine  the y-intercept $(0, P(0))$ 
 The y-intercept of the coefficient is (0 , 16 )
