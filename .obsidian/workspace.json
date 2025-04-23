@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 5.1  Dividing Polynomials.md",
+                "file": "Paul Online note/Section 3.6  Combining Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 5.1  Dividing Polynomials"
+              "title": "Section 3.6  Combining Functions"
             }
           }
         ]
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 5.3  Graphing Polynomials.md",
+                "file": "Paul Online note/Section 3.6  Combining Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 5.3  Graphing Polynomials"
+              "title": "Outline of Section 3.6  Combining Functions"
             }
           }
         ],
@@ -231,16 +231,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "08a49e2c33b5ac4c",
   "lastOpenFiles": [
+    "Paul Online note/Section 3.5  Graphing Functions.md",
+    "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
+    "Paul Online note/Section 2.11  Linear Inequalities.md",
+    "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
+    "Paul Online note/Section 2.13  Rational Inequalities.md",
+    "Paul Online note/Section 5.1  Dividing Polynomials.md",
+    "Paul Online note/Section 5.3  Graphing Polynomials.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
     "mathwiki/README.md",
     "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
-    "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "Paul Online note/Section 4.5  Miscellaneous Functions.md",
     "Paul Online note/Section 4.7  Symmetry.md",
-    "Paul Online note/Section 5.3  Graphing Polynomials.md",
     "Paul Online note/Untitled 2.md",
     "Paul Online note/Untitled 3.md",
     "picture/Pasted image 20250210124149.png",
@@ -261,7 +266,6 @@
     "picture/Pasted image 20250409112615.png",
     "picture/Pasted image 20250409113454.png",
     "Paul Online note/Solutions and Solution Sets.md",
-    "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
     "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
     "independent version/Untitled.md",
     "Paul Online note/Section 4.4 Hyperbolas.md",
@@ -269,11 +273,7 @@
     "Paul Online note/Section 4.6  Transformations.md",
     "templates/adjunction.md",
     "Paul Online note/Section 2.14 Absolute Value Equations.md",
-    "Paul Online note/Section 3.3  Circles.md",
-    "Professor Leonard/Untitled.md",
     "independent version",
-    "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
-    "Paul Online note/Section 3.5  Graphing Functions.md",
     "picture/Pasted image 20250409113453.png",
     "Professor Leonard",
     "Paul Online note",
