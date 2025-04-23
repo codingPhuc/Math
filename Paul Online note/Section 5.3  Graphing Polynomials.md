@@ -28,3 +28,4 @@ Also recall , that x = r is a zero of the polynomial , $P(x)$ , provided that $P
 
 
 
+In other word zero  of the polynomial also is the x intercep
