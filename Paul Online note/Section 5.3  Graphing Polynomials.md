@@ -176,4 +176,4 @@ if $a<0$ and  n is even then the graph of$P(x)$ will decrease without bound at b
 \end{document}
 ``` 
 
-## process for grao
+## process for graphing a polynomial 
