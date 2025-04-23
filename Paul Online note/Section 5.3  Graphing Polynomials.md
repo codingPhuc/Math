@@ -395,7 +395,7 @@ $$
 
     % Text annotations  
     \fill (-3,2) circle (2pt) node[above right] {$(0,3) $};
-\draw[thick, blue, domain=-2:3, smooth] plot (\x, {-(\x)^3*(\x  + 2)*(\x  - 2 )});
+\draw[thick, blue, domain=-2:2, smooth] plot (\x, {-(\x)^3*(\x  + 2)*(\x  - 2 )});
 
     % Draw the parabola
 \end{tikzpicture}
@@ -406,3 +406,7 @@ $$
 
 
 
+$$
+\begin{array}
+\end{array }
+$$
