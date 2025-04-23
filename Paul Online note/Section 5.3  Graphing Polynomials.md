@@ -18,4 +18,6 @@ First notice how all the hole are nice and smooth . There are no hole in the gap
 
 Secondly  ,the hole  where the gap turn from increasing to decrease and vice versal are called turning point . For a graph with degree n it will have (n-1) turning point 
 
-While this won't help must in graphing  , it will help in detecting error in our graph . For example if we have fourth degree polynomial with 5 
+While this won't help must in graphing  , it will help in detecting error in our graph . For example if we have fourth degree polynomial with 5 turning point we will quickly spot the error 
+
+Next we need to conn
