@@ -28,5 +28,6 @@ Also recall , that x = r is a zero of the polynomial , $P(x)$ , provided that $P
 
 
 
-In other word zero  of the polynomial also is the x intercept of the graph . Recall  , that the x intercept will either cross the graph or touch the x-axist without crossing it 
+In other word zero  of the polynomial also is the x intercept of the graph . Recall  , that the x intercept will either cross the graph or touch the x-axist without crossing the axis 
 
+Notice as well that the x-intercept can either flatten out as they cross the x-axis or they can go through the x axis at that an
