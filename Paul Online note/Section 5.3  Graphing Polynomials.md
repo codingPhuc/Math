@@ -602,7 +602,7 @@ $$
 
     % Text annotations  
     \fill (-3,2) circle (2pt) node[above right] {$(0,3) $};
-\draw[thick, blue, domain=-2:3, smooth] plot (\x, {(\x−2)^2*(\x+1)*(\x+4)});
+\draw[thick, blue, domain=-2:3, smooth] plot (\x, {(\x−2)^2(\x+1)*(\x+4)});
 
     % Draw the parabola
 \end{tikzpicture}
