@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathwiki/README.md",
+                "file": "Paul Online note/Section 2.2 Linear Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Section 2.2 Linear Equations"
             }
           },
           {
@@ -134,8 +134,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mathwiki/README.md",
+                "file": "Paul Online note/Section 2.2 Linear Equations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Section 2.2 Linear Equations"
             }
           }
         ],
@@ -234,6 +233,7 @@
   },
   "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "mathwiki/README.md",
     "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
@@ -274,7 +274,6 @@
     "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
     "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 3.4  The Definition of a Function.md",
-    "Paul Online note/Section 3.2  Lines.md",
     "picture/Pasted image 20250409113453.png",
     "Professor Leonard",
     "Paul Online note",
