@@ -179,4 +179,5 @@ if $a<0$ and  n is even then the graph of$P(x)$ will decrease without bound at b
 ## process for graphing a polynomial 
 1. Determine all the zeroes of the polynomial and their multiplicity . Use the fact above to determine the x-intercept that correspond  to each zero will cross the x-axis or just touch it or if the x intercept will flatten out or not 
 2. Determine  the y-intercept $(0, P(0))$ 
-3. 
+3. Use the leading coefficient test to determine the behavior of the polynomial at the end of the graph 
+4. 
