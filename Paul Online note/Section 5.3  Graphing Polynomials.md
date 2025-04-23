@@ -180,4 +180,8 @@ if $a<0$ and  n is even then the graph of$P(x)$ will decrease without bound at b
 1. Determine all the zeroes of the polynomial and their multiplicity . Use the fact above to determine the x-intercept that correspond  to each zero will cross the x-axis or just touch it or if the x intercept will flatten out or not 
 2. Determine  the y-intercept $(0, P(0))$ 
 3. Use the leading coefficient test to determine the behavior of the polynomial at the end of the graph 
-4. 
+4. 1. Plot a few more points. This is left intentionally vague. The more points that you plot the better the sketch. At the least you should plot at least one at either end of the graph and at least one point between each pair of zeroes. 
+
+
+
+We should give a quick warning about this process , this process assume that all z
