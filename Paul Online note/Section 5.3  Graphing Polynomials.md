@@ -177,3 +177,4 @@ if $a<0$ and  n is even then the graph of$P(x)$ will decrease without bound at b
 ``` 
 
 ## process for graphing a polynomial 
+1. Determine all the zeroes of the polynomial and their multiplicity . Use the fact above to deter
