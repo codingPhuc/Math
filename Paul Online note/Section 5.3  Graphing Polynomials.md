@@ -245,9 +245,11 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-3:4, smooth] plot (\x, { 5*(\x + 1)^2 (\x- 2)^3  });
+    \draw[thick, blue, domain=1:4, smooth] plot (\x, { 5*(\x + 1)^2 (\x- 2)^3  }); 
+    \draw[thick, blue, domain=-2:0, smooth] plot (\x, { 5*(\x + 1)^2 (\x- 2)^3  });
 \end{tikzpicture}
 \end{document}
 ``` 
+
 
 
