@@ -33,4 +33,5 @@ In other word zero  of the polynomial also is the x intercept of the graph . Rec
 Notice as well that the x-intercept can either flatten out as they cross the x-axis or they can go through the x axis at that angle 
 
 
-## fact 
+#fact 
+	if  $x= r $
