@@ -555,16 +555,17 @@ Sketch the graphs of  $G(x)   = x^4  +  x^3 - 12x^2 +  4x + 16 = (x−2)^2(x+1)(
 we found out the zero point and the multiplicity of the equation in the previous example so we will just write them out again 
 $$
  \begin{array}{l}  \\
-x =  -2    \text{ simple zero } \\
-x =  1  \text{ multiplicity  of  2 }   \\
+x =  2    \text{   multiplicity  of  2   } \\
+x =  -1   \text{ simple zero }   \\
+x =  -4   \text{ simple zero }   \\
 \end{array}
 $$
 
  if k  is an odd number then the x = r will cross the x axis   :  
-we know that since the multiplicity of x = -2  is odd then x =  -2     will cross the x axis  
-
+we know that since the multiplicity of x = -1  is odd then x =  -1     will cross the x axis  
+we know that since the multiplicity of x = -4 is odd then x =  -4      will cross the x axis  
  if k is and even number then the x =  r will only touch the x-axis and not actually cross it : 
-we know that since the multiplicity of x =  1  is odd then x =  1   will touch the x axis 
+we know that since the multiplicity of x =  2  is odd then x =  1   will touch the x axis 
 since  x  = 1  have a multiplicity that is lager then  1 x  =1 is be flatten ,   x   = -2 on the other hand will not be flatten  
 2. Determine  the y-intercept $(0, P(0))$ 
 The y-intercept of the coefficient is (0 , -2 )
