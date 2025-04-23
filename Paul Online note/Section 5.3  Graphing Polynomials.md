@@ -36,4 +36,7 @@ Notice as well that the x-intercept can either flatten out as they cross the x-a
 #fact 
 	if  $x= r$ is a zero of the polynomial  $P(x)$ with a multiplicity of k then 
 	1. if k  is an odd number then the x = r will cross the x axis 
-	2. if k is and even number then the x =  r will croc
+	2. if k is and even number then the x =  r will only touch the x-axis and not actually cross it 
+Furthermore  , if k > 1 then the graph will flatten out at $x=r$ 
+
+
