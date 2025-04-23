@@ -15,7 +15,8 @@ $$
  x^4 - 5x^2  + 4  \\
 \text{ subtitude } x^2 \text{ to u }  \\
 t^2   - 5t + 4   \\
- \\
+(t-4)(t -1)  \\
+(x^2  -4)( x  - 1) \\
  
 \end{array} 
 $$
