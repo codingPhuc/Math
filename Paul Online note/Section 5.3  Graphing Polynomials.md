@@ -34,4 +34,6 @@ Notice as well that the x-intercept can either flatten out as they cross the x-a
 
 
 #fact 
-	if  $x= r $
+	if  $x= r$ is a zero of the polynomial  $P(x)$ with a multiplicity of k then 
+	1. if k  is an odd number then the x = r will cross the x axis 
+	2. if k is and even number then the x =  r will croc
