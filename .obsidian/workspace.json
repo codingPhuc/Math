@@ -6,7 +6,7 @@
       {
         "id": "67c628547dda02c7",
         "type": "tabs",
-        "dimension": 62.225705329153605,
+        "dimension": 39.73354231974922,
         "children": [
           {
             "id": "581a36da74918a83",
@@ -55,7 +55,7 @@
       {
         "id": "8bd9f33ac5949455",
         "type": "tabs",
-        "dimension": 37.774294670846395,
+        "dimension": 60.26645768025078,
         "children": [
           {
             "id": "08a49e2c33b5ac4c",
@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 4.7  Symmetry.md",
+                "file": "Paul Online note/Section 4.6  Transformations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 4.7  Symmetry"
+              "title": "Section 4.6  Transformations"
             }
           }
         ]
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 4.7  Symmetry.md",
+                "file": "Paul Online note/Section 5.3  Graphing Polynomials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.7  Symmetry"
+              "title": "Outline of Section 5.3  Graphing Polynomials"
             }
           }
         ],
@@ -231,13 +231,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08a49e2c33b5ac4c",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "picture/Pasted image 20250423084429.png",
     "Paul Online note/Section 4.6  Transformations.md",
+    "Paul Online note/Section 4.3  Ellipses.md",
+    "Paul Online note/Section 4.2  Parabolas.md",
     "Paul Online note/Section 4.4 Hyperbolas.md",
+    "Paul Online note/Section 4.5  Miscellaneous Functions.md",
+    "Paul Online note/Section 4.7  Symmetry.md",
     "Paul Online note/Section 3.6  Combining Functions.md",
     "Paul Online note/Section 5.3  Graphing Polynomials.md",
-    "Paul Online note/Section 4.5  Miscellaneous Functions.md",
     "Paul Online note/Section 4.1  Lines, Circles and Piecewise Functions.md",
     "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
@@ -249,7 +253,6 @@
     "mathwiki/README.md",
     "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
-    "Paul Online note/Section 4.7  Symmetry.md",
     "Paul Online note/Untitled 2.md",
     "Paul Online note/Untitled 3.md",
     "picture/Pasted image 20250210124149.png",
@@ -269,9 +272,6 @@
     "picture/Pasted image 20250408074105.png",
     "picture/Pasted image 20250409112615.png",
     "picture/Pasted image 20250409113454.png",
-    "Paul Online note/Solutions and Solution Sets.md",
-    "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
-    "independent version/Untitled.md",
     "picture/Pasted image 20250414173933.png",
     "independent version",
     "picture/Pasted image 20250409113453.png",
