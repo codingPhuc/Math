@@ -370,7 +370,7 @@ $$
 f(3) = -3^3(3  + 2)(3  - 2 )  =  -135     
 $$
 $$
-f(-3) = 3^3(-3  + 2)(-3  - 2 )  =  -135     
+f(-3) = 3^3(-3  + 2)(-3  - 2 )  =  135     
 $$
 
 
@@ -395,7 +395,7 @@ $$
 
     % Text annotations  
     \fill (-3,3) circle (2pt) node[above right] {$(0,3) $};
-\draw[thick, blue, domain=-2:3, smooth] plot (\x, {(\x)^2*(\x - 3)*(\x +2)});
+\draw[thick, blue, domain=-2:3, smooth] plot (\x, {-(\x)^3*(\x  + 2)*(\x  - 2 )});
 
     % Draw the parabola
 \end{tikzpicture}
