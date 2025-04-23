@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
+                "file": "mathwiki/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 5.2  Zeroes Roots of Polynomials"
+              "title": "README"
             }
           },
           {
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "templat",
+                "query": "math wiki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
+                "file": "mathwiki/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 5.2  Zeroes Roots of Polynomials"
+              "title": "Outline of README"
             }
           }
         ],
@@ -227,15 +228,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "Paul Online note/Section 4.5  Miscellaneous Functions.md",
-    "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/Section 4.7  Symmetry.md",
     "Paul Online note/Untitled 1.md",
     "Paul Online note/Untitled 2.md",
