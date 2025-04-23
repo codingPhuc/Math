@@ -497,8 +497,8 @@ $$
 we know that since the multiplicity of x = -2  is odd then x =  -2     will cross the x axis  
 
  if k is and even number then the x =  r will only touch the x-axis and not actually cross it : 
-
-x   = 6  ,  x = -4  and  x  =  0  on the other hand will not be flatten  
+we know that since the multiplicity of x =  1  is odd then x =  1   will touch the x axis 
+since  x  = 1  have a multiplicity that is lager then  1 x  =1 is bee   x   = -2 on the other hand will not be flatten  
 
 2. Determine  the y-intercept $(0, P(0))$ 
 The y-intercept of the coefficient is (0 , 0)
