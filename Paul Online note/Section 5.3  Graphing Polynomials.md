@@ -505,13 +505,11 @@ The y-intercept of the coefficient is (0 , -2 )
 since the coefficient of the 3th term  is negative   and the exponent is odd we can concluded that the graph will increase    without bound from the left  and decrease  without bound in the right 
 4.  Plot a few more points. This is left intentionally vague. The more points that you plot the better the sketch. At the least you should plot at least one at either end of the graph and at least one point between each pair of zeroes. 
 $$
-G(-5)   = -(-4 - 1)^2( +2  )  =   32  
+G(-5)   = -(-4 - 1)^2(-4 +2  )  =    6 
 $$
+
 $$
-G(-6)   = -(x - 1)^2(x +2  )    =    -144   
-$$
-$$
-G(1)   =  1-(x - 1)^2(x +2  )=   -26      
+G(2)   =  -(2 - 1)^2(2+2  )=   -4       
 $$
 
 
