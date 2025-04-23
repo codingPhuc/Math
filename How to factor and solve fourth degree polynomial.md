@@ -7,4 +7,12 @@ reference:
 Current date: 2025-04-23
 ---
 
-LEt
+Let factor first 
+
+
+$$
+\begin{array} {l}
+ x^4 - 5x^2  + 4  \\
+\text{ subtitu}  
+\end{array} 
+$$
