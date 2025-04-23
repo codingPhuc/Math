@@ -20,4 +20,7 @@ Secondly  ,the hole  where the gap turn from increasing to decrease and vice ver
 
 While this won't help must in graphing  , it will help in detecting error in our graph . For example if we have fourth degree polynomial with 5 turning point we will quickly spot the error 
 
-Next we need to conn
+Next we need to connect the relationship between the x intercept and the zero point of a polynomial . 
+$$
+P(x)  = 0 
+$$
