@@ -534,7 +534,7 @@ $$
 
     % Text annotations  
     \fill (-3,2) circle (2pt) node[above right] {$(0,3) $};
-\draw[thick, blue, domain=-1:6, smooth] plot (\x, {\x*(\x+4)*(\x-6)});
+\draw[thick, blue, domain=-2:3, smooth] plot (\x, {-(\x - 1)^2*(\x +2  )});
 
     % Draw the parabola
 \end{tikzpicture}
@@ -544,5 +544,69 @@ $$
 ```
 
 
+
+
+
+
+
+Example 1 : 
+1. Determine all the zeroes of the polynomial and their multiplicity . Use the fact above to determine the x-intercept that correspond  to each zero will cross the x-axis or just touch it or if the x intercept will flatten out or not 
+Sketch the graphs of  $G(x)   = x^4  +  x^3 - 12x^2 +  4x + 16 = (x  -1)(-x^2 -x  +2 )= -(x - 1)^2(x +2  )$ 
+we found out the zero point and the multiplicity of the equation in the previous example so we will just write them out again 
 $$
+ \begin{array}{l}  \\
+x =  -2    \text{ simple zero } \\
+x =  1  \text{ multiplicity  of  2 }   \\
+\end{array}
 $$
+
+ if k  is an odd number then the x = r will cross the x axis   :  
+we know that since the multiplicity of x = -2  is odd then x =  -2     will cross the x axis  
+
+ if k is and even number then the x =  r will only touch the x-axis and not actually cross it : 
+we know that since the multiplicity of x =  1  is odd then x =  1   will touch the x axis 
+since  x  = 1  have a multiplicity that is lager then  1 x  =1 is be flatten ,   x   = -2 on the other hand will not be flatten  
+2. Determine  the y-intercept $(0, P(0))$ 
+The y-intercept of the coefficient is (0 , -2 )
+3. Use the leading coefficient test to determine the behavior of the polynomial at the end of the graph  
+since the coefficient of the 3th term  is negative   and the exponent is odd we can concluded that the graph will increase    without bound from the left  and decrease  without bound in the right 
+4.  Plot a few more points. This is left intentionally vague. The more points that you plot the better the sketch. At the least you should plot at least one at either end of the graph and at least one point between each pair of zeroes. 
+$$
+G(-5)   = -(-4 - 1)^2(-4 +2  )  =    6 
+$$
+
+$$
+G(2)   =  -(2 - 1)^2(2+2  )=   -4       
+$$
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    \fill (-3,2) circle (2pt) node[above right] {$(0,3) $};
+\draw[thick, blue, domain=-2:3, smooth] plot (\x, {-(\x - 1)^2*(\x +2  )});
+
+    % Draw the parabola
+\end{tikzpicture}
+\end{document}
+
+
+```
+
