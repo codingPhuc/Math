@@ -489,15 +489,13 @@ we found out the zero point and the multiplicity of the equation in the previous
 $$
  \begin{array}{l}  \\
 x =  -2    \text{ simple zero } \\
-x =  1  \text{ simple zero}   \\
-x  =  6      \text{ simple zero} 
+x =  1  \text{ multiplicity  of  2 }   \\
 \end{array}
 $$
 
  if k  is an odd number then the x = r will cross the x axis   :  
-we know that since the multiplicity of x = 0  is odd then x =  0    will cross the x axis  
-we know that since the multiplicity of x = -4 is odd then x = -4   will cross the x axis 
-we know that since the multiplicity of x = 6 is odd then x = 6   will cross the x axis 
+we know that since the multiplicity of x = -2  is odd then x =  -2     will cross the x axis  
+
  if k is and even number then the x =  r will only touch the x-axis and not actually cross it : 
 
 x   = 6  ,  x = -4  and  x  =  0  on the other hand will not be flatten  
