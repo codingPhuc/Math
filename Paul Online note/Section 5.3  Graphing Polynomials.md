@@ -484,12 +484,12 @@ $$
 
 Example 1 : 
 1. Determine all the zeroes of the polynomial and their multiplicity . Use the fact above to determine the x-intercept that correspond  to each zero will cross the x-axis or just touch it or if the x intercept will flatten out or not 
-Sketch the graphs of  $G(x)   =  -x^3  + 3x   - 2 = (x  -1)(-x^2 -x  +2 )= -(x - 1)(x +2  )$ 
+Sketch the graphs of  $G(x)   =  -x^3  + 3x   - 2 = (x  -1)(-x^2 -x  +2 )= -(x - 1)^2(x +2  )$ 
 we found out the zero point and the multiplicity of the equation in the previous example so we will just write them out again 
 $$
  \begin{array}{l}  \\
-x =  0   \text{ simple zero } \\
-x =  -4   \text{ simple zero}   \\
+x =  -2    \text{ simple zero } \\
+x =  1  \text{ simple zero}   \\
 x  =  6      \text{ simple zero} 
 \end{array}
 $$
