@@ -13,6 +13,9 @@ Let factor first
 $$
 \begin{array} {l}
  x^4 - 5x^2  + 4  \\
-\text{ subtitu}  
+\text{ subtitude } x^2 \text{ to u }  \\
+t^2   - 5t + 4   \\
+ \\
+ 
 \end{array} 
 $$
