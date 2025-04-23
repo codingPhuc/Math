@@ -320,11 +320,11 @@ $$
     }
 
     % Text annotations  
-    \fill (-3,4) circle (2pt) node[above right] {$(0,3) $};
-
+    \fill (-3,3) circle (2pt) node[above right] {$(0,3) $};
+\draw[thick, blue, domain-3:3, smooth] plot (\x, {(\x)^2*(\x - 3)*(\x +2)});
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:6, smooth] plot (\x, {(\x)^2*(\x - 3)*(\x + 2)});
+ 
  
 \end{tikzpicture}
 \end{document}
