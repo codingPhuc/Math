@@ -202,8 +202,8 @@ $$
  if k  is an odd number then the x = r will cross the x axis  
 we know that since the multiplicity of x = 2 is odd then x = 2  will cross the x axis 
  if k is and even number then the x =  r will only touch the x-axis and not actually cross it 
-we know that since the multiplicity of 3 is odd then x =  -1 will touch the x axis 
-
+we know that since the multiplicity of x =  -1  is odd then x =  -1 will touch the x axis 
+since both are larger then>1  we concluded that it would be f
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
