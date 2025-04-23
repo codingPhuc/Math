@@ -570,14 +570,14 @@ since  x  = 2  have a multiplicity that is lager then   x  =2 is be flatten ,   
 2. Determine  the y-intercept $(0, P(0))$ 
 The y-intercept of the coefficient is (0 , 16 )
 3. Use the leading coefficient test to determine the behavior of the polynomial at the end of the graph  
-since the coefficient of the 3th term  is negative   and the exponent is odd we can concluded that the graph will increase    without bound from the left  and decrease  without bound in the right 
+since the coefficient of the 4th term  is positive    and the exponent is even  we can concluded that the graph will increase     without bound from the left  and right 
 4.  Plot a few more points. This is left intentionally vague. The more points that you plot the better the sketch. At the least you should plot at least one at either end of the graph and at least one point between each pair of zeroes. 
 $$
-G(-5)   = -(-4 - 1)^2(-4 +2  )  =    6 
+G(-5)   =(x−2)^2(x+1)(x+4) =    6 
 $$
 
 $$
-G(2)   =  -(2 - 1)^2(2+2  )=   -4       
+G(2)   =  (x−2)^2(x+1)(x+4) =   -4       
 $$
 
 
