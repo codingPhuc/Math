@@ -79,4 +79,5 @@ We don't know if there are any other term in the polynomial , but  we do know th
 
 
 ``` 
-2. if a>0 
+2. if a>0 and n is odd then the graph of $P(x)$ will  increase without bound at the right end and decrease without bound at the left end . A good example of this is the graph $x^3$
+
