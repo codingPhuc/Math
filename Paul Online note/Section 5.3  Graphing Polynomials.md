@@ -204,8 +204,9 @@ we know that since the multiplicity of x = 2 is odd then x = 2  will cross the x
  if k is and even number then the x =  r will only touch the x-axis and not actually cross it 
 we know that since the multiplicity of x =  -1  is odd then x =  -1 will touch the x axis 
 since both are larger then>1  we concluded that it would be flatten 
-
-The y-intercept of the coefficien is
+2. Determine  the y-intercept $(0, P(0))$ 
+The y-intercept of the coefficient is (0 , -40 )
+3. Use the leading coefficient test to determine the behavior of the polynomial at the end of the graph 
 
 
 ```tikz
