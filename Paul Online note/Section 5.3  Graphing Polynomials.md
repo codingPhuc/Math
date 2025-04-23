@@ -218,38 +218,43 @@ f(3) =  5( 3 + 1)^2 (3- 2)^3   =  80
 $$
 
 
+![[Pasted image 20250423112902.png]]  
 
 
 
-```tikz
-\usepackage{amsmath,amssymb}
-\usetikzlibrary{decorations.pathreplacing}
-
-\begin{document}
-\tikzset{every picture/.style={line width=0.75pt}} % set default line width
-
-\begin{tikzpicture}[x=1cm,y=1cm]
-    % Draw x-axis
-    \draw[->] (-7,0) -- (7,0) node[right] {};
-    \draw[->] (0,-7) -- (0,7) node[right] {};
-    % Draw tick marks and labels
-    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
-        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
-    }
-        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
-        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
-    }
-
-    % Text annotations  
-    \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
 
 
-    % Draw the parabola
-    \draw[thick, blue, domain=1:4, smooth] plot (\x, { 5*(\x + 1)^2 (\x- 2)^3  }); 
-    \draw[thick, blue, domain=-2:0, smooth] plot (\x, { 5*(\x + 1)^2 (\x- 2)^3  });
-\end{tikzpicture}
-\end{document}
-``` 
 
+Example 1 : 
+1. Determine all the zeroes of the polynomial and their multiplicity . Use the fact above to determine the x-intercept that correspond  to each zero will cross the x-axis or just touch it or if the x intercept will flatten out or not 
+Sketch the graphs of  $P(x) =5x^5-20x^4+5x^3 +50x^2-20x-40=5(x + 1)^2 (x- 2)^3$
+we found out the zero point and the multiplicity of the equation in the previous example so we will just write them out again 
+$$
+ \begin{array}{l}  \\
+x =  -1  \text{ multplicity of 2} \\
+x = 2     \text{ multplicity of 3} 
+\end{array}
+$$
+
+ if k  is an odd number then the x = r will cross the x axis  
+we know that since the multiplicity of x = 2 is odd then x = 2  will cross the x axis 
+ if k is and even number then the x =  r will only touch the x-axis and not actually cross it 
+we know that since the multiplicity of x =  -1  is odd then x =  -1 will touch the x axis 
+since both are larger then>1  we concluded that it would be flatten 
+2. Determine  the y-intercept $(0, P(0))$ 
+The y-intercept of the coefficient is (0 , -40 )
+3. Use the leading coefficient test to determine the behavior of the polynomial at the end of the graph  
+since the coefficient of the 5th term  is positive and the exponent is odd we can concluded that the graph will decrease without bound to  the left , and increase without bound to the right  
+4.  Plot a few more points. This is left intentionally vague. The more points that you plot the better the sketch. At the least you should plot at least one at either end of the graph and at least one point between each pair of zeroes. 
+$$
+f(-2) =  5( -2 + 1)^2 (-2- 2)^3   =  -320 
+$$ 
+
+$$
+f(3) =  5( 3 + 1)^2 (3- 2)^3   =  80   
+$$
+
+
+![[Pasted image 20250423112902.png]]  
 
 
