@@ -210,7 +210,7 @@ The y-intercept of the coefficient is (0 , -40 )
 since the coefficient of the 5th term  is positive and the exponent is odd we can concluded that the graph will decrease without bound to  the left , and increase without bound to the right  
 4.  Plot a few more points. This is left intentionally vague. The more points that you plot the better the sketch. At the least you should plot at least one at either end of the graph and at least one point between each pair of zeroes. 
 $$
-f(-2) =  5( -2 + 1)^2 (-2- 2)^3   =  320 
+f(-2) =  5( -2 + 1)^2 (-2- 2)^3   =  -320 
 $$ 
 
 $$
@@ -245,7 +245,7 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { -(\x)^3    });
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { 5*(\x + 1)^2 (\x- 2)^3  });
 \end{tikzpicture}
 \end{document}
 ``` 
