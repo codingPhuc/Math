@@ -410,13 +410,13 @@ $$
 
 Example 1 : 
 1. Determine all the zeroes of the polynomial and their multiplicity . Use the fact above to determine the x-intercept that correspond  to each zero will cross the x-axis or just touch it or if the x intercept will flatten out or not 
-Sketch the graphs of  $G(x)   =  x^3  - 2x^2  - 24x   =x(x^2  -2x  -  24) =x()()$
+Sketch the graphs of  $G(x)   =  x^3  - 2x^2  - 24x   =x(x^2  -2x  -  24) =x(x+4)(x-6)$
 we found out the zero point and the multiplicity of the equation in the previous example so we will just write them out again 
 $$
  \begin{array}{l}  \\
-x =  0   \text{ multplicity of 3} \\
-x =  -2  \text{ simple zero}   \\
-x  =  2      \text{ simple zero} 
+x =  0   \text{ simple zero } \\
+x =  -4   \text{ simple zero}   \\
+x  =  6      \text{ simple zero} 
 \end{array}
 $$
 
