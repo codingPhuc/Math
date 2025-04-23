@@ -69,7 +69,7 @@
       {
         "id": "8bd9f33ac5949455",
         "type": "tabs",
-        "dimension": 43.8871473354232,
+        "dimension": 43.887147335423194,
         "children": [
           {
             "id": "08a49e2c33b5ac4c",
@@ -241,8 +241,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "30b50d563073904f",
