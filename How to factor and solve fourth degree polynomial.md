@@ -19,4 +19,4 @@ t^2   - 5t + 4   \\
 (x^2  -4)( x^2  - 1)  \\
 (x  - 2)( x  + 2)(x  - 1)(x+ 1) \\
 \end{array} 
-$$thus our solution set is  
+$$thus our solution set is 

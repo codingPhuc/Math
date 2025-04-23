@@ -64,8 +64,7 @@
               "title": "Section 4.5  Miscellaneous Functions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8bd9f33ac5949455",
@@ -217,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to factor and solve fourth degree polynomial.md",
+                "file": "Paul Online note/Section 5.3  Graphing Polynomials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to factor and solve fourth degree polynomial"
+              "title": "Outline of Section 5.3  Graphing Polynomials"
             }
           }
         ],
@@ -246,12 +245,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1fb35f33b070231",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 5.3  Graphing Polynomials.md",
     "How to factor and solve fourth degree polynomial.md",
     "picture/Pasted image 20250423112902.png",
-    "Paul Online note/Section 4.6  Transformations.md",
     "picture/Pasted image 20250423084429.png",
     "Paul Online note/Section 4.3  Ellipses.md",
     "Paul Online note/Section 4.2  Parabolas.md",
