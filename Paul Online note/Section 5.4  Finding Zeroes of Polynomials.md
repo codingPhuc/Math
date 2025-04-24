@@ -20,4 +20,4 @@ $$
 where all coefficients are integer then b will be a factor of t and c will be a factor of s 
 Note that the  zero must be reduce to the lowest term in order for this to work 
 
-
+verify that the root of the following polynomial sa
