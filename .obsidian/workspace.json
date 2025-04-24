@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 5.1  Dividing Polynomials.md",
+                "file": "Paul Online note/Section 5.4  Finding Zeroes of Polynomials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 5.1  Dividing Polynomials"
+              "title": "Outline of Section 5.4  Finding Zeroes of Polynomials"
             }
           }
         ],
@@ -245,8 +245,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08a49e2c33b5ac4c",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 5.4  Finding Zeroes of Polynomials.md",
     "Paul Online note/Section 5.3  Graphing Polynomials.md",
@@ -266,7 +267,6 @@
     "Paul Online note/Section 2.11  Linear Inequalities.md",
     "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
     "Paul Online note/Section 2.13  Rational Inequalities.md",
-    "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "Paul Online note/Section 2.2 Linear Equations.md",
     "mathwiki/README.md",
     "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
