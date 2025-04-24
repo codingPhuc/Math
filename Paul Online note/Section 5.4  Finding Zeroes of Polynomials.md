@@ -99,4 +99,4 @@ $$
 note however this this fact does not tell us what the zero is it just tell us that there exist a zero if one result of the equation is negative while the other is positive 
 ##  Process for finding Rational Zeros 
 1. use the rational root theorem to list all possible rational zeroes of the polynomial $P( x)$
-2. Evaluate the polynomial  at the number from the first step  until we find a zero 
+2. Evaluate the polynomial  at the number from the first step  until we find a zero  .  Let suppose the zero is  $x=r$ , then we will know that it's a zero because $P(r) =0$ . 
