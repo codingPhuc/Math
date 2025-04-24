@@ -8,4 +8,4 @@ Current date: 2025-04-24
 ---
 
 We've been talking about  zeroes of polynomial and why we need them for a couple of section now . We haven't , however , really talk about them for polynomial greater than 2 
-. In add
+. In Addition we will also be finding polynomial  
