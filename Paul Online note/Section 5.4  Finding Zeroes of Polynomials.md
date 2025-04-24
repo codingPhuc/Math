@@ -323,9 +323,15 @@ $$
 \begin{array}{l} \\
 \frac{\pm 1}{\pm 1 }   =  \pm 1  \\
 \frac{\pm 3}{\pm 1 }   =  \pm 3 \\
-\frac{\pm 9 } {\pm 1}  =  \pm 9   \\
+\frac{\pm 9 } {\pm 1}  =  \pm 9   \\ \\
+\frac{\pm 2}{\pm 1 }   =  \pm 2  \\
+\frac{\pm 6}{\pm 1 }   =  \pm 6 \\
+\frac{\pm 18 } {\pm 1}  =  \pm 18   \\
  \pm \frac{ 1}{ 2 }    \\
 \pm \frac{ 3}{ 2 }  \\ 
+\pm \frac{ 9 } { 2}   \\
+ \pm \frac{ 1}{ 2 }    \\
+\pm \frac{ 6}{ 2 }    = \pm  3  \\ 
 \pm \frac{ 9 } { 2}  
 \end{array}
 $$
