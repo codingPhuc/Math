@@ -108,4 +108,27 @@ To simplify the second step we will use synthetic division . This will simplify 
 
 also , in the evaluate step it is usually easiest to evaluate at the possible integer zeroes first and then go back and deal with any fractions if we have to 
 
-Determine all the zeroes of $P(x) =x^4 -   7x^3+17x^2  - 17x + 6$ 
+Determine all the zeroes of $P(x) =x^4 -   7x^3+17x^2  - 17x + 6$   
+
+
+the factor of t and s is : 
+$$
+\begin{array}{l} \\
+t = 6  =  \pm 1     ; \pm 3   ; \pm 9  \\
+s = 1   =  \pm 1   
+\end{array}
+$$
+
+
+so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+\frac{\pm 1}{\pm 2 }   \\
+\frac{\pm 3}{\pm 2 }   \\
+\frac{\pm 9}{\pm 2 } \\
+\frac{\pm 1 }  {\pm 1} \\
+\frac{\pm 3 } {\pm 1} \\
+\frac{\pm 9 } {\pm 1}
+\end{array}
+$$
+
