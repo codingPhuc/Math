@@ -165,7 +165,7 @@ $$
 so the list of  possible rational zeros of this polynomial is : 
 $$
 \begin{array}{l} \\
-\frac{\pm 1}{\pm 1 }   =  -  1  \\
+\frac{\pm 1}{\pm 1 }   =  1  \\
 \frac{\pm 2}{\pm 1 }     =  \pm 2   \\
 \frac{\pm 3}{\pm 1 }   =  \pm 3 \\
 \frac{\pm 4 }  {\pm 1}  =  \pm 4  \\
@@ -173,6 +173,7 @@ $$
 \frac{\pm 6 } {\pm 1}  =  \pm 6 
 \end{array}
 $$
+since we already found out that -1  is not a zero solution for $P(x)$ we do not need to calculate it here  
 $$
 f(1 )  = 1^3  -  61^2  + 111 - 6    =   0  
 $$
