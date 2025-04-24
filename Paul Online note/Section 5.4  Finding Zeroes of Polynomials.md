@@ -203,5 +203,38 @@ $$
 P(X)    = x^4 - 7x^3 + 17x^2  - 17x + 6 
 $$
 we know for each zero solution , we will be given the corresponding factor form and that each exponent in the factor form is the multiplicity of that zero 
+
+
+
+Determine all the zeroes of $P(x) =x^4 -   7x^3+17x^2  - 17x + 6$   
+
+
+the factor of t and s is : 
 $$
+\begin{array}{l} \\
+t = 6  =  \pm 1     ;   \pm 2  ;  \pm 3    ; \pm 6  \\
+s = 1   =  \pm 1   
+\end{array}
+$$
+
+
+so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+\frac{\pm 1}{\pm 1 }   =  \pm 1  \\
+\frac{\pm 2}{\pm 1 }     =  \pm 2   \\
+\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
+\frac{\pm 4 }  {\pm 1}  =  \pm 4  \\
+\frac{\pm 5 } {\pm 1}   =  \pm 5 \\
+\frac{\pm 6 } {\pm 1}  =  \pm 6 
+\end{array}
+$$
+$$
+f(1 )  =  1 -  7  + 17  -  17 +  6 =   0  
+$$
+so we will have one solution f(1) that cause the equation to be zero 
+
+
+$$
+\text{Divide } x^4 -   7x^3+17x^2  - 17x + 6  \text{ by }  x   -  1     
 $$
