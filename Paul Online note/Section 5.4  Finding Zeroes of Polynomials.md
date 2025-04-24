@@ -575,8 +575,8 @@ $$
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t = -2 =   \pm 2   ; \pm 3  ;  \pm 4   ; \pm 6  ;  \pm 8   ;  \pm 12   \\
-s = -2   =  \pm 2    
+t = -2 =   \pm 2    \\
+s = 8    =  \pm 2   ;   \pm 4   ;   \pm 8  
 \end{array}
 $$
 
@@ -585,15 +585,11 @@ $$
 so the list of  possible rational zeros of this polynomial is : 
 $$
 \begin{array}{l} \\
-\frac{\pm 1}{\pm 1 }   =  \pm 1  \\
+
 \frac{\pm 2}{\pm 1 }   =  \pm 2 \\
-\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
 \frac{\pm 4 } {\pm 1}  =  \pm  4  \\   
-\frac{\pm 6}{\pm 1 }   =  \pm 6  \\
-\frac{\pm 8}{\pm 1 }   =  \pm 8 \\
-\frac{\pm 12  } {\pm 1}  =  \pm  12  \\   
-\frac{\pm 1}{\pm 2 } \\
-\frac{\pm 3}{\pm 2 }   \\
+\frac{\pm 2}{\pm 8}   =  \pm \frac{1}{4} \\
+\frac{\pm 4 } {\pm 8}  =  \pm  \frac{1}{2 }  \\   
 \end{array}
 $$
 
