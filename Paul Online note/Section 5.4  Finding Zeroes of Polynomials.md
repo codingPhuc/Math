@@ -354,3 +354,92 @@ $$
 
 
 
+
+
+
+
+
+
+Determine all the zeroes of $P(x) =   x^4  - 3x^3  - 5x^2 + 3x + 4$   
+
+the factor of t and s is : 
+$$
+\begin{array}{l} \\
+t = 4 =   \pm 1     ;  \pm 3    ; \pm 9   \\  \\
+s = 1  =  \pm 1        
+\end{array}
+$$
+
+
+so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+\frac{\pm 1}{\pm 1 }   =  \pm 1  \\
+\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
+\frac{\pm 9 } {\pm 1}  =  \pm 9   \\
+ \pm \frac{ 1}{ 2 }    \\
+\pm \frac{ 3}{ 2 }  \\ 
+\pm \frac{ 9 } { 2}  
+\end{array}
+$$
+
+we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
+
+|     | 2   | 1   | 3   | 3   | -9                  |
+| --- | --- | --- | --- | --- | ------------------- |
+| -1  | 2   | -1  | 4   | -1  | $2  =P(-1)  \neq 0$ |
+| 1   | 2   | 3   | 6   | 9   | $0  =P(1)  \neq 0$  |
+
+$$
+(  2x^3    + 3x^2  +  6x  +  9   )(x   - 1 )
+$$ 
+
+the factor of t and s is : 
+$$
+\begin{array}{l} \\
+t = 9 =  \pm 1     ;  \pm 3    ; \pm 6  \\
+s = 2   =  \pm 1    ;  \pm 2 
+\end{array}
+$$
+
+
+so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+\frac{\pm 1}{\pm 1 }   =  1  \\
+\frac{\pm 3}{\pm 1 }     =  \pm 3   \\
+\frac{\pm 9}{\pm 1 }   =  \pm 9 \\  \\
+
+ \pm \frac{ 1}{ 2 }    \\
+\pm \frac{ 3}{ 2 }  \\ 
+\pm \frac{ 9 } { 2}  
+\end{array}
+$$
+since we already found out that -1  is not a zero solution for $P(x)$ we do not need to calculate it here  
+
+|                | 2   | 3   | 6   | 9                                     |
+| -------------- | --- | --- | --- | ------------------------------------- |
+| 1              | 2   | 5   | 11  | $20  =P(1)  \neq 0$                   |
+| -3             | 2   | -3  | 12  | $-27  =P(1)  \neq 0$                  |
+| -9             | 2   | -15 |     | $P(-9)  \neq 0$                       |
+| $\frac{1}{2}$  | 2   | 4   | 8   | $P\left( \frac{1}{2} \right)  \neq 0$ |
+| $-\frac{3}{2}$ | 2   | 0   | 6   | $P(-\frac{3}{2})  = 0$                |
+
+$$
+( 2x^2  + 6  )( 2x + 3  ) (x   - 1 )   
+$$
+since  
+$$
+\begin{array}{l} 
+2x^2  + 6   =  0    \\
+x    = \pm \sqrt{ 3 }  i 
+\end{array}
+$$
+we will have simple  2 zero solution that is  
+$$
+-\frac{3}{2 }    ;  1  
+$$
+and two imaginary solution 
+$$
+ \sqrt{  3 }  ,   - \sqrt{ 3 }
+$$
