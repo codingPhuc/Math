@@ -341,7 +341,7 @@ we will now do the synthetic calculation zero this time dropping the middle row 
 
 |     | 2   | -13 | 3   | 3   | 18                 |
 | --- | --- | --- | --- | --- | ------------------ |
-| -1  | 2   | -15 |     | -1  | $0 =P(-1)  = 0$    |
+| -1  | 2   | -15 | 18  |     | $0 =P(-1)  = 0$    |
 | 1   | 2   | 3   | 6   | 9   | $0  =P(1)  \neq 0$ |
 
 $$
