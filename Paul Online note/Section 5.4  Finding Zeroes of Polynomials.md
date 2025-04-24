@@ -28,6 +28,6 @@ $$
 \begin{array}{l}
 x = \frac{2}{ 3}   \\
 x  = -\frac{5}{4}  \\
-
 \end{array}
 $$
+we then check if the zeros solution denominator will be a fa
