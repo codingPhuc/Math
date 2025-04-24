@@ -202,3 +202,4 @@ Before moving on to the next example let's also note that we can now completely 
 $$
 P(X)    = x^4 - 7x^3 + 17x^2  - 17x + 6 
 $$
+we know that for each zero we wil
