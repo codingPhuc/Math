@@ -339,13 +339,13 @@ f(x )  =  2x^3  - 13x^2  + 3x + 18
 $$
 we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
 
-|     | 2   | -13 | 3   | 3   | 18                 |
-| --- | --- | --- | --- | --- | ------------------ |
-| -1  | 2   | -15 | 18  |     | $0 =P(-1)  = 0$    |
-| 1   | 2   | 3   | 6   | 9   | $0  =P(1)  \neq 0$ |
+|     | 2   | -13 | 3   | 18                 |
+| --- | --- | --- | --- | ------------------ |
+| -1  | 2   | -15 | 18  | $0 =P(-1)  = 0$    |
+
 
 $$
-(  2x^3    + 3x^2  +  6x  +  9   )(x   - 1 )
+(  2x^2   - 15x  + 18   )(x   +  1 )  = 
 $$ 
 
 the factor of t and s is : 
