@@ -13,4 +13,8 @@ We've been talking about  zeroes of polynomial and why we need them for a couple
 
 
 ## Rational Root Theorem 
-if the rational number $x=\frac{b}{c}$ is a zero of the $n^{th}$ 
+if the rational number $x=\frac{b}{c}$ is a zero of the $n^{th}$ degree polynomial   
+$$
+ P (x  )  = sx^n + \dots + t 
+$$
+where all coefficients are integer then b will be a factor of t an
