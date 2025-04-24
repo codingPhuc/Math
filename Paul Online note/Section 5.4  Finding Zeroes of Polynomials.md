@@ -389,14 +389,14 @@ we will now do the synthetic calculation zero this time dropping the middle row 
 
 
 $$
-(  x^3  - )(x   - 1 )
+(  x^3  - 4x^2 - x  + 4 )(x   +  1 )
 $$ 
 
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t = 9 =  \pm 1     ;  \pm 3    ; \pm 6  \\
-s = 2   =  \pm 1    ;  \pm 2 
+t = 1 =   \pm 1     ;  \pm 2  ;  \pm 4   \\ 
+s = 4  =  \pm 1    ;  \pm 2 
 \end{array}
 $$
 
