@@ -20,4 +20,8 @@ $$
 where all coefficients are integer then b will be a factor of t and c will be a factor of s 
 Note that the  zero must be reduce to the lowest term in order for this to work 
 
-verify that the root of the following polynomial sa
+verify that the root of the following polynomial satisfy the  rational root theorem : 
+$$
+P (x )  = 12 x^3 -  41x^2 - 38 x  + 40  = (x  - 4) (3x - 2) (4x + 5 )
+$$
+
