@@ -492,14 +492,23 @@ $$
 so the list of  possible rational zeros of this polynomial is : 
 $$
 \begin{array}{l} \\
-\frac{\pm 1}{\pm 1 }   =  -1  \\
-\frac{\pm 3}{\pm 1 }     =  \pm 3   \\
-\frac{\pm 4}{\pm 1 }   =  \pm 4 \\ 
+\frac{\pm 1}{\pm 1 }   =  \pm 1  \\
+\frac{\pm 2}{\pm 1 }   =  \pm 2 \\
+\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
+\frac{\pm 4 } {\pm 1}  =  \pm  4  \\   
+\frac{\pm 6}{\pm 1 }   =  \pm 6  \\
+\frac{\pm 8}{\pm 1 }   =  \pm 8 \\
+\frac{\pm 12  } {\pm 1}  =  \pm  12  \\   
+\frac{\pm 1}{\pm 2 } \\
+\frac{\pm 3}{\pm 2 }   \\
 \end{array}
 $$
 
+$$
+(  2x^3  - 3x^2 - 8 x  + 12 )(x     - 2   )
+$$
 
-|     | 1   | -4  | -1  | 4   |
+|     | 2   | -3  | -8  | 12  |
 | --- | --- | --- | --- | --- |
 | 1   | 1   | -3  | -4  | 0   |
 
