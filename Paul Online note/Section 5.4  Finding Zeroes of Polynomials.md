@@ -206,7 +206,15 @@ we know for each zero solution , we will be given the corresponding factor form 
 
 
 
-Determine all the zeroes of $P(x) =x^4 -   7x^3+17x^2  - 17x + 6$   
+
+
+
+
+
+
+
+Determine all the zeroes of $P(x) =   2x^4 + x^3 + 3x^2 + 3x-9$   
+
 
 
 the factor of t and s is : 
@@ -238,3 +246,66 @@ so we will have one solution f(1) that cause the equation to be zero
 $$
 \text{Divide } x^4 -   7x^3+17x^2  - 17x + 6  \text{ by }  x   -  1     
 $$
+$$
+1 \mid 1 \; -7 \;  17 \; -  17  \;  6      
+$$
+
+we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
+
+|     | 1   | -7  | 17  | -17 | 6                    |
+| --- | --- | --- | --- | --- | -------------------- |
+| -1  | 1   | -8  | 25  | -43 | $48  =P(-1)  \neq 0$ |
+| 1   | 1   | -6  | 11  | -6  | $0  =P(1)  \neq 0$   |
+
+$$
+(  x^3  -  6x^2  + 11x - 6     )(x   - 1 )
+$$ 
+
+the factor of t and s is : 
+$$
+\begin{array}{l} \\
+t = -6  =  \pm 1     ;   \pm 2  ;  \pm 3    ; \pm 6  \\
+s = 1   =  \pm 1   
+\end{array}
+$$
+
+
+so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+\frac{\pm 1}{\pm 1 }   =  1  \\
+\frac{\pm 2}{\pm 1 }     =  \pm 2   \\
+\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
+\frac{\pm 4 }  {\pm 1}  =  \pm 4  \\
+\frac{\pm 5 } {\pm 1}   =  \pm 5 \\
+\frac{\pm 6 } {\pm 1}  =  \pm 6 
+\end{array}
+$$
+since we already found out that -1  is not a zero solution for $P(x)$ we do not need to calculate it here  
+$$
+f(1 )  = 1^3  -  61^2  + 111 - 6    =   0  
+$$
+
+
+
+$$
+\text{Divide } x^3  -  6x^2  + 11x - 6   \text{ by }  x   -  1     
+$$
+$$
+1 \mid 1 \; -6 \;  11 \; -  6        
+$$
+
+| 1   | 1   | -6  | 11  | -6  |
+| --- | --- | --- | --- | --- |
+|     |     | 1   | -5  | 6   |
+|     | 1   | -5  | 6   | 0   |
+
+$$
+( x^2   - 5x   +  6 )(x   - 1 )^2   =  (x - 3)(x - 2  )(x - 1 )^2 
+$$
+
+Before moving on to the next example let's also note that we can now completely factor the polynomial 
+$$
+P(X)    = x^4 - 7x^3 + 17x^2  - 17x + 6 
+$$
+we know for each zero solution , we will be given the corresponding factor form and that each exponent in the factor form is the multiplicity of that zero 
