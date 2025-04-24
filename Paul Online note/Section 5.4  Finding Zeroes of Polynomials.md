@@ -229,7 +229,10 @@ $$
 \begin{array}{l} \\
 \frac{\pm 1}{\pm 1 }   =  \pm 1  \\
 \frac{\pm 3}{\pm 1 }   =  \pm 3 \\
-\frac{\pm 9 } {\pm 1}  =  \pm 6 
+\frac{\pm 9 } {\pm 1}  =  \pm 9   \\
+ \pm \frac{ 1}{ 2 }    \\
+\pm \frac{ 3}{ 2 }  \\ 
+\pm \frac{ 9 } { 2}  
 \end{array}
 $$
 $$
