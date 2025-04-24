@@ -236,16 +236,11 @@ $$
 \end{array}
 $$
 
-$$
-\text{Divide } x^4 -   7x^3+17x^2  - 17x + 6  \text{ by }  x   -  1     
-$$
-
-
 we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
 
-|     | 1   | -7  | 17  | -17 | 6                    |
+|     | 2   | 1   | 3   | 3   | -9                   |
 | --- | --- | --- | --- | --- | -------------------- |
-| -1  | 1   | -8  | 25  | -43 | $48  =P(-1)  \neq 0$ |
+| -1  | 2   |     | 25  | -43 | $48  =P(-1)  \neq 0$ |
 | 1   | 1   | -6  | 11  | -6  | $0  =P(1)  \neq 0$   |
 
 $$
