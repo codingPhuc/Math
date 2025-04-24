@@ -114,7 +114,7 @@ Determine all the zeroes of $P(x) =x^4 -   7x^3+17x^2  - 17x + 6$
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t = 6  =  \pm 1     ; \pm 3   ; \pm 9  \\
+t = 6  =  \pm 1     ;   \pm 2  ;  \pm 3    ; \pm 6  \\
 s = 1   =  \pm 1   
 \end{array}
 $$
@@ -123,12 +123,12 @@ $$
 so the list of  possible rational zeros of this polynomial is : 
 $$
 \begin{array}{l} \\
-\frac{\pm 1}{\pm 2 }   \\
-\frac{\pm 3}{\pm 2 }   \\
-\frac{\pm 9}{\pm 2 } \\
-\frac{\pm 1 }  {\pm 1} \\
-\frac{\pm 3 } {\pm 1} \\
-\frac{\pm 9 } {\pm 1}
+\frac{\pm 1}{\pm 1 }   =  \pm 1  \\
+\frac{\pm 2}{\pm 1 }   =   \\
+\frac{\pm 3}{\pm 1 } \\
+\frac{\pm 4 }  {\pm 1} \\
+\frac{\pm 5 } {\pm 1} \\
+\frac{\pm 6 } {\pm 1}
 \end{array}
 $$
 
