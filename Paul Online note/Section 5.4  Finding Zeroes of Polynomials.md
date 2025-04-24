@@ -639,5 +639,5 @@ $$
 | -0.5 | 8   | 0   | -2  | 0   |
 
 $$
-\left( x-\frac{1}{2} \right)(x-2)^2(8x^2 -  2 )    
+\left( x-\frac{1}{2} \right)(x-2)^2(8x^2 -  2 )     = \left( x-\frac{1}{2} \right)(x-2)^2\left( 2x+\frac{1}{2} \right)\left(  2x  - \frac{1}{2} \right)
 $$
