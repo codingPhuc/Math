@@ -144,6 +144,8 @@ $$
 1 \mid 1 \; -7 \;  17 \; -  17  \;  6      
 $$
 
+we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
+
 |     | 1   | -7  | 17  | -17 | 6                    |
 | --- | --- | --- | --- | --- | -------------------- |
 | -1  | 1   | -8  | 25  | -43 | $48  =P(-1)  \neq 0$ |
