@@ -542,7 +542,7 @@ Determine all the zeroes of $P(x) =   8x^5+36x^4+46x^3+7x^2−12x−4$
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t  = -4   =       \pm 1     ;  \pm 2    ;  \pm -2           \\
+t  = -4   =       \pm 1     ;  \pm 2    ;  \pm 4           \\
 s =8  =   \pm 1     ;  \pm 2    ;  \pm 4  ;  \pm 8 
 \end{array}
 $$
@@ -553,15 +553,11 @@ $$
 \begin{array}{l} \\
 \frac{\pm 1}{\pm 1 }   =  \pm 1  \\
 \frac{\pm 2}{\pm 1 }   =  \pm 2 \\
-\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
 \frac{\pm 4 } {\pm 1}  =  \pm  4  \\   
-\frac{\pm 6}{\pm 1 }   =  \pm 6  \\
-\frac{\pm 8}{\pm 1 }   =  \pm 8 \\
-\frac{\pm 12  } {\pm 1}  =  \pm  12  \\   
-\frac{\pm 24  } {\pm 1}  =  \pm  24  \\
-\frac{\pm 1}{\pm 2 } \\
-\frac{\pm 3}{\pm 2 }   \\
 
+\frac{\pm 1}{\pm 2 }   =  \pm 1  \\
+\frac{\pm 2}{\pm 2 }   =  \pm 2 \\
+\frac{\pm 4 } {\pm 1}  =  \pm  4  \\   
 \end{array}
 $$
 
