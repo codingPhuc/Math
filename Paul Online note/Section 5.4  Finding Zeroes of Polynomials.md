@@ -554,14 +554,6 @@ $$
 \frac{\pm 1}{\pm 1 }   =  \pm 1  \\
 \frac{\pm 2}{\pm 1 }   =  \pm 2 \\
 \frac{\pm 4 } {\pm 1}  =  \pm  4  \\   
-
-\frac{\pm 1}{\pm 2 }   =  \pm 1  \\
-\frac{\pm 2}{\pm 2 }   =  \pm 2 \\
-\frac{\pm 4 } {\pm 2}  =  \pm  4  \\     \\
- \frac{\pm 1}{\pm 4}   =  \pm 1  \\
-\frac{\pm 2}{\pm 4 }   =  \pm 2 \\
-\frac{\pm 4 } {\pm 4}  =  \pm  4  \\    \\
- \\
  \frac{\pm 1}{\pm 8}   =  \pm \frac{1}{8}  \\
 \frac{\pm 2}{\pm 8}   =  \pm \frac{1}{4} \\
 \frac{\pm 4 } {\pm 8}  =  \pm  \frac{1}{2 }  \\   
@@ -569,7 +561,7 @@ $$
 $$
 
 we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
-$P(x) =   2x^4  - 7x^3 - 2x^2 + 28x - 24$   
+$P(x) =   8x^5+36x^4+46x^3+7x^2−12x−4$   
 
 |     | 2   | -7  | -2  | 28  | -24             |
 | --- | --- | --- | --- | --- | --------------- |
