@@ -244,14 +244,14 @@ we will now do the synthetic calculation zero this time dropping the middle row 
 | 1   | 2   | 3   | 6   | 9   | $0  =P(1)  \neq 0$  |
 
 $$
-(  2x^3    + 3x^2  +  6x  +   )(x   - 1 )
+(  2x^3    + 3x^2  +  6x  +  9   )(x   - 1 )
 $$ 
 
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t = -6  =  \pm 1     ;   \pm 2  ;  \pm 3    ; \pm 6  \\
-s = 1   =  \pm 1   
+t = 9 =  \pm 1     ;  \pm 3    ; \pm 6  \\
+s = 2   =  \pm 1    ;  \pm 2 
 \end{array}
 $$
 
@@ -261,10 +261,11 @@ $$
 \begin{array}{l} \\
 \frac{\pm 1}{\pm 1 }   =  1  \\
 \frac{\pm 2}{\pm 1 }     =  \pm 2   \\
-\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
-\frac{\pm 4 }  {\pm 1}  =  \pm 4  \\
-\frac{\pm 5 } {\pm 1}   =  \pm 5 \\
-\frac{\pm 6 } {\pm 1}  =  \pm 6 
+\frac{\pm 3}{\pm 1 }   =  \pm 3 \\  \\
+
+ \pm \frac{ 1}{ 2 }    \\
+\pm \frac{ 3}{ 2 }  \\ 
+\pm \frac{ 9 } { 2}  
 \end{array}
 $$
 since we already found out that -1  is not a zero solution for $P(x)$ we do not need to calculate it here  
