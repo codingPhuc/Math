@@ -30,4 +30,4 @@ x = \frac{2}{ 3}   \\
 x  = -\frac{5}{4}  \\
 \end{array}
 $$
-we then check if the zeros solution denominator will be a fa
+we then check if the zeros solution denominator will be a factor of s and the numerator will be a factor of t 
