@@ -241,10 +241,10 @@ we will now do the synthetic calculation zero this time dropping the middle row 
 |     | 2   | 1   | 3   | 3   | -9                  |
 | --- | --- | --- | --- | --- | ------------------- |
 | -1  | 2   | -1  | 4   | -1  | $2  =P(-1)  \neq 0$ |
-| 1   | 2   |     |     |     | $0  =P(1)  \neq 0$  |
+| 1   | 2   | 3   | 6   | 9   | $0  =P(1)  \neq 0$  |
 
 $$
-(  x^3  -  6x^2  + 11x - 6     )(x   - 1 )
+(  2x^3    + 3x^2  +  6x  +   )(x   - 1 )
 $$ 
 
 the factor of t and s is : 
