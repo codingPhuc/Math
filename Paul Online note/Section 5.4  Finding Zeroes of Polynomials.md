@@ -56,11 +56,18 @@ $$
 
 Now list all the possible solution to factor the numerator and denominator  . We need to first simply the faction as must as possible then apply the $\pm$ sign  .  Note The possible rational zeros are just simplified fractions where the **numerator is a factor of the constant term** and the **denominator is a factor of the leading coefficient**   , in other word you just need to make sure b and c belong to the list of possible faction of t and s 
 so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+\frac{\pm 1}{\pm 1 }  = \pm 1    \\
+\frac{\pm 2}{\pm 1 }  = \pm 2 \\
+\frac{\pm 3}{\pm 1 }  = \pm 3 \\
+\frac{\pm 6}{\pm 1 }  = \pm 6 \\
 
+\end{array}
+$$
+so it look like we will have 
 
 $$
 \begin{array}{l} \\
 P(x)  =   2x^4 + x^3 + 3x^2 +  3x - 9 
-\end{array}
-$
-
+\end
