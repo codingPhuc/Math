@@ -75,9 +75,19 @@ $$
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t = 6  =  \pm 1   ;  \pm 2   ; \pm 3 ; \pm 6 \\
-s = 1    = \pm 1   
+t = -9  =  \pm 1     ; \pm 3 ; \pm 9  \\
+s = 2    = \pm 2   
 \end{array}
 $$
 
 
+so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+\frac{\pm 1}{\pm 2 }  = \pm 1    \\
+\frac{\pm 2}{\pm 1 }  = \pm 2 \\
+\frac{\pm 3}{\pm 1 }  = \pm 3 \\
+\frac{\pm 6}{\pm 1 }  = \pm 6 \\
+
+\end{array}
+$$
