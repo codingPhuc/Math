@@ -27,11 +27,13 @@ $$
 $$
 \begin{array}{l}
 x = \frac{2}{ 3}   \\
-x  = -\frac{5}{4}  \\
+x  = -\frac{5}{4}  \\  \\
+x = \frac{4}{1}
 \end{array}
 $$
 we then check if the zeros solution denominator will be a factor of s and the numerator will be a factor of t 
 $t =  40=2\cdot 2\cdot 2\cdot 5$ 
 $s = 12=3\cdot 4$
+$s = 12=-3\cdot-4$
 since the numerator and denominator of the two solution are factor of t and s we concluded that the polynomial satisfy the  rational root theorem  
 
