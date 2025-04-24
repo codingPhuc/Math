@@ -520,10 +520,108 @@ $$
 
 we will have simple 2  zero solution that is  
 $$
- x  = -\frac{2}{3}
+ x  = -\frac{2}{3}  ;  x  =2  
 $$
-and  one zero solution with the multiplicity of 3
+and  one zero solution with the multiplicity of 2
 $$
-x =  2 
+x =  -2 
+$$
+
+
+
+
+
+
+
+
+
+
+
+Determine all the zeroes of $P(x) =   8x^5+36x^4+46x^3+7x2−12x−4$   
+
+the factor of t and s is : 
+$$
+\begin{array}{l} \\
+t = -24  =   \pm 1     ;  \pm 2   ; \pm 3  ;  \pm 4   ; \pm 6  ;  \pm 8   ;  \pm 12  ;  \pm   24  \\
+s = 2  =  \pm 1       ;  \pm 2   
+\end{array}
+$$
+
+
+so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+\frac{\pm 1}{\pm 1 }   =  \pm 1  \\
+\frac{\pm 2}{\pm 1 }   =  \pm 2 \\
+\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
+\frac{\pm 4 } {\pm 1}  =  \pm  4  \\   
+\frac{\pm 6}{\pm 1 }   =  \pm 6  \\
+\frac{\pm 8}{\pm 1 }   =  \pm 8 \\
+\frac{\pm 12  } {\pm 1}  =  \pm  12  \\   
+\frac{\pm 24  } {\pm 1}  =  \pm  24  \\
+\frac{\pm 1}{\pm 2 } \\
+\frac{\pm 3}{\pm 2 }   \\
+
+\end{array}
+$$
+
+we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
+$P(x) =   2x^4  - 7x^3 - 2x^2 + 28x - 24$   
+
+|     | 2   | -7  | -2  | 28  | -24             |
+| --- | --- | --- | --- | --- | --------------- |
+| 2   | 2   | -3  | -8  | 12  | $0  =P(2)  = 0$ |
+
+
+$$
+(  2x^3  - 3x^2 - 8 x  + 12 )(x     - 2   )
+$$ 
+
+the factor of t and s is : 
+$$
+\begin{array}{l} \\
+t = 12=    \pm 1     ;  \pm 2   ; \pm 3  ;  \pm 4   ; \pm 6  ;  \pm 8   ;  \pm 12   \\
+s = 2  =  \pm 1    ; \pm 2    
+\end{array}
+$$
+
+
+
+so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+\frac{\pm 1}{\pm 1 }   =  \pm 1  \\
+\frac{\pm 2}{\pm 1 }   =  \pm 2 \\
+\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
+\frac{\pm 4 } {\pm 1}  =  \pm  4  \\   
+\frac{\pm 6}{\pm 1 }   =  \pm 6  \\
+\frac{\pm 8}{\pm 1 }   =  \pm 8 \\
+\frac{\pm 12  } {\pm 1}  =  \pm  12  \\   
+\frac{\pm 1}{\pm 2 } \\
+\frac{\pm 3}{\pm 2 }   \\
+\end{array}
+$$
+
+$$
+(  2x^3  - 3x^2 - 8 x  + 12 )(x     - 2   )
+$$
+
+|     | 2   | -3  | -8  | 12              |
+| --- | --- | --- | --- | --------------- |
+| 2   | 2   | 1   | -6  | $0  =P(2)  = 0$ |
+
+
+$$
+(2x^2  +  x -  6)(x - 2)^2   =  ( x   + 2 )( 2x  - 3 )(x - 2)^2   
+
+$$
+
+we will have simple 2  zero solution that is  
+$$
+ x  = -\frac{2}{3}  ;  x  =2  
+$$
+and  one zero solution with the multiplicity of 2
+$$
+x =  -2 
 $$
 
