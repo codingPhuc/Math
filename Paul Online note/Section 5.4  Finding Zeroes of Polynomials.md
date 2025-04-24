@@ -395,10 +395,11 @@ $$
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t = 1 =   \pm 1     ;  \pm 2  ;  \pm 4   \\ 
-s = 4  =  \pm 1    ;  \pm 2 
+t = 4 =   \pm 1     ;  \pm 2  ;  \pm 4   \\ 
+s = 1  =  \pm 1   
 \end{array}
 $$
+
 
 
 so the list of  possible rational zeros of this polynomial is : 
@@ -406,11 +407,7 @@ $$
 \begin{array}{l} \\
 \frac{\pm 1}{\pm 1 }   =  1  \\
 \frac{\pm 3}{\pm 1 }     =  \pm 3   \\
-\frac{\pm 9}{\pm 1 }   =  \pm 9 \\  \\
-
- \pm \frac{ 1}{ 2 }    \\
-\pm \frac{ 3}{ 2 }  \\ 
-\pm \frac{ 9 } { 2}  
+\frac{\pm 4}{\pm 1 }   =  \pm 4 \\ 
 \end{array}
 $$
 since we already found out that -1  is not a zero solution for $P(x)$ we do not need to calculate it here  
