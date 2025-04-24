@@ -557,7 +557,14 @@ $$
 
 \frac{\pm 1}{\pm 2 }   =  \pm 1  \\
 \frac{\pm 2}{\pm 2 }   =  \pm 2 \\
-\frac{\pm 4 } {\pm 1}  =  \pm  4  \\   
+\frac{\pm 4 } {\pm 2}  =  \pm  4  \\     \\
+ \frac{\pm 1}{\pm 4}   =  \pm 1  \\
+\frac{\pm 2}{\pm 4 }   =  \pm 2 \\
+\frac{\pm 4 } {\pm 4}  =  \pm  4  \\    \\
+ \\
+ \frac{\pm 1}{\pm 8}   =  \pm \frac{1}{8}  \\
+\frac{\pm 2}{\pm 8}   =  \pm \frac{1}{4} \\
+\frac{\pm 4 } {\pm 8}  =  \pm  \frac{1}{2 }  \\   
 \end{array}
 $$
 
