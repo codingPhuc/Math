@@ -444,8 +444,8 @@ Determine all the zeroes of $P(x) =   2x^4  - 7x^3 - 2x^2 + 28x - 24$
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t = 4 =   \pm 1     ;  \pm 2  ;  \pm 4   \\  \\
-s = 1  =  \pm 1        
+t = -24  =   \pm 1     ;  \pm 2  +  ;  \pm 4     \\  \\
+s = 2  =  \pm 1       ;  \pm 2   
 \end{array}
 $$
 
