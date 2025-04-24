@@ -537,13 +537,13 @@ $$
 
 
 
-Determine all the zeroes of $P(x) =   8x^5+36x^4+46x^3+7x2−12x−4$   
+Determine all the zeroes of $P(x) =   8x^5+36x^4+46x^3+7x^2−12x−4$   
 
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t = -24  =   \pm 1     ;  \pm 2   ; \pm 3  ;  \pm 4   ; \pm 6  ;  \pm 8   ;  \pm 12  ;  \pm   24  \\
-s = 2  =  \pm 1       ;  \pm 2   
+t  = -4   =       \pm 1     ;  \pm 2    ;  \pm -2           \\
+s =8  =   \pm 1     ;  \pm 2    ;  \pm 4  ;  \pm 8 
 \end{array}
 $$
 
