@@ -50,6 +50,8 @@ all possible factor of 1 and 6  . Here they are  :
 $$
 \begin{array}{l} \\
 t = 6  =  \pm 1   ;  \pm 2   ; \pm 3 ; \pm 6 \\
-s = 1   =  1\cdot 1   = -1 \cdot -1  
+s = 1    = \pm 1   
 \end{array}
 $$
+
+
