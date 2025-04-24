@@ -586,12 +586,13 @@ so the list of  possible rational zeros of this polynomial is :
 $$
 \begin{array}{l} \\
 
-\frac{\pm 2}{\pm 1 }   =  \pm 2 \\
-\frac{\pm 4 } {\pm 1}  =  \pm  4  \\   
+\frac{\pm 8}{\pm 2 }   =  \pm 4\\
+\frac{\pm 4 } {\pm 2}  =  \pm  2  \\   
 \frac{\pm 2}{\pm 8}   =  \pm \frac{1}{4} \\
 \frac{\pm 4 } {\pm 8}  =  \pm  \frac{1}{2 }  \\   
 \end{array}
 $$
+
 
 $$
 (  2x^3  - 3x^2 - 8 x  + 12 )(x     - 2   )
