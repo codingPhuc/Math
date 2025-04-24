@@ -98,4 +98,5 @@ $$
 	What is this telling us is that if we evaluate the one point and it above the x-axis and evaluate another point causing it to be bellow the x-axis  then there must be a point that cross the x-axis where the equation y is zero 
 note however this this fact does not tell us what the zero is it just tell us that there exist a zero if one result of the equation is negative while the other is positive 
 ##  Process for finding Rational Zeros 
-1. use the rational root theorem to list all possible rational zeroes of the polynomial $$
+1. use the rational root theorem to list all possible rational zeroes of the polynomial $P( x)$
+2. Evaluate the polynomial  at the number from the first step  until we find a zero 
