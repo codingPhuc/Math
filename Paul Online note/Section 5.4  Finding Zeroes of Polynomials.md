@@ -124,11 +124,12 @@ so the list of  possible rational zeros of this polynomial is :
 $$
 \begin{array}{l} \\
 \frac{\pm 1}{\pm 1 }   =  \pm 1  \\
-\frac{\pm 2}{\pm 1 }   =   \\
-\frac{\pm 3}{\pm 1 } \\
-\frac{\pm 4 }  {\pm 1} \\
-\frac{\pm 5 } {\pm 1} \\
-\frac{\pm 6 } {\pm 1}
+\frac{\pm 2}{\pm 1 }     =  \pm 2   \\
+\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
+\frac{\pm 4 }  {\pm 1}  =  \pm 4  \\
+\frac{\pm 5 } {\pm 1}   =  \pm 5 \\
+\frac{\pm 6 } {\pm 1}  =  \pm 6 
 \end{array}
 $$
+
 
