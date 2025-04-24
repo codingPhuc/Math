@@ -514,16 +514,16 @@ $$
 
 
 $$
-(2x^2  - x -  6)(x - 2)^2   =  
+(2x^2  - x -  6)(x - 2)^2   =  (x  - 2 )( 3x + 2  ) (x - 2)^2 
 
 $$
 
 we will have simple 2  zero solution that is  
 $$
-x  = 4  ; x  = 1  
+x  =2  ; x  = -\frac{2}{3}
 $$
 and  one zero solution with the multiplicity of 2 
 $$
-x =  -1  
+x =  2 
 $$
 
