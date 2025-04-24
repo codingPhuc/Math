@@ -428,5 +428,85 @@ x  = 4  ; x  = 1
 $$
 and  one zero solution with the multiplicity of 2 
 $$
--1
+x =  -1  
 $$
+
+
+
+
+
+
+
+
+
+Determine all the zeroes of $P(x) =   x^4  - 3x^3  - 5x^2 + 3x + 4$   
+
+the factor of t and s is : 
+$$
+\begin{array}{l} \\
+t = 4 =   \pm 1     ;  \pm 2  ;  \pm 4   \\  \\
+s = 1  =  \pm 1        
+\end{array}
+$$
+
+
+so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+\frac{\pm 1}{\pm 1 }   =  \pm 1  \\
+\frac{\pm 2}{\pm 1 }   =  \pm 2 \\
+\frac{\pm 4 } {\pm 1}  =  \pm  4  \\
+
+\end{array}
+$$
+
+we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
+
+|     | 1   | -3  | -5  | 3   | 4                  |
+| --- | --- | --- | --- | --- | ------------------ |
+| -1  | 1   | -4  | -1  | 4   | $0  =P(4)  = 0$    |
+
+
+$$
+(  x^3  - 4x^2 - x  + 4 )(x   +  1 )
+$$ 
+
+the factor of t and s is : 
+$$
+\begin{array}{l} \\
+t = 4 =   \pm 1     ;  \pm 2  ;  \pm 4   \\ 
+s = 1  =  \pm 1   
+\end{array}
+$$
+
+
+
+so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+\frac{\pm 1}{\pm 1 }   =  -1  \\
+\frac{\pm 3}{\pm 1 }     =  \pm 3   \\
+\frac{\pm 4}{\pm 1 }   =  \pm 4 \\ 
+\end{array}
+$$
+
+
+|     | 1   | -4  | -1  | 4   |
+| --- | --- | --- | --- | --- |
+| 1   | 1   | -3  | -4  | 0   |
+
+
+$$
+(x^2  -3x  -4 )(x -  1)(x+ 1 )  = (x-4)(x  -1  )(x + 1 )^2
+
+$$
+
+we will have simple 2  zero solution that is  
+$$
+x  = 4  ; x  = 1  
+$$
+and  one zero solution with the multiplicity of 2 
+$$
+x =  -1  
+$$
+
