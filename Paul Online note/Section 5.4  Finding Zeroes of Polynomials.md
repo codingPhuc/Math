@@ -514,15 +514,15 @@ $$
 
 
 $$
-(2x^2  - x -  6)(x - 2)^2   =  (x  - 2 )( 3x + 2  ) (x - 2)^2 
+(2x^2  - x -  6)(x - 2)^2   =  ( 3x + 2  ) (x - 2)^3
 
 $$
 
 we will have simple 2  zero solution that is  
 $$
-x  =2  ; x  = -\frac{2}{3}
+ x  = -\frac{2}{3}
 $$
-and  one zero solution with the multiplicity of 2 
+and  one zero solution with the multiplicity of 3
 $$
 x =  2 
 $$
