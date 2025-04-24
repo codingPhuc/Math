@@ -65,9 +65,19 @@ $$
 
 \end{array}
 $$
-so it look like we will have 
-
+so it look like we will have 8 possible rational zero 
 $$
 \begin{array}{l} \\
-P(x)  =   2x^4 + x^3 + 3x^2 +  3x - 9 
-\end
+P(x)  =   2x^4 + x^3 + 3x^2 +  3x - 9   \\
+
+\end{array}
+$$ 
+the factor of t and s is : 
+$$
+\begin{array}{l} \\
+t = 6  =  \pm 1   ;  \pm 2   ; \pm 3 ; \pm 6 \\
+s = 1    = \pm 1   
+\end{array}
+$$
+
+
