@@ -383,13 +383,13 @@ $$
 
 we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
 
-|     | 1   | -3  | -5  | 3   | 4                   |
-| --- | --- | --- | --- | --- | ------------------- |
-| -1  | 2   | -1  | 4   | -1  | $2  =P(-1)  \neq 0$ |
-| 1   | 2   | 3   | 6   | 9   | $0  =P(1)  \neq 0$  |
+|     | 1   | -3  | -5  | 3   | 4                  |
+| --- | --- | --- | --- | --- | ------------------ |
+| -1  | 1   | -4  | -1  | 4   | $0  =P(4)  = 0$    |
+
 
 $$
-(  2x^3    + 3x^2  +  6x  +  9   )(x   - 1 )
+(  x^3  - )(x   - 1 )
 $$ 
 
 the factor of t and s is : 
