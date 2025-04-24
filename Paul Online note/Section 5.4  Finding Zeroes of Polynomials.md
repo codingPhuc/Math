@@ -47,7 +47,8 @@ $$
 all the possible rational solution for these number are 
 $$
 \begin{array}{l} \\
-t = 6  =    \\
-s = 1 
+t = 6  =  3\cdot 2   = -3 \cdot -2 = -6  \cdot  -1  =  6 \cdot 1    \\
+s = 1   =  1\cdot 1   = -1 \cdot -1  
 \end{array}
 $$
+
