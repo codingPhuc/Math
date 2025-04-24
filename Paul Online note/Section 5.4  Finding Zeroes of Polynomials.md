@@ -42,8 +42,12 @@ This theorem is important because it allow us to find out the number of combinat
 $$
 \begin{array}{l} \\
 P(x) = x^4 -7x^3 + 17x^2 - 17x + 6     \\
-
 \end{array}
-
-
+$$
+all the possible rational solution for these number are 
+$$
+\begin{array}{l} \\
+t = 6  =    \\
+s = 1 
+\end{array}
 $$
