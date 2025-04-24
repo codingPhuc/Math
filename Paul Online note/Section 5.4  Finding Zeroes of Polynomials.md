@@ -470,7 +470,7 @@ $$
 we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
 $P(x) =   2x^4  - 7x^3 - 2x^2 + 28x - 24$   
 
-|     | 2   | -7  | -2  | 28  |                 |
+|     | 2   | -7  | 28  | -24 |                 |
 | --- | --- | --- | --- | --- | --------------- |
 | -1  | 1   | -4  | -1  | 4   | $0  =P(4)  = 0$ |
 
