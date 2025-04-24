@@ -468,10 +468,11 @@ $$
 $$
 
 we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
+$P(x) =   2x^4  - 7x^3 - 2x^2 + 28x - 24$   
 
-|     | 1   | -3  | -5  | 3   | 4                  |
-| --- | --- | --- | --- | --- | ------------------ |
-| -1  | 1   | -4  | -1  | 4   | $0  =P(4)  = 0$    |
+|     | 2   | -7  | -2  | 28  |                 |
+| --- | --- | --- | --- | --- | --------------- |
+| -1  | 1   | -4  | -1  | 4   | $0  =P(4)  = 0$ |
 
 
 $$
