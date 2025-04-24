@@ -8,7 +8,7 @@ Current date: 2025-04-24
 ---
 
 We've been talking about  zeroes of polynomial and why we need them for a couple of section now . We haven't , however , really talk about them for polynomial greater than 2 
-. In Addition  in this section we will give a process that will find all rational (_i.e._ integer or fractional) zeroes of a polynomial  . we will be able to used a process for finding zeros of a polynomial provided that all but  at most two of the zero are not polynomial . If more than two of the process are not rational then this process will not find all of the zero
+. In Addition  in this section we will give a process that will find all rational (_i.e._ integer or fractional) zeroes of a polynomial  . We can use factoring techniques to find the zeroes of a polynomial, as long as all but at most two of the zeroes are rational or can be found by factoring. The remaining zeroes can then be found using the Quadratic Formula. . If more than two of the process are not rational then this process will not find all of the zero
 
 
 
