@@ -198,7 +198,7 @@ $$
 ( x^2   - 5x   +  6 )(x   - 1 )^2   =  (x - 3)(x - 2  )(x - 1 )^2 
 $$
 
-
-
-
-
+Before moving on to the next example let's also note that we can now completely factor the polynomial 
+$$
+P(X)    = x^4 - 7x^3 + 17x^2  - 17x + 6 
+$$
