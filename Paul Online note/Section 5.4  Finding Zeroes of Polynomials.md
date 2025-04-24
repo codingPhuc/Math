@@ -330,12 +330,13 @@ $$
  \pm \frac{ 1}{ 2 }    \\
 \pm \frac{ 3}{ 2 }  \\ 
 \pm \frac{ 9 } { 2}   \\
- \pm \frac{ 1}{ 2 }    \\
 \pm \frac{ 6}{ 2 }    = \pm  3  \\ 
-\pm \frac{ 9 } { 2}  
+\pm \frac{ 18 } { 2}    = \pm 6
 \end{array}
 $$
-
+$$
+f(x )  =  2x^3  - 13x^2  + 3x + 18 
+$$
 we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
 
 |     | 2   | 1   | 3   | 3   | -9                  |
