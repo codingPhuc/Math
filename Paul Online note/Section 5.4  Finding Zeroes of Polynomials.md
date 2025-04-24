@@ -345,7 +345,7 @@ we will now do the synthetic calculation zero this time dropping the middle row 
 
 
 $$
-(  2x^2   - 15x  + 18   )(x   +  1 )  = 
+(  2x^2   - 15x  + 18   )(x   +  1 )  = (x   - )
 $$ 
 
 the factor of t and s is : 
