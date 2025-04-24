@@ -312,7 +312,7 @@ $$
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t =  \pm 1     ;  \pm 3    ; \pm 9   \\  \\
+t = 18  =   \pm 1     ;  \pm 3   ;  \pm     ; \pm 9   \\  \\
 s = 2  =  \pm 1      ;  \pm 2    
 \end{array}
 $$
