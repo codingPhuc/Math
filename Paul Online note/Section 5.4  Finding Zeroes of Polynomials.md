@@ -12,4 +12,5 @@ We've been talking about  zeroes of polynomial and why we need them for a couple
 
 
 
-## Rat
+## Rational Root Theorem 
+if the rational number $x=\frac{b}{c}$ is a zero of the $n^{th}$ 
