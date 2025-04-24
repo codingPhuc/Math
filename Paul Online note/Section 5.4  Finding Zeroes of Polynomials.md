@@ -290,15 +290,11 @@ x    = \pm \sqrt{ 3 }  i
 $$
 we will have 2 zero solution that is  
 $$
-
+-\frac{3}{2 }    ;  1  
 $$
 and two imaginary solution 
-
-
-
-
-Before moving on to the next example let's also note that we can now completely factor the polynomial 
 $$
-P(X)    = x^4 - 7x^3 + 17x^2  - 17x + 6 
+ \sqrt{  3 }  ,   - \sqrt{ 3 }
 $$
-we know for each zero solution , we will be given the corresponding factor form and that each exponent in the factor form is the multiplicity of that zero 
+
+
