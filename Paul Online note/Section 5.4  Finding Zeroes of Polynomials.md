@@ -604,16 +604,26 @@ $$
 
 
 $$
-(8x^3  +  4x^2 +2x  + 1 )(x - 2)^2   =  (2x-3 )(x -2  )^3 
+(8x^3  +  4x^2 +2x  + 1 )(x - 2)^2   
 
 $$
 
-we will have simple 1  zero solution that is  
+the factor of t and s is : 
 $$
- x  = \frac{3}{2}  
-$$
-and  one zero solution with the multiplicity of 2
-$$
-x =  2
+\begin{array}{l} \\
+t = 1  \\
+s = 8    =  \pm 2   ;   \pm 4   ;   \pm 8  
+\end{array}
 $$
 
+
+
+so the list of  possible rational zeros of this polynomial is : 
+$$
+\begin{array}{l} \\
+
+\frac{\pm 1}{\pm 2 }   =  \pm 4\\
+\frac{\pm 1} {\pm 4}  =  \pm  2  \\   
+\frac{\pm 1}{\pm 8}   =  \pm \frac{1}{4} \\ 
+\end{array}
+$$
