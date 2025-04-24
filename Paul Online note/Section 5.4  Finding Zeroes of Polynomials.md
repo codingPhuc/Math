@@ -283,10 +283,17 @@ $$
 $$
 since  
 $$
-\begin{array }{l} 
-
-\end{array }
+\begin{array}{l} 
+2x^2  + 6   =  0    \\
+x    = \pm \sqrt{ 3 }  i 
+\end{array}
 $$
+we will have 2 zero solution that is  
+$$
+
+$$
+and two imaginary solution 
+
 
 
 
