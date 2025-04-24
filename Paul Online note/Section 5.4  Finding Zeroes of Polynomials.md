@@ -604,16 +604,16 @@ $$
 
 
 $$
-(2x^2   -7x  +  6)(x - 2)^2   =  (2x-3 )(x -2  )
+(2x^2   -7x  +  6)(x - 2)^2   =  (2x-3 )(x -2  )^3 
 
 $$
 
-we will have simple 2  zero solution that is  
+we will have simple 1  zero solution that is  
 $$
- x  = -\frac{2}{3}  ;  x  =2  
+ x  = \frac{3}{2}  
 $$
 and  one zero solution with the multiplicity of 2
 $$
-x =  -2 
+x =  2
 $$
 
