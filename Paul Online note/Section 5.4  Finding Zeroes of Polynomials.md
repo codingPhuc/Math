@@ -461,14 +461,9 @@ $$
 \frac{\pm 8}{\pm 1 }   =  \pm 8 \\
 \frac{\pm 12  } {\pm 1}  =  \pm  12  \\   
 \frac{\pm 24  } {\pm 1}  =  \pm  24  \\
-\frac{\pm 1}{\pm 2 }   =  \pm 1  \\
-\frac{\pm 2}{\pm 2 }   =  \pm 2 \\
-\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
-\frac{\pm 4 } {\pm 1}  =  \pm  4  \\   
-\frac{\pm 6}{\pm 1 }   =  \pm 6  \\
-\frac{\pm 8}{\pm 1 }   =  \pm 8 \\
-\frac{\pm 12  } {\pm 1}  =  \pm  12  \\   
-\frac{\pm 24  } {\pm 1}  =  \pm  24  \\
+\frac{\pm 1}{\pm 2 } \\
+\frac{\pm 3}{\pm 2 }   \\
+
 \end{array}
 $$
 
