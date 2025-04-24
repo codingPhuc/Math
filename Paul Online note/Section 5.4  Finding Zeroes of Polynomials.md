@@ -103,3 +103,5 @@ note however this this fact does not tell us what the zero is it just tell us th
 P(x) =  (x - r)  Q(x )
 $$
 3. repeat the process using $Q(x)$ this time instead of P(x .) This repeating will continue until we reach a second degree polynomial . At this point  we can solve this directlly for the remaining  zeroes 
+
+To simplify the second step we will use synthetic division . 
