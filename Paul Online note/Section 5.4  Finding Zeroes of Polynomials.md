@@ -235,18 +235,11 @@ $$
 \pm \frac{ 9 } { 2}  
 \end{array}
 $$
-$$
-f(1 )  =  1 -  7  + 17  -  17 +  6 =   0  
-$$
-so we will have one solution f(1) that cause the equation to be zero 
-
 
 $$
 \text{Divide } x^4 -   7x^3+17x^2  - 17x + 6  \text{ by }  x   -  1     
 $$
-$$
-1 \mid 1 \; -7 \;  17 \; -  17  \;  6      
-$$
+
 
 we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
 
