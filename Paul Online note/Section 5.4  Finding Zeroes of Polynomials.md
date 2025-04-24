@@ -44,6 +44,9 @@ $$
 P(x) = x^4 -7x^3 + 17x^2 - 17x + 6     \\
 \end{array}
 $$
+
+what this is saying that for 
+
 all the possible rational solution for these number are 
 $$
 \begin{array}{l} \\
