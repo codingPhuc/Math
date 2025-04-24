@@ -569,14 +569,14 @@ $P(x) =   8x^5+36x^4+46x^3+7x^2−12x−4$
 
 
 $$
-(  8x^4   + 20)(x     - 2   )
+(  8x^4   + 20x^3 +  6x^2 +  5x- 2  )(x     - 2   )
 $$ 
 
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t = 12=    \pm 1     ;  \pm 2   ; \pm 3  ;  \pm 4   ; \pm 6  ;  \pm 8   ;  \pm 12   \\
-s = 2  =  \pm 1    ; \pm 2    
+t = -2 =   \pm 2   ; \pm 3  ;  \pm 4   ; \pm 6  ;  \pm 8   ;  \pm 12   \\
+s = -2   =  \pm 2    
 \end{array}
 $$
 
