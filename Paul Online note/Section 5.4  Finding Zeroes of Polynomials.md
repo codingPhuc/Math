@@ -54,4 +54,4 @@ s = 1    = \pm 1
 \end{array}
 $$
 
-
+Now list all the possible solution to factor the numerator and denominator  . We will be ignoring the sign for now with a 
