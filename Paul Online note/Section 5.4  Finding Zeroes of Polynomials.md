@@ -94,4 +94,4 @@ $$
 $$
 
 Fact 
-If $$
+If $P(x)$ is a polynomial and we know that  P(a ) > 0 and P(b) < 0 then somewhere between a and b is a zero of P(x)  . 
