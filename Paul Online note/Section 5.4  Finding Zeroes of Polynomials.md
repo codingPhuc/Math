@@ -418,21 +418,15 @@ $$
 
 
 $$
-(x^2  -3x  -4 )(x -  1)(x+ 1 )  = (x-4)(x + 1)(x  -1  )(x + 1 )
+(x^2  -3x  -4 )(x -  1)(x+ 1 )  = (x-4)(x  -1  )(x + 1 )^2
 
 $$
-since  
+
+we will have simple 2  zero solution that is  
 $$
-\begin{array}{l} 
-2x^2  + 6   =  0    \\
-x    = \pm \sqrt{ 3 }  i 
-\end{array}
+x  = 4  ; x  = 1  
 $$
-we will have simple  2 zero solution that is  
+and  one zero solution with the multiplicity of 2 
 $$
--\frac{3}{2 }    ;  1  
-$$
-and two imaginary solution 
-$$
- \sqrt{  3 }  ,   - \sqrt{ 3 }
+-1
 $$
