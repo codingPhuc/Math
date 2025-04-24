@@ -31,3 +31,5 @@ x  = -\frac{5}{4}  \\
 \end{array}
 $$
 we then check if the zeros solution denominator will be a factor of s and the numerator will be a factor of t 
+$t =  40=2\cdot 2\cdot 2\cdot 5$ 
+$s = 12=3\cdot_{$
