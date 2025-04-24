@@ -46,9 +46,7 @@ P(x) = x^4 -7x^3 + 17x^2 - 17x + 6     \\
 $$
 
 what this is saying that if $x=\frac{b}{c}$ is to be a zero of $P(x)$ then  b must be a factor of 6 and c must be a factor of 1 . Also we cannot forget negative factor 
-
-
-all the possible rational solution for these number are 
+all possible factor of 1 and 6  . Here they are  : 
 $$
 \begin{array}{l} \\
 t = 6  =  3\cdot 2   = -3 \cdot -2 = -6  \cdot  -1  =  6 \cdot 1    \\
