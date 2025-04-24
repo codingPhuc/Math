@@ -17,4 +17,7 @@ if the rational number $x=\frac{b}{c}$ is a zero of the $n^{th}$ degree polynomi
 $$
  P (x  )  = sx^n + \dots + t 
 $$
-where all coefficients are integer then b will be a factor of t an
+where all coefficients are integer then b will be a factor of t and c will be a factor of s 
+Note that the  zero must be reduce to the lowest term in order for this to work 
+
+
