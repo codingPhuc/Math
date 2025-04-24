@@ -97,5 +97,5 @@ $$
 	If $P(x)$ is a polynomial and we know that  P(a ) > 0 and P(b) < 0 then somewhere between a and b is a zero of P(x)  . 
 	What is this telling us is that if we evaluate the one point and it above the x-axis and evaluate another point causing it to be bellow the x-axis  then there must be a point that cross the x-axis where the equation y is zero 
 note however this this fact does not tell us what the zero is it just tell us that there exist a zero if one result of the equation is negative while the other is positive 
-##  Process for dingin Rational Zeros 
-
+##  Process for finding Rational Zeros 
+1. use the rational root theorem to list all possible rational zeroes of the polynomial $$
