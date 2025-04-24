@@ -563,13 +563,13 @@ $$
 we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
 $P(x) =   8x^5+36x^4+46x^3+7x^2−12x−4$   
 
-|     | 8   | 36  | 46  | 7   | -12             | -4  |
-| --- | --- | --- | --- | --- | --------------- | --- |
-| -2  | 2   | -3  | -8  | 12  | $0  =P(2)  = 0$ |     |
+|     | 8   | 36  | 46  | 7   | -12 | -4  |
+| --- | --- | --- | --- | --- | --- | --- |
+| -2  | 8   | 20  | 6   | 5   | -2  | 0   |
 
 
 $$
-(  2x^3  - 3x^2 - 8 x  + 12 )(x     - 2   )
+(  8x^4   + 20)(x     - 2   )
 $$ 
 
 the factor of t and s is : 
