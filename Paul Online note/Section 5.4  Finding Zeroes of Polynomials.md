@@ -8,8 +8,7 @@ Current date: 2025-04-24
 ---
 
 We've been talking about  zeroes of polynomial and why we need them for a couple of section now . We haven't , however , really talk about them for polynomial greater than 2 
-. In Addition  in this section we will give a process that will find all rational (_i.e._ integer or fractional) zeroes of a polynomial  . We will providing a process that work if the number of rational zeros solutions >=2 if the number of rational zeros sol < 2     
-
+. In Addition  in this section we will give a process that will find all rational (_i.e._ integer or fractional) zeroes of a polynomial  . We will providing a process that work if the number of rational zeros solutions >=2, if the number of rational zeros solution < 2  this process will not work 
 
 
 ## Rational Root Theorem 
@@ -27,6 +26,8 @@ $$
 
 $$
 \begin{array}{l}
+x = \frac{2}{ 3}   \\
+x  = -\frac{5}{4}  \\
 
 \end{array}
 $$
