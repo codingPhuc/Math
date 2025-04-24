@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 4.6  Transformations.md",
+                "file": "Paul Online note/Section 5.1  Dividing Polynomials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 4.6  Transformations"
+              "title": "Section 5.1  Dividing Polynomials"
             }
           }
         ]
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 5.4  Finding Zeroes of Polynomials.md",
+                "file": "Paul Online note/Section 5.1  Dividing Polynomials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 5.4  Finding Zeroes of Polynomials"
+              "title": "Outline of Section 5.1  Dividing Polynomials"
             }
           }
         ],
@@ -245,12 +245,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "08a49e2c33b5ac4c",
   "lastOpenFiles": [
-    "Paul Online note/Section 5.3  Graphing Polynomials.md",
-    "Paul Online note/Section 5.4  Finding Zeroes of Polynomials.md",
-    "Paul Online note/Untitled.md",
     "Paul Online note/Section 4.6  Transformations.md",
+    "Paul Online note/Section 5.4  Finding Zeroes of Polynomials.md",
+    "Paul Online note/Section 5.3  Graphing Polynomials.md",
+    "Paul Online note/Untitled.md",
     "How to factor and solve fourth degree polynomial.md",
     "picture/Pasted image 20250423112902.png",
     "picture/Pasted image 20250423084429.png",

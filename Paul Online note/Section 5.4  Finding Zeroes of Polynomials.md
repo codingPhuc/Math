@@ -131,5 +131,12 @@ $$
 \frac{\pm 6 } {\pm 1}  =  \pm 6 
 \end{array}
 $$
+$$
+f(1 )  =  1 -  7  + 17  -  17 +  6 =   0  
+$$
+so we will have one solution f(1) that cause the equation to be zero 
+$$
 
+
+$$
 
