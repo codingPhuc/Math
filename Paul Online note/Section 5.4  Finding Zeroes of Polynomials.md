@@ -54,4 +54,4 @@ s = 1    = \pm 1
 \end{array}
 $$
 
-Now list all the possible solution to factor the numerator and denominator  . We need to first simply the faction as must as possible then apply the $\pm$ sign  . Note
+Now list all the possible solution to factor the numerator and denominator  . We need to first simply the faction as must as possible then apply the $\pm$ sign  . Note however that the $\pm$ will be counted 2 time not four for possible zero solution since we need both the numerator and 
