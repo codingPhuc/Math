@@ -439,7 +439,7 @@ $$
 
 
 
-Determine all the zeroes of $P(x) =   x^4  - 3x^3  - 5x^2 + 3x + 4$   
+Determine all the zeroes of $P(x) =   2x^4  - 7x^3 - 2x^2 + 28x - 24$   
 
 the factor of t and s is : 
 $$
