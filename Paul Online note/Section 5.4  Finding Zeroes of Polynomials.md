@@ -87,8 +87,11 @@ $$
 \frac{\pm 1}{\pm 2 }   \\
 \frac{\pm 3}{\pm 2 }   \\
 \frac{\pm 9}{\pm 2 } \\
-\frac{\pm 1}{\pm 1 }   \\
-\frac{\pm 1}{\pm 3 }  \\
-\frac{\pm 1}{\pm  } 
+\frac{\pm 1 }  {\pm 1} \\
+\frac{\pm 3 } {\pm 1} \\
+\frac{\pm 9 } {\pm 1}
 \end{array}
 $$
+
+Fact 
+If $$
