@@ -260,8 +260,8 @@ so the list of  possible rational zeros of this polynomial is :
 $$
 \begin{array}{l} \\
 \frac{\pm 1}{\pm 1 }   =  1  \\
-\frac{\pm 2}{\pm 1 }     =  \pm 2   \\
-\frac{\pm 3}{\pm 1 }   =  \pm 3 \\  \\
+\frac{\pm 3}{\pm 1 }     =  \pm 3   \\
+\frac{\pm 9}{\pm 1 }   =  \pm 9 \\  \\
 
  \pm \frac{ 1}{ 2 }    \\
 \pm \frac{ 3}{ 2 }  \\ 
@@ -269,23 +269,11 @@ $$
 \end{array}
 $$
 since we already found out that -1  is not a zero solution for $P(x)$ we do not need to calculate it here  
-$$
-f(1 )  = 1^3  -  61^2  + 111 - 6    =   0  
-$$
 
-
-
-$$
-\text{Divide } x^3  -  6x^2  + 11x - 6   \text{ by }  x   -  1     
-$$
-$$
-1 \mid 1 \; -6 \;  11 \; -  6        
-$$
-
-| 1   | 1   | -6  | 11  | -6  |
-| --- | --- | --- | --- | --- |
-|     |     | 1   | -5  | 6   |
-|     | 1   | -5  | 6   | 0   |
+|     | 2   | 3   | 6   | 9   | -9                  |
+| --- | --- | --- | --- | --- | ------------------- |
+| -1  | 2   | -1  | 4   | -1  | $2  =P(-1)  \neq 0$ |
+| 1   | 2   | 3   | 6   | 9   | $0  =P(1)  \neq 0$  |
 
 $$
 ( x^2   - 5x   +  6 )(x   - 1 )^2   =  (x - 3)(x - 2  )(x - 1 )^2 
