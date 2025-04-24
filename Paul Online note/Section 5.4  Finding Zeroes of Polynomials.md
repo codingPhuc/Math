@@ -104,4 +104,4 @@ P(x) =  (x - r)  Q(x )
 $$
 3. repeat the process using $Q(x)$ this time instead of P(x .) This repeating will continue until we reach a second degree polynomial . At this point  we can solve this directlly for the remaining  zeroes 
 
-To simplify the second step we will use synthetic division . This will simplify our life in several way . First recall that for
+To simplify the second step we will use synthetic division . This will simplify our life in several way . [[Section 5.1  Dividing Polynomials]] 
