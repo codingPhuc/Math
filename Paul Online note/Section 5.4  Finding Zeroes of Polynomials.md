@@ -38,3 +38,12 @@ $s = 12=-3\cdot-4$
 since the numerator and denominator of the two solution are factor of t and s we concluded that the polynomial satisfy the  rational root theorem
 
 This theorem is important because it allow us to find out the number of combination for zeros solution rational number and it let us verify the rational number solution 
+
+$$
+\begin{array}{l} \\
+P(x) = x^4 -7x^3 + 17x^2 - 17x + 6     \\
+
+\end{array}
+
+
+$$
