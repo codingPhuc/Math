@@ -639,9 +639,9 @@ $$
 | -0.5 | 8   | 0   | -2  | 0   |
 
 $$
-\left( x+\frac{1}{2} \right)(x-2)^2(8x^2 -  2 )     = \left( x+\frac{1}{2} \right)(x+2)^22(2x - 1)(2x + 1)    =  8 \left( x+\frac{1}{2} \right)^2 (x  -2)^2 \left(  x +\frac{1}{2} \right)
+\left( x+\frac{1}{2} \right)(x-2)^2(8x^2 -  2 )     = \left( x+\frac{1}{2} \right)(x+2)^22(2x - 1)(2x + 1)    =  8 \left( x+\frac{1}{2} \right)^2 (x  -2)^2 \left(  x -\frac{1}{2} \right)
 $$
 so the multiplicity of 2 is 
-x = - 1/2  and x =2   
+x = - 1/2  and x =-2   
 the simple zero are 
 x =  1/2 
