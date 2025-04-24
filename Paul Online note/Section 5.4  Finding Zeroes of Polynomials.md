@@ -26,7 +26,7 @@ P (x )  = 12 x^3 -  41x^2 - 38 x  + 40  = (x  - 4) (3x - 2) (4x + 5 )
 $$
 
 $$
-\begin{array}
+\begin{array}{l}
 
 \end{array}
 $$
