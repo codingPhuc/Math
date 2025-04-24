@@ -482,8 +482,8 @@ $$
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t = 4 =   \pm 1     ;  \pm 2  ;  \pm 4   \\ 
-s = 1  =  \pm 1   
+t = 12=    \pm 1     ;  \pm 2   ; \pm 3  ;  \pm 4   ; \pm 6  ;  \pm 8   ;  \pm 12   \\
+s = 2  =  \pm 1    ; \pm 2    
 \end{array}
 $$
 
