@@ -279,7 +279,7 @@ since we already found out that -1  is not a zero solution for $P(x)$ we do not 
 | $-\frac{3}{2}$ | 2   | 0   | 6   | $P(-\frac{3}{2})  = 0$                |
 
 $$
-( x^2   - 5x   +  6 )(x   - 1 )^2   =  (x - 3)(x - 2  )(x - 1 )^2 
+( 2x^2  + 6  )(  )(x   - 1 )
 $$
 
 Before moving on to the next example let's also note that we can now completely factor the polynomial 
