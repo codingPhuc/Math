@@ -365,7 +365,7 @@ Determine all the zeroes of $P(x) =   x^4  - 3x^3  - 5x^2 + 3x + 4$
 the factor of t and s is : 
 $$
 \begin{array}{l} \\
-t = 4 =   \pm 1     ;  \pm 3    ; \pm 9   \\  \\
+t = 4 =   \pm 1     ;  \pm 2  ;  \pm 4   \\  \\
 s = 1  =  \pm 1        
 \end{array}
 $$
@@ -375,17 +375,15 @@ so the list of  possible rational zeros of this polynomial is :
 $$
 \begin{array}{l} \\
 \frac{\pm 1}{\pm 1 }   =  \pm 1  \\
-\frac{\pm 3}{\pm 1 }   =  \pm 3 \\
-\frac{\pm 9 } {\pm 1}  =  \pm 9   \\
- \pm \frac{ 1}{ 2 }    \\
-\pm \frac{ 3}{ 2 }  \\ 
-\pm \frac{ 9 } { 2}  
+\frac{\pm 2}{\pm 1 }   =  \pm 2 \\
+\frac{\pm 4 } {\pm 1}  =  \pm  4  \\
+
 \end{array}
 $$
 
 we will now do the synthetic calculation zero this time dropping the middle row for quicker syntax 
 
-|     | 2   | 1   | 3   | 3   | -9                  |
+|     | 1   | -3  | -5  | 3   | 4                   |
 | --- | --- | --- | --- | --- | ------------------- |
 | -1  | 2   | -1  | 4   | -1  | $2  =P(-1)  \neq 0$ |
 | 1   | 2   | 3   | 6   | 9   | $0  =P(1)  \neq 0$  |
