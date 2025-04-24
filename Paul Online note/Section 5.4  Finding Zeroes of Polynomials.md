@@ -35,5 +35,6 @@ we then check if the zeros solution denominator will be a factor of s and the nu
 $t =  40=2\cdot 2\cdot 2\cdot 5$ 
 $s = 12=3\cdot 4$
 $s = 12=-3\cdot-4$
-since the numerator and denominator of the two solution are factor of t and s we concluded that the polynomial satisfy the  rational root theorem  
+since the numerator and denominator of the two solution are factor of t and s we concluded that the polynomial satisfy the  rational root theorem
 
+This theorem is important because it allow us to write down the rational number 
