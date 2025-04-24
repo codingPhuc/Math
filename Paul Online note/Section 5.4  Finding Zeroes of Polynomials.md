@@ -57,7 +57,7 @@ $$
 Now list all the possible solution to factor the numerator and denominator  . We need to first simply the faction as must as possible then apply the $\pm$ sign  .  Note The possible rational zeros are just simplified fractions where the **numerator is a factor of the constant term** and the **denominator is a factor of the leading coefficient**   , in other word you just need to make sure b and c belong to the list of possible faction of t and s 
 $$
 \begin{array}{l} \\
-
+P(x)  =   x^34
 \end{array}
 $
 
