@@ -255,11 +255,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "book/ECE.pdf",
+    "book/ECE.pdf.crdownload",
     "Paul Online note/Untitled 3.md",
     "Paul Online note/Section 5.4  Finding Zeroes of Polynomials.md",
     "Paul Online note/Section 5.1  Dividing Polynomials.md",
@@ -293,7 +296,6 @@
     "Triangle.md",
     "picture/Pasted image 20250417203642.png",
     "picture/Pasted image 20250417203328.png",
-    "calculus book.md",
     "book/Precalculus Stewart 7th Edition.pdf",
     "book/Precalculus Stewart 7th Edition.pdf.crdownload",
     "book",
@@ -305,7 +307,6 @@
     "Professor Leonard",
     "Paul Online note",
     "template",
-    "templates",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
