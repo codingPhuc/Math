@@ -63,3 +63,7 @@ $$
 $$
 \frac{8x - 42}{x^2   +   3x  - 18}  =  \frac{A (x  - 3) + B(x  +  6) }{(x+6)(x - 3 )} 
 $$ 
+We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+ 
+$$
