@@ -28,10 +28,10 @@ Where both  $P(x)$ and  $Q(x)$ are polynomial and the degree of P(x ) is smaller
 So  ,  once we've determine  that partial faction can  be done we factor the denominator as completely as possible  . Then for  each factor in the denominator we can use the following table to determine the term(s)  we pick up in fraction  decomposition 
 
 
-| Factor in denominator | Term  in partial fraction decomposition                                                   |
-| --------------------- | ----------------------------------------------------------------------------------------- |
-| $ax +b$<br>           | $\frac{A}{ax + b}$                                                                        |
-| $(ax+b)^b$            | $\frac{A_1}{ax+b}+\frac{A_2}{\left(ax+b\right)^2}+\cdots+\frac{A_k}{\left(ax+b\right)^k}$ |
-| $ax^2 +bx+c$          | $\frac{Ax+B}{ax^2 +bx +  c}$                                                              |
-| $(ax^2 +bx + c)^k$    |                                                                                           |
-|                       |                                                                                           |
+| Factor in denominator | Term  in partial fraction decomposition                                                                                 |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| $ax +b$<br>           | $\frac{A}{ax + b}$                                                                                                      |
+| $(ax+b)^b$            | $\frac{A_1}{ax+b}+\frac{A_2}{\left(ax+b\right)^2}+\cdots+\frac{A_k}{\left(ax+b\right)^k}$                               |
+| $ax^2 +bx+c$          | $\frac{Ax+B}{ax^2 +bx +  c}$                                                                                            |
+| $(ax^2 +bx + c)^k$    | $\frac{A_1x+B_1}{ax^2+bx+c}+\frac{A_2x+B_2}{\left(ax^2+bx+c\right)^2}+\cdots+\frac{A_kx+B_k}{\left(ax^2+bx+c\right)^k}$ |
+
