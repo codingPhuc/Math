@@ -197,10 +197,11 @@ $$
 4\cdot  2^2  =A( 2  - 2 )^2  + B ( 2  -1  ) ( 2 - 2 ) +  C ( 2  -1  )   \\       C =   16 \\ 
 \end{array}
 $$
-There is no  x that we can plug in to eliminate  both A  and C  . Instead used the A and C in our last evaluation  in order to get B plug  in a simple number x =  0  :  
-
+There is no  x that we can plug in to eliminate  both A  and C  . Instead used the A and C in our last evaluation  in order to get B plug  in a simple number x =  0  : 
 $$
- 4\cdot 0^2  =   4 + B ( 0  -1  ) ( 0  - 2 ) + 16    =  
+\begin{array}{l0}
+\end{array}
+ 4\cdot 0{l0}2  =   4(x  -2  )^2 + B ( 0  -1  ) ( 0  - 2 ) + 16 ( x  -1)    =  
 $$
 
 
