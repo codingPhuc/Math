@@ -180,15 +180,15 @@ $$
 $$ 
 We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
-A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  ) 
+4x^2  =   A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  ) 
 $$
-so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A disappear so that we can find the other variable 
-plug in  x  = -4 to find B  : 
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+plug in  x  = 1 to find A   : 
 $$
  \begin{array}{l} \\
-9 -  9 \cdot  -4   =  A (-4   +  4) + B(2\cdot  -4  - 1 )   \\
--9B  =  45    \\
-B =   -5 
+4x^2  =A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  )   \\
+4\cdot 1^2  =A( 1  - 2 )^2  + B ( 1  -1  ) ( x  - 2 ) +  C ( 1  -1  )    \\
+B =     
 \end{array}
 $$
 plug in  x  = $\frac{1}{2}$ to find A  : 
