@@ -180,7 +180,7 @@ $$
 $$ 
 We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
-9 -  9 x  =  A (x  +  4) + B(2x  - 1 )
+A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  ) 
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A disappear so that we can find the other variable 
 plug in  x  = -4 to find B  : 
