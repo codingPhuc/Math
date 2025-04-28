@@ -67,4 +67,12 @@ We need a value A and B  so that the numerator for the value on the left is the 
 $$
 8x   - 42  =   A(x  - 3) + B (x   +  6)
 $$
-so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A disappear 
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A disappear so that we can find the other variable 
+plug in  x  = 3 to find B  : 
+$$
+ \begin{array}{}
+
+\end{array}
+ 8 \cdot  3  -  42  = A( 3  -3) +  B  ( 3 + 6 ) 
+ 
+$$
