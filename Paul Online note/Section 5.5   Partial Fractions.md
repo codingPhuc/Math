@@ -37,4 +37,7 @@ So  ,  once we've determine  that partial faction can  be done we factor the den
 
 Notice that the first and third cases are really special cases of the second and fourth case if we let $k=1$ . Also , it will be possible to factor the polynomial into a linear factor of $(ax + b)$  and $(ax^2 +bx +c)$ some of these factor can be raise to a power
 
-There are several method for deter
+There are several method for determining the coefficient for each terms and we will go over it in the next section 
+
+
+Ex
