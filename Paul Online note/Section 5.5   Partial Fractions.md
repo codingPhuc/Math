@@ -133,10 +133,10 @@ $$
 B =    \frac{45}{9 }
 \end{array}
 $$
-plug in  x  = -6 to find B  : 
+plug in  x  = $\frac{1}{2}$ to find A  : 
 $$
 \begin{array}{l} \\
-9 -  9 x  =  A (x  +  4) + B(2x  - 1 )  \\ 
+9 -  9 \cdot   \frac{1}{2} =  A (  \frac{1}{2} +  4) + B\left( 2\cdot  \frac{1}{2}  - 1  \right)  \\ 
 8\cdot  -6  - 42  =   A( - 6 - 3) + B (-6   +  6)  \\
 -9  A  =   -90   \\
 A  =  10  
