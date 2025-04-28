@@ -18,4 +18,6 @@ $$
 \end{array}
 $$
 
-what we  want to do in this section is start with  rational  expression and ask what simpler rational expression did we add or subtract to get the original expression .The prec
+what we  want to do in this section is start with  rational  expression and ask what simpler rational expression did we add or subtract to get the original expression .The process for this is called partial faction  and the result is called partial faction compression 
+
+the compress can be long and sometime messy , however  it is fairly simpe
