@@ -95,7 +95,7 @@ $$
 
 
 
-
+#fail 
 $$
 \begin{array}{l} \\
 \frac{9 -  9 x } {2x^2   +  7x - 4 }       \\
@@ -130,7 +130,7 @@ $$
  \begin{array}{l} \\
 9 -  9 \cdot  -4   =  A (-4   +  4) + B(2\cdot  -4  - 1 )   \\
 -9B  =  45    \\
-B =    \frac{45}{9 }
+B =   -5 
 \end{array}
 $$
 plug in  x  = $\frac{1}{2}$ to find A  : 
@@ -146,5 +146,5 @@ $$
 So  by correctly  finding x we manage to get the value A and B  we will now plug them in : 
 
 $$
-\frac{9 -  9 x } {2x^2   +  7x - 4 }    =  \frac{A}{2x - 1}  +  \frac{B}{x +4}
+\frac{9 -  9 x } {2x^2   +  7x - 4 }    =  \frac{1}{2x - 1}  +  \frac{5}{ (x +4)}
 $$
