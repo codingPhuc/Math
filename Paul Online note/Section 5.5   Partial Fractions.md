@@ -107,11 +107,11 @@ $$
 The first thing we should do is factor the denominator as must as we can  .  
 
 $$
-\frac{9 -  9 x } {2x^2   +  7x - 4 }   = \frac{9 -  9 x } {2x^2   +  7x - 4 } 
+\frac{9 -  9 x } {2x^2   +  7x - 4 }   = \frac{9 -  9 x } {(2x - 1) (x  + 4)} 
 $$
 so  by seeing the result above a partial decomposition is just : 
 $$
-\frac{8x - 42}{x^2   +   3x  - 18}  =  \frac{A}{x+6}  +  \frac{B}{x - 3}
+\frac{9 -  9 x } {2x^2   +  7x - 4 }    =  \frac{A}{2x - 1}  +  \frac{B}{x +4}
 $$
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
 $$
