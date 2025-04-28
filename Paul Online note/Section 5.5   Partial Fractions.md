@@ -42,8 +42,8 @@ There are several method for determining the coefficient for each terms and we w
 
 Example 1 : determine the partial fraction of each of the following  : 
 $$
-\begin{array}
-
-\end{array}
+\begin{array} {l}
 \frac{8x -  42}{x^2 + 3x  - 18 } 
+\end{array}
+
 $$
