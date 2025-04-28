@@ -176,7 +176,7 @@ $$
 LCD  =   ( x  -1  ) ( x  - 2 )^2   
 $$
 $$
-\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     =  \frac{A}{x  - 1 }  +  \frac{B}{x -2  }    +  \frac{C}{(x  -2 )^2  }  
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     =  \frac{A}{x  - 1 }  +  \frac{B}{x -2  }    +  \frac{C}{(x  -2 )^2  }  \frac{A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  )    }{( x  -1  ) ( x  - 2 )^2   }
 $$ 
 We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
