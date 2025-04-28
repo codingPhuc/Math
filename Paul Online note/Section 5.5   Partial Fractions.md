@@ -58,7 +58,7 @@ $$
 $$
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
 $$
- (x  + 6) (x  - 3)
+LCD  =    (x  + 6) (x  - 3)
 $$
 $$
 \frac{8x - 42}{x^2   +   3x  - 18}  =  \frac{A (x  - 3) + B(x  +  6) }{(x+6)(x - 3 )} 
