@@ -86,4 +86,4 @@ A  =  10
 \end{array}
 $$
 
-So  by correctly  finding x we manage to get the value A and B  we will now plug them in 
+So  by correctly  finding x we manage to get the value A and B  we will now plug them in : 
