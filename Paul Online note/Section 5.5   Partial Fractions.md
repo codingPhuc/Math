@@ -161,7 +161,11 @@ $$
 $$
 
 The first thing we should do is factor the denominator as must as we can  .  
-
+$$
+\begin{array}{l} \\
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }    \\
+\end{array}
+$$
 
 so  by seeing the result above a partial decomposition is just : 
 $$
@@ -169,10 +173,10 @@ $$
 $$
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
 $$
-LCD  =    (2x   -1 ) (x  +  4 )
+LCD  =   ( x  -1  ) ( x  - 2 )^2   
 $$
 $$
-\frac{9 -  9 x } {2x^2   +  7x - 4 }     =  \frac{A (x  +  4) + B(2x  - 1 ) }{(2x   -1 ) (x  +  4 )} 
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     =  \frac{A}{x  - 1 }  +  \frac{B}{x -2  }    +  \frac{C}{(x  -2 )^2  }  
 $$ 
 We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
