@@ -24,4 +24,4 @@ the compress can be long and sometime messy , however  it is fairly simple . We 
 $$
 \frac{P(x)}{ Q(x)}
 $$
-Where both  $P(x)$ and  $Q(x)$
+	Where both  $P(x)$ and  $Q(x)$ are polynomial and the degree of P(x ) is smaller than the degree of  Q(x)
