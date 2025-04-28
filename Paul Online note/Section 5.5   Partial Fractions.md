@@ -148,3 +148,65 @@ So  by correctly  finding x we manage to get the value A and B  we will now plug
 $$
 \frac{9 -  9 x } {2x^2   +  7x - 4 }    =  \frac{1}{2x - 1}  -  \frac{5}{ (x +4)}
 $$
+
+
+
+
+
+
+
+
+$$
+\begin{array}{l} \\
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }    \\ \\
+
+\end{array}
+
+$$
+
+The first thing we should do is factor the denominator as must as we can  .  
+
+$$
+\frac{9 -  9 x } {2x^2   +  7x - 4 }   = \frac{9 -  9 x } {(2x - 1) (x  + 4)} 
+$$
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{9 -  9 x } {2x^2   +  7x - 4 }    =  \frac{A}{2x - 1}  +  \frac{B}{x +4}
+$$
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  =    (2x   -1 ) (x  +  4 )
+$$
+$$
+\frac{9 -  9 x } {2x^2   +  7x - 4 }     =  \frac{A (x  +  4) + B(2x  - 1 ) }{(2x   -1 ) (x  +  4 )} 
+$$ 
+We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+9 -  9 x  =  A (x  +  4) + B(2x  - 1 )
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A disappear so that we can find the other variable 
+plug in  x  = -4 to find B  : 
+$$
+ \begin{array}{l} \\
+9 -  9 \cdot  -4   =  A (-4   +  4) + B(2\cdot  -4  - 1 )   \\
+-9B  =  45    \\
+B =   -5 
+\end{array}
+$$
+plug in  x  = $\frac{1}{2}$ to find A  : 
+$$
+\begin{array}{l} \\
+9 -  9 \cdot   \frac{1}{2} =  A \left(   \frac{1}{2} +  4 \right) + B\left( 2\cdot  \frac{1}{2}  - 1  \right)  \\ 
+  \frac{9}{2}A   =  \frac{9}{2} \\
+ A  =   1 \\
+A  =  10  
+\end{array}
+$$
+
+So  by correctly  finding x we manage to get the value A and B  we will now plug them in : 
+
+$$
+\frac{9 -  9 x } {2x^2   +  7x - 4 }    =  \frac{1}{2x - 1}  -  \frac{5}{ (x +4)}
+$$
+
+
