@@ -136,9 +136,9 @@ $$
 plug in  x  = $\frac{1}{2}$ to find A  : 
 $$
 \begin{array}{l} \\
-9 -  9 \cdot   \frac{1}{2} =  A (  \frac{1}{2} +  4) + B\left( 2\cdot  \frac{1}{2}  - 1  \right)  \\ 
-8\cdot  -6  - 42  =   A( - 6 - 3) + B (-6   +  6)  \\
--9  A  =   -90   \\
+9 -  9 \cdot   \frac{1}{2} =  A \left(   \frac{1}{2} +  4 \right) + B\left( 2\cdot  \frac{1}{2}  - 1  \right)  \\ 
+  \frac{9}{2}A   =  \frac{9}{2} \\
+ A  =   1 \\
 A  =  10  
 \end{array}
 $$
@@ -146,5 +146,5 @@ $$
 So  by correctly  finding x we manage to get the value A and B  we will now plug them in : 
 
 $$
-\frac{8x  - 42 }{x^2 +  3x  - 18 }   = \frac{10}{x+ 6}   + -\frac{2}{x - 3}  = \frac{10}{ x + 6}  - \frac{2}{x - 3}
+\frac{9 -  9 x } {2x^2   +  7x - 4 }    =  \frac{A}{2x - 1}  +  \frac{B}{x +4}
 $$
