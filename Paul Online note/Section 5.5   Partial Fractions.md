@@ -87,3 +87,8 @@ A  =  10
 $$
 
 So  by correctly  finding x we manage to get the value A and B  we will now plug them in : 
+
+
+$$
+0 
+$$
