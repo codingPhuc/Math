@@ -13,7 +13,7 @@ Let's suppose we add the two rational expression
 
 
 $$
- \begin{array}{}
-
-\end{array}{}
-$$
+ \begin{array}{l}
+\frac{8}{x +1}   -  \frac{5}{x   - 4}    = 8() 
+\end{array}
+$$\frac{8}{x +1}   -  \frac{5}{x   - 4} 
