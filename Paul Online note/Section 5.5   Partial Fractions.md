@@ -46,4 +46,4 @@ $$
 \frac{8x -  42}{x^2 + 3x  - 18 } 
 \end{array}
 
-$$ there is no 
+$$ there is no partial faction  with this equation 
