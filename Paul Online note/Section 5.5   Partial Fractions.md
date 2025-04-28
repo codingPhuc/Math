@@ -220,7 +220,7 @@ $$
 
 $$
 \begin{array}{l} \\
-\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }    \\
+\frac{9x}{}   \\
 \end{array}
 $$
 
