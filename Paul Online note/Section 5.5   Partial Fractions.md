@@ -27,3 +27,8 @@ $$
 Where both  $P(x)$ and  $Q(x)$ are polynomial and the degree of P(x ) is smaller than the degree of  Q(x)
 So  ,  once we've determine  that partial faction can  be done we factor the denominator as completely as possible  . Then for  each factor in the denominator we can use the following table to determine the term(s)  we pick up in fraction  decomposition 
 
+
+| Factor in denominator | Term  in partial fraction decomposition |
+| --------------------- | --------------------------------------- |
+| <br>                  |                                         |
+|                       |                                         |
