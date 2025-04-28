@@ -107,7 +107,7 @@ $$
 The first thing we should do is factor the denominator as must as we can  .  
 
 $$
-\frac{8x - 42}{x^2  +  3x  - 18} =  \frac{8x - 42}{(x + 6)(x  - 3)} 
+\frac{9 -  9 x } {2x^2   +  7x - 4 }   = \frac{9 -  9 x } {2x^2   +  7x - 4 } 
 $$
 so  by seeing the result above a partial decomposition is just : 
 $$
