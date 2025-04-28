@@ -17,3 +17,5 @@ $$
 \begin{gathered}\frac{8}{x+1}-\frac{5}{x-4}=\frac{8\left(x-4\right)}{\left(x+1\right)\left(x-4\right)}-\frac{5\left(x+1\right)}{\left(x+1\right)\left(x-4\right)}\\=\frac{8x-32-(5x+5)}{\left(x+1\right)\left(x-4\right)}\\=\frac{3x-37}{\left(x+1\right)\left(x-4\right)}\end{gathered}
 \end{array}
 $$
+
+what we  want to do in this section is 
