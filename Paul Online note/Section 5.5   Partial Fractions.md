@@ -176,7 +176,7 @@ $$
 LCD  =   ( x  -1  ) ( x  - 2 )^2   
 $$
 $$
-\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     =  \frac{A}{x  - 1 }  +  \frac{B}{x -2  }    +  \frac{C}{(x  -2 )^2  }   =  \frac{A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  )    }{( x  -1  ) ( x  - 2 )^2   }
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     =  \frac{A}{x  - 1 }  +  \frac{B}{x -2  }    +  \frac{C}{(x  -2 )^2  }   \frac{A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  )    }{( x  -1  ) ( x  - 2 )^2   }
 $$ 
 We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
@@ -199,13 +199,79 @@ $$
 $$
 There is no  x that we can plug in to eliminate  both A  and C  . Instead used the A and C in our last evaluation  in order to get B plug  in a simple number x =  0  : 
 $$
-\frac{A}{x  - 1 }  +  \frac{B}{x -2  }    +  \frac{C}{(x  -2 )^2  } 
+\begin{array}{l} \\
+ 4\cdot 0^2  =   4( 0 -2  )^2 + B ( 0  -1  ) ( 0  - 2 ) + 16 ( 0   -1)     \\
+2B  =  0    \\
+B  =   0  \\
+\end{array}
 $$
 
-So  by correctly  finding x we manage to get the value A and B  we will now plug them in : 
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+\frac{4}{x  - 1 }    +  \frac{16}{(x  -2 )^2  } 
+$$
+
+
+
+
+
+
+
 
 $$
-\frac{9 -  9 x } {2x^2   +  7x - 4 }    =  \frac{1}{2x - 1}  -  \frac{5}{ (x +4)}
+\begin{array}{l} \\
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }    \\
+\end{array}
 $$
 
+The first thing we should do is factor the denominator as must as we can  .  
+$$
+\begin{array}{l} \\
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }    \\
+\end{array}
+$$
+
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     =  \frac{A}{x  - 1 }  +  \frac{B}{x -2  }    +  \frac{C}{(x  -2 )^2  }
+$$
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  =   ( x  -1  ) ( x  - 2 )^2   
+$$
+$$
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     =  \frac{A}{x  - 1 }  +  \frac{B}{x -2  }    +  \frac{C}{(x  -2 )^2  }   \frac{A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  )    }{( x  -1  ) ( x  - 2 )^2   }
+$$ 
+We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+4x^2  =   A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  ) 
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+plug in  x  = 1 to find A   : 
+$$
+ \begin{array}{l} \\
+4x^2  =A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  )   \\
+4\cdot 1^2  =A( 1  - 2 )^2  + B ( 1  -1  ) ( x  - 2 ) +  C ( 1  -1  )    \\
+A  =       4 
+\end{array}
+$$
+plug in  x  = $2$ to find C  : 
+$$
+\begin{array}{l} \\
+4\cdot  2^2  =A( 2  - 2 )^2  + B ( 2  -1  ) ( 2 - 2 ) +  C ( 2  -1  )   \\       C =   16 \\ 
+\end{array}
+$$
+There is no  x that we can plug in to eliminate  both A  and C  . Instead used the A and C in our last evaluation  in order to get B plug  in a simple number x =  0  : 
+$$
+\begin{array}{l} \\
+ 4\cdot 0^2  =   4( 0 -2  )^2 + B ( 0  -1  ) ( 0  - 2 ) + 16 ( 0   -1)     \\
+2B  =  0    \\
+B  =   0  \\
+\end{array}
+$$
+
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+\frac{4}{x  - 1 }    +  \frac{16}{(x  -2 )^2  } 
+$$
 
