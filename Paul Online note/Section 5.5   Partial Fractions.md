@@ -35,4 +35,4 @@ So  ,  once we've determine  that partial faction can  be done we factor the den
 | $ax^2 +bx+c$          | $\frac{Ax+B}{ax^2 +bx +  c}$                                                                                            |
 | $(ax^2 +bx + c)^k$    | $\frac{A_1x+B_1}{ax^2+bx+c}+\frac{A_2x+B_2}{\left(ax^2+bx+c\right)^2}+\cdots+\frac{A_kx+B_k}{\left(ax^2+bx+c\right)^k}$ |
 
-Notice that the first and third cases are really special cases f
+Notice that the first and third cases are really special cases of the second and fourth case if we let $k=1$ .
