@@ -118,17 +118,17 @@ $$
 LCD  =    (2x   -1 ) (x  +  4 )
 $$
 $$
-\frac{8x - 42}{x^2   +   3x  - 18}  =  \frac{A (x  +  4) + B(x  +  6) }{(2x   -1 ) (x  +  4 )} 
+\frac{9 -  9 x } {2x^2   +  7x - 4 }     =  \frac{A (x  +  4) + B(2x  - 1 ) }{(2x   -1 ) (x  +  4 )} 
 $$ 
 We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
-8x   - 42  =   A(x  - 3) + B (x   +  6)
+9 -  9 x  =  A (x  +  4) + B(2x  - 1 )
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A disappear so that we can find the other variable 
-plug in  x  = 3 to find B  : 
+plug in  x  = -4 to find B  : 
 $$
  \begin{array}{l} \\
- 8 \cdot  3  -  42  = A( 3  -3) +  B  ( 3 + 6 )    \\
+9 -  9 x  =  A (x  +  4) + B(2x  - 1 )   \\
 9B  =  -18   \\
 B =  -2  
 \end{array}
