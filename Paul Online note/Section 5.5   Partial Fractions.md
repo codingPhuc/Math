@@ -70,9 +70,15 @@ $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A disappear so that we can find the other variable 
 plug in  x  = 3 to find B  : 
 $$
- \begin{array}{}
+ \begin{array}{l} \\
+ 8 \cdot  3  -  42  = A( 3  -3) +  B  ( 3 + 6 )    \\
+9B  =  -18   \\
+B =  -2  
+\end{array}
+$$
+
+$$
+\begin{array}{l} \\
 
 \end{array}
- 8 \cdot  3  -  42  = A( 3  -3) +  B  ( 3 + 6 ) 
- 
 $$
