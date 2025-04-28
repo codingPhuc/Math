@@ -30,5 +30,8 @@ So  ,  once we've determine  that partial faction can  be done we factor the den
 
 | Factor in denominator | Term  in partial fraction decomposition |
 | --------------------- | --------------------------------------- |
-| <br>                  |                                         |
+| $ax +b$<br>           | $\frac{A}{ax + b}$                      |
+| $(ax+b)^b$            | $$                                      |
+|                       |                                         |
+|                       |                                         |
 |                       |                                         |
