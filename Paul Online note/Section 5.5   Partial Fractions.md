@@ -40,4 +40,10 @@ Notice that the first and third cases are really special cases of the second and
 There are several method for determining the coefficient for each terms and we will go over it in the next section 
 
 
-Ex
+Example 1 : determine the partial fraction of each of the following  : 
+$$
+\begin{array}
+
+\end{array}
+\frac{8x -  42}{x^2 + 3x  - 18 } 
+$$
