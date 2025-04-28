@@ -159,9 +159,7 @@ $$
 $$
 \begin{array}{l} \\
 \frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }    \\
-
 \end{array}
-
 $$
 
 The first thing we should do is factor the denominator as must as we can  .  
