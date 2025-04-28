@@ -188,13 +188,13 @@ $$
  \begin{array}{l} \\
 4x^2  =A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  )   \\
 4\cdot 1^2  =A( 1  - 2 )^2  + B ( 1  -1  ) ( x  - 2 ) +  C ( 1  -1  )    \\
-B =     
+A  =       4 
 \end{array}
 $$
-plug in  x  = $\frac{1}{2}$ to find A  : 
+plug in  x  = $2$ to find C  : 
 $$
 \begin{array}{l} \\
-9 -  9 \cdot   \frac{1}{2} =  A \left(   \frac{1}{2} +  4 \right) + B\left( 2\cdot  \frac{1}{2}  - 1  \right)  \\ 
+4^2  =A( 2  - 2 )^2  + B ( 2  -1  ) ( 2 - 2 ) +  C ( 2  -1  )   \\
   \frac{9}{2}A   =  \frac{9}{2} \\
  A  =   1 \\
 A  =  10  
