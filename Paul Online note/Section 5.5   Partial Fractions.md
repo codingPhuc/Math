@@ -220,7 +220,7 @@ $$
 
 $$
 \begin{array}{l} \\
-\frac{9x}{}   \\
+\frac{9x+ 25}{(x + 3)^2}   \\
 \end{array}
 $$
 
