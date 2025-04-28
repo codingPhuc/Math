@@ -76,11 +76,14 @@ $$
 B =  -2  
 \end{array}
 $$
-
+plug in  x  = -6 to find B  : 
 $$
 \begin{array}{l} \\
 8x   - 42  =   A(x  - 3) + B (x   +  6)  \\
 8\cdot  -6  - 42  =   A( - 6 - 3) + B (-6   +  6)  \\
--9  A  =   
+-9  A  =   -90   \\
+A  =  10  
 \end{array}
 $$
+
+So  by correctly  finding x we manage to get the value A and B  we will now plug them in 
