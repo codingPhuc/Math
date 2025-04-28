@@ -56,3 +56,4 @@ so  by seeing the result above a partial decomposition is just :
 $$
 \frac{8x - 42}{x^2   +   3x  - 18}  =  \frac{A}{x+6}  +  \frac{B}{x - 3}
 $$
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator 
