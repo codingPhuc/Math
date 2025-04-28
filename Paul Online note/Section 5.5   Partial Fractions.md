@@ -158,7 +158,7 @@ $$
 
 $$
 \begin{array}{l} \\
-\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }    \\ \\
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }    \\
 
 \end{array}
 
@@ -167,7 +167,7 @@ $$
 The first thing we should do is factor the denominator as must as we can  .  
 
 $$
-\frac{9 -  9 x } {2x^2   +  7x - 4 }   = \frac{9 -  9 x } {(2x - 1) (x  + 4)} 
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     = \frac{9 -  9 x } {(2x - 1) (x  + 4)} 
 $$
 so  by seeing the result above a partial decomposition is just : 
 $$
