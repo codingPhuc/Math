@@ -146,5 +146,5 @@ $$
 So  by correctly  finding x we manage to get the value A and B  we will now plug them in : 
 
 $$
-\frac{9 -  9 x } {2x^2   +  7x - 4 }    =  \frac{1}{2x - 1}  +  \frac{5}{ (x +4)}
+\frac{9 -  9 x } {2x^2   +  7x - 4 }    =  \frac{1}{2x - 1}  -  \frac{5}{ (x +4)}
 $$
