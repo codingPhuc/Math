@@ -18,4 +18,4 @@ $$
 \end{array}
 $$
 
-what we  want to do in this section is 
+what we  want to do in this section is start with  rational  expression and ask what simpler rational expression did we add or subtract to get the original expression .The prec
