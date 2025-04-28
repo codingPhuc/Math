@@ -197,6 +197,10 @@ $$
 4\cdot  2^2  =A( 2  - 2 )^2  + B ( 2  -1  ) ( 2 - 2 ) +  C ( 2  -1  )   \\       C =   16 \\ 
 \end{array}
 $$
+There is no  x that we can plug in to eliminate  both A  and B  :  
+
+
+
 
 So  by correctly  finding x we manage to get the value A and B  we will now plug them in : 
 
