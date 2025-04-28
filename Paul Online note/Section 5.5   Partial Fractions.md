@@ -163,7 +163,7 @@ $$
 The first thing we should do is factor the denominator as must as we can  .  
 
 $$
-\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     =   2 x
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     =  \frac{A}{x  - 1 }  +  \frac{B}{x -2  }
 $$
 so  by seeing the result above a partial decomposition is just : 
 $$
