@@ -89,7 +89,7 @@ $$
 So  by correctly  finding x we manage to get the value A and B  we will now plug them in : 
 
 $$
-\frac{8x  - 42 }{}
+\frac{8x  - 42 }{x^2 +  3x  - 18 }   = \frac{10}{x+ 6}   + -\frac{2}{x - 3}  = \frac{10}{ x + 6}  - \frac{2}{x - 3}
 $$
 
 $$
