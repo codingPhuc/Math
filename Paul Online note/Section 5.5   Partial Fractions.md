@@ -247,11 +247,11 @@ $$
 9x+ 25 =  A (x +  3 )^2  + B  (x +  3 )^1 +  C   
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
-plug in  x  = 1 to find A   : 
+plug in  x  = -3 to find C   : 
 $$
  \begin{array}{l} \\
-4x^2  =A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  )   \\
-4\cdot 1^2  =A( 1  - 2 )^2  + B ( 1  -1  ) ( x  - 2 ) +  C ( 1  -1  )    \\
+9(-3)+ 25 =  A (-3 +  3 )^2  + B  (-3 +  3 )^1 +  C   \\
+  C    =-2     \\
 A  =       4 
 \end{array}
 $$
