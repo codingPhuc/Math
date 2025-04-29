@@ -351,8 +351,9 @@ $$
 
 so  by seeing the result above a partial decomposition is just : 
 $$
-\frac{8x^2 -12 }{x(x^2 + 2x - 6)}   =  \frac{A}{x }  +  \frac{B }{(x^2 + 2x - 6) } 
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)}   =  \frac{A}{x }  +  \frac{Bx + C}{(x^2 + 2x - 6) } 
 $$
+
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
 $$
 LCD  =  (x^2 + 2x - 6)x 
