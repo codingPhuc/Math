@@ -305,8 +305,9 @@ so there are many possible x that we can  plug in but to make this easy we will 
 plug in  x  = 0  to find A   : 
 $$
  \begin{array}{l} \\
-8\cdot 0^2 -12  + 25 = A( 0  +  3 ) +   B\cdot  0    \\
-
+8\cdot 0^2 -12  = A( 0  +  3 ) +   B\cdot  0    \\
+3A  =  -12   \\
+A  =   -4   \\
 \end{array}
 $$
 
