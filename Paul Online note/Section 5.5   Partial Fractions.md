@@ -315,7 +315,7 @@ $$
 plug in  x  = 0  to find B   :  
 $$
  \begin{array}{l} \\
- 25  = A( x   +  3 ) +   B  \\
+8x^2 -12 = ((- 1 + \sqrt{  7 })^2 + 2(- 1 + \sqrt{  7 })- 6)A + Bx \\
  25  = A( 0   +  3 ) -2   \\
 A = \frac{27}{3 }  =  9      \\
 \end{array}
