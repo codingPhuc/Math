@@ -402,7 +402,80 @@ $$
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
- \frac{2}{x }  +  \frac{10x  -  12 }{(x^2 + 2x - 6) } 
+ \frac{2}{x }  +  \frac{6x      - 4}{(x^2 + 2x - 6) } 
 $$
 
+
+
+
+
+
+
+
+$$
+\frac{3x^3 +  7x  - 4} {(x^2  + 2)^2 }
+$$
+
+
+
+The first thing we should do is factor the denominator as must as we can  .  
+$$
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)} 
+$$
+
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)}   =  \frac{A}{x }  +  \frac{Bx + C}{(x^2 + 2x - 6) } 
+$$
+
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  =  (x^2 + 2x - 6)x 
+$$
+$$
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)}  =  \frac{A}{x }  +  \frac{Bx + C}{(x^2 + 2x - 6) }   = \frac{ (x^2 + 2x - 6)A  +  x(Bx  + C)  }{(x^2 + 2x - 6)x } 
+$$ 
+We need a value A , B  and C  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+\begin{array}{l} \\
+8x^2 -12 =(x^2 + 2x - 6)A  +  x(Bx  + C)    \\
+8x^2  - 12  =  Ax^2   +  2Ax    - 6A  +  Bx^2  + Cx    \\
+  8x^2  - 12  =  Ax^2  +  Bx^2    +  2Ax  + Cx     - 6A       \\
+8x^2  - 12   =  (A + B)x^2  +  (2A + C) x  -  6A     \\
+
+\end{array}
+
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+plug in  x  = 0  to find A   : 
+$$
+ \begin{array}{l} \\
+8\cdot 0^2 -12 = (0^2 + 2\cdot  0  - 6)A  +  0 \cdot (Bx  + C)     \\
+A  =  2    \\
+\end{array}
+$$
+
+
+since $(A+  B)$ is equal to the exponent of 2 term on the left   we will make  A + B equal :  
+
+$$
+\begin{array}{l} \\
+A+B = 8    \\
+B   =   6
+\end{array}
+$$
+
+since  $(2A +C)$ is equal to the exponent term on the left : 
+$$
+\begin{array}{l} \\
+2A +C = 0   \\
+ C =  -4 
+\end{array}
+$$
+
+
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+ \frac{2}{x }  +  \frac{6x      - 4}{(x^2 + 2x - 6) } 
+$$
 
