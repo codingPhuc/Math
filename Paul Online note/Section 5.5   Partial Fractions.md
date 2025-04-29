@@ -265,28 +265,6 @@ A = \frac{23}{3 }    \\
 $$
 
 
-$$
-\begin{array}{l} \\
-9x+ 25 =  A (x +  3 )^2  + B  (x +  3 )^1 - 2     \\
- \left\{ \begin{array}{l}
-9A +  3B   =  27   \\
-16A +  4B    =  63  \\
-\end{array}\right.  \\
-\implies 
- \left\{ \begin{array}{l}
-9A +  3B   =  27   \\
-16A +  4B    =  63  \\
-\end{array}\right.
-\implies 
- \left\{ \begin{array}{l}
-A  =  \frac{27}{4}  \\
-B  =  -\frac{45}{4}  \\
-\end{array}\right.
-\end{array}
-$$
-
-
-
 plug in  x  = $2$ to find C  : 
 $$
 \begin{array}{l} \\
