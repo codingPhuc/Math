@@ -363,13 +363,16 @@ $$
 $$ 
 We need a value A , B  and C  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
-8x^2 -12 =(x^2 + 2x - 6)A  +  x(Bx  + C)
+\begin{array}{l} \\
+8x^2 -12 =(x^2 + 2x - 6)A  +  x(Bx  + C)   \\
+\end{array}
+
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
 plug in  x  = 0  to find A   : 
 $$
  \begin{array}{l} \\
-8\cdot 0^2 -12  = A( 0  +  3 ) +   B\cdot  0    \\
+8x^2 -12 = (x^2 + 2\cdot  0  - 6)A  +  0 \cdot (Bx  + C)     \\
 3A  =  -12   \\
 A  =   -4   \\
 \end{array}
