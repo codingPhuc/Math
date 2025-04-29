@@ -387,7 +387,7 @@ since $(A+  B)$ is equal to the exponent of 2 term on the left   we will make  A
 $$
 \begin{array}{l} \\
 A+B = 8    \\
-B 6
+B   =   6
 \end{array}
 $$
 
