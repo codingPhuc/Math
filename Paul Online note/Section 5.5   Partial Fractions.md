@@ -265,9 +265,6 @@ A = \frac{27}{3 }  =  9      \\
 $$
 
 
-
-
-
 There is no  x that we can plug in to eliminate  both A  and C  . Instead used the A and C in our last evaluation  in order to get B plug  in a simple number x =  0  : 
 $$
 \begin{array}{l} \\
