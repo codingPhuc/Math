@@ -240,11 +240,11 @@ $$
 LCD  =  (x +  3 )^3
 $$
 $$
-\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     = \frac{A}{x  +  3  }  +  \frac{B}{(x + 3)^2   }    +  \frac{C}{(x +  3 )^3  }  =  \frac{A( x  - 2 )^2  + B  (x +  3 )^2 +  C     }{ (x +  3 )^3  }
+\frac{9x+ 25}{(x + 3)^2}    = \frac{A}{x  +  3  }  +  \frac{B}{(x + 3)^2   }    +  \frac{C}{(x +  3 )^3  }  =  \frac{A (x +  3 )^2  + B  (x +  3 )^1 +  C     }{ (x +  3 )^3  }
 $$ 
 We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
-4x^2  =   A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  ) 
+9x+ 25 =  A (x +  3 )^2  + B  (x +  3 )^1 +  C   
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
 plug in  x  = 1 to find A   : 
