@@ -359,11 +359,11 @@ $$
 LCD  =  (x^2 + 2x - 6)x 
 $$
 $$
-\frac{8x^2 -12 }{x(x^2 + 2x - 6)}  =  \frac{A}{x }  +  \frac{B}{(x^2 + 2x - 6) }   = \frac{ (x^2 + 2x - 6)A  +  x(Bx  + C)  }{(x^2 + 2x - 6)x } 
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)}  =  \frac{A}{x }  +  \frac{Bx + C}{(x^2 + 2x - 6) }   = \frac{ (x^2 + 2x - 6)A  +  x(Bx  + C)  }{(x^2 + 2x - 6)x } 
 $$ 
-We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+We need a value A , B  and C  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
-8x^2 -12 = (x^2 + 2x - 6)A + Bx
+8x^2 -12 =(x^2 + 2x - 6)A  +  x(Bx  + C)
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
 plug in  x  = 0  to find A   : 
