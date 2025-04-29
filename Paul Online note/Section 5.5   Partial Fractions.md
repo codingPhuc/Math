@@ -364,7 +364,8 @@ $$
 We need a value A , B  and C  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
 \begin{array}{l} \\
-8x^2 -12 =(x^2 + 2x - 6)A  +  x(Bx  + C)   \\
+8x^2 -12 =(x^2 + 2x - 6)A  +  x(Bx  + C)    \\
+8x^2  - 12  =  Ax^2   +  2Ax    - 6A  +  Bx^2  +   
 \end{array}
 
 $$
@@ -378,7 +379,7 @@ A  =  2    \\
 $$
 
 
-plug in  $x = ( (-1  + \sqrt{ 7 })^2 + 2\cdot (-1 + \sqrt{ 7 })   -6 ) )$  to find B   :  
+plug in  find B   :  
 
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
