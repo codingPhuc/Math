@@ -393,8 +393,12 @@ $$
 
 since  $(2A +C)$ is equal to the exponent term on the left : 
 $$
-
+\begin{array}{l} \\
+2A +C = 8    \\
+ C =  -12   
+\end{array}
 $$
+
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
