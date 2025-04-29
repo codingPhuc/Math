@@ -420,12 +420,12 @@ $$
 
 The first thing we should do is factor the denominator as must as we can  .  
 $$
-\frac{8x^2 -12 }{x(x^2 + 2x - 6)} 
+\frac{3x^3 +  7x  - 4} {(x^2  + 2)^2 }
 $$
 
 so  by seeing the result above a partial decomposition is just : 
 $$
-\frac{8x^2 -12 }{x(x^2 + 2x - 6)}   =  \frac{A}{x }  +  \frac{Bx + C}{(x^2 + 2x - 6) } 
+\frac{3x^3 +  7x  - 4} {(x^2  + 2)^2 }  =  \frac{A}{(x^2  + 2)}  +  \frac{Bx + C}{(x^2 + 2x - 6) } 
 $$
 
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
