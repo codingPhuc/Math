@@ -378,7 +378,7 @@ A  =  2    \\
 $$
 
 
-plug in  $x = ( (-1  + \sqrt{  }) )$  to find B   :  
+plug in  $x = ( (-1  + \sqrt{ 7 })^2 + 2\cdot (-1 + \sqrt{ 7 })   -6 ) )$  to find B   :  
 
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
