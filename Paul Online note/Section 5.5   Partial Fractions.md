@@ -260,17 +260,14 @@ $$
  \begin{array}{l} \\
  25  = A( x   +  3 ) +   B  \\
  25  = A( 0   +  3 ) -2   \\
-A = \frac{23}{3 }    \\
+A = \frac{27}{3 }  =  9      \\
 \end{array}
 $$
 
 
-plug in  x  = $2$ to find C  : 
-$$
-\begin{array}{l} \\
-4\cdot  2^2  =A( 2  - 2 )^2  + B ( 2  -1  ) ( 2 - 2 ) +  C ( 2  -1  )   \\       C =   16 \\ 
-\end{array}
-$$
+
+
+
 There is no  x that we can plug in to eliminate  both A  and C  . Instead used the A and C in our last evaluation  in order to get B plug  in a simple number x =  0  : 
 $$
 \begin{array}{l} \\
