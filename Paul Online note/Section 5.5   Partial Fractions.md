@@ -265,16 +265,6 @@ A = \frac{27}{3 }  =  9      \\
 $$
 
 
-There is no  x that we can plug in to eliminate  both A  and C  . Instead used the A and C in our last evaluation  in order to get B plug  in a simple number x =  0  : 
-
-$$
-\begin{array}{l} \\
- 4\cdot 0^2  =   4( 0 -2  )^2 + B ( 0  -1  ) ( 0  - 2 ) + 16 ( 0   -1)     \\
-2B  =  0    \\
-B  =   0  \\
-\end{array}
-$$
-
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
 \frac{4}{x  - 1 }    +  \frac{16}{(x  -2 )^2  } 
