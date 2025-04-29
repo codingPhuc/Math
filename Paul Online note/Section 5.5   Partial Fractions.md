@@ -282,7 +282,9 @@ $$
 
 
 The first thing we should do is factor the denominator as must as we can  .  
-
+$$
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)} 
+$$
 
 so  by seeing the result above a partial decomposition is just : 
 $$
