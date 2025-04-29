@@ -365,7 +365,9 @@ We need a value A , B  and C  so that the numerator for the value on the left is
 $$
 \begin{array}{l} \\
 8x^2 -12 =(x^2 + 2x - 6)A  +  x(Bx  + C)    \\
-8x^2  - 12  =  Ax^2   +  2Ax    - 6A  +  Bx^2  +   
+8x^2  - 12  =  Ax^2   +  2Ax    - 6A  +  Bx^2  + Cx    \\
+  8x^2  - 12  =  Ax^2  +  Bx^2    +  2Ax  + Cx     - 6A       \\
+8x^2  - 12   =  (A + B)x^2  +  (2A + C) x  -  6a
 \end{array}
 
 $$
