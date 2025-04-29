@@ -302,10 +302,10 @@ $$
 8x^2 -12 = (x^2 + 2x - 6)A + Bx
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
-plug in  x  = -3 to find B   : 
+plug in  x  = 0  to find A   : 
 $$
  \begin{array}{l} \\
-9x+ 25 = A( x  +  3 ) +   B   \\
+8\cdot 0^2 -12  + 25 = A( 0  +  3 ) +   B\cdot  0    \\
 
 \end{array}
 $$
