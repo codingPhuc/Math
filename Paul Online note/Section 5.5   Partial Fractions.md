@@ -252,7 +252,6 @@ $$
  \begin{array}{l} \\
 9(-3)+ 25 =  A (-3 +  3 )^2  + B  (-3 +  3 )^1 +  C   \\
   C    =-2     \\
-A  =       4 
 \end{array}
 $$
 plug in  x  = $2$ to find C  : 
