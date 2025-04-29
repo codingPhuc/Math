@@ -325,6 +325,70 @@ $$
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
-\frac{-10 +  6\sqrt{ 7 }  }{ x }    -  \frac{2}{ x^2  + 2x  - 6 } 
+\frac{-10 +  6\sqrt{ 7 }  }{ x }    -  \frac{4}{ x^2  + 2x  - 6 } 
 $$
+
+
+
+
+
+
+
+
+
+
+
+$$
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)} 
+$$
+
+
+
+The first thing we should do is factor the denominator as must as we can  .  
+$$
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)} 
+$$
+
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)}   =  \frac{A}{x }  +  \frac{B}{(x^2 + 2x - 6) } 
+$$
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  =  (x^2 + 2x - 6)x 
+$$
+$$
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)}  =  \frac{A}{x }  +  \frac{B}{(x^2 + 2x - 6) }   = \frac{ (x^2 + 2x - 6)A + Bx  }{(x^2 + 2x - 6)x } 
+$$ 
+We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+8x^2 -12 = (x^2 + 2x - 6)A + Bx
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+plug in  x  = 0  to find A   : 
+$$
+ \begin{array}{l} \\
+8\cdot 0^2 -12  = A( 0  +  3 ) +   B\cdot  0    \\
+3A  =  -12   \\
+A  =   -4   \\
+\end{array}
+$$
+
+
+plug in  x  = 0  to find B   :  
+$$
+ \begin{array}{l} \\
+8(- 1 + \sqrt{  7 })^2 -12 = ((- 1 + \sqrt{  7 })^2 + 2(- 1 + \sqrt{  7 })- 6)A + B(- 1 + \sqrt{  7 }) \\
+B  =  8\cdot (- 1 + \sqrt{  7 })   -  \frac{12}{(- 1 + \sqrt{  7 })}   \\
+B =  -10 +  6\sqrt{ 7 }   \\
+\end{array}
+$$
+
+
+
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+\frac{-10 +  6\sqrt{ 7 }  }{ x }    -  \frac{4}{ x^2  + 2x  - 6 } 
+$$
+
 
