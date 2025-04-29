@@ -267,9 +267,11 @@ $$
 9A +  3B   =  27   \\
 16A +  4B    =  63  \\
 \end{array}\right.
-
-
-
+\implies 
+ \left\{ \begin{array}{l}
+A  =  \frac{27}{4}  \\
+B  =  -\frac{45}{4}  \\
+\end{array}\right.
 \end{array}
 $$
 
