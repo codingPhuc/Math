@@ -317,13 +317,14 @@ $$
  \begin{array}{l} \\
 8(- 1 + \sqrt{  7 })^2 -12 = ((- 1 + \sqrt{  7 })^2 + 2(- 1 + \sqrt{  7 })- 6)A + B(- 1 + \sqrt{  7 }) \\
 B  =  8\cdot (- 1 + \sqrt{  7 })   -  \frac{12}{(- 1 + \sqrt{  7 })}   \\
-B =     \\
+B =  -10 +  6\sqrt{ 7 }   \\
 \end{array}
 $$
 
 
+
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
-\frac{9}{  x  + 2  }    -  \frac{2}{ (x  +  3)^2 } 
+\frac{-10 +  6\sqrt{ 7 }  }{ x }    -  \frac{2}{ x^2  + 2x  - 6 } 
 $$
 
