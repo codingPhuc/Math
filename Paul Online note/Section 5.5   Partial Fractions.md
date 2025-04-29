@@ -240,7 +240,7 @@ $$
 LCD  =  (x +  3 )^3
 $$
 $$
-\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     = \frac{A}{x  +  3  }  +  \frac{B}{(x + 3)^2   }    +  \frac{C}{(x +  3 )^3  }  =  \frac{A( x  - 2 )^2  + B ( x  -1  ) ( x  - 2 ) +  C ( x  -1  )    }{( x  -1  ) ( x  - 2 )^2   }
+\frac{4x^2}{(x  - 1 ) ( x    - 2)^2 }     = \frac{A}{x  +  3  }  +  \frac{B}{(x + 3)^2   }    +  \frac{C}{(x +  3 )^3  }  =  \frac{A( x  - 2 )^2  + B  (x +  3 )^2 +  C     }{ (x +  3 )^3  }
 $$ 
 We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
