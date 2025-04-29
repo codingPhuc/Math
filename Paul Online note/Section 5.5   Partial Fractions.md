@@ -259,7 +259,7 @@ $$
 \begin{array}{l} \\
 9x+ 25 =  A (x +  3 )^2  + B  (x +  3 )^1 - 2     \\
  \left\{ \begin{array}{l}
-
+x^
 \end{array}\right.
 
 
