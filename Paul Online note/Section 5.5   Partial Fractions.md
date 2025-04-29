@@ -267,6 +267,14 @@ $$
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
-\frac{4}{x  - 1 }    +  \frac{16}{(x  -2 )^2  } 
+\frac{9}{  x  + 2  }    -  \frac{2}{ (x  +  3)^2 } 
 $$
 
+
+
+
+
+
+$$
+\frac{8x^2}{}
+$$
