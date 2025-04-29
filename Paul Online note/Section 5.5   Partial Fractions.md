@@ -247,11 +247,11 @@ $$
 9x+ 25 = A( x  +  3 ) +   B
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
-plug in  x  = -3 to find C   : 
+plug in  x  = -3 to find B   : 
 $$
  \begin{array}{l} \\
-9(-3)+ 25 =  A (-3 +  3 )^2  + B  (-3 +  3 )^1 +  C   \\
-  C    =-2     \\
+9(-3)+ 25 = A( -3  +  3 ) +   B   \\
+  B     =-2     \\
 \end{array}
 $$
 
