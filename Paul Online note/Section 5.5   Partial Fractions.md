@@ -305,8 +305,8 @@ so there are many possible x that we can  plug in but to make this easy we will 
 plug in  x  = -3 to find B   : 
 $$
  \begin{array}{l} \\
-9(-3)+ 25 = A( -3  +  3 ) +   B   \\
-  B     =-2      \\
+9x+ 25 = A( x  +  3 ) +   B   \\
+
 \end{array}
 $$
 
