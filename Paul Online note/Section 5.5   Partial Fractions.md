@@ -439,7 +439,7 @@ We need a value A , B  and C  so that the numerator for the value on the left is
 $$
 \begin{array}{l} \\
 3x^3 +  7x  - 4  = (x^2  + 2) (Ax + B) +  (Cx  + D)     \\
-3\cdot ^3 +  7x  - 4  = (x^2  + 2) (Ax + B) +  (Cx  + D)    \\
+3\cdot x^3 +  7x  - 4  = (x^2  + 2) (Ax + B) +  (Cx  + D)    \\
 
 \end{array}
 
