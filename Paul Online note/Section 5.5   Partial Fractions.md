@@ -282,9 +282,7 @@ $$
 
 
 The first thing we should do is factor the denominator as must as we can  .  
-$$
-x ()
-$$
+
 
 so  by seeing the result above a partial decomposition is just : 
 $$
