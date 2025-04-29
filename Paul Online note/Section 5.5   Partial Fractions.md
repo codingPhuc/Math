@@ -276,5 +276,52 @@ $$
 
 
 $$
-\frac{8x^2}{}
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)} 
 $$
+
+
+
+The first thing we should do is factor the denominator as must as we can  .  
+$$
+x ()
+$$
+
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{9x+ 25}{(x + 3)^2}   =  \frac{A}{x  +  3  }  +  \frac{B}{(x + 3)^2   } 
+$$
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  =  (x +  3 )^2
+$$
+$$
+\frac{9x+ 25}{(x + 3)^2}    = \frac{A}{x  +  3  }  +  \frac{B}{(x + 3)^2   }   =   \frac{A( x  +  3 ) +   B}{(x  +  3)^2  } 
+$$ 
+We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+9x+ 25 = A( x  +  3 ) +   B
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+plug in  x  = -3 to find B   : 
+$$
+ \begin{array}{l} \\
+9(-3)+ 25 = A( -3  +  3 ) +   B   \\
+  B     =-2      \\
+\end{array}
+$$
+
+plug in  x  = 0  to find B   :  
+$$
+ \begin{array}{l} \\
+ 25  = A( x   +  3 ) +   B  \\
+ 25  = A( 0   +  3 ) -2   \\
+A = \frac{27}{3 }  =  9      \\
+\end{array}
+$$
+
+
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+\frac{9}{  x  + 2  }    -  \frac{2}{ (x  +  3)^2 } 
+$$
+
