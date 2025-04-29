@@ -382,13 +382,20 @@ A  =  2    \\
 $$
 
 
-since $(A+  B)$ is equal to the exponent of 2 term on the right  we will make  A + B equal :  
-$$ 
+since $(A+  B)$ is equal to the exponent of 2 term on the left   we will make  A + B equal :  
+
 $$
 \begin{array}{l} \\
-
+A+B = 8    \\
+B =  10  
 \end{array}
 $$
+
+since  $(2A +C)$ is equal to the exponent term on the left : 
+$$
+
+$$
+
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
 \frac{-10 +  6\sqrt{ 7 }  }{ x }    -  \frac{4}{ x^2  + 2x  - 6 } 
