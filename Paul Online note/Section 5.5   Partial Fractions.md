@@ -438,10 +438,8 @@ $$
 We need a value A , B  and C  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
 \begin{array}{l} \\
-8x^2 -12 =(x^2 + 2x - 6)A  +  x(Bx  + C)    \\
-8x^2  - 12  =  Ax^2   +  2Ax    - 6A  +  Bx^2  + Cx    \\
-  8x^2  - 12  =  Ax^2  +  Bx^2    +  2Ax  + Cx     - 6A       \\
-8x^2  - 12   =  (A + B)x^2  +  (2A + C) x  -  6A     \\
+3x^3 +  7x  - 4  = (x^2  + 2) (Ax + B) +  (Cx  + D)     \\
+3\cdot ^3 +  7x  - 4  = (x^2  + 2) (Ax + B) +  (Cx  + D)    \\
 
 \end{array}
 
