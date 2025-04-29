@@ -233,7 +233,7 @@ $$
 
 so  by seeing the result above a partial decomposition is just : 
 $$
-\frac{9x+ 25}{(x + 3)^2}   =  \frac{A}{x  +  3  }  +  \frac{B}{(x + 3)^2   }    +  \frac{C}{(x +  3 )^3  }
+\frac{9x+ 25}{(x + 3)^2}   =  \frac{A}{x  +  3  }  +  \frac{B}{(x + 3)^2   } 
 $$
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
 $$
