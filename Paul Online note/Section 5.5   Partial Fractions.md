@@ -439,7 +439,8 @@ We need a value A , B  and C  so that the numerator for the value on the left is
 $$
 \begin{array}{l} \\
 3x^3 +  7x  - 4  = (x^2  + 2) (Ax + B) +  (Cx  + D)     \\
-3x^3 +  7x  - 4  = Ax^3  +  2Ax  + Bx^2  + 2B  +  Cx +     \\
+3x^3 +  7x  - 4  = Ax^3  +  2Ax  + Bx^2  + 2B  +  Cx + D  \\
+ 3x^3 +  7x  - 4  = Ax^3   + Bx^2  +x   2Ax   +  Cx   + 2B  + D   \\
 
 \end{array}
 
