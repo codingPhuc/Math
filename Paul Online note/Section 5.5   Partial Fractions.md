@@ -258,11 +258,11 @@ $$
 plug in  x  = 0  to find B   :  
 $$
  \begin{array}{l} \\
- 25  = A( x  +  3 ) +   B  \\
-  B     =-2      \\
+ 25  = A( x   +  3 ) +   B  \\
+ 25  = A( 0   +  3 ) -2   \\
+A = \frac{23}{3 }    \\
 \end{array}
 $$
-
 
 
 $$
