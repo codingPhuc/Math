@@ -254,6 +254,11 @@ $$
   C    =-2     \\
 \end{array}
 $$
+
+
+
+
+
 plug in  x  = $2$ to find C  : 
 $$
 \begin{array}{l} \\
