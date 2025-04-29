@@ -367,7 +367,8 @@ $$
 8x^2 -12 =(x^2 + 2x - 6)A  +  x(Bx  + C)    \\
 8x^2  - 12  =  Ax^2   +  2Ax    - 6A  +  Bx^2  + Cx    \\
   8x^2  - 12  =  Ax^2  +  Bx^2    +  2Ax  + Cx     - 6A       \\
-8x^2  - 12   =  (A + B)x^2  +  (2A + C) x  -  6a
+8x^2  - 12   =  (A + B)x^2  +  (2A + C) x  -  6A     \\
+
 \end{array}
 
 $$
@@ -381,7 +382,7 @@ A  =  2    \\
 $$
 
 
-plug in  find B   :  
+since $(A+  B)$ is equal to the exponent term on the right    :  
 
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
