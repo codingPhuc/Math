@@ -294,13 +294,12 @@ now we need to find a common denominator  in the function on the right in order 
 $$
 LCD  =  (x^2 + 2x - 6)x 
 $$
-
 $$
-\frac{8x^2 -12 }{x(x^2 + 2x - 6)}  =  \frac{A}{x }  +  \frac{B}{(x^2 + 2x - 6) }   = \frac{x}{}  (x^2 + 2x - 6)A + Bx  
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)}  =  \frac{A}{x }  +  \frac{B}{(x^2 + 2x - 6) }   = \frac{ (x^2 + 2x - 6)A + Bx  }{(x^2 + 2x - 6)x } 
 $$ 
 We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
-9x+ 25 = A( x  +  3 ) +   B
+8x^2 -12 = (x^2 + 2x - 6)A + Bx
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
 plug in  x  = -3 to find B   : 
