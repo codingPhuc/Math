@@ -445,7 +445,7 @@ $$
 
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
-plug in  x  = 0  to find A   : 
+since A is equal to the exponent of 3  term on the left  to find A   : 
 $$
  \begin{array}{l} \\
 8\cdot 0^2 -12 = (0^2 + 2\cdot  0  - 6)A  +  0 \cdot (Bx  + C)     \\
