@@ -387,22 +387,22 @@ since $(A+  B)$ is equal to the exponent of 2 term on the left   we will make  A
 $$
 \begin{array}{l} \\
 A+B = 8    \\
-B =  10  
+B 6
 \end{array}
 $$
 
 since  $(2A +C)$ is equal to the exponent term on the left : 
 $$
 \begin{array}{l} \\
-2A +C = 8    \\
- C =  -12   
+2A +C = 0   \\
+ C =  -4 
 \end{array}
 $$
 
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
-\frac{-10 +  6\sqrt{ 7 }  }{ x }    -  \frac{4}{ x^2  + 2x  - 6 } 
+ \frac{2}{x }  +  \frac{10x  -  12 }{(x^2 + 2x - 6) } 
 $$
 
 
