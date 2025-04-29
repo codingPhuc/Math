@@ -471,13 +471,13 @@ since  $(2B  + D )$ is equal to the exponent term on the left :
 $$
 \begin{array}{l} \\
 2B +  D =  -4  \\
- 
+ D  =  -4 
 \end{array}
 $$
 
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
- \frac{2}{x }  +  \frac{6x      - 4}{(x^2 + 2x - 6) } 
+ \frac{3x  }{(x^2  + 2)}  -   \frac{6x  + 4}{(x^2  + 2)^2}
 $$
 
