@@ -315,8 +315,8 @@ $$
 plug in  x  = 0  to find B   :  
 $$
  \begin{array}{l} \\
-8x^2 -12 = ((- 1 + \sqrt{  7 })^2 + 2(- 1 + \sqrt{  7 })- 6)A + Bx \\
- 25  = A( 0   +  3 ) -2   \\
+8(- 1 + \sqrt{  7 })^2 -12 = ((- 1 + \sqrt{  7 })^2 + 2(- 1 + \sqrt{  7 })- 6)A + B(- 1 + \sqrt{  7 }) \\
+B  =  8\cdot (- 1 + \sqrt{  7 })    \\
 A = \frac{27}{3 }  =  9      \\
 \end{array}
 $$
