@@ -462,7 +462,16 @@ since  $(2A +C)$ is equal to the exponent term on the left :
 $$
 \begin{array}{l} \\
 2A +C = 0   \\
- C =  -4 
+ C =  -6 
+\end{array}
+$$
+
+since  $(2B  + D )$ is equal to the exponent term on the left : 
+
+$$
+\begin{array}{l} \\
+2B +  D =  -4  \\
+ 
 \end{array}
 $$
 
