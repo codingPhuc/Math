@@ -262,6 +262,7 @@ $$
 
 \end{array}\right.
 9A +  3B   =  27   \\
+16A +  4B    =  33  \\
 
 \end{array}
 $$
