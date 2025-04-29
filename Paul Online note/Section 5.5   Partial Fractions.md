@@ -240,7 +240,7 @@ $$
 LCD  =  (x +  3 )^2
 $$
 $$
-\frac{9x+ 25}{(x + 3)^2}    = \frac{A}{x  +  3  }  +  \frac{B}{(x + 3)^2   } 
+\frac{9x+ 25}{(x + 3)^2}    = \frac{A}{x  +  3  }  +  \frac{B}{(x + 3)^2   }   =   \frac{A( x  +  3 ) +   B}{x  +  3  }  +  \frac{B}{  }  
 $$ 
 We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
