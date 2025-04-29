@@ -378,7 +378,7 @@ A  =  2    \\
 $$
 
 
-plug in  x  = 0  to find B   :  
+plug in  $x = ( (-1  + \sqrt{  }) )$  to find B   :  
 
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
