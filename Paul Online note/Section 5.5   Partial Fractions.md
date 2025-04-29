@@ -433,8 +433,8 @@ $$
 LCD  =  (x^2  + 2)^2
 $$
 $$
-\frac{3x^3 +  7x  - 4} {(x^2  + 2)^2 } = \frac{Ax  + B}{(x^2  + 2)}  +   \frac{Cx  + D}{(x^2  + 2)^2}  = \frac{ (x^2 + 2x - 6)A  +  x(Bx  + C)  }{(x^2 + 2x - 6)x } 
-$$ 
+\frac{3x^3 +  7x  - 4} {(x^2  + 2)^2 } = \frac{Ax  + B}{(x^2  + 2)}  +   \frac{Cx  + D}{(x^2  + 2)^2}  =  \frac{ (x^2  + 2) (Ax + B) +  (Cx  + D) }{(x^2  + 2)^2}
+$$  
 We need a value A , B  and C  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
 \begin{array}{l} \\
