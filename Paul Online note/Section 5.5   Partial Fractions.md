@@ -430,10 +430,10 @@ $$
 
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
 $$
-LCD  =  (x^2 + 2x - 6)x 
+LCD  =  (x^2  + 2)^2
 $$
 $$
-\frac{8x^2 -12 }{x(x^2 + 2x - 6)}  =  \frac{A}{x }  +  \frac{Bx + C}{(x^2 + 2x - 6) }   = \frac{ (x^2 + 2x - 6)A  +  x(Bx  + C)  }{(x^2 + 2x - 6)x } 
+\frac{3x^3 +  7x  - 4} {(x^2  + 2)^2 } = \frac{Ax  + B}{(x^2  + 2)}  +   \frac{Cx  + D}{(x^2  + 2)^2}  = \frac{ (x^2 + 2x - 6)A  +  x(Bx  + C)  }{(x^2 + 2x - 6)x } 
 $$ 
 We need a value A , B  and C  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
