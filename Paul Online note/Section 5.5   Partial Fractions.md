@@ -261,7 +261,7 @@ $$
  \left\{ \begin{array}{l}
 
 \end{array}\right.
-
+9A +  3B   =  27   \\
 
 \end{array}
 $$
