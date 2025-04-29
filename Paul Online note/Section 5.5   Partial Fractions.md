@@ -359,7 +359,7 @@ $$
 LCD  =  (x^2 + 2x - 6)x 
 $$
 $$
-\frac{8x^2 -12 }{x(x^2 + 2x - 6)}  =  \frac{A}{x }  +  \frac{B}{(x^2 + 2x - 6) }   = \frac{ (x^2 + 2x - 6)A + Bx  }{(x^2 + 2x - 6)x } 
+\frac{8x^2 -12 }{x(x^2 + 2x - 6)}  =  \frac{A}{x }  +  \frac{B}{(x^2 + 2x - 6) }   =  \frac{A}{x }  +  \frac{Bx + C}{(x^2 + 2x - 6) } 
 $$ 
 We need a value A and B  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
