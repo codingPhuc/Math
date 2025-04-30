@@ -898,10 +898,11 @@ C    =    -3
 \end{array}
 $$
 
-since   C  we will plug in the x  = 1     :  
+since   B  we will plug in the x  = 0   :  
 $$
 \begin{array}{l} \\
-4x^2  -22 x +  7  = A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+   C (2x  + 3 ) 
+4 \cdot 0^2  -22\cdot 0  +  7  = 4(0 - 2 )^2 +  B(2\cdot 0  + 3 ) (0- 2 )+   -3 (2\cdot 0   + 3 )   \\
+B =  0   
 \end{array}
 $$
 
