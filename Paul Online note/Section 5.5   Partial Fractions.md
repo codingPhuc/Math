@@ -973,17 +973,17 @@ $$
   to  find (A   + B )    by  comparing it with the term with exponent of 1  on the left  :  
 $$
 \begin{array}{l} \\
- B  +  4   =   7\\
-B    =    3
+ B  +  3   =   7\\
+B    =    4
 \end{array}
 $$
 
-since   (A+ C )    we will plug in the x  = 0   :  
+since   (A+ C )     by  comparing it with the term with exponent of 2  on the left   :  
 $$
 \begin{array}{l} \\
-4 \cdot 0^2  -22\cdot 0  +  7  = 4(0 - 2 )^2 +  B(2\cdot 0  + 3 ) (0- 2 )+   -3 (2\cdot 0   + 3 )   \\
-B =  0   
-\end{array}
+4  + C   = 7  \\
+C =     
+ \end{array}
 $$
 
 
