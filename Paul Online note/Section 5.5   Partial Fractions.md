@@ -921,3 +921,82 @@ $$
 
 
 
+
+
+
+
+
+
+
+$$
+\frac{3x^2  +  7x +  28 }{(2x  }  
+$$
+
+
+The first thing we should do is factor the denominator as must as we can  .  
+
+$$
+\frac{4x^2  -22 x +  7 }{(2x  + 3 ) (x - 2 )^2 }  
+$$
+
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{4x^2  -22 x +  7 }{(2x  + 3 ) (x - 2 )^2 }    =  \frac{A}{(2x  + 3 )}  + \frac{B}{(x - 2 )} +    \frac{C}{(x - 2 )^2}    
+$$
+
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  =(2x  + 3 ) (x - 2 )^2
+$$
+$$
+\frac{A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C (2x  + 3 ) }{(2x  + 3 ) (x - 2 )^2}
+$$  
+We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+\begin{array}{l} \\
+4x^2  -22 x +  7  = A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C (2x  + 3 )
+\end{array}
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+to  find A we will plug in the x  = $-\frac{3}{2}$    : 
+  
+$$
+\begin{array}{l} \\
+4\left( -\frac{3}{2} \right)^2  -22 \cdot -\frac{3}{2} +  7  = A\left( -\frac{3}{2} - 2  \right)^2 \\  
+A \frac{49}{4}   =    49   \\
+A   = 4   
+\end{array}
+$$
+
+
+since   C   we will plug in the x  =   2   :  
+$$
+\begin{array}{l} \\
+ 4(2)^2  -22 \cdot 2 +  7  =  C (2 \cdot 2  + 3 ) \\
+C    =    -3   
+\end{array}
+$$
+
+since   B  we will plug in the x  = 0   :  
+$$
+\begin{array}{l} \\
+4 \cdot 0^2  -22\cdot 0  +  7  = 4(0 - 2 )^2 +  B(2\cdot 0  + 3 ) (0- 2 )+   -3 (2\cdot 0   + 3 )   \\
+B =  0   
+\end{array}
+$$
+
+
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+ \frac{4}{(2x  + 3 )} -    \frac{3}{(x - 2 )^2}    
+$$
+
+
+
+
+
+
+
+
+
+
