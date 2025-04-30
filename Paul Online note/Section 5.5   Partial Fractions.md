@@ -875,15 +875,15 @@ $$
 We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
 \begin{array}{l} \\
-4x^2  -22 x +  7  = A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C  (x - 2 )  
+4x^2  -22 x +  7  = A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C (2x  + 3 )
 \end{array}
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
-to  find B we will plug in the x  = -6     : 
+to  find B we will plug in the x  = $-\frac{3}{2}$    : 
   
 $$
 \begin{array}{l} \\
-7\cdot  (-6)^2  - 17\cdot  -6 + 38   =  49A  \\
+4x^2  -22 x +  7  = A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C (2x  + 3 )
 A    =    8  
 \end{array}
 $$
