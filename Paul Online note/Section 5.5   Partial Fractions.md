@@ -998,15 +998,15 @@ $$
 
 so  by seeing the result above a partial decomposition is just : 
 $$
-\frac{4x^3  + 16x +  7 }{(x^2  + 4)^2 }    =  \frac{Ax + B}{(x^2 + 4)} + \frac{Cx + D}{(x^2 + 4)^2} 
+\frac{4x^3  + 16x +  7 }{(x^2  + 4)^2 }    =  \frac{Ax + B}{(x^2 + 4)} + \frac{Cx + D}{(x^2 + 4)^2}  
 $$
 
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
 $$
-LCD  = x (x^2 +x + 7 )
+LCD  =(x^2  + 4)^2 
 $$
 $$
-\frac{A(x^2 +x + 7 ) + x ( Bx +  C ) }{x (x^2 +x + 7 )}
+\frac{A(x^2 +x + 7 ) + x ( Bx +  C ) }{(x^2  + 4)^2 }
 $$  
 We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
