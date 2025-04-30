@@ -893,16 +893,15 @@ $$
 since   C   we will plug in the x  =   2   :  
 $$
 \begin{array}{l} \\
- 4x^2  -22 x +  7  =  C (2 \cdot  + 3 ) \\
-C    =    4   
+ 4(2)^2  -22 \cdot 2 +  7  =  C (2 \cdot 2  + 3 ) \\
+C    =    -3   
 \end{array}
 $$
 
 since   C  we will plug in the x  = 1     :  
 $$
 \begin{array}{l} \\
-7\cdot  0 ^2  - 17\cdot 0  + 38   = 8(0 -1 )^2 +  B(0 + 6) (0 -1 ) +  4 (0 + 6)\\
-B   =    -1    
+4x^2  -22 x +  7  = A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+   C (2x  + 3 ) 
 \end{array}
 $$
 
