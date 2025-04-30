@@ -949,12 +949,13 @@ $$
 LCD  = x (x^2 +x + 7 )
 $$
 $$
-\frac{A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C (2x  + 3 ) }{x (x^2 +x + 7 )}
+\frac{A(x^2 +x + 7 ) + x ( Bx +  C ) }{x (x^2 +x + 7 )}
 $$  
 We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
 \begin{array}{l} \\
-4x^2  -22 x +  7  = A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C (2x  + 3 )
+3x^2  +  7x +  28  =A(x^2 +x + 7 ) + x ( Bx +  C )   \\
+3x^2  +  7x +  28  =A(x^2 +x + 7 ) + x ( Bx +  C ) 
 \end{array}
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
