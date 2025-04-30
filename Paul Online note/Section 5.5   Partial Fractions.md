@@ -936,12 +936,12 @@ $$
 The first thing we should do is factor the denominator as must as we can  .  
 
 $$
-\frac{4x^2  -22 x +  7 }{(2x  + 3 ) (x - 2 )^2 }  
+\frac{3x^2  +  7x +  28 }{x (x^2 +x + 7 ) }  
 $$
 
 so  by seeing the result above a partial decomposition is just : 
 $$
-\frac{4x^2  -22 x +  7 }{(2x  + 3 ) (x - 2 )^2 }    =  \frac{A}{(2x  + 3 )}  + \frac{B}{(x - 2 )} +    \frac{C}{(x - 2 )^2}    
+\frac{3x^2  +  7x +  28 }{x (x^2 +x + 7 ) }    =  \frac{A}{x}  +  \frac{d}{}
 $$
 
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
