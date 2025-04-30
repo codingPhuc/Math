@@ -870,12 +870,12 @@ $$
 LCD  =(2x  + 3 ) (x - 2 )^2
 $$
 $$
-\frac{A(x -1 )^2 +  B(x + 6) (x -1 ) +  C (x + 6) }{(2x  + 3 ) (x - 2 )^2}
+\frac{A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C  (x - 2 ) }{(2x  + 3 ) (x - 2 )^2}
 $$  
 We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
 \begin{array}{l} \\
-7x^2  - 17x + 38 = A(x -1 )^2 +  B(x + 6) (x -1 ) +  C (x + 6)
+7x^2  - 17x + 38 = A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C  (x - 2 )  
 \end{array}
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
