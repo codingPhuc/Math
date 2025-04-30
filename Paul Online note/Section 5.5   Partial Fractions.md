@@ -909,7 +909,7 @@ $$
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
-\frac{8}{x + 6}  - \frac{1}{(x -1 )} +    \frac{4}{(x -1 )^2}    
+ \frac{4}{(2x  + 3 )} -    \frac{3}{(x - 2 )^2}    
 $$
 
 
