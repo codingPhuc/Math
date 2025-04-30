@@ -803,16 +803,17 @@ to  find B we will plug in the x  = -6     :
 $$
 \begin{array}{l} \\
 7\cdot  (-6)^2  - 17\cdot  -6 + 38   =  49A  \\
-B    =  
+A    =    8  
 \end{array}
 $$
 
 
-since   A  we will plug in the x  = 0     :  
+since   C  we will plug in the x  = 1     :  
 $$
 \begin{array}{l} \\
-6\cdot  0  + 5  = A(2 \cdot  0   - 1) +  8     \\
-A    =   3  \end{array}
+7\cdot 1^2  - 17\cdot 1  + 38    =  7C \\
+A    =    8  
+\end{array}
 $$
 
 
