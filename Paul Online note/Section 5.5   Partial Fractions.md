@@ -1012,11 +1012,12 @@ We need a value A , B   so that the numerator for the value on the left is the s
 $$
 \begin{array}{l} \\
 4x^3  + 16x +  7   =(Ax + B)(x^2  + 4) + Cx + D    \\
-4x^3  + 16x +  7   =Ax^3 +   Bx^2  +  4Ax +  4B +    Cx + D   \\ 
+4x^3  + 16x +  7   =Ax^3 +   Bx^2  +  4Ax +  4B +    Cx + D    \\
+4x^3  + 16x +  7   =Ax^3 +   Bx^2  + x(4A +C)  +  4B  + D   \\ 
 \end{array}
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
-to  find A  by  comparing it with the constant on the left  : 
+to  find A  by  comparing it with the term exponent 3  on the left  : 
   
 $$
 \begin{array}{l} \\
