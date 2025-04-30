@@ -862,15 +862,15 @@ $$
 
 so  by seeing the result above a partial decomposition is just : 
 $$
-\frac{7x^2  - 17x + 38}{(x + 6) (x -1 )^2}   =  \frac{A}{x + 6}  + \frac{B}{(x -1 )}  \frac{C}{(x -1 )^2}    
+\frac{4x^2  -22 x +  7 }{(2x  + 3 ) (x - 2 )^2 }    =  \frac{A}{(2x  + 3 )}  + \frac{B}{(x - 2 )} +    \frac{C}{(x - 2 )^2}    
 $$
 
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
 $$
-LCD  =(x + 6) (x -1 )^2 
+LCD  =(2x  + 3 ) (x - 2 )^2
 $$
 $$
-\frac{A(x -1 )^2 +  B(x + 6) (x -1 ) +  C (x + 6) }{(x + 6) (x -1 )^2}
+\frac{A(x -1 )^2 +  B(x + 6) (x -1 ) +  C (x + 6) }{(2x  + 3 ) (x - 2 )^2}
 $$  
 We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
