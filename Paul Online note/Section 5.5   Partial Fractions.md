@@ -883,7 +883,7 @@ to  find B we will plug in the x  = $-\frac{3}{2}$    :
   
 $$
 \begin{array}{l} \\
-4x^2  -22 x +  7  = A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C (2x  + 3 )
+4(-\frac{3}{2})^2  -22 \cdot -\frac{3}{2} +  7  = A\left( -\frac{3}{2} - 2  \right)^2 \\  
 A    =    8  
 \end{array}
 $$
