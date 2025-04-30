@@ -812,7 +812,15 @@ since   C  we will plug in the x  = 1     :
 $$
 \begin{array}{l} \\
 7\cdot 1^2  - 17\cdot 1  + 38    =  7C \\
-A    =    8  
+C    =    4   
+\end{array}
+$$
+
+since   C  we will plug in the x  = 1     :  
+$$
+\begin{array}{l} \\
+7\cdot 1^2  - 17\cdot 1  + 38    = 8(x -1 )^2 +  B(x + 6) (x -1 ) +  4 (x + 6)\\
+C    =    4   
 \end{array}
 $$
 
