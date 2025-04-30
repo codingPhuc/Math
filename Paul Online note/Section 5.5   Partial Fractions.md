@@ -956,7 +956,7 @@ $$
 $$
 \begin{array}{l} \\
  B  +  4  =   3\\
-B    =    3
+B    =  -1
 \end{array}
 $$
 
@@ -971,7 +971,7 @@ $$
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
- \frac{4}{x}  +  \frac{3x + 3 }{x^2 +x + 7}
+ \frac{4}{x}  +  \frac{-x + 3 }{x^2 +x + 7}
 $$
 
 
@@ -998,7 +998,7 @@ $$
 
 so  by seeing the result above a partial decomposition is just : 
 $$
-\frac{4x^3  + 16x +  7 }{(x^2  + 4)^2 }    =  \frac{Ax + B}{(x^2 + 4)}
+\frac{4x^3  + 16x +  7 }{(x^2  + 4)^2 }    =  \frac{Ax + B}{(x^2 + 4)} + \frac{Cx + D}{(x^2 + 4)^2} 
 $$
 
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
