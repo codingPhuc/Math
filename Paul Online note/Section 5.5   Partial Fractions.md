@@ -794,15 +794,15 @@ $$
 We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
 \begin{array}{l} \\
-6x + 5 = A(x -1 )^2 +  B(x + 6) (x -1 ) +  C (x + 6)
+7x^2  - 17x + 38 = A(x -1 )^2 +  B(x + 6) (x -1 ) +  C (x + 6)
 \end{array}
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
-to  find B we will plug in the x  = 1/2     : 
+to  find B we will plug in the x  = -6     : 
   
 $$
 \begin{array}{l} \\
-6\cdot \frac{1}{2 } + 5 = A\left( 2\cdot  \frac{1}{2}  - 1 \right) +B    \\
+7\cdot  ^2  - 17x + 38   =  A(x -1 )^2  \\
 B    =   8 
 \end{array}
 $$
