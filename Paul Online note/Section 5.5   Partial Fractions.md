@@ -820,15 +820,16 @@ since   C  we will plug in the x  = 1     :
 $$
 \begin{array}{l} \\
 7\cdot  0 ^2  - 17\cdot 0  + 38   = 8(0 -1 )^2 +  B(0 + 6) (0 -1 ) +  4 (0 + 6)\\
-C    =    4   
+B   =    -1    
 \end{array}
 $$
 
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
- \frac{3}{(2x-  1 )}   + \frac{8}{(2x - 1)^2}  
+\frac{8}{x + 6}  - \frac{1}{(x -1 )} +    \frac{4}{(x -1 )^2}    
 $$
+
 
 
 
