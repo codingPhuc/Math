@@ -955,7 +955,7 @@ $$
   to  find (A   + B )    by  comparing it with the term with exponent of 1  on the left  :  
 $$
 \begin{array}{l} \\
- B  +  4  =   7\\
+ B  +  4  =   3\\
 B    =    3
 \end{array}
 $$
@@ -998,7 +998,7 @@ $$
 
 so  by seeing the result above a partial decomposition is just : 
 $$
-\frac{4x^3  + 16x +  7 }{(x^2  + 4)^2 }    =  \frac{A}{x}  +  \frac{Bx + C }{x^2 +x + 7}
+\frac{4x^3  + 16x +  7 }{(x^2  + 4)^2 }    =  \frac{Ax + B}{(x^2 + 4)}
 $$
 
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
