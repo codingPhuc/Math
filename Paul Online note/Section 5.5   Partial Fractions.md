@@ -883,8 +883,9 @@ to  find B we will plug in the x  = $-\frac{3}{2}$    :
   
 $$
 \begin{array}{l} \\
-4(-\frac{3}{2})^2  -22 \cdot -\frac{3}{2} +  7  = A\left( -\frac{3}{2} - 2  \right)^2 \\  
-A    =    8  
+4\left( -\frac{3}{2} \right)^2  -22 \cdot -\frac{3}{2} +  7  = A\left( -\frac{3}{2} - 2  \right)^2 \\  
+A \frac{49}{4}   =    49   \\
+A   = 4   
 \end{array}
 $$
 
