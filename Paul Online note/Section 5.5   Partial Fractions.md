@@ -941,15 +941,15 @@ $$
 
 so  by seeing the result above a partial decomposition is just : 
 $$
-\frac{3x^2  +  7x +  28 }{x (x^2 +x + 7 ) }    =  \frac{A}{x}  +  \frac{d}{}
+\frac{3x^2  +  7x +  28 }{x (x^2 +x + 7 ) }    =  \frac{A}{x}  +  \frac{Bx + C }{x^2 +x + 7}
 $$
 
 now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
 $$
-LCD  =(2x  + 3 ) (x - 2 )^2
+LCD  = x (x^2 +x + 7 )
 $$
 $$
-\frac{A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C (2x  + 3 ) }{(2x  + 3 ) (x - 2 )^2}
+\frac{A(x - 2 )^2 +  B(2x  + 3 ) (x - 2 )+  C (2x  + 3 ) }{x (x^2 +x + 7 )}
 $$  
 We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
