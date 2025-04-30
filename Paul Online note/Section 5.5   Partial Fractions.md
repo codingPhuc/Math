@@ -956,17 +956,15 @@ $$
 \begin{array}{l} \\
 3x^2  +  7x +  28  =A(x^2 +x + 7 ) + x ( Bx +  C )   \\
 3x^2  +  7x +  28  =Ax^2 +Ax + 7A   +  Bx^2  + Cx  \\
-3x^2  +  7x +  28  = x^2 (A   + B )  +Ax + Cx   + 7A    
+3x^2  +  7x +  28  = x^2 (A   + B )  +x(A+ C )   + 7A    
 \end{array}
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
-to  find A we will plug in the x  = $-\frac{3}{2}$    : 
+to  find A  by  comparing it with the co : 
   
 $$
 \begin{array}{l} \\
-4\left( -\frac{3}{2} \right)^2  -22 \cdot -\frac{3}{2} +  7  = A\left( -\frac{3}{2} - 2  \right)^2 \\  
-A \frac{49}{4}   =    49   \\
-A   = 4   
+
 \end{array}
 $$
 
