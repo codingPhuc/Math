@@ -819,7 +819,7 @@ $$
 since   C  we will plug in the x  = 1     :  
 $$
 \begin{array}{l} \\
-7\cdot 1^2  - 17\cdot 1  + 38    = 8(x -1 )^2 +  B(x + 6) (x -1 ) +  4 (x + 6)\\
+7\cdot  0 ^2  - 17\cdot 0  + 38   = 8(0 -1 )^2 +  B(0 + 6) (0 -1 ) +  4 (0 + 6)\\
 C    =    4   
 \end{array}
 $$
