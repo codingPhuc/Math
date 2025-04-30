@@ -481,3 +481,351 @@ $$
  \frac{3x  }{(x^2  + 2)}  -   \frac{6x  + 4}{(x^2  + 2)^2}
 $$
 
+
+
+
+# #Practice_Exercise  
+
+
+
+
+
+$$
+\frac{17x  -  53} {x^2  - 2x  - 15 }
+$$
+
+
+
+The first thing we should do is factor the denominator as must as we can  .  
+$$
+\frac{17x  -  53} {x^2  - 2x  - 15 } =   \frac{17x  -  53} {(x +  3)(x  - 5) }
+$$
+
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{17x  -  53} {x^2  - 2x  - 15 } =  \frac{A}{x + 3} +  \frac{B}{x -  5 }
+$$
+
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  =  (x +  3)(x  - 5) 
+$$
+$$
+\frac{17x  -  53} {x^2  - 2x  - 15 } = \frac{A}{x + 3} +  \frac{B}{x -  5 }  = \frac{A(x  - 5)  +  B(x +  3) }{(x +  3)(x  - 5)  } 
+$$  
+We need a value A , B  and C  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+\begin{array}{l} \\
+17x  -  53  =A(x  - 5)  +  B(x +  3)    \\
+
+\end{array}
+
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+to  find A we will plug in the x  = -3   : 
+  
+$$
+\begin{array}{l} \\
+-8A  =  -104   \\
+A  =  13 
+\end{array}
+  
+$$
+
+since   B  we will plug in the x  = 5   :  
+$$
+\begin{array}{l} \\
+8B  =  32   \\
+B =  4
+\end{array}
+$$
+
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+ \frac{13}{x + 3} +  \frac{4}{x -  5 }
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+$$
+\frac{34  - 12x  }{3x^2 - 10x  - 8}
+$$
+
+
+
+The first thing we should do is factor the denominator as must as we can  .  
+$$
+\frac{34  - 12x  }{3x^2 - 10x  - 8} =   \frac{34  - 12x  }{3x^2 - 10x  - 8}  =   \frac{34  - 12x  }{(x - 4)(3x   + 2 )} 
+$$
+
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{34  - 12x  }{(x - 4)(3x   + 2 )}    =  \frac{A}{x  -4}  + \frac{B}{3x  + 2 }
+$$
+
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  = (x - 4)(3x   + 2 ) 
+$$
+$$
+\frac{34  - 12x  }{(x - 4)(3x   + 2 )} =  \frac{A}{x  -4}  + \frac{B}{3x  + 2 } =   \frac{A(3x +  2)   + B(x - 4)}{ (x - 4)(3x   + 2 ) }  
+$$  
+We need a value A , B  and C  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+\begin{array}{l} \\
+34  - 12x  = A(3x +  2)   + B(x - 4)    \\
+\end{array}
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+to  find A we will plug in the x  = 4   : 
+  
+$$
+\begin{array}{l} \\
+34  - 12 \cdot 4 = A(3x +  2)   + B(4 - 4)   \\
+  A(3\cdot 4  +  2)  = -14  \\
+A =  -1  
+\end{array}
+  
+$$
+
+since   B  we will plug in the x  = 5   :  
+$$
+\begin{array}{l} \\
+34  - 12x  = A(3x +  2)   + B(x - 4)    \\
+34  - 12\cdot -\frac{2}{3}  = A(3\cdot -\frac{2}{3} +  2)   + B(-\frac{2}{3} - 4)  \\
+42 =  + B(-\frac{2}{3} - 4)
+B =  -9  
+\end{array}
+$$
+
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+  \frac{-1}{x  -4}  - \frac{9}{3x  + 2 }
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+$$
+\frac{125 + 4x - 9x^2 }{(x -1  ) (x + 3) (x + 4 )}
+$$
+
+
+The first thing we should do is factor the denominator as must as we can  .  
+
+$$
+\frac{125 + 4x - 9x^2 }{(x -1  ) (x + 3) (x + 4 )} 
+$$
+
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{125 + 4x - 9x^2 }{(x -1  ) (x + 3) (x + 4 )}    = \frac{A}{x - 1} + \frac{B}{x + 3} + \frac{C}{x+4} 
+$$
+
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  = (x -1  ) (x + 3) (x + 4 )
+$$
+$$
+\frac{A (x + 3) (x + 4 ) +  B(x + 4 )(x -1  )  + C(x -1  ) (x + 3)}{(x -1  ) (x + 3) (x + 4 )}
+$$  
+We need a value A , B  and C  so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+\begin{array}{l} \\
+- 9x^2 + 4x + 125 = A (x + 3) (x + 4 ) +  B(x + 4 )(x -1  )  + C(x -1  ) (x + 3)  \\
+
+\end{array}
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+to  find A we will plug in the x  = 1    : 
+  
+$$
+\begin{array}{l} \\
+- 9\cdot  1 ^2 + 4\cdot 1 + 125 = A (1 + 3) (1 + 4 )   \\
+120 = 20A   \\
+A =  6 
+\end{array}
+$$
+
+since   B  we will plug in the x  = -3   :  
+$$
+\begin{array}{l} \\
+- 9(-3)^2 + 4\cdot  -3  + 125 =   B(-3 + 4 )(-3 -1  )   \\
+-4B  =  32   \\
+B =  - 8  
+\end{array}
+$$
+
+since   B  we will plug in the x  = -4   :  
+$$
+\begin{array}{l} \\
+- 9(-4)^2 + 4\cdot -4 + 125 =  C(-4 -1  ) (-4 + 3)  \\
+5C  =  -35   \\
+C=  - 7 
+\end{array}
+$$
+
+
+
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+\frac{6}{x - 1} - \frac{8}{x + 3} - \frac{7}{x+4} 
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$$
+\frac{6x + 5}{(2x -1)^2 }
+$$
+
+The first thing we should do is factor the denominator as must as we can  .  
+
+$$
+\frac{6x + 5}{(2x -1)^2 }
+$$
+
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{6x + 5}{(2x -1)^2 }  =   \frac{A}{(2x-  1 )}   + \frac{B}{(2x - 1)^2}  
+$$
+
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  = (2x-  1 )(2x-  1 )^2  
+$$
+$$
+\frac{A(2x  - 1) +B }{ (2x-  1 )(2x-  1 )^2  }
+$$  
+We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+\begin{array}{l} \\
+6x + 5 = A(2x  - 1) +B 
+\end{array}
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+to  find B we will plug in the x  = 1/2     : 
+  
+$$
+\begin{array}{l} \\
+6\cdot \frac{1}{2 } + 5 = A\left( 2\cdot  \frac{1}{2}  - 1 \right) +B    \\
+B    =   8 
+\end{array}
+$$
+
+
+since   A  we will plug in the x  = 0     :  
+$$
+\begin{array}{l} \\
+6\cdot  0  + 5  = A(2 \cdot  0   - 1) +  8     \\
+A    =   3  \end{array}
+$$
+
+
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+ \frac{3}{(2x-  1 )}   + \frac{8}{(2x - 1)^2}  
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+$$
+\frac{7x^2  - 17x + 38}{(x + 6) (x -1 )^2}  
+$$
+
+
+The first thing we should do is factor the denominator as must as we can  .  
+
+$$
+\frac{7x^2  - 17x + 38}{(x + 6) (x -1 )^2}  
+$$
+
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{7x^2  - 17x + 38}{(x + 6) (x -1 )^2}   =   \frac{A}{(x + 6 )}   + \frac{B}{(x  - 1 )}     +  \frac{B}{(x  - 1 )^2}   
+$$
+
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  = (x + 6) (x -1 )^2
+$$
+$$
+\frac{A(2x  - 1) +B }{(x + 6) (x -1 )^2 }
+$$  
+We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+\begin{array}{l} \\
+6x + 5 = A(2x  - 1) +B 
+\end{array}
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+to  find B we will plug in the x  = 1/2     : 
+  
+$$
+\begin{array}{l} \\
+6\cdot \frac{1}{2 } + 5 = A\left( 2\cdot  \frac{1}{2}  - 1 \right) +B    \\
+B    =   8 
+\end{array}
+$$
+
+
+since   A  we will plug in the x  = 0     :  
+$$
+\begin{array}{l} \\
+6\cdot  0  + 5  = A(2 \cdot  0   - 1) +  8     \\
+A    =   3  \end{array}
+$$
+
+
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+ \frac{3}{(2x-  1 )}   + \frac{8}{(2x - 1)^2}  
+$$
+
+
+
+
+
+
+
+
+
