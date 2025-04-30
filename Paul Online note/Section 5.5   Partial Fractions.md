@@ -879,7 +879,7 @@ $$
 \end{array}
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
-to  find B we will plug in the x  = $-\frac{3}{2}$    : 
+to  find A we will plug in the x  = $-\frac{3}{2}$    : 
   
 $$
 \begin{array}{l} \\
@@ -890,10 +890,10 @@ A   = 4
 $$
 
 
-since   C  we will plug in the x  = 1     :  
+since   C   we will plug in the x  =   2   :  
 $$
 \begin{array}{l} \\
-7\cdot 1^2  - 17\cdot 1  + 38    =  7C \\
+ 4x^2  -22 x +  7  =  C (2 \cdot  + 3 ) \\
 C    =    4   
 \end{array}
 $$
