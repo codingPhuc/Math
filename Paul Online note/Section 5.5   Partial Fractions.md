@@ -1021,24 +1021,22 @@ to  find A  by  comparing it with the term exponent 3  on the left  :
   
 $$
 \begin{array}{l} \\
-7A  =   28   \\
 A  =   4
 \end{array}
 $$
 
 
-  to  find (A   + B )    by  comparing it with the term with exponent of 1  on the left  :  
+  to  find B    by  comparing it with the term with exponent of 2  on the left  :  
 $$
 \begin{array}{l} \\
- B  +  4  =   7\\
-B    =    3
+B  =   0  
 \end{array}
 $$
 
-since   (A+ C )     by  comparing it with the term with exponent of 2  on the left   :  
+since   (4A+ C )     by  comparing it with the term with exponent of 1 on the left   :  
 $$
 \begin{array}{l} \\
-4  + C   = 7  \\
+4\cdot 4   + C   = 0  \\
 C =   3    
  \end{array}
 $$
