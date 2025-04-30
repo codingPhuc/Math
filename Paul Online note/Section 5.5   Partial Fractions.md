@@ -1037,7 +1037,14 @@ since   (4A+ C )     by  comparing it with the term with exponent of 1 on the le
 $$
 \begin{array}{l} \\
 4\cdot 4   + C   = 0  \\
-C =   3    
+C =   -16    
+ \end{array}
+$$
+since   (4B+ D )     by  comparing it with constant  on the left   :  
+$$
+\begin{array}{l} \\
+(4\cdot 0  + D )  = 7  \\
+  D  = 7 
  \end{array}
 $$
 
