@@ -960,16 +960,17 @@ $$
 \end{array}
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
-to  find A  by  comparing it with the co : 
+to  find A  by  comparing it with the constant on the left  : 
   
 $$
 \begin{array}{l} \\
-
+7A  =   28   \\
+A  =   4
 \end{array}
 $$
 
 
-since   C   we will plug in the x  =   2   :  
+  to  find (A   + B )    by  comparing it with the constant on the left  :  
 $$
 \begin{array}{l} \\
  4(2)^2  -22 \cdot 2 +  7  =  C (2 \cdot 2  + 3 ) \\
