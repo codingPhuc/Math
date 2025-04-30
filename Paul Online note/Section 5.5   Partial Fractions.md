@@ -839,3 +839,84 @@ $$
 
 
 
+
+
+
+
+
+
+
+
+
+
+$$
+\frac{4x^2  -22 x +  7 }{(2x  + 3 ) (x - 2 )^2 }  
+$$
+
+
+The first thing we should do is factor the denominator as must as we can  .  
+
+$$
+\frac{4x^2  -22 x +  7 }{(2x  + 3 ) (x - 2 )^2 }  
+$$
+
+so  by seeing the result above a partial decomposition is just : 
+$$
+\frac{7x^2  - 17x + 38}{(x + 6) (x -1 )^2}   =  \frac{A}{x + 6}  + \frac{B}{(x -1 )}  \frac{C}{(x -1 )^2}    
+$$
+
+now we need to find a common denominator  in the function on the right in order to find the solution where both  the numerator are equal  . to add a rational expression  we need to make sure that the denominator are the same by multiplying it with a LCD  : 
+$$
+LCD  =(x + 6) (x -1 )^2 
+$$
+$$
+\frac{A(x -1 )^2 +  B(x + 6) (x -1 ) +  C (x + 6) }{(x + 6) (x -1 )^2}
+$$  
+We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
+$$
+\begin{array}{l} \\
+7x^2  - 17x + 38 = A(x -1 )^2 +  B(x + 6) (x -1 ) +  C (x + 6)
+\end{array}
+$$
+so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
+to  find B we will plug in the x  = -6     : 
+  
+$$
+\begin{array}{l} \\
+7\cdot  (-6)^2  - 17\cdot  -6 + 38   =  49A  \\
+A    =    8  
+\end{array}
+$$
+
+
+since   C  we will plug in the x  = 1     :  
+$$
+\begin{array}{l} \\
+7\cdot 1^2  - 17\cdot 1  + 38    =  7C \\
+C    =    4   
+\end{array}
+$$
+
+since   C  we will plug in the x  = 1     :  
+$$
+\begin{array}{l} \\
+7\cdot  0 ^2  - 17\cdot 0  + 38   = 8(0 -1 )^2 +  B(0 + 6) (0 -1 ) +  4 (0 + 6)\\
+B   =    -1    
+\end{array}
+$$
+
+
+So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
+$$
+\frac{8}{x + 6}  - \frac{1}{(x -1 )} +    \frac{4}{(x -1 )^2}    
+$$
+
+
+
+
+
+
+
+
+
+
