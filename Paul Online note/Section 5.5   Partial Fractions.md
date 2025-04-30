@@ -794,7 +794,7 @@ $$
 We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
 \begin{array}{l} \\
-6x + 5 = A(2x  - 1) +B 
+6x + 5 = A(x -1 )^2 +  B(x + 6) (x -1 ) +  C (x + 6)
 \end{array}
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
