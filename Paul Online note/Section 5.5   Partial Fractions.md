@@ -1006,7 +1006,7 @@ $$
 LCD  =(x^2  + 4)^2 
 $$
 $$
-\frac{A(x^2 +x + 7 ) + x ( Bx +  C ) }{(x^2  + 4)^2 }
+\frac{(Ax + B)(x^2  + 4) + Cx + D   }{(x^2  + 4)^2 }
 $$  
 We need a value A , B   so that the numerator for the value on the left is the same for the numerator for the value on the right . 
 $$
