@@ -802,8 +802,8 @@ to  find B we will plug in the x  = -6     :
   
 $$
 \begin{array}{l} \\
-7\cdot  ^2  - 17x + 38   =  A(x -1 )^2  \\
-B    =   8 
+7\cdot  (-6)^2  - 17\cdot  -6 + 38   =  49A  \\
+B    =  
 \end{array}
 $$
 
