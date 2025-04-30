@@ -955,7 +955,8 @@ We need a value A , B   so that the numerator for the value on the left is the s
 $$
 \begin{array}{l} \\
 3x^2  +  7x +  28  =A(x^2 +x + 7 ) + x ( Bx +  C )   \\
-3x^2  +  7x +  28  =A(x^2 +x + 7 ) + x ( Bx +  C ) 
+3x^2  +  7x +  28  =Ax^2 +Ax + 7A   +  Bx^2  + Cx  \\
+3x^2  +  7x +  28  = x^2 (A   + B )  +Ax + Cx   + 7A    
 \end{array}
 $$
 so there are many possible x that we can  plug in but to make this easy we will plug in a x  that will make either B or A or C  disappear so that we can find the other variable 
