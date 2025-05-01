@@ -15,4 +15,5 @@ $$
 f(x)  = b^x 
 $$
 where b is called the base and x can be any real number 
-Notice that the x is now in the exponent and the base is a fixed number. This is the opposite from what we have seen in this point .
+Notice that the x is now in the exponent and the base is a fixed number. This is the opposite from what we have seen in this point .To  this point the base is a variable x and the exponent is a fix number. However despite the different these function evaluate in the same way 
+
