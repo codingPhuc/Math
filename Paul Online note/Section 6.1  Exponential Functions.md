@@ -117,10 +117,8 @@ sketch the graph of $f(X)=e^x$
     % Center: (h, k) = (0, 0)
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola
- 
-
     % Right branch
-        \draw[thick, red, domain=-3:3] plot (\x, {(2.718281828)^(\x) });
+        \draw[thick, red, domain=-3:2] plot (\x, {(2.718281828)^(\x) });
 
     % Asymptotes: y = ±(3/2)x
     % Center
@@ -130,3 +128,5 @@ sketch the graph of $f(X)=e^x$
 \end{document}
 
 ```
+
+notice the graph increase since $e=2.718281828>1$
