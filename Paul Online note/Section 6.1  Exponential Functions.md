@@ -55,11 +55,7 @@ Example 1 : Sketch the graph of $f(x) = 2^x$ and $g(x) =\left( \frac{1}{2} \righ
     % Center: (h, k) = (0, 0)
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola
-        \draw[thick, blue, domain=-5:5, samples=200, smooth] 
-        plot ({3 - (5/7)* sqrt(49 + (\x  + 1 )^2 )} , \x );
-        \draw[thick, blue, domain=-5:5, samples=200, smooth] 
-        plot ({3 + (5/7)* sqrt(49 + (\x  + 1 )^2 )} , \x );
-
+ 
 
     % Right branch
        \draw[dashed, red, domain=-6:6] plot (\x, {2^(\x) });
@@ -74,5 +70,4 @@ Example 1 : Sketch the graph of $f(x) = 2^x$ and $g(x) =\left( \frac{1}{2} \righ
 
 ```
 
-
-
+note that we can write 
