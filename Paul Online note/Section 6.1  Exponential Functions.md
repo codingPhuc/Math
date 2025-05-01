@@ -76,4 +76,5 @@ note that we can written $g(x)$ in the following way :
 g(x) = \left( \frac{1}{2} \right)^x  =  \frac{1}{2^x} = 2^{-x}
 	$$1. The graph of f(x) will always contain the point $(0,1)$ . Or put another way ,$f(0)=1$ regardless of the value of b 
 2. for every possible b we have $b^x >0$  . note that this imply that $b^x \neq 0$ 
-3. if $0<b <1$ then the graph of $b^x$ will 
+3. if $0<b <1$ then the graph of $b^x$ will decrease as we move from left to right . Check out the graph of $\left( \frac{1}{2} \right)^x$ above for verification of this property 
+4. 
