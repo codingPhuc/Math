@@ -120,8 +120,7 @@ sketch the graph of $f(X)=e^x$
  
 
     % Right branch
-       \draw[dashed, red, domain=-3:3] plot (\x, {2^(\x) });
-        \draw[dashed, red, domain=-3:3] plot (\x, {(1/2)^(\x) });
+        \draw[thick, red, domain=-3:3] plot (\x, {(2.718281828)^(\x) });
 
     % Asymptotes: y = ±(3/2)x
     % Center
