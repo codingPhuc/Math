@@ -325,7 +325,7 @@ we can conclude that the function increase from left to right
 
 
 $f(x)= e^{-x}$
-we can conclude that the function decrease from left to right   and s
+This is a [[Section 4.6  Transformations]] function that reflex the trend of the line 
 
 ```tikz
 \usepackage{amsmath,amssymb}
