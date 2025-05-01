@@ -180,4 +180,7 @@ notice how this graph violate all the rules for $b^x$ for all the x mark
 
 Given the function $f(x) =4^x$ evaluate each of the following. 
 $f(-2) =4^{-2} = \frac{1}{16}$
-$f\left( -\frac{1}{2} \right) =4^{-1/2} = \frac{1}{16}$
+$f\left( -\frac{1}{2} \right) =4^{-1/2} = \frac{1}{2}$ 
+$f(0) =4^{0} = 1$
+$f(1) =4^{1} = 4$
+$f()$
