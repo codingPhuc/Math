@@ -176,4 +176,3 @@ notice how this graph violate all the rules for $b^x$ for all the x mark
 4. if $b>1$ then the graph of $b^x$ will increase as we move from left to right . Check out the graph of $2^x$ above for verification x
 5. if $b^x=b^y$ then  $x =y$ 
 
-
