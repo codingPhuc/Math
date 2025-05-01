@@ -28,4 +28,5 @@ $$
 f(x)  = ( -4)^x \implies f\left( \frac{1}{2} \right) = (-4)^{1/2 } = \sqrt{  -4 }
 $$
 we only want real number to arrive in exponent function 
-Example 1 : 
+Example 1 : Sketch the graph of $f(x) = 2^x$ and $g(x) =\left( \frac{1}{2} \right)^x$ on the same axis system 
+
