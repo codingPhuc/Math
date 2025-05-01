@@ -8,4 +8,6 @@ Current date: "2025-05-01"
 amount of time: 
 learning score:
 ---
-let start  of this 
+this chapter start of with the definition of a exponential functions 
+
+if b is any number such that $\frac{b}{}$
