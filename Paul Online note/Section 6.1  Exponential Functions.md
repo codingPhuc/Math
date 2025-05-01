@@ -79,4 +79,5 @@ g(x) = \left( \frac{1}{2} \right)^x  =  \frac{1}{2^x} = 2^{-x}
 3. if $0<b <1$ then the graph of $b^x$ will decrease as we move from left to right . Check out the graph of $\left( \frac{1}{2} \right)^x$ above for verification of this property 
 4. if $b>1$ then the graph of $b^x$ will increase as we move from left to right . Check out the graph of $2^x$ above for verification 
 5. if $b^x=b^y$ then  $x =y$
-all of these properties except for the final fu
+all of these properties except for the final function can be verify by the graph we just draw 
+As the final topic we need to discuss a special expo
