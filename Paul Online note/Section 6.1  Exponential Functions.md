@@ -184,4 +184,5 @@ $f\left( -\frac{1}{2} \right) =4^{-1/2} = \frac{1}{2}$
 $f(0) =4^{0} = 1$
 $f(1) =4^{1} = 4$
 $f\left( \frac{3}{2} \right) =4^{3/2} = 8$ 
-Given the function $f(x) =\frac{1}{5} ()$ evaluate each of the following. 
+Given the function $f(x) = (\frac{1}{5})^x$ evaluate each of the following. 
+$f(-3) = (\frac{1}{5})^{-3} =  125$
