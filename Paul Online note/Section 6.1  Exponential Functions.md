@@ -132,3 +132,40 @@ sketch the graph of $f(X)=e^x$
 notice the graph increase since $e=2.718281828>1$
 
 sketch the graph of $g(x)=5e^{1-x} -4$
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw axes
+    \draw[->] (-7,0) -- (7,0) node[right] {$x$};
+    \draw[->] (0,-7) -- (0,7) node[above] {$y$};
+
+    % Tick marks and labels
+    \foreach \x in {-6,-5,...,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-6,-5,...,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Parameters
+    % Center: (h, k) = (0, 0)
+    % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
+    % Horizontal hyperbola
+    % Right branch
+        \draw[thick, red, domain=-1:2] plot (\x, {5*(2.718281828)^(1-\x)  - 4 });
+
+    % Asymptotes: y = ±(3/2)x
+    % Center
+    \filldraw[black] (0, 0) circle (2pt) node[below left] {$(0, 0)$};
+
+\end{tikzpicture}
+\end{document}
+
+```
