@@ -1051,5 +1051,5 @@ $$
 
 So  by correctly  finding x we manage to get the value A , B and C   we will now plug them in : 
 $$
- \frac{4}{x}  +  \frac{3x + 3 }{x^2 +x + 7}
+ \frac{4x}{(x^2 + 4)} + \frac{-16x + 7}{(x^2 + 4)^2}  
 $$
