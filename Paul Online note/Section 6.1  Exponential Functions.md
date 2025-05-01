@@ -85,3 +85,4 @@ As the final topic we need to discuss a special exponent .
 $$
 f(x) = e^x 
 $$
+where $e =2.718281828$ note the different  between $f(x) =b^x\text{ and }f(x)=e^x$ 
