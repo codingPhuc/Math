@@ -80,4 +80,8 @@ g(x) = \left( \frac{1}{2} \right)^x  =  \frac{1}{2^x} = 2^{-x}
 4. if $b>1$ then the graph of $b^x$ will increase as we move from left to right . Check out the graph of $2^x$ above for verification 
 5. if $b^x=b^y$ then  $x =y$
 all of these properties except for the final function can be verify by the graph we just draw 
-As the final topic we need to discuss a special expo
+As the final topic we need to discuss a special exponent .
+
+$$
+f(x) = e^x 
+$$
