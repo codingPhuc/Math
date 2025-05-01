@@ -183,4 +183,5 @@ $f(-2) =4^{-2} = \frac{1}{16}$
 $f\left( -\frac{1}{2} \right) =4^{-1/2} = \frac{1}{2}$ 
 $f(0) =4^{0} = 1$
 $f(1) =4^{1} = 4$
-$f()$
+$f\left( \frac{3}{2} \right) =4^{3/2} = 8$ 
+Given the function $f(x) =\frac{1}{5} ()$ evaluate each of the following. 
