@@ -74,4 +74,5 @@ note that we can written $g(x)$ in the following way :
 
  $$
 g(x) = \left( \frac{1}{2} \right)^x  =  \frac{1}{2^x} = 2^{-x}
-	$$1.  The graph of f(x) will always contain the point $(0,1)$ . 
+	$$1. The graph of f(x) will always contain the point $(0,1)$ . Or put another way ,$f(0)=1$ regardless of the value of b 
+2. for every possib
