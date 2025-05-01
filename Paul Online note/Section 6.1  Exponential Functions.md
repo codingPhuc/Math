@@ -72,6 +72,6 @@ Example 1 : Sketch the graph of $f(x) = 2^x$ and $g(x) =\left( \frac{1}{2} \righ
 
 note that we can written $g(x)$ in the following way : 
 
-$$
+ $$
 g(x) = \left( \frac{1}{2} \right)^x  =  \frac{1}{2^x} = 2^{-x}
-$$
+	$$1.  The graph of f(x) will always contain the point $(0,1)$ . 
