@@ -130,3 +130,5 @@ sketch the graph of $f(X)=e^x$
 ```
 
 notice the graph increase since $e=2.718281828>1$
+
+sketch the graph of $g(x)=5e^{1-x} -4$
