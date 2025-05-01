@@ -186,3 +186,6 @@ $f(1) =4^{1} = 4$
 $f\left( \frac{3}{2} \right) =4^{3/2} = 8$ 
 Given the function $f(x) = (\frac{1}{5})^x$ evaluate each of the following. 
 $f(-3) = (\frac{1}{5})^{-3} =  125$
+$f(-1) = (\frac{1}{5})^{-1} =  5$ 
+$f(0) = (\frac{1}{5})^{0} =  1$
+$f(0) = (\frac{1}{5})^{0} =  1$
