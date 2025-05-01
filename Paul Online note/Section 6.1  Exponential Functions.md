@@ -177,6 +177,8 @@ notice how this graph violate all the rules for $b^x$ for all the x mark
 5. if $b^x=b^y$ then  $x =y$ 
 
 
+# #Practice_Exercise  
+
 
 Given the function $f(x) =4^x$ evaluate each of the following. 
 $f(-2) =4^{-2} = \frac{1}{16}$
@@ -192,7 +194,11 @@ $f(2)= \left( \frac{1}{5} \right)^{2} =  \frac{1}{25}$
 $f(3)= \left( \frac{1}{5} \right)^{3} =  \frac{1}{125}$
 
 
-Sketch each of th 
+## Sketch each of the following :  
+
+$f(x)= 6^x$
+we can coclude asdasdcsa
+
 
 ```tikz
 \usepackage{amsmath,amssymb}
