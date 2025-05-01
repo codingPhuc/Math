@@ -23,5 +23,8 @@ $$
 f(x)  =   0^x  =  0  \text{ and } f(x)  = 1^x  = 1  
 $$
 Due to this these are called exponent function and do not have the properties that normal exponents function have 
-The next constraint is prohibiting function that have a negative value in the base .For example, if the value is $b=-2$ it will be 
+The next constraint is prohibiting function that have a negative value in the base,  due to the chances of receiving a negative number .For example, if the value is $b=-2$ it will be  
+$$
+f(x)  = ( -4)^x \implies f\left( \frac{1}{2} \right) = \frac{(-4)^1}{2  }  
+$$
 
