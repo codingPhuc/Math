@@ -169,3 +169,17 @@ sketch the graph of $g(x)=5e^{1-x} -4$
 \end{document}
 
 ```
+notice how this graph violate all the rules for $b^x$
+1. The graph of f(x)f(x) will always contain the point (0,1)(0,1). Or put another way, f(0)=1f(0)=1 regardless of the value of bb.  x 
+      
+    
+2. For every possible bb we have bx>0bx>0. Note that this implies that bx≠0bx≠0.   
+      
+    
+3. If 0<b<10<b<1 then the graph of bxbx will decrease as we move from left to right. Check out the graph of (12)x(12)x above for verification of this property.  
+      
+    
+4. If b>1b>1 then the graph of bxbx will increase as we move from left to right. Check out the graph of 2x2x above for verification of this property.  
+      
+    
+5. If bx=bybx=by then x=y
