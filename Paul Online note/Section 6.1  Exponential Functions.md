@@ -325,7 +325,7 @@ we can conclude that the function increase from left to right
 
 
 $f(x)= e^{-x}$
-we can conclude that the function decrease from left to right  
+we can conclude that the function decrease from left to right   and s
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -352,7 +352,7 @@ we can conclude that the function decrease from left to right
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola
     % Right branch
-        \draw[thick, red, domain=-1:2] plot (\x, {-2.718281828^(\x ) });
+        \draw[thick, red, domain=-1:2] plot (\x, {2.718281828^(-\x ) });
 
     % Asymptotes: y = ±(3/2)x
     % Center
