@@ -58,8 +58,8 @@ Example 1 : Sketch the graph of $f(x) = 2^x$ and $g(x) =\left( \frac{1}{2} \righ
  
 
     % Right branch
-       \draw[dashed, red, domain=-6:6] plot (\x, {2^(\x) });
-        \draw[dashed, red, domain=-6:6] plot (\x, {(1/2)^(\x) });
+       \draw[dashed, red, domain=-3:3] plot (\x, {2^(\x) });
+        \draw[dashed, red, domain=-3:3] plot (\x, {(1/2)^(\x) });
 
     % Asymptotes: y = ±(3/2)x
     % Center
@@ -69,6 +69,7 @@ Example 1 : Sketch the graph of $f(x) = 2^x$ and $g(x) =\left( \frac{1}{2} \righ
 \end{document}
 
 ```
+
 
 note that we can written $g(x)$ in the following way : 
 
@@ -89,4 +90,44 @@ where $e =2.718281828$ note the different  between $f(x) =b^x\text{ and }f(x)=e^
 
 this special exponent is very important and arises naturally in many cases 
 let get a quick graph of this function 
+sketch the graph of $f(X)=e^x$ 
 
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw axes
+    \draw[->] (-7,0) -- (7,0) node[right] {$x$};
+    \draw[->] (0,-7) -- (0,7) node[above] {$y$};
+
+    % Tick marks and labels
+    \foreach \x in {-6,-5,...,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-6,-5,...,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Parameters
+    % Center: (h, k) = (0, 0)
+    % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
+    % Horizontal hyperbola
+ 
+
+    % Right branch
+       \draw[dashed, red, domain=-3:3] plot (\x, {2^(\x) });
+        \draw[dashed, red, domain=-3:3] plot (\x, {(1/2)^(\x) });
+
+    % Asymptotes: y = ±(3/2)x
+    % Center
+    \filldraw[black] (0, 0) circle (2pt) node[below left] {$(0, 0)$};
+
+\end{tikzpicture}
+\end{document}
+
+```
