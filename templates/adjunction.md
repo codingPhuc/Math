@@ -3,7 +3,8 @@ title: Adjunction
 references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
 tags:
   - In_Progress
-reference: 
+learning method: 
 Current date: "{{date:YYYY-MM-DD}}"
-lear:
+amount of time: 
+learning score:
 ---
