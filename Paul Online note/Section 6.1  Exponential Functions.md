@@ -62,8 +62,8 @@ Example 1 : Sketch the graph of $f(x) = 2^x$ and $g(x) =\left( \frac{1}{2} \righ
 
 
     % Right branch
-       \draw[dashed, red, domain=-6:6] plot (\x, { -1 - (7/5)*(\x - 3) });
-        \draw[dashed, red, domain=-6:6] plot (\x, { -1 + (7/5)*(\x - 3) });
+       \draw[dashed, red, domain=-6:6] plot (\x, {2^(\x) });
+        \draw[dashed, red, domain=-6:6] plot (\x, {(1/2)^(\x) });
 
     % Asymptotes: y = ±(3/2)x
     % Center
