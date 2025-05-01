@@ -22,4 +22,5 @@ There is some constrains that we need to mention , we need to avoid the constant
 $$
 f(x)  =   0^x  =  0  \text{ and } f(x)  = 1^x  = 1  
 $$
-Due
+Due to this these are called exponent function and do not have the properties that normal exponents function have 
+The next c
