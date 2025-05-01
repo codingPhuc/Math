@@ -85,4 +85,8 @@ As the final topic we need to discuss a special exponent .
 $$
 f(x) = e^x 
 $$
-where $e =2.718281828$ note the different  between $f(x) =b^x\text{ and }f(x)=e^x$ 
+where $e =2.718281828$ note the different  between $f(x) =b^x\text{ and }f(x)=e^x$ . Given the above  b is any number that are given the restriction  above while e is a very specific number 
+
+this special exponent is very important and arises naturally in many cases 
+let get a quick graph of this function 
+
