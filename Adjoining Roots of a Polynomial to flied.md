@@ -38,7 +38,11 @@ $\{ 1 , \sqrt{ 2 } \}$  is a basic for  $Q(\sqrt{ 2 })$ as  a vector space over 
 $$
 \begin{array}{l}
 (a + b\sqrt{ 2 })(c+d\sqrt{ 2 })=ac+(ad+bc)\sqrt{ 2 }+bd\cdot 2   \\
-=
+= (ac + 2bd )  +  (ad+bc ) \sqrt{ 2 }
 \end{array}
+$$
+
+$$
+\frac{1}{(a +b\sqrt{ 2 })} \cdot \frac{a-b\sqrt{ 2 }}{a-b\sqrt{ 2 }}  = \frac{a-b\sqrt{ 2 }}{a}
 $$
 
