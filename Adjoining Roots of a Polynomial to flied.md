@@ -28,4 +28,7 @@ a + b\sqrt{ 2 }   =   0  \\
 a , b  \in Q  
 \end{array}
 $$
-  
+$$
+\text{ proof if  } \sqrt{  2   }  =  -\frac{a}{b} 
+$$
+so $a=b =0$
