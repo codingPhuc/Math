@@ -25,7 +25,7 @@ $$
 $$
 \begin{array}{l}
 a + b\sqrt{ 2 }   =   0  \\
-a , b  
+a , b  \in Q  
 \end{array}
 $$
   
