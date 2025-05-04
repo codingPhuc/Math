@@ -37,7 +37,7 @@ $\{ 1 , \sqrt{ 2 } \}$  is a basic for  $Q(\sqrt{ 2 })$ as  a vector space over 
 
 
 $dimQ(\sqrt{ 2 })=2$
-what is a dimension 
+what is a dimension ?  
 what is a flied ?  
 
 $$
