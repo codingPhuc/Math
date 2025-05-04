@@ -17,4 +17,9 @@ take proof
 $\{ a \cdot 1  + b \cdot \sqrt{ 2 }  |  a, b \in Q\}$ 
   linear  combination  of 1 and  $\sqrt{ 2 }$ where the scalar are rational number 
   = this is the span $\{ 1 , \sqrt{ 2 } \}$ 
+  vertor space over the rational and that mean this is a two dimenstional vector space over the rational 
+
+$$
+\{  1 , \sqrt{ 2 } \} \text{ is linearly independent over th}
+$$
   
