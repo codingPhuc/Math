@@ -15,5 +15,6 @@ $\to  Q(\sqrt{ 2 })$  the smallest sub flied of  R (or complex number) containin
 you can describe this set as  $\{ a+ b\sqrt{ 2 } | a, b \in Q \}$
 take proof 
 $\{ a \cdot 1  + b \cdot \sqrt{ 2 }  |  a, b \in Q\}$ 
-  lineaer combination  of 1 and  $\sqrt{ 2 }$ where the scalar are rational number 
-  = 
+  linear  combination  of 1 and  $\sqrt{ 2 }$ where the scalar are rational number 
+  = this is the span $\{ 1 , \sqrt{ 2 } \}$ 
+  
