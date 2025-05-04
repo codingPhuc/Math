@@ -43,6 +43,6 @@ $$
 $$
 
 $$
-\frac{1}{(a +b\sqrt{ 2 })} \cdot \frac{a-b\sqrt{ 2 }}{a-b\sqrt{ 2 }}  = \frac{a-b\sqrt{ 2 }}{a}
+\frac{1}{(a +b\sqrt{ 2 })} \cdot \frac{a-b\sqrt{ 2 }}{a-b\sqrt{ 2 }}  = \frac{a-b\sqrt{ 2 }}{a^2-2b^2} = \frac{a}{a^2 -2b^2} - \frac{b}{a^2-}
 $$
 
