@@ -20,6 +20,12 @@ $\{ a \cdot 1  + b \cdot \sqrt{ 2 }  |  a, b \in Q\}$
   vertor space over the rational and that mean this is a two dimenstional vector space over the rational 
 
 $$
-\{  1 , \sqrt{ 2 } \} \text{ is linearly independent over th}
+\{  1 , \sqrt{ 2 } \} \text{ is linearly independent over the Q}
+$$
+$$
+\begin{array}{l}
+a + b\sqrt{ 2 }   =   0  \\
+a , b  
+\end{array}
 $$
   
