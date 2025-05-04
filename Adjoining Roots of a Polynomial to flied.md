@@ -35,5 +35,10 @@ so $a=b =0$
 
 $\{ 1 , \sqrt{ 2 } \}$  is a basic for  $Q(\sqrt{ 2 })$ as  a vector space over Q  
 
+$$
+\begin{array}{l}
+(a + b\sqrt{ 2 })(c+d\sqrt{ 2 })=ac+(ad+bc)\sqrt{ 2 }+bd\cdot 2   \\
+=
+\end{array}
+$$
 
-$(a + b\sqrt{ 2 })$
