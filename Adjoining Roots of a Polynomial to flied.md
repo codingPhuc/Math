@@ -9,4 +9,6 @@ amount of time:
 learning score:
 ---
 
-
+$Q(\sqrt{ 2 })$ rational  adjoin $\sqrt{ 2 }$ 
+- take all the rational and combine square root of 2  common mistake 
+$\to  Q$
