@@ -14,4 +14,6 @@ $Q(\sqrt{ 2 })$ rational  adjoin $\sqrt{ 2 }$
 $\to  Q(\sqrt{ 2 })$  the smallest sub flied of  R (or complex number) containing  the rational  Q and $\sqrt{ 2 }$ 
 you can describe this set as  $\{ a+ b\sqrt{ 2 } | a, b \in Q \}$
 take proof 
-$\{ a \cdot 1  + b \cdot \sqrt{ 2 }  |  a, b \}$
+$\{ a \cdot 1  + b \cdot \sqrt{ 2 }  |  a, b \in Q\}$ 
+  lineaer combination  of 1 and  $\sqrt{ 2 }$ where the scalar are rational number 
+  = 
