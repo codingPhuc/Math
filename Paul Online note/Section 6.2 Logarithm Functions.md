@@ -8,4 +8,4 @@ Current date: "2025-05-05"
 amount of time: 
 learning score:
 ---
-In this section we are going to move on to logarithm functions . This can be a tricky function to graph right  away . 
+In this section we are going to move on to logarithm functions . This can be a tricky function to graph right  away . Do not get disc
