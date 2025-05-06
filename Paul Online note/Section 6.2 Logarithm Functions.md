@@ -58,5 +58,11 @@ $$
 \end{array}
 $$
 
-so the cmmon logarithm  is simply log base 10 with remove the 10 notation from the log . Similarly ,  natural logarithm is  e which we saw in the pervious section [[6.2 Factoring Polynomials (a  =1)]]
+so the common logarithm  is simply log base 10 with remove the 10 notation from the log . Similarly ,  natural logarithm is  e which we saw in the pervious section [[6.2 Factoring Polynomials (a  =1)]]
 
+$$
+\log{1000}
+$$
+$$
+\log {\frac{1}{}}
+$$
