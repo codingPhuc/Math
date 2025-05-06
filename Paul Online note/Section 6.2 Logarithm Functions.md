@@ -121,3 +121,7 @@ $$
 ```
 
 
+##  Properties of Logarithms 
+
+1. $\log_{b}1 = 0$  . This is follow from the fact that $b^0=1$ 
+2. $\log_{b}b=1$ this 
