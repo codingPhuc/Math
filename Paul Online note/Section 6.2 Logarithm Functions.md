@@ -132,6 +132,7 @@ $$
 the  properties  3 and 4  leads to a nice  relationship between  the logarithm and exponent function . Let first computer the following [[Section 3.6  Combining Functions]] 
 
 $$
-\begin{array}
+\begin{array}{l} \\
+(f\circ  ) (x)  = f[g(x)]   = 
 \end{array}
 $$
