@@ -114,8 +114,8 @@ $$
 
 
     % Right branch
-       \draw[thick, blue, domain=-6:6] plot (\x, { -1 - (7/5)*(\x - 3) });
-        \draw[thick, red, domain=-6:6] plot (\x, { -1 + (7/5)*(\x - 3) });
+       \draw[thick, blue, domain=-6:6] plot (\x, { -1 - (7/5)*(\x - 3)});
+        \draw[thick, blue, domain=-6:6] plot (\x, { -1 + (7/5)*(\x - 3) });
 
     % Asymptotes: y = ±(3/2)x
     % Center
