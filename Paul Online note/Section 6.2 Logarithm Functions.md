@@ -13,5 +13,7 @@ In this section we are going to move on to logarithm functions . This can be a t
 
 if  b is any number  $b>0$ and  $b\neq 0$  and $x>0$ then 
 $$
-y = \log_{b}x  \text{ is equivalent to}
+y = \log_{b}x  \text{ is equivalent to } b^y  = x  
 $$
+we read this as "log bases b of x"  
+In this definition  $y=\log_{b}x$ is called the logarithm  form and  $b^y $
