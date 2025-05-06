@@ -8,4 +8,7 @@ Current date: "2025-05-05"
 amount of time: 
 learning score:
 ---
-In this section we are going to move on to logarithm functions . This can be a tricky function to graph right  away . Do not get disc
+In this section we are going to move on to logarithm functions . This can be a tricky function to graph right  away  
+
+
+if  b is any number  $b>0$ and  $b\neq 0$  and $x>0$
