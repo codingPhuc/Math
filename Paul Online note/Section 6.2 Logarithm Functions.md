@@ -25,4 +25,8 @@ Note that the requirement  $x>0$ is really the result of the fact that we also r
 
 #note
 	The log part is just to notify that we are dealing with a logarithm . They are not number and they are not signifying multiplication  
-	The B in the $\log_{b}x$ equation  above does not mean that it $\log(b^x)$ but instead b is the bases that is exponent 
+	The B in the $y=\log_{b}x$ equation  above does not mean that it $\log(b^x)$ but instead b is the base that is exponent by  some number y  to get x 
+
+$$
+\log_{4}16   =  
+$$
