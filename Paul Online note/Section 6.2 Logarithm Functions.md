@@ -153,5 +153,12 @@ Now let take  look at manipulate properties of the algorithm
 
 ## more properties  of logarithms 
 $$
-\log_{b }
+\begin{array}{l}
+
+\log_{b}  (xy )  =  \log_{b}x  +  \log_{b} y     \\
+\log_{b}\left( \frac{x}{y} \right)   = \log_{b} x  - \log_{b}y  \\
+\log_{b}(x^r)
+\end{array}
+
+
 $$
