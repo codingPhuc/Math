@@ -20,4 +20,4 @@ In this definition  $y=\log_{b}x$ is called the logarithm  form and  $b^y = x$ i
 
 Note that the requirement  $x>0$ is really the result of the fact that we also require $b>0$ . This is due to the fact that raising a negative bases to a non integer exponent like ($(-x)^{1/2}$) will result in a complex number  . Therefore , there will be a restriction put in place to make sure that the number stay in $\in R$ 
 
-The log 
+The log part is just to notify that we are dealing with a logarithm . They 
