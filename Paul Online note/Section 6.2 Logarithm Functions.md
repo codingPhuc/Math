@@ -129,4 +129,9 @@ $$
 4. $b^{\log_{b}x} =x$ this can be generalized out to $b^{\log_{b}f(x)}=f(x)$
 
 
-the  properties  3 and 4  leads to a nice  relationship between  the logarithm and exponent function . Let first computer the following 
+the  properties  3 and 4  leads to a nice  relationship between  the logarithm and exponent function . Let first computer the following [[Section 3.6  Combining Functions]] 
+
+$$
+\begin{array}
+\end{array}
+$$
