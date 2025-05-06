@@ -16,4 +16,6 @@ $$
 y = \log_{b}x  \text{ is equivalent to } b^y  = x  
 $$
 we read this as "log bases b of x"  
-In this definition  $y=\log_{b}x$ is called the logarithm  form and  $b^y $
+In this definition  $y=\log_{b}x$ is called the logarithm  form and  $b^y = x$ is called the exponential form 
+
+Note that the requirement  $x>0$ is really the result of the fact that we 
