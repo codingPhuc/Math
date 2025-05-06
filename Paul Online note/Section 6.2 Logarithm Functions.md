@@ -107,19 +107,13 @@ $$
     % Center: (h, k) = (0, 0)
     % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
     % Horizontal hyperbola
-        \draw[thick, blue, domain=-5:5, samples=200, smooth] 
-        plot ({3 - (5/7)* sqrt(49 + (\x  + 1 )^2 )} , \x );
-        \draw[thick, blue, domain=-5:5, samples=200, smooth] 
-        plot ({3 + (5/7)* sqrt(49 + (\x  + 1 )^2 )} , \x );
+
 
 
     % Right branch
        \draw[thick, blue, domain=2:6] plot (\x, {log10(\x)});
-        \draw[thick, blue, domain=-6:6] plot (\x, { -1 + (7/5)*(\x - 3) });
+   \draw[thick, red, domain=2:6] plot (\x, {ln(\x)});
 
-    % Asymptotes: y = ±(3/2)x
-    % Center
-    \filldraw[black] (0, 0) circle (2pt) node[below left] {$(0, 0)$};
 
 \end{tikzpicture}
 \end{document}
