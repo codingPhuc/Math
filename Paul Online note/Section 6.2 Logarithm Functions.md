@@ -125,4 +125,6 @@ $$
 
 1. $\log_{b}1 = 0$  . This is follow from the fact that $b^0=1$ 
 2. $\log_{b}b=1$ this follow the fact that $b^1 = b$ 
-3. $\log_{b}b^x=x$ this can be generalized out to $\log_{b}$  
+3. $\log_{b}b^x=x$ this can be generalized out to $\log_{b}b^{f(x)}=f(x)$
+4. $b^{\log_{b}x} =x$ this can be generalized out to $b^{\log_{b}f(x)}=f(x)$
+
