@@ -49,4 +49,11 @@ $$
 \log_{\frac{3}{2}}{\frac{27}{8}}   =  3  
 $$
 
-With these logarithm in mind , there is also different type of logarithm  that occur in a regular basic . Here are the definition using these two log
+With these logarithm in mind , there is also different type of logarithm  that occur in a regular basic . Here are the definition using these two logarithms  . 
+
+$$
+\begin{array}{l}
+\text{ common  logarithm } \log_{x} = \log_{10}  x  \\
+\text{ natural logarithm } \ln \\
+\end{array}
+$$
