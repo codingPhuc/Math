@@ -54,6 +54,8 @@ With these logarithm in mind , there is also different type of logarithm  that o
 $$
 \begin{array}{l}
 \text{ common  logarithm } \log_{x} = \log_{10}  x  \\
-\text{ natural logarithm } \ln \\
+\text{ natural logarithm } \ln_{x}  = \log_{e}x \\
 \end{array}
 $$
+
+so the natural logarithm  is simply log base 10 with remove the 10 notation from the log . Simila
