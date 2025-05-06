@@ -128,3 +128,5 @@ $$
 3. $\log_{b}b^x=x$ this can be generalized out to $\log_{b}b^{f(x)}=f(x)$
 4. $b^{\log_{b}x} =x$ this can be generalized out to $b^{\log_{b}f(x)}=f(x)$
 
+
+the  properties  3 and 4  leads to a nice  realtionship 
