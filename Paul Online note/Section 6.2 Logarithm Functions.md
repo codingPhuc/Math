@@ -111,11 +111,13 @@ $$
 
 
     % Right branch
-       \draw[thick, blue, domain=2:6] plot (\x, {log10(\x)});
-   \draw[thick, red, domain=2:6] plot (\x, {ln(\x)});
+       \draw[thick, blue, domain=0.25:6] plot (\x, {log10(\x)});
+   \draw[thick, red, domain=0.25:6] plot (\x, {ln(\x)});
 
 
 \end{tikzpicture}
 \end{document}
 
 ```
+
+
