@@ -18,4 +18,4 @@ $$
 we read this as "log bases b of x"  
 In this definition  $y=\log_{b}x$ is called the logarithm  form and  $b^y = x$ is called the exponential form 
 
-Note that the requirement  $x>0$ is really the result of the fact that we also require $b>0$ . This is due to the fact that raising a negative bases to a 
+Note that the requirement  $x>0$ is really the result of the fact that we also require $b>0$ . This is due to the fact that raising a negative bases to a non integer exponent like ($(-x)^{1/2}$) will result in a complex number  . Therefore , there will be a restriction 
