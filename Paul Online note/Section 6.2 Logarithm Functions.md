@@ -28,5 +28,12 @@ Note that the requirement  $x>0$ is really the result of the fact that we also r
 	The B in the $y=\log_{b}x$ equation  above does not mean that it $\log(b^x)$ but instead b is the base that is exponent by  some number y  to get x 
 
 $$
-\log_{4}16   =  
+\log_{4}16   = 2  
 $$
+$$
+\log_{2}16  =  4
+$$
+
+$$
+\log_{6}216  =  
+$$ 
