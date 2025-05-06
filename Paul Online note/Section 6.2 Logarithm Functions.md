@@ -141,5 +141,10 @@ $$
 
 recall from the [[Section 3.7  Inverse Functions]]   this mean that the exponent and logarithm are inverses of each other . 
 $$
-\ln e^{f(X)} =  f(x)  
+\begin{array}
+\ln e^{f(X)} =  f(x)  \;  \log 10^{f(X)}  = f(x)     \\
+e^{\ln f(x)  } =  
+\end{array}
+
+
 $$
