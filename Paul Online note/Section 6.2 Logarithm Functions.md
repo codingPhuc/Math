@@ -154,11 +154,10 @@ Now let take  look at manipulate properties of the algorithm
 ## more properties  of logarithms 
 $$
 \begin{array}{l}
-
 \log_{b}  (xy )  =  \log_{b}x  +  \log_{b} y     \\
 \log_{b}\left( \frac{x}{y} \right)   = \log_{b} x  - \log_{b}y  \\
-\log_{b}(x^r)
+\log_{b}(x^r)  = r\log_{b}x   \\
+\text{ if } \log_{b}x =  \log_{b}y  \text{ then } x =  y  
 \end{array}
-
-
 $$
+
