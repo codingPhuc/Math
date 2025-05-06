@@ -25,5 +25,4 @@ Note that the requirement  $x>0$ is really the result of the fact that we also r
 
 #note
 	The log part is just to notify that we are dealing with a logarithm . They are not number and they are not signifying multiplication  
-	Note also that the 
-
+	The B in the $\log_{b}x$ equation  above does not mean that it $\log(b^x)$ but instead b is the bases that is exponent 
