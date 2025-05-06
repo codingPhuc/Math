@@ -8,4 +8,4 @@ Current date: "2025-05-05"
 amount of time: 
 learning score:
 ---
-
+In this section we are going to move on to logarithm functions . This can be 
