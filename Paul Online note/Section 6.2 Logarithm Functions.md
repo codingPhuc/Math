@@ -124,4 +124,5 @@ $$
 ##  Properties of Logarithms 
 
 1. $\log_{b}1 = 0$  . This is follow from the fact that $b^0=1$ 
-2. $\log_{b}b=1$ this 
+2. $\log_{b}b=1$ this follow the fact that $b^1 = b$ 
+3. $\log_{b}b^x=x$ this can be generalized out to $\log_{b}$  
