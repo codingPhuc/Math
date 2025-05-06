@@ -133,6 +133,10 @@ the  properties  3 and 4  leads to a nice  relationship between  the logarithm a
 
 $$
 \begin{array}{l} \\
-(f\circ  ) (x)  = f[g(x)]   = 
+(f\circ  ) (x)  = f[g(x)]   = f(\log_{b}x)  = b^{\log_{b}x} =  x  \\
+(g\circ f) ( x) =  g[f(x) ]  = g[b^x]   = \log_{b}b^x   =  x 
 \end{array}
 $$
+
+
+recall from the []
