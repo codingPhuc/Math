@@ -61,16 +61,16 @@ $$
 so the common logarithm  is simply log base 10 with remove the 10 notation from the log . Similarly ,  natural logarithm is  e which we saw in the pervious section [[6.2 Factoring Polynomials (a  =1)]]
 
 $$
-\log{1000}
+\log{1000} = 3
 $$
 $$
-\log {\frac{1}{100}}
+\log {\frac{1}{100}} = -2
 $$
 $$
-\ln {\frac{1}{e}}
+\ln {\frac{1}{e}} =  -e 
 $$
 $$
-\ln {\sqrt{ e }}
+\ln {\sqrt{ e }}   = \frac{1}{e}
 $$
 $$
 \log_{34}{34}
