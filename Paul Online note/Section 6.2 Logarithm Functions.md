@@ -139,4 +139,7 @@ $$
 $$
 
 
-recall from the []
+recall from the [[Section 3.7  Inverse Functions]]   this mean that the exponent and logarithm are inverses of each other . 
+$$
+\ln e^{f(X)} =  f(x)  
+$$
