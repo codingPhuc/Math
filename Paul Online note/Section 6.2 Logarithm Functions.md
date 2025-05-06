@@ -11,4 +11,7 @@ learning score:
 In this section we are going to move on to logarithm functions . This can be a tricky function to graph right  away  
 
 
-if  b is any number  $b>0$ and  $b\neq 0$  and $x>0$
+if  b is any number  $b>0$ and  $b\neq 0$  and $x>0$ then 
+$$
+y = \log_{b}x  \text{ is equivalent to}
+$$
