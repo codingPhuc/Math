@@ -143,8 +143,15 @@ recall from the [[Section 3.7  Inverse Functions]]   this mean that the exponent
 $$
 \begin{array}
 \ln e^{f(X)} =  f(x)  \;  \log 10^{f(X)}  = f(x)     \\
-e^{\ln f(x)  } =  
+e^{\ln f(x)  } =  f(X)  \;  10^{\log f(x)}   = f(x )
 \end{array}
+$$
 
 
+Now let take  look at manipulate properties of the algorithm 
+
+
+## more properties  of logarithms 
+$$
+\log_{b }
 $$
