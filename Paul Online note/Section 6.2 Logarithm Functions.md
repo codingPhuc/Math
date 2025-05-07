@@ -398,7 +398,8 @@ $$
 $$
 \begin{array}{l} \\
 \frac{1}{3} \log a  -  6\log b  + 2   \\
- \log a^{1/3}  -  \log b^6  + \log 20    \\
+ \log a^{1/3}  -  \log b^6  + \log 100   \\
+ \log \frac{a^{1/3}\cdot 100}{b^6}  \\
 
 \end{array}
 $$
