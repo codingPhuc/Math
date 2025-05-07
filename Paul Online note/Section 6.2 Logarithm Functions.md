@@ -274,8 +274,26 @@ $$
 $$
 
 $$
-\log_{5}7  = \log_{5}7   =  \frac{\ln{7}}{\ln{5}}  
+\log_{5}7  = \log_{5}7   =  \frac{\ln{7}}{\ln{5}}   =  
 $$
+
+First, notice that we can’t use the same method to do this evaluation that we did in the first set of examples. This would require us to look at the following exponential form,
+
+5?=75?=7
+
+and that’s just not something that anyone can answer off the top of their head. If the 7 had been a 5, or a 25, or a 125, _etc_. we could do this, but it’s not. Therefore, we have to use the change of base formula.
+
+Now, we can use either one and we’ll get the same answer. So, let’s use both and verify that. We’ll start with the common logarithm form of the change of base.
+
+log57=log7log5=0.8450980400140.698970004336=1.20906195512log57=log⁡7log⁡5=0.8450980400140.698970004336=1.20906195512
+
+Now, let’s try the natural logarithm form of the change of base formula.
+
+log57=ln7ln5=1.945910149061.60943791243=1.20906195512log57=ln⁡7ln⁡5=1.945910149061.60943791243=1.20906195512
+
+So, we got the same answer despite the fact that the fractions involved different answers.
+
+
 
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
