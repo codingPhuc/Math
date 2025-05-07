@@ -412,10 +412,51 @@ $$
 
 
 $$
-\log_{\frac{2}{3}}53  =  \frac{\log{53}}{\log{\frac{2}{3}}}   = \frac{3.55534806}{2.48490665}   = 1.43077731 
+\log_{\frac{2}{3}}53  =  \frac{\log{53}}{\log{\frac{2}{3}}}   = \frac{1.72427587}{−0.17609126}   =−9.79194469
 $$
 
 
+##  sketch each of the given functions. 
+
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw axes
+    \draw[->] (-7,0) -- (7,0) node[right] {$x$};
+    \draw[->] (0,-7) -- (0,7) node[above] {$y$};
+
+    % Tick marks and labels
+    \foreach \x in {-6,-5,...,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-6,-5,...,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Parameters
+    % Center: (h, k) = (0, 0)
+    % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
+    % Horizontal hyperbola
+
+
+
+    % Right branch
+       \draw[thick, blue, domain=0.25:6] plot (\x, {log10(\x)});
+   \draw[thick, red, domain=0.25:6] plot (\x, {ln(\x)});
+
+
+\end{tikzpicture}
+\end{document}
+
+```
 
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
