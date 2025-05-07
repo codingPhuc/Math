@@ -315,15 +315,15 @@ $$
 ## Write the expression in exponential form  
 
 $$
-\log_{2}32    = 5  ;  
+\log_{2}32    = 5  ;  2^5   = 32 
 $$
 
 $$
-\log_{\frac{1}{5}} \frac{1}{625}  =  4  
+\log_{\frac{1}{5}} \frac{1}{625}  =  4      ;   \left( \frac{1}{5} \right)^4   =  
 $$
 
 $$
-\log_{9} \frac{1}{81}  =   -2 
+\log_{9} \frac{1}{81}  =   -2   ;  
 
 $$
 
