@@ -161,4 +161,6 @@ $$
 \end{array}
 $$
 
-We won't be doing anything with the final property  ,  it is only here for the sac
+We won't be doing anything with the final property  ,  it is only here for the sake of completeness  . We will be looking at the detail for property  in detail a couple of section 
+
+
