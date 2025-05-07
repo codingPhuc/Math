@@ -214,7 +214,8 @@ $$
 $$
 \begin{array}{l} \\
 \log_{3}\left( \frac{(x +  y )^2}{x^2  + y^2 } \right)  \\
-
+\log_{3}(x  +  y )^2  -  \log_{3}(x^2  +  y^2)       \\
+2 \log_{3}(x  +  y )     -    \log_{3}(x^2  +  y^2)   
 \end{array}
 $$
 
