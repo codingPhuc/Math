@@ -379,12 +379,18 @@ $$
 \begin{array}{l} \\
 2 \log_{4}{x}  + 5\log_{4}{y}   -  \frac{1}{2}\log_{4}z \\
 \log_{4}{x^2}   +  \log_{4}{y^5}   -   \log_{4}\sqrt{ z }  \\
-
+\log_{4}{\frac{x^2y^5}{\sqrt{ z }}} 
 \end{array}
+$$
 
 
 
 $$
+\begin{array}{l} \\
+3\ln(t +  5)  -  4 \ln
+\end{array}
+$$
+
 
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
