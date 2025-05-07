@@ -308,11 +308,10 @@ $$
 16^{3/4}    =  8  ;  \log_{\frac{3}{4}} = 8  
 $$
 
-
-
 $$
-16^{3/4}  =  
-$$
+16^{3/4}  =   8       ;  \log_{\frac{3}{4}}   8 =  16  
+$
+dm$
  
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
