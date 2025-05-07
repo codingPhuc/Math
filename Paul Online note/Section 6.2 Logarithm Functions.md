@@ -270,7 +270,11 @@ $$
 \log_{a}x  = \frac{\log_{10}{x}}{\log_{10}a}
 $$
 $$
-\ln_{a}x  = \frac{\ln_{10}{x}}{\ln_{10}a}
+\ln_{a}x  = \frac{\ln{x}}{\ln{a}}
+$$
+
+$$
+\log_{5}7  = \log_{5}7   =  \frac{\ln{7}}{\ln{5}}  
 $$
 
 #word_meaning  
