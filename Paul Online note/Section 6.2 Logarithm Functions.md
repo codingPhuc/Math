@@ -407,7 +407,12 @@ $$
 ## use the change of base formula and a calculator to find the value of each of the following. 
 
 $$
-\log_{12}35   =  \frac{\log{35}}{\log{53}}   = 
+\log_{12}35   =  \frac{\log{35}}{\log{12}}   = \frac{3.55534806}{2.48490665}   = 1.43077731 
+$$
+
+
+$$
+\log_{12}35   =  \frac{\log{35}}{\log{12}}   = \frac{3.55534806}{2.48490665}   = 1.43077731 
 $$
 
 
