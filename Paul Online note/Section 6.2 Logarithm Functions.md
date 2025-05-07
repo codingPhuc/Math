@@ -407,7 +407,7 @@ $$
 ## use the change of base formula and a calculator to find the value of each of the following. 
 
 $$
-\log_{12}35  =   
+\log_{12}35  =  \frac{\log 12{}
 $$
 
 
