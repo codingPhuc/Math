@@ -4,8 +4,8 @@ references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
 tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
-Current date: "2025-05-05"
-amount of time: 
+Current date: 2025-05-05
+amount of time: 1h30 +
 learning score:
 ---
 In this section we are going to move on to logarithm functions . This can be a tricky function to graph right  away  
@@ -161,4 +161,4 @@ $$
 \end{array}
 $$
 
-We won't be doing anything  with 
+We won't be doing anything with the final property  ,  it is only here for the sac
