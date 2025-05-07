@@ -169,5 +169,7 @@ The first two  properties can be a little confusing at first since for the f
 
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
+	() : parentheses 
+	[]: Square brackets 
 
 
