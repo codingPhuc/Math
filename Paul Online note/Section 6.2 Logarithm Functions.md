@@ -182,10 +182,10 @@ Note that the properties given are valid both for the common and natural logarit
 
 $$
 \begin{array}{l} \\
-\log_{4}(x^3 y^5)    \\
-
+\log_{4}(x^3 y^5)     \\
+=  \log_{4}x^3  +  \log_{4}x^5    \\
+=  3\log_{4}
 \end{array}
-
 $$
 
 
