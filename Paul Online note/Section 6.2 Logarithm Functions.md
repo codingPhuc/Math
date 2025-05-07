@@ -357,8 +357,9 @@ $$
   = 4\log 3x   -7\log y   \\
   =  4\log 3+    \log{x}   -7\log y 
 \end{array}
+$$ 
 
-$$
+
 $$
 \ln(x\sqrt{ y^2  +  z^2 })  =  
 $$
