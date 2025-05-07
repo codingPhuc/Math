@@ -160,3 +160,5 @@ $$
 \text{ if } \log_{b}x =  \log_{b}y  \text{ then } x =  y  
 \end{array}
 $$
+
+We won't be doing anythign with
