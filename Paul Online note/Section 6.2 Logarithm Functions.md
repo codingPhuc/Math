@@ -167,9 +167,14 @@ The first two  properties can be a little confusing at first ,  since one have a
 
 
 $$
-\begin{array}{l}
+\begin{array}{l} \\
+\log_{b} (x +  y)  \neq  \log_{b}x  +  \log_{b}y   \\
+\log_{b} (x  -  y)  \neq  \log_{b}x   -  \log_{b}y 
 \end{array}
 $$
+
+
+Now for some example  on how to used these pro
 
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
