@@ -499,7 +499,8 @@ shift to the left by  5
 
     % Right branch
     
-   \draw[thick, red, domain=0.25:6] plot (\x, {ln(\x + 5)});
+\draw[thick, red, domain=0.25:6] plot (\x, {ln(\x + 5)});
+
 
 
 \end{tikzpicture}
