@@ -295,6 +295,14 @@ So, we got the same answer despite the fact that the fractions involved differen
 
 
 
+
+#  #Practice_Exercise   
+
+
+$$
+7^5    =  
+$$
+
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
 	() : parentheses 
