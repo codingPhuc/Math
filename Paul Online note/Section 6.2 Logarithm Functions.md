@@ -312,7 +312,15 @@ $$
 \left( \frac{1}{3} \right) ^{-2}  =  9   ;  \log_{-2}9 =  \frac{1}{3}
 $$
 
-## Write the expression in 
+## Write the expression in exponential form  
+
+$$
+\log_{2}32    = 5  ;  
+$$
+
+$$
+\log_{\frac{1}{5}} \frac{1}{625}  =  4  
+$$
 
 
 #word_meaning  
