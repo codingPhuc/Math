@@ -376,9 +376,10 @@ $$
 ## combine each of the following into a single logarithm with a coefficient of one. 
 
 $$
-2 \log
-$$
+2 \log_{4}{x}  + 5\log_{4}{y}   -  \frac{1}{2}\log_{4}z 
 
+
+$$
 
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
