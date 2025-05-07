@@ -419,6 +419,9 @@ $$
 ##  sketch each of the given functions. 
 
 
+$$
+g(x)=−ln(x) 
+$$
 
 
 ```tikz
@@ -449,14 +452,108 @@ $$
 
 
     % Right branch
-       \draw[thick, blue, domain=0.25:6] plot (\x, {log10(\x)});
-   \draw[thick, red, domain=0.25:6] plot (\x, {ln(\x)});
+    
+   \draw[thick, red, domain=0.25:6] plot (\x, {-ln(\x)});
 
 
 \end{tikzpicture}
 \end{document}
 
 ```
+
+
+
+$$
+g(x)=ln(x+5) 
+$$
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw axes
+    \draw[->] (-7,0) -- (7,0) node[right] {$x$};
+    \draw[->] (0,-7) -- (0,7) node[above] {$y$};
+
+    % Tick marks and labels
+    \foreach \x in {-6,-5,...,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-6,-5,...,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Parameters
+    % Center: (h, k) = (0, 0)
+    % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
+    % Horizontal hyperbola
+
+
+
+    % Right branch
+    
+   \draw[thick, red, domain=0.25:6] plot (\x, {ln(\x +5)});
+
+
+\end{tikzpicture}
+\end{document}
+
+```
+
+
+
+
+
+
+$$
+g(x)=ln(x+5) 
+$$
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw axes
+    \draw[->] (-7,0) -- (7,0) node[right] {$x$};
+    \draw[->] (0,-7) -- (0,7) node[above] {$y$};
+
+    % Tick marks and labels
+    \foreach \x in {-6,-5,...,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-6,-5,...,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Parameters
+    % Center: (h, k) = (0, 0)
+    % a = 2, b = 3 → y = ±(3/2)*sqrt(x^2 - 4)
+    % Horizontal hyperbola
+
+
+
+    % Right branch
+    
+   \draw[thick, red, domain=0.25:6] plot (\x, {ln(\x +5)});
+
+
+\end{tikzpicture}
+\end{document}
+
+```
+
+
+
 
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
