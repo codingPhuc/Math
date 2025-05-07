@@ -422,6 +422,7 @@ $$
 $$
 g(x)=−ln(x) 
 $$
+inverse function in the x axis  
 
 
 ```tikz
@@ -467,6 +468,7 @@ $$
 g(x)=ln(x+5) 
 $$
 
+shift up b
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -511,7 +513,7 @@ $$
 
 
 $$
-g(x)=ln(x+5) 
+g(x)=ln(x)  -4 
 $$
 
 
@@ -544,7 +546,7 @@ $$
 
     % Right branch
     
-   \draw[thick, red, domain=0.25:6] plot (\x, {ln(\x +5)});
+   \draw[thick, red, domain=0.25:6] plot (\x, {ln(\x)-4});
 
 
 \end{tikzpicture}
