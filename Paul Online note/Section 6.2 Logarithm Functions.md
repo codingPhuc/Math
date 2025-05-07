@@ -404,6 +404,11 @@ $$
 \end{array}
 $$
 
+## use the change of base formula and a calculator to find the value of each of the following. 
+
+$$
+\log_{12}35  =   
+$$
 
 
 
