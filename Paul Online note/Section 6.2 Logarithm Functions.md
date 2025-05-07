@@ -161,4 +161,4 @@ $$
 \end{array}
 $$
 
-We won't be doing anythign with
+We won't be doing anything  with
