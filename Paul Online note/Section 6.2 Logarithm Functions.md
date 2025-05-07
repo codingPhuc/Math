@@ -319,13 +319,14 @@ $$
 $$
 
 $$
-\log_{\frac{1}{5}} \frac{1}{625}  =  4      ;   \left( \frac{1}{5} \right)^4   =  
+\log_{\frac{1}{5}} \frac{1}{625}  =  4      ;   \left( \frac{1}{5} \right)^4   =  \frac{1}{625}
 $$
 
 $$
-\log_{9} \frac{1}{81}  =   -2   ;  
-
+\log_{9} \frac{1}{81}  =   -2   ;   9^{-2}  =  \frac{1}{81}
 $$
+
+## determine the exact value of each of the following without using a calculator 
 
 
 
@@ -334,6 +335,4 @@ $$
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
 	() : parentheses 
-	[]: Square brackets 
-
-
+	[]: Square bra
