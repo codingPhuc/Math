@@ -299,10 +299,17 @@ So, we got the same answer despite the fact that the fractions involved differen
 #  #Practice_Exercise   
 
 
+## Write the expression in logarithmic form  
+
 $$
-7^5    =  
+7^5    =  16807  
 $$
 
+
+$$
+16^{3/4}  =  
+$$
+ 
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
 	() : parentheses 
