@@ -255,6 +255,9 @@ $$
 
 
 
+The change bases formula  
+most calculator are able to evaluate  common  logarithm  and natural logarithms 
+
 
 
 
