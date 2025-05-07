@@ -260,11 +260,18 @@ most calculator are able to evaluate  common  logarithm  and natural logarithms 
 we can archive this by changing the base formula 
 
 $$
-\log_{a}x  = \frac{\log_{b}{x}}{\log b }
+\log_{a}x  = \frac{\log_{b}{x}}{\log_{b}a}
 $$
 
 
+where we can choose bb to be anything we want it to be. In order to use this to help us evaluate logarithms this is usually the common or natural logarithm. Here is the change of base formula using both the common logarithm and the natural logarithm.  
 
+$$
+\log_{a}x  = \frac{\log_{10}{x}}{\log_{10}a}
+$$
+$$
+\ln_{a}x  = \frac{\ln_{10}{x}}{\ln_{10}a}
+$$
 
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
