@@ -346,9 +346,16 @@ $$
 $$
 
 $$
-\log \frac{1}{100}  =  
+\log \frac{1}{100}  =  -2
 $$
 
+## write each of the following in terms of simpler logarithms 
+$$
+\log(3x^4  y^{-7})  =   
+$$
+$$
+\ln
+$$
 
 
 #word_meaning  
