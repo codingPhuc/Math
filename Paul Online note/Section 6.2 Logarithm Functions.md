@@ -206,18 +206,23 @@ $$
 \ln \sqrt{ xy }    \\
 =  \frac{1}{2}\ln xy      \\
 =  \frac{1}{2}\ln x    +  \frac{1}{2}\ln y      \\
-  =  8\log_{4}x 
 \end{array}
 $$
 
+
+
 $$
 \begin{array}{l} \\
-\log_{4}(x^3 y^5)     \\
-=  \log_{4}x^3  +  \log_{4}x^5    \\
-=  3\log_{4}x     +  5\log_{4}x    \\
-  =  8\log_{4}x 
+\ 
 \end{array}
 $$
+
+
+
+
+
+
+
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
 	() : parentheses 
