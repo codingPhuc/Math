@@ -192,13 +192,13 @@ $$
 
 $$
 \begin{array}{l} \\
-\log_{4}\left( \frac{x^9y^5}{z^3} \right)     \\
+\log \left( \frac{x^9y^5}{z^3} \right)     \\
 =    \log x^9y^5  - \log  z^3  \\
-= \log x^9  +  \log_{4}x^5        - \log_{4}z^3    \\
-  =  9\log_{4}x  +  5\log_{4}x        - 3\log_{4}z  \\
-=  11\log_{4}x 
+= \log x^9  +  \log y^5        - \log z^3    \\
+  =  9\log x  +  5\log y        - 3\log z  \\ 
 \end{array}
 $$
+
 
 
 $$
