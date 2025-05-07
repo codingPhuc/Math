@@ -328,9 +328,12 @@ $$
 
 ## determine the exact value of each of the following without using a calculator 
 $$
-\log_{3}  81  =   9 
+\log_{3}  81  =  4    ;  
 $$
 
+$$
+\log_{5}  12
+$$
 
 
 
