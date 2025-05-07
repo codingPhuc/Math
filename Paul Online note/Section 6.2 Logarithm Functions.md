@@ -361,7 +361,7 @@ $$
 
 
 $$
-\ln(x\sqrt{ y^2  +  z^2 })  =  
+\ln(x\sqrt{ y^2  +  z^2 })  =  \ln(x)  + \ln\sqrt{ y^2  +  z^2 } 
 $$
 
 
