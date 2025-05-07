@@ -302,8 +302,12 @@ So, we got the same answer despite the fact that the fractions involved differen
 ## Write the expression in logarithmic form  
 
 $$
-7^5    =  16807  
+7^5    =  16807      ;  \log_{5} 16807 =  7
 $$
+$$
+16^{3/4}
+$$
+
 
 
 $$
