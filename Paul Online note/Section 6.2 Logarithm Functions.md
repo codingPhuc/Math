@@ -369,8 +369,8 @@ $$
 \begin{array}{l} \\
 \log_{4} \frac{x-4}{y^2  \sqrt[5]{ z }}  \\
  =  \log_{4} (x-4)  -   \log_{4} (y^2  \sqrt[5]{ z })   \\
-  =\log_{4} (x-4)  -   y^2    \sqrt[5]{ z }  \log_{4} (y^2  \sqrt[5]{ z })    \\
-  =  4\log 3+    \log{x}   -7\log y 
+  =\log_{4} (x-4)  -   \log_{4} y^2  -   \log_{4}  \sqrt[5]{ z }      \\
+  =  \log_{4} (x-4)  -   2\log_{4} y  - \frac{1}{5}  \log_{4{ z } 
 \end{array}
 $$ 
 
