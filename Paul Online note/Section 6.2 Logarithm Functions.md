@@ -367,7 +367,7 @@ $$
 
 $$
 \begin{array}{l} \\
-\frac{\log_{4}(x-4)}{y^2  \sqrt[5]{ z }}  \\
+\log_{4} \frac{x-4}{y^2  \sqrt[5]{ z }}  \\
  =  \log 3x^4  +  \log y^{-7}   \\
   = 4\log 3x   -7\log y   \\
   =  4\log 3+    \log{x}   -7\log y 
