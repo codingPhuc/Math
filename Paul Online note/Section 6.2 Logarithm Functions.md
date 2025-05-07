@@ -323,6 +323,11 @@ $$
 $$
 
 
+
+
+
+
+
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
 	() : parentheses 
