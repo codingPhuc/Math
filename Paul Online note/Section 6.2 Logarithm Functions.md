@@ -468,7 +468,7 @@ $$
 g(x)=ln(x+5) 
 $$
 
-shift up b
+shift to the left by  5
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -499,7 +499,7 @@ shift up b
 
     % Right branch
     
-   \draw[thick, red, domain=0.25:6] plot (\x, {ln(\x +5)});
+   \draw[thick, red, domain=0.25:6] plot (\x, {ln(\x + 5)});
 
 
 \end{tikzpicture}
@@ -509,7 +509,7 @@ shift up b
 
 
 
-
+shift down by 4 
 
 
 $$
