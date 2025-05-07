@@ -327,7 +327,9 @@ $$
 $$
 
 ## determine the exact value of each of the following without using a calculator 
-
+$$
+\log_{3}  81  =   9 
+$$
 
 
 
@@ -335,4 +337,6 @@ $$
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
 	() : parentheses 
-	[]: Square bra
+	[]: Square brackets 
+
+
