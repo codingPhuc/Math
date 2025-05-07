@@ -177,6 +177,17 @@ $$
 Now for some example  on how to used these properties  
 Note that the properties given are valid both for the common and natural logarithms  
 
+##  simplify  each of the following logarithms 
+
+
+$$
+\begin{array}{l} \\
+\log_{4}(x^3 y^5)    \\
+
+\end{array}
+
+$$
+
 
 
 #word_meaning  
