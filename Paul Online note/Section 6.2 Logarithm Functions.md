@@ -395,6 +395,16 @@ $$
 $$
 
 
+$$
+\begin{array}{l} \\
+\frac{1}{3} \log a  -  6\log b  + 2   \\
+\frac{1}{3} \log a  -  6\log b  + 2   
+\end{array}
+$$
+
+
+
+
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
 	() : parentheses 
