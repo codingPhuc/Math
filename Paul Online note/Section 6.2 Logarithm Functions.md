@@ -174,7 +174,10 @@ $$
 $$
 
 
-Now for some example  on how to used these pro
+Now for some example  on how to used these properties  
+Note that the properties given are valid both for the common and natural logarithms  
+
+
 
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
