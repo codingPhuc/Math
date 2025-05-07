@@ -229,7 +229,7 @@ $$
 \begin{array}{l} \\
 7\log_{12}x   +  2\log_{12}y    \\
 =  \log_{12}x^7  +  \log_{12}y^2    \\
-= \log_{12}x
+= \log_{12}(x^7 +  y^2 ) 
 \end{array}
 $$
 
@@ -237,9 +237,9 @@ $$
 
 $$
 \begin{array}{l} \\
-\log_{3}\left( \frac{(x +  y )^2}{x^2  + y^2 } \right)  \\
-\log_{3}(x  +  y )^2  -  \log_{3}(x^2  +  y^2)       \\
-2 \log_{3}(x  +  y )     -    \log_{3}(x^2  +  y^2)   
+3\log x   -  6 \log y   \\
+\log x^3  -  \log y^6   \\
+\log \left( \frac{x^3}{t} \right)
 \end{array}
 $$
 
