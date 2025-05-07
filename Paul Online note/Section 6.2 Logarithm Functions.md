@@ -351,7 +351,9 @@ $$
 
 ## write each of the following in terms of simpler logarithms 
 $$
-\log(3x^4  y^{-7})  =  \log 3x^4  +  \log
+\begin{array}{l}
+\end{array}
+\log(3x^4  y^{-7})  =  \log 3x^4  +  \log y^{-7}    = 4\log 3x +  -7\log y  
 $$
 $$
 \ln(x\sqrt{ y^2  +  z^2 })  =  
