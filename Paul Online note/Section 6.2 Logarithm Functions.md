@@ -256,7 +256,12 @@ $$
 
 
 The change bases formula  
-most calculator are able to evaluate  common  logarithm  and natural logarithms 
+most calculator are able to evaluate  common  logarithm  and natural logarithms . However , what can we do if the logarithm  cannot be evaluate easily  
+we can archive this by changing the base formula 
+
+$$
+\log_{a}x  = \frac{\log_{b}{x}}{\log b }
+$$
 
 
 
