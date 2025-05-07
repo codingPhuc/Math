@@ -387,7 +387,9 @@ $$
 
 $$
 \begin{array}{l} \\
-3\ln(t +  5)  -  4 \ln
+3\ln(t +  5)  -  4 \ln t - 2\ln(s -1 )   \\
+\ln(t +  5)^3  -   \ln t^4 - \ln(s -1 )^2  \\
+  
 \end{array}
 $$
 
