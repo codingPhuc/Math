@@ -248,7 +248,7 @@ $$
 $$
 \begin{array}{l} \\
 5\ln(x+y )  -  2\ln y  - 8\ln x   \\
-\ln(x+y)
+\ln{\frac{(x +  y)^5}{y^2}}  - 8\ln x   
 \end{array}
 $$
 
