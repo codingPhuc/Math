@@ -309,10 +309,12 @@ $$
 $$
 
 $$
-16^{3/4}  =   8       ;  \log_{\frac{3}{4}}   8 =  16  
-$
-dm$
- 
+\left( \frac{1}{3} \right) ^{-2}  =  9   ;  \log_{-2}9 =  \frac{1}{3}
+$$
+
+## Write the expression in 
+
+
 #word_meaning  
 	[quotient](https://www.cuemath.com/numbers/quotient/) 
 	() : parentheses 
