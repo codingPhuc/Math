@@ -55,4 +55,8 @@ $$
 \end{array}
 $$
 
-the equation  that we solve  above relieve on the fact that the base exponential  is the same\ , 
+the equation  that we solve  above relieve on the fact that the base exponential  is the same . However , this is not always correct  . Consider the following 
+
+$$
+7^x  =  9 
+$$
