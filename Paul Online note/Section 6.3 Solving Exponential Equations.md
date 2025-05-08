@@ -95,6 +95,7 @@ $$
 \log{2^{4y  + 1}  }   - \log{3^{y} }    =0   \\
 (4y + 1)\log{2}  - y\log{3}  =   0  \\
  4y\log{2} - y\log{3}   + \log{2}     = 0  \\
-y( 4\log{2})
+y( 4\log{2} -  \log{3}   ) = - \log{2}  \\
+y  =  
 \end{array}
 $$
