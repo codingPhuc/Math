@@ -457,7 +457,7 @@ x   =  \frac{3}{4}     \\
 
 
 
-$$\begin{array}{l }
+$$\begin{array}{l}
    \\
 z^2+34 >    12z    \\
 z^2  -  12z +34   >     0   \\
