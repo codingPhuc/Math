@@ -10,4 +10,6 @@ learning score:
 ---
 
 
-There are two method of solving  exponential equation 
+There are two method of solving  exponential equation . One method is simple but require a special form of exponential  equation . The other will work on  more complicated  exponential equation but can get a little messy 
+
+
