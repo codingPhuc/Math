@@ -30,18 +30,7 @@ $$
 t^2  = 6 - t\\
 t^2   -  6 +  t  =  0    \\
 \left \{ 
- 
+t =    
  \right.
 \end{array}
-$$
-
-
-$$
-\left\{
-\begin{array}{l}
-x = 6 - \sqrt{2} \\
-x = 6 + \sqrt{2}
-\end{array}
-\right.
-
 $$
