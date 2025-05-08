@@ -79,6 +79,8 @@ the reality  is that we can use any logarithm to do this so we should pick one t
 $$
 \begin{array}{l}  \\
 7^x  =  9   \\
-\log_{7^x}  =  \log_{9} 
+\log 7^x  =  \log 9 \\
+x   \log 7  = \log 9  \\
+x =  \frac{\log 9}{\log 7}  = 
 \end{array}
 $$
