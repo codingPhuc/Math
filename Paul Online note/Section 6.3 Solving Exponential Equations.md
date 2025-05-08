@@ -88,3 +88,10 @@ also be careful  to not make the following mistake
 $$
 \frac{\log 9}{\log 7}  = 1.129150069  \neq  0.2513144283    =  \ln\left( \frac{9}{7} \right)
 $$
+
+$$
+\begin{array}{l}
+2^{4y  + 1}   - 3^{y} =  0  \\
+4y  + 1    =  
+\end{array}
+$$
