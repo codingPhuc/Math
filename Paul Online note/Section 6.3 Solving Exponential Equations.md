@@ -20,6 +20,14 @@ $$
 \begin{array}{l} \\
 5^{3x}  =  5^{7x  - 2}    \\
 3x  =  7x   - 2   \\
+x = \frac{1}{2}
+\end{array}
+$$
 
+$$
+\begin{array}{l}  \\
+4^{t^2} = 4^{6 - t}  \\
+t^2  = 6 - t \
+x = \frac{1}{2}
 \end{array}
 $$
