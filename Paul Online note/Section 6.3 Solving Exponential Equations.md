@@ -118,7 +118,12 @@ e^{t +  6}  = 2  \\
    t = −5.30685202 
 \end{array}
 $$
-noted how we didn't take the exponent out right always due to 
+noted how we didn't take the exponent out right always due to the following properties 
 $$
- 
+\ln e^{f(x)}    =  f(x)
+$$
+this simply the process for us  
+
+$$
+
 $$
