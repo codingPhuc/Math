@@ -54,3 +54,5 @@ $$
  x =   \frac{4}{15}   \\
 \end{array}
 $$
+
+the equation  that we solve  above relieve on the fact that the base exponential  is the same\ , 
