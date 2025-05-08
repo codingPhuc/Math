@@ -48,6 +48,7 @@ $$
 \begin{array}{l}  \\
 4^{5 - 9x}   =  \frac{1}{8^{x - 2}}     \\
 
+
 \end{array}
 
 $$
