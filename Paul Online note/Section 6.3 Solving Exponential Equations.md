@@ -36,11 +36,12 @@ t =  2
 \end{array}
 $$
 
+#fail 
 $$
 \begin{array}{l} \\
 3^z   =  9^{z  +  5}    \\
-z  =  z +  5  \\
- 0 \neq 5  
+z  =  2z  + 10  \\
+ z   = -10   
 \end{array}
 $$
 
