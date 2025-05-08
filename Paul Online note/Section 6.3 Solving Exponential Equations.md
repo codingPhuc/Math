@@ -59,4 +59,4 @@ the equation  that we solve  above relieve on the fact that the same base expone
 
 $$
 7^x  =  9 
-$$there  is no easy way to find the number x that seven is raise to to get 9 . 
+$$there  is no easy way to find the number x that seven is raise to to get 9 . In fact this is exactly what this equation is asking us to find . The prog
