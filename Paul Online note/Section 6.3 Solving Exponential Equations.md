@@ -127,7 +127,9 @@ this simply the process for us
 $$
 \begin{array}{l}
 10^{5 - x}  = 8     \\
-2^{5 - x}  \cdot  5
+2^{5 - x}  \cdot  5^{5 -x } = 2^{3}   \\
+5^{5 -x }   =  2^{-2+x }  \\
+
 \end{array}
 
  
