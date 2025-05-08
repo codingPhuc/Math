@@ -27,7 +27,10 @@ $$
 $$
 \begin{array}{l}  \\
 4^{t^2} = 4^{6 - t}  \\
-t^2  = 6 - t \
-x = \frac{1}{2}
+t^2  = 6 - t\\
+t^2   -  6 +  t  =  0    \\
+\left\{ \\
+ 
+ \right.
 \end{array}
 $$
