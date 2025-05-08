@@ -81,6 +81,7 @@ $$
 7^x  =  9   \\
 \log 7^x  =  \log 9 \\
 x   \log 7  = \log 9  \\
-x =  \frac{\log 9}{\log 7}  = 
+x =  \frac{\log 9}{\log 7}  = 1.129150069
 \end{array}
 $$
+also becaref
