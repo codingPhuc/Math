@@ -10,3 +10,4 @@ learning score:
 ---
 
 
+There are two method of solving  exponential equation 
