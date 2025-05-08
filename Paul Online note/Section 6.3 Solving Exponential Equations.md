@@ -15,4 +15,4 @@ let start by having a look at these simple method  ;
 $$
 \text{if } b^x   = b^y  \text{ then } x =  y  
 $$
-
+if it isn't then this fact will 
