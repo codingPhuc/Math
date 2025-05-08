@@ -5,7 +5,7 @@ tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
 Current date: 2025-05-08
-amount of time: 
+amount of time: 30 +
 learning score:
 ---
 
@@ -125,5 +125,10 @@ $$
 this simply the process for us  
 
 $$
+\begin{array}{l}
+10^{5 - x}  = 8     \\
 
+\end{array}
+
+ 
 $$
