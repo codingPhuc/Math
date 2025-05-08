@@ -76,7 +76,9 @@ $$
 x\log_{b}7 
 $$
 the reality  is that we can use any logarithm to do this so we should pick one that we are good at . This mean that we will be working with common logarithm and natural  logarithm 
-
 $$
- 
+\begin{array}{l}  \\
+7^x  =  9   \\
+\log_{7^x}  =  \log_{9} 
+\end{array}
 $$
