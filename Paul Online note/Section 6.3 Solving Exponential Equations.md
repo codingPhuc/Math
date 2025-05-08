@@ -30,7 +30,15 @@ $$
 t^2  = 6 - t\\
 t^2   -  6 +  t  =  0    \\
 \left \{ 
-t =    
+t =   -3    \\
+t =  2   
  \right.
 \end{array}
+$$
+
+$$
+\begin{array}{l} \\
+3^z   =  9^{z  +  5}  
+\end{array}
+
 $$
