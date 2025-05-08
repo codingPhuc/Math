@@ -118,3 +118,7 @@ e^{t +  6}  = 2  \\
    t = −5.30685202 
 \end{array}
 $$
+noted how we didn't take the exponent out right always due to 
+$$
+ 
+$$
