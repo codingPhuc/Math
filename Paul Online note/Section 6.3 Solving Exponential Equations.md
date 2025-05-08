@@ -127,7 +127,7 @@ this simply the process for us
 $$
 \begin{array}{l}
 10^{5 - x}  = 8     \\
-
+2^{5 - x}  \cdot  5
 \end{array}
 
  
