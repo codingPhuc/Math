@@ -34,3 +34,14 @@ t^2   -  6 +  t  =  0    \\
  \right.
 \end{array}
 $$
+
+
+$$
+\left\{
+\begin{array}{l}
+x = 6 - \sqrt{2} \\
+x = 6 + \sqrt{2}
+\end{array}
+\right.
+
+$$
