@@ -71,4 +71,8 @@ $$
 \log_{b}7^x 
 $$
 
-we could use this pro
+we could use this property as follow 
+$$
+x\log_{b}7 
+$$
+the reality  is that we can u
