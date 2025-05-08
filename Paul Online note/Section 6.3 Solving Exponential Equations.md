@@ -75,4 +75,8 @@ we could use this property as follow
 $$
 x\log_{b}7 
 $$
-the reality  is that we can u
+the reality  is that we can use any logarithm to do this so we should pick one that we are good at . This mean that we will be working with common logarithm and natural  logarithm 
+
+$$
+ 
+$$
