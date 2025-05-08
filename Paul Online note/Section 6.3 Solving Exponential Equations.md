@@ -96,6 +96,13 @@ $$
 (4y + 1)\log{2}  - y\log{3}  =   0  \\
  4y\log{2} - y\log{3}   + \log{2}     = 0  \\
 y( 4\log{2} -  \log{3}   ) = - \log{2}  \\
-y  =  
+y  =  −0.414072245
+\end{array}
+$$
+
+$$
+\begin{array}{l}
+e^{t +  6}  = 2  \\
+\ln {e^{t +  6} }  = 2
 \end{array}
 $$
