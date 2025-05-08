@@ -64,3 +64,11 @@ $$there  is no easy way to find the number x that seven is raise to to get 9 . I
 $$
 \log_{b}{a^r}   =  r \log_{b}a 
 $$
+note to avoid  confusion with x  we replace x in this with an a . the important part is that we take an exponent  and move it to the font of the term 
+So , if we had , 
+
+$$
+\log_{b}7^x 
+$$
+
+we could use this pro
