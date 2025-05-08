@@ -124,6 +124,8 @@ $$
 $$
 this simply the process for us  
 
+
+#fail 
 $$
 \begin{array}{l}
 10^{5 - x}  = 8     \\
@@ -135,4 +137,10 @@ $$
 \end{array}
 
  
+$$
+
+$$
+10^{5 - x}  = 8   
+\log{10^{5- x}}   =   \log{8} 
+
 $$
