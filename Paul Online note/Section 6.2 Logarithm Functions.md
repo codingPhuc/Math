@@ -5,7 +5,7 @@ tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
 Current date: 2025-05-05
-amount of time: 1h30 +
+amount of time: 3h30
 learning score:
 ---
 In this section we are going to move on to logarithm functions . This can be a tricky function to graph right  away  
