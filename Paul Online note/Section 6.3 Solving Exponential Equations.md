@@ -157,3 +157,6 @@ $$
 x  = −1.76499819 
 \end{array}
 $$
+
+
+# #Practice_Exercise  
