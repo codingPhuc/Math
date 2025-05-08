@@ -40,7 +40,14 @@ $$
 \begin{array}{l} \\
 3^z   =  9^{z  +  5}    \\
 z  =  z +  5  \\
- 0 ! =
+ 0 \neq 5  
+\end{array}
+$$
+
+$$
+\begin{array}{l}  \\
+4^{5 - 9x}   =  \frac{1}{8^{x - 2}}     \\
+
 \end{array}
 
 $$
