@@ -84,4 +84,7 @@ x   \log 7  = \log 9  \\
 x =  \frac{\log 9}{\log 7}  = 1.129150069
 \end{array}
 $$
-also becaref
+also be careful  to not make the following mistake   
+$$
+\frac{\log 9}{\log 7}  = 1.129150069  \neq  0.2513144283    =  \ln\left( \frac{9}{7} \right)
+$$
