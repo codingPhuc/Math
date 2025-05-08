@@ -15,4 +15,11 @@ let start by having a look at these simple method  ;
 $$
 \text{if } b^x   = b^y  \text{ then } x =  y  
 $$
-if it isn't then this fact will 
+if it isn't then this fact will do us no good 
+$$
+\begin{array}{l} \\
+5^{3x}  =  5^{7x  - 2}    \\
+3x  =  7x   - 2   \\
+
+\end{array}
+$$
