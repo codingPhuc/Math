@@ -446,7 +446,8 @@ $$
 \ln(x  - 1)  =  1 + \ln(3x + 2 ) \\
 \ln(x  - 1)  =  \ln e + \ln(3x + 2 )  \\
 \ln(x  - 1)   = \ln(e (3x + 2 )  )  \\
-(x  - 1) =  3ex + 2e \\ 
+(x  - 1) =  3ex + 2e  \\
+(3e + 1)x   = 
 \left\{  \\
  \begin{array}{l} 
 x=  -4 \\
