@@ -267,14 +267,15 @@ $$
 checking  x = - 10 
 $$
 \begin{array}{l}
-\ln - 10   + \ln (- 10   + 3)  = \ln (20 -  5\cdot - 10  )  \\ \log 5  =  1  - \log(2)  \\
+\ln - 10   + \ln (- 10   + 3)  = \ln (20 -  5\cdot - 10  )  
 \end{array}
 $$
-this one is okay 
-checking x = -2 
+this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
+checking x = 2
 $$
 \begin{array}{l}
-\log -2  =  1  - \log(-2 -  3) \\ \log -2  =  1  - \log(-5) \\
+\ln 2+ \ln (2 + 3)  = \ln (20 -  5\cdot 2)    \\
+
 \end{array}
 $$
 
