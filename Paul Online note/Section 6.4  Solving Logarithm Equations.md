@@ -195,7 +195,10 @@ in this case only the solution x =  -4  satisfy the condition
 
 $$
 \begin{array}{l}
-\log_{4}(x )
+\log_{4}(x^2 - 2x)  = \log_{4}(5x  -12 )  \\
+x^2 - 2x  =  5x  - 12   \\
+x^2  -7x  + 12   = 0   \\
+
 \left\{  \\
  \begin{array}{l} 
 x=  -4   \\
