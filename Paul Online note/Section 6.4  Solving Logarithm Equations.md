@@ -316,17 +316,19 @@ $$
 checking  x = - 4
 $$
 \begin{array}{l}
-\log_{3}(25  -4^2)  =  2    \\
+\log_{3}(25  -(-4)^2)  =  2    \\
 \log_{3}(9)   =2   
 \end{array}
 $$
-this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
+this on is okay 
 checking x = 4
 $$
 \begin{array}{l}
-\ln 2+ \ln (2 + 3)  = \ln (20 -  5\cdot 2)    \\
-\ln 2+ \ln (5)  = \ln (10)   
+\log_{3}(25  -(4)^2)  =  2    \\
+\log_{3}(9)   = 2   
 \end{array}
 $$
 
 this one is okay  
+
+since both solution satisfy the condition that the log
