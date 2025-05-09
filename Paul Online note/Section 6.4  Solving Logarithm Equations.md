@@ -445,9 +445,8 @@ $$
 \begin{array}{l}
 \ln(x  - 1)  =  1 + \ln(3x + 2 ) \\
 \ln(x  - 1)  =  \ln e + \ln(3x + 2 )  \\
-\ln(x  - 1)   = l\  \\
-x^2   - 21x  - 100  = 0  \\
-(x +  4) (x  - 25)   =  
+\ln(x  - 1)   = \ln(e (3x + 2 )  )  \\
+(x  - 1) =  3ex + 2e \\ 
 \left\{  \\
  \begin{array}{l} 
 x=  -4 \\
