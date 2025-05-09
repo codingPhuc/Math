@@ -229,14 +229,15 @@ $$
 checking  x = -4
 $$
 \begin{array}{l}
-\log(6 \cdot  -4)  - \log(4 + 4 )  = \log3 \\ \log(6)  - \log(4 + 4 )  = \log3  \\
+\log(6 \cdot  -4)  - \log(4 + 4 )  = \log3 \\ \log(-24)  - \log(8  )  = \log3  \\
 \end{array}
 $$
-this one is okay 
-checking x = -2 
+this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
+checking x = 2
 $$
 \begin{array}{l}
-\log -2  =  1  - \log(-2 -  3) \\ \log -2  =  1  - \log(-5) \\
+\log(6\cdot 2)  - \log(4 -2 )  = \log3     \\
+
 \end{array}
 $$
 
