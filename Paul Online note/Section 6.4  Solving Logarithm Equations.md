@@ -185,14 +185,14 @@ $$
 checking  x =-4
 $$
 \begin{array}{l}
-\log_{2}((-4)^2  - 6\cdot -4)  =  3 +  \log_{2}(1 + 4) \\ \log 5  =  1  - \log(2)  \\
+\log_{2}((-4)^2  - 6\cdot -4)  =  3 +  \log_{2}(1 + 4) \\ \log_{2}(40)  =  3 +  \log_{2}(5) \\
 \end{array}
 $$
 this one is okay 
 checking x = 2 
 $$
 \begin{array}{l}
-\log -2  =  1  - \log(-2 -  3) \\ \log -2  =  1  - \log(-5) \\
+\log_{2}((2)^2  - 6\cdot -4)  =  3 +  \log_{2}(1 + 4)\\ \log -2  =  1  - \log(-5) \\
 \end{array}
 $$
 
