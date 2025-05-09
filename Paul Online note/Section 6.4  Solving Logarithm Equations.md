@@ -46,6 +46,9 @@ $$
 $$
 \begin{array}{l}
 \log_{2}(x^2  - 6x)  =  3 +  \log_{2}(1 - x)    \\
+\log_{2}(x^2  - 6x)  =  \log_{2}9 +  \log_{2}(1 - x)    \\
+  \log_{2}(x^2  - 6x)  =  \log_{2}(9\cdot  (1 - x) )   \\
+x^2  - 6x   =  9  -  9x    \\
 
 \end{array}
 $$
