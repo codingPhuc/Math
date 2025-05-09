@@ -244,6 +244,17 @@ $$
 this one is not okay since the logarithm from  of the second term on the right side of the equal sign  is negative 
 
 
+
+
+
+
+
+
+
+
+
+
+
 $$
 \begin{array}{l}
 \ln x  + \ln (x  + 3)  = \ln (20 -  5x)  \\
@@ -275,8 +286,50 @@ checking x = 2
 $$
 \begin{array}{l}
 \ln 2+ \ln (2 + 3)  = \ln (20 -  5\cdot 2)    \\
-
+\ln 2+ \ln (5)  = \ln (10)   
 \end{array}
 $$
 
-this one is not okay since the logarithm from  of the second term on the right side of the equal sign  is negative 
+this one is okay  
+
+
+
+
+
+
+$$
+\begin{array}{l}
+\log_{3}(25  -x^2)  =  2   \\
+\ln(x(x  + 3))  = \ln (20 -  5x)     \\
+x^2   +  3x  =  20 -  5x   \\
+x^2 + 8x  - 20  = 0   \\  
+\left\{  \\
+ \begin{array}{l} 
+x=  -10     \\
+x =  2 \\
+\end{array}
+ \right.
+\end{array}
+
+$$
+
+
+
+
+
+checking  x = - 10 
+$$
+\begin{array}{l}
+\ln - 10   + \ln (- 10   + 3)  = \ln (20 -  5\cdot - 10  )  
+\end{array}
+$$
+this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
+checking x = 2
+$$
+\begin{array}{l}
+\ln 2+ \ln (2 + 3)  = \ln (20 -  5\cdot 2)    \\
+\ln 2+ \ln (5)  = \ln (10)   
+\end{array}
+$$
+
+this one is okay  
