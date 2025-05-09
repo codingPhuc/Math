@@ -391,7 +391,47 @@ $$
 $$
 
 this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
+only the solution  x = -8 satisfy the solution 
 
-since both solution satisfy the condition that the logarithm form should not be negative , we take both the solution 
 
 
+
+
+
+$$
+\begin{array}{l}
+\log x  = 2   - \log(x  - 21 ) \\
+\log x  = \log 1  - \log(x  - 21 )  \\
+-x (6-x)   =16   \\
+ x^2  - 6x  -  16 =  0    \\
+\left\{  \\
+ \begin{array}{l} 
+x=  -8  \\
+x =  2  \\
+\end{array}
+ \right.
+
+\end{array}
+
+$$
+
+
+
+checking  x = - 8
+$$
+\begin{array}{l}
+\log_{4}(8)   + \log_{4}(6 + 8 ) =  2 \\
+\log_{4}(8)   + \log_{4}(14 ) =  2  
+\end{array}
+$$
+this on is okay 
+checking x = 2
+$$
+\begin{array}{l}
+
+\log_{4}(-2)   + \log_{4}(6-2 ) =  2
+\end{array}
+$$
+
+this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
+only the solution  x = -8 satisfy the solution 
