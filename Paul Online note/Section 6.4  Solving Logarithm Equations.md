@@ -110,16 +110,15 @@ we need to take a look at the second kind of logarithm equation that we will be 
 $$
 \begin{array}{l}
 \log_{5} (2x  + 4)  = 2  \\
-\log_{5} (2x  + 4)   =  
-\left\{  \\
- \begin{array}{l} 
-x=  -4   \\
-x =  2 \\
-\end{array}
- \right.
+\log_{5} (2x  + 4)   =  \log_{5}32  \\
+ 2x  + 4  =  32    \\
+x  =  14 \\
+
 \end{array}
 
 $$
+
+
 
 
 
@@ -129,11 +128,7 @@ $$
 
 $$
 \begin{array}{l}
-\log_{2}(x^2  - 6x)  =  3 +  \log_{2}(1 - x)    \\
-\log_{2}(x^2  - 6x)  =  \log_{2}8 +  \log_{2}(1 - x)    \\
-  \log_{2}(x^2  - 6x)  =  \log_{2}(8\cdot  (1 - x) )   \\
-x^2  - 6x   =  8  -  8x    \\
-x^2 +  2x    - 8   =  0   \\
+\log x  =  1  - 
 \left\{  \\
  \begin{array}{l} 
 x=  -4   \\
