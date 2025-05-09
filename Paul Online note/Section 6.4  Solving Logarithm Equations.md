@@ -484,10 +484,11 @@ $$
 \log( x^2)  - \log(7x  - 1 )  = \log 1   \\
  \frac{x^2}{7x  -1 }   =  1   \\
  x^2 - 7x   +   1    = 0  \\
-x   =  \frac{ 7   \pm  \sqrt{ (-7)^2 - 4    }     }{2a} \\
+x   =  \frac{ 7   \pm  \sqrt{ (-7)^2 - 4    }     }{2a} \\ \\
+
 \left\{  \\
  \begin{array}{l} 
-x=  -4 \\
+x=  \frac{7+ 3\sqrt{ 5 }}{2}\\
 x =  25   \\
 \end{array}
  \right.
