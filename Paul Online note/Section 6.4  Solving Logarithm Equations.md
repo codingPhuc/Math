@@ -83,9 +83,12 @@ $$
 
 checking  x =2   
 $$
-\ln 10   -  \ln( 7 -2 )   = \ln 2 
-
+\begin{array}{l}
+ \ln 10   -  \ln( 7 -2 )   = \ln 2 \\  \ln 10   -  \ln( 5)   = \ln 2  \\
+\end{array}
 $$
+this one is okay 
+checkin
 
 
 
