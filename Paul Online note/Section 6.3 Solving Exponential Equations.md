@@ -162,6 +162,12 @@ $$
 # #Practice_Exercise  
 
 $$
-
-6^{2x}  =   6^{1-3x  }
+\begin{array}{l}  \\
+6^{2x}  =   6^{1-3x  }   \\
+2x  =   1 - 3x   \\
+5x   = 1    \\
+x  = \frac{1}{5} 
+\end{array}
 $$
+
+
