@@ -39,14 +39,14 @@ x( x  -1 )  =  3x + 12   \\
 x^2  -4x  -  12  =   0   \\
 \left\{  \\
  \begin{array}{l} 
-x=  -6 \\
-x =  2\\
+x=  6 \\
+x =  -2\\
 \end{array}
  \right.
 \end{array}
 $$
 Now , we must check them in the original equation. 
-checking x  =  -6 
+checking x  =  6 
 $$
 \log 6  + \log (6 -1)  =  \log( 3  \cdot 6   + 12 )    \implies log6+log5=log30
 $$
@@ -57,7 +57,8 @@ $$
 \log -2   + \log (-2  -1 )  =  \log (3\cdot  -2   + 12)
 $$
 we don't need to go any further there is a negative number in the second terms 
-be careful with the thinking that we didn't take  -2  because it was a negative number . We didn't take it because when plug into the equation it produce a negative log
+be careful with the thinking that we didn't take  -2  because it was a negative number . We didn't take it because when plug into the equation it produce a negative logarithm 
+. The same line of reason can be said about x = -6 , we didn't take it because it
 
 
 
