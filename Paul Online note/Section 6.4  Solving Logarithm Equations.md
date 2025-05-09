@@ -17,4 +17,4 @@ $$
 \text{ if } \log_{b}y  \text{  then  }  x =  y 
 $$
 
-if we've got two logs in the problem ,  one on either side of 
+if we've got two logs in the problem ,  one on either side of the equal with both a coefficient  of one and the same base 
