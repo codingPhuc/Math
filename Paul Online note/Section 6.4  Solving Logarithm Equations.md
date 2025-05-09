@@ -342,8 +342,10 @@ since both solution satisfy the condition that the logarithm form should not be 
 $$
 \begin{array}{l}
 \log_{2}(x  +1  ) - \log_{2}(2-x) =  3   \\
-\log_{2}(x  +1  )  =  \log_{2}(x  +1  )  + \log_{2}8   \\
-x + 1  =  \frac{x}{} \\
+\log_{2}(x  +1  )  =  \log_{2}(2-x) + \log_{2}8   \\
+x + 1  =  \frac{2-x}{8}  \\
+ 8x  +    8   =  2 -x     \\
+x  = -\frac{2}{}\\
 25  -x^2  =  9    \\
 x^2 = 16 \\  
 \left\{  \\
