@@ -214,6 +214,7 @@ $$
 $$
 \begin{array}{l}  \\
 2^{3x }   = 10   \\
+\log {2^{3x } }  =   \log  10   \\
 
 \end{array}
 $$
