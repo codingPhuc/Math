@@ -50,8 +50,14 @@ $$
   \log_{2}(x^2  - 6x)  =  \log_{2}(9\cdot  (1 - x) )   \\
 x^2  - 6x   =  9  -  9x    \\
 x^2 +3x   - 9   =  0   \\
-
+\left\{  \\
+ \begin{array}{l} 
+x=  -5   \\
+x =  3 \\
 \end{array}
+ \right.
+\end{array}
+
 $$
 
 
