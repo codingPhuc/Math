@@ -480,8 +480,10 @@ this one is not okay since the logarithm from  of the first term on the left sid
 $$
 \begin{array}{l}
 2\log(x) - \log(7x  - 1 )  = 0  \\
-2\log( x) - \log(7x  - 1 )  = 0  \\
 
+\log( x^2)  - \log(7x  - 1 )  = \log 1   \\
+ \frac{x^2}{7x  -1 }   =  1   \\
+ x^2 - 7x   +   1    = 
 \left\{  \\
  \begin{array}{l} 
 x=  -4 \\
