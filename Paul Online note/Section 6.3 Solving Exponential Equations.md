@@ -286,7 +286,7 @@ $$
 \begin{array}{l}  \\
 e^{4 - 7x}  + 11  =  20   \\
 \ln e^{4 - 7x}   +  \ln 11   =  \ln 20   \\
-4 - 7x     =  \ln 20   -  \ln 11  \\
+4 - 7x     = \ln 9
  
 \end{array}
 $$
