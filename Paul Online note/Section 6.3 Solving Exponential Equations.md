@@ -227,7 +227,7 @@ $$
 $$
 \begin{array}{l}  \\
 7^{1- x}  =  4^{3x  + 1}  \\
-\log
+\log 7^{1-x}  = \log 4^{}
 \end{array}
 $$
 
