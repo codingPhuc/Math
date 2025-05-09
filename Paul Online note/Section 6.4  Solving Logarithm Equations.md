@@ -45,9 +45,10 @@ x =  2 \\
  \right.
 \end{array}
 $$
-
-
-
+Now , we must check them in the original equation. 
+$$
+\log 6  + \log (6 -1)  =  \log( 3  \cdot 5 )
+$$
 
 
 
@@ -66,6 +67,10 @@ x =  2 \\
  \right.
 \end{array}
 $$
+
+
+
+
 
 
 
