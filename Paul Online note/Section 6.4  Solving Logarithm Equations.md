@@ -231,7 +231,9 @@ $$
 
 $$
 \begin{array}{l}
-\ln 
+\ln x  + \ln (x  + 3)  = \ln (20 -  5x)  \\
+\ln(x(x  + 3))  = \ln (20 -  5x)     \\
+ \\  
 \left\{  \\
  \begin{array}{l} 
 x=  -4   \\
