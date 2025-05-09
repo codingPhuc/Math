@@ -377,15 +377,15 @@ $$
 checking  x = - 8
 $$
 \begin{array}{l}
-x = -8   \\
-\log_{3}(9)   =2   
+\log_{4}(8)   + \log_{4}(6 + 8 ) =  2 \\
+\log_{4}(8)   + \log_{4}(14 ) =  2  
 \end{array}
 $$
 this on is okay 
 checking x = 4
 $$
 \begin{array}{l}
-\log_{3}(25  -(4)^2)  =  2    \\
+\log_{2}(x  +1  ) - \log_{2}(2-x) =  3    \\
 \log_{3}(9)   = 2   
 \end{array}
 $$
