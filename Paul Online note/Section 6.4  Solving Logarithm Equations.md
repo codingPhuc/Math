@@ -233,7 +233,8 @@ $$
 \begin{array}{l}
 \ln x  + \ln (x  + 3)  = \ln (20 -  5x)  \\
 \ln(x(x  + 3))  = \ln (20 -  5x)     \\
- \\  
+x^2   +  3x  =  20 -  5x   \\
+x^2 + 8x  - 20  = 0   \\  
 \left\{  \\
  \begin{array}{l} 
 x=  -4   \\
