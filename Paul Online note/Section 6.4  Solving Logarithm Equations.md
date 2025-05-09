@@ -48,10 +48,14 @@ $$
 Now , we must check them in the original equation. 
 checking x  =  -6 
 $$
-\log 6  + \log (6 -1)  =  \log( 3  \cdot 6   + 12 )   
+\log 6  + \log (6 -1)  =  \log( 3  \cdot 6   + 12 )    \implies log6+log5=log30
 $$
+no negative log for this number 
 
-
+checking x = -2  
+$$
+\log -2   + \log (-2  -1 )  =  \log (3x + 12)
+$$
 
 
 $$
