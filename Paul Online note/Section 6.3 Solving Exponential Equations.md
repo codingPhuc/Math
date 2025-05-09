@@ -207,3 +207,14 @@ x  =  \frac{4}{5}x
 \end{array}
 $$
 
+
+
+
+
+$$
+\begin{array}{l}  \\
+2^{3x }   = 10   \\
+
+\end{array}
+$$
+
