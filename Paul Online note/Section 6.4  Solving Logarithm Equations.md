@@ -17,4 +17,4 @@ $$
 \text{ if } \log_{b}y  \text{  then  }  x =  y 
 $$
 
-if we
+if we've got two logs in the problem ,  one on either side of 
