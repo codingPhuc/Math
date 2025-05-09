@@ -341,7 +341,16 @@ since both solution satisfy the condition that the logarithm form should not be 
 
 $$
 \begin{array}{l}
-\log
+\log_{2}(x  +1  ) - \log_{2}(2-x) =  3   \\
+\log_{2}(x  +1  ) - \log_{2}(2-x) =  3  \\
+25  -x^2  =  9    \\
+x^2 = 16 \\  
+\left\{  \\
+ \begin{array}{l} 
+x=  -4   \\
+x =  4 \\
+\end{array}
+ \right.
 \end{array}
 
 $$
