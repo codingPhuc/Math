@@ -434,4 +434,47 @@ $$
 $$
 
 this one is okay 
-only the solution  x = -8 satisfy the solution 
+only the solution  x = 25 satisfy the solution 
+
+
+
+
+
+
+$$
+\begin{array}{l}
+\ln(x  - 1)  =  1 + \ln(3x + 2 ) \\
+\ln(x  - 1)  =  \ln e + \ln(3x + 2 )  \\
+\ln(x  - 1)   = l\  \\
+x^2   - 21x  - 100  = 0  \\
+(x +  4) (x  - 25)   =  
+\left\{  \\
+ \begin{array}{l} 
+x=  -4 \\
+x =  25   \\
+\end{array}
+ \right.
+\end{array}
+
+$$
+
+
+
+checking  x = - 4
+$$
+\begin{array}{l}
+\log -4  = 2   - \log(-4  - 21 )  \\
+
+\end{array}
+$$
+this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
+checking x = 25
+$$
+\begin{array}{l}
+\log 25 = 2   - \log(25 - 21 ) \\
+\log 25 = 2   - \log(4)
+\end{array}
+$$
+
+this one is okay 
+only the solution  x = 25 satisfy the solution 
