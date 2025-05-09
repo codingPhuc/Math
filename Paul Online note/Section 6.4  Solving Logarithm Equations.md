@@ -14,5 +14,7 @@ In this section we will now take a look at solving logarithm equation , equation
 Before we move on remember the constrain that we can only plug positive number into a logarithm . This will be important down the road 
 
 $$
-\text{ if}
+\text{ if } \log_{b}y  \text{  then  }  x =  y 
 $$
+
+if we
