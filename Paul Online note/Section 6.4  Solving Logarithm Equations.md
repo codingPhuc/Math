@@ -88,7 +88,14 @@ $$
 \end{array}
 $$
 this one is okay 
-checkin
+checking x = 5 
+$$
+\begin{array}{l}
+ \ln 10   -  \ln( 7 -5)   = \ln 5 \\  \ln 10   -  \ln( 2)    = \ln 5  \\
+\end{array}
+$$
+this one is okay 
+in this cases both so;
 
 
 
