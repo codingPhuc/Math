@@ -128,7 +128,10 @@ $$
 
 $$
 \begin{array}{l}
-\log x  =  1  - 
+\log x  =  1  - \log(x - 3)  \\
+\log x  = \log 10  -  \log(x - 3)      \\
+x =   \frac{10}{x - 3}  \\
+x^2  -3x  - 10   =0 \\ 
 \left\{  \\
  \begin{array}{l} 
 x=  -4   \\
