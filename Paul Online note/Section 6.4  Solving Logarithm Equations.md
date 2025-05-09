@@ -45,9 +45,7 @@ $$
 
 $$
 \begin{array}{l}
-\log x   + \log (x  -1 )  =  \log (3x + 12)   \\
-\log (x  -1 )x    =   \log (3x + 12)     \\
-x( x  -1 )  =  3x + 12   \\
+\log_{2}(x^2  - 6x)  =  3 +  \log_{2}(1 - x)    \\
 
 \end{array}
 $$
