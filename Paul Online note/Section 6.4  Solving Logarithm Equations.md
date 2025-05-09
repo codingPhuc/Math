@@ -110,7 +110,6 @@ we need to take a look at the second kind of logarithm equation that we will be 
 $$
 \begin{array}{l}
 \log_{5} (2x  + 4)  = 2  \\
-\log x  = 1 - \log(x -3)  \\
 
 \left\{  \\
  \begin{array}{l} 
