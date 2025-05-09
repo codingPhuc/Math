@@ -497,15 +497,3 @@ $$
 
 
 
-checking  x =−0.89961
-$$
-\begin{array}{l}
-\ln(−0.89961 - 1)  =  1 + \ln(3(−0.89961 )+ 2 )  \\
-
-\end{array}
-$$
-this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
-
- so we do not have a equation for this result 
-
-

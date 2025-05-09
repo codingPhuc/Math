@@ -106,12 +106,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
+                "file": "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 2.6  Quadratic Equations - Part II"
+              "title": "Section 6.4  Solving Logarithm Equations"
             }
           }
         ]
@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
+                "file": "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 2.6  Quadratic Equations - Part II"
+              "title": "Outline of Section 6.4  Solving Logarithm Equations"
             }
           }
         ],
@@ -276,6 +276,7 @@
   },
   "active": "08a49e2c33b5ac4c",
   "lastOpenFiles": [
+    "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
     "Paul Online note/Polynomials.md",
     "Professor Leonard/6.2 Factoring Polynomials (a  =1).md",
@@ -301,7 +302,6 @@
     "Paul Online note/Section 3.4  The Definition of a Function.md",
     "Paul Online note/Section 3.5  Graphing Functions.md",
     "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
-    "Paul Online note/Section 2.8  Applications of Quadratic Equations.md",
     "book/Give Me Liberty, Seventh Edition.pdf",
     "book/ECE.pdf",
     "book/ECE.pdf.crdownload",
