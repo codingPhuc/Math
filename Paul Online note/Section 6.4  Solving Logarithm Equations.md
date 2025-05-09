@@ -17,4 +17,9 @@ $$
 \text{ if } \log_{b}y  \text{  then  }  x =  y 
 $$
 
-if we've got two logs in the problem ,  one on either side of the equal with both a coefficient  of one and the same base 
+if we've got two logs in the problem ,  one on either side of the equal with both a coefficient  of one and the same base . Then we can drop the logarithms 
+## Solve each of the following equations.  
+$$
+\begin{array}{l}
+2 \log_{9}{\sqrt{ x }   }  - \log_{9} \\
+\end{arra
