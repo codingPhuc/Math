@@ -49,7 +49,9 @@ $$
 
 $$
 \begin{array}{l}
-\ln 10    \\
+\ln 10  - \ln(7 - x ) =  \ln  x   \\
+ \ln \frac{10}{(7 - x )}  =  \ln x  \\
+\frac{10}{7 -x}  = \\
 \left\{  \\
  \begin{array}{l} 
 x=  -4   \\
