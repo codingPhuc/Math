@@ -313,14 +313,15 @@ x =  4 \\
 \end{array}
 
 $$
-checking  x = - 1
+checking  x = - 4
 $$
 \begin{array}{l}
-\ln - 10   + \ln (- 10   + 3)  = \ln (20 -  5\cdot - 10  )  
+\log_{3}(25  -4^2)  =  2    \\
+\log_{3}(9)   =2   
 \end{array}
 $$
 this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
-checking x = 2
+checking x = 4
 $$
 \begin{array}{l}
 \ln 2+ \ln (2 + 3)  = \ln (20 -  5\cdot 2)    \\
