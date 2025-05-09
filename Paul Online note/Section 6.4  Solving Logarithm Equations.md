@@ -471,3 +471,38 @@ $$
 this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
 
  so we do not have a equation for this result 
+
+
+
+
+
+
+$$
+\begin{array}{l}
+2\log(x) - \log(7x  - 1 )  = 0  \\
+2\log( x) - \log(7x  - 1 )  = 0  \\
+
+\left\{  \\
+ \begin{array}{l} 
+x=  -4 \\
+x =  25   \\
+\end{array}
+ \right.
+\end{array}
+
+$$
+
+
+
+checking  x =−0.89961
+$$
+\begin{array}{l}
+\ln(−0.89961 - 1)  =  1 + \ln(3(−0.89961 )+ 2 )  \\
+
+\end{array}
+$$
+this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
+
+ so we do not have a equation for this result 
+
+
