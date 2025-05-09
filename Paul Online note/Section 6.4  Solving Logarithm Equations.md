@@ -29,3 +29,10 @@ x  = \frac{1}{5}    \\
 $$
 
 
+
+$$
+\begin{array}{l}
+\log x   + \log (x  -1 )  =  \log (3x + 12)   \\
+\log (x  -1 ) 
+\end{array}
+$$
