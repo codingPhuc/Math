@@ -10,3 +10,8 @@ learning score:
 ---
 
 In this section we will now take a look at solving logarithm equation , equation with logarithm in them .  in particular  , we will be looking at which term is a logarithm and we will also look at equation in that all but one term in the equation is a logarithm and the term without the logarithm  is a constant 
+
+Before we move on remember the constrain that we can only plug positive number into a logarithm . This will be important down the road 
+
+
+
