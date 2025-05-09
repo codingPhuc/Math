@@ -189,10 +189,24 @@ x^2  =  3x + 10    \\
 x^2   - 3x  - 10  =   0   \\ \\
 \left \{  \\
  \begin{array}{l}
-
-\end{array}
-t =   -3    
+t =   -3    \\
 t =  2   
+\end{array}
+ \right.
+\end{array}
+$$
+
+
+
+
+$$
+\begin{array}{l}  \\
+7^{4-x }  =  7^{}
+\left \{  \\
+ \begin{array}{l}
+t =   -3    \\
+t =  2   
+\end{array}
  \right.
 \end{array}
 $$
