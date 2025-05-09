@@ -51,10 +51,12 @@ $$
 \begin{array}{l}
 \ln 10  - \ln(7 - x ) =  \ln  x   \\
  \ln \frac{10}{(7 - x )}  =  \ln x  \\
-\frac{10}{7 -x}  = \\
+\frac{10}{7 -x}  =  x     \\
+10 =   -x^2 + 7x   \\
+  x^2   - 7x  + 10   =    0   \\
 \left\{  \\
  \begin{array}{l} 
-x=  -4   \\
+x=  5  \\
 x =  2 \\
 \end{array}
  \right.
