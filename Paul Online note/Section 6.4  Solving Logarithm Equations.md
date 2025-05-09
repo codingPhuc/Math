@@ -343,32 +343,29 @@ $$
 \begin{array}{l}
 \log_{2}(x  +1  ) - \log_{2}(2-x) =  3   \\
 \log_{2}(x  +1  )  =  \log_{2}(2-x) + \log_{2}8   \\
-x + 1   =  
-\left\{  \\
- \begin{array}{l} 
-x=  -4   \\
-x =  4 \\
-\end{array}
- \right.
+x + 1   = 16  - 8x    \\
+ 9x  =  15  \\
+x =  \frac{5}{3}
+
 \end{array}
 
 $$
-checking  x = - 4
+
+
+
+
+
 $$
 \begin{array}{l}
-\log_{3}(25  -(-4)^2)  =  2    \\
-\log_{3}(9)   =2   
+\log_{4}(-x)   + \log_{4}(6-x ) =  2 \\
+\log_{4}(-x)   + \log_{4}(6-x ) =  \log_{4}16  \\
+x + 1   = 16  - 8x    \\
+ 9x  =  15  \\
+x =  \frac{5}{3}
+
 \end{array}
-$$
-this on is okay 
-checking x = 4
-$$
-\begin{array}{l}
-\log_{3}(25  -(4)^2)  =  2    \\
-\log_{3}(9)   = 2   
-\end{array}
+
 $$
 
-this one is okay  
 
-since both solution satisfy the condition that the logarithm form should not be negative , we take both the solution 
+
