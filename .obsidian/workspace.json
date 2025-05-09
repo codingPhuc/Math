@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 6.2 Logarithm Functions.md",
+                "file": "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 6.2 Logarithm Functions"
+              "title": "Outline of Section 6.4  Solving Logarithm Equations"
             }
           }
         ],
@@ -274,14 +274,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08a49e2c33b5ac4c",
+  "active": "d187a9b5e7872778",
   "lastOpenFiles": [
+    "Paul Online note/Section 6.2 Logarithm Functions.md",
     "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
     "Paul Online note/Section 5.3  Graphing Polynomials.md",
     "Paul Online note/Section 5.4  Finding Zeroes of Polynomials.md",
     "Paul Online note/Section 6.1  Exponential Functions.md",
-    "Paul Online note/Section 6.2 Logarithm Functions.md",
     "Paul Online note/Section 6.3 Solving Exponential Equations.md",
     "Paul Online note/Untitled 2.md",
     "Paul Online note/Section 2.12  Polynomial Inequalities.md",

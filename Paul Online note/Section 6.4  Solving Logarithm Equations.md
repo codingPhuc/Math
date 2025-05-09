@@ -158,7 +158,7 @@ $$
 \end{array}
 $$
 
-this one is not okay since the logarithm 
+this one is not okay since the logarithm from  of the second term on the right side of the equ
 in this cases both solution satisfy the condition  
 
 
