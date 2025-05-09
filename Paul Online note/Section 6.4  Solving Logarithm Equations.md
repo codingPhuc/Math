@@ -9,4 +9,4 @@ amount of time:
 learning score:
 ---
 
-In this section we will now take a look at solving logarithm equation , equation with logarithm in them . 
+In this section we will now take a look at solving logarithm equation , equation with logarithm in them .  in particular  , we will be looking at 
