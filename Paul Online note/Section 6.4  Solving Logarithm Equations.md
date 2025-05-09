@@ -192,3 +192,60 @@ in this case only the solution x =  -4  satisfy the condition
 # #Practice_Exercise  
 
 
+
+$$
+\begin{array}{l}
+\log_{4}(x )
+\left\{  \\
+ \begin{array}{l} 
+x=  -4   \\
+x =  2 \\
+\end{array}
+ \right.
+\end{array}
+
+$$
+
+
+
+
+
+$$
+\begin{array}{l}
+\log_{2}(x^2  - 6x)  =  3 +  \log_{2}(1 - x)    \\
+\log_{2}(x^2  - 6x)  =  \log_{2}8 +  \log_{2}(1 - x)    \\
+  \log_{2}(x^2  - 6x)  =  \log_{2}(8\cdot  (1 - x) )   \\
+x^2  - 6x   =  8  -  8x    \\
+x^2 +  2x    - 8   =  0   \\
+\left\{  \\
+ \begin{array}{l} 
+x=  -4   \\
+x =  2 \\
+\end{array}
+ \right.
+\end{array}
+
+$$
+
+
+
+
+$$
+\begin{array}{l}
+\log_{2}(x^2  - 6x)  =  3 +  \log_{2}(1 - x)    \\
+\log_{2}(x^2  - 6x)  =  \log_{2}8 +  \log_{2}(1 - x)    \\
+  \log_{2}(x^2  - 6x)  =  \log_{2}(8\cdot  (1 - x) )   \\
+x^2  - 6x   =  8  -  8x    \\
+x^2 +  2x    - 8   =  0   \\
+\left\{  \\
+ \begin{array}{l} 
+x=  -4   \\
+x =  2 \\
+\end{array}
+ \right.
+\end{array}
+
+$$
+
+
+
