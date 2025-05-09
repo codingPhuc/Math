@@ -98,7 +98,7 @@ this one is okay
 in this cases both solution satisfy the condition  
 
 
-we need to take a look at the second kind of logarithm equation that we will be s
+we need to take a look at the second kind of logarithm equation that we will be solving . This equation will have a term one being logarithm and the other that does not have a loga
 
 
 
