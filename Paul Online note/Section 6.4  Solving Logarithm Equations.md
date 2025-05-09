@@ -4,8 +4,8 @@ references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
 tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
-Current date: "2025-05-09"
-amount of time: 
+Current date: 2025-05-09
+amount of time: 20 +
 learning score:
 ---
 
@@ -295,14 +295,15 @@ this one is okay
 
 
 
+#fail 
 
 
 $$
 \begin{array}{l}
 \log_{3}(25  -x^2)  =  2   \\
-\log_{3}(25  -x^2)  =  \log_{3}8  \\
-25  -x^2  =  8    \\
-x^2 = -17  \\  
+\log_{3}(25  -x^2)  =  \log_{3}9  \\
+25  -x^2  =  9    \\
+x^2 = 16 \\  
 
 \end{array}
 
