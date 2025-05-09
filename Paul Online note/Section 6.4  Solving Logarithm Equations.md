@@ -49,10 +49,7 @@ $$
 
 $$
 \begin{array}{l}
-\log x   + \log (x  -1 )  =  \log (3x + 12)   \\
-\log (x  -1 )x    =   \log (3x + 12)     \\
-x( x  -1 )  =  3x + 12   \\
-x^2  -4x  -  12  =   0   \\
+\ln 10    \\
 \left\{  \\
  \begin{array}{l} 
 x=  -4   \\
@@ -80,7 +77,6 @@ x =  2 \\
 \end{array}
 
 $$
-
 
 
 
