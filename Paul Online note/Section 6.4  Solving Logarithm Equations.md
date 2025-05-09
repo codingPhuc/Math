@@ -464,18 +464,10 @@ $$
 checking  x =−0.89961
 $$
 \begin{array}{l}
-\log -4  = 2   - \log(-4  - 21 )  \\
+\ln(−0.89961 - 1)  =  1 + \ln(3(−0.89961 )+ 2 )  \\
 
 \end{array}
 $$
 this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
-checking x = 25
-$$
-\begin{array}{l}
-\log 25 = 2   - \log(25 - 21 ) \\
-\log 25 = 2   - \log(4)
-\end{array}
-$$
 
-this one is okay 
-only the solution  x = 25 satisfy the solution 
+ so we do not have a equation for this result 
