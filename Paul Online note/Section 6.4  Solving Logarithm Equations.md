@@ -134,8 +134,8 @@ x =   \frac{10}{x - 3}  \\
 x^2  -3x  - 10   =0 \\ 
 \left\{  \\
  \begin{array}{l} 
-x=  -4   \\
-x =  2 \\
+x= 5   \\
+x =  -2 \\
 \end{array}
  \right.
 \end{array}
@@ -144,7 +144,21 @@ $$
 
 
 
-
+checking  x =   
+$$
+\begin{array}{l}
+ \ln 10   -  \ln( 7 -2 )   = \ln 2 \\  \ln 10   -  \ln( 5)   = \ln 2  \\
+\end{array}
+$$
+this one is okay 
+checking x = 5 
+$$
+\begin{array}{l}
+ \ln 10   -  \ln( 7 -5)   = \ln 5 \\  \ln 10   -  \ln( 2)    = \ln 5  \\
+\end{array}
+$$
+this one is okay 
+in this cases both solution satisfy the condition  
 
 
 
@@ -167,3 +181,18 @@ $$
 
 
 
+checking  x =2   
+$$
+\begin{array}{l}
+ \ln 10   -  \ln( 7 -2 )   = \ln 2 \\  \ln 10   -  \ln( 5)   = \ln 2  \\
+\end{array}
+$$
+this one is okay 
+checking x = 5 
+$$
+\begin{array}{l}
+ \ln 10   -  \ln( 7 -5)   = \ln 5 \\  \ln 10   -  \ln( 2)    = \ln 5  \\
+\end{array}
+$$
+this one is okay 
+in this cases both solution satisfy the condition  
