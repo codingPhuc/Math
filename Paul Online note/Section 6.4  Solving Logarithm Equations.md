@@ -54,8 +54,12 @@ no negative log for this number
 
 checking x = -2  
 $$
-\log -2   + \log (-2  -1 )  =  \log (3x + 12)
+\log -2   + \log (-2  -1 )  =  \log (3\cdot  -2   + 12)
 $$
+we don't need to go any further there is a negative number in the second terms 
+
+
+
 
 
 $$
