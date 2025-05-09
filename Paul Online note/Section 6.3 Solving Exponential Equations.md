@@ -201,13 +201,9 @@ $$
 
 $$
 \begin{array}{l}  \\
-7^{4-x }  =  7^{}
-\left \{  \\
- \begin{array}{l}
-t =   -3    \\
-t =  2   
-\end{array}
- \right.
+7^{4-x }  =  7^{4x}  \\
+4 - x   =   4x    \\
+x  =  \frac{4}{5}x   
 \end{array}
 $$
 
