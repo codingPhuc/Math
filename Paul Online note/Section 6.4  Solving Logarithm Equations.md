@@ -360,12 +360,38 @@ $$
 \log_{4}(-x)   + \log_{4}(6-x ) =  2 \\
 \log_{4}(-x (6-x) ) =  \log_{4}16  \\
 -x (6-x)   =16   \\
- x^2  - 6x  -  16 =  0   \\
-x =  \frac{5}{3}
+ x^2  - 6x  -  16 =  0    \\
+\left\{  \\
+ \begin{array}{l} 
+x=  -8  \\
+x =  2  \\
+\end{array}
+ \right.
 
 \end{array}
 
 $$
 
+
+
+checking  x = - 8
+$$
+\begin{array}{l}
+x = -8   \\
+\log_{3}(9)   =2   
+\end{array}
+$$
+this on is okay 
+checking x = 4
+$$
+\begin{array}{l}
+\log_{3}(25  -(4)^2)  =  2    \\
+\log_{3}(9)   = 2   
+\end{array}
+$$
+
+this one is okay  
+
+since both solution satisfy the condition that the logarithm form should not be negative , we take both the solution 
 
 
