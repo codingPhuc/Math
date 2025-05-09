@@ -489,7 +489,7 @@ x   =  \frac{ 7   \pm  \sqrt{ (-7)^2 - 4    }     }{2a} \\ \\
 \left\{  \\
  \begin{array}{l} 
 x=  \frac{7+ 3\sqrt{ 5 }}{2}\\
-x =  25   \\
+x =  \frac{7- 3\sqrt{ 5 }}{2}   \\
 \end{array}
  \right.
 \end{array}
