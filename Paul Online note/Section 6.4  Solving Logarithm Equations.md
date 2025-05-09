@@ -226,7 +226,21 @@ x =  2 \\
 
 $$
 
+checking  x = -4
+$$
+\begin{array}{l}
+\log(6 \cdot  -4)  - \log(4 + 4 )  = \log3 \\ \log(6)  - \log(4 + 4 )  = \log3  \\
+\end{array}
+$$
+this one is okay 
+checking x = -2 
+$$
+\begin{array}{l}
+\log -2  =  1  - \log(-2 -  3) \\ \log -2  =  1  - \log(-5) \\
+\end{array}
+$$
 
+this one is not okay since the logarithm from  of the second term on the right side of the equal sign  is negative 
 
 
 $$
@@ -249,3 +263,18 @@ $$
 
 
 
+checking  x =5   
+$$
+\begin{array}{l}
+\log 5  =  1  - \log(5- 3) \\ \log 5  =  1  - \log(2)  \\
+\end{array}
+$$
+this one is okay 
+checking x = -2 
+$$
+\begin{array}{l}
+\log -2  =  1  - \log(-2 -  3) \\ \log -2  =  1  - \log(-5) \\
+\end{array}
+$$
+
+this one is not okay since the logarithm from  of the second term on the right side of the equal sign  is negative 
