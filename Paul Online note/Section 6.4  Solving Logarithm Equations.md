@@ -95,11 +95,10 @@ $$
 \end{array}
 $$
 this one is okay 
-in this cases both solution satisfy the result 
+in this cases both solution satisfy the condition  
 
 
-
-
+we need to take a look at the second kind of logarithm equation that we will be s
 
 
 
