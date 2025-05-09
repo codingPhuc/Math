@@ -264,10 +264,10 @@ $$
 
 
 
-checking  x =5   
+checking  x = - 10 
 $$
 \begin{array}{l}
-\log 5  =  1  - \log(5- 3) \\ \log 5  =  1  - \log(2)  \\
+\ln - 10   + \ln (- 10   + 3)  = \ln (20 -  5\cdot - 10  )  \\ \log 5  =  1  - \log(2)  \\
 \end{array}
 $$
 this one is okay 
