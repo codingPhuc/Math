@@ -98,7 +98,56 @@ this one is okay
 in this cases both solution satisfy the condition  
 
 
-we need to take a look at the second kind of logarithm equation that we will be solving . This equation will have a term one being logarithm and the other that does not have a loga
+we need to take a look at the second kind of logarithm equation that we will be solving . This equation will have a term one being logarithm and the other that does not have a logarithm will be a constant 
+
+## solve each of the following equation 
+
+
+
+
+
+
+$$
+\begin{array}{l}
+\log_{5} (2x  + 4)  = 2  \\
+\log x  = 1 - \log(x -3)  \\
+
+\left\{  \\
+ \begin{array}{l} 
+x=  -4   \\
+x =  2 \\
+\end{array}
+ \right.
+\end{array}
+
+$$
+
+
+
+
+
+
+
+$$
+\begin{array}{l}
+\log_{2}(x^2  - 6x)  =  3 +  \log_{2}(1 - x)    \\
+\log_{2}(x^2  - 6x)  =  \log_{2}8 +  \log_{2}(1 - x)    \\
+  \log_{2}(x^2  - 6x)  =  \log_{2}(8\cdot  (1 - x) )   \\
+x^2  - 6x   =  8  -  8x    \\
+x^2 +  2x    - 8   =  0   \\
+\left\{  \\
+ \begin{array}{l} 
+x=  -4   \\
+x =  2 \\
+\end{array}
+ \right.
+\end{array}
+
+$$
+
+
+
+
 
 
 
