@@ -102,11 +102,6 @@ we need to take a look at the second kind of logarithm equation that we will be 
 
 ## solve each of the following equation 
 
-
-
-
-
-
 $$
 \begin{array}{l}
 \log_{5} (2x  + 4)  = 2  \\
@@ -192,3 +187,8 @@ $$
 
 this one is not okay since the logarithm from  of the second term on the right side of the equal sign  is negative 
 in this case only the solution x =  -4  satisfy the condition 
+
+
+# #Practice_Exercise  
+
+
