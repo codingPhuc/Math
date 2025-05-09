@@ -144,17 +144,17 @@ $$
 
 
 
-checking  x =   
+checking  x =5   
 $$
 \begin{array}{l}
- \ln 10   -  \ln( 7 -2 )   = \ln 2 \\  \ln 10   -  \ln( 5)   = \ln 2  \\
+\log 5  =  1  - \log(5- 3) \\ \log 5  =  1  - \log(2)  \\
 \end{array}
 $$
 this one is okay 
-checking x = 5 
+checking x = -2 
 $$
 \begin{array}{l}
- \ln 10   -  \ln( 7 -5)   = \ln 5 \\  \ln 10   -  \ln( 2)    = \ln 5  \\
+\log 5  =  1  - \log(5- 3) \\ \log 5  =  1  - \log(2)  \\
 \end{array}
 $$
 this one is okay 
