@@ -447,8 +447,8 @@ $$
 \ln(x  - 1)  =  \ln e + \ln(3x + 2 )  \\
 \ln(x  - 1)   = \ln(e (3x + 2 )  )  \\
 (x  - 1) =  3ex + 2e  \\
-(3e + 1)x   = 2e  + 1   \\
-x  = 
+(-3e + 1)x   = 2e  + 1   \\
+x  = −0.89961
 \left\{  \\
  \begin{array}{l} 
 x=  -4 \\
@@ -461,7 +461,7 @@ $$
 
 
 
-checking  x = - 4
+checking  x =−0.89961
 $$
 \begin{array}{l}
 \log -4  = 2   - \log(-4  - 21 )  \\
