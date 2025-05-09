@@ -342,7 +342,8 @@ since both solution satisfy the condition that the logarithm form should not be 
 $$
 \begin{array}{l}
 \log_{2}(x  +1  ) - \log_{2}(2-x) =  3   \\
-\log_{2}(x  +1  )  =  \log_{2}(x  +1  )  + \\
+\log_{2}(x  +1  )  =  \log_{2}(x  +1  )  + \log_{2}8   \\
+x + 1  =  \frac{x}{} \\
 25  -x^2  =  9    \\
 x^2 = 16 \\  
 \left\{  \\
@@ -372,4 +373,4 @@ $$
 
 this one is okay  
 
-since both solution satisfy the condition that the logarithm form should not be negative , we take both the solution
+since both solution satisfy the condition that the logarithm form should not be negative , we take both the solution 
