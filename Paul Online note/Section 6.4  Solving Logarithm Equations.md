@@ -158,8 +158,8 @@ $$
 \end{array}
 $$
 
-this one is not okay since the logarithm from  of the second term on the right side of the equ
-in this cases both solution satisfy the condition  
+this one is not okay since the logarithm from  of the second term on the right side of the equal sign  is negative 
+in this case only the solution x =  5 satisfy the condition 
 
 
 
@@ -182,18 +182,19 @@ $$
 
 
 
-checking  x =2   
+checking  x =-4
 $$
 \begin{array}{l}
- \ln 10   -  \ln( 7 -2 )   = \ln 2 \\  \ln 10   -  \ln( 5)   = \ln 2  \\
+\log_{2}((-4)^2  - 6\cdot -4)  =  3 +  \log_{2}(1 + 4) \\ \log 5  =  1  - \log(2)  \\
 \end{array}
 $$
 this one is okay 
-checking x = 5 
+checking x = 2 
 $$
 \begin{array}{l}
- \ln 10   -  \ln( 7 -5)   = \ln 5 \\  \ln 10   -  \ln( 2)    = \ln 5  \\
+\log -2  =  1  - \log(-2 -  3) \\ \log -2  =  1  - \log(-5) \\
 \end{array}
 $$
-this one is okay 
-in this cases both solution satisfy the condition  
+
+this one is not okay since the logarithm from  of the second term on the right side of the equal sign  is negative 
+in this case only the solution x =  5 satisfy the condition 
