@@ -33,6 +33,8 @@ $$
 $$
 \begin{array}{l}
 \log x   + \log (x  -1 )  =  \log (3x + 12)   \\
-\log (x  -1 ) 
+\log (x  -1 )x    =   \log (3x + 12)     \\
+x( x  -1 )  =  3x + 12   \\
+
 \end{array}
 $$
