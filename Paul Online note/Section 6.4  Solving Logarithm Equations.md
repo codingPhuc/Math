@@ -154,10 +154,11 @@ this one is okay
 checking x = -2 
 $$
 \begin{array}{l}
-\log 5  =  1  - \log(5- 3) \\ \log 5  =  1  - \log(2)  \\
+\log -2  =  1  - \log(-2 -  3) \\ \log -2  =  1  - \log(-5) \\
 \end{array}
 $$
-this one is okay 
+
+this one is not okay since the logarithm 
 in this cases both solution satisfy the condition  
 
 
