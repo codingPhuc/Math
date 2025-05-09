@@ -331,4 +331,36 @@ $$
 
 this one is okay  
 
-since both solution satisfy the condition that the log
+since both solution satisfy the condition that the logarithm form should not be negative , we take both the solution 
+
+
+
+
+
+
+
+$$
+\begin{array}{l}
+\log
+\end{array}
+
+$$
+checking  x = - 4
+$$
+\begin{array}{l}
+\log_{3}(25  -(-4)^2)  =  2    \\
+\log_{3}(9)   =2   
+\end{array}
+$$
+this on is okay 
+checking x = 4
+$$
+\begin{array}{l}
+\log_{3}(25  -(4)^2)  =  2    \\
+\log_{3}(9)   = 2   
+\end{array}
+$$
+
+this one is okay  
+
+since both solution satisfy the condition that the logarithm form should not be negative , we take both the solution 
