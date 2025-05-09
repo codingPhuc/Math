@@ -47,6 +47,10 @@ x =  2 \\
 $$
 
 
+
+
+
+
 $$
 \begin{array}{l}
 \ln 10  - \ln(7 - x ) =  \ln  x   \\
