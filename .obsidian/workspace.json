@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
+                "file": "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 2.6  Quadratic Equations - Part II"
+              "title": "Outline of Section 6.4  Solving Logarithm Equations"
             }
           }
         ],
@@ -274,10 +274,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08a49e2c33b5ac4c",
+  "active": "d187a9b5e7872778",
   "lastOpenFiles": [
-    "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
+    "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
     "Paul Online note/Polynomials.md",
     "Professor Leonard/6.2 Factoring Polynomials (a  =1).md",
