@@ -300,12 +300,12 @@ this one is okay
 $$
 \begin{array}{l}
 \log_{3}(25  -x^2)  =  2   \\
-\ln(x(x  + 3))  = \ln (20 -  5x)     \\
-x^2   +  3x  =  20 -  5x   \\
-x^2 + 8x  - 20  = 0   \\  
+\log_{3}(25  -x^2)  =  \log_{3}8  \\
+25  -x^2  =  8    \\
+x^2 + 17  = 0   \\  
 \left\{  \\
  \begin{array}{l} 
-x=  -10     \\
+x=  - s  \\
 x =  2 \\
 \end{array}
  \right.
