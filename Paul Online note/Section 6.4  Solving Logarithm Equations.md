@@ -95,7 +95,8 @@ $$
 \end{array}
 $$
 this one is okay 
-in this cases both so;
+in this cases both solution satisfy the result 
+
 
 
 
