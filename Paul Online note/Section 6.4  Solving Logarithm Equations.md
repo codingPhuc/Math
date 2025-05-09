@@ -57,7 +57,7 @@ $$
 \log -2   + \log (-2  -1 )  =  \log (3\cdot  -2   + 12)
 $$
 we don't need to go any further there is a negative number in the second terms 
-be careful with the thinking that we didn't take  -2  because it was a negative number , 
+be careful with the thinking that we didn't take  -2  because it was a negative number . We didn't take it because when plug into the equation it produce a negative log
 
 
 
