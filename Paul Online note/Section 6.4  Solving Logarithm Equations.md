@@ -237,7 +237,7 @@ checking x = 2
 $$
 \begin{array}{l}
 \log(6\cdot 2)  - \log(4 -2 )  = \log3     \\
-
+\log(12)  - \log(2 )  = \log3  
 \end{array}
 $$
 
