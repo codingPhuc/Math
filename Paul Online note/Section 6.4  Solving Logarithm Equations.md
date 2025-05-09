@@ -19,7 +19,7 @@ $$
 
 if we've got two logs in the problem ,  one on either side of the equal with both a coefficient  of one and the same base . Then we can drop the logarithms 
 ## Solve each of the following equations.  
-#fail 
+
 $$
 \begin{array}{l}
 2 \log_{9}{\sqrt{ x }   }  - \log_{9}{(6x  -1 )}  = 0    \\
@@ -45,6 +45,11 @@ x =  2 \\
  \right.
 \end{array}
 $$
+
+
+
+
+
 
 
 
