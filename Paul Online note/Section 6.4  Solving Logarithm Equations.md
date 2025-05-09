@@ -483,7 +483,8 @@ $$
 
 \log( x^2)  - \log(7x  - 1 )  = \log 1   \\
  \frac{x^2}{7x  -1 }   =  1   \\
- x^2 - 7x   +   1    = 
+ x^2 - 7x   +   1    = 0  \\
+
 \left\{  \\
  \begin{array}{l} 
 x=  -4 \\
