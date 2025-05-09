@@ -215,7 +215,8 @@ $$
 \begin{array}{l}  \\
 2^{3x }   = 10   \\
 \log {2^{3x } }  =   \log  10   \\
-
+3x    \log2=1  \\
+ 
 \end{array}
 $$
 
