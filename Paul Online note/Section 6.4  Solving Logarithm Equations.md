@@ -39,16 +39,18 @@ x( x  -1 )  =  3x + 12   \\
 x^2  -4x  -  12  =   0   \\
 \left\{  \\
  \begin{array}{l} 
-x=  -4   \\
-x =  2 \\
+x=  -6 \\
+x =  2\\
 \end{array}
  \right.
 \end{array}
 $$
 Now , we must check them in the original equation. 
+checking x  =  -6 
 $$
-\log 6  + \log (6 -1)  =  \log( 3  \cdot 5 )
+\log 6  + \log (6 -1)  =  \log( 3  \cdot 6   + 12 )   
 $$
+
 
 
 
