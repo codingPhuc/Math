@@ -382,15 +382,15 @@ $$
 \end{array}
 $$
 this on is okay 
-checking x = 4
+checking x = 2
 $$
 \begin{array}{l}
-\log_{4}(-x)   + \log_{4}(6-x ) =  2  \\
-\log_{4}(-x)   + \log_{4}(6-x ) =  2
+
+\log_{4}(-2)   + \log_{4}(6-2 ) =  2
 \end{array}
 $$
 
-this one is okay  
+this one is not okay since the logarithm from  of the first term on the left side of the equal sign  is negative 
 
 since both solution satisfy the condition that the logarithm form should not be negative , we take both the solution 
 
