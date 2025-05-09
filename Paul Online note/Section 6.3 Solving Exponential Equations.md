@@ -220,3 +220,13 @@ $$
 \end{array}
 $$
 
+
+
+
+
+$$
+\begin{array}{l}  \\
+7^{1- x}  =  4^{3x  + 1}  \\
+\log
+\end{array}
+$$
