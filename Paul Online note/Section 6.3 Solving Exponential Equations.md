@@ -275,6 +275,16 @@ $$
 \begin{array}{l}  \\
 e^{7+2x }   -  3  =  0  \\
 \ln e^{7+2x }       =  \ln 3   \\
-7  + 2x   =   \ln 3   
+7  + 2x   =   \ln 3    \\
+x  = −2.950693856 
+\end{array}
+$$
+
+
+
+$$
+\begin{array}{l}  \\
+e^{4 - 7x}  + 11  =  20   \\
+\ln e^{4 - 7x}   +  \ln  
 \end{array}
 $$
