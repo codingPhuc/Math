@@ -401,9 +401,9 @@ only the solution  x = -8 satisfy the solution
 $$
 \begin{array}{l}
 \log x  = 2   - \log(x  - 21 ) \\
-\log x  = \log 1  - \log(x  - 21 )  \\
--x (6-x)   =16   \\
- x^2  - 6x  -  16 =  0    \\
+\log x  = \log 100  - \log(x  - 21 )  \\
+x  =  \frac{100}{x  -21}  \\
+x^2   - 21x  - 100  = 0  \\
 \left\{  \\
  \begin{array}{l} 
 x=  -8  \\
