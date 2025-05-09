@@ -9,4 +9,4 @@ amount of time:
 learning score:
 ---
 
-In this section we will now take a look at solving logarithm equation , equation with logarithm in them .  in particular  , we will be looking at which term is a logarithm 
+In this section we will now take a look at solving logarithm equation , equation with logarithm in them .  in particular  , we will be looking at which term is a logarithm and we will also look at equation in that all but one term in the equation is a logarithm and the term without the logarithm  is a constant 
