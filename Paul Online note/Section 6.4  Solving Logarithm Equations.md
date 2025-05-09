@@ -201,22 +201,18 @@ x^2  -7x  + 12   = 0   \\
 \left\{  \\
  \begin{array}{l} 
 x=  -4   \\
-x =  2 \\
+x =  -3  \\
 \end{array}
  \right.
 \end{array}
-
 $$
 
 
 
 $$
 \begin{array}{l}
-\log_{2}(x^2  - 6x)  =  3 +  \log_{2}(1 - x)    \\
-\log_{2}(x^2  - 6x)  =  \log_{2}8 +  \log_{2}(1 - x)    \\
-  \log_{2}(x^2  - 6x)  =  \log_{2}(8\cdot  (1 - x) )   \\
-x^2  - 6x   =  8  -  8x    \\
-x^2 +  2x    - 8   =  0   \\
+\log(6x)  - \log(4 -x )  = \log3   \\
+\log\left( \frac{6x}{4-x} & \right) \\
 \left\{  \\
  \begin{array}{l} 
 x=  -4   \\
