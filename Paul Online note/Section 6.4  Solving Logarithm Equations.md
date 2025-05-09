@@ -237,13 +237,15 @@ x^2   +  3x  =  20 -  5x   \\
 x^2 + 8x  - 20  = 0   \\  
 \left\{  \\
  \begin{array}{l} 
-x=  -4   \\
+x=  -10     \\
 x =  2 \\
 \end{array}
  \right.
 \end{array}
 
 $$
+
+
 
 
 
