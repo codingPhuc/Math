@@ -21,5 +21,8 @@ if we've got two logs in the problem ,  one on either side of the equal with bot
 ## Solve each of the following equations.  
 $$
 \begin{array}{l}
-2 \log_{9}{\sqrt{ x }   }  - \log_{9} \\
-\end{arra
+2 \log_{9}{\sqrt{ x }   }  - \log_{9}{6x  -1 }  = 0    \\
+ \\
+\end{array}
+$$
+
