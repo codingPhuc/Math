@@ -26,14 +26,12 @@
             "id": "d187a9b5e7872778",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
-                "mode": "source",
-                "source": false
+                "file": "book/Precalculus Stewart 7th Edition.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Section 2.9  Equations Reducible to Quadratic in Form"
+              "icon": "lucide-file-text",
+              "title": "Precalculus Stewart 7th Edition"
             }
           },
           {
@@ -245,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
+                "file": "book/Precalculus Stewart 7th Edition.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 2.9  Equations Reducible to Quadratic in Form"
+              "title": "Outline of Precalculus Stewart 7th Edition"
             }
           }
         ],
@@ -270,11 +268,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "d187a9b5e7872778",
   "lastOpenFiles": [
+    "book/ECE.pdf",
+    "book/Give Me Liberty, Seventh Edition.pdf",
+    "book/Precalculus Stewart 7th Edition.pdf",
+    "Paul Online note/Complex Numbers.md",
+    "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
     "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
     "Paul Online note/Section 6.3 Solving Exponential Equations.md",
     "Paul Online note/Solutions and Solution Sets.md",
@@ -298,11 +302,6 @@
     "Paul Online note/Section 4.4 Hyperbolas.md",
     "Paul Online note/Section 4.1  Lines, Circles and Piecewise Functions.md",
     "Paul Online note/Section 2.15  Absolute Value Inequalities.md",
-    "Paul Online note/Section 3.1 Graphing.md",
-    "Paul Online note/Section 3.2  Lines.md",
-    "Paul Online note/Section 3.3  Circles.md",
-    "book/Give Me Liberty, Seventh Edition.pdf",
-    "book/ECE.pdf",
     "book/ECE.pdf.crdownload",
     "picture/Pasted image 20250423112902.png",
     "picture/Pasted image 20250423084429.png",
@@ -312,7 +311,6 @@
     "picture",
     "picture/Pasted image 20250417203642.png",
     "picture/Pasted image 20250417203328.png",
-    "book/Precalculus Stewart 7th Edition.pdf",
     "book/Precalculus Stewart 7th Edition.pdf.crdownload",
     "book",
     "New folder",
