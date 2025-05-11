@@ -243,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/Precalculus Stewart 7th Edition.pdf",
+                "file": "Paul Online note/Section 6.5  Applications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Precalculus Stewart 7th Edition"
+              "title": "Outline of Section 6.5  Applications"
             }
           }
         ],
@@ -272,10 +272,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08a49e2c33b5ac4c",
+  "active": "d187a9b5e7872778",
   "lastOpenFiles": [
-    "Paul Online note/Section 6.5  Applications.md",
     "book/Precalculus Stewart 7th Edition.pdf",
+    "Paul Online note/Section 6.5  Applications.md",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "book/ECE.pdf",
