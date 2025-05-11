@@ -54,13 +54,15 @@ $$
 4000 =   2500e^{0.12 \cdot t}   \\
 e^{0.12 \cdot t}  = 1.6  \\
 0.12 \cdot t =  \ln 1.6  \\
-t =  \frac{\ln{1.6}}{0.12}   = 
+t =  \frac{\ln{1.6}}{0.12}   = 3.917 
 \end{array}
-
-
 $$
 
 
 
-2. we compound interest 6 times a year.  
 
+
+2. we compound interest 6 times a year.  
+$$
+A  = P\left( 1  + \frac{}{m} \right)^{t \cdot m  }
+$$
