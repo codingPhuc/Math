@@ -124,7 +124,7 @@ where t is in years and Q0Q0 is the amount of Carbon 14 present at death and
 $$
 \begin{array}{l}
 Q   = Q_{0} e^{  −0.000124t}   \\
-Q   = Q_{0} e^{  −0.000124t}   \\
+Q   = 100 e^{  −0.000124\cdot 1000}   \\
 20  =  e^{0.195 \cdot  t }   \\
  0.195 \cdot  t    = \ln 20   \\
 t   = 15.3627\\
