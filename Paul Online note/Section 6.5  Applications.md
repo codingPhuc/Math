@@ -205,7 +205,7 @@ A = 12228
 $$
 
 $$
-A =   10000e^{0.055 \cdot 11/3} = A = 12228 
+A =   10000e^{0.055 \cdot 11/3} =  12234 
 $$
 
 
@@ -214,6 +214,12 @@ We are starting with $5000 and we’re going to put it into an account that earn
 1. quarterly
  2. monthly
  3. continuously
+
+
+A population of bacteria initially has 250 present and in 5 days there will be 1600 bacteria present.
+
+1. Determine the exponential growth equation for this population.
+2. How long will it take for the population to grow from its initial population of 250 to a population of 2000?
 
 
 
