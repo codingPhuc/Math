@@ -39,7 +39,7 @@ As pointed out in the first part of this example it is important to not round to
 $$
 \begin{array}{l} \\
 A = 100000 \left( 1 + \frac{0.075}{4}  \right)^{4 \cdot 4.5 }  \\
-= 100000 \cdot (1.019)^{18}   \\
+= 100000 \cdot (1.019[1.01875])^{18}   \\
  =  100000 (1.403)  \\
   = 140,300.00 
 \end{array}
