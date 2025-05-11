@@ -1,1 +1,1 @@
-in this final section of the chapter we will look a
+in this final section of the chapter we will look at applications of exponential and logarithm function 
