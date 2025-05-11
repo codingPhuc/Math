@@ -27,8 +27,11 @@ $$
 
 2. interest is compounded monthly.
 $$
-A  = 100,000\left( 1  + \frac{7.5}{4} \right)^{4.5 \cdot 4 }  = 139706.68  
+A  = 100,000\left( 1  + \frac{7.5}{4} \right)^{4.5 \cdot 4 }  = 1399996 
 $$
 3. interest is compounded continuously. 
 
 
+$$
+A  = 100,000\left( 1  + \frac{7.5}{infi} \right)^{4.5 \cdot 4 }  = 1399996 
+$$
