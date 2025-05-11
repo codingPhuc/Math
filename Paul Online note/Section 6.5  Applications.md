@@ -199,12 +199,14 @@ $$
 $$
 \begin{array}{l} \\
 A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  } \\
-A  = 10000\left( 1  + \frac{0.055}{4} \right)^{\frac{11}{3} \cdot 4 } \\
-A = 12217
+A  = 10000\left( 1  + \frac{0.055}{12} \right)^{\frac{11}{3} \cdot 12} \\
+A = 12228 
 \end{array}
 $$
 
-
+$$
+A =   10000e^{r \cdot t}
+$$
 
 
 We are starting with $5000 and we’re going to put it into an account that earns an annual interest rate of 12%. How long should we leave the money in the account in order to double our money if interest is compounded
