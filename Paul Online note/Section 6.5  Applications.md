@@ -275,6 +275,12 @@ $$
 
 2. How long will it take for the population to grow from its initial population of 250 to a population of 2000?
 
+$$
+\begin{in dsfdsf\}
+
+\end{in dsfdsf\}
+2000  = 250 e^{1/5 \ln(32/5)t} 
+$$
 
 We initially have 100 grams of a radioactive element and in 1250 years there will be 80 grams left.
 
