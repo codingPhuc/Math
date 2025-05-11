@@ -212,8 +212,19 @@ $$
 We are starting with $5000 and we’re going to put it into an account that earns an annual interest rate of 12%. How long should we leave the money in the account in order to double our money if interest is compounded
 
 1. quarterly
- 2. monthly
- 3. continuously
+
+$$
+\begin{array}{l} \\
+A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  } \\
+A  = 5000\left( 1  + \frac{0.12}{4} \right)^{0.12\cdot 4 } \\
+A = 12217
+\end{array}
+$$
+ 1. monthly
+ 2. continuously
+
+
+
 
 
 A population of bacteria initially has 250 present and in 5 days there will be 1600 bacteria present.
