@@ -64,11 +64,8 @@ $$
 
 2. we compound interest 6 times a year.  
 $$
-\begin{arra y}
-
-\end{arra y}
-
-
-
-4000  = 2500 \cdot \left( 1  + \frac{0.12}{6} \right)^{t \cdot 6  }
+\begin{array}{l}
+4000  = 2500 \cdot \left( 1  + \frac{0.12}{6} \right)^{t \cdot 6  }   \\
+\frac{8}{5}   =  \left( 1  + \frac{0.12}{6} \right)^{t \cdot 6  }  
+\end{array}
 $$
