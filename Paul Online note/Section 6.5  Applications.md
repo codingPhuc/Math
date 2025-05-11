@@ -304,5 +304,10 @@ $$
 
 2. How long will it take for half of the element to decay?
 
+$$
+\begin{in sdfsd}
 
-3. How long will it take until there is only 1 gram of the element left?
+\end{in sdfsd}
+50 = 100e^{\frac{1}{1250} \cdot \ln 0.8  \cdot  t} 
+$$
+2. How long will it take until there is only 1 gram of the element left?
