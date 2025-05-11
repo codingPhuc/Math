@@ -175,6 +175,7 @@ $$
 \begin{array}{l}
 5.9 = \frac{2}{3 } \log \left( \frac{E}{10^{4.4}} \right)  \\
 8.85  =  \log \left( \frac{E}{10^{4.4}} \right)    \\
-10^{8.85}   =  \frac{E}{10^4/}
+10^{8.85}   =  \frac{E}{10^{4.4}  }  \\
+E  =  
 \end{array}
 $$
