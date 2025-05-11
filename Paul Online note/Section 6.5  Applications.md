@@ -182,7 +182,7 @@ $$
 
 
 We have $10,000 to invest for 44 months. How much money will we have if we put the money into an account that has an annual interest rate of 5.5% and interest is compounded
-
+ 
 1. quarterly
  2. monthly
  3. continuously 
@@ -190,7 +190,7 @@ We have $10,000 to invest for 44 months. How much money will we have if we put t
 $$
 \begin{array}{l} \\
 A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  } \\
-A  = 10000\left( 1  + \frac{0.055}{\frac{11}{3}} \right)^{t \cdot \frac{11}{3} }
+A  = 10000\left( 1  + \frac{0.055}{\frac{11}{3}} \right)^{\frac{11}{3} \cdot 4 }
 \end{array}
 
 $$
