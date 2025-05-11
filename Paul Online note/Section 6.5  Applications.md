@@ -78,5 +78,6 @@ $$
 
 there are many qualities  out there in the world that is govern by the  by the equation 
 $$
-Q  =  Q_{0}e^{}
+Q  =  Q_{0}e^{k\cdot  t}
 $$
+where $Q_{0}$ is positive and is the amount initially present at $t=0$ and k is a non zero constant . If k is posit
