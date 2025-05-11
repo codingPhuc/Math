@@ -176,6 +176,33 @@ $$
 5.9 = \frac{2}{3 } \log \left( \frac{E}{10^{4.4}} \right)  \\
 8.85  =  \log \left( \frac{E}{10^{4.4}} \right)    \\
 10^{8.85}   =  \frac{E}{10^{4.4}  }  \\
-E  =  
+E  =  13.25 
 \end{array}
 $$
+
+
+We have $10,000 to invest for 44 months. How much money will we have if we put the money into an account that has an annual interest rate of 5.5% and interest is compounded
+
+1. quarterly
+ 2. monthly
+ 3. continuously 
+
+
+
+
+
+
+
+We are starting with $5000 and we’re going to put it into an account that earns an annual interest rate of 12%. How long should we leave the money in the account in order to double our money if interest is compounded
+
+1. quarterly
+ 2. monthly
+ 3. continuously
+
+
+
+We initially have 100 grams of a radioactive element and in 1250 years there will be 80 grams left.
+
+1. Determine the exponential decay equation for this element.
+2. How long will it take for half of the element to decay?
+3. How long will it take until there is only 1 gram of the element left?
