@@ -253,7 +253,7 @@ A population of bacteria initially has 250 present and in 5 days there will be 1
 $$
 \begin{array}{l}
  Q = Q_{0}e^{0.195 \cdot  t} \\
-     \\
+ \\
 \end{array}
 $$
 
