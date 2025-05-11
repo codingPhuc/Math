@@ -155,3 +155,13 @@ $$
 
 where  $E_{0}   =  10^{4\cdot 4}$ 
 If $8×10^{14}$ joules of energy is released during an earthquake what was the magnitude of the earthquake? 
+
+
+
+$$
+\begin{array}{l}
+M  = \frac{2}{3 } \log \left( \frac{E}{E_{0}} \right)  \\
+
+\end{array}
+$$
+
