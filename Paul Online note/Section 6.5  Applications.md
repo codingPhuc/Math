@@ -312,4 +312,13 @@ $$
  t   =  \frac{1250 \cdot \ln \frac{1}{2}}{\ln 0.8 }  
 \end{array}
 $$
-2. How long will it take until there is only 1 gram of the element left?
+2. How long will it take until there is only 1 gram of the element left? 
+
+$$
+\begin{array}{l}
+1 = 100e^{\frac{1}{1250} \cdot \ln 0.8  \cdot  t} \\
+\frac{1}{100}  =   e^{\frac{1}{1250} \cdot \ln 0.8  \cdot  t}   \\
+\ln \frac{1}{100}  =  \frac{1}{1250}  \ln 0.8  t   \\
+ t   =  \frac{1250 \cdot \ln \frac{1}{100}}{\ln 0.8 }  
+\end{array}
+$$
