@@ -125,10 +125,18 @@ $$
 \begin{array}{l}
 Q   = Q_{0} e^{  −0.000124t}   \\
 Q   = 100 e^{  −0.000124\cdot 1000}   \\
-20  =  e^{0.195 \cdot  t }   \\
- 0.195 \cdot  t    = \ln 20   \\
-t   = 15.3627\\
+Q   =  88.338 milligrams \\
+
 \end{array}
 $$
 
 2. How long will it take for half of the Carbon 14 to decay?
+
+$$
+\begin{array}{l}
+Q   = Q_{0} e^{  −0.000124t}   \\
+Q   = 100 e^{  −0.000124\cdot 1000}   \\
+Q   =  88.338 milligrams \\
+
+\end{array}
+$$
