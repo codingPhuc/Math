@@ -187,6 +187,13 @@ We have $10,000 to invest for 44 months. How much money will we have if we put t
  2. monthly
  3. continuously 
 
+$$
+\begin{array}{l} \\
+A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  }
+\end{array}
+
+$$
+
 
 
 
