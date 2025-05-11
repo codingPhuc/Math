@@ -121,4 +121,6 @@ $$
 where tt is in years and Q0Q0 is the amount of Carbon 14 present at death and for this example let’s assume that there will be 100 milligrams present at death.
 
 1. How much Carbon 14 will there be after 1000 years?
+
+
 2. How long will it take for half of the Carbon 14 to decay?
