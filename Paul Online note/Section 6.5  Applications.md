@@ -22,12 +22,13 @@ dollar after t years
 Example 1 We are going to invest $100,000 in an account that earns interest at a rate of 7.5% for 54 months. Determine how much money will be in the account if,
 1. interest is compounded quarterly.
 $$
-A  = 100\left( 1  + \frac{7.5}{4} \right)^{4.5 \cdot 4 }  = 
+A  = 100,000\left( 1  + \frac{7.5}{12} \right)^{4.5 \cdot 12}  = 139706.68 
 $$
 
 2. interest is compounded monthly.
-
-
+$$
+A  = 100,000\left( 1  + \frac{7.5}{4} \right)^{4.5 \cdot 4 }  = 139706.68  
+$$
 3. interest is compounded continuously. 
 
 
