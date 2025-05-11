@@ -97,10 +97,16 @@ $$If there are initially 500 bacteria present and t is given in hours determine
 $$
 \begin{array}{l}
  Q = Q_{0}e^{0.195 \cdot  t}      \\
-Q = 500e^{0.195 \cdot  12 }   \\
-   
+Q = 500e^{0.195 \cdot  12 }  =  5190.61  \\
 \end{array}
- 
 $$
 
 2. How long will it take before there are 10000 bacteria in the colony?
+
+$$
+\begin{array}{l}
+ Q = Q_{0}e^{0.195 \cdot  t}      \\
+10000 = 500e^{0.195 \cdot  t }   \\
+ \\
+\end{array}
+$$
