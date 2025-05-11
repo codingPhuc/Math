@@ -104,14 +104,12 @@
             "id": "08a49e2c33b5ac4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
-                "mode": "source",
-                "source": false
+                "file": "book/Precalculus Stewart 7th Edition.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Section 2.6  Quadratic Equations - Part II"
+              "icon": "lucide-file-text",
+              "title": "Precalculus Stewart 7th Edition"
             }
           }
         ]
@@ -245,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 6.5  Applications.md",
+                "file": "book/Precalculus Stewart 7th Edition.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 6.5  Applications"
+              "title": "Outline of Precalculus Stewart 7th Edition"
             }
           }
         ],
@@ -274,7 +272,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d187a9b5e7872778",
+  "active": "08a49e2c33b5ac4c",
   "lastOpenFiles": [
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Paul Online note/Section 6.5  Applications.md",
