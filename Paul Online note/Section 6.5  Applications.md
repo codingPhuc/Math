@@ -50,7 +50,12 @@ due to the continuous cutting off of decimal the value is off by 593.31 . As a r
 We are going to put $2500 into an account that earns interest at a rate of 12%. If we want to have $4000 in the account when we close it how long should we keep the money in the account if,
 1. we compound interest continuously.
 $$
-A =   2500e^{0.12 \cdot t} 
+\begin{array}{l} \\
+4000 =   2500e^{0.12 \cdot t}   \\
+
+\end{array}
+
+
 $$
 
 
