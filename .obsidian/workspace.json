@@ -26,12 +26,14 @@
             "id": "d187a9b5e7872778",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "book/Precalculus Stewart 7th Edition.pdf"
+                "file": "Paul Online note/Section 6.5  Applications.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Precalculus Stewart 7th Edition"
+              "icon": "lucide-file",
+              "title": "Section 6.5  Applications"
             }
           },
           {
@@ -243,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/Precalculus Stewart 7th Edition.pdf",
+                "file": "Paul Online note/Section 6.5  Applications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Precalculus Stewart 7th Edition"
+              "title": "Outline of Section 6.5  Applications"
             }
           }
         ],
@@ -274,14 +276,14 @@
   },
   "active": "d187a9b5e7872778",
   "lastOpenFiles": [
+    "Paul Online note/Solutions and Solution Sets.md",
+    "book/Precalculus Stewart 7th Edition.pdf",
     "book/ECE.pdf",
     "book/Give Me Liberty, Seventh Edition.pdf",
-    "book/Precalculus Stewart 7th Edition.pdf",
     "Paul Online note/Complex Numbers.md",
     "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
     "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
     "Paul Online note/Section 6.3 Solving Exponential Equations.md",
-    "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Paul Online note/Section 2.5  Quadratic Equations - Part I.md",
     "Paul Online note/Polynomials.md",
