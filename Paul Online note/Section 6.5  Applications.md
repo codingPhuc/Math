@@ -19,3 +19,9 @@ $$
 dollar after t years  
 
 
+Example 1 We are going to invest $100,000 in an account that earns interest at a rate of 7.5% for 54 months. Determine how much money will be in the account if,
+1. interest is compounded quarterly.
+2. interest is compounded monthly.
+3. interest is compounded continuously. 
+
+
