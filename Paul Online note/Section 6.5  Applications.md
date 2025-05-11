@@ -91,4 +91,15 @@ $$
 
 \end{array}
  
+$$If there are initially 500 bacteria present and t is given in hours determine each of the following.
+
+1. How many bacteria are there after a half of a day?
 $$
+\begin{array}{l}
+ Q = Q_{0}e^{0.195 \cdot  t}      \\
+
+\end{array}
+ 
+$$
+
+2. How long will it take before there are 10000 bacteria in the colony?
