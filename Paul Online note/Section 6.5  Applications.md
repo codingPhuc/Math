@@ -44,6 +44,6 @@ A = 100000 \left( 1 + \frac{0.075}{4}  \right)^{4 \cdot 4.5 }  \\
   = 140,300.00 
 \end{array}
 $$
-due to the continuos 
+due to the continuous cutting off of decimal the value is off by 593.31 . As a result , as a general  rules of thumb do not
 
 
