@@ -11,4 +11,11 @@ $$
 A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  }
 $$
 
-dollars after t ye
+dollars after t year 
+2. if interest i compound continuously then  we will have 
+$$
+A =   Pe^{r \cdot t}
+$$
+dollar after t years  
+
+
