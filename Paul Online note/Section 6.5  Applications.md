@@ -35,3 +35,9 @@ $$
 $$
 A =  100000 \cdot e^{0.075 \cdot 4.5}   = 140143   
 $$
+As pointed out in the first part of this example it is important to not round too much before the final answer 
+$$
+\begin{array}{l} \\
+A = 100000 \left( 1 + \frac{0.075}{4}  \right)^{}
+\end{array}
+$$
