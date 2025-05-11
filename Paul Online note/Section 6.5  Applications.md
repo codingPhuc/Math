@@ -33,5 +33,5 @@ $$
 
 
 $$
-A  = 100,000\left( 1  + \frac{7.5}{infi} \right)^{4.5 \cdot 4 }  = 1399996 
+A  = 100,000\left( 1  + \frac{7.5}{\infty  } \right)^{4.5 \cdot \infty }  = \infty
 $$
