@@ -263,7 +263,9 @@ A population of bacteria initially has 250 present and in 5 days there will be 1
 1. Determine the exponential growth equation for this population.
 $$
 \begin{array}{l}
- Q = Q_{0}e^{0.195 \cdot  t} \\
+ 1600 = 250 e^{t \cdot  5}     \\
+6.4  =  \\
+
 \end{array}
 $$
 2. How long will it take for the population to grow from its initial population of 250 to a population of 2000?
