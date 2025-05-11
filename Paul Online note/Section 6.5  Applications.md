@@ -287,11 +287,9 @@ $$
 We initially have 100 grams of a radioactive element and in 1250 years there will be 80 grams left.
 
 1. Determine the exponential decay equation for this element. 
-
-
 $$
 \begin{array}{l}
- 2000  = 250 e^{1/5 \ln(32/5)t}   \\
+ Q  =  Q_{0}e^{k\cdot  t}  \\
 8  = e^{1/5 \ln(32/5)t}        \\
 \ln8 =  \frac{1}{5} \ln \frac{32}{5}  t  \\
 t = \frac{5 \ln8}{\ln \frac{32}{5}}  = 5.6010\\
