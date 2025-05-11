@@ -154,4 +154,4 @@ $$
 $$
 
 where  $E_{0}   =  10^{4\cdot 4}$ 
-If $8×10^14$ joules of energy is released during an earthquake what was the magnitude of the earthquake?
+If $8×10^{14}$ joules of energy is released during an earthquake what was the magnitude of the earthquake? 
