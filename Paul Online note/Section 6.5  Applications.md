@@ -85,3 +85,10 @@ where $Q_{0}$ is positive and is the amount initially present at $t=0$ and k is 
 Short term population growth is often modeled by the exponential growth equation and the decay of a radioactive element is governed the exponential decay equation.
 
 The growth of a colony of bacteria is given by the equation,
+$$
+\begin{array}{l}
+ Q = Q_{0}e^{0.195 \cdot  t}     \\
+
+\end{array}
+ 
+$$
