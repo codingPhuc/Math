@@ -190,13 +190,19 @@ We have $10,000 to invest for 44 months. How much money will we have if we put t
 $$
 \begin{array}{l} \\
 A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  } \\
-A  = 10000\left( 1  + \frac{0.055}{\frac{11}{3}} \right)^{\frac{11}{3} \cdot 4 }
+A  = 10000\left( 1  + \frac{0.055}{4} \right)^{\frac{11}{3} \cdot 4 } \\
+A = 12217
 \end{array}
-
 $$
 
 
-
+$$
+\begin{array}{l} \\
+A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  } \\
+A  = 10000\left( 1  + \frac{0.055}{4} \right)^{\frac{11}{3} \cdot 4 } \\
+A = 12217
+\end{array}
+$$
 
 
 
