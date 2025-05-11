@@ -292,8 +292,13 @@ $$
  80  =  100e^{k\cdot  1250}  \\
 \frac{4}{5}  = e^{k\cdot  1250}       \\
 \ln 0.8 = k\cdot  1250  \\
-k  = \frac{2}{3125}\\
+k  = \frac{1}{1250} \cdot \ln 0.8 =  \frac{2}{3125}\\
 \end{array}
+$$
+
+putting it all together the exponential growth  of this equation is :
+$$
+Q  = 250 e^{1/5 \ln(32/5)t}
 $$
 
 
