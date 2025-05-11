@@ -97,7 +97,8 @@ $$If there are initially 500 bacteria present and t is given in hours determine
 $$
 \begin{array}{l}
  Q = Q_{0}e^{0.195 \cdot  t}      \\
-
+Q = 500e^{0.195 \cdot  12 }   \\
+   
 \end{array}
  
 $$
