@@ -46,5 +46,7 @@ A = 100000 \left( 1 + \frac{0.075}{4}  \right)^{4 \cdot 4.5 }  \\
 $$
 due to the continuous cutting off of decimal the value is off by 593.31 . As a result , as a general  rules of thumb do not cut of decimal number until the final point 
 
+##  Let’s now look at a different kind of example with compounding interest.  
 
+We are doing to 
 
