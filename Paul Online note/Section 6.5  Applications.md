@@ -289,7 +289,7 @@ We initially have 100 grams of a radioactive element and in 1250 years there wil
 1. Determine the exponential decay equation for this element. 
 $$
 \begin{array}{l}
- Q  =  Q_{0}e^{k\cdot  t}  \\
+ Q  =  100e^{k\cdot  1250}  \\
 8  = e^{1/5 \ln(32/5)t}        \\
 \ln8 =  \frac{1}{5} \ln \frac{32}{5}  t  \\
 t = \frac{5 \ln8}{\ln \frac{32}{5}}  = 5.6010\\
