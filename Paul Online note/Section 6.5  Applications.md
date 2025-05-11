@@ -76,3 +76,7 @@ $$
 
 ## Exponential  Growth and decay  
 
+there are many qualities  out there in the world that is govern by the  by the equation 
+$$
+Q  =  Q_{0}e^{}
+$$
