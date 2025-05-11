@@ -216,7 +216,8 @@ We are starting with $5000 and we’re going to put it into an account that earn
 $$
 \begin{array}{l} \\
 A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  } \\
-A  = 5000\left( 1  + \frac{0.12}{4} \right)^{0.12\cdot 4 } \\
+10000  = 5000\left( 1  + \frac{0.12}{4} \right)^{t\cdot 4 }  \\
+2 = \left( 1  + \frac{0.12}{4} \right)^{t\cdot 4 }    \\
 A = 12217
 \end{array}
 $$
