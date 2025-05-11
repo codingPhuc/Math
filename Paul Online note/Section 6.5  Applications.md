@@ -265,10 +265,12 @@ $$
 \begin{array}{l}
  1600 = 250 e^{t \cdot  5}     \\
 6.4  = e^{t \cdot  5}      \\
-t =  0.37125 \\
+t =  0.3712596 \\
 \end{array}
 $$
-2. How long will it take for the population to grow from its initial population of 250 to a population of 2000?
+
+putting it all to
+1. How long will it take for the population to grow from its initial population of 250 to a population of 2000?
 
 
 We initially have 100 grams of a radioactive element and in 1250 years there will be 80 grams left.
