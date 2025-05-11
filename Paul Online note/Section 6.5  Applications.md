@@ -64,5 +64,11 @@ $$
 
 2. we compound interest 6 times a year.  
 $$
-A  = P\left( 1  + \frac{}{m} \right)^{t \cdot m  }
+\begin{arra y}
+
+\end{arra y}
+
+
+
+4000  = 2500 \cdot \left( 1  + \frac{0.12}{6} \right)^{t \cdot 6  }
 $$
