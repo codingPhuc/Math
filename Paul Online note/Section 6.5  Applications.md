@@ -218,6 +218,8 @@ $$
 A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  } \\
 10000  = 5000\left( 1  + \frac{0.12}{4} \right)^{t\cdot 4 }  \\
 2 = \left( 1  + \frac{0.12}{4} \right)^{t\cdot 4 }    \\
+\log_{1.03} 2   = 4t  \\
+t =  \\
 A = 12217
 \end{array}
 $$
