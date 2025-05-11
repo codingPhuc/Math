@@ -1,3 +1,16 @@
+---
+title: Adjunction
+references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
+tags:
+  - In_Progress
+learning method: Vault + Read + Recall + Practice  (VRRP Method)
+Current date: 2025-05-10
+amount of time: 2h30
+learning score:
+---
+
+
+
 in this final section of the chapter we will look at applications of exponential and logarithm function 
 
 ## Compound Interest 
@@ -248,14 +261,13 @@ $$
 A population of bacteria initially has 250 present and in 5 days there will be 1600 bacteria present.
 
 1. Determine the exponential growth equation for this population.
-2. How long will it take for the population to grow from its initial population of 250 to a population of 2000?
-
 $$
 \begin{array}{l}
  Q = Q_{0}e^{0.195 \cdot  t} \\
- \\
 \end{array}
 $$
+2. How long will it take for the population to grow from its initial population of 250 to a population of 2000?
+
 
 We initially have 100 grams of a radioactive element and in 1250 years there will be 80 grams left.
 
