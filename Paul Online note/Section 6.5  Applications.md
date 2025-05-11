@@ -236,18 +236,16 @@ A = 12217
 $$
  2. continuously
 
-
 $$
 \begin{array}{l} \\
-A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  } \\
-10000  = 5000\left( 1  + \frac{0.12}{4} \right)^{t\cdot 4 }  \\
-2 = \left( 1  + \frac{0.12}{4} \right)^{t\cdot 4 }    \\
-\log_{1.03} 2   = 4t  \\
-t = 5.86 \\
+A =   10000e^{0.055 \cdot 11/3}  \\
+10000  = 5000\left( 1  + \frac{0.12}{12} \right)^{t\cdot 12 }  \\
+2 = \left( 1  + \frac{0.12}{12} \right)^{t\cdot 12 }    \\
+\log_{1.01} 2   = 12t  \\
+t = 5.80 \\
 A = 12217
 \end{array}
 $$
-
 
 A population of bacteria initially has 250 present and in 5 days there will be 1600 bacteria present.
 
