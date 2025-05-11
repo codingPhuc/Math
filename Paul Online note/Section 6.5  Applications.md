@@ -189,7 +189,8 @@ We have $10,000 to invest for 44 months. How much money will we have if we put t
 
 $$
 \begin{array}{l} \\
-A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  }
+A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  } \\
+A  = 10000\left( 1  + \frac{\frac{11}{3}}{m} \right)^{t \cdot m  }
 \end{array}
 
 $$
@@ -212,4 +213,4 @@ We initially have 100 grams of a radioactive element and in 1250 years there wil
 
 1. Determine the exponential decay equation for this element.
 2. How long will it take for half of the element to decay?
-3. How long will it take until there is only 1 gram of the element left?
+3. How long will it take until there is only 1 gram of the el
