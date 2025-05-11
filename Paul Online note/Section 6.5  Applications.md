@@ -150,5 +150,8 @@ If EE is the energy released, measured in joules, during an earthquake then th
 
 
 $$
- M  = \frac{2}{3 } \log ()
+ M  = \frac{2}{3 } \log \left( \frac{E}{E_{0}} \right)
 $$
+
+where  $E_{0}   =  10^{4\cdot 4}$ 
+If $8×10^14$ joules of energy is released during an earthquake what was the magnitude of the earthquake?
