@@ -298,7 +298,7 @@ $$
 
 putting it all together the exponential growth  of this equation is :
 $$
-Q  = 250 e^{1/5 \ln(32/5)t}
+Q  = 100e^{\frac{1}{1250} \cdot \ln 0.8  \cdot  t} 
 $$
 
 
