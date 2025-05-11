@@ -264,8 +264,8 @@ A population of bacteria initially has 250 present and in 5 days there will be 1
 $$
 \begin{array}{l}
  1600 = 250 e^{t \cdot  5}     \\
-6.4  =  \\
-
+6.4  = e^{t \cdot  5}      \\
+t =  0.37125 \\
 \end{array}
 $$
 2. How long will it take for the population to grow from its initial population of 250 to a population of 2000?
