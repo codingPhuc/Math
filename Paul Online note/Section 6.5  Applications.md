@@ -160,7 +160,7 @@ If $8×10^{14}$ joules of energy is released during an earthquake what was the 
 
 $$
 \begin{array}{l}
-M  = \frac{2}{3 } \log \left( \frac{E}{E_{0}} \right)  \\
+M  = \frac{2}{3 } \log \left( \frac{8\cdot  10^{14}}{10^{4.4}} \right)  \\
 
 \end{array}
 $$
