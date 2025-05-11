@@ -137,7 +137,18 @@ $$
  50   = 100 e^{  −0.000124t}    \\
  50   = 100 e^{  −0.000124t}   \\
 e^{  −0.000124t}   = \frac{1}{2  }  \\
-−0.000124t   =  \ln(\frac{1}{2  } )  \ \
-t =  
+−0.000124t   =  \ln(\frac{1}{2  } )  \\
+t =  5589.89661742
 \end{array}
+$$
+
+
+## Earthquake  Intensity  
+The **Richter scale** is commonly used to measure the intensity of an earthquake. There are many different ways of computing this based on a variety of different quantities. We are going to take a quick look at the formula that uses the energy released during an earthquake.
+
+If EE is the energy released, measured in joules, during an earthquake then the magnitude of the earthquake is given by, 
+
+
+$$
+ M  = \frac{2}{3 } \log ()
 $$
