@@ -229,8 +229,8 @@ $$
 A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  } \\
 10000  = 5000\left( 1  + \frac{0.12}{12} \right)^{t\cdot 12 }  \\
 2 = \left( 1  + \frac{0.12}{12} \right)^{t\cdot 12 }    \\
-\log_{1.03} 2   = 4t  \\
-t = 5.86 \\
+\log_{1.01} 2   = 12t  \\
+t = 5.80 \\
 A = 12217
 \end{array}
 $$
