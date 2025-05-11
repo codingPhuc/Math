@@ -107,6 +107,8 @@ $$
 \begin{array}{l}
  Q = Q_{0}e^{0.195 \cdot  t}      \\
 10000 = 500e^{0.195 \cdot  t }   \\
- \\
+20  =  e^{0.195 \cdot  t }   \\
+ 0.195 \cdot  t    = \ln 20   \\
+t   = 15.36\\
 \end{array}
 $$
