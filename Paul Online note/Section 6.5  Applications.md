@@ -52,6 +52,8 @@ We are going to put $2500 into an account that earns interest at a rate of 12%. 
 $$
 \begin{array}{l} \\
 4000 =   2500e^{0.12 \cdot t}   \\
+e^{0.12 \cdot t}  = 1.6  \\
+0.12 \cdot t =  \ln 1.6  \\
 
 \end{array}
 
