@@ -268,9 +268,12 @@ $$
 t =  0.3712596 \\
 \end{array}
 $$
+putting it all together the exponential growth  of this equation is :
+$$
+Q  = 250 e^{1/5 \ln(32/5)t}
+$$
 
-putting it all to
-1. How long will it take for the population to grow from its initial population of 250 to a population of 2000?
+2. How long will it take for the population to grow from its initial population of 250 to a population of 2000?
 
 
 We initially have 100 grams of a radioactive element and in 1250 years there will be 80 grams left.
