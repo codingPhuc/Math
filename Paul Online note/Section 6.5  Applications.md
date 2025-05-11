@@ -80,4 +80,4 @@ there are many qualities  out there in the world that is govern by the  by the e
 $$
 Q  =  Q_{0}e^{k\cdot  t}
 $$
-where $Q_{0}$ is positive and is the amount initially present at $t=0$ and k is a non zero constant . If k is posit
+where $Q_{0}$ is positive and is the amount initially present at $t=0$ and k is a non zero constant . If k is positive then the equation will grow without bound and will be called the $exponential\; growth$ equation . Likewise , if k is negative than the eq
