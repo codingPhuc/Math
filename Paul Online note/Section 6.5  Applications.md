@@ -161,7 +161,20 @@ If $8×10^{14}$ joules of energy is released during an earthquake what was the 
 $$
 \begin{array}{l}
 M  = \frac{2}{3 } \log \left( \frac{8\cdot  10^{14}}{10^{4.4}} \right)  \\
-
+=   
+7.002
 \end{array}
 $$
 
+
+
+ How much energy will be released in an earthquake with a magnitude of 5.9?
+
+
+$$
+\begin{array}{l}
+5.9 = \frac{2}{3 } \log \left( \frac{8\cdot  10^{14}}{10^{4.4}} \right)  \\
+=   
+7.002
+\end{array}
+$$
