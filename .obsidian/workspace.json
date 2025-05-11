@@ -101,15 +101,13 @@
         "dimension": 43.887147335423194,
         "children": [
           {
-            "id": "08a49e2c33b5ac4c",
+            "id": "bb0801bfb71bc866",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "book/Precalculus Stewart 7th Edition.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Precalculus Stewart 7th Edition"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -243,13 +241,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 6.5  Applications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 6.5  Applications"
+              "title": "Outline"
             }
           }
         ],
@@ -268,14 +265,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "d187a9b5e7872778",
+  "active": "bb0801bfb71bc866",
   "lastOpenFiles": [
-    "book/Precalculus Stewart 7th Edition.pdf",
     "Paul Online note/Section 6.5  Applications.md",
+    "book/Precalculus Stewart 7th Edition.pdf",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "book/ECE.pdf",
