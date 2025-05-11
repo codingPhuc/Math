@@ -279,7 +279,8 @@ $$
 \begin{array}{l}
  2000  = 250 e^{1/5 \ln(32/5)t}   \\
 8  = e^{1/5 \ln(32/5)t}        \\
-\ln8 =  \frac{1}{} \\
+\ln8 =  \frac{1}{5} \ln \frac{32}{5}  t  \\
+t = \frac{5 \ln8}{\ln \frac{32}{5}}\\
 \end{array}
 $$
 
