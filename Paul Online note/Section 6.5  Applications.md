@@ -50,11 +50,10 @@ due to the continuous cutting off of decimal the value is off by 593.31 . As a r
 We are going to put $2500 into an account that earns interest at a rate of 12%. If we want to have $4000 in the account when we close it how long should we keep the money in the account if,
 1. we compound interest continuously.
 $$
-A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  }
+A =   Pe^{r \cdot t} 
 $$
+
+
 
 2. we compound interest 6 times a year.  
 
-$$
-A  = P\left( 1  + \frac{r}{m} \right)^{t \cdot m  }
-$$
