@@ -68,6 +68,11 @@ $$
 4000  = 2500 \cdot \left( 1  + \frac{0.12}{6} \right)^{t \cdot 6  }   \\
 \frac{8}{5}   =  \left( 1  + \frac{0.12}{6} \right)^{t \cdot 6  }   \\
 \log_{\frac{51}{50} } \frac{8}{5}  =   t\cdot 6   \\
-t =  \frac{\left( \log_{\frac{51}{50} } \frac{8}{5} \right)}{6} 
+t =  \frac{\left( \log_{\frac{51}{50} } \frac{8}{5} \right)}{6}   \\
+= 3.956  
 \end{array}
 $$
+
+
+## Exponential  Growth and decay  
+
