@@ -119,7 +119,7 @@ y =  \frac{1  -5x }{4}   \\
 \end{array} \right. \\ 
 \left\{ \begin{array}{l} 
 y =  \frac{5x -1}{4}   \\
-6x     -3  ( 1  -5x ) =4  
+6x     -3  ( 1  -5x ) -3  +  15x  =4  
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
 y =  -4   \\
