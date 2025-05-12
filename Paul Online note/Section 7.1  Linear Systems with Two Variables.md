@@ -289,12 +289,12 @@ We're now seen all three possible solution for a system of equation .A system of
 $$
 \begin{array}{l} \\
 \left\{ \begin{array}{l}
-2x +  5 y  = -1   \\
--10x  - 25y =  5  
+x - 7y = -11   \\
+5x + 2y =  -18  
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-y =  \frac{-1  -2x}{5}  \\
--10x  - 25 (\frac{-1  -2x}{5}  )   =   5 
+x  =  \frac{x+ 11}{7} \\
+
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
 y =  \frac{-1  -2x}{5}  \\
