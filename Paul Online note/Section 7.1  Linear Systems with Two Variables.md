@@ -278,4 +278,4 @@ y =  -\frac{2}{5} t   - \frac{1}{5}
 \end{array}
 $$
 System such as those in the pervious example are called dependent 
-We're now seen all three possible solution for a system of equation .A system of equaiton 
+We're now seen all three possible solution for a system of equation .A system of equation  will either have one , none or infinite 
