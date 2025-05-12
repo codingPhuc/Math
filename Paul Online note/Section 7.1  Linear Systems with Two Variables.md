@@ -317,7 +317,7 @@ $$
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
 7x - 8y =  -12   \\
--4x + 2 y = 3 
+y  =  \frac{3+ 4x}{2}
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
 y   =  \frac{x+ 11}{7} \\
