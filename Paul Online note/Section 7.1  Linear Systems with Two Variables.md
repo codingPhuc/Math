@@ -163,12 +163,12 @@ Solve the following system of equations
 $$ 
 \begin{array}{l} \\  
 \left\{ \begin{array}{l}
-2x + 4 y =  -10     \\
-6x +  3 y =  6 
+x - y = 6  \\
+-2x  +  2y  =1  
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-2x + 4 (2 -2x) =  -10\\  
-2 -2x    = y 
+x = 6+ y    \\
+-2x +  2
 \end{array} \right. \\ 
 \left\{ \begin{array}{l} 
 -6x  =  -18\\  
