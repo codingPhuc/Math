@@ -171,12 +171,9 @@ x = 6+ y     \\
    -12   -2y  + 2 y  = 1 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l} 
--6x  =  -18\\  
-2 -2x    = y 
+x = 6+ y     \\
+   -12  + 0 = 1  ?? 
 \end{array} \right.  \\
-\left\{ \begin{array}{l}
-y =  -4   \\
-x  = 3 
-\end{array} \right. \\
+
 \end{array}
 $$
