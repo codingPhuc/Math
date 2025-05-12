@@ -270,4 +270,11 @@ since the second equation  equal to it self 5, we concluded that there are a inf
 
 
 ``` 
-so there are infinite solution  number of possi
+so there are infinite solution  number of possible t there must be an **infinite number of solutions** to this system and they are given by 
+$$
+\begin{array}{l} \\
+x = t  \\
+y =  -\frac{2}{5} t   - \frac{1}{5}
+\end{array}
+$$
+System suc
