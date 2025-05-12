@@ -167,8 +167,8 @@ x - y = 6  \\
 -2x  +  2y  =1  
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-x = 6+ y    \\
--2x +  2
+x = 6+ y     \\
+   -12   -2y  + 2 y  = 1 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l} 
 -6x  =  -18\\  
