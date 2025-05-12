@@ -108,12 +108,12 @@ $$
 $$ 
 \begin{array}{l} \\  
 \left\{ \begin{array}{l}
-2x + 4 y =  -19    \\
+2x + 4 y =  -10     \\
 6x +  3 y =  6 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
 y  =  3x   - 7 \\
- 2x  + 3(3x   - 7)  = 1  
+\frac{6  - 6x}{3}   = y 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
 y  =  3x   - 7 \\
