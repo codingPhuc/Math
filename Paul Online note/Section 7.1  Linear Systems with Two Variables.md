@@ -216,3 +216,13 @@ it appears that these two lines are parallel (can you verify that with the slope
 As saw in the opening discussion solution represent the point where two lines cross . If two line don't intersect we can't have a solution 
 
 The system in the previous example is called **inconsistent** 
+
+$$
+\begin{array}{l} \\
+\left\{ \begin{array}{l}
+x - y = 6  \\
+-2x  +  2y  =1  
+\end{array} \right. \\ 
+
+\end{array}
+$$
