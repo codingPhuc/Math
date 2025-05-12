@@ -38,4 +38,4 @@ $$
 $$
 So , sure enough a pairs of number is a solution to the system . Do not worry about how we got these values . This will be the very first system that we solve when we get into the example 
 
-For reference , it is very important for the pairs of number to satisfy the equation. For instance , $x=1$ and $y$
+For reference , it is very important for the pairs of number to satisfy the equation. For instance , $x=1$ and $y=-4$ will satisfy the first equation , but not the second so it is not a solution to the system. Likewise,  x =-1 and y = 1 will satisfy the second equation but not the first and so can't ne
