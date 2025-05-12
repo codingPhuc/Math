@@ -213,3 +213,4 @@ $$
 
 ``` 
 it appears that these two lines are parallel (can you verify that with the slopes) and we know that parallel line with different y-intercepts( that's important) will never cross 
+As saw in the opening discussion solution represent the point where two lines cross . If two line don't intersect we can't have a soluti
