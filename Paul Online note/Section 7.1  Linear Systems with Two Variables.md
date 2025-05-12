@@ -78,4 +78,4 @@ the solution to the two system is where the two line will intersect . So , when 
 
 We will be looking at two method for solving this equation 
 
-The fris
+The first method is called **method of substitution** . In this method we will solve one e
