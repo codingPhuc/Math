@@ -110,12 +110,12 @@ The first method is called **method of substitution** . In this method we will s
 $$ 
 \begin{array}{l} \\  
 \left\{ \begin{array}{l}
-2x + 4 y =  -10     \\
-6x +  3 y =  6 
+5x +  4y  = 1       \\
+3x  -  6y  = 2 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
 2x + 4 (2 -2x) =  -10\\  
-2 -2x    = y 
+y =  
 \end{array} \right. \\ 
 \left\{ \begin{array}{l} 
 -6x  =  -18\\  
