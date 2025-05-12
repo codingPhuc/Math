@@ -284,6 +284,8 @@ We're now seen all three possible solution for a system of equation .A system of
 
 # #Practice_Exercise  
 
+
+## use the Method of Substitution to find the solution to the given system or to determine if the system is inconsistent or dependent. 
 $$
 \begin{array}{l} \\
 \left\{ \begin{array}{l}
@@ -304,3 +306,8 @@ y =  \frac{-1  -2x}{5}  \\
 \end{array} \right.
 \end{array}
 $$
+
+
+## use the Method of Elimination to find the solution to the given system or to determine if the system is inconsistent or dependent.
+
+1. 
