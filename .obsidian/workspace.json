@@ -106,12 +106,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Untitled.md",
+                "file": "Paul Online note/Section 5.3  Graphing Polynomials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Section 5.3  Graphing Polynomials"
             }
           }
         ]
@@ -276,9 +276,11 @@
   },
   "active": "d187a9b5e7872778",
   "lastOpenFiles": [
-    "Paul Online note/Section 6.5  Applications.md",
-    "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",
+    "Paul Online note/Section 5.3  Graphing Polynomials.md",
+    "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/Untitled.md",
+    "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",
+    "Paul Online note/Section 6.5  Applications.md",
     "book/Precalculus Stewart 7th Edition.pdf",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Paul Online note/Solutions and Solution Sets.md",
@@ -293,7 +295,6 @@
     "Professor Leonard/6.2 Factoring Polynomials (a  =1).md",
     "Paul Online note/Section 5.5   Partial Fractions.md",
     "Paul Online note/Section 5.4  Finding Zeroes of Polynomials.md",
-    "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "Paul Online note/Section 4.8  Rational Functions.md",
     "Paul Online note/Section 4.7  Symmetry.md",
@@ -301,7 +302,6 @@
     "Paul Online note/Section 4.2  Parabolas.md",
     "Paul Online note/Section 3.7  Inverse Functions.md",
     "Paul Online note/Section 3.6  Combining Functions.md",
-    "Paul Online note/Section 5.3  Graphing Polynomials.md",
     "Paul Online note/Section 6.2 Logarithm Functions.md",
     "Paul Online note/Section 4.6  Transformations.md",
     "Paul Online note/Section 4.4 Hyperbolas.md",
