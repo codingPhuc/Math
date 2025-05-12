@@ -155,3 +155,4 @@ $$
 
 
 
+There is a third method that we'll  be looking at for solving system of two equation. But it is more used full for system of two 
