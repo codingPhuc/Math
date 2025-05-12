@@ -66,8 +66,8 @@ For reference , it is very important for the pairs of number to satisfy the equa
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { (\x)^2  + 3  }); 
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { (\x)^2  + 3  });
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { 3\x - y  }); 
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { 2\x +  });
 \end{tikzpicture}
 \end{document}
 
