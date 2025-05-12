@@ -277,4 +277,5 @@ x = t  \\
 y =  -\frac{2}{5} t   - \frac{1}{5}
 \end{array}
 $$
-System suc
+System such as those in the pervious example are called dependent 
+We're now seen all three possible solution for a system of equation .A system of equaiton 
