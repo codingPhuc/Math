@@ -279,3 +279,28 @@ y =  -\frac{2}{5} t   - \frac{1}{5}
 $$
 System such as those in the pervious example are called dependent 
 We're now seen all three possible solution for a system of equation .A system of equation  will either have one , none or infinite 
+
+
+
+# #Practice_Exercise  
+
+$$
+\begin{array}{l} \\
+\left\{ \begin{array}{l}
+2x +  5 y  = -1   \\
+-10x  - 25y =  5  
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+y =  \frac{-1  -2x}{5}  \\
+-10x  - 25 (\frac{-1  -2x}{5}  )   =   5 
+\end{array} \right.  \\
+\left\{ \begin{array}{l}
+y =  \frac{-1  -2x}{5}  \\
+-10x +5 + 10x  =   5 
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+y =  \frac{-1  -2x}{5}  \\
+5  =   5 
+\end{array} \right.
+\end{array}
+$$
