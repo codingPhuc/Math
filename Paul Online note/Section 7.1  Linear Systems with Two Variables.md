@@ -263,8 +263,8 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {( -1  -2x) }); 
-     \draw[thick, red, domain=-2:4, smooth] plot (\x, { (1+2*\x)/2  }); 
+    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {( -1  -2\x)/5 }); 
+     \draw[thick, red, domain=-2:4, smooth] plot (\x, {(-10*\x   - 5)/25 }); 
 \end{tikzpicture}
 \end{document}
 
