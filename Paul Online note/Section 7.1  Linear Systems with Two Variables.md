@@ -112,12 +112,12 @@ $$
 6x +  3 y =  6 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-y  =  3x   - 7 \\
-\frac{6  - 6x}{3}   = y 
+2x + 4 (2 -2x) =  -10\\  
+2 -2x    = y 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-y  =  3x   - 7 \\
-11x  - 21  = 1  
+ =  -10\\  
+2 -2x    = y 
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
 y  =  3\cdot  2   - 7    = -1 \\
