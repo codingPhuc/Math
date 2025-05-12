@@ -115,19 +115,18 @@ $$
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
 y =  \frac{1  -5x }{4}   \\
-3x  - 3(\frac{1  -5x }{2})  =2 
+3x  - 3\left( \frac{1  -5x }{2} \right)  =2 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l} 
 y =  \frac{5x -1}{4}   \\
 6x     -3  ( 1  -5x ) -3  +  15x  =4  
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
-y =  -4   \\
-x  = 3 
+y =  \frac{5\cdot \left( \frac{1}{3} \right) -1}{4}    = \frac{1}{6}\\
+x=\frac{1}{3}
 \end{array} \right. \\
 \end{array}
 $$
-
 
 
 
@@ -152,5 +151,7 @@ x  = 3
 \end{array} \right. \\
 \end{array}
 $$
+
+
 
 
