@@ -87,7 +87,11 @@ $$
 \left\{ \begin{array}{l}
 3x - y  =  7  \\ 
  2x  + 3y  = 1  
-\end{array} \right.
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+y  =  3x   - 7
+ 2x  + 3( 3x   - 7)  = 1  
+\end{array} \right. \\
 
 \end{array}
 $$
