@@ -293,12 +293,12 @@ x - 7y = -11   \\
 5x + 2y =  -18  
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-x  =  \frac{x+ 11}{7} \\
-
+y   =  \frac{x+ 11}{7} \\
+5x  + 2(\frac{x+ 11}{7}) =  -18 
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
-y =  \frac{-1  -2x}{5}  \\
--10x +5 + 10x  =   5 
+y   =  \frac{x+ 11}{7} \\
+=  -18 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
 y =  \frac{-1  -2x}{5}  \\
