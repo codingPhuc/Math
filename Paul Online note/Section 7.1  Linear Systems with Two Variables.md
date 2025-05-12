@@ -114,8 +114,8 @@ $$
 3x  -  6y  = 2 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-2x + 4 (2 -2x) =  -10\\  
-y =  
+y =  \frac{5x -1}{4}   \\
+3x  - 6(\frac{5x -1}{4})  =2 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l} 
 -6x  =  -18\\  
