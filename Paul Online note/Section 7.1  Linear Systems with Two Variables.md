@@ -81,4 +81,10 @@ We will be looking at two method for solving this equation
 The first method is called **method of substitution** . In this method we will solve one equation for one variable and substitute this into the other equation . This will give us one equation with one variable that we can solve.
 
 
-## solve ea
+## solve each of the following system 
+$$ 
+\begin{array}{l} \\
+3x - y  =  7  \\ 
+ 2x  + 3y  = 1  
+\end{array}
+$$
