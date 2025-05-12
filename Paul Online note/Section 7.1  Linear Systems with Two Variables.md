@@ -116,12 +116,12 @@ $$
 2 -2x    = y 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l} \\
--6x  =  -10\\  
+-6x  =  -18\\  
 2 -2x    = y 
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
-y  =  3\cdot  2   - 7    = -1 \\
-x  =2  
+y =     \\
+x  = 3 
 \end{array} \right. \\
 \end{array}
 $$
