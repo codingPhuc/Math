@@ -115,8 +115,8 @@ $$
 2x + 4 (2 -2x) =  -10\\  
 2 -2x    = y 
 \end{array} \right. \\ 
-\left\{ \begin{array}{l}
- =  -10\\  
+\left\{ \begin{array}{l} \\
+-6x  =  -10\\  
 2 -2x    = y 
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
