@@ -8,4 +8,11 @@ Current date: 2025-05-12
 amount of time: 
 learning score:
 ---
+A linear system with two variables is any system that can be written in the form of 
+$$
+\begin{array}{l}  
+ax + by =  p    \\
+cx  + dt
+\end{array}
 
+$$
