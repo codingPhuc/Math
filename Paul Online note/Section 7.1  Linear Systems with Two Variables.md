@@ -19,6 +19,11 @@ where any constant can be zero with the exception that each equation must have a
 Also , the system is only linear  of the variables are only the first power ,are only numerator and there are no product of variable in any of the equation 
 Here is an example of systems with numbers  
 $$
-
+\begin{array}{l}  
+3x - y =  7  \\
+2x + 3 y = 1  
+\end{array}
 $$
 
+
+before solving the equation we must ask what the solution to a system of equation is . 
