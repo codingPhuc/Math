@@ -301,12 +301,34 @@ y   =  \frac{x+ 11}{7} \\
 35x  +   2x + 22  =  -126  
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-y =  \frac{-1  -2x}{5}  \\
+y =  \frac{-4+ 11}{7}  = 1 \\
 x  = -4 
 \end{array} \right.
 \end{array}
 $$
 
+
+
+$$
+\begin{array}{l} \\
+\left\{ \begin{array}{l}
+7x - 8y =  -12   \\
+-4x + 2 y = 3 
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+7x - 8y =  -12   \\
+-4x + 2 y = 3 
+\end{array} \right.  \\
+\left\{ \begin{array}{l}
+y   =  \frac{x+ 11}{7} \\
+35x  +   2x + 22  =  -126  
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+y =  \frac{-4+ 11}{7}  = 1 \\
+x  = -4 
+\end{array} \right.
+\end{array}
+$$
 
 ## use the Method of Elimination to find the solution to the given system or to determine if the system is inconsistent or dependent.
 
