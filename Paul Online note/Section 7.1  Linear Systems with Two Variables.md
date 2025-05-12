@@ -220,9 +220,12 @@ The system in the previous example is called **inconsistent**
 $$
 \begin{array}{l} \\
 \left\{ \begin{array}{l}
-x - y = 6  \\
--2x  +  2y  =1  
+2x +  5 y  = -1   \\
+-10x  - 25y =  5  
 \end{array} \right. \\ 
-
+\left\{ \begin{array}{l}
+y =    \\
+-10x  - 25y =  5  
+\end{array} \right. \\ 
 \end{array}
 $$
