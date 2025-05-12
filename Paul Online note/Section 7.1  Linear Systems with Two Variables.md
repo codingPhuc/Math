@@ -83,7 +83,7 @@ The first method is called **method of substitution** . In this method we will s
 
 ## solve each of the following system 
 $$ 
-\begin{array}{l} \\  \\
+\begin{array}{l} \\  
 \left\{ \begin{array}{l}
 3x - y  =  7  \\ 
  2x  + 3y  = 1  
@@ -94,11 +94,36 @@ y  =  3x   - 7 \\
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
 y  =  3x   - 7 \\
-2x  +  9x  - 21  = 1  
+11x  - 21  = 1  
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
-y  =  3x   - 7 \\
-2x  +  9x  - 21  = 1  
+y  =  3\cdot  2   - 7    = -1 \\
+x  =2  
 \end{array} \right. \\
 \end{array}
 $$
+
+
+
+$$ 
+\begin{array}{l} \\  
+\left\{ \begin{array}{l}
+2x + 4 y =  -19    \\
+6x +  3 y =  6 
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+y  =  3x   - 7 \\
+ 2x  + 3(3x   - 7)  = 1  
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+y  =  3x   - 7 \\
+11x  - 21  = 1  
+\end{array} \right.  \\
+\left\{ \begin{array}{l}
+y  =  3\cdot  2   - 7    = -1 \\
+x  =2  
+\end{array} \right. \\
+\end{array}
+$$
+
+
