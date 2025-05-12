@@ -120,7 +120,7 @@ $$
 2 -2x    = y 
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
-y =     \\
+y =  -4   \\
 x  = 3 
 \end{array} \right. \\
 \end{array}
