@@ -158,3 +158,25 @@ $$
 There is a third method that we'll  be looking at for solving system of two equation. But it is more used full for system of at least three equation so will look at it in later section 
 
 Solve the following system of equations 
+
+
+$$ 
+\begin{array}{l} \\  
+\left\{ \begin{array}{l}
+2x + 4 y =  -10     \\
+6x +  3 y =  6 
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+2x + 4 (2 -2x) =  -10\\  
+2 -2x    = y 
+\end{array} \right. \\ 
+\left\{ \begin{array}{l} 
+-6x  =  -18\\  
+2 -2x    = y 
+\end{array} \right.  \\
+\left\{ \begin{array}{l}
+y =  -4   \\
+x  = 3 
+\end{array} \right. \\
+\end{array}
+$$
