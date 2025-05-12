@@ -66,8 +66,8 @@ For reference , it is very important for the pairs of number to satisfy the equa
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { 3\x - y  }); 
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { 2\x +  });
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { 3\x - 7  }); 
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x, { (2\x -1 )/3  });
 \end{tikzpicture}
 \end{document}
 
