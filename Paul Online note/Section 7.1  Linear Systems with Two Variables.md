@@ -26,4 +26,4 @@ $$
 $$
 
 
-before solving the equation we must ask what the solution to a system of equation is . 
+before solving the equation we must ask what the solution to a system of equation is . A solution to a system of equation is a value of x and a value of 
