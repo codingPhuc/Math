@@ -83,8 +83,11 @@ The first method is called **method of substitution** . In this method we will s
 
 ## solve each of the following system 
 $$ 
-\begin{array}{l} \\
+\begin{array}{l} \\  \\
+\left\{ \begin{array}{l}
 3x - y  =  7  \\ 
  2x  + 3y  = 1  
+\end{array} \right.
+
 \end{array}
 $$
