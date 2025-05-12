@@ -115,11 +115,11 @@ $$
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
 y =  \frac{5x -1}{4}   \\
-3x  - 6(\frac{5x -1}{4})  =2 
+3x  - 3(\frac{5x -1}{2})  =2 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l} 
--6x  =  -18\\  
-2 -2x    = y 
+y =  \frac{5x -1}{4}   \\
+3x  - 6(\frac{5x -1}{4})  =2 
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
 y =  -4   \\
