@@ -74,4 +74,8 @@ For reference , it is very important for the pairs of number to satisfy the equa
 
 ``` 
 
-the solution to the two system is where the two line will intersect 
+the solution to the two system is where the two line will intersect . So , when solving linear system with two variable we are asking where to two lines will intersect 
+
+We will be looking at two method for solving this equation 
+
+The fris
