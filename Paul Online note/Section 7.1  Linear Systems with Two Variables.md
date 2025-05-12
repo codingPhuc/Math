@@ -28,4 +28,11 @@ $$
 
 before solving the equation we must ask what the solution to a system of equation is . A solution to a system of equation is a value of x and a value of y that , when substituted into the equation ,satisfies both equation at the same times 
 
-from the example above  $x = 2$  
+from the example above  $x = 2$ and $y = -1$ is a solution to the system. This is easy to check 
+
+$$
+\begin{array}{l} \\
+3\cdot 2 + 1   =  7  \\
+2\cdot 2  + 3 \cdot -1 = 1  
+\end{array}
+$$
