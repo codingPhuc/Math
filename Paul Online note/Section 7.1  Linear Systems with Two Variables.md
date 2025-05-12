@@ -237,8 +237,7 @@ y =  \frac{-1  -2x}{5}  \\
 \end{array} \right.
 \end{array}
 $$
-si
-
+since the second equation  equal to it self 5, we concluded that there are a infinite number of solution to this equation  
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -271,3 +270,4 @@ si
 
 
 ``` 
+so there are infinite solution  number of possi
