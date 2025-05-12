@@ -67,10 +67,11 @@ For reference , it is very important for the pairs of number to satisfy the equa
 
     % Draw the parabola
     \draw[thick, blue, domain=-2:4, smooth] plot (\x, { 3*\x - 7  }); 
-     \draw[thick, blue, domain=-2:4, smooth] plot (\x, { (2*\x -1 )/3  }); 
+     \draw[thick, red, domain=-2:4, smooth] plot (\x, { (-2*\x -1 )/3  }); 
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
 
+the solution to the two system is where the two line will intersect 
