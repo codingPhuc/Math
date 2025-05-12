@@ -205,8 +205,8 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:4, smooth] plot (\x, { 3*\x - 7  }); 
-     \draw[thick, red, domain=-2:4, smooth] plot (\x, { (-2*\x -1 )/3  }); 
+    \draw[thick, blue, domain=-2:4, smooth] plot (\x, { \x - 6  }); 
+     \draw[thick, red, domain=-2:4, smooth] plot (\x, { (1+2)/3  }); 
 \end{tikzpicture}
 \end{document}
 
