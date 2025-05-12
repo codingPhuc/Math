@@ -114,12 +114,12 @@ $$
 3x  -  6y  = 2 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-y =  \frac{5x -1}{4}   \\
-3x  - 3(\frac{5x -1}{2})  =2 
+y =  \frac{1  -5x }{4}   \\
+3x  - 3(\frac{1  -5x }{2})  =2 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l} 
 y =  \frac{5x -1}{4}   \\
-6x       -15 x   + 3 =4  
+6x     -3  ( 1  -5x ) =4  
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
 y =  -4   \\
