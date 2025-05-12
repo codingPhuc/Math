@@ -263,7 +263,7 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:4, smooth] plot (\x, { \x - 6  }); 
+    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {( -1  -2x) }); 
      \draw[thick, red, domain=-2:4, smooth] plot (\x, { (1+2*\x)/2  }); 
 \end{tikzpicture}
 \end{document}
