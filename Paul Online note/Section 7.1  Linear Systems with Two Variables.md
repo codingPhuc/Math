@@ -298,11 +298,11 @@ y   =  \frac{x+ 11}{7} \\
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
 y   =  \frac{x+ 11}{7} \\
-=  -18 
+35x  +   2x + 22  =  -126  
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
 y =  \frac{-1  -2x}{5}  \\
-5  =   5 
+x  = -4 
 \end{array} \right.
 \end{array}
 $$
