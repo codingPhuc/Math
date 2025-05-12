@@ -36,4 +36,6 @@ $$
 2\cdot 2  + 3 \cdot -1 = 1  
 \end{array}
 $$
-So , sure enough a pairs of number is a solution to the system . Do not worry about how we got these values . 
+So , sure enough a pairs of number is a solution to the system . Do not worry about how we got these values . This will be the very first system that we solve when we get into the example 
+
+For reference , it is very important for the pairs of number to satisfy the equation. For instance , $x=1$ and $y$
