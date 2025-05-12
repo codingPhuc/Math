@@ -224,8 +224,12 @@ $$
 -10x  - 25y =  5  
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-y =    \\
--10x  - 25y =  5  
+y =  \frac{-1  -2x}{5}  \\
+-10x  - 25 (\frac{-1  -2x}{5}  )   =   5 
+\end{array} \right.  \\
+\left\{ \begin{array}{l}
+y =  \frac{-1  -2x}{5}  \\
+-10x  - 5(-1  - 2x ) =   5 
 \end{array} \right. \\ 
 \end{array}
 $$
