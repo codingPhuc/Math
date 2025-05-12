@@ -212,4 +212,4 @@ $$
 
 
 ``` 
-it appears that these two lines are parallel (can you verify that with )
+it appears that these two lines are parallel (can you verify that with the slopes) and we know that parallel line with different y-intercepts( that's important) will never cross 
