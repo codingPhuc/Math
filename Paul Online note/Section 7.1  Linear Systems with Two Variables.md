@@ -16,5 +16,6 @@ cx  + dy  = q
 \end{array}
 $$
 where any constant can be zero with the exception that each equation must have at least one variable in it 
-Also , the system is only linear  of the variables are only the first power ,
+Also , the system is only linear  of the variables are only the first power ,are only numerator and there are no product of variable in any of the equation 
+
 
