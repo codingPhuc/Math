@@ -393,11 +393,11 @@ $$
 & -12x  +   2y  = 0  \\
 \\
 &\text{Multiply the first equation by } 2: \\
-&12x  - 10y  =  16 \Rightarrow -6x - 12y = 30 \\
-&\text{Second equation remains the same: } 6x + 3y = 6 \\
+&12x  - 10y  =  16 \Rightarrow 12x  - 10y  =  16 \\
+&\text{Second equation remains the same: }  -12x   +   2y  = 0  \\
 \\
 &\text{Add the equations:} \\
-&(-6x - 12y) + (6x + 3y) = 30 + 6 \\
+&( 12x   -12x  ) + ( - 10y    +   2y  ) = 16 \\
 &-9y = 36 \\
 &y = -4
 \end{aligned}
