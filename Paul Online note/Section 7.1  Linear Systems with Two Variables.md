@@ -340,17 +340,21 @@ $$
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
 x  =  -3y  -2   \\
--4( -3y  -2 )   + 12y  -- 12y  =  8 
+  + 12y  +  8  - 12y  =  8 
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
-x  =    -2   \\
-y = 0  
+x  =    -3y  -2  \\
+0  = 0   
 \end{array} \right. \\ 
 
 \end{array}
 $$
 
 
+t
+
+
 
 ## use the Method of Elimination to find the solution to the given system or to determine if the system is inconsistent or dependent.
 
+1. 
