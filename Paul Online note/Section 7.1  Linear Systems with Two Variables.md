@@ -320,8 +320,8 @@ $$
 y  =  \frac{3+ 4x}{2}
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
-y   =  \frac{x+ 11}{7} \\
-35x  +   2x + 22  =  -126  
+7x - 8y =  -12   \\
+y  =  \frac{3+ 4x}{2}
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
 y =  \frac{-4+ 11}{7}  = 1 \\
