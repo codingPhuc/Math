@@ -134,7 +134,7 @@ As with single equation we could always go back and checking this solution by pl
 let move on to the next method for solving the equation . As we saw in the pervious example method of s
 substitution will force us to deal with fraction ,which adds to the likely hood of mistake . This second method will not have this problem . We that not the complete true .  IF fraction were to show up then it will show up in the final solution 
 
-the second method is called method of elimination . Where we 
+the second method is called method of elimination . Where we multiply both of the equations by a number so that one variables in each equation will have the same coefficient with opposite sign . Then we will add two equation togethor
 ## solve each of the following system 
 
 
