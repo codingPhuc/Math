@@ -1,9 +1,8 @@
 [
-  "obsidian-git",
-  "obsidian-excalidraw-plugin",
-  "mathlinks",
-  "obsidian-latex-suite",
+  "obsidian-tikzjax",
   "templater-obsidian",
-  "obsidian-image-toolkit",
-  "obsidian-tikzjax"
+  "mathlinks",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "obsidian-image-toolkit"
 ]
