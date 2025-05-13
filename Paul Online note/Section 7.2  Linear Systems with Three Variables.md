@@ -9,9 +9,6 @@ amount of time:
 learning score:
 ---
 
-
-
-
 $$
 \begin{array}{l}  \\
 x - 2y +  3z  = 7  \\
@@ -19,4 +16,8 @@ x - 2y +  3z  = 7  \\
 -3x + 2y -2z  = -10  
 \end{array}
 $$
+
+
+
+
 
