@@ -351,7 +351,11 @@ x  =    -3y  -2  \\
 $$
 
 
-t
+the result is true for every value of y or x and so we know that the system is **dependent** and there will be an infinite number of solution to the system . We will write the "solution" to this system as following 
+$$
+x =  -3t  -2  
+
+$$
 
 
 
