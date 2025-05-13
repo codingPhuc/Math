@@ -430,12 +430,12 @@ $$
 &\text{Multiply the first equation by } 2: \\
 &4x  +  6y  = 40 \\
 &\text{Multiply the second  equation by  }  -3: \\
-&-14x  -  6y  = -159  
+&-21x  -  6y  = -159  
 \\
 &\text{Add the equations:} \\
-&( 4x   + -14x  ) + (  6y   - 6y  ) = -119 \\
-&-10x = -119   \implies x  -\frac{119}{10}\\ 
- 
+&( 4x   -21x  ) + (  6y   - 6y  ) = -119 \\
+&-17x = -119   \implies x   = 7 \\ 
+y  = 2  
 \end{aligned}
 $$
 since  $0\neq25$ we conclude that the equation is inconsistent and have no solution 
