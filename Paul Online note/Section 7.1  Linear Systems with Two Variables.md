@@ -339,17 +339,14 @@ $$
 -4x - 12y  =  8 
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-x  =    \\
--4x - 12y  =  8 
+x  =  3y  -2   \\
+  -12y + 8  - 12y  =  8 
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
-7x    - 12  -16x=  -12   \\
-y  =  \frac{3+ 4x}{2}
+x  =    -2   \\
+y = 0  
 \end{array} \right. \\ 
-\left\{ \begin{array}{l}
-x = 0    \\
-y  =  \frac{3}{2}
-\end{array} \right.
+
 \end{array}
 $$
 
