@@ -412,12 +412,11 @@ $$
 &\text{Multiply the first equation by } 5: \\
 &-10 x  + 50y  =  10   \\
 &\text{Multiply the second  equation by  }  2 : \\
-&10x - 50 = 15 
+&10x - 50y = 15 
 \\
 &\text{Add the equations:} \\
-&( 12x   -12x  ) + ( - 10y    +   2y  ) = 16 \\
-&-8y = 16 \\
-&y = -2  \\
-&x =  \frac{1}{3} 
+&( -10 x  + 10x  ) + ( 50y   - 50y  ) = 25 \\
+&0 = 25 \\
 \end{aligned}
 $$
+since the equation add up to  be 0 =
