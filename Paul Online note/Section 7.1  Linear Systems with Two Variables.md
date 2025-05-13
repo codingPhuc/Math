@@ -410,9 +410,9 @@ $$
 & 5x  - 25y  = 3   \\
 \\
 &\text{Multiply the first equation by } 5: \\
-&-10 x  - 50y  =  10   \\
+&-10 x  + 50y  =  10   \\
 &\text{Multiply the second  equation by  }  2 : \\
-&10x -  \Rightarrow 12x  - 10y  =  16 \\
+&10x - 50 = 15 
 \\
 &\text{Add the equations:} \\
 &( 12x   -12x  ) + ( - 10y    +   2y  ) = 16 \\
