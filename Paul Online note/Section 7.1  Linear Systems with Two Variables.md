@@ -160,6 +160,22 @@ $$
 ![[Pasted image 20250512173208.png]]
 
 
+$$
+\begin{aligned}
+&2x + 4y = -10 \\
+&6x + 3y = 6 \\
+\\
+&\text{Multiply the first equation by } -3: \\
+&-3(2x + 4y) = -3(-10) \Rightarrow -6x - 12y = 30 \\
+&\text{Second equation remains the same: } 6x + 3y = 6 \\
+\\
+&\text{Add the equations:} \\
+&(-6x - 12y) + (6x + 3y) = 30 + 6 \\
+&-9y = 36 \\
+&y = -4
+\end{aligned}
+$$
+
 
 There is a third method that we'll  be looking at for solving system of two equation. But it is more used full for system of at least three equation so will look at it in later section 
 
@@ -367,6 +383,22 @@ y =  t  \text{ t is any number}
 \end{array}
 $$
 
-## use the Method of Elimination to find the solution to the given system or to determine if the system is inconsistent or dependent.
+## use the Method of Elimination to find the solution to the given system or to determine if the system is inconsistent or dependent. 
 
-1. 
+
+
+$$
+\begin{aligned}
+&6 \\
+&6x + 3y = 6 \\
+\\
+&\text{Multiply the first equation by } -3: \\
+&-3(2x + 4y) = -3(-10) \Rightarrow -6x - 12y = 30 \\
+&\text{Second equation remains the same: } 6x + 3y = 6 \\
+\\
+&\text{Add the equations:} \\
+&(-6x - 12y) + (6x + 3y) = 30 + 6 \\
+&-9y = 36 \\
+&y = -4
+\end{aligned}
+$$
