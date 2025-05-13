@@ -433,8 +433,8 @@ $$
 &-14x  -  6y  = -159  
 \\
 &\text{Add the equations:} \\
-&( -10 x  + 10x  ) + ( 50y   - 50y  ) = 25 \\
-&0 = 25 \\
+&( 4x   + -14x  ) + (  6y   - 6y  ) = -119 \\
+&-10x = -119   = x  \\
 \end{aligned}
 $$
 since  $0\neq25$ we conclude that the equation is inconsistent and have no solution 
