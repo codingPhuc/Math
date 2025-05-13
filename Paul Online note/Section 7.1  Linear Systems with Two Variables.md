@@ -419,4 +419,25 @@ $$
 &0 = 25 \\
 \end{aligned}
 $$
-since the equation add up to  be 0 =
+since  $0\neq25$ we conclude that the equation is inconsistent and have no solution 
+
+
+$$
+\begin{aligned}
+&-2x +  10y  =  2 \\
+& 5x  - 25y  = 3   \\
+\\
+&\text{Multiply the first equation by } 5: \\
+&-10 x  + 50y  =  10   \\
+&\text{Multiply the second  equation by  }  2 : \\
+&10x - 50y = 15 
+\\
+&\text{Add the equations:} \\
+&( -10 x  + 10x  ) + ( 50y   - 50y  ) = 25 \\
+&0 = 25 \\
+\end{aligned}
+$$
+since  $0\neq25$ we conclude that the equation is inconsistent and have no solution 
+
+
+
