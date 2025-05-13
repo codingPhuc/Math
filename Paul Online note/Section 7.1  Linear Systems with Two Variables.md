@@ -389,11 +389,11 @@ $$
 
 $$
 \begin{aligned}
-&6 \\
-&6x + 3y = 6 \\
+&6x  - 5y  =  8 \\
+& -12x  +   2y  = 0  \\
 \\
-&\text{Multiply the first equation by } -3: \\
-&-3(2x + 4y) = -3(-10) \Rightarrow -6x - 12y = 30 \\
+&\text{Multiply the first equation by } 2: \\
+&12x  - 10y  =  16 \Rightarrow -6x - 12y = 30 \\
 &\text{Second equation remains the same: } 6x + 3y = 6 \\
 \\
 &\text{Add the equations:} \\
