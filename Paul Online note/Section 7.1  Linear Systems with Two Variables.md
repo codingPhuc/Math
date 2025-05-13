@@ -330,6 +330,31 @@ y  =  \frac{3}{2}
 \end{array}
 $$
 
+
+
+$$
+\begin{array}{l} \\
+\left\{ \begin{array}{l}
+3x +  9y =  -6  \\
+-4x - 12y  =  8 
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+x  =    \\
+-4x - 12y  =  8 
+\end{array} \right.  \\
+\left\{ \begin{array}{l}
+7x    - 12  -16x=  -12   \\
+y  =  \frac{3+ 4x}{2}
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+x = 0    \\
+y  =  \frac{3}{2}
+\end{array} \right.
+\end{array}
+$$
+
+
+
 ## use the Method of Elimination to find the solution to the given system or to determine if the system is inconsistent or dependent.
 
 1. 
