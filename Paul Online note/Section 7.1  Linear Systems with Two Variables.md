@@ -399,7 +399,7 @@ $$
 &\text{Add the equations:} \\
 &( 12x   -12x  ) + ( - 10y    +   2y  ) = 16 \\
 &-8y = 16 \\
-&y = -2 
-x =  2 
+&y = -2  \\
+&x =  \frac{1}{3} 
 \end{aligned}
 $$
