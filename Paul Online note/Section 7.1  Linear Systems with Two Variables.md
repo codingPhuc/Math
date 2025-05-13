@@ -424,12 +424,12 @@ since  $0\neq25$ we conclude that the equation is inconsistent and have no solut
 
 $$
 \begin{aligned}
-&-2x +  10y  =  2 \\
-& 5x  - 25y  = 3   \\
+&2x  +  3y  = 20 \\
+&7x + 2y  = 53    \\
 \\
-&\text{Multiply the first equation by } 5: \\
-&-10 x  + 50y  =  10   \\
-&\text{Multiply the second  equation by  }  2 : \\
+&\text{Multiply the first equation by } 2: \\
+&4x  +  6y  = 40 \\
+&\text{Multiply the second  equation by  }  -3: \\
 &10x - 50y = 15 
 \\
 &\text{Add the equations:} \\
