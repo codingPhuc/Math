@@ -131,11 +131,8 @@ $$
 
 As with single equation we could always go back and checking this solution by plugging that it satisfy both the equation . Note as well that we really need to plug in both equations . 
 
-l
-
-
-
-
+let move on to the next method for solving the equation . As we saw in the pervious example method of s
+substitution will force us to deal with fraction ,which adds to 
 ## solve each of the following system 
 
 
