@@ -5,7 +5,7 @@ tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
 Current date: 2025-05-12
-amount of time: 
+amount of time: 2h30
 learning score:
 ---
 A linear system with two variables is any system that can be written in the form of 
