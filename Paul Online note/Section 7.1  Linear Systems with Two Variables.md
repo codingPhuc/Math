@@ -82,6 +82,57 @@ We will be looking at two method for solving this equation
 The first method is called **method of substitution** . In this method we will solve one equation for one variable and substitute this into the other equation . This will give us one equation with one variable that we can solve.
 
 
+## Solve each of the following systems. 
+
+$$ 
+\begin{array}{l} \\  
+\left\{ \begin{array}{l}
+3x - y  =  7  \\ 
+ 2x  + 3y  = 1  
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+y  =  3x   - 7 \\
+ 2x  + 3(3x   - 7)  = 1  
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+y  =  3x   - 7 \\
+11x  - 21  = 1  
+\end{array} \right.  \\
+\left\{ \begin{array}{l}
+y  =  3\cdot  2   - 7    = -1 \\
+x  =2  
+\end{array} \right. \\
+\end{array}
+$$
+
+$$ 
+\begin{array}{l} \\  
+\left\{ \begin{array}{l}
+5x +  4y  = 1       \\
+3x  -  6y  = 2 
+\end{array} \right. \\ 
+\left\{ \begin{array}{l}
+y =  \frac{1  -5x }{4}   \\
+3x  - 3\left( \frac{1  -5x }{2} \right)  =2 
+\end{array} \right. \\ 
+\left\{ \begin{array}{l} 
+y =  \frac{5x -1}{4}   \\
+6x     -3  ( 1  -5x ) -3  +  15x  =4  
+\end{array} \right.  \\
+\left\{ \begin{array}{l}
+y =  \frac{5\cdot \left( \frac{1}{3} \right) -1}{4}    = \frac{1}{6}\\
+x=\frac{1}{3}
+\end{array} \right. \\
+\end{array}
+$$
+
+
+
+
+As with single equation we could always go back and checking this solution by plugging that it satisfy both the equation 
+
+
+
 ## solve each of the following system 
 
 
