@@ -324,8 +324,8 @@ y  =  \frac{3+ 4x}{2}
 y  =  \frac{3+ 4x}{2}
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
-y =  \frac{-4+ 11}{7}  = 1 \\
-x  = -4 
+x = 0    \\
+y  =  \frac{3}{2}
 \end{array} \right.
 \end{array}
 $$
