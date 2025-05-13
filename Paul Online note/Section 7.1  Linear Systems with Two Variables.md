@@ -430,7 +430,7 @@ $$
 &\text{Multiply the first equation by } 2: \\
 &4x  +  6y  = 40 \\
 &\text{Multiply the second  equation by  }  -3: \\
-&10x - 50y = 15 
+&-14x  -  6y  = -159  
 \\
 &\text{Add the equations:} \\
 &( -10 x  + 10x  ) + ( 50y   - 50y  ) = 25 \\
