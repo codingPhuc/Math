@@ -393,7 +393,7 @@ $$
 & -12x  +   2y  = 0  \\
 \\
 &\text{Multiply the first equation by } 2: \\
-&12x  - 10y  =  16 \Rightarrow 12x  - 10y  =  16 \\
+&12x  - 10y  =  16 
 &\text{Second equation remains the same: }  -12x   +   2y  = 0  \\
 \\
 &\text{Add the equations:} \\
@@ -409,9 +409,10 @@ $$
 &-2x +  10y  =  2 \\
 & 5x  - 25y  = 3   \\
 \\
-&\text{Multiply the first equation by } 2: \\
+&\text{Multiply the first equation by } 5: \\
 &12x  - 10y  =  16 \Rightarrow 12x  - 10y  =  16 \\
 &\text{Second equation remains the same: }  -12x   +   2y  = 0  \\
+&12x  - 10y  =  16 \Rightarrow 12x  - 10y  =  16 \\
 \\
 &\text{Add the equations:} \\
 &( 12x   -12x  ) + ( - 10y    +   2y  ) = 16 \\
