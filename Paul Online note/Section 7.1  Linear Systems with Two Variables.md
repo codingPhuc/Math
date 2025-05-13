@@ -398,7 +398,8 @@ $$
 \\
 &\text{Add the equations:} \\
 &( 12x   -12x  ) + ( - 10y    +   2y  ) = 16 \\
-&-9y = 36 \\
-&y = -4
+&-8y = 16 \\
+&y = -2 
+x =  2 
 \end{aligned}
 $$
