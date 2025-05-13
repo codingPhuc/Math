@@ -320,7 +320,7 @@ $$
 y  =  \frac{3+ 4x}{2}
 \end{array} \right.  \\
 \left\{ \begin{array}{l}
-7x - 8y =  -12   \\
+7x    - 12  -16x=  -12   \\
 y  =  \frac{3+ 4x}{2}
 \end{array} \right. \\ 
 \left\{ \begin{array}{l}
