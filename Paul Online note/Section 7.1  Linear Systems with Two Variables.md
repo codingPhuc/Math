@@ -129,7 +129,10 @@ $$
 
 
 
-As with single equation we could always go back and checking this solution by plugging that it satisfy both the equation 
+As with single equation we could always go back and checking this solution by plugging that it satisfy both the equation . Note as well that we really need to plug in both equations . 
+
+l
+
 
 
 
