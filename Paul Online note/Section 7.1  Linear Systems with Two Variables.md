@@ -353,11 +353,11 @@ $$
 
 the result is true for every value of y or x and so we know that the system is **dependent** and there will be an infinite number of solution to the system . We will write the "solution" to this system as following 
 $$
-x =  -3t  -2  
-
+\begin{array}{l} \\
+x =  -3t  -2    \\
+y =  t  \text{ t is any number}
+\end{array}
 $$
-
-
 
 ## use the Method of Elimination to find the solution to the given system or to determine if the system is inconsistent or dependent.
 
