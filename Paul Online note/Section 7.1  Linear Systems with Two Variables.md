@@ -19,27 +19,6 @@ where any constant can be zero with the exception that each equation must have a
 Also , the system is only linear  of the variables are only the first power ,are only numerator and there are no product of variable in any of the equation 
 Here is an example of systems with numbers  
 
-$$ 
-\begin{array}{l} \\  
-\left\{ \begin{array}{l}
-3x - y  =  7  \\ 
- 2x  + 3y  = 1  
-\end{array} \right. \\ 
-\left\{ \begin{array}{l}
-y  =  3x   - 7 \\
- 2x  + 3(3x   - 7)  = 1  
-\end{array} \right. \\ 
-\left\{ \begin{array}{l}
-y  =  3x   - 7 \\
-11x  - 21  = 1  
-\end{array} \right.  \\
-\left\{ \begin{array}{l}
-y  =  3\cdot  2   - 7    = -1 \\
-x  =2  
-\end{array} \right. \\
-\end{array}
-$$
-
 $$
 \begin{array}{l}  
 3x - y =  7  \\
@@ -104,29 +83,6 @@ The first method is called **method of substitution** . In this method we will s
 
 
 ## solve each of the following system 
-
-
-
-$$ 
-\begin{array}{l} \\  
-\left\{ \begin{array}{l}
-5x +  4y  = 1       \\
-3x  -  6y  = 2 
-\end{array} \right. \\ 
-\left\{ \begin{array}{l}
-y =  \frac{1  -5x }{4}   \\
-3x  - 3\left( \frac{1  -5x }{2} \right)  =2 
-\end{array} \right. \\ 
-\left\{ \begin{array}{l} 
-y =  \frac{5x -1}{4}   \\
-6x     -3  ( 1  -5x ) -3  +  15x  =4  
-\end{array} \right.  \\
-\left\{ \begin{array}{l}
-y =  \frac{5\cdot \left( \frac{1}{3} \right) -1}{4}    = \frac{1}{6}\\
-x=\frac{1}{3}
-\end{array} \right. \\
-\end{array}
-$$
 
 
 
