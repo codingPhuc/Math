@@ -434,7 +434,8 @@ $$
 \\
 &\text{Add the equations:} \\
 &( 4x   + -14x  ) + (  6y   - 6y  ) = -119 \\
-&-10x = -119   = x  \\
+&-10x = -119   \implies x  -\frac{119}{10}\\ 
+ 
 \end{aligned}
 $$
 since  $0\neq25$ we conclude that the equation is inconsistent and have no solution 
