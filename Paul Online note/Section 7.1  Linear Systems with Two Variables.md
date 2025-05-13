@@ -157,7 +157,7 @@ x  = 3
 \end{array} \right. \\
 \end{array}
 $$
-
+![[Pasted image 20250512173208.png]]
 
 
 
@@ -183,6 +183,8 @@ x = 6+ y     \\
 
 \end{array}
 $$
+
+![[Pasted image 20250512173224.png]]
 -12  cannot equal to 1 , so there must be and error in our  work  to see graph these two lines 
 
 
