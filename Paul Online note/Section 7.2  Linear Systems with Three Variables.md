@@ -99,12 +99,12 @@ Now with this new system  we will replace the third and second equation with the
 here is the resulting equation : 
 $$
 \begin{array}{l} \\
- 2x  -  4y  +  5z  = -33  
--14x  +  5z  =  
--2x  + z =  -3  
+ 2x  -  4y  +  5z  = -33  \\
+-14x  +  5z  =  20  \\
+-2x -z  = 38 
 \end{array}
 $$
-So ,  we've eliminated one of the variables from  two of the equations . Now either eliminate x or z from the third or second  equation . We will used  elimination to do this by multiplying the third  by -5
+So ,  we've eliminated one of the variables from  two of the equations . Now either eliminate x or z from the third or second  equation . We will used  elimination to do this by multiplying the third  by 5
 
 
 $$
