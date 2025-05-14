@@ -220,9 +220,9 @@ in this cases if we multiply the second equation by 2 then it will be easier to 
 
 $$
 \begin{array}{l}
-2x +  5y +  2 y =  -38    \xrightarrow{\text{same}}2x +  5y +  2 y =  -38    \\
-3x  - 2y  + 4z = 17  \xrightarrow{\text{x 2}} 3x  - 2y  + 4z = 17  \\
--6x  +   y - 7x =  -12  \xrightarrow{\text{same}} -6x  +   y - 7x =  -12  
+2x +  5y +  2 z =  -38  \xrightarrow{\text{same}} 2x +  5y +  2 z =  -38  \\
+3x  - 2y  + 4z = 17  \xrightarrow{\text{x 2}}  3x  - 2y  + 4z = 17   \\
+-6x  +   y - 7z=  -12  \xrightarrow{\text{same}}  -6x  +   y - 7z=  -12   
 \end{array}
 $$
 Now with this new system  we will replace the third and second equation with the sum of the first with the second and third 
