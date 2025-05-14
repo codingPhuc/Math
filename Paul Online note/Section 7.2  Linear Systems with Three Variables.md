@@ -135,4 +135,4 @@ $$
 
 
 ### method 2  
-we are going to  take note of the attribute that linear system with three equation having a 2 term equation with a y coefficient of -1 
+we see that the second equation have only two variables x and y , with  y having a coefficient of -1 . This enable 
