@@ -41,4 +41,7 @@ x  - 2y + 3z   = 7   \\
 -2x  + z =  -3  
 \end{array}
 $$
-So ,  we've eliminated one of the variables from  two of the equations . Now either eliminate x or z from the third or second 
+So ,  we've eliminated one of the variables from  two of the equations . Now either eliminate x or z from the third or second  equation . We will used  elimination to do this by multiplying the third  by -5
+
+
+
