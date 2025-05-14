@@ -128,8 +128,11 @@ $$
 \begin{array}{l}  \\
 x = - \frac{1}{2} \\
 -14x  +  5z  =  -13 \implies z = -4    \\ 
- 2x  -  4y  +  5z  = -33  \implies   y =  \\
+ 2x  -  4y  +  5z  = -33  \implies   y = 3  \\
 
 \end{array}
 $$
 
+
+### method 2  
+we are going to  take note of the attribute that x 
