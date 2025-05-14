@@ -52,4 +52,4 @@ x  - 2y + 3z   = 7   \xrightarrow{\text{same}} x  - 2y + 3z   = 7   \\
 \end{array}
 $$
 
-Now replace the third and second equation with the
+Now replace the third and second equation with sum of the second and third 
