@@ -150,3 +150,9 @@ $$
  y =  4x +  5
 $$
 
+substitute the y in the other two  equation and we will get 
+$$
+\begin{array}{l} \\
+
+\end{array}
+$$
