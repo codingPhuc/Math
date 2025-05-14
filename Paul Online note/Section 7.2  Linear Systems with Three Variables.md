@@ -290,8 +290,8 @@ $$
 substitute the y in the other two  equation and we will get 
 $$
 \begin{array}{l} \\
-7x - 4(11 + 3x)  -z  =  -15  \\
-4x + 6(11 + 3x ) + 5z     =  -6  
+7(11 + 3x)  - 4y  -z  =  -15  \\
+4(11 + 3x) + 6y+ 5z     =  -6  
 \end{array}
 $$
 
