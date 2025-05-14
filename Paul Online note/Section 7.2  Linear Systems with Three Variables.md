@@ -324,6 +324,8 @@ $$
 now solve the linear system  with  three solution 
 $$
 \begin{array}{l}  \\
+z   = -4  \\
+x  = -1   \\
 
 \end{array}
 $$
