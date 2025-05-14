@@ -92,15 +92,15 @@ $$
 \begin{array}{l}
 2x  -  4y  +  5z  = -33   \xrightarrow{\text{same}} 2x  -  4y  +  5z  = -33  \\
 4x  - y =  -5  \xrightarrow{\times\text{ -4}}  -16x   + 4y     = 20   \\
--2x  + 2y - 3z  = 19   \xrightarrow{\times\text{2}} -3x + 2y -2z  = -10   
+-2x  + 2y - 3z  = 19   \xrightarrow{\times\text{2}} -4x  + 4y - 6z  = 38  
 \end{array}
 $$
 Now with this new system  we will replace the third and second equation with the sum of the first with the second and third 
 here is the resulting equation : 
 $$
 \begin{array}{l} \\
-x  - 2y + 3z   = 7   \\
-5x  +  5z  =  15  \\
+ 2x  -  4y  +  5z  = -33  
+-14x  +  5z  =  
 -2x  + z =  -3  
 \end{array}
 $$
