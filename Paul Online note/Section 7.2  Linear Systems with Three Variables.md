@@ -317,17 +317,14 @@ $$
 Now replace the  second equation with sum second  and first 
 $$
 \begin{array}{l} \\
-34 \\
--12x     =   6   \\
-x =   -\frac{1}{2}
+94z   =  -376  \\
+z     =   -4  \\
 \end{array}
 $$
 now solve the linear system  with  three solution 
 $$
 \begin{array}{l}  \\
-x = - \frac{1}{2} \\
-4x  - y =  -5  \\\implies     y = 3  \\ 
- 2x  -  4y  +  5z  = -33  \implies z = -4   \\
+
 \end{array}
 $$
 
