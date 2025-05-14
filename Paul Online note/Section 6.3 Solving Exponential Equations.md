@@ -8,7 +8,7 @@ Current date: 2025-05-08
 amount of time: 30 +
 learning score:
 ---
-
+# #definition 
 
 There are two method of solving  exponential equation . One method is simple but require a special form of exponential  equation . The other will work on  more complicated  exponential equation but can get a little messy 
 let start by having a look at these simple method  ; 

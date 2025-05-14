@@ -8,6 +8,7 @@ Current date: 2025-05-12
 amount of time: 2h30
 learning score:
 ---
+# #definition  
 A linear system with two variables is any system that can be written in the form of 
 $$
 \begin{array}{l}  
