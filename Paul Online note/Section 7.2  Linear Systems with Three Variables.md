@@ -135,4 +135,18 @@ $$
 
 
 ### method 2  
-we see that the second equation have only two variables x and y , with  y having a coefficient of -1 . This enable 
+
+
+
+$$
+\begin{array}{l}  \\
+2x  -  4y  +  5z  = -33   \\
+4x  - y =  -5  \\
+-2x  + 2y - 3z  = 19  
+\end{array}
+$$
+we see that the second equation have only two variables x and y , with  y having a coefficient of -1 . This make it easy to solve for y 
+$$
+ y =  4x +  5
+$$
+
