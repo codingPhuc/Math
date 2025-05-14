@@ -219,10 +219,11 @@ We  are going to try to find value of z , y and z will satisfy all three equatio
 in this cases if we multiply the second equation by 2 then it will be easier to eliminate the second and third equation 
 
 $$
-\begin{array}{l}
-2x +  5y +  2 z =  -38  \xrightarrow{\text{same}} 2x +  5y +  2 z =  -38  \\
-3x  - 2y  + 4z = 17  \xrightarrow{\text{x 2}}  3x  - 2y  + 4z = 17   \\
--6x  +   y - 7z=  -12  \xrightarrow{\text{same}}  -6x  +   y - 7z=  -12   
+\begin{array}{l} \\
+-6x  +   y - 7z=  -12  \xrightarrow{\text{same}}  -6x  +   y - 7z=  -12 \\
+2x +  5y +  2 z =  -38  \xrightarrow{\times \text{3}} 2x +  5y +  2 z =  -38  \\
+3x  - 2y  + 4z = 17  \xrightarrow{\times \text{2}}  3x  - 2y  + 4z = 17   \\
+  
 \end{array}
 $$
 Now with this new system  we will replace the third and second equation with the sum of the first with the second and third 
