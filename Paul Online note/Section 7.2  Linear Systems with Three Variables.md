@@ -308,8 +308,8 @@ this leave us with a linear system  with two variables .Further more , using the
 $$
 \begin{array}{l}
 
-6x  -3z  = 9 \xrightarrow{\times\text{ 5}} 30x  -15z  = 45   \\
--14x   +  5z  = -13 \xrightarrow{\times\text{3}} -42x   +  15z  = -39 
+ -5x      -z  =  29   \xrightarrow{\times\text{ 5}}  -5x      -z  =  29    \\
+22x   + 5z     =  -72  \xrightarrow{same} 22x   + 5z     =  -72   
 \end{array}
 $$
 
