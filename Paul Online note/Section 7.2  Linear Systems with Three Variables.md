@@ -44,4 +44,10 @@ $$
 So ,  we've eliminated one of the variables from  two of the equations . Now either eliminate x or z from the third or second  equation . We will used  elimination to do this by multiplying the third  by -5
 
 
-
+$$
+\begin{array}{l}
+x  - 2y + 3z   = 7   \xrightarrow{\text{same}} x  - 2y + 3z   = 7   \\
+2x +  y + z = 4  \xrightarrow{\text{x 2}}  4x +2y + 2z  = 8 \\
+-3x  + 2y -2z =  -10 \xrightarrow{\text{same}} -3x + 2y -2z  = -10   
+\end{array}
+$$
