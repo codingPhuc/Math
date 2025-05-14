@@ -13,3 +13,4 @@ For systems with two equation it is much more complicated when compare to the pe
 
 we first need to get some definition out of the way . 
 
+An augmented matrix for a system of equation is a matrix of number where each row represents the constant from one equation( both the coefficient  and const )
