@@ -32,4 +32,11 @@ $$
 -3x  + 2y -2z =  -10 \xrightarrow{\text{same}} -3x + 2y -2z  = -10   
 \end{array}
 $$
-Now with this new system  we will replace the third and second equation with the 
+Now with this new system  we will replace the third and second equation with the sum of the first with the second and third 
+here is the resulting equation : 
+$$
+\begin{array}{l} \\
+x  - 2y + 3z   = 7   \\
+5x
+\end{array}
+$$
