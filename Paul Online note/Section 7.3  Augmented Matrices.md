@@ -8,3 +8,5 @@ Current date: "2025-05-14"
 amount of time: 
 learning score:
 ---
+in this section we need to talk about the third method of solving systems of equations . 
+For systems with two equation it is much more co
