@@ -9,4 +9,5 @@ amount of time:
 learning score:
 ---
 in this section we need to talk about the third method of solving systems of equations . 
-For systems with two equation it is much more complicated 
+For systems with two equation it is much more complicated when compare to the pervious section  , but for system with three or more equation it is easier 
+
