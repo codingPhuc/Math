@@ -86,13 +86,13 @@ $$
 We  are going to try to find value of z , y and z will satisfy all three equation at one . We are going to use elimination to eliminate one variable from one of  the equation and two variables from another equation 
 
 
-in this cases if we multiply the second equation by -4 and te then it will be easier to eliminate the second and third equation 
+in this cases if we multiply the second equation by -4 and the third equation by 2  then it will be easier to eliminate the second and third equation 
 
 $$
 \begin{array}{l}
- x -  2y +  3z =  7   \xrightarrow{\text{same}} x - 2y + 3z = 7  \\
-2x +  y + z = 4  \xrightarrow{\text{x 2}}  4x +2y + 2z  = 8 \\
--3x  + 2y -2z =  -10 \xrightarrow{\text{same}} -3x + 2y -2z  = -10   
+2x  -  4y  +  5z  = -33   \xrightarrow{\text{same}} x - 2y + 3z = 7  \\
+4x  - y =  -5  \xrightarrow{\text{x 2}}  4x +2y + 2z  = 8 \\
+-2x  + 2y - 3z  = 19   \xrightarrow{\text{same}} -3x + 2y -2z  = -10   
 \end{array}
 $$
 Now with this new system  we will replace the third and second equation with the sum of the first with the second and third 
