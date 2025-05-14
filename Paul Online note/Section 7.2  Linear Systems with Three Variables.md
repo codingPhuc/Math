@@ -153,6 +153,15 @@ $$
 substitute the y in the other two  equation and we will get 
 $$
 \begin{array}{l} \\
-
+2x  -  4( 4x +  5)  +  5z  = -33   \\
+-2x  + 2( 4x +  5) - 3z  = 19  
 \end{array}
 $$
+
+$$
+\begin{array}{l} \\
+2x  -16x -  20  +  5z  = -33   \\
+-2x  + 8x + 10 -3z  =  19    \\
+\end{array}
+$$
+
