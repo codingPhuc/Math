@@ -171,7 +171,17 @@ this leave us with a linear system  with two variables .Further more , using the
 $$
 \begin{array}{l}
 
-6x  -3z  = 9 \xrightarrow{\times\text{ 5}} 6x  -3z  = 9   \\
--14x   +  5z  = -13 \xrightarrow{\times\text{3}} -14x   +  5z  = -13
+6x  -3z  = 9 \xrightarrow{\times\text{ 5}} 30x  -15z  = 45   \\
+-14x   +  5z  = -13 \xrightarrow{\times\text{3}} -42x   +  15z  = -39 
+\end{array}
+$$
+
+
+Now replace the third and second equation with sum second  and first 
+$$
+\begin{array}{l} \\
+ 2x  -  4y  +  5z  = -33  \\
+-14x  +  5z  =  -13    \\
+-24x  = 12 \implies x =  - \frac{1}{2}
 \end{array}
 $$
