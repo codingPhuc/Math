@@ -106,12 +106,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 5.3  Graphing Polynomials.md",
+                "file": "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 5.3  Graphing Polynomials"
+              "title": "Section 7.1  Linear Systems with Two Variables"
             }
           }
         ]
@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 7.2  Linear Systems with Three Variables.md",
+                "file": "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 7.2  Linear Systems with Three Variables"
+              "title": "Outline of Section 7.1  Linear Systems with Two Variables"
             }
           }
         ],
@@ -274,14 +274,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d187a9b5e7872778",
+  "active": "bb0801bfb71bc866",
   "lastOpenFiles": [
-    "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",
+    "Paul Online note/Section 5.3  Graphing Polynomials.md",
     "Paul Online note/Section 7.2  Linear Systems with Three Variables.md",
+    "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",
     "picture/Pasted image 20250512173224.png",
     "picture/Pasted image 20250512173208.png",
     "Paul Online note/Section 6.2 Logarithm Functions.md",
-    "Paul Online note/Section 5.3  Graphing Polynomials.md",
     "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/Untitled.md",
     "Paul Online note/Section 6.5  Applications.md",
