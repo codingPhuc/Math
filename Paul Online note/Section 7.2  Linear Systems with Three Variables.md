@@ -83,7 +83,6 @@ $$
 $$
 
 
-
 We  are going to try to find value of z , y and z will satisfy all three equation at one . We are going to use elimination to eliminate one variable from one of  the equation and two variables from another equation 
 
 
@@ -133,4 +132,3 @@ x =  2   \\
 \end{array}
 $$
 
-We  are going to try to find value of z , y and z will satisfy all three equation at one . We are going to use elimination to eliminate one variable from one of  the equation and two variables from another equation
