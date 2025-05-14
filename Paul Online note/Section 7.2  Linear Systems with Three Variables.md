@@ -204,11 +204,13 @@ $$
 
 $$
 \begin{array}{l}  \\
-2x +  5y +  2 y =  -38   \\
+2x +  5y +  2 z =  -38   \\
 3x  - 2y  + 4z = 17  \\
--6x  +   y - 7x =  -12 
+-6x  +   y - 7z=  -12 
 \end{array}
 $$
+
+
 
 
 We  are going to try to find value of z , y and z will satisfy all three equation at one . We are going to use elimination to eliminate one variable from one of  the equation and two variables from another equation 
