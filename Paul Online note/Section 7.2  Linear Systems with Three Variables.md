@@ -27,8 +27,7 @@ in this cases if we multiply the second equation by 2 then it will be easier to 
 
 $$
 \begin{array}{l}
- x -  2y +  3z =  7   \xrightarrow{\text{same}} \\
-2x +  y + z = 4  \implies \\
+ x -  2y +  3z =  7   \xrightarrow{\text{same}} x - 2y + 3z =  \\
+2x +  y + z = 4  \xrightarrow{\text{x 2}}  4x +2y + 2z  = 8 \\
 -3x  + 2y -2z =  -10 \implies
-\end{array}
-$$
+\end{arra
