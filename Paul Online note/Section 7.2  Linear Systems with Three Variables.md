@@ -201,7 +201,7 @@ $$
 
 
 
-
+#fail 
 $$
 \begin{array}{l}  \\
 2x +  5y +  2 z =  -38   \\
@@ -260,7 +260,7 @@ $$
 \begin{array}{l}  \\
 y =   -8  \\
 -3y   + z =  22     \implies z =   -2    \\
--6x  +   y - 7z=  -12    \implies x  =    
+-6x  +   y - 7z=  -12    \implies x  =  3    
 \end{array}
 $$
 
