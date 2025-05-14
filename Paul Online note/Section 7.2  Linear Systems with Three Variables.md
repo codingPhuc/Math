@@ -250,8 +250,8 @@ Now replace the third and second equation with sum of the second and third
 $$
 \begin{array}{l} \\
 x  - 2y + 3z   = 7   \\
-5x  +  5z  =  15  \\
-15x  =  30 
+16y  - z  =  -126    \\
+13 y =  -102 
 \end{array}
 $$
 now solve the linear system  with  three solution 
