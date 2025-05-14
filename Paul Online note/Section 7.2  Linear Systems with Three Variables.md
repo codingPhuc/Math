@@ -32,3 +32,4 @@ $$
 -3x  + 2y -2z =  -10 \xrightarrow{\text{same}} -3x + 2y -2z  = -10   
 \end{array}
 $$
+Now with this new system  we will replace the third and second equation with the 
