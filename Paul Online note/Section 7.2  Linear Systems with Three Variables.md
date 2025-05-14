@@ -170,8 +170,8 @@ this leave us with a linear system  with two variables .Further more , using the
 
 $$
 \begin{array}{l}
-2x  -  4y  +  5z  = -33   \xrightarrow{\text{same}} 2x  -  4y  +  5z  = -33  \\
--14x  +  5z  =  -13  \xrightarrow{\text{ same}} -14x  +  5z  =  -13    \\
--2x -z  = 5   \xrightarrow{\times\text{5}} -10x -5z  = 25  
+
+6x  -3z  = 9 \xrightarrow{\times\text{ 5}} 6x  -3z  = 9   \\
+-14x   +  5z  = -13 \xrightarrow{\times\text{3}} -14x   +  5z  = -13
 \end{array}
 $$
