@@ -180,8 +180,8 @@ $$
 Now replace the third and second equation with sum second  and first 
 $$
 \begin{array}{l} \\
- 2x  -  4y  +  5z  = -33  \\
--14x  +  5z  =  -13    \\
--24x  = 12 \implies x =  - \frac{1}{2}
+30x  -15z  = 45   \\
+-12x     =   6   \\
+x =   -\frac{1}{2}
 \end{array}
 $$
