@@ -120,15 +120,16 @@ $$
 \begin{array}{l} \\
  2x  -  4y  +  5z  = -33  \\
 -14x  +  5z  =  20  \\
--24x  = 35  \implies x =  -19 
+-24x  = 12 \implies x =  - \frac{1}{2}
 \end{array}
 $$
 now solve the linear system  with  three solution 
 $$
 \begin{array}{l}  \\
-x =  -19 \\
-5z  =  15 - 5 \cdot 2   \implies z =   1    \\
-2  -  2y  + 3 \cdot 1   = 7 \implies y  = -1  
+x = - \frac{1}{2} \\
+-14x  +  5z  =  20 \implies    \\ 
+ 2x  -  4y  +  5z  = -33  \\
+
 \end{array}
 $$
 
