@@ -26,19 +26,7 @@ We  are going to try to find value of z , y and z will satisfy all three equatio
 in this cases if we multiply the second equation by 2 then it will be easier to eliminate the second and third equation 
 
 $$
-\begin{aligned}
-&6x  - 5y  =  8 \\
-& -12x  +   2y  = 0  \\
-\\
-&\text{Multiply the first equation by } 2: \\
-&12x  - 10y  =  16 \\
-&\text{Second equation remains the same: }  -12x   +   2y  = 0  \\
-\\
-&\text{Add the equations:} \\
-&( 12x   -12x  ) + ( - 10y    +   2y  ) = 16 \\
-&-8y = 16 \\
-&y = -2  \\
-&x =  \frac{1}{3} 
-\end{aligned}
-$$
+\begin{arra}
 
+\end{arra}
+$$
