@@ -185,3 +185,16 @@ $$
 x =   -\frac{1}{2}
 \end{array}
 $$
+now solve the linear system  with  three solution 
+$$
+\begin{array}{l}  \\
+x = - \frac{1}{2} \\
+4x  - y =  -5  \\\implies     y = 3  \\ 
+ 2x  -  4y  +  5z  = -33  \implies z = -4   \\
+\end{array}
+$$
+
+
+
+
+# #Practice_Exercise  
