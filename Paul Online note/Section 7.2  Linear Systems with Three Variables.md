@@ -47,7 +47,7 @@ So ,  we've eliminated one of the variables from  two of the equations . Now eit
 $$
 \begin{array}{l}
 x  - 2y + 3z   = 7   \xrightarrow{\text{same}} x  - 2y + 3z   = 7   \\
-2x +  y + z = 4  \xrightarrow{\text{x 2}}  4x +2y + 2z  = 8 \\
--3x  + 2y -2z =  -10 \xrightarrow{\text{same}} -3x + 2y -2z  = -10   
+5x  +  5z  =  15   \xrightarrow{\text{ same}} 5x  +  5z  =  15  \\
+-3x  + 2y -2z =  -10 \xrightarrow{\times\text{ 5}} -3x + 2y -2z  = -10   
 \end{array}
 $$
