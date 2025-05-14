@@ -119,7 +119,7 @@ Now replace the third and second equation with sum of the second and third
 $$
 \begin{array}{l} \\
  2x  -  4y  +  5z  = -33  \\
--14x  +  5z  =  20  \\
+-14x  +  5z  =  -13    \\
 -24x  = 12 \implies x =  - \frac{1}{2}
 \end{array}
 $$
@@ -127,8 +127,8 @@ now solve the linear system  with  three solution
 $$
 \begin{array}{l}  \\
 x = - \frac{1}{2} \\
--14x  +  5  =  20 \implies z = \frac{13}{5}    \\ 
- 2x  -  4y  +  5z  = -33  \\
+-14x  +  5z  =  -13 \implies z = -4    \\ 
+ 2x  -  4y  +  5z  = -33  \implies   y =  \\
 
 \end{array}
 $$
