@@ -317,7 +317,7 @@ $$
 Now replace the  second equation with sum second  and first 
 $$
 \begin{array}{l} \\
--3x   =    \\
+-3x   =  73  \\
 -12x     =   6   \\
 x =   -\frac{1}{2}
 \end{array}
