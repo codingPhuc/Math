@@ -308,16 +308,16 @@ this leave us with a linear system  with two variables .Further more , using the
 $$
 \begin{array}{l}
 
- -5x      -z  =  29   \xrightarrow{\times\text{ 5}}  -5x      -z  =  29    \\
+ -5x      -z  =  29   \xrightarrow{\times\text{ 5}} -25x        -5z  =  145     \\
 22x   + 5z     =  -72  \xrightarrow{same} 22x   + 5z     =  -72   
 \end{array}
 $$
 
 
-Now replace the third and second equation with sum second  and first 
+Now replace the  second equation with sum second  and first 
 $$
 \begin{array}{l} \\
-30x  -15z  = 45   \\
+-3x   =    \\
 -12x     =   6   \\
 x =   -\frac{1}{2}
 \end{array}
