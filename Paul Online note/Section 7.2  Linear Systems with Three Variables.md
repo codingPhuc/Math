@@ -164,5 +164,7 @@ $$
 6x  -3z  = 9     \\
 \end{array}
 $$
-this leave us with a 
+this leave us with a linear system  with two variables .Further more , using the elimination method we will get 
+
+
 
