@@ -19,7 +19,7 @@ An augmented matrix for a system of equation is a matrix of number where each ro
 
 
 $$
-\left\\[]\begin{array}{l}  \\
+\left[\begin{array}{l} 
 x - 2 y  +  3z  = 7  \\
 2x + y  + z  = 4  \\
 -3x + 2y - 2z = -10  
