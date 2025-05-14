@@ -48,6 +48,8 @@ $$
 \begin{array}{l}
 x  - 2y + 3z   = 7   \xrightarrow{\text{same}} x  - 2y + 3z   = 7   \\
 5x  +  5z  =  15   \xrightarrow{\text{ same}} 5x  +  5z  =  15  \\
--3x  + 2y -2z =  -10 \xrightarrow{\times\text{ 5}} -3x + 2y -2z  = -10   
+-2x  + z =  -3  \xrightarrow{\times\text{ -5}} 10x   -5 z =  15  
 \end{array}
 $$
+
+Now replace the third and second equation with the
