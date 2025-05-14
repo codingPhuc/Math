@@ -62,5 +62,8 @@ x  - 2y + 3z   = 7   \\
 $$
 now solve the linear system  with  three solution 
 $$
-
+\begin{array}{l}  \\
+x =  2   \\
+5z  =  15 - 5 \cdot 2   -  
+\end{array}
 $$
