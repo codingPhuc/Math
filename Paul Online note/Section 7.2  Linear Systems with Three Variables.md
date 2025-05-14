@@ -126,7 +126,7 @@ $$
 now solve the linear system  with  three solution 
 $$
 \begin{array}{l}  \\
-x =  2   \\
+x =  -19 \\
 5z  =  15 - 5 \cdot 2   \implies z =   1    \\
 2  -  2y  + 3 \cdot 1   = 7 \implies y  = -1  
 \end{array}
