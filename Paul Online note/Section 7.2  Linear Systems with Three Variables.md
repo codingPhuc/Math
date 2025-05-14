@@ -109,9 +109,9 @@ So ,  we've eliminated one of the variables from  two of the equations . Now eit
 
 $$
 \begin{array}{l}
-x  - 2y + 3z   = 7   \xrightarrow{\text{same}} x  - 2y + 3z   = 7   \\
-5x  +  5z  =  15   \xrightarrow{\text{ same}} 5x  +  5z  =  15  \\
--2x  + z =  -3  \xrightarrow{\times\text{ -5}} 10x   -5 z =  15  
+2x  -  4y  +  5z  = -33   \xrightarrow{\text{same}} 2x  -  4y  +  5z  = -33  \\
+-14x  +  5z  =  20  \xrightarrow{\text{ same}}  -14x  +  5z  =  20    \\
+-2x -z  = 38   \xrightarrow{\times\text{5}} -10x -5z  =  
 \end{array}
 $$
 
