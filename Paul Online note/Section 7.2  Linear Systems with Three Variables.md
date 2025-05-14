@@ -120,7 +120,7 @@ $$
 \begin{array}{l} \\
  2x  -  4y  +  5z  = -33  \\
 -14x  +  5z  =  20  \\
--8x  = 190 \implies x =  -19 
+-24x  = 35  \implies x =  -19 
 \end{array}
 $$
 now solve the linear system  with  three solution 
