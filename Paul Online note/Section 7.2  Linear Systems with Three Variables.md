@@ -264,3 +264,73 @@ y =   -8  \\
 \end{array}
 $$
 
+
+
+
+
+
+
+
+
+$$
+\begin{array}{l}  \\
+3x  -  9z   = 33  \\
+7x - 4y  -z  =  -15  \\
+4x + 6y + 5z     =  -6  
+\end{array}
+$$
+
+
+
+
+We  are going to try to find value of z , y and z will satisfy all three equation at one . We are going to use elimination to eliminate one variable from one of  the equation and two variables from another equation 
+
+
+in this cases if we multiply the second equation by 2 then it will be easier to eliminate the second and third equation 
+
+$$
+\begin{array}{l} \\
+-6x  +   y - 7z=  -12  \xrightarrow{\text{same}}  -6x  +   y - 7z=  -12 \\
+2x +  5y +  2 z =  -38  \xrightarrow{\times \text{3}}  6x  +  15y  +  6z  = -114  \\
+3x  - 2y  + 4z = 17  \xrightarrow{\times \text{2}}  6x  - 4y +  8z  = 34\\
+  
+\end{array}
+$$
+Now with this new system  we will replace the third and second equation with the sum of the first with the second and third 
+here is the resulting equation : 
+$$
+\begin{array}{l} \\
+ -6x  +   y - 7z=  -12  \\
+16y  - z  =  -126  \\
+-3y   + z =  22   
+\end{array}
+$$
+So ,  we've eliminated one of the variables from  two of the equations . Now either eliminate x or z from the third or second  equation . We will used  elimination to do this by multiplying the third  by -5
+
+
+$$
+\begin{array}{l}
+ -6x  +   y - 7z=  -12 \xrightarrow{\text{same}}  -6x  +   y - 7z=  -12   \\
+16y  - z  =  -126    \xrightarrow{\text{ same}} 16y  - z  =  -126   \\
+-3y   + z =  24  \xrightarrow{\text{ same}} -3y   + z =  22   
+\end{array}
+$$
+
+Now replace the third and second equation with sum of the second and third 
+$$
+\begin{array}{l} \\
+x  - 2y + 3z   = 7   \\
+16y  - z  =  -126    \\
+13 y =  -104 \\
+y =   -8   
+\end{array}
+$$
+now solve the linear system  with  three solution 
+$$
+\begin{array}{l}  \\
+y =   -8  \\
+-3y   + z =  22     \implies z =   -2    \\
+-6x  +   y - 7z=  -12    \implies x  =  3    
+\end{array}
+$$
+
