@@ -252,15 +252,15 @@ $$
 x  - 2y + 3z   = 7   \\
 16y  - z  =  -126    \\
 13 y =  -104 \\
-y =   8   
+y =   -8   
 \end{array}
 $$
 now solve the linear system  with  three solution 
 $$
 \begin{array}{l}  \\
-y =   8  \\
--3y   + z =  22     \implies z =   1    \\
-2  -  2y  + 3 \cdot 1   = 7 \implies y  = -1  
+y =   -8  \\
+-3y   + z =  22     \implies z =   -2    \\
+-6x  +   y - 7z=  -12    \implies x  =    
 \end{array}
 $$
 
