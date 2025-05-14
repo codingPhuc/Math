@@ -297,7 +297,7 @@ $$
 
 $$
 \begin{array}{l} \\
-  22z  -  4y   =  -92    \\
+  20z  -  4y   =  -92    \\
  17z  +  6y        =  -50  
 \end{array}
 $$
@@ -308,8 +308,8 @@ this leave us with a linear system  with two variables .Further more , using the
 $$
 \begin{array}{l}
 
- -5x      -z  =  29   \xrightarrow{\times\text{ 5}} -25x        -5z  =  145     \\
-22x   + 5z     =  -72  \xrightarrow{same} 22x   + 5z     =  -72   
+ 20z  -  4y   =  -92    \xrightarrow{\times\text{ 5}} -25x        -5z  =  145     \\
+ 17z  +  6y        =  -50    \xrightarrow{same} 22x   + 5z     =  -72   
 \end{array}
 $$
 
