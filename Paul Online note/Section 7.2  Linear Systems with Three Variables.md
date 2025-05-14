@@ -221,8 +221,8 @@ in this cases if we multiply the second equation by 2 then it will be easier to 
 $$
 \begin{array}{l} \\
 -6x  +   y - 7z=  -12  \xrightarrow{\text{same}}  -6x  +   y - 7z=  -12 \\
-2x +  5y +  2 z =  -38  \xrightarrow{\times \text{3}} 2x +  5y +  2 z =  -38  \\
-3x  - 2y  + 4z = 17  \xrightarrow{\times \text{2}}  3x  - 2y  + 4z = 17   \\
+2x +  5y +  2 z =  -38  \xrightarrow{\times \text{3}}  6x  +  15y  +  6z  = -114  \\
+3x  - 2y  + 4z = 17  \xrightarrow{\times \text{2}}  6x  - 4y +  8z  = 34\\
   
 \end{array}
 $$
