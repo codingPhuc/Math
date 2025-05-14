@@ -135,4 +135,4 @@ $$
 
 
 ### method 2  
-we are going to  take note of the attribute that x 
+we are going to  take note of the attribute that linear system with three equation having a 2 term equation
