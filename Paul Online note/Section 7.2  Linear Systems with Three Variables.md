@@ -232,7 +232,7 @@ $$
 \begin{array}{l} \\
  -6x  +   y - 7z=  -12  \\
 16y  - z  =  -126  \\
--3y   + z =  24   
+-3y   + z =  22   
 \end{array}
 $$
 So ,  we've eliminated one of the variables from  two of the equations . Now either eliminate x or z from the third or second  equation . We will used  elimination to do this by multiplying the third  by -5
@@ -242,7 +242,7 @@ $$
 \begin{array}{l}
  -6x  +   y - 7z=  -12 \xrightarrow{\text{same}}  -6x  +   y - 7z=  -12   \\
 16y  - z  =  -126    \xrightarrow{\text{ same}} 16y  - z  =  -126   \\
--3y   + z =  24  \xrightarrow{\text{ same}} -3y   + z =  24   
+-3y   + z =  24  \xrightarrow{\text{ same}} -3y   + z =  22   
 \end{array}
 $$
 
