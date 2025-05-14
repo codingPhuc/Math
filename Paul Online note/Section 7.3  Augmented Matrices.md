@@ -29,4 +29,5 @@ $$
 The first row show us all the constant numbers like the coefficient of x ,y z and the constant left of the equal sign on the left . Similarly , the same is true for the remaining row  . The dash line represent where the equal sign was originally 
 
 
-Next w
+Next we will discuss the elementary row operation  . There are three of them and we will give a notation used for each one 
+
