@@ -290,15 +290,15 @@ $$
 substitute the y in the other two  equation and we will get 
 $$
 \begin{array}{l} \\
-7(11 + 3x)  - 4y  -z  =  -15  \\
-4(11 + 3x) + 6y+ 5z     =  -6  
+7(11 + 3z)  - 4y  -z  =  -15  \\
+4(11 + 3z) + 6y+ 5z     =  -6  
 \end{array}
 $$
 
 $$
 \begin{array}{l} \\
- -5x      -z  =  29  \\
-22x   + 5z     =  -72  
+ 77 +  21z  -  4y  - z  =  -15   \\
+44  + 12z  +  6y     + 5z     =  -6   
 \end{array}
 $$
 this leave us with a linear system  with two variables .Further more , using the elimination method we will get 
