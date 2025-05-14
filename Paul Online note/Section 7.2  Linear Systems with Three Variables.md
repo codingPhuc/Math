@@ -309,7 +309,7 @@ $$
 \begin{array}{l}
 
  20z  -  4y   =  -92    \xrightarrow{\times\text{ 3}}  60z  -  12y   =  -276     \\
- 17z  +  6y        =  -50    \xrightarrow{\times\text{ 2}} 34x   + 5z     =  -72   
+ 17z  +  6y        =  -50    \xrightarrow{\times\text{ 2}} 34z   + 12y     =-100       
 \end{array}
 $$
 
@@ -317,7 +317,7 @@ $$
 Now replace the  second equation with sum second  and first 
 $$
 \begin{array}{l} \\
--3x   =  73  \\
+34 \\
 -12x     =   6   \\
 x =   -\frac{1}{2}
 \end{array}
