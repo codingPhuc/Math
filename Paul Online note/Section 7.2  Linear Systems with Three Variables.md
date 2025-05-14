@@ -297,8 +297,8 @@ $$
 
 $$
 \begin{array}{l} \\
- 77 +  21z  -  4y  - z  =  -15   \\
-44  + 12z  +  6y     + 5z     =  -6   
+  22z  -  4y   =  -92    \\
+ 17z  +  6y        =  -50  
 \end{array}
 $$
 this leave us with a linear system  with two variables .Further more , using the elimination method we will get 
