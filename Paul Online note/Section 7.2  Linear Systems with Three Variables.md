@@ -308,8 +308,8 @@ this leave us with a linear system  with two variables .Further more , using the
 $$
 \begin{array}{l}
 
- 20z  -  4y   =  -92    \xrightarrow{\times\text{ 5}} -25x        -5z  =  145     \\
- 17z  +  6y        =  -50    \xrightarrow{same} 22x   + 5z     =  -72   
+ 20z  -  4y   =  -92    \xrightarrow{\times\text{ 3}}  60z  -  12y   =  -276     \\
+ 17z  +  6y        =  -50    \xrightarrow{\times\text{ 2}} 34x   + 5z     =  -72   
 \end{array}
 $$
 
