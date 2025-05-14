@@ -127,7 +127,7 @@ now solve the linear system  with  three solution
 $$
 \begin{array}{l}  \\
 x = - \frac{1}{2} \\
--14x  +  5z  =  20 \implies    \\ 
+-14x  +  5  =  20 \implies z = \frac{13}{5}    \\ 
  2x  -  4y  +  5z  = -33  \\
 
 \end{array}
