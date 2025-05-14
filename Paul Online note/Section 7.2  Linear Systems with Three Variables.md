@@ -20,6 +20,6 @@ x - 2y +  3z  = 7  \\
 $$
 
 
-
+We  are going to try to find value of z , y and z will satisfy 
 
 
