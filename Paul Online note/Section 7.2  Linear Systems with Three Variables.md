@@ -160,8 +160,9 @@ $$
 
 $$
 \begin{array}{l} \\
-2x  -16x -  20  +  5z  = -33   \\
--2x  + 8x + 10 -3z  =  19    \\
+-14x   +  5z  = -13   \\
+6x  -3z  = 9     \\
 \end{array}
 $$
+this leave us with a 
 
