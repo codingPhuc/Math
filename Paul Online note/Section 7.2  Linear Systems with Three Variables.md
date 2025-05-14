@@ -135,4 +135,4 @@ $$
 
 
 ### method 2  
-we are going to  take note of the attribute that linear system with three equation having a 2 term equation
+we are going to  take note of the attribute that linear system with three equation having a 2 term equation with a y coefficient of -1 
