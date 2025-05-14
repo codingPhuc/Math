@@ -90,7 +90,7 @@ in this cases if we multiply the second equation by -4 and the third equation by
 
 $$
 \begin{array}{l}
-2x  -  4y  +  5z  = -33   \xrightarrow{\text{same}} x - 2y + 3z = 7  \\
+2x  -  4y  +  5z  = -33   \xrightarrow{\text{same}} 2x  -  4y  +  5z  = -33  \\
 4x  - y =  -5  \xrightarrow{\text{x -4}}  -16x   + 4y     = 20   \\
 -2x  + 2y - 3z  = 19   \xrightarrow{\text{same}} -3x + 2y -2z  = -10   
 \end{array}
