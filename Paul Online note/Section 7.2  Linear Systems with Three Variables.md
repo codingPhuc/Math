@@ -37,6 +37,8 @@ here is the resulting equation :
 $$
 \begin{array}{l} \\
 x  - 2y + 3z   = 7   \\
-5x
+5x  +  5z  =  15  \\
+-2x  + z =  -3  
 \end{array}
 $$
+So ,  we've eliminated one of the variables from  two of the equations . Now either eliminate x or z from the third or second 
