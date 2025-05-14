@@ -26,7 +26,9 @@ We  are going to try to find value of z , y and z will satisfy all three equatio
 in this cases if we multiply the second equation by 2 then it will be easier to eliminate the second and third equation 
 
 $$
-\begin{arra}
-
-\end{arra}
+\begin{array}{l}
+ x -  2y +  3z =  7   \implies \\
+2x +  y + z = 4  \implies \\
+-3x  + 2y -2z =  -10 \implies
+\end{array}
 $$
