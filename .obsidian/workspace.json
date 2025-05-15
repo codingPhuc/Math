@@ -106,12 +106,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",
+                "file": "Paul Online note/Section 7.3  Augmented Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 7.1  Linear Systems with Two Variables"
+              "title": "Section 7.3  Augmented Matrices"
             }
           }
         ]
@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",
+                "file": "Paul Online note/Section 7.3  Augmented Matrices.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 7.1  Linear Systems with Two Variables"
+              "title": "Outline of Section 7.3  Augmented Matrices"
             }
           }
         ],
@@ -276,13 +276,13 @@
   },
   "active": "bb0801bfb71bc866",
   "lastOpenFiles": [
+    "Paul Online note/Section 7.2  Linear Systems with Three Variables.md",
+    "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",
     "Paul Online note/Section 7.3  Augmented Matrices.md",
     "Paul Online note/Untitled 1.md",
-    "Paul Online note/Section 7.2  Linear Systems with Three Variables.md",
     "Paul Online note/Section 6.3 Solving Exponential Equations.md",
     "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
     "Paul Online note/Section 6.5  Applications.md",
-    "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",
     "Paul Online note/Section 5.3  Graphing Polynomials.md",
     "picture/Pasted image 20250512173224.png",
     "picture/Pasted image 20250512173208.png",

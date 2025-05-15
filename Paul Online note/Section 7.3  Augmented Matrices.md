@@ -257,13 +257,29 @@ $$
 \end{array}\right]
 $$
 $$
-\left[ \begin{array}{cc|c}
- 3 &  -6  &  -9  \\
-1  &  1  &  -6   
-\end{array} \right] 
+\left[\begin{array}{ccc|c}  
+3 &  1  &  -2   &  2  \\
+1  &  -2 &  1  &   3   \\
+2  &  -1  &  -3  &  3 
+\end{array}\right]
 R_1\leftrightarrow R_2
-\left[ \begin{array}{cc|c}
-1  &  1  &  -6    \\
- 3 &  -6  &  -9  
+\left[\begin{array}{ccc|c}  
+1  &  -2 &  1  &   3    \\
+3 &  1  &  -2   &  2  \\
+2  &  -1  &  -3  &  3 
+\end{array}\right]
+$$
+
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1  &  3  &  1     \\
+3  &  -2  &  14  \\
+\end{array} \right] 
+R_{2}  -3R_1 \to R_2 
+\left[ \begin{array}{cc|c}  
+1  &  3  &  1     \\
+0 &  -11  &  11  \\
 \end{array} \right] 
 $$
