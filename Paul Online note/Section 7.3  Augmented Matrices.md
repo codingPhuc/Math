@@ -227,4 +227,4 @@ y = -1
 
 
 
-It is important to note that the path we used to get a augmented matrix in the final form is not the only path that we could used 
+It is important to note that the path we used to get a augmented matrix in the final form is not the only path that we could used . All the path should arrive at the same final augmented matrix however so we could choose the path that feel the easiest . 
