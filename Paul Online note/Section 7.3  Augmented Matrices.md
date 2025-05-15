@@ -378,14 +378,23 @@ $$
 $$
 \left[\begin{array}{ccc|c}  
 1  &  0 &  -\frac{3}{7}  &   1    \\
-0 &  1  &  -\frac{5}{7}   &  -1  \\
+0 &  1    & 0   &  -1  \\
 0  &  0  &  1  &  0
 \end{array}\right]
 R_{1}  +\frac{3}{7}R_3 \to R_3 
 \left[\begin{array}{ccc|c}  
-1  &  0 &  -\frac{3}{7}  &   1    \\
+1  &  0 &  0 &   1    \\
 0 &  1    & 0   &  -1  \\
 0  &  0  &  1  &  0
 \end{array}\right]
 $$
+
+$$
+\begin{array}{l} 
+x  = 1  \\
+ y =  -1   \\
+z =  0 
+\end{array}
+$$
+
 
