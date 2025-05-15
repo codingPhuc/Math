@@ -238,4 +238,13 @@ $$
 0  &  0  &  1  &  r 
 \end{array}\right]
 $$
-one the argument matrix is in this form  the solution is $x = p$
+one the argument matrix is in this form  the solution is $x = p,y=q,z=r$ . 
+
+## Solve each of the following systems of equations. 
+$$
+\begin{array}{l} \\
+3x  + y  - 2z   = 2   \\
+x   - 2y + z =  3   \\
+2x 
+\end{array}
+$$
