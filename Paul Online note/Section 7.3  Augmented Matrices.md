@@ -165,10 +165,10 @@ $$
 1  &  1  &  -6    \\
  3 &  -6  &  -9  
 \end{array} \right] 
-R_{2}  -3R_1 \to R_2 
+-\frac{1}{2}R_{2} \to 
 \left[ \begin{array}{cc|c}
-1  &  1  &  -6    \\
- 0 &  -9  &  -27  
+ 3 &  -6  &  -9  \\
+1  &  1  & -6 
 \end{array} \right] 
 $$
 
