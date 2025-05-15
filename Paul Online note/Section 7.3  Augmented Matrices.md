@@ -80,3 +80,10 @@ $$
 $$
 The solution to the system will be  $x=h \text{ and } y=k$
 This method is called **Gauss-Jordan Elimination**
+
+$$\begin{array}{l}
+ 3x - 2 y  =  14   \\
+x + 3 y  = 1  
+\end{array}
+$$
+
