@@ -157,29 +157,30 @@ $$
 
 
 
-$$\begin{array}{l}
+$$
+\begin{array}{l}
 3x  -6y = -9  \\
--2x -  2y  = -2  
+-2x -  2y  = 12  
 \end{array}
 $$
 
 $$
-\left[ \begin{array}{cc|c}  
--2  &  1  &  -3  \\
-1  &  -4  &  -2  
+\left[ \begin{array}{cc|c}
+ 3 &  -6  &  -9  \\
+-2  &  -2  &  12   
 \end{array} \right] 
 $$
 
 
 $$
-\left[ \begin{array}{cc|c}  
--2  &  1  &  -3  \\
-1  &  -4  &  -2  
+\left[ \begin{array}{cc|c}
+ 3 &  -6  &  -9  \\
+-2  &  -2  &  12   
 \end{array} \right] 
 R_{1} + 2 R_2 \to R_2 
-\left[ \begin{array}{cc|c}  
--2  &  1  &  -3  \\
-0  &  -7  &  -7  
+\left[ \begin{array}{cc|c}
+ 3 &  -6  &  -9  \\
+-2  &  -2  &  12   
 \end{array} \right] 
 $$
 
