@@ -249,3 +249,10 @@ x   - 2y + z =  3   \\
 \end{array}
 $$
 
+$$
+\left[\begin{array}{ccc|c}  
+3 &  1  &  0   &  p  \\
+0  &  1  &  0  &   q   \\
+0  &  0  &  1  &  r 
+\end{array}\right]
+$$
