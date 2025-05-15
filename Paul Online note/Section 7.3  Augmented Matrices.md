@@ -432,6 +432,24 @@ $$
 1  &  1  &  -3  &  -6 
 \end{array}\right]
 $$
+
+$$
+\left[\begin{array}{ccc|c}  
+3 &  1  &  -2   &  -7  \\
+2  &  2 &  1  &   9   \\
+1  &  1  &  -3  &  -6 
+\end{array}\right]
+R_3\leftrightarrow R_1
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+2  &  2 &  1  &   9  3 &  1  &  -2   &  -7  \\
+  \\
+\end{array}\right]
+$$
+
+
+
+
 $$
 \begin{array}{l} 
 x  = 1  \\
