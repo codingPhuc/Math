@@ -100,7 +100,8 @@ $$
 3  &  -2  &  14  \\
 1  &  3  &  1  
 \end{array} \right] 
-R_1\leftrightarrow R_2  \left[ \begin{array}{cc|c}  
+R_1\leftrightarrow R_2
+\left[ \begin{array}{cc|c}  
 1  &  3  &  1     \\
 3  &  -2  &  14  \\
 \end{array} \right] 
@@ -110,13 +111,13 @@ $$
 
 $$
 \left[ \begin{array}{cc|c}  
+1  &  3  &  1     \\
 3  &  -2  &  14  \\
-1  &  3  &  1  
 \end{array} \right] 
-R_{1} + 2 R_2 \to R_2 
+R_{2}  -3R_1 \to R_2 
 \left[ \begin{array}{cc|c}  
--2  &  1  &  -3  \\
-0  &  -7  &  -7  
+1  &  3  &  1     \\
+0 &  -2  &  14  \\
 \end{array} \right] 
 $$
 
