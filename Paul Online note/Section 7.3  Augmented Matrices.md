@@ -181,13 +181,13 @@ R_1\leftrightarrow R_2
 \end{array} \right] 
 $$
 $$
-\left[ \begin{array}{cc|c}  
-1  &  3  &  1     \\
-0 &  1  &  -1  \\
+\left[ \begin{array}{cc|c}
+1  &  1  &  -6    \\
+ 3 &  -6  &  -9  
 \end{array} \right] 
 R_{1}  -3R_2 \to R_1 
-\left[ \begin{array}{cc|c}  
-1  &  0  &  4     \\
-0 &  1  &  -1  \\
+\left[ \begin{array}{cc|c}
+1  &  1  &  -6    \\
+ 3 &  -6  &  -9  
 \end{array} \right] 
 $$
