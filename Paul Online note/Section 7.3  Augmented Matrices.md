@@ -627,7 +627,24 @@ $$
 \end{array}\right]
 8R_{1} \to 
 \left[\begin{array}{ccc|c}  
-\frac{1}{2} &  -\frac{1}{}  &  3   &  5  \\
+\frac{1}{2} &  -\frac{1}{8}  &  \frac{3}{8}  &  \frac{5}{8}  \\
 0  &  2 &  5  &   9   \\
 -6  &  1  &  -3  &  10 
-\end{array}\
+\end{array}\right]
+$$
+
+
+
+
+$$
+\left[\begin{array}{ccc|c}  
+4 &  -1  &  3   &  5  \\
+0  &  2 &  5  &   9   \\
+-6  &  1  &  -3  &  10 
+\end{array}\right]
+R_2\leftrightarrow R_3
+\left[ \begin{array}{cc|c}
+1  &  1  &  -6    \\
+ 3 &  -6  &  -9  
+\end{array} \right] 
+$$
