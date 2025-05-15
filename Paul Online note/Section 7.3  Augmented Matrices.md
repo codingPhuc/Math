@@ -658,12 +658,12 @@ $$
 $$
 \left[\begin{array}{ccc|c}  
 4 &  -1  &  3   &  5  \\
--6  &  1  &  -3  &  10  \\
-0  &  2 &  5  &   9 
+0  &  2 &  5  &   9   \\
+-6  &  1  &  -3  &  10 
 \end{array}\right]
-R_{2}  -3R_1 \to R_2 
-\left[ \begin{array}{cc|c}
-1  &  1  &  -6    \\
- 0 &  -9  &  9
-\end{array} \right] 
-$$
+R_{2}  +  3R_1 \to R_2 
+\left[\begin{array}{ccc|c}  
+4 &  -1  &  3   &  5  \\
+12  &  -1 &  5  &   9   \\
+-6  &  1  &  -3  &  10 
+\end{array}\right]
