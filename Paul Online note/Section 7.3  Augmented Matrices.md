@@ -31,4 +31,6 @@ The first row show us all the constant numbers like the coefficient of x ,y z an
 
 Next we will discuss the elementary row operation  . There are three of them and we will give a notation used for each one 
 1. **Interchange two Rows** . With this operation we will interchange all entries in row i and row j . The notion  we will used here is $R_{i} \leftrightarrow R_{j}$ . Here is an example 
-
+$$
+ \begin{bmatrix}1&-2&3&7\\2&1&1&4\\-3&2&-2&-10\end{bmatrix}R_1\leftrightarrow R_3\begin{bmatrix}-3&2&-2&-10\\2&1&1&4\\1&-2&3&7\end{bmatrix}
+$$
