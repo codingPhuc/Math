@@ -550,7 +550,7 @@ $$
 
 $$
 \left[\begin{array}{ccc|c}  
-1  &  1  &  -3  &  -6  \\
+1  &  0  &  \frac{1}{2} &  -\frac{1}{2}  \\
  0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
 0  &  0 &  7  &   21  \\
 \end{array}\right]
@@ -574,7 +574,7 @@ $$
 R_{2}  + \frac{7}{2}R_3 \to R_2 
 \left[\begin{array}{ccc|c}  
 1  &  1  &  -3  &  -6  \\
- 0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
+ 0 &  1  & 0   & 5   \\
 0  &  0 &  1 &   3  \\
 \end{array}\right]
 $$
