@@ -687,7 +687,7 @@ $$
 
 
 $$
-\mathrm{(a)~}8R_1\quad\mathrm{(b)~}R_2\leftrightarrow R_3\quad\mathrm{(c)~}R_2+3R_1\to R_2
+\mathrm{(a)~}\frac{1}{2}R_2\quad\mathrm{(b)~}R_1\leftrightarrow R_3\quad\mathrm{(c)~}R_1-6R_3\to R_1
 $$
 
 $$
