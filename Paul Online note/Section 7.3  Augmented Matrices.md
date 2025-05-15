@@ -30,4 +30,4 @@ The first row show us all the constant numbers like the coefficient of x ,y z an
 
 
 Next we will discuss the elementary row operation  . There are three of them and we will give a notation used for each one 
-1. 
+1.**Interchange Two Rows**
