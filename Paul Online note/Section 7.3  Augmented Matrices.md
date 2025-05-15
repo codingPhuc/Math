@@ -87,3 +87,9 @@ x + 3 y  = 1
 \end{array}
 $$
 
+$$
+\left[ \begin{array}{cc|c}  
+3  &  -2  &  14  \\
+1  &  3  &  1  
+\end{array} \right] 
+$$
