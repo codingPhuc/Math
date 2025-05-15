@@ -140,13 +140,52 @@ $$
 R_{1} + 2 R_2 \to R_2 
 \left[ \begin{array}{cc|c}  
 -2  &  1  &  -3  \\
-1  &  -4  &  -2  
+0  &  -7  &  -7  
 \end{array} \right] 
 $$
 
 $$
 \begin{array}{l}  \\
-y = -1   \\
-x   = 4
+y = 1  \\
+x   = 2
+\end{array}
+$$
+
+
+
+
+
+
+
+$$\begin{array}{l}
+-2x  + y = -3  \\
+x -  4y  = -2  
+\end{array}
+$$
+
+$$
+\left[ \begin{array}{cc|c}  
+-2  &  1  &  -3  \\
+1  &  -4  &  -2  
+\end{array} \right] 
+$$
+
+
+$$
+\left[ \begin{array}{cc|c}  
+-2  &  1  &  -3  \\
+1  &  -4  &  -2  
+\end{array} \right] 
+R_{1} + 2 R_2 \to R_2 
+\left[ \begin{array}{cc|c}  
+-2  &  1  &  -3  \\
+0  &  -7  &  -7  
+\end{array} \right] 
+$$
+
+$$
+\begin{array}{l}  \\
+y = 1  \\
+x   = 2
 \end{array}
 $$
