@@ -300,14 +300,29 @@ R_{2}  -2R_1 \to R_2
 \end{array}\right]
 $$
 $$
-\left[ \begin{array}{cc|c}
- 3 &  -6  &  -9  \\
--2  &  -2  &  12   
-\end{array} \right] 
--\frac{1}{2}R_{2} \to 
-\left[ \begin{array}{cc|c}
- 3 &  -6  &  -9  \\
-1  &  1  & -6 
-\end{array} \right] 
+\left[\begin{array}{ccc|c}  
+1  &  -2 &  1  &   3    \\
+0 &  7  &  -5   &  -7  \\
+0  &  -3  &  -5  &  -3 
+\end{array}\right]
+\frac{1}{7}R_{2} \to 
+\left[\begin{array}{ccc|c}  
+1  &  -2 &  1  &   3    \\
+0 &  1  &  -\frac{5}{7}   &  -1  \\
+0  &  -3  &  -5  &  -3 
+\end{array}\right]
 $$
 
+$$
+\left[\begin{array}{ccc|c}  
+1  &  -2 &  1  &   3    \\
+0 &  7  &  -5   &  -7  \\
+2  &  -1  &  -3  &  3 
+\end{array}\right]
+R_{2}  -2R_1 \to R_2 
+\left[\begin{array}{ccc|c}  
+1  &  -2 &  1  &   3    \\
+0 &  7  &  -5   &  -7  \\
+0  &  -3  &  -5  &  -3 
+\end{array}\right]
+$$
