@@ -541,8 +541,23 @@ $$
 \end{array}\right]
 R_{1}  -R_2 \to R_1 
 \left[\begin{array}{ccc|c}  
-1  &  0  &  \frac{1}{2} &  1  \\
+1  &  0  &  \frac{1}{2} &  -\frac{1}{2}  \\
  0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
 0  &  0 &  7  &   21  \\
+\end{array}\right]
+$$
+
+
+$$
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+ 0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
+0  &  0 &  7  &   21  \\
+\end{array}\right]
+\frac{1}{7}R_{9} \to 
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+ 0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
+0  &  0 &  1 &   3  \\
 \end{array}\right]
 $$
