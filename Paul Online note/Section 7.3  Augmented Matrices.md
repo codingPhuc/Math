@@ -55,3 +55,8 @@ $$
 -10   - 4(7)  = -38 
 \end{array}
 $$
+we will start with a system of two equations and two unknowns 
+$$
+\begin{array}{l}
+
+\end{array}
