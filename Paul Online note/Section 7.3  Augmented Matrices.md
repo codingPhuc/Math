@@ -208,7 +208,9 @@ $$
 \end{array} \right] 
 R_{1}  -R_2\to R_1 
 \left[ \begin{array}{cc|c}
-1  &  0  &  -6    \\
+1  &  0  &  -9   \\
  0 &  1  & 3 
 \end{array} \right] 
 $$
+x=     9 
+y = 3
