@@ -78,3 +78,5 @@ a  &  b  &  p  \\
 c  &  d  &  q 
 \end{array}\right]
 $$
+The solution to the system will be  $x=h \text{ and } y=k$
+This method is called **Gauss-Jordan Elimination**
