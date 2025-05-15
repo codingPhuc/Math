@@ -46,4 +46,13 @@ $$
  \left.\left[\begin{array}{rrrr}1&-2&3&7\\2&1&1&4\\-3&2&-2&-10\end{array}\right.\right]R_3-4R_1\to R_3\begin{bmatrix}1&-2&3&7\\2&1&1&4\\-7&10&-14&-38\end{bmatrix}
 $$
 
-Go  throught the 
+Go  through the individual computation to make sure you followed this  : 
+
+$$
+\begin{array}{l} \\
+-3  - 4( 1 )  =  -7  \\
+2 -  4 ( -2)  =  10   \\
+-2  - 4(3)  =  -14  \\
+-10   - 4
+\end{array}
+$$
