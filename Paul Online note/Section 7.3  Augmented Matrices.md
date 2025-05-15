@@ -65,10 +65,11 @@ $$
 we first will write down the argument matrix 
 
 $$
-\begin{array}{cc|c}  
+\left[ \begin{array}{cc|c}  
 a  &  b  &  p  \\
 c  &  d  &  q 
-\end{array}
+\end{array} \right] 
+
 $$
 and used elementary row operations to convert it into the following matrix 
 $$
