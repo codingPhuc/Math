@@ -41,5 +41,5 @@ $$
 $$
 
 
-3.  **Add a Multiple of rows to Another Rows**  In this operation we will replace row i with the sum of row i and constant c , times row  j .The notation that we will be using for this operations is $R_{i} +cR_{i}\xrightarrow{\text{}}$
+3.  **Add a Multiple of rows to Another Rows**  In this operation we will replace row i with the sum of row i and constant c , times row  j .The notation that we will be using for this operations is $R_{i} +cR_{i}\xrightarrow{\text{}}Ri$ 
 
