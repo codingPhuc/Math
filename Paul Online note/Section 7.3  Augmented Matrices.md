@@ -71,3 +71,9 @@ c  &  d  &  q
 \end{array}
 $$
 and used elementary row operations to convert it into the following matrix 
+$$
+\left[\begin{array}{cc|c}  
+a  &  b  &  p  \\
+c  &  d  &  q 
+\end{array}\right]
+$$
