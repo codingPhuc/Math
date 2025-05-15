@@ -505,7 +505,7 @@ $$
 R_{2}  -3R_1 \to R_2 
 \left[\begin{array}{ccc|c}  
 1  &  1  &  -3  &  -6  \\
- 0 &  -2  &  7   &  -7    \\
+ 0 &  -2  &  7   &  11   \\
 0  &  0 &  7  &   21  \\
 \end{array}\right]
 $$
@@ -518,3 +518,16 @@ z =  0
 $$
 
 
+$$
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+ 0 &  -2  &  7   &  11   \\
+0  &  0 &  7  &   21  \\
+\end{array}\right]
+-\frac{1}{9}R_{9} \to 
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+ 0 &  -2  &  7   &  11   \\
+0  &  0 &  7  &   21  \\
+\end{array}\right]
+$$
