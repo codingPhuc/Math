@@ -680,10 +680,11 @@ $$
 $$
 \left[\begin{array}{ccc|c}  
 1 &  -6  &  2   &  0  \\
-0  &  2 &  5  &   9   \\
--6  &  1  &  -3  &  10 
+2  &  -8 &  10  &   4   \\
+3  &  -4  &  -1  &  2 
 \end{array}\right]
 $$
+
 
 $$
 \mathrm{(a)~}8R_1\quad\mathrm{(b)~}R_2\leftrightarrow R_3\quad\mathrm{(c)~}R_2+3R_1\to R_2
