@@ -40,3 +40,6 @@ $$
 \left.\left[\begin{array}{rrrr}1&-2&3&7\\2&1&1&4\\-3&2&-2&-10\end{array}\right.\right]\begin{array}{rr}-4R_3\\\to\end{array}\begin{bmatrix}1&-2&3&7\\2&1&1&4\\12&-8&8&40\end{bmatrix}
 $$
 
+
+3.  **Add a Multiple of rows to Another Rows**  
+
