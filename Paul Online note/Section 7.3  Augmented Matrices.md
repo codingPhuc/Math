@@ -204,11 +204,11 @@ $$
 $$
 \left[ \begin{array}{cc|c}
 1  &  1  &  -6    \\
- 3 &  -6  &  -9  
+ 0 &  1  & 3 
 \end{array} \right] 
-R_{2}  -3R_1 \to R_2 
+R_{1}  -R_2\to R_1 
 \left[ \begin{array}{cc|c}
-1  &  1  &  -6    \\
- 0 &  -9  &  -27  
+1  &  0  &  -6    \\
+ 0 &  1  & 3 
 \end{array} \right] 
 $$
