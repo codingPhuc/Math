@@ -419,23 +419,19 @@ $$
 -1  &  -1  &  3  &  6 
 \end{array}\right]
 $$
-
-
-$$
 $$
 \left[\begin{array}{ccc|c}  
 3 &  1  &  -2   &  -7  \\
 2  &  2 &  1  &   9   \\
 -1  &  -1  &  3  &  6 
 \end{array}\right]
+-1R_{3} \to 
+\left[\begin{array}{ccc|c}  
+3 &  1  &  -2   &  -7  \\
+2  &  2 &  1  &   9   \\
+1  &  1  &  -3  &  -6 
+\end{array}\right]
 $$
-R_1\leftrightarrow R_2
-\left[ \begin{array}{cc|c}
-1  &  1  &  -6    \\
- 3 &  -6  &  -9  
-\end{array} \right] 
-$$
-
 $$
 \begin{array}{l} 
 x  = 1  \\
