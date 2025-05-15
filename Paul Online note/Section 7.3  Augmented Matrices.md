@@ -554,7 +554,24 @@ $$
  0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
 0  &  0 &  7  &   21  \\
 \end{array}\right]
-\frac{1}{7}R_{9} \to 
+\frac{1}{7}R_{3} \to 
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+ 0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
+0  &  0 &  1 &   3  \\
+\end{array}\right]
+$$
+
+
+
+
+$$
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+ 0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
+0  &  0 &  1 &   3  \\
+\end{array}\right]
+R_{2}  + \frac{7}{2}R_3 \to R_2 
 \left[\begin{array}{ccc|c}  
 1  &  1  &  -3  &  -6  \\
  0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
