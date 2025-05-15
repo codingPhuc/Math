@@ -346,13 +346,15 @@ $$
 
 
 $$
-\left[ \begin{array}{cc|c}
-1  &  1  &  -6    \\
- 0 &  -9  &  9
-\end{array} \right] 
--\frac{1}{9}R_{9} \to 
-\left[ \begin{array}{cc|c}
-1  &  1  &  -6    \\
- 0 &  1  &  -1 
-\end{array} \right] 
+\left[\begin{array}{ccc|c}  
+1  &  0 &  -\frac{3}{7}  &   1    \\
+0 &  1  &  -\frac{5}{7}   &  -1  \\
+0  &  0  &  1  &  0
+\end{array}\right]
+-\frac{20}{7} R_{3}\to 
+\left[\begin{array}{ccc|c}  
+1  &  0 &  -\frac{3}{7}  &   1    \\
+0 &  1  &  -\frac{5}{7}   &  -1  \\
+0  &  0  &  1  &  0
+\end{array}\right]
 $$
