@@ -715,9 +715,9 @@ $$
 \end{array}\right]
 R_1\leftrightarrow R_3
 \left[\begin{array}{ccc|c}  
-1 &  -6  &  2   &  0  \\
+   3  &  -4  &  -1  &  2  \\
 2  &  -8 &  10  &   4   \\
-3  &  -4  &  -1  &  2 
+1 &  -6  &  2   &  0
 \end{array}\right]
 $$
 
@@ -725,9 +725,9 @@ $$
 
 $$
 \left[\begin{array}{ccc|c}  
-4 &  -1  &  3   &  5  \\
-0  &  2 &  5  &   9   \\
--6  &  1  &  -3  &  10 
+1 &  -6  &  2   &  0  \\
+2  &  -8 &  10  &   4   \\
+3  &  -4  &  -1  &  2 
 \end{array}\right]
 R_{2}  +  3R_1 \to R_2 
 \left[\begin{array}{ccc|c}  
