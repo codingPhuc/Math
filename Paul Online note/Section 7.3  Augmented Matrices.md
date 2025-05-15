@@ -174,16 +174,20 @@ $$
  3 &  -6  &  -9  \\
 1  &  1  &  -6   
 \end{array} \right] 
-R_{1}   R_2 \to R_2 
+R_1\leftrightarrow R_2
 \left[ \begin{array}{cc|c}
- 3 &  -6  &  -9  \\
--2  &  -2  &  12   
+1  &  1  &  -6    \\
+ 3 &  -6  &  -9  
 \end{array} \right] 
 $$
-
 $$
-\begin{array}{l}  \\
-y = 1  \\
-x   = 2
-\end{array}
+\left[ \begin{array}{cc|c}  
+1  &  3  &  1     \\
+0 &  1  &  -1  \\
+\end{array} \right] 
+R_{1}  -3R_2 \to R_1 
+\left[ \begin{array}{cc|c}  
+1  &  0  &  4     \\
+0 &  1  &  -1  \\
+\end{array} \right] 
 $$
