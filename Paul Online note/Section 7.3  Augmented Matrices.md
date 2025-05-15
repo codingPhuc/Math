@@ -36,4 +36,7 @@ $$
 $$so we do exactly as the operation say every  entry on the first row move down to the third rows , every entry on the third rows move up to the first row .  
 2. **Multiply a Row by a Constant** .In this operation we will multiply row i by a constant c and the notion will be used here is  $cR_{i}$ , note as well that we can divided a row by a constant using the notation$\frac{1}{c}R_{i}$ here is an example  
 
+$$
+\left.\left[\begin{array}{rrrr}1&-2&3&7\\2&1&1&4\\-3&2&-2&-10\end{array}\right.\right]\begin{array}{rr}-4R_3\\\to\end{array}\begin{bmatrix}1&-2&3&7\\2&1&1&4\\12&-8&8&40\end{bmatrix}
+$$
 
