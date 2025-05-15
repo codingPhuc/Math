@@ -41,5 +41,9 @@ $$
 $$
 
 
-3.  **Add a Multiple of rows to Another Rows**  In this operation we will replace row i with the sum of row i and constant c , times row  j .The notation that we will be using for this operations is $R_{i} +cR_{j}\xrightarrow{\text{}}Ri$  
+3.  **Add a Multiple of rows to Another Rows**  In this operation we will replace row i with the sum of row i and constant c , times row  j .The notation that we will be using for this operations is $R_{i} +cR_{j}\xrightarrow{\text{}}Ri$   . Here is and example operation 
+$$
+ \left.\left[\begin{array}{rrrr}1&-2&3&7\\2&1&1&4\\-3&2&-2&-10\end{array}\right.\right]R_3-4R_1\to R_3\begin{bmatrix}1&-2&3&7\\2&1&1&4\\-7&10&-14&-38\end{bmatrix}
+$$
+
 
