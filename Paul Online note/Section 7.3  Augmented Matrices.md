@@ -321,8 +321,20 @@ $$
 \end{array}\right]
 R_{1} + 2R_2 \to R_2 
 \left[\begin{array}{ccc|c}  
-1  &  0 &  1  &   3    \\
+1  &  0 &  -\frac{3}{7}  &   1    \\
 0 &  1  &  -\frac{5}{7}   &  -1  \\
 0  &  -3  &  -5  &  -3 
 \end{array}\right]
+$$
+
+
+
+$$
+\left[\begin{array}{ccc|c}  
+1  &  0 &  -\frac{3}{7}  &   1    \\
+0 &  1  &  -\frac{5}{7}   &  -1  \\
+0  &  -3  &  -5  &  -3 
+\end{array}\right]
+R_{1} + 2R_2 \to R_2 
+
 $$
