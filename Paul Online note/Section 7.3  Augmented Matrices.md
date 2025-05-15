@@ -748,14 +748,14 @@ $$
 $$
 \left[\begin{array}{ccc|c}  
 10 &  -1  &  -5   &  1  \\
-4  &  -8 &  10  &   4   \\
-3  &  -4  &  -1  &  2 
+4  &  0 &  7  &   -1   \\
+0 &  7  &  -2  &  3 
 \end{array}\right]
 $$
 
 
 $$
-\mathrm{(a)~}\frac{1}{2}R_2\quad\mathrm{(b)~}R_1\leftrightarrow R_3\quad\mathrm{(c)~}R_1-6R_3\to R_1
+\mathrm{(a)~-9}R_3\quad\mathrm{(b)~}R_1\leftrightarrow R_2\quad\mathrm{(c)~}R_3-R_1\to R_3
 $$
 
 $$
@@ -764,7 +764,7 @@ $$
 2  &  -8 &  10  &   4   \\
 3  &  -4  &  -1  &  2 
 \end{array}\right]
-\frac{1}{2}R_{2} \to 
+-9R_{2} \to 
 \left[\begin{array}{ccc|c}  
 1 &  -6  &  2   &  0  \\
 1  &  -4 &  5  &   2  \\
