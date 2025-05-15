@@ -65,8 +65,9 @@ $$
 we first will write down the argument matrix 
 
 $$
-\begin{array}{c c c |c}  \\
+\begin{array}{cc|c}  
 a  &  b  &  p  \\
 c  &  d  &  q 
 \end{array}
 $$
+and used elementary row operations to convert it into the following matrix 
