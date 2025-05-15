@@ -227,3 +227,4 @@ y = -1
 
 
 
+It is important to note that the path we used to get a augmented matrix in the final form is not the only path that we could used 
