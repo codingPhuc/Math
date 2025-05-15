@@ -74,8 +74,8 @@ $$
 and used elementary row operations to convert it into the following matrix 
 $$
 \left[\begin{array}{cc|c}  
-1 &  0  &  p  \\
-0  &  1  &  q 
+1 &  0  &  h  \\
+0  &  1  &  k 
 \end{array}\right]
 $$
 The solution to the system will be  $x=h \text{ and } y=k$
