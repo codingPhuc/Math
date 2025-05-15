@@ -589,7 +589,7 @@ $$
 \end{array}\right]
 R_{1}  - \frac{1}{2}R_3 \to R_1 
 \left[\begin{array}{ccc|c}  
-1  &  0  &  \frac{1}{2} &  -\frac{1}{2}  \\
+1  &  0  & 0 &  -2   \\
  0 &  1  & 0   & 5   \\
 0  &  0 &  1 &   3  \\
 \end{array}\right]
