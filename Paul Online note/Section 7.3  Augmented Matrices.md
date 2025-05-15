@@ -366,10 +366,25 @@ $$
 0 &  1  &  -\frac{5}{7}   &  -1  \\
 0  &  0  &  1  &  0
 \end{array}\right]
-R_{2} - \frac{2}{3}R_3 \to R_3 
+R_{2}  +\frac{5}{7}R_3 \to R_3 
 \left[\begin{array}{ccc|c}  
 1  &  0 &  -\frac{3}{7}  &   1    \\
-0 &  1    &  -1  \\
+0 &  1    & 0   &  -1  \\
+0  &  0  &  1  &  0
+\end{array}\right]
+$$
+
+
+$$
+\left[\begin{array}{ccc|c}  
+1  &  0 &  -\frac{3}{7}  &   1    \\
+0 &  1  &  -\frac{5}{7}   &  -1  \\
+0  &  0  &  1  &  0
+\end{array}\right]
+R_{1}  +\frac{3}{7}R_3 \to R_3 
+\left[\begin{array}{ccc|c}  
+1  &  0 &  -\frac{3}{7}  &   1    \\
+0 &  1    & 0   &  -1  \\
 0  &  0  &  1  &  0
 \end{array}\right]
 $$
