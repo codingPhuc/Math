@@ -117,7 +117,13 @@ $$
 R_{2}  -3R_1 \to R_2 
 \left[ \begin{array}{cc|c}  
 1  &  3  &  1     \\
-0 &  -2  &  14  \\
+0 &  -11  &  11  \\
+\end{array} \right] 
+$$
+$$
+\left[ \begin{array}{cc|c}  
+1  &  3  &  1     \\
+0 &  1  &  -1  \\
 \end{array} \right] 
 $$
 
