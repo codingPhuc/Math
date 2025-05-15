@@ -731,11 +731,12 @@ $$
 \end{array}\right]
  R_{1}  -  6R_{3} \to R_1 
 \left[\begin{array}{ccc|c}  
--17 &  18  &  2   &  0  \\
+-17 &  18  &  8   &  -12  \\
 2  &  -8 &  10  &   4   \\
 3  &  -4  &  -1  &  2 
 \end{array}\right]
 $$
+
 
 
 
