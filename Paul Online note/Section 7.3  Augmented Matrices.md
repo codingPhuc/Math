@@ -120,26 +120,27 @@ $$
 
 $$\begin{array}{l}
 -2x  + y = -3  \\
-x -  4y  = 0
+x -  4y  = -2  
 \end{array}
 $$
 
 $$
 \left[ \begin{array}{cc|c}  
-3  &  -2  &  14  \\
-1  &  3  &  1  
+-2  &  1  &  -3  \\
+1  &  -4  &  -2  
 \end{array} \right] 
 $$
 
 
 $$
 \left[ \begin{array}{cc|c}  
-3  &  -2  &  14  \\
-1  &  3  &  1  
+-2  &  1  &  -3  \\
+1  &  -4  &  -2  
 \end{array} \right] 
-R_{1}-3 R_2 \to R_2 \left[ \begin{array}{cc|c}  
-3  &  -2  &  14  \\
-0  &  -11 &  11   
+R_{1} + 2 R_2 \to R_2 
+\left[ \begin{array}{cc|c}  
+-2  &  1  &  -3  \\
+1  &  -4  &  -2  
 \end{array} \right] 
 $$
 
