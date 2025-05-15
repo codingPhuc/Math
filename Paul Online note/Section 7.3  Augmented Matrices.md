@@ -741,3 +741,71 @@ $$
 
 
 
+
+
+
+
+$$
+\left[\begin{array}{ccc|c}  
+10 &  -1  &  -5   &  1  \\
+4  &  -8 &  10  &   4   \\
+3  &  -4  &  -1  &  2 
+\end{array}\right]
+$$
+
+
+$$
+\mathrm{(a)~}\frac{1}{2}R_2\quad\mathrm{(b)~}R_1\leftrightarrow R_3\quad\mathrm{(c)~}R_1-6R_3\to R_1
+$$
+
+$$
+\left[\begin{array}{ccc|c}  
+1 &  -6  &  2   &  0  \\
+2  &  -8 &  10  &   4   \\
+3  &  -4  &  -1  &  2 
+\end{array}\right]
+\frac{1}{2}R_{2} \to 
+\left[\begin{array}{ccc|c}  
+1 &  -6  &  2   &  0  \\
+1  &  -4 &  5  &   2  \\
+3  &  -4  &  -1  &  2 
+\end{array}\right]
+$$
+
+
+
+
+$$
+\left[\begin{array}{ccc|c}  
+1 &  -6  &  2   &  0  \\
+2  &  -8 &  10  &   4   \\
+3  &  -4  &  -1  &  2 
+\end{array}\right]
+R_1\leftrightarrow R_3
+\left[\begin{array}{ccc|c}  
+   3  &  -4  &  -1  &  2  \\
+2  &  -8 &  10  &   4   \\
+1 &  -6  &  2   &  0
+\end{array}\right]
+$$
+
+
+
+$$
+\left[\begin{array}{ccc|c}  
+1 &  -6  &  2   &  0  \\
+2  &  -8 &  10  &   4   \\
+3  &  -4  &  -1  &  2 
+\end{array}\right]
+ R_{1}  -  6R_{3} \to R_1 
+\left[\begin{array}{ccc|c}  
+-17 &  18  &  8   &  -12  \\
+2  &  -8 &  10  &   4   \\
+3  &  -4  &  -1  &  2 
+\end{array}\right]
+$$
+
+
+
+
+
