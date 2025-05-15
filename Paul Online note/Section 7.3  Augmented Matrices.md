@@ -480,6 +480,20 @@ $$
 
 
 
+$$
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+0  &  0 &  7  &   21  \\
+ 3 &  1  &  -2   &  -7   \\
+\end{array}\right]
+R_3\leftrightarrow R_1
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+0  &  0 &  7  &   21  \\
+ 3 &  1  &  -2   &  -7   \\
+\end{array}\right]
+$$
+
 
 
 $$
