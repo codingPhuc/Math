@@ -47,12 +47,11 @@ $$
 $$
 
 Go  through the individual computation to make sure you followed this  : 
-
 $$
 \begin{array}{l} \\
 -3  - 4( 1 )  =  -7  \\
 2 -  4 ( -2)  =  10   \\
 -2  - 4(3)  =  -14  \\
--10   - 4
+-10   - 4(7)  = -38 
 \end{array}
 $$
