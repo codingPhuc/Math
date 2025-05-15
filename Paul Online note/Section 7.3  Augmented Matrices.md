@@ -58,5 +58,15 @@ $$
 we will start with a system of two equations and two unknowns 
 $$
 \begin{array}{l}
-
+ax + by  =  p  \\
+cx  + dy  = q  
 \end{array}
+$$
+we first will write down the argument matrix 
+
+$$
+\begin{array}{c c c |c}  \\
+a  &  b  &  p  \\
+c  &  d  &  q 
+\end{array}
+$$
