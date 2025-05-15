@@ -456,7 +456,23 @@ $$
 R_{2}  -2R_1 \to R_2 
 \left[\begin{array}{ccc|c}  
 1  &  1  &  -3  &  -6  \\
-0  &  0 &    &   9  \\
+0  &  0 &  7  &   21  \\
+ 3 &  1  &  -2   &  -7   \\
+\end{array}\right]
+$$
+
+
+
+$$
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+2  &  2 &  1  &   9  \\
+ 3 &  1  &  -2   &  -7   \\
+\end{array}\right]
+R_{2}  -2R_1 \to R_2 
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+0  &  0 &  7  &   21  \\
  3 &  1  &  -2   &  -7   \\
 \end{array}\right]
 $$
