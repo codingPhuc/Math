@@ -228,3 +228,5 @@ y = -1
 
 
 It is important to note that the path we used to get a augmented matrix in the final form is not the only path that we could used . All the path should arrive at the same final augmented matrix however so we could choose the path that feel the easiest . Note as well that different paths may be easier so may well solve the systems differently 
+
+for system of equation with only two  solution , this process seem a little bit more complicated then what we are used to  . 
