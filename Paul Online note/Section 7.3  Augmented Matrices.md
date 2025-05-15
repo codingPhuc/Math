@@ -185,9 +185,9 @@ $$
 1  &  1  &  -6    \\
  3 &  -6  &  -9  
 \end{array} \right] 
-R_{1}  -3R_2 \to R_1 
+R_{2}  -3R_1 \to R_2 
 \left[ \begin{array}{cc|c}
 1  &  1  &  -6    \\
- 3 &  -6  &  -9  
+ 0 &  -9  &  -27  
 \end{array} \right] 
 $$
