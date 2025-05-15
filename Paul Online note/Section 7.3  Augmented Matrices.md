@@ -486,16 +486,29 @@ $$
 0  &  0 &  7  &   21  \\
  3 &  1  &  -2   &  -7   \\
 \end{array}\right]
-R_3\leftrightarrow R_1
+R_3\leftrightarrow R_2
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+ 3 &  1  &  -2   &  -7    \\
+0  &  0 &  7  &   21  \\
+
+\end{array}\right]
+$$
+
+
+$$
+\left[\begin{array}{ccc|c}  
+1  &  1  &  -3  &  -6  \\
+ 3 &  1  &  -2   &  -7    \\
+0  &  0 &  7  &   21  \\
+\end{array}\right]
+R_{2}  -3R_1 \to R_2 
 \left[\begin{array}{ccc|c}  
 1  &  1  &  -3  &  -6  \\
 0  &  0 &  7  &   21  \\
  3 &  1  &  -2   &  -7   \\
 \end{array}\right]
 $$
-
-
-
 $$
 \begin{array}{l} 
 x  = 1  \\
