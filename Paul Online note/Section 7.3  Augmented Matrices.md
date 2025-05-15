@@ -524,10 +524,10 @@ $$
  0 &  -2  &  7   &  11   \\
 0  &  0 &  7  &   21  \\
 \end{array}\right]
--\frac{1}{9}R_{9} \to 
+-\frac{1}{2}R_{9} \to 
 \left[\begin{array}{ccc|c}  
 1  &  1  &  -3  &  -6  \\
- 0 &  -2  &  7   &  11   \\
+ 0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
 0  &  0 &  7  &   21  \\
 \end{array}\right]
 $$
