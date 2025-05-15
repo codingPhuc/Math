@@ -111,9 +111,9 @@ $$
 3  &  -2  &  14  \\
 1  &  3  &  1  
 \end{array} \right] 
-R_{2}-4 R_1 \to R_2 \left[ \begin{array}{cc|c}  
-1  &  3  &  1   \\
+R_{1}-3 R_2 \to R_2 \left[ \begin{array}{cc|c}  
 3  &  -2  &  14  \\
+  &  3  &  1  
 
 \end{array} \right] 
 $$
