@@ -223,4 +223,5 @@ R_{1}  -R_2\to R_1
 \end{array} \right] 
 $$
 x=     -5
-y = 1
+y = -1  
+
