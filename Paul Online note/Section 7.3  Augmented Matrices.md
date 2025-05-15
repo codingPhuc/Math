@@ -245,6 +245,7 @@ $$
 \begin{array}{l} \\
 3x  + y  - 2z   = 2   \\
 x   - 2y + z =  3   \\
-2x 
+2x -  y  - 3z  = 3  
 \end{array}
 $$
+
