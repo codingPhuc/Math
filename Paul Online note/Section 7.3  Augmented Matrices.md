@@ -34,3 +34,4 @@ Next we will discuss the elementary row operation  . There are three of them and
 $$
  \begin{bmatrix}1&-2&3&7\\2&1&1&4\\-3&2&-2&-10\end{bmatrix}R_1\leftrightarrow R_3\begin{bmatrix}-3&2&-2&-10\\2&1&1&4\\1&-2&3&7\end{bmatrix}
 $$
+
