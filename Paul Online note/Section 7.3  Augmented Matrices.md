@@ -419,137 +419,21 @@ $$
 -1  &  -1  &  3  &  6 
 \end{array}\right]
 $$
+
+
+$$
 $$
 \left[\begin{array}{ccc|c}  
-3 &  1  &  -2   &  2  \\
-1  &  -2 &  1  &   3   \\
-2  &  -1  &  -3  &  3 
+3 &  1  &  -2   &  -7  \\
+2  &  2 &  1  &   9   \\
+-1  &  -1  &  3  &  6 
 \end{array}\right]
+$$
 R_1\leftrightarrow R_2
-\left[\begin{array}{ccc|c}  
-1  &  -2 &  1  &   3    \\
-3 &  1  &  -2   &  2  \\
-2  &  -1  &  -3  &  3 
-\end{array}\right]
-$$
-
-
-
-$$
-\left[\begin{array}{ccc|c}  
-1  &  -2 &  1  &   3    \\
-3 &  1  &  -2   &  2  \\
-2  &  -1  &  -3  &  3 
-\end{array}\right]
-R_{2}  -3R_1 \to R_2 
-\left[\begin{array}{ccc|c}  
-1  &  -2 &  1  &   3    \\
-0 &  7  &  -5   &  -7  \\
-2  &  -1  &  -3  &  3 
-\end{array}\right]
-$$
-
-$$
-\left[\begin{array}{ccc|c}  
-1  &  -2 &  1  &   3    \\
-0 &  7  &  -5   &  -7  \\
-2  &  -1  &  -3  &  3 
-\end{array}\right]
-R_{2}  -2R_1 \to R_2 
-\left[\begin{array}{ccc|c}  
-1  &  -2 &  1  &   3    \\
-0 &  7  &  -5   &  -7  \\
-0  &  3  &  -5  &  -3 
-\end{array}\right]
-$$
-$$
-\left[\begin{array}{ccc|c}  
-1  &  -2 &  1  &   3    \\
-0 &  7  &  -5   &  -7  \\
-0  &  3  &  -5  &  -3 
-\end{array}\right]
-\frac{1}{7}R_{2} \to 
-\left[\begin{array}{ccc|c}  
-1  &  -2 &  1  &   3    \\
-0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  3  &  -5  &  -3 
-\end{array}\right]
-$$
-
-$$
-\left[\begin{array}{ccc|c}  
-1  &  -2 &  1  &   3    \\
-0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  3  &  -5  &  -3 
-\end{array}\right]
-R_{1} + 2R_2 \to R_2 
-\left[\begin{array}{ccc|c}  
-1  &  0 &  -\frac{3}{7}  &   1    \\
-0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  3  &  -5  &  -3 
-\end{array}\right]
-$$
-
-
-
-$$
-\left[\begin{array}{ccc|c}  
-1  &  0 &  -\frac{3}{7}  &   1    \\
-0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  -3  &  -5  &  -3 
-\end{array}\right]
-R_{3} - 3R_2 \to R_3 
-\left[\begin{array}{ccc|c}  
-1  &  0 &  -\frac{3}{7}  &   1    \\
-0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  0  &  -\frac{20}{7}  &  0
-\end{array}\right]
-$$
-
-
-
-$$
-\left[\begin{array}{ccc|c}  
-1  &  0 &  -\frac{3}{7}  &   1    \\
-0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  0  &  -\frac{20}{7}  &  0
-\end{array}\right]
--\frac{20}{7} R_{3}\to 
-\left[\begin{array}{ccc|c}  
-1  &  0 &  -\frac{3}{7}  &   1    \\
-0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  0  &  1  &  0
-\end{array}\right]
-$$
-
-
-$$
-\left[\begin{array}{ccc|c}  
-1  &  0 &  -\frac{3}{7}  &   1    \\
-0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  0  &  1  &  0
-\end{array}\right]
-R_{2}  +\frac{5}{7}R_3 \to R_3 
-\left[\begin{array}{ccc|c}  
-1  &  0 &  -\frac{3}{7}  &   1    \\
-0 &  1    & 0   &  -1  \\
-0  &  0  &  1  &  0
-\end{array}\right]
-$$
-
-
-$$
-\left[\begin{array}{ccc|c}  
-1  &  0 &  -\frac{3}{7}  &   1    \\
-0 &  1    & 0   &  -1  \\
-0  &  0  &  1  &  0
-\end{array}\right]
-R_{1}  +\frac{3}{7}R_3 \to R_3 
-\left[\begin{array}{ccc|c}  
-1  &  0 &  0 &   1    \\
-0 &  1    & 0   &  -1  \\
-0  &  0  &  1  &  0
-\end{array}\right]
+\left[ \begin{array}{cc|c}
+1  &  1  &  -6    \\
+ 3 &  -6  &  -9  
+\end{array} \right] 
 $$
 
 $$
