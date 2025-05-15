@@ -296,20 +296,20 @@ R_{2}  -2R_1 \to R_2
 \left[\begin{array}{ccc|c}  
 1  &  -2 &  1  &   3    \\
 0 &  7  &  -5   &  -7  \\
-0  &  -3  &  -5  &  -3 
+0  &  3  &  -5  &  -3 
 \end{array}\right]
 $$
 $$
 \left[\begin{array}{ccc|c}  
 1  &  -2 &  1  &   3    \\
 0 &  7  &  -5   &  -7  \\
-0  &  -3  &  -5  &  -3 
+0  &  3  &  -5  &  -3 
 \end{array}\right]
 \frac{1}{7}R_{2} \to 
 \left[\begin{array}{ccc|c}  
 1  &  -2 &  1  &   3    \\
 0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  -3  &  -5  &  -3 
+0  &  3  &  -5  &  -3 
 \end{array}\right]
 $$
 
@@ -317,13 +317,13 @@ $$
 \left[\begin{array}{ccc|c}  
 1  &  -2 &  1  &   3    \\
 0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  -3  &  -5  &  -3 
+0  &  3  &  -5  &  -3 
 \end{array}\right]
 R_{1} + 2R_2 \to R_2 
 \left[\begin{array}{ccc|c}  
 1  &  0 &  -\frac{3}{7}  &   1    \\
 0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  -3  &  -5  &  -3 
+0  &  3  &  -5  &  -3 
 \end{array}\right]
 $$
 
@@ -335,7 +335,7 @@ $$
 0 &  1  &  -\frac{5}{7}   &  -1  \\
 0  &  -3  &  -5  &  -3 
 \end{array}\right]
-R_{3} + 3R_2 \to R_3 
+R_{3} - 3R_2 \to R_3 
 \left[\begin{array}{ccc|c}  
 1  &  0 &  -\frac{3}{7}  &   1    \\
 0 &  1  &  -\frac{5}{7}   &  -1  \\
