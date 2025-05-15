@@ -98,5 +98,13 @@ $$
 3  &  -2  &  14  \\
 1  &  3  &  1  
 \end{array} \right] 
-R_{2}-4R_1\to R_3\begin{bmatrix}1&-2&3&7\\2&1&1&4\\-7&10&-14&-38\end{bmatrix}
+R_{2}-4R_1 \to R_2\begin{bmatrix}1&-2&3&7\\2&1&1&4\\-7&10&-14&-38\end{bmatrix}
+$$
+
+$$
+\left[ \begin{array}{cc|c}  
+3  &  -2  &  14  \\
+1  &  3  &  1  
+\end{array} \right] 
+R_{2}-4R_1 \to R_2\begin{bmatrix}1&-2&3&7\\2&1&1&4\\-7&10&-14&-38\end{bmatrix}
 $$
