@@ -339,7 +339,7 @@ R_{3} - 3R_2 \to R_3
 \left[\begin{array}{ccc|c}  
 1  &  0 &  -\frac{3}{7}  &   1    \\
 0 &  1  &  -\frac{5}{7}   &  -1  \\
-0  &  0  &  -\frac{50}{7}  &  -7 
+0  &  0  &  -\frac{20}{7}  &  0
 \end{array}\right]
 $$
 
