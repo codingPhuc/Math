@@ -539,9 +539,9 @@ $$
  0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
 0  &  0 &  7  &   21  \\
 \end{array}\right]
-R_{2}  -R_2 \to R_1 
+R_{1}  -R_2 \to R_1 
 \left[\begin{array}{ccc|c}  
-1  &  0  &  -3  &  -6  \\
+1  &  0  &  \frac{1}{2} &  1  \\
  0 &  1  &  -\frac{7}{2}   & - \frac{11}{2}   \\
 0  &  0 &  7  &   21  \\
 \end{array}\right]
