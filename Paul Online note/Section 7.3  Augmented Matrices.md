@@ -594,3 +594,11 @@ R_{1}  - \frac{1}{2}R_3 \to R_1
 0  &  0 &  1 &   3  \\
 \end{array}\right]
 $$
+
+$$
+\begin{array}{l} 
+x  = -2  \\
+ y =  5   \\
+z =  3 
+\end{array}
+$$
