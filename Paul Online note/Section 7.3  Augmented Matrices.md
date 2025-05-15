@@ -93,18 +93,7 @@ $$
 1  &  3  &  1  
 \end{array} \right] 
 $$
-$$
-\left[ \begin{array}{cc|c}  
-3  &  -2  &  14  \\
-1  &  3  &  1  
-\end{array} \right] 
-R_1\leftrightarrow R_2 
-\left[ \begin{array}{cc|c}  
-1  &  3  &  1   \\
-3  &  -2  &  14  \\
 
-\end{array} \right] 
-$$
 
 $$
 \left[ \begin{array}{cc|c}  
@@ -113,7 +102,50 @@ $$
 \end{array} \right] 
 R_{1}-3 R_2 \to R_2 \left[ \begin{array}{cc|c}  
 3  &  -2  &  14  \\
-  &  3  &  1  
-
+0  &  -11 &  11   
 \end{array} \right] 
+$$
+
+$$
+\begin{array}{l}  \\
+y = -1   \\
+x   = 4
+\end{array}
+$$
+
+
+
+
+
+
+$$\begin{array}{l}
+-2x  + y = -3  \\
+x -  4y  = 0
+\end{array}
+$$
+
+$$
+\left[ \begin{array}{cc|c}  
+3  &  -2  &  14  \\
+1  &  3  &  1  
+\end{array} \right] 
+$$
+
+
+$$
+\left[ \begin{array}{cc|c}  
+3  &  -2  &  14  \\
+1  &  3  &  1  
+\end{array} \right] 
+R_{1}-3 R_2 \to R_2 \left[ \begin{array}{cc|c}  
+3  &  -2  &  14  \\
+0  &  -11 &  11   
+\end{array} \right] 
+$$
+
+$$
+\begin{array}{l}  \\
+y = -1   \\
+x   = 4
+\end{array}
 $$
