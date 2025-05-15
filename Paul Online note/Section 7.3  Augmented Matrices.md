@@ -135,11 +135,13 @@ $$
 \end{array} \right] 
 R_{1}  -3R_2 \to R_1 
 \left[ \begin{array}{cc|c}  
-1  &  0  &  1     \\
+1  &  0  &  4     \\
 0 &  1  &  -1  \\
 \end{array} \right] 
 $$
 
+y  =  -1  
+x  =  4  
 
 
 
