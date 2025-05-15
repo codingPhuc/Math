@@ -233,8 +233,9 @@ for system of equation with only two  solution , this process seem a little bit 
 
 $$
 \left[\begin{array}{ccc|c}  
-1 &  0  &  0   &  [ ]  \\
-0  &  1  &  k 
+1 &  0  &  0   &  p  \\
+0  &  1  &  0  &   q   \\
+0  &  0  &  1  &  r 
 \end{array}\right]
-
 $$
+one the argument matrix is in this form  the solution is $x = p$
