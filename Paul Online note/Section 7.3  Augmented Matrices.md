@@ -201,7 +201,12 @@ $$
 $$
 \left[ \begin{array}{cc|c}
 1  &  1  &  -6    \\
- 0 &  1  & 3 
+ 0 &  -9  &  9
+\end{array} \right] 
+-\frac{1}{9}R_{9} \to 
+\left[ \begin{array}{cc|c}
+1  &  1  &  -6    \\
+ 0 &  1  &  -1 
 \end{array} \right] 
 $$
 
