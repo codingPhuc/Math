@@ -251,8 +251,19 @@ $$
 
 $$
 \left[\begin{array}{ccc|c}  
-3 &  1  &  0   &  p  \\
-0  &  1  &  0  &   q   \\
-0  &  0  &  1  &  r 
+3 &  1  &  -2   &  2  \\
+1  &  -2 &  1  &   3   \\
+2  &  -1  &  -3  &  3 
 \end{array}\right]
+$$
+$$
+\left[ \begin{array}{cc|c}
+ 3 &  -6  &  -9  \\
+1  &  1  &  -6   
+\end{array} \right] 
+R_1\leftrightarrow R_2
+\left[ \begin{array}{cc|c}
+1  &  1  &  -6    \\
+ 3 &  -6  &  -9  
+\end{array} \right] 
 $$

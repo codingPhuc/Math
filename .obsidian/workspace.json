@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 7.3  Augmented Matrices.md",
+                "file": "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 7.3  Augmented Matrices"
+              "title": "Outline of Section 7.1  Linear Systems with Two Variables"
             }
           }
         ],
@@ -270,11 +270,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d187a9b5e7872778",
+  "active": "bb0801bfb71bc866",
   "lastOpenFiles": [
+    "Paul Online note/Section 7.3  Augmented Matrices.md",
     "Paul Online note/Untitled 1.md",
     "Paul Online note/Section 7.2  Linear Systems with Three Variables.md",
     "Paul Online note/Section 6.3 Solving Exponential Equations.md",
@@ -286,7 +288,6 @@
     "picture/Pasted image 20250512173208.png",
     "Paul Online note/Section 6.2 Logarithm Functions.md",
     "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
-    "Paul Online note/Section 7.3  Augmented Matrices.md",
     "book/Precalculus Stewart 7th Edition.pdf",
     "Paul Online note/Section 2.6  Quadratic Equations - Part II.md",
     "Paul Online note/Solutions and Solution Sets.md",
