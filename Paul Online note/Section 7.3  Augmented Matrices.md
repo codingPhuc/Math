@@ -613,7 +613,22 @@ $$
 $$
 \left[\begin{array}{ccc|c}  
 4 &  -1  &  3   &  5  \\
-1  &  -2 &  1  &   9   \\
-2  &  -1  &  -3  &  3 
+0  &  2 &  5  &   9   \\
+-6  &  1  &  -3  &  10 
+\end{array}\right]
+$$
+
+
+$$
+\left[\begin{array}{ccc|c}  
+4 &  -1  &  3   &  5  \\
+0  &  2 &  5  &   9   \\
+-6  &  1  &  -3  &  10 
+\end{array}\right]
+-\frac{1}{2}R_{9} \to 
+\left[\begin{array}{ccc|c}  
+4 &  -1  &  3   &  5  \\
+0  &  2 &  5  &   9   \\
+-6  &  1  &  -3  &  10 
 \end{array}\right]
 $$
