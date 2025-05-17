@@ -136,6 +136,8 @@ just like the last equation ,  we cannot get the 1  in the second zero in the se
 
 $$\begin{array}{l} \\
 2x   +  5 y =  -1   \\
-
+ 0  =  0 
 \end{array}
 $$
+
+Note however , that if  we use the equation from the augum
