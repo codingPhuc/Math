@@ -43,4 +43,4 @@ $$
 \end{array} \right] 
 $$
 
-is an augmented matrix we can always convert back to equation. each row represents 
+is an augmented matrix we can always convert back to equation. each row represents an  equation  and the first column is the coefficient of  x in the
