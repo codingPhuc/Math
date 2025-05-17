@@ -445,30 +445,20 @@ $$
 7 &   - 8   &  -12  \\
 -4 &  2   &  3  
 \end{array} \right] 
--\frac{1}{7}R_{1} \to 
+\frac{1}{7}R_{1} \to 
 \left[ \begin{array}{cc|c}  
-7 &   - 8   &  -12  \\
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
 -4 &  2   &  3  
 \end{array} \right]
 $$
-$$
-\left[ \begin{array}{cc|c}  
-1   &   - 7  &   -11   \\
-0 &   37   &    37   
-\end{array} \right] 
-\frac{1}{37}R_{2} \to 
-\left[ \begin{array}{cc|c}  
-1   &   - 7  &   -11   \\
-0 &   1   &    1  
-\end{array} \right] 
-$$
+
 
 
 $$
 \left[ \begin{array}{cc|c}  
-1   &   - 7  &   -11   \\
-0 &   1   &    1  
-\end{array} \right] 
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+-4 &  2   &  3  
+\end{array} \right]
 R_{1}  +  7R_2\to R_1 
 \left[ \begin{array}{cc|c}  
 1   &    0   &   -4    \\
