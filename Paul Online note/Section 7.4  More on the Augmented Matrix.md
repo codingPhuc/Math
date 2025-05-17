@@ -470,12 +470,25 @@ $$
 
 $$
 \left[ \begin{array}{cc|c}  
-7 &   - 8   &  -12  \\
--4 &  2   &  3  
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+ 0  &   1    &    -\frac{27}{7}  
 \end{array} \right] 
-\frac{1}{7}R_{1} \to 
+ -\frac{18}{7}R_{1} \to 
 \left[ \begin{array}{cc|c}  
 1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
--4 &  2   &  3  
-\end{array} \right]
+ 0  &   1    &   \frac{3}{2 }
+\end{array} \right] 
+$$
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+ 0  &   1    &   \frac{3}{2 }
+\end{array} \right] 
+R_{2}  +  4R_1\to R_2 
+\left[ \begin{array}{cc|c}  
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+ 0  &   1    &   \frac{3}{2 }
+\end{array} \right] 
 $$
