@@ -382,6 +382,17 @@ $$
 R_{2}  - 5R_1\to R_2 
 \left[ \begin{array}{cc|c}  
 1   &   - 7  &   -11   \\
-0 &   2   &    -18 
+0 &   37   &    37   
+\end{array} \right] 
+$$
+$$
+\left[ \begin{array}{cc|c}  
+1   &   - 7  &   -11   \\
+0 &   37   &    37   
+\end{array} \right] 
+-\frac{1}{9}R_{9} \to 
+\left[ \begin{array}{cc|c}  
+1   &   - 7  &   -11   \\
+0 &   37   &    37   
 \end{array} \right] 
 $$
