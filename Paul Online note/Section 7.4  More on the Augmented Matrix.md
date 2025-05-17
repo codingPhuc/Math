@@ -289,5 +289,8 @@ R_{2}  -3R_1 \to R_2
  1x &   -1y  &  - 2z   &   -1  \\
 0  &  0   &  0  &  0  \\
 -2x   &   +  3y  &  + z  &  -7
-\end{array}\right]
+\end{array}\right] 
+R_{2}  + 2R_1 \to R_2  
+
 $$
+
