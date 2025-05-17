@@ -459,7 +459,7 @@ $$
 1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
 -4 &  2   &  3  
 \end{array} \right]
-R_{1}  +  7R_2\to R_1 
+R_{2}  +  4R_1\to R_2 
 \left[ \begin{array}{cc|c}  
 1   &    0   &   -4    \\
 0 &   1   &    1  
