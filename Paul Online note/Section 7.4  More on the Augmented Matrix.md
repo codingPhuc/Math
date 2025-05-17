@@ -461,7 +461,7 @@ $$
 \end{array} \right]
 R_{2}  +  4R_1\to R_2 
 \left[ \begin{array}{cc|c}  
-1   &    0   &   -4    \\
-0 &   1   &    1  
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+ 0  &   -\frac{18}{7}   &      
 \end{array} \right] 
 $$
