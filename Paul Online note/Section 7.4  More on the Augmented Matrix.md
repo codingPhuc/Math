@@ -551,6 +551,11 @@ $$
 
 
 
-we concluded that the system is dependance  bases since the $R_{2}$   have 
+we concluded that the system is dependance  bases since the row $R_{2}$  have all it entries equal  to zero  
+
+
+
+
+
 
 
