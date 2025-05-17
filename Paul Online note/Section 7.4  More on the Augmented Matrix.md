@@ -552,10 +552,15 @@ $$
 
 
 we concluded that the system is dependance  bases since the row $R_{2}$  have all it entries equal  to zero  
+so we have the solution 
 
 
 
 
 
-
-
+$$
+\begin{array}{l} \\
+x  +  3 y  =  -2  \implies x  =  (-2  - x) \\
+y  = t  
+\end{array}
+$$
