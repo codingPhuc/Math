@@ -33,6 +33,6 @@ $$
 \end{array}\right]
 $$
 
-depending upon  the number of equations present in the system . 
+depending upon  the number of equations present in the system . It turn out that we should have add a qualifier  "if possible" to this equation , because it isn't always possible to do this . 
 
 
