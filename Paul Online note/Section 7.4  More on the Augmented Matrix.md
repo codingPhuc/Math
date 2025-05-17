@@ -164,5 +164,11 @@ $$
 \end{array}
 $$
 
-
+$$
+\left[\begin{array}{ccc|c} 
+3 & -3 & -6 & -3 \\
+2 & -2 & -4 & 10 \\
+-3 & 2 & -2 & -10
+\end{array}\right]
+$$
 
