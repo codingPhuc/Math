@@ -200,3 +200,6 @@ R_1\leftrightarrow R_2
 -2 & 3 & 1 & 7
 \end{array}\right]
 $$
+
+
+
