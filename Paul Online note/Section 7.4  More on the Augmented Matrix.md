@@ -43,4 +43,4 @@ $$
 \end{array} \right] 
 $$
 
-is an augmented matrix we can always convert back to equation. e
+is an augmented matrix we can always convert back to equation. each row represents 
