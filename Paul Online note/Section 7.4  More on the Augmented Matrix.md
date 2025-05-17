@@ -519,20 +519,20 @@ $$
 
 $$
 \left[ \begin{array}{cc|c}  
-7 &   - 8   &  -12  \\
--4 &  2   &  3  
+3 &   9  &   -6   \\
+-4   &   -12  &    8 
 \end{array} \right] 
 $$
 $$
 \left[ \begin{array}{cc|c}  
-7 &   - 8   &  -12  \\
--4 &  2   &  3  
+3 &   9  &   -6   \\
+-4   &   -12  &    8 
 \end{array} \right] 
-\frac{1}{7}R_{1} \to 
+\frac{1}{3}R_{1} \to 
 \left[ \begin{array}{cc|c}  
-1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
--4 &  2   &  3  
-\end{array} \right]
+1 &   3  &   -2   \\
+-4   &   -12  &    8 
+\end{array} \right] 
 $$
 
 
