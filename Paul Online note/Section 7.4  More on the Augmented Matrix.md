@@ -226,4 +226,14 @@ x   -  y  - 2  = 5  \\
 \end{array}
 
 $$
-we know that we will have no solution for the equation above that there will be no solution since
+we know that we will have no solution for the equation above the systems will have no solution 
+
+
+
+$$
+\begin{array}{l} 
+3x  - 3y  - 6z  =  -3   \\
+2x - 2y  - 4z  =  10   \\
+-2x +  3y +  z  = 7 
+\end{array}
+$$
