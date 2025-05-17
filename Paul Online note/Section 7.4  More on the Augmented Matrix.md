@@ -33,6 +33,6 @@ $$
 \end{array}\right]
 $$
 
-
+depending upon  the number of equations present in the system . 
 
 
