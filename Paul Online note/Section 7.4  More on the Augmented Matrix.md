@@ -38,6 +38,9 @@ depending upon  the number of equations present in the system . It turn out that
 
 Since ,  
 
+$$
+\begin{in  }
 
-
+\end{in  }
+$$
 
