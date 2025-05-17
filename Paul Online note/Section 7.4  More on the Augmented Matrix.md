@@ -140,4 +140,16 @@ $$\begin{array}{l} \\
 \end{array}
 $$
 
-Note however , that if  we use the equation from the augum
+Note however , that if  we use the equation from the augmented matrix this is very easy to do 
+
+$$
+x = -\frac{5}{2} y  - \frac{1}{2}
+$$
+we then write the solution as 
+
+$$
+\begin{array}{l} \\
+x   =  -\frac{5}{2} t - \frac{1}{2 } \\
+y   = t 
+\end{array}
+$$
