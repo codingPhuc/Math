@@ -132,4 +132,10 @@ R_{2}  + 5R_1\to R_2
 0  &  0  &  0  
 \end{array} \right] 
 $$
-just like the last equation ,  we cannot get the 1  in the second zero in the second row . 
+just like the last equation ,  we cannot get the 1  in the second zero in the second row . However , this equation is not nonsense . Let convert it back to an equation 
+
+$$\begin{array}{l} \\
+2x   +  5 y =  -1   \\
+
+\end{array}
+$$
