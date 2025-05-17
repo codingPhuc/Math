@@ -132,3 +132,4 @@ R_{2}  + 5R_1\to R_2
 0  &  0  &  0  
 \end{array} \right] 
 $$
+just like the last equation ,  we cannot get the 1  in the second zero in the second row . 
