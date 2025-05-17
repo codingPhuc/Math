@@ -16,5 +16,7 @@ equations there are exactly three possibility for the solution
 1. there will not be solution 
 2. there will be exactly one solution 
 3. There will be infinitely  many solution 
-I does not matter how complex the system of equation that we got 
+I does not matter how complex the system of equation that we got there will always be these three possibility 
+
+
 
