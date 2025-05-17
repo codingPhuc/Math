@@ -409,7 +409,14 @@ R_{1}  +  7R_2\to R_1
 0 &   1   &    1  
 \end{array} \right] 
 $$
-s
+so the solution to the equation is  
+$$
+\begin{array}{l}  
+x =  - 4   \\
+y =  1  
+\end{array}
+$$
+
 
 
 
@@ -435,14 +442,14 @@ $$
 $$
 $$
 \left[ \begin{array}{cc|c}  
-1   &   - 7  &   -11   \\
-5 &   2   &    -18 
+7 &   - 8   &  -12  \\
+-4 &  2   &  3  
 \end{array} \right] 
 R_{2}  - 5R_1\to R_2 
 \left[ \begin{array}{cc|c}  
-1   &   - 7  &   -11   \\
-0 &   37   &    37   
-\end{array} \right] 
+7 &   - 8   &  -12  \\
+-4 &  2   &  3  
+\end{array} \right]
 $$
 $$
 \left[ \begin{array}{cc|c}  
