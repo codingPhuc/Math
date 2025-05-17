@@ -325,3 +325,10 @@ R_{1}  + R_2\to R_1
 0  &  0   &  0  &  0 
 \end{array}\right]
 $$
+
+we will have a solution like bellow 
+$$
+\begin{array}{l} \\
+
+\end{array}
+$$
