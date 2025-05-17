@@ -75,3 +75,14 @@ $$
 -2  &  2  &  1   
 \end{array} \right] 
 $$
+$$
+\left[ \begin{array}{cc|c}  
+1  &  -1  &  6  \\
+-2  &  2  &  1   
+\end{array} \right] 
+R_{2}  + 2R_1\to R_2 
+\left[ \begin{array}{cc|c}  
+1  &  -1  &  6  \\
+0  &  2  &  1   
+\end{array} \right] 
+$$
