@@ -203,3 +203,16 @@ $$
 
 
 
+$$
+\left[\begin{array}{ccc|c} 
+1 & -1 & -2 & 5  \\
+3 & -3 & -6 & -3  \\
+-2 & 3 & 1 & 7
+\end{array}\right]
+R_{2}  -3R_1 \to R_2 
+\left[\begin{array}{ccc|c} 
+1 & -1 & -2 & 5  \\
+0 & 0 & 0 & -18  \\
+-2 & 3 & 1 & 7
+\end{array}\right]
+$$
