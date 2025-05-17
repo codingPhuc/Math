@@ -216,3 +216,4 @@ R_{2}  -3R_1 \to R_2
 -2 & 3 & 1 & 7
 \end{array}\right]
 $$
+now go the argume
