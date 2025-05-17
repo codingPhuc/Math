@@ -403,9 +403,9 @@ $$
 1   &   - 7  &   -11   \\
 0 &   1   &    1  
 \end{array} \right] 
-R_{2}  +  7R_2\to R_1 
+R_{1}  +  7R_2\to R_1 
 \left[ \begin{array}{cc|c}  
-1   &   - 7  &   -11   \\
+1   &    0   &   -4    \\
 0 &   1   &    1  
 \end{array} \right] 
 $$
