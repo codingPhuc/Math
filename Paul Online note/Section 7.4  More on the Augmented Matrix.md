@@ -55,4 +55,13 @@ $$
 
 this is exactly what we said the solution was in the previous section  
 
-This idea of turning an augmented ma
+This idea of turning an augmented matrix back into equation will be important for the following examples 
+
+
+## Use augmented matrix to solve each of the following system 
+
+$$
+\begin{array}{l} \\
+x -  y =  
+\end{array}
+$$
