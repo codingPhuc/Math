@@ -24,9 +24,15 @@ This is exactly the possibilities to be when we were looking at two equation . I
 now let  identify  the first  and last possibility when using the argument matrix for solving . In the pervious section we stated that we wanted to use the row operation to convert the argument matrix into the following 
 $$
 \left[ \begin{array}{cc|c}  
-3  &  -2  &  14  \\
-1  &  3  &  1  
-\end{array} \right]  or  \begin{bmatrix}-3&2&-2&-10\\2&1&1&4\\1&-2&3&7\end{bmatrix}
+1  &  0  &  h  \\
+0  &  1  &  k  
+\end{array} \right]  or  \left[\begin{array}{ccc|c}  
+1  &  0  & 0 &  p   \\
+ 0 &  1  & 0   & q   \\
+0  &  0 &  1 &   r \\
+\end{array}\right]
 $$
+
+
 
 
