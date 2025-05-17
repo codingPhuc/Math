@@ -545,44 +545,12 @@ $$
 R_{2}  +  4R_1\to R_2 
 \left[ \begin{array}{cc|c}  
 1 &   3  &   -2   \\
-0   &   0  &    8 
+0   &   0  &    0 
 \end{array} \right] 
 $$
 
 
 
-$$
-\left[ \begin{array}{cc|c}  
-1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
- 0  &   1    &    -\frac{27}{7}  
-\end{array} \right] 
- -\frac{18}{7}R_{1} \to 
-\left[ \begin{array}{cc|c}  
-1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
- 0  &   1    &   \frac{3}{2 }
-\end{array} \right] 
-$$
-
-
-$$
-\left[ \begin{array}{cc|c}  
-1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
- 0  &   1    &   \frac{3}{2 }
-\end{array} \right] 
-R_{1}  +  \frac{8}{7}R_2\to R_1
-\left[ \begin{array}{cc|c}  
-1  &  0  & 0  \\
- 0  &   1    &   \frac{3}{2 }
-\end{array} \right] 
-$$
-
-so the solution to the equation is  
-$$
-\begin{array}{l}  
-x =  0   \\
-y =  \frac{3}{2}  
-\end{array}
-$$
-
+we concluded that the system is dependance  bases since the $R_{2}$   have 
 
 
