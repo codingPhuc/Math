@@ -93,4 +93,4 @@ x -  y  =   6    \\
    0  =  13   ??
 \end{array}
 $$
-
+The first row convert back into the first equation while the second row convert back to nonsense . We know that this is not true  so that mean that there is not solution . Remember , if we reach a solution that does not make sense we have not 
