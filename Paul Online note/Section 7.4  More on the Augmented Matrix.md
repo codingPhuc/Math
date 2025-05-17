@@ -488,7 +488,101 @@ $$
 \end{array} \right] 
 R_{1}  +  \frac{8}{7}R_2\to R_1
 \left[ \begin{array}{cc|c}  
-1  &  0  &  -\frac{12}{7}  \\
+1  &  0  & 0  \\
  0  &   1    &   \frac{3}{2 }
 \end{array} \right] 
 $$
+
+so the solution to the equation is  
+$$
+\begin{array}{l}  
+x =  0   \\
+y =  \frac{3}{2}  
+\end{array}
+$$
+
+
+
+
+
+
+
+
+
+$$
+\begin{array}{l} 
+3x  +  9 y  = -6   \\
+-4x  - 12y  =  8 
+\end{array}
+$$
+
+
+$$
+\left[ \begin{array}{cc|c}  
+7 &   - 8   &  -12  \\
+-4 &  2   &  3  
+\end{array} \right] 
+$$
+$$
+\left[ \begin{array}{cc|c}  
+7 &   - 8   &  -12  \\
+-4 &  2   &  3  
+\end{array} \right] 
+\frac{1}{7}R_{1} \to 
+\left[ \begin{array}{cc|c}  
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+-4 &  2   &  3  
+\end{array} \right]
+$$
+
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+-4 &  2   &  3  
+\end{array} \right]
+R_{2}  +  4R_1\to R_2 
+\left[ \begin{array}{cc|c}  
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+ 0  &   -\frac{18}{7}   &    -\frac{27}{7}  
+\end{array} \right] 
+$$
+
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+ 0  &   1    &    -\frac{27}{7}  
+\end{array} \right] 
+ -\frac{18}{7}R_{1} \to 
+\left[ \begin{array}{cc|c}  
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+ 0  &   1    &   \frac{3}{2 }
+\end{array} \right] 
+$$
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+ 0  &   1    &   \frac{3}{2 }
+\end{array} \right] 
+R_{1}  +  \frac{8}{7}R_2\to R_1
+\left[ \begin{array}{cc|c}  
+1  &  0  & 0  \\
+ 0  &   1    &   \frac{3}{2 }
+\end{array} \right] 
+$$
+
+so the solution to the equation is  
+$$
+\begin{array}{l}  
+x =  0   \\
+y =  \frac{3}{2}  
+\end{array}
+$$
+
+
+
