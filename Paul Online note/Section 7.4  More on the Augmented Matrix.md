@@ -150,6 +150,7 @@ we then write the solution as
 $$
 \begin{array}{l} \\
 x   =  -\frac{5}{2} t - \frac{1}{2 } \\
-y   = t 
+y   = t \text{  where  t is any real number}
 \end{array}
 $$
+we get the equation by picking t and plug it into the equation for x .Note however that this is not the equation we get 
