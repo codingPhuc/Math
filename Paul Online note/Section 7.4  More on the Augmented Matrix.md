@@ -299,7 +299,19 @@ R_{2}  + 2R_1 \to R_2
 $$
 
 
-
+$$
+\left[\begin{array}{ccc|c} 
+ 1x &   -1y  &  - 2z   &   -1  \\
+0  &  0   &  0  &  0  \\
+0   &   +  1y  & -3z  &  -9
+\end{array}\right]
+R_1\leftrightarrow R_3
+\left[\begin{array}{ccc|c} 
+ 1x &   -1y  &  - 2z   &   -1  \\
+0   &   +  1y  & -3z  &  -9 \\
+0  &  0   &  0  &  0 
+\end{array}\right]
+$$
 $$
 \left[\begin{array}{ccc|c} 
  1x &   -1y  &  - 2z   &   -1  \\
@@ -307,8 +319,9 @@ $$
 0   &   +  1y  & -3z  &  -9
 \end{array}\right]
 R_{1}  -R_2\to R_1 
-\left[ \begin{array}{cc|c}
-1  &  0  &  -5    \\
- 0 &  1  & -1 
-\end{array} \right] 
+\left[\begin{array}{ccc|c} 
+ 1x &   -1y  &  - 2z   &   -1  \\
+0  &  0   &  0  &  0  \\
+0   &   +  1y  & -3z  &  -9
+\end{array}\right]
 $$
