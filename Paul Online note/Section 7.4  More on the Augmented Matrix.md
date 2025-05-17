@@ -282,19 +282,19 @@ $$
 \left[\begin{array}{ccc|c} 
  1x &   -1y  &  - 2z   &   -1  \\
 3  &  -3   &  -6  &  - 3  \\
--2x   &   +  3y  &  + z  &  -7
+-2x   &   +  3y  &  + z  &  7
 \end{array}\right]
 R_{2}  -3R_1 \to R_2 
 \left[\begin{array}{ccc|c} 
  1x &   -1y  &  - 2z   &   -1  \\
 0  &  0   &  0  &  0  \\
--2x   &   +  3y  &  + z  &  -7
+-2x   &   +  3y  &  + z  &  7
 \end{array}\right] 
 R_{2}  + 2R_1 \to R_2  
 \left[\begin{array}{ccc|c} 
  1x &   -1y  &  - 2z   &   -1  \\
 0  &  0   &  0  &  0  \\
-0   &   +  1y  & -3z  &  -9
+0   &   +  1y  & -3z  &  5
 \end{array}\right]
 $$
 
@@ -315,20 +315,20 @@ $$
 $$
 \left[\begin{array}{ccc|c} 
  1x &   -1y  &  - 2z   &   -1  \\
-0   &   +  1y  & -3z  &  -9 \\
+0   &   +  1y  & -3z  &  5 \\
 0  &  0   &  0  &  0 
 \end{array}\right]
 R_{1}  + R_2\to R_1 
 \left[\begin{array}{ccc|c} 
- 1x &   0  &  - 5z   &   -1  \\
-0   &   +  1y  & -3z  &  -9 \\
+ 1x &   0  &  - 5z   &   4   \\
+0   &   +  1y  & -3z  &  5 \\
 0  &  0   &  0  &  0 
 \end{array}\right]
 $$
 
-we will have a solution like bellow 
+one we reach this point we can go back to the equation 
+
 $$
 \begin{array}{l} \\
-
-\end{array}
-$$
+x -  5x
+\end{ar
