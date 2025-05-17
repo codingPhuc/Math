@@ -35,12 +35,13 @@ $$
 
 depending upon  the number of equations present in the system . It turn out that we should have add a qualifier  "if possible" to this equation , because it isn't always possible to do this . In fact , if it isn't possible to put it into  one of these form then we will know that we are in either the first or last possibility for the solution to the system 
 
-
-Since ,  
-
+let take  a look at system with two equation example 
 $$
-\begin{in  }
-
-\end{in  }
+\left[ \begin{array}{cc|c}  
+1  &  0  &  h  \\
+0  &  1  &  k  
+\end{array} \right] 
 $$
+
+
 
