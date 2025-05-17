@@ -21,4 +21,5 @@ I does not matter how complex the system of equation that we got there will alwa
 This is exactly the possibilities to be when we were looking at two equation . It just turn out that it does not matter how many equation we have . There are still these three possibility 
 
 
-now let  identify  the first  and last possibility when using t
+now let  identify  the first  and last possibility when using the argument matrix for solving . In the pervious section we stated that w
+
