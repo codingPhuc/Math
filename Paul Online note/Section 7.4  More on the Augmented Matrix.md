@@ -221,8 +221,8 @@ now go the argument equation we know that we will have this case
 $$
 \begin{array}{l} 
 x   -  y  - 2  = 5  \\
-0 =  -18   \\
-
+0 =  -18  ??  \\
+-2 & 3 & 1 & 7
 \end{array}
 
 $$
