@@ -403,7 +403,7 @@ $$
 1   &   - 7  &   -11   \\
 0 &   1   &    1  
 \end{array} \right] 
-R_{1}  - 5R_2\to R_2 
+R_{2}  +  7R_2\to R_1 
 \left[ \begin{array}{cc|c}  
 1   &   - 7  &   -11   \\
 0 &   1   &    1  
