@@ -226,3 +226,4 @@ x   -  y  - 2  = 5  \\
 \end{array}
 
 $$
+we know that we will have no solution for the equation above 
