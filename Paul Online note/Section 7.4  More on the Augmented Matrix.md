@@ -539,13 +539,13 @@ $$
 
 $$
 \left[ \begin{array}{cc|c}  
-1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
--4 &  2   &  3  
-\end{array} \right]
+1 &   3  &   -2   \\
+-4   &   -12  &    8 
+\end{array} \right] 
 R_{2}  +  4R_1\to R_2 
 \left[ \begin{array}{cc|c}  
-1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
- 0  &   -\frac{18}{7}   &    -\frac{27}{7}  
+1 &   3  &   -2   \\
+0   &   0  &    8 
 \end{array} \right] 
 $$
 
