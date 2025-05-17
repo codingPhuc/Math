@@ -45,4 +45,9 @@ $$
 
 is an augmented matrix we can always convert back to equation. each row represents an  equation  and the first column is the coefficient of  x in the equation while the second columns is the coefficient of y in the equation. The final column is the constant that will be on the right side of the equation 
 
-
+so  if we do that for this case we get  
+$$
+\begin{array}{l} \\
+(1) x +  (0)  y  =     h  \implies  x  =  
+\end{array}
+$$
