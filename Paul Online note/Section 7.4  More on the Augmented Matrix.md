@@ -61,7 +61,17 @@ This idea of turning an augmented matrix back into equation will be important fo
 ## Use augmented matrix to solve each of the following system 
 
 $$
-\begin{array}{l} \\
-x -  y =  
+\begin{array}{l} 
+x -  y =  6  \\
+ -2x    +  2y = 1  
 \end{array}
+$$
+
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1  &  -1  &  6  \\
+-2  &  2  &  1   
+\end{array} \right] 
 $$
