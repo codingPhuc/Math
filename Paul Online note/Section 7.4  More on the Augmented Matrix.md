@@ -341,3 +341,13 @@ x  =  4   +  5z   \\
  y =  5 +  3z 
 \end{array}
 $$
+this mean we  can pick the z value for free we will write the solution as 
+
+$$
+\begin{array}{l} \\
+x  =  4   +  5t   \\
+ y =  5 +  3t  \text{ where t is any real number} \\
+z = t 
+\end{array}
+$$
+
