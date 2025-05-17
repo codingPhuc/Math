@@ -390,9 +390,22 @@ $$
 1   &   - 7  &   -11   \\
 0 &   37   &    37   
 \end{array} \right] 
--\frac{1}{9}R_{9} \to 
+\frac{1}{37}R_{2} \to 
 \left[ \begin{array}{cc|c}  
 1   &   - 7  &   -11   \\
-0 &   37   &    37   
+0 &   1   &    1  
+\end{array} \right] 
+$$
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1   &   - 7  &   -11   \\
+0 &   1   &    1  
+\end{array} \right] 
+R_{1}  - 5R_2\to R_2 
+\left[ \begin{array}{cc|c}  
+1   &   - 7  &   -11   \\
+0 &   1   &    1  
 \end{array} \right] 
 $$
