@@ -48,6 +48,11 @@ is an augmented matrix we can always convert back to equation. each row represen
 so  if we do that for this case we get  
 $$
 \begin{array}{l} \\
-(1) x +  (0)  y  =     h  \implies  x  =  
+(1) x +  (0)  y  =     h  \implies  x  =  h    \\
+(0) x   +  (1)   y =  k  \implies  y  = k
 \end{array}
 $$
+
+this is exactly what we said the solution was in the previous section  
+
+This idea of turning an augmented ma
