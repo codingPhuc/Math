@@ -315,13 +315,13 @@ $$
 $$
 \left[\begin{array}{ccc|c} 
  1x &   -1y  &  - 2z   &   -1  \\
-0  &  0   &  0  &  0  \\
-0   &   +  1y  & -3z  &  -9
+0   &   +  1y  & -3z  &  -9 \\
+0  &  0   &  0  &  0 
 \end{array}\right]
-R_{1}  -R_2\to R_1 
+R_{1}  + R_2\to R_1 
 \left[\begin{array}{ccc|c} 
- 1x &   -1y  &  - 2z   &   -1  \\
-0  &  0   &  0  &  0  \\
-0   &   +  1y  & -3z  &  -9
+ 1x &   0  &  - 5z   &   -1  \\
+0   &   +  1y  & -3z  &  -9 \\
+0  &  0   &  0  &  0 
 \end{array}\right]
 $$
