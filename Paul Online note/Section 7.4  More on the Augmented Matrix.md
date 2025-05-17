@@ -216,4 +216,13 @@ R_{2}  -3R_1 \to R_2
 -2 & 3 & 1 & 7
 \end{array}\right]
 $$
-now go the argume
+now go the argument equation we know that we will have this case 
+
+$$
+\begin{array}{l} 
+x   -  y  - 2  = 5  \\
+0 =  -18   \\
+
+\end{array}
+
+$$
