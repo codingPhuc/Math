@@ -110,5 +110,14 @@ this would be  okay since the last row would return the equation  y = 0 so don't
 $$
 \begin{array}{l} 
 2x +  5 y =  -1   \\
- -2x    +  2y = 1  
-\end{a
+ -10x - 25y = 5  
+\end{array}
+$$
+
+
+$$
+\left[ \begin{array}{cc|c}  
+2  &  5  &  -1 \\
+-10  &  -25  &  5   
+\end{array} \right] 
+$$
