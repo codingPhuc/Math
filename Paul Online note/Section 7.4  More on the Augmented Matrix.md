@@ -67,8 +67,6 @@ x -  y =  6  \\
 \end{array}
 $$
 
-
-
 $$
 \left[ \begin{array}{cc|c}  
 1  &  -1  &  6  \\
@@ -102,3 +100,15 @@ $$
 0   &  1  &   0  
 \end{array} \right] 
 $$
+this would be  okay since the last row would return the equation  y = 0 so don't get confuse between this case and what we got for the system 
+
+
+
+
+
+
+$$
+\begin{array}{l} 
+2x +  5 y =  -1   \\
+ -2x    +  2y = 1  
+\end{a
