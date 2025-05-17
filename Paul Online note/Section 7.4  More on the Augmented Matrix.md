@@ -330,5 +330,14 @@ one we reach this point we can go back to the equation
 
 $$
 \begin{array}{l} \\
-x -  5x
-\end{ar
+x -  5z  =  4  \\
+ y  - 3z  =  5 
+\end{array}
+$$
+both of these equation contain z  so we'll move that to the other side of the equation 
+$$
+\begin{array}{l} \\
+x  =  4   +  5z   \\
+ y =  5 +  3z 
+\end{array}
+$$
