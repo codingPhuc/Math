@@ -43,4 +43,6 @@ $$
 \end{array} \right] 
 $$
 
-is an augmented matrix we can always convert back to equation. each row represents an  equation  and the first column is the coefficient of  x in the
+is an augmented matrix we can always convert back to equation. each row represents an  equation  and the first column is the coefficient of  x in the equation while the second columns is the coefficient of y in the equation. The final column is the constant that will be on the right side of the equation 
+
+
