@@ -83,6 +83,6 @@ $$
 R_{2}  + 2R_1\to R_2 
 \left[ \begin{array}{cc|c}  
 1  &  -1  &  6  \\
-0  &  2  &  1   
+0  &  0  &  13   
 \end{array} \right] 
 $$
