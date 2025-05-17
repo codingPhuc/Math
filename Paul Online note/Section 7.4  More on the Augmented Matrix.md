@@ -222,8 +222,8 @@ $$
 \begin{array}{l} 
 x   -  y  - 2  = 5  \\
 0 =  -18  ??  \\
--2 & 3 & 1 & 7
+-2x   +  3y   + z   =  7
 \end{array}
 
 $$
-we know that we will have no solution for the equation above 
+we know that we will have no solution for the equation above that there will be no solution since
