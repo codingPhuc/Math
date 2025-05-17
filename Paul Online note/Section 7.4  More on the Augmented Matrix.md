@@ -8,5 +8,5 @@ Current date: 2025-05-17
 amount of time: 
 learning score:
 ---
-we saw that there were some special  cases in the solution of the two system . We saw that there can be a un
+we saw that there were some special  cases in the solution of the two system . We saw that there can be either no solution or infinite solution . In the following we are going to general systems of equations 
 
