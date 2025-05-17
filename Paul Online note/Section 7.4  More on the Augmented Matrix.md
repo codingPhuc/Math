@@ -86,3 +86,11 @@ R_{2}  + 2R_1\to R_2
 0  &  0  &  13   
 \end{array} \right] 
 $$
+now  go back to the equation and you see we will get this case 
+$$
+\begin{array}{l} 
+x -  y  =   6    \\
+   0  =  13   ??
+\end{array}
+$$
+
