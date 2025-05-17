@@ -232,8 +232,16 @@ we know that we will have no solution for the equation above the systems will ha
 
 $$
 \begin{array}{l} 
-3x  - 3y  - 6z  =  -3   \\
-2x - 2y  - 4z  =  10   \\
--2x +  3y +  z  = 7 
+3x  - 3y  -  6z = - 3  \\
+2x -  2y  - 4z =  -2   \\
+-2x + 3y + z -  7 
 \end{array}
+$$
+
+
+$$
+\left[\begin{array}{ccc|c} 
+3  &  -3   &  -6  &  - 3  \\
+2x &   -2y  - 4z   &   -3
+\end{array}\right]
 $$
