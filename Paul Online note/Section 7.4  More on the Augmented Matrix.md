@@ -121,3 +121,14 @@ $$
 -10  &  -25  &  5   
 \end{array} \right] 
 $$
+$$
+\left[ \begin{array}{cc|c}  
+2  &  5  &  -1 \\
+-10  &  -25  &  5   
+\end{array} \right] 
+R_{2}  + 5R_1\to R_2 
+\left[ \begin{array}{cc|c}  
+2  &  5  &  -1 \\
+0  &  0  &  0  
+\end{array} \right] 
+$$
