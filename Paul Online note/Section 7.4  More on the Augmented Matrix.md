@@ -445,7 +445,7 @@ $$
 7 &   - 8   &  -12  \\
 -4 &  2   &  3  
 \end{array} \right] 
-R_{2}  - 5R_1\to R_2 
+-\frac{1}{7}R_{1} \to 
 \left[ \begin{array}{cc|c}  
 7 &   - 8   &  -12  \\
 -4 &  2   &  3  
