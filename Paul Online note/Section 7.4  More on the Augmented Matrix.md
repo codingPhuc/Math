@@ -291,6 +291,10 @@ R_{2}  -3R_1 \to R_2
 -2x   &   +  3y  &  + z  &  -7
 \end{array}\right] 
 R_{2}  + 2R_1 \to R_2  
-
+\left[\begin{array}{ccc|c} 
+ 1x &   -1y  &  - 2z   &   -1  \\
+0  &  0   &  0  &  0  \\
+0   &   +  1y  & -3z  &  -11
+\end{array}\right]
 $$
 
