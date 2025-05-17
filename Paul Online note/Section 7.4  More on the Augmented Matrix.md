@@ -357,3 +357,31 @@ $$
 
 # #Practice_Exercise   
 
+
+
+
+$$
+\begin{array}{l} 
+x -  7y  = -11   \\
+5x +  2y     =  -  18 
+\end{array}
+$$
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1   &   - 7  &   -11   \\
+5x  &   2   &    -18 
+\end{array} \right] 
+$$
+$$
+\left[ \begin{array}{cc|c}  
+2  &  5  &  -1 \\
+-10  &  -25  &  5   
+\end{array} \right] 
+R_{2}  + 5R_1\to R_2 
+\left[ \begin{array}{cc|c}  
+2  &  5  &  -1 \\
+0  &  0  &  0  
+\end{array} \right] 
+$$
