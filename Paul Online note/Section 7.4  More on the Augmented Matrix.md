@@ -153,8 +153,7 @@ x   =  -\frac{5}{2} t - \frac{1}{2 } \\
 y   = t \text{  where  t is any real number}
 \end{array}
 $$
-we get the equation by picking t and plug it into the equation for x .Note however that this is not the equation we get in the first section [[Section 7.1  Linear Systems with Two Variables]] . But t
-
+we get the equation by picking t and plug it into the equation for x .Note however that this is not the equation we get in the first section [[Section 7.1  Linear Systems with Two Variables]] . However , this is okay since there are endless solution resulting in endless equation 
 ##  solve  the following system of equation using augmented  matrices 
 
 $$
