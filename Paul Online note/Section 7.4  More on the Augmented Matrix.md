@@ -234,7 +234,7 @@ $$
 \begin{array}{l} 
 3x  - 3y  -  6z = - 3  \\
 2x -  2y  - 4z =  -2   \\
--2x + 3y + z -  7 
+-2x + 3y + z =  7 
 \end{array}
 $$
 
@@ -243,7 +243,7 @@ $$
 \left[\begin{array}{ccc|c} 
 3  &  -3   &  -6  &  - 3  \\
 2x &   -2y  &  - 4z   &   -2  \\
--2x   &   +  3y  &  + z  &  -7
+-2x   &   +  3y  &  + z  &  7
 \end{array}\right]
 $$
 
@@ -251,13 +251,13 @@ $$
 \left[\begin{array}{ccc|c} 
 3  &  -3   &  -6  &  - 3  \\
 2x &   -2y  &  - 4z   &   -2  \\
--2x   &   +  3y  &  + z  &  -7
+-2x   &   +  3y  &  + z  &  7
 \end{array}\right]
 R_1\leftrightarrow R_2
 \left[\begin{array}{ccc|c} 
  2x &   -2y  &  - 4z   &   -2  \\
 3  &  -3   &  -6  &  - 3  \\
--2x   &   +  3y  &  + z  &  -7
+-2x   &   +  3y  &  + z  &  7
 \end{array}\right]
 $$
 
@@ -266,13 +266,13 @@ $$
 \left[\begin{array}{ccc|c} 
  2x &   -2y  &  - 4z   &   -2  \\
 3  &  -3   &  -6  &  - 3  \\
--2x   &   +  3y  &  + z  &  -7
+-2x   &   +  3y  &  + z  &  7
 \end{array}\right]
 \frac{1}{2 }R_1 \xrightarrow{\text{}} 
 \left[\begin{array}{ccc|c} 
  1x &   -1y  &  - 2z   &   -1  \\
 3  &  -3   &  -6  &  - 3  \\
--2x   &   +  3y  &  + z  &  -7
+-2x   &   +  3y  &  + z  &  7
 \end{array}\right]
 $$
 
