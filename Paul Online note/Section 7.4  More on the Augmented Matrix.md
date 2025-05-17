@@ -486,9 +486,9 @@ $$
 1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
  0  &   1    &   \frac{3}{2 }
 \end{array} \right] 
-R_{2}  +  4R_1\to R_2 
+R_{1}  +  \frac{8}{7}R_2\to R_1
 \left[ \begin{array}{cc|c}  
-1 &   - \frac{8}{7}   &  -\frac{12}{7}  \\
+1  &  0  &  -\frac{12}{7}  \\
  0  &   1    &   \frac{3}{2 }
 \end{array} \right] 
 $$
