@@ -371,17 +371,17 @@ $$
 $$
 \left[ \begin{array}{cc|c}  
 1   &   - 7  &   -11   \\
-5x  &   2   &    -18 
+5 &   2   &    -18 
 \end{array} \right] 
 $$
 $$
 \left[ \begin{array}{cc|c}  
-2  &  5  &  -1 \\
--10  &  -25  &  5   
+1   &   - 7  &   -11   \\
+5 &   2   &    -18 
 \end{array} \right] 
-R_{2}  + 5R_1\to R_2 
+R_{2}  - 5R_1\to R_2 
 \left[ \begin{array}{cc|c}  
-2  &  5  &  -1 \\
-0  &  0  &  0  
+1   &   - 7  &   -11   \\
+0 &   2   &    -18 
 \end{array} \right] 
 $$
