@@ -155,4 +155,10 @@ y   = t \text{  where  t is any real number}
 $$
 we get the equation by picking t and plug it into the equation for x .Note however that this is not the equation we get in the first section [[Section 7.1  Linear Systems with Two Variables]] 
 
+##  solve  the following system of equation using augmented  matrices 
+
+$$
+\begin{array}{ }
+\end{array}
+$$
 
