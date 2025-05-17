@@ -242,6 +242,7 @@ $$
 $$
 \left[\begin{array}{ccc|c} 
 3  &  -3   &  -6  &  - 3  \\
-2x &   -2y  - 4z   &   -3
+2x &   -2y  &  - 4z   &   -2  \\
+-2x   &   +  3y  &  + z  &  -7
 \end{array}\right]
 $$
