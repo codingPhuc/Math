@@ -172,3 +172,16 @@ $$
 \end{array}\right]
 $$
 
+$$
+\left[\begin{array}{ccc|c} 
+3 & -3 & -6 & -3 \\
+2 & -2 & -4 & 10 \\
+-2 & 3 & 1 & 7
+\end{array}\right]
+\frac{1}{2}R_{2}  
+\left[\begin{array}{ccc|c} 
+3 & -3 & -6 & -3 \\
+2 & -2 & -4 & 10 \\
+-2 & 3 & 1 & 7
+\end{array}\right]
+$$
