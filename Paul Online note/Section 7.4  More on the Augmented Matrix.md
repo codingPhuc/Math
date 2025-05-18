@@ -876,6 +876,21 @@ $$
 \left[\begin{array}{ccc|c} 
 1  &   \frac{5}{2}  &   1  &   -19  \\
 0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
+0  &   0   &  \frac{13}{19} &  -\frac{26}{19}  
+\end{array}\right]
+ \frac{19}{13}R_3\to 
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
+0  &   0   &  1 &  -2
+\end{array}\right]
+$$
+
+
+$$
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
 0  &   -3  &  1 &  22  
 \end{array}\right]
 R_3+ 3R_2\to r_{3} 
