@@ -743,12 +743,12 @@ $$
 $$
 \left[ \begin{array}{cc|c}  
 1   &  \frac{3}{2}  &   10   \\
-0 &  -\frac{17}{2}   &  17   
+0 &  -\frac{17}{2}   &  -17   
 \end{array} \right]
 -\frac{2}{17}R_{2} \to 
 \left[ \begin{array}{cc|c}  
 1   &  \frac{3}{2}  &   10   \\
-0 &  1   &  -2    
+0 &  1   &  2    
 \end{array} \right]
 $$
 
@@ -760,14 +760,14 @@ $$
 \end{array} \right]
 R_{1}   -\frac{3}{2}R_2 \to R_1
 \left[ \begin{array}{cc|c}  
-1   &  0  &  13  \\
+1   &  0  &  7   \\
 0 &  1   &  -2    
 \end{array} \right]
 $$
 $$
 \begin{array}{l} \\
-x =  -\frac{1}{3}   \\
-y =  -2  
+x =  7  \\
+y =  2  
 \end{array}
 $$
 
