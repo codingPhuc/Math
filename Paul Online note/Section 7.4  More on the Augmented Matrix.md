@@ -895,9 +895,9 @@ $$
 0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
 0  &   0   &  1 &  -2
 \end{array}\right]
-R_1+ 3R_2\to r_{3} 
+R_1  -\frac{5}{2}R_2\to R_{1} 
 \left[\begin{array}{ccc|c} 
-1  &   \frac{5}{2}  &   1  &   -19  \\
+1  &   0 &   1  &   -19  \\
 0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
 0  &   0   &  1 &  -2
 \end{array}\right]
