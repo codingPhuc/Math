@@ -986,31 +986,28 @@ R_{3} +   2R_1 \to R_3
 $$
 
 
-
-
-
 $$
 \left[\begin{array}{ccc|c} 
 3 &  0  &   -9  &  33   \\
 7 &  -4 &  -1  &  -15   \\
--6 &    1 &   -7 &  -12 
+0  &    1 &   -25 &  54  
 \end{array}\right]
 \frac{1}{3}R_{1} \to 
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
 7 &  -4 &  -1  &  -15   \\
--6 &    1 &   -7 &  -12 
+0  &    1 &   -25 &  54  
 \end{array}\right]
 $$
 
 
 $$
 \left[\begin{array}{ccc|c} 
-1  &   \frac{5}{2}  &   1  &   -19  \\
-3 &  -2   &  4 &   17   \\
--6 &  1   &   -7 &   -12 
+1 &  0  &   -3  &  11    \\
+7 &  -4 &  -1  &  -15   \\
+0  &    1 &   -25 &  54  
 \end{array}\right]
-R_{3} +   2R_2 \to R_3
+R_{2} +   -7R_1 \to R_2
 \left[\begin{array}{ccc|c} 
 1  &   \frac{5}{2}  &   1  &   -19  \\
 3 &  -2   &  4 &   17   \\
