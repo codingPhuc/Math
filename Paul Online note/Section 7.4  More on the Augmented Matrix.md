@@ -676,43 +676,17 @@ $$
 $$
 
 
-$$
-\left[ \begin{array}{cc|c}  
-6 &   -5  &   8  \\
-0  &  -8   &    16  
-\end{array} \right] 
-\frac{1}{6}R_{1} \to 
-\left[ \begin{array}{cc|c}  
-1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
-0  &  -8   &    16  
-\end{array} \right] 
-$$
-
 
 
 $$
 \left[ \begin{array}{cc|c}  
-1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
-0  &  -8   &    16  
+1 &   -5  &   \frac{3}{5}   \\
+-2  &  10  &   2  
 \end{array} \right] 
-\frac{1}{-8}R_{2} \to 
+R_{2}  +  2R_1\to R_2 
 \left[ \begin{array}{cc|c}  
-1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
-0  &  1   &    -2
-\end{array} \right] 
-$$
-
-
-
-$$
-\left[ \begin{array}{cc|c}  
-1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
-0  &  1   &    -2
-\end{array} \right] 
-R_{1}  +  \frac{5}{6}R_2\to R_1 
-\left[ \begin{array}{cc|c}  
-1 &   0  &   -\frac{1}{3}  \\
-0  &  1   &    -2
+1 &   -5  &   \frac{3}{5}   \\
+0 &   0   &   2  
 \end{array} \right] 
 $$
 
