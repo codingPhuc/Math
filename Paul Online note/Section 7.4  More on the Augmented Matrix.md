@@ -793,21 +793,24 @@ $$
 $$
 
 $$
-\left[ \begin{array}{cc|c}  
-2   &  3  &   20   \\
-7  &  2    &  53  
-\end{array} \right] 
+\left[\begin{array}{ccc|c} 
+2  &   5  &   2  &   -38  \\
+3 &  -2   &  4 &   17   \\
+-6 &  1   &   -7 &   -12 
+\end{array}\right]
 $$
 $$
-\left[ \begin{array}{cc|c}  
-2   &  3  &   20   \\
-7  &  2    &  53  
-\end{array} \right] 
+\left[\begin{array}{ccc|c} 
+2  &   5  &   2  &   -38  \\
+3 &  -2   &  4 &   17   \\
+-6 &  1   &   -7 &   -12 
+\end{array}\right]
 \frac{1}{2}R_{1} \to 
-\left[ \begin{array}{cc|c}  
-1   &  \frac{3}{2}  &   10   \\
-7  &  2    &  53  
-\end{array} \right] 
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   2  &   -38  \\
+3 &  -2   &  4 &   17   \\
+-6 &  1   &   -7 &   -12 
+\end{array}\right]
 $$
 
 
