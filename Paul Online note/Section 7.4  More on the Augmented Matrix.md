@@ -563,3 +563,63 @@ $$
 
 
 
+
+
+
+
+
+
+
+$$
+\begin{array}{l} 
+6x  - 5y  =  8  \\
+ -12x + 2y = 0 
+\end{array}
+$$
+
+$$
+\left[ \begin{array}{cc|c}  
+6 &   -5  &   8  \\
+-12  &  2  &    0 
+\end{array} \right] 
+$$
+$$
+\left[ \begin{array}{cc|c}  
+3 &   9  &   -6   \\
+-4   &   -12  &    8 
+\end{array} \right] 
+\frac{1}{3}R_{1} \to 
+\left[ \begin{array}{cc|c}  
+1 &   3  &   -2   \\
+-4   &   -12  &    8 
+\end{array} \right] 
+$$
+
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1 &   3  &   -2   \\
+-4   &   -12  &    8 
+\end{array} \right] 
+R_{2}  +  4R_1\to R_2 
+\left[ \begin{array}{cc|c}  
+1 &   3  &   -2   \\
+0   &   0  &    0 
+\end{array} \right] 
+$$
+
+
+
+we concluded that the system is dependance  bases since the row $R_{2}$  have all it entries equal  to zero  
+so we have the solution 
+
+$$
+\begin{array}{l}
+x  +  3 y  =  -2  \implies x   =   -2   - 3t \\
+y  = t  
+\end{array}
+$$
+
+
+
