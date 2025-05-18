@@ -732,10 +732,10 @@ $$
 1   &  \frac{3}{2}  &   10   \\
 7  &  2    &  53  
 \end{array} \right] 
-R_{2}   R_1 \to R_2
+R_{2} -  7R_1 \to R_2
 \left[ \begin{array}{cc|c}  
 1   &  \frac{3}{2}  &   10   \\
-7  &  2    &  53  
+0 &  2    &  53  
 \end{array} \right] 
 $$
 
