@@ -848,10 +848,10 @@ $$
 0 &  \frac{19}{2}    &  1 &   74    \\
 0  &   -3  &  1 &  22  
 \end{array}\right]
-R_{1}   -\frac{3}{2}R_2 \to R_1
+\frac{2}{19}R_2 \to 
 \left[\begin{array}{ccc|c} 
 1  &   \frac{5}{2}  &   1  &   -19  \\
-0 &  \frac{19}{2}    &  1 &   74    \\
+0 &  1   &  \frac{19}{2} &   \frac{148}{19}    \\
 0  &   -3  &  1 &  22  
 \end{array}\right]
 $$
