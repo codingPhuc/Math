@@ -912,7 +912,22 @@ $$
 R_2  + \frac{2}{19}R_3\to R_{2} 
 \left[\begin{array}{ccc|c} 
 1  &   0 &   \frac{24}{19}  &   \frac{9}{19}  \\
-0 &  1   & 0  &  - \frac{148}{19}    \\
+0 &  1   & 0  &  - 8   \\
+0  &   0   &  1 &  -2
+\end{array}\right]
+$$
+
+
+$$
+\left[\begin{array}{ccc|c} 
+1  &   0 &   \frac{24}{19}  &   \frac{9}{19}  \\
+0 &  1   & 0  &  - 8   \\
+0  &   0   &  1 &  -2
+\end{array}\right]
+R_1 - \frac{24}{19}R_3\to R_{1} 
+\left[\begin{array}{ccc|c} 
+1  &   0 &  0 &   \frac{9}{19}  \\
+0 &  1   & 0  &  - 8   \\
 0  &   0   &  1 &  -2
 \end{array}\right]
 $$
