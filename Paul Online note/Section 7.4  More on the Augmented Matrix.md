@@ -1017,6 +1017,21 @@ R_{3} +   -4R_1 \to R_3
 \end{array}\right]
 $$
 
+$$
+\left[\begin{array}{ccc|c} 
+1 &  0  &   -3  &  11    \\
+0  &  -4 &  20  &  -92   \\
+0 &    6 &   17  &  -50  
+\end{array}\right]
+-\frac{1}{4}R_{1} \to 
+\left[\begin{array}{ccc|c} 
+1 &  0  &   -3  &  11    \\
+0  &  1 &  -5  &  -23   \\
+0 &    6 &   17  &  -50  
+\end{array}\right]
+$$
+
+
 
 
 $$
