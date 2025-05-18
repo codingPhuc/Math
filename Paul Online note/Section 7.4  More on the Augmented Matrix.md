@@ -636,17 +636,88 @@ R_{1}  +  \frac{5}{6}R_2\to R_1
 \end{array} \right] 
 $$
 
-
-
-we concluded that the system is dependance  bases since the row $R_{2}$  have all it entries equal  to zero  
-so we have the solution 
-
 $$
-\begin{array}{l}
-x  +  3 y  =  -2  \implies x   =   -2   - 3t \\
-y  = t  
+\begin{array}{l} \\
+x =  -\frac{1}{3}   \\
+y =  -2  
 \end{array}
 $$
 
 
 
+
+
+
+
+
+$$
+\begin{array}{l} 
+5x - 25y  = 3   \\
+-2x  + 10 y  = 2 
+\end{array}
+$$
+
+$$
+\left[ \begin{array}{cc|c}  
+5 &   -25  &   3
+\end{array} \right] 
+$$
+$$
+\left[ \begin{array}{cc|c}  
+6 &   -5  &   8  \\
+-12  &  2  &    0 
+\end{array} \right] 
+R_{2}  +  2R_1 \to R_2 
+\left[ \begin{array}{cc|c}  
+6 &   -5  &   8  \\
+0  &  -8   &    16  
+\end{array} \right] 
+$$
+
+
+$$
+\left[ \begin{array}{cc|c}  
+6 &   -5  &   8  \\
+0  &  -8   &    16  
+\end{array} \right] 
+\frac{1}{6}R_{1} \to 
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  -8   &    16  
+\end{array} \right] 
+$$
+
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  -8   &    16  
+\end{array} \right] 
+\frac{1}{-8}R_{2} \to 
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  1   &    -2
+\end{array} \right] 
+$$
+
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  1   &    -2
+\end{array} \right] 
+R_{1}  +  \frac{5}{6}R_2\to R_1 
+\left[ \begin{array}{cc|c}  
+1 &   0  &   -\frac{1}{3}  \\
+0  &  1   &    -2
+\end{array} \right] 
+$$
+
+$$
+\begin{array}{l} \\
+x =  -\frac{1}{3}   \\
+y =  -2  
+\end{array}
+$$
