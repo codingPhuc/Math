@@ -947,3 +947,167 @@ $$
 
 
 
+
+
+
+
+
+
+$$
+\begin{array}{l} 
+3x  - 9 z  =  33  \\
+7x  - 4y  - z  =  -15   \\
+-6x  +  y  - 7z =  -12 
+\end{array}
+$$
+
+$$
+\left[\begin{array}{ccc|c} 
+3 &  0  &   -9  &  33  
+\end{array}\right]
+$$
+$$
+\left[\begin{array}{ccc|c} 
+2  &   5  &   2  &   -38  \\
+3 &  -2   &  4 &   17   \\
+-6 &  1   &   -7 &   -12 
+\end{array}\right]
+\frac{1}{2}R_{1} \to 
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+3 &  -2   &  4 &   17   \\
+-6 &  1   &   -7 &   -12 
+\end{array}\right]
+$$
+
+
+$$
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+3 &  -2   &  4 &   17   \\
+-6 &  1   &   -7 &   -12 
+\end{array}\right]
+R_{3} +   2R_2 \to R_3
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+3 &  -2   &  4 &   17   \\
+0  &   -3  &  1 &  22  
+\end{array}\right]
+$$
+
+$$
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+3 &  -2   &  4 &   17   \\
+0  &   -3  &  1 &  22  
+\end{array}\right]
+R_{2}   -3R_1 \to R_2
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  -\frac{19}{2}    &  1 &   74    \\
+0  &   -3  &  1 &  22  
+\end{array}\right]
+$$
+
+$$
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  -\frac{19}{2}    &  1 &   74    \\
+0  &   -3  &  1 &  22  
+\end{array}\right]
+-\frac{2}{19}R_2 \to 
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
+0  &   -3  &  1 &  22  
+\end{array}\right]
+$$
+
+
+
+$$
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
+0  &   -3  &  1 &  22  
+\end{array}\right]
+R_3+ 3R_2\to r_{3} 
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
+0  &   0   &  \frac{13}{19} &  -\frac{26}{19}  
+\end{array}\right]
+$$
+
+$$
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
+0  &   0   &  \frac{13}{19} &  -\frac{26}{19}  
+\end{array}\right]
+ \frac{19}{13}R_3\to 
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
+0  &   0   &  1 &  -2
+\end{array}\right]
+$$
+
+
+
+
+$$
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
+0  &   0   &  1 &  -2
+\end{array}\right]
+R_1  -\frac{5}{2}R_2\to R_{1} 
+\left[\begin{array}{ccc|c} 
+1  &   0 &   \frac{24}{19}  &   \frac{9}{19}  \\
+0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
+0  &   0   &  1 &  -2
+\end{array}\right]
+$$
+
+$$
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
+0  &   0   &  1 &  -2
+\end{array}\right]
+R_2  + \frac{2}{19}R_3\to R_{2} 
+\left[\begin{array}{ccc|c} 
+1  &   0 &   \frac{24}{19}  &   \frac{9}{19}  \\
+0 &  1   & 0  &  - 8   \\
+0  &   0   &  1 &  -2
+\end{array}\right]
+$$
+
+
+$$
+\left[\begin{array}{ccc|c} 
+1  &   0 &   \frac{24}{19}  &   \frac{9}{19}  \\
+0 &  1   & 0  &  - 8   \\
+0  &   0   &  1 &  -2
+\end{array}\right]
+R_1 - \frac{24}{19}R_3\to R_{1} 
+\left[\begin{array}{ccc|c} 
+1  &   0 &  0 &   3  \\
+0 &  1   & 0  &  - 8   \\
+0  &   0   &  1 &  -2
+\end{array}\right]
+$$
+
+
+
+
+$$
+\begin{array}{l} \\
+x =  3   \\
+y = -8  \\
+z = -2  
+\end{array}
+$$
+
+
