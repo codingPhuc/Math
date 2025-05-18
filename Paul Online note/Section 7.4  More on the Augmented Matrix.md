@@ -686,13 +686,8 @@ $$
 R_{2}  +  2R_1\to R_2 
 \left[ \begin{array}{cc|c}  
 1 &   -5  &   \frac{3}{5}   \\
-0 &   0   &   2  
+0 &   0   &   \frac{16}{5}  
 \end{array} \right] 
 $$
 
-$$
-\begin{array}{l} \\
-x =  -\frac{1}{3}   \\
-y =  -2  
-\end{array}
-$$
+the system is inconsistent . Therefore , there is no solution to the system of 
