@@ -610,6 +610,20 @@ $$
 
 
 
+$$
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  -8   &    16  
+\end{array} \right] 
+\frac{1}{-8}R_{2} \to 
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  1   &    -2
+\end{array} \right] 
+$$
+
+
+
 we concluded that the system is dependance  bases since the row $R_{2}$  have all it entries equal  to zero  
 so we have the solution 
 
