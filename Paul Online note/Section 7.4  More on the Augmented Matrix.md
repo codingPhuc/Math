@@ -828,19 +828,19 @@ R_{3} +   2R_2 \to R_3
 \end{array}\right]
 $$
 
-
 $$
-\left[ \begin{array}{cc|c}  
-1   &  \frac{3}{2}  &   10   \\
-0 &  -\frac{17}{2}   &  -17   
-\end{array} \right]
--\frac{2}{17}R_{2} \to 
-\left[ \begin{array}{cc|c}  
-1   &  \frac{3}{2}  &   10   \\
-0 &  1   &  2    
-\end{array} \right]
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+3 &  -2   &  4 &   17   \\
+0  &   -3  &  1 &  22  
+\end{array}\right]
+R_{2}   -3R_1 \to R_2
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+0 &  -2   &  4 &   17   \\
+0  &   -3  &  1 &  22  
+\end{array}\right]
 $$
-
 
 $$
 \left[ \begin{array}{cc|c}  
