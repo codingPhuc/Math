@@ -740,33 +740,17 @@ R_{2} -  7R_1 \to R_2
 $$
 
 
-
 $$
 \left[ \begin{array}{cc|c}  
-1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
-0  &  -8   &    16  
-\end{array} \right] 
-\frac{1}{-8}R_{2} \to 
+1   &  \frac{3}{2}  &   10   \\
+0 &  -\frac{17}{2}   &  17   
+\end{array} \right]
+-\frac{2}{17}R_{2} \to 
 \left[ \begin{array}{cc|c}  
-1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
-0  &  1   &    -2
-\end{array} \right] 
+1   &  \frac{3}{2}  &   10   \\
+0 &  1   &  17   
+\end{array} \right]
 $$
-
-
-
-$$
-\left[ \begin{array}{cc|c}  
-1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
-0  &  1   &    -2
-\end{array} \right] 
-R_{1}  +  \frac{5}{6}R_2\to R_1 
-\left[ \begin{array}{cc|c}  
-1 &   0  &   -\frac{1}{3}  \\
-0  &  1   &    -2
-\end{array} \right] 
-$$
-
 $$
 \begin{array}{l} \\
 x =  -\frac{1}{3}   \\
