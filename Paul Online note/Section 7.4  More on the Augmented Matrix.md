@@ -968,6 +968,27 @@ $$
 -6 &    1 &   -7 &  -12 
 \end{array}\right]
 $$
+
+
+
+$$
+\left[\begin{array}{ccc|c} 
+3 &  0  &   -9  &  33   \\
+7 &  -4 &  -1  &  -15   \\
+-6 &    1 &   -7 &  -12 
+\end{array}\right]
+R_{1} +   2R_3 \to R_3
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+3 &  -2   &  4 &   17   \\
+0  &   -3  &  1 &  22  
+\end{array}\right]
+$$
+
+
+
+
+
 $$
 \left[\begin{array}{ccc|c} 
 3 &  0  &   -9  &  33   \\
