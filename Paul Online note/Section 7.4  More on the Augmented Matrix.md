@@ -1041,13 +1041,25 @@ R_{3} +   -6R_2 \to R_3
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
 0  &  1 &  -5  &  23   \\
-0 &    0  &   47  & 88  
+0 &    0  &   47  & 188  
 \end{array}\right]
 $$
 
 
 
-
+$$
+\left[\begin{array}{ccc|c} 
+1 &  0  &   -3  &  11    \\
+0  &  1 &  -5  &  23   \\
+0 &    0  &   47  & 188  
+\end{array}\right]
+\frac{1}{47}R_{1} \to 
+\left[\begin{array}{ccc|c} 
+1 &  0  &   -3  &  11    \\
+0  &  1 &  -5  &  23   \\
+0 &    0  &   1 & 4  
+\end{array}\right]
+$$
 
 
 $$
