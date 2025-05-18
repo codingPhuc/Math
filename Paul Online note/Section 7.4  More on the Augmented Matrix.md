@@ -926,8 +926,24 @@ $$
 \end{array}\right]
 R_1 - \frac{24}{19}R_3\to R_{1} 
 \left[\begin{array}{ccc|c} 
-1  &   0 &  0 &   \frac{9}{19}  \\
+1  &   0 &  0 &   3  \\
 0 &  1   & 0  &  - 8   \\
 0  &   0   &  1 &  -2
 \end{array}\right]
 $$
+
+
+
+
+$$
+\begin{array}{l} \\
+x =  3   \\
+y = -8  \\
+z = -2  
+\end{array}
+$$
+
+
+
+
+
