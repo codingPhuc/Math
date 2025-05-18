@@ -624,6 +624,20 @@ $$
 
 
 
+$$
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  1   &    -2
+\end{array} \right] 
+R_{2}  -R_2\to R_1 
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  1   &    -2
+\end{array} \right] 
+$$
+
+
+
 we concluded that the system is dependance  bases since the row $R_{2}$  have all it entries equal  to zero  
 so we have the solution 
 
