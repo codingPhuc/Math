@@ -5,7 +5,7 @@ tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
 Current date: 2025-05-17
-amount of time: 
+amount of time: 2h30
 learning score:
 ---
 # #definition 
@@ -1083,14 +1083,14 @@ $$
 $$
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
-0  &  1 &  0   &  43   \\
-0 &    0  &   1 & 4  
+0  &  1 &  0   &  3   \\
+0 &    0  &   1 & -4  
 \end{array}\right]
 R_{1}  + 3    R_3 \to R_1
 \left[\begin{array}{ccc|c} 
-1 &  0  &   0   &  23    \\
-0  &  1 &  0   &  43   \\
-0 &    0  &   1 & 4  
+1 &  0  &   -3  &  -1     \\
+0  &  1 &  0   &  3   \\
+0 &    0  &   1 & -4  
 \end{array}\right]
 $$
 
@@ -1098,9 +1098,9 @@ $$
 
 $$
 \begin{array}{l} \\
-x =  3   \\
-y = -8  \\
-z = -2  
+x =  -1  \\
+y = 3  \\
+z = -4  
 \end{array}
 $$
 
