@@ -591,21 +591,20 @@ $$
 R_{2}  +  2R_1 \to R_2 
 \left[ \begin{array}{cc|c}  
 6 &   -5  &   8  \\
-0  &  -8   &    0 
+0  &  -8   &    16  
 \end{array} \right] 
 $$
 
 
-
 $$
 \left[ \begin{array}{cc|c}  
-1 &   3  &   -2   \\
--4   &   -12  &    8 
+6 &   -5  &   8  \\
+0  &  -8   &    16  
 \end{array} \right] 
-R_{2}  +  4R_1\to R_2 
+\frac{1}{6}R_{1} \to 
 \left[ \begin{array}{cc|c}  
-1 &   3  &   -2   \\
-0   &   0  &    0 
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  -8   &    16  
 \end{array} \right] 
 $$
 
