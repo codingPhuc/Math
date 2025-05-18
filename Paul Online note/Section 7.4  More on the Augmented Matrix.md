@@ -807,7 +807,7 @@ $$
 \end{array}\right]
 \frac{1}{2}R_{1} \to 
 \left[\begin{array}{ccc|c} 
-1  &   \frac{5}{2}  &   2  &   -38  \\
+1  &   \frac{5}{2}  &   1  &   -19  \\
 3 &  -2   &  4 &   17   \\
 -6 &  1   &   -7 &   -12 
 \end{array}\right]
@@ -815,15 +815,17 @@ $$
 
 
 $$
-\left[ \begin{array}{cc|c}  
-1   &  \frac{3}{2}  &   10   \\
-7  &  2    &  53  
-\end{array} \right] 
-R_{2} -  7R_1 \to R_2
-\left[ \begin{array}{cc|c}  
-1   &  \frac{3}{2}  &   10   \\
-0 &  -\frac{17}{2}   & - 17   
-\end{array} \right] 
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+3 &  -2   &  4 &   17   \\
+-6 &  1   &   -7 &   -12 
+\end{array}\right]
+R_{1} -  2R_2 \to R_1
+\left[\begin{array}{ccc|c} 
+1  &   \frac{5}{2}  &   1  &   -19  \\
+3 &  -2   &  4 &   17   \\
+-6 &  1   &   -7 &   -12 
+\end{array}\right]
 $$
 
 
