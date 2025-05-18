@@ -629,9 +629,9 @@ $$
 1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
 0  &  1   &    -2
 \end{array} \right] 
-R_{2}  -R_2\to R_1 
+R_{1}  +  \frac{5}{6}R_2\to R_1 
 \left[ \begin{array}{cc|c}  
-1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+1 &   0  &   -\frac{1}{3}  \\
 0  &  1   &    -2
 \end{array} \right] 
 $$
