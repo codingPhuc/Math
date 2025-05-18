@@ -971,19 +971,7 @@ $$
 
 
 
-$$
-\left[\begin{array}{ccc|c} 
-3 &  0  &   -9  &  33   \\
-7 &  -4 &  -1  &  -15   \\
-4 &    6 &   5 &  -6 
-\end{array}\right]
-R_{3} +   2R_1 \to R_3
-\left[\begin{array}{ccc|c} 
-3 &  0  &   -9  &  33   \\
-7 &  -4 &  -1  &  -15   \\
-0  &    1 &   -25 &  54  
-\end{array}\right]
-$$
+
 
 
 $$
@@ -996,7 +984,7 @@ $$
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
 7 &  -4 &  -1  &  -15   \\
-0  &    1 &   -25 &  54  
+4 &    6 &   5 &  -6 
 \end{array}\right]
 $$
 
@@ -1005,13 +993,13 @@ $$
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
 7 &  -4 &  -1  &  -15   \\
-0  &    1 &   -25 &  54  
+4 &    6 &   5 &  -6 
 \end{array}\right]
 R_{2} +   -7R_1 \to R_2
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
 0  &  -4 &  20  &  -92   \\
-0  &    1 &   -25 &  54  
+4 &    6 &   5 &  -6 
 \end{array}\right]
 $$
 
