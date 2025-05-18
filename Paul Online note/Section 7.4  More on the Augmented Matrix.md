@@ -690,4 +690,88 @@ R_{2}  +  2R_1\to R_2
 \end{array} \right] 
 $$
 
-the system is inconsistent . Therefore , there is no solution to the system of 
+the system is inconsistent . Therefore , there is no solution to the system of equation 
+
+
+
+
+
+
+
+
+
+
+$$
+\begin{array}{l} 
+2x +  3y  =  20  \\
+7x + 2y =  53  
+\end{array}
+$$
+
+$$
+\left[ \begin{array}{cc|c}  
+2   &  3  &   20   \\
+7  &  2    &  53  
+\end{array} \right] 
+$$
+$$
+\left[ \begin{array}{cc|c}  
+6 &   -5  &   8  \\
+-12  &  2  &    0 
+\end{array} \right] 
+R_{2}  +  2R_1 \to R_2 
+\left[ \begin{array}{cc|c}  
+6 &   -5  &   8  \\
+0  &  -8   &    16  
+\end{array} \right] 
+$$
+
+
+$$
+\left[ \begin{array}{cc|c}  
+6 &   -5  &   8  \\
+0  &  -8   &    16  
+\end{array} \right] 
+\frac{1}{6}R_{1} \to 
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  -8   &    16  
+\end{array} \right] 
+$$
+
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  -8   &    16  
+\end{array} \right] 
+\frac{1}{-8}R_{2} \to 
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  1   &    -2
+\end{array} \right] 
+$$
+
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
+0  &  1   &    -2
+\end{array} \right] 
+R_{1}  +  \frac{5}{6}R_2\to R_1 
+\left[ \begin{array}{cc|c}  
+1 &   0  &   -\frac{1}{3}  \\
+0  &  1   &    -2
+\end{array} \right] 
+$$
+
+$$
+\begin{array}{l} \\
+x =  -\frac{1}{3}   \\
+y =  -2  
+\end{array}
+$$
+
+
