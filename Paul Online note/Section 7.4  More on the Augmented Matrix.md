@@ -845,13 +845,13 @@ $$
 $$
 \left[\begin{array}{ccc|c} 
 1  &   \frac{5}{2}  &   1  &   -19  \\
-0 &  \frac{19}{2}    &  1 &   74    \\
+0 &  -\frac{19}{2}    &  1 &   74    \\
 0  &   -3  &  1 &  22  
 \end{array}\right]
-\frac{2}{19}R_2 \to 
+-\frac{2}{19}R_2 \to 
 \left[\begin{array}{ccc|c} 
 1  &   \frac{5}{2}  &   1  &   -19  \\
-0 &  1   &  \frac{2}{19} &   \frac{148}{19}    \\
+0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
 0  &   -3  &  1 &  22  
 \end{array}\right]
 $$
