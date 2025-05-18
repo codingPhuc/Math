@@ -659,18 +659,19 @@ $$
 
 $$
 \left[ \begin{array}{cc|c}  
-5 &   -25  &   3
+5 &   -25  &   3   \\
+-2  &  10  &   2  
 \end{array} \right] 
 $$
 $$
 \left[ \begin{array}{cc|c}  
-6 &   -5  &   8  \\
--12  &  2  &    0 
+5 &   -25  &   3   \\
+-2  &  10  &   2  
 \end{array} \right] 
 R_{2}  +  2R_1 \to R_2 
 \left[ \begin{array}{cc|c}  
-6 &   -5  &   8  \\
-0  &  -8   &    16  
+5 &   -25  &   3   \\
+-2  &  10  &   2  
 \end{array} \right] 
 $$
 
