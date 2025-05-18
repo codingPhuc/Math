@@ -735,7 +735,7 @@ $$
 R_{2} -  7R_1 \to R_2
 \left[ \begin{array}{cc|c}  
 1   &  \frac{3}{2}  &   10   \\
-0 &  -\frac{17}{2}   &  17   
+0 &  -\frac{17}{2}   & - 17   
 \end{array} \right] 
 $$
 
