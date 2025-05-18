@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 7.4  More on the Augmented Matrix.md",
+                "file": "Paul Online note/Section 7.3  Augmented Matrices.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 7.4  More on the Augmented Matrix"
+              "title": "Outline of Section 7.3  Augmented Matrices"
             }
           }
         ],
@@ -274,10 +274,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d187a9b5e7872778",
+  "active": "bb0801bfb71bc866",
   "lastOpenFiles": [
-    "Paul Online note/Section 7.3  Augmented Matrices.md",
     "Paul Online note/Section 7.4  More on the Augmented Matrix.md",
+    "Paul Online note/Section 7.3  Augmented Matrices.md",
     "Paul Online note/Solutions and Solution Sets.md",
     "Paul Online note/Section 7.2  Linear Systems with Three Variables.md",
     "Paul Online note/Section 7.1  Linear Systems with Two Variables.md",

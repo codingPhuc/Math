@@ -668,10 +668,10 @@ $$
 5 &   -25  &   3   \\
 -2  &  10  &   2  
 \end{array} \right] 
-R_{2}  +  2R_1 \to R_2 
-\left[ \begin{array}{cc|c}  
-5 &   -25  &   3   \\
--2  &  10  &   2  
+R_{1}  -R_2\to R_1 
+\left[ \begin{array}{cc|c}
+1  &  0  &  -5    \\
+ 0 &  1  & -1 
 \end{array} \right] 
 $$
 
