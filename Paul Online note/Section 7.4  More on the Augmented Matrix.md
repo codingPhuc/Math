@@ -1007,6 +1007,22 @@ $$
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
 0  &  -4 &  20  &  -92   \\
+4 &    6 &   5 &  -6 
+\end{array}\right]
+R_{3} +   -4R_1 \to R_3
+\left[\begin{array}{ccc|c} 
+1 &  0  &   -3  &  11    \\
+0  &  -4 &  20  &  -92   \\
+0 &    6 &   5 &  -6 
+\end{array}\right]
+$$
+
+
+
+$$
+\left[\begin{array}{ccc|c} 
+1 &  0  &   -3  &  11    \\
+0  &  -4 &  20  &  -92   \\
 0  &    1 &   -25 &  54  
 \end{array}\right]
 R_3\leftrightarrow R_2
