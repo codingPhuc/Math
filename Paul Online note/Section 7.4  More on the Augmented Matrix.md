@@ -1031,6 +1031,22 @@ $$
 \end{array}\right]
 $$
 
+$$
+\left[\begin{array}{ccc|c} 
+1 &  0  &   -3  &  11    \\
+0  &  1 &  -5  &  -23   \\
+0 &    6 &   17  &  -50  
+\end{array}\right]
+R_{3} +   -6R_2 \to R_3
+\left[\begin{array}{ccc|c} 
+1 &  0  &   -3  &  11    \\
+0  &  1 &  -5  &  -23   \\
+0 &    0  &   17  &  -50  
+\end{array}\right]
+$$
+
+
+
 
 
 
