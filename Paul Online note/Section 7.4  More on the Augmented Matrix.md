@@ -837,7 +837,7 @@ $$
 R_{2}   -3R_1 \to R_2
 \left[\begin{array}{ccc|c} 
 1  &   \frac{5}{2}  &   1  &   -19  \\
-0 &  \frac{19}{2}    &  1 &   17   \\
+0 &  \frac{19}{2}    &  1 &   74    \\
 0  &   -3  &  1 &  22  
 \end{array}\right]
 $$
