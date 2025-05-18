@@ -716,13 +716,13 @@ $$
 $$
 $$
 \left[ \begin{array}{cc|c}  
-6 &   -5  &   8  \\
--12  &  2  &    0 
+2   &  3  &   20   \\
+7  &  2    &  53  
 \end{array} \right] 
-R_{2}  +  2R_1 \to R_2 
+\frac{1}{2}R_{1} \to 
 \left[ \begin{array}{cc|c}  
-6 &   -5  &   8  \\
-0  &  -8   &    16  
+1   &  \frac{3}{2}  &   10   \\
+7  &  2    &  53  
 \end{array} \right] 
 $$
 
