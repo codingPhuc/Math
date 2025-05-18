@@ -868,7 +868,7 @@ R_3+ 3R_2\to r_{3}
 \left[\begin{array}{ccc|c} 
 1  &   \frac{5}{2}  &   1  &   -19  \\
 0 &  1   &  \frac{19}{2} &   \frac{148}{19}    \\
-0  &   0   &  \frac{59}{2} &  22  
+0  &   0   &  \frac{59}{2} &  \frac{862}{19}  
 \end{array}\right]
 $$
 $$
