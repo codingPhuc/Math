@@ -1024,26 +1024,23 @@ $$
 R_3\leftrightarrow R_2
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
+ 0  &    1 &   -25 &  54   \\
+0  &  -4 &  20  &  -92 
+\end{array}\right]
+$$
+$$
+\left[\begin{array}{ccc|c} 
+1 &  0  &   -3  &  11    \\
+ 0  &    1 &   -25 &  54   \\
+0  &  -4 &  20  &  -92 
+\end{array}\right]
+R_{2} +   4R_3 \to R_2
+\left[\begin{array}{ccc|c} 
+1 &  0  &   -3  &  11    \\
 0  &  -4 &  20  &  -92   \\
-
+0  &    1 &   -25 &  54  
 \end{array}\right]
 $$
-
-$$
-\left[\begin{array}{ccc|c} 
-1  &   \frac{5}{2}  &   1  &   -19  \\
-0 &  -\frac{19}{2}    &  1 &   74    \\
-0  &   -3  &  1 &  22  
-\end{array}\right]
--\frac{2}{19}R_2 \to 
-\left[\begin{array}{ccc|c} 
-1  &   \frac{5}{2}  &   1  &   -19  \\
-0 &  1   &  -\frac{2}{19} &  - \frac{148}{19}    \\
-0  &   -3  &  1 &  22  
-\end{array}\right]
-$$
-
-
 
 $$
 \left[\begin{array}{ccc|c} 
