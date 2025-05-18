@@ -1057,7 +1057,7 @@ $$
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
 0  &  1 &  -5  &  23   \\
-0 &    0  &   1 & 4  
+0 &    0  &   1 & -4  
 \end{array}\right]
 $$
 
@@ -1069,13 +1069,13 @@ $$
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
 0  &  1 &  -5  &  23   \\
-0 &    0  &   1 & 4  
+0 &    0  &   1 & -4  
 \end{array}\right]
 R_{2} +  5  R_3 \to R_2
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
-0  &  1 &  0   &  43   \\
-0 &    0  &   1 & 4  
+0  &  1 &  0   &  3   \\
+0 &    0  &   1 & -4  
 \end{array}\right]
 $$
 
