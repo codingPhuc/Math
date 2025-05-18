@@ -758,11 +758,11 @@ $$
 1   &  \frac{3}{2}  &   10   \\
 0 &  1   &  -2    
 \end{array} \right]
-R_{2}   -\frac{3}{2}R_2 \to R_2
+R_{1}   -\frac{3}{2}R_2 \to R_1
 \left[ \begin{array}{cc|c}  
-1   &  \frac{3}{2}  &   10   \\
-0 &  -\frac{17}{2}   &  17   
-\end{array} \right] 
+1   &  0  &  13  \\
+0 &  1   &  -2    
+\end{array} \right]
 $$
 $$
 \begin{array}{l} \\
