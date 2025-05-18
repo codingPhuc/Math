@@ -585,13 +585,13 @@ $$
 $$
 $$
 \left[ \begin{array}{cc|c}  
-3 &   9  &   -6   \\
--4   &   -12  &    8 
+6 &   -5  &   8  \\
+-12  &  2  &    0 
 \end{array} \right] 
-\frac{1}{3}R_{1} \to 
+R_{2}  +  2R_1 \to R_2 
 \left[ \begin{array}{cc|c}  
-1 &   3  &   -2   \\
--4   &   -12  &    8 
+6 &   -5  &   8  \\
+0  &  -8   &    0 
 \end{array} \right] 
 $$
 
