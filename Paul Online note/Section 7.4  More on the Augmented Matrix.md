@@ -729,13 +729,13 @@ $$
 
 $$
 \left[ \begin{array}{cc|c}  
-6 &   -5  &   8  \\
-0  &  -8   &    16  
+1   &  \frac{3}{2}  &   10   \\
+7  &  2    &  53  
 \end{array} \right] 
-\frac{1}{6}R_{1} \to 
+R_{2}   R_1 \to R_2
 \left[ \begin{array}{cc|c}  
-1 &   -\frac{5}{6}  &   \frac{4}{3}  \\
-0  &  -8   &    16  
+1   &  \frac{3}{2}  &   10   \\
+7  &  2    &  53  
 \end{array} \right] 
 $$
 
