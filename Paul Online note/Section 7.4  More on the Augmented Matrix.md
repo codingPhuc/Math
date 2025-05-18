@@ -1051,7 +1051,7 @@ $$
 \left[\begin{array}{ccc|c} 
 1 &  0  &   -3  &  11    \\
 0  &  1 &  -5  &  23   \\
-0 &    0  &   47  & 188  
+0 &    0  &   47  & -188   
 \end{array}\right]
 \frac{1}{47}R_{1} \to 
 \left[\begin{array}{ccc|c} 
@@ -1088,7 +1088,7 @@ $$
 \end{array}\right]
 R_{1}  + 3    R_3 \to R_1
 \left[\begin{array}{ccc|c} 
-1 &  0  &   -3  &  11    \\
+1 &  0  &   0   &  23    \\
 0  &  1 &  0   &  43   \\
 0 &    0  &   1 & 4  
 \end{array}\right]
