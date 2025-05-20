@@ -75,11 +75,12 @@ x^2  - \frac{8}{x^2}= 2  \\
 x^4  -  8   = 2x^2 \\
 x^4  -  2x^2   -8 = 0  \\
 \text{ substitude  } x^2 =  t   \\
-t^2   - 2t   0
+t^2   - 2t   - 8 =  0   \\
+
 \left\{ \\
 \begin{array}{l} 
- y  = \frac{2}{x}   \\
-
+t  = -4   \\
+t  = - 2 
 \end{array}
 \right. \\
 
