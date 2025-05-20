@@ -91,8 +91,8 @@ t  = \pm\sqrt{ 2 }i \text{ remove }
 \right. \\
 \left\{ \\
 \begin{array}{l} 
-x   = \pm 2 \\
-t  = \pm\sqrt{ 2 }i \text{ remove }
+x   =  2  \implies y =1\\
+x = -2 \implies y =-1 
 \end{array}  
 \right. \\
 \end{array}
