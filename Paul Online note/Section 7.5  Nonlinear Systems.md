@@ -32,7 +32,7 @@ x^2  +   4x^2  -  4x + 1     =  10    \\
 \left\{ \\
 \begin{array}{l} 
 y =  1 - 2x   \\
-5x^2  -  4x + 1     =  10    \\
+5x^2  -  4x - 9     =   0    \\
 \end{array}
 \right. \\
 \left\{ \\
