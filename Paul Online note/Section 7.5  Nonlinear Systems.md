@@ -67,12 +67,11 @@ $$
 
 $$
 \begin{array}{l}  
-x^2  + y^2  = 10     \\
-2x +  y = 1   \\  \\
-\begin{array}{l} 
- y  = \frac{2}{x}  \\
-x^2  - 2 \cdot \left( \frac{2}{x} \right)^2  =   2  
-\end{array}\\
+x^2  - 2y^2  = 2  \\
+x \cdot y  = 2   \\
+  y =  \frac{2}{x}  \\
+x^2\\
+
 \left\{ \\
 \begin{array}{l} 
  y  = \frac{2}{x} \\ 
