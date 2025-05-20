@@ -51,12 +51,11 @@ x   = -1
 y =  1 - 2x   \\
 \left\{ \\
 \begin{array}{l} 
-x  =  -\frac{9}{5}  \implies   \frac{23}{5}\\
-x   = -1 \implies   y  = 
+x  = \frac{9}{5}  \implies  y  =     -\frac{13}{5}\\
+x   = -1 \implies   y  = 3 
 \end{array}
 \right. \\
 \end{array}
 \right. \\
 \end{array}
-
 $$
