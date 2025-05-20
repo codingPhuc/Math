@@ -79,10 +79,21 @@ t^2   - 2t   - 8 =  0   \\
 
 \left\{ \\
 \begin{array}{l} 
-t  = -4   \\
+t  = 4   \\
 t  = - 2 
 \end{array}
 \right. \\
-
+\left\{ \\
+\begin{array}{l} 
+x   = \pm 2 \\
+t  = \pm\sqrt{ 2 }i \text{ remove }
+\end{array}  
+\right. \\
+\left\{ \\
+\begin{array}{l} 
+x   = \pm 2 \\
+t  = \pm\sqrt{ 2 }i \text{ remove }
+\end{array}  
+\right. \\
 \end{array}
 $$
