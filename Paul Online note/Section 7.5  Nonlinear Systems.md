@@ -59,3 +59,22 @@ x   = -1 \implies   y  = 3
 \right. \\
 \end{array}
 $$
+
+
+
+
+
+
+$$
+\begin{array}{l}  
+x^2  + y^2  = 10     \\
+2x +  y = 1   \\
+\left\{ \\
+\begin{array}{l} 
+ y  = \frac{2}{x} \\
+x^2     \\
+\end{array}
+\right. \\
+
+\end{array}
+$$
