@@ -101,3 +101,42 @@ $$
 
 
 
+
+
+
+$$
+\begin{array}{l}  
+2x^2 + y^2 = 24   \\
+x^2   - y^2  = -12  \\
+  y =  \frac{2}{x}  \\
+x^2  - 2\left( \frac{2}{x} \right)^2 = 2 \\
+x^2  - \frac{8}{x^2}= 2  \\
+x^4  -  8   = 2x^2 \\
+x^4  -  2x^2   -8 = 0  \\
+\text{ substitude  } x^2 =  t   \\
+t^2   - 2t   - 8 =  0   \\
+
+\left\{ \\
+\begin{array}{l} 
+t  = 4   \\
+t  = - 2 
+\end{array}
+\right. \\
+\left\{ \\
+\begin{array}{l} 
+x   = \pm 2 \\
+t  = \pm\sqrt{ 2 }i \text{ remove }
+\end{array}  
+\right. \\
+\left\{ \\
+\begin{array}{l} 
+x   =  2  \implies y =1\\
+x = -2 \implies y =-1 
+\end{array}  
+\right. \\
+\end{array}
+$$
+
+
+
+
