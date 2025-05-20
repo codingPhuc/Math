@@ -40,11 +40,12 @@ y =  1 - 2x   \\
 y =  1 - 2x   \\
 \left\{ \\
 \begin{array}{l} 
-x  =    \\
-x   = 
+x  =  -\frac{9}{5}  \\
+x   = -1 
 \end{array}
 \right. \\
 \end{array}
 \right. \\
 \end{array}
+
 $$
