@@ -138,9 +138,21 @@ $$
 1  &  -1  &  -12 \\
 2  &  1 &  24 
 \end{array} \right] 
-R_{2}  -3R_1 \to R_2 
+R_{2}  -2R_1 \to R_2 
 \left[ \begin{array}{cc|c}  
 1  &  -1  &  -12 \\
-2  &  1 &  24 
+0  &  3 &  48 
+\end{array} \right] 
+$$
+
+$$
+\left[ \begin{array}{cc|c}
+ 3 &  -6  &  -9  \\
+-2  &  -2  &  12   
+\end{array} \right] 
+-\frac{1}{2}R_{2} \to 
+\left[ \begin{array}{cc|c}
+ 3 &  -6  &  -9  \\
+1  &  1  & -6 
 \end{array} \right] 
 $$
