@@ -32,9 +32,19 @@ x^2  +   4x^2  -  4x + 1     =  10    \\
 \left\{ \\
 \begin{array}{l} 
 y =  1 - 2x   \\
-x^2  +   4x^2  -  3x + 1     =  10    \\
+5x^2  -  4x + 1     =  10    \\
 \end{array}
 \right. \\
-
+\left\{ \\
+\begin{array}{l} 
+y =  1 - 2x   \\
+\left\{ \\
+\begin{array}{l} 
+x  =    \\
+x   = 
+\end{array}
+\right. \\
+\end{array}
+\right. \\
 \end{array}
 $$
