@@ -68,11 +68,14 @@ $$
 $$
 \begin{array}{l}  
 x^2  + y^2  = 10     \\
-2x +  y = 1   \\
+2x +  y = 1   \\  \\
+\begin{array}{l} 
+ y  = \frac{2}{x}  \\
+x^2  - 2 \cdot \left( \frac{2}{x} \right)^2  =   2  
+\end{array}\\
 \left\{ \\
 \begin{array}{l} 
- y  = \frac{2}{x} \\
-x^2     \\
+ y  = \frac{2}{x} \\ 
 \end{array}
 \right. \\
 
