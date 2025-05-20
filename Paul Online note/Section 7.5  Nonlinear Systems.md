@@ -46,6 +46,17 @@ x   = -1
 \right. \\
 \end{array}
 \right. \\
+\left\{ \\
+\begin{array}{l} 
+y =  1 - 2x   \\
+\left\{ \\
+\begin{array}{l} 
+x  =  -\frac{9}{5}  \implies   \frac{23}{5}\\
+x   = -1 \implies   y  = 
+\end{array}
+\right. \\
+\end{array}
+\right. \\
 \end{array}
 
 $$
