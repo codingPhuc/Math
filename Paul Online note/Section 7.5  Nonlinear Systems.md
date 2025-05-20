@@ -18,10 +18,23 @@ $$
 x^2  + y^2  = 10     \\
 2x +  y = 1   \\
 \left\{ \\
-\begin{array}{l} \\
+\begin{array}{l} 
 y =  1 - 2x   \\
 x^2  + (1- 2x)^2   =  10    \\
 \end{array}
-\right.
+\right. \\
+\left\{ \\
+\begin{array}{l} 
+y =  1 - 2x   \\
+x^2  +   4x^2  -  4x + 1     =  10    \\
+\end{array}
+\right. \\
+\left\{ \\
+\begin{array}{l} 
+y =  1 - 2x   \\
+x^2  +   4x^2  -  3x + 1     =  10    \\
+\end{array}
+\right. \\
+
 \end{array}
 $$
