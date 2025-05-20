@@ -9,3 +9,4 @@ amount of time:
 learning score:
 ---
 
+A non linear system of equation, a non linear system of equation is system in which at least one of the variable have a expon
