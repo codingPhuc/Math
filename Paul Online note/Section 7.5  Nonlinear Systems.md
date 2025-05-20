@@ -71,7 +71,9 @@ x^2  - 2y^2  = 2  \\
 x \cdot y  = 2   \\
   y =  \frac{2}{x}  \\
 x^2  - 2\left( \frac{2}{x} \right)^2 = 2 \\
-x^2  - 2\left( \frac{2}{x} \right)^2 = 2 
+x^2  - \frac{8}{x^2}= 2  \\
+x^4  -  8   = 2x^2 \\
+x^4  -  2x^2   -8 = 0 \\
 \left\{ \\
 \begin{array}{l} 
  y  = \frac{2}{x}   \\
