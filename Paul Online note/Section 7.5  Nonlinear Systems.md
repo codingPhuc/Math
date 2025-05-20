@@ -122,12 +122,25 @@ $$
 $$
 $$
 \left[ \begin{array}{cc|c}  
-3  &  -2  &  14  \\
-1  &  3  &  1  
+2  &  1 &  24\\
+1  &  -1  &  -12 
 \end{array} \right] 
 R_1\leftrightarrow R_2
 \left[ \begin{array}{cc|c}  
-1  &  3  &  1     \\
-3  &  -2  &  14  \\
+1  &  -1  &  -12 \\
+2  &  1 &  24 
+\end{array} \right] 
+$$
+
+
+$$
+\left[ \begin{array}{cc|c}  
+1  &  -1  &  -12 \\
+2  &  1 &  24 
+\end{array} \right] 
+R_{2}  -3R_1 \to R_2 
+\left[ \begin{array}{cc|c}  
+1  &  -1  &  -12 \\
+2  &  1 &  24 
 \end{array} \right] 
 $$
