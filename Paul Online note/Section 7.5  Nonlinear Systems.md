@@ -173,6 +173,12 @@ $$
 $$
 \begin{array}{l}  
 x^2 =  4   \\
-y^2  = 16    
+y^2  = 16    \\
+ \left\{ \\
+\begin{array}{l} 
+x  = \pm  2    \\
+ y =  \pm 4 
+\end{array}
+\right. \\
 \end{array}
 $$
