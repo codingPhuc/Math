@@ -164,7 +164,15 @@ $$
 \end{array} \right] 
 R_{1}  +R_2 \to R_1 
 \left[ \begin{array}{cc|c}
-1  &  0  &  -12 \\
+1  &  0  &  4  \\
 0  &  1 & 16
 \end{array} \right] 
+$$ 
+
+
+$$
+\begin{array}{l}  
+x^2 =  4   \\
+y^2  = 16    
+\end{array}
 $$
