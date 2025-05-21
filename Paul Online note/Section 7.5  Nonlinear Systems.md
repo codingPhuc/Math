@@ -189,8 +189,9 @@ $$
 
 $$
 \begin{array}{l}  
-y  = x^  + 6x  - 8   \\
- y  = 4x  +  7  
+y  = x^2   + 6x  - 8   \\
+ y  = 4x  +  7   \\
+ 4x  +  7 = x^2 + 6x -  8 
 \left\{ \\
 \begin{array}{l} 
 
