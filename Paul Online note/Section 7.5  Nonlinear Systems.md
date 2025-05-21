@@ -261,7 +261,8 @@ $$
 $$
 \begin{array}{l}  
 y = 1 - 2x^2   \\
-x^2 - \frac{y^2}{9}   = 1   \\
+x^2 - \frac{y^2}{9}   = 1  \\
+9x^2  -  y^2  \\
 \left\{ \\
 \begin{array}{l} 
 x = \pm \sqrt{ 5 }  \\
