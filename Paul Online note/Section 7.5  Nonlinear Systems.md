@@ -269,8 +269,8 @@ x^2 - \frac{y^2}{9}   = 1  \\
  4x^4 -13x^2  + 10  = 0  \\
 \left\{ \\
 \begin{array}{l} 
-x = \pm \sqrt{ 5 }  \\
-x = \pm 2\sqrt{ 5 }  
+x^2 = 5 \\
+x^2 = 8  
 \end{array}
 \right. \\
 \end{array}
