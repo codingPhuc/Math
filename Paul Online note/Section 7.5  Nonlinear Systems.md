@@ -276,8 +276,8 @@ x^2 = \frac{5}{4}
 \right.  \\
 \left\{ \\
 \begin{array}{l} 
-x = \pm \sqrt{ 5 }  \\
-x = \pm 2\sqrt{ 2 } 
+x = \pm \sqrt{ 2 }  \\
+x = \pm \frac{\sqrt{ 5 }}{2} 
 \end{array}
 \right. \\
 \end{array}
