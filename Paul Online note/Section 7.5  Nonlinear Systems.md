@@ -235,7 +235,7 @@ $$
 \frac{\left( \frac{4}{y}  \right)^2}{4}  +\frac{y^2}{25}  =  1  \\
 \frac{4}{y^2}  +\frac{y^2}{25}   = 1   \\
 100 +  y^4   =   25y^2   \\
-\\
+  y^4   - 25y^2  + 100   = 0  \\
 \left\{ \\
 \begin{array}{l} 
 x  = 0  \implies    y =  1  \\
