@@ -232,8 +232,8 @@ $$
 \begin{array}{l}  
  4 = xy \implies y  =  \frac{4}{x}   \\
 \frac{x^2}{4}  +\frac{y^2}{25}  =  1   \\
-\frac{(\frac{4}{x} )^2}{4}  +\frac{y^2}{25}  =  1  \\
-37x^2  -24x   = 0 \\
+\frac{\left( \frac{4}{y}  \right)^2}{4}  +\frac{y^2}{25}  =  1  \\
+\frac{4}{y^2}  +\frac{y^2}{25}   = 1 \\
 \left\{ \\
 \begin{array}{l} 
 x  = 0  \implies    y =  1  \\
