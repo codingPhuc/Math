@@ -215,8 +215,8 @@ $$
 37x^2  -24x   = 0 \\
 \left\{ \\
 \begin{array}{l} 
-x  = 0  \implies    y =  19  \\
- x  =  \frac{24}{37} \implies  y  =  -13 
+x  = 0  \implies    y =  1  \\
+ x  =  \frac{24}{37} \implies  y  =  -\frac{35}{37} 
 \end{array}
 \right. \\
 
