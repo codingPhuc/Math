@@ -236,10 +236,11 @@ $$
 \frac{4}{y^2}  +\frac{y^2}{25}   = 1   \\
 100 +  y^4   =   25y^2   \\
   y^4   - 25y^2  + 100   = 0  \\
+t^2   -  25t  + 100  = 0   \\
+ \\
 \left\{ \\
 \begin{array}{l} 
-x  = 0  \implies    y =  1  \\
- x  =  \frac{24}{37} \implies  y  =  -\frac{35}{37} 
+
 \end{array}
 \right. \\
 
