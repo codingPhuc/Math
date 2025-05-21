@@ -208,10 +208,9 @@ $$
 
 $$
 \begin{array}{l}  
-y  = x^2   + 6x  - 8   \\
- y  = 4x  +  7   \\
- 4x  +  7 = x^2 + 6x -  8   \\
-x^2 + 2x  -15  = 0   \\
+ y = 1  - 3x    \\
+\frac{x^2}{4} + y^2  =  1    \\
+
 \left\{ \\
 \begin{array}{l} 
 x  = 3  \implies    y =  19  \\
