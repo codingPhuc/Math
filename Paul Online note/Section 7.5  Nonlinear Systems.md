@@ -250,6 +250,18 @@ x = \pm \sqrt{ 5 }  \\
 x = \pm 2\sqrt{ 5 }  
 \end{array}
 \right. \\
+
+\end{array}
+$$
+
+
+
+
+
+$$
+\begin{array}{l}  
+y = 1 - 2x^2   \\
+
 \end{array}
 $$
 
