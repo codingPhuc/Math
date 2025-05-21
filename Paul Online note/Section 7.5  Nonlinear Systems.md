@@ -185,3 +185,51 @@ $$
 
 
 
+# #Practice_Exercise 
+
+$$
+\begin{array}{l}  
+y     = 
+\left\{ \\
+\begin{array}{l} 
+y =  1 - 2x   \\
+x^2  + (1- 2x)^2   =  10    \\
+\end{array}
+\right. \\
+\left\{ \\
+\begin{array}{l} 
+y =  1 - 2x   \\
+x^2  +   4x^2  -  4x + 1     =  10    \\
+\end{array}
+\right. \\
+\left\{ \\
+\begin{array}{l} 
+y =  1 - 2x   \\
+5x^2  -  4x - 9     =   0    \\
+\end{array}
+\right. \\
+\left\{ \\
+\begin{array}{l} 
+y =  1 - 2x   \\
+\left\{ \\
+\begin{array}{l} 
+x  =  -\frac{9}{5}  \\
+x   = -1 
+\end{array}
+\right. \\
+\end{array}
+\right. \\
+\left\{ \\
+\begin{array}{l} 
+y =  1 - 2x   \\
+\left\{ \\
+\begin{array}{l} 
+x  = \frac{9}{5}  \implies  y  =     -\frac{13}{5}\\
+x   = -1 \implies   y  = 3 
+\end{array}
+\right. \\
+\end{array}
+\right. \\
+\end{array}
+$$
+
