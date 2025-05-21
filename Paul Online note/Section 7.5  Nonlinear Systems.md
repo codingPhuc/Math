@@ -189,11 +189,11 @@ $$
 
 $$
 \begin{array}{l}  
-y     = 
+y  = x^  + 6x  - 8   \\
+ y  = 4x  +  7  
 \left\{ \\
 \begin{array}{l} 
-y =  1 - 2x   \\
-x^2  + (1- 2x)^2   =  10    \\
+
 \end{array}
 \right. \\
 \left\{ \\
