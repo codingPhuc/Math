@@ -212,7 +212,7 @@ $$
 \frac{x^2}{4} + y^2  =  1    \\
 \frac{x^2}{4}   + (1 - 3x)^2   = 1   \\
 \frac{x^2}{4}  + 9x^2  -6x +  1  =  1   \\
-
+x^2  +  9x^2  -6x +  1  = 1 
 \left\{ \\
 \begin{array}{l} 
 x  = 3  \implies    y =  19  \\
