@@ -212,11 +212,11 @@ $$
 \frac{x^2}{4} + y^2  =  1    \\
 \frac{x^2}{4}   + (1 - 3x)^2   = 1   \\
 \frac{x^2}{4}  + 9x^2  -6x +  1  =  1   \\
-x^2  +  9x^2  -6x +  1  = 1 
+37x^2  -24x   = 0 \\
 \left\{ \\
 \begin{array}{l} 
-x  = 3  \implies    y =  19  \\
- x  =  -5 \implies  y  =  -13 
+x  = 0  \implies    y =  19  \\
+ x  =  \frac{24}{37} \implies  y  =  -13 
 \end{array}
 \right. \\
 
