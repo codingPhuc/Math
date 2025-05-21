@@ -195,7 +195,8 @@ y  = x^2   + 6x  - 8   \\
 x^2 + 2x  -15  = 0   \\
 \left\{ \\
 \begin{array}{l} 
-
+x  = 3  \implies    y =   \\
+ x  =  -5 
 \end{array}
 \right. \\
 \left\{ \\
