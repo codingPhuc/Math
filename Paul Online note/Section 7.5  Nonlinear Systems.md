@@ -261,7 +261,13 @@ $$
 $$
 \begin{array}{l}  
 y = 1 - 2x^2   \\
-
+x^2 - \frac{y^2}{9}   = 1   \\
+\left\{ \\
+\begin{array}{l} 
+x = \pm \sqrt{ 5 }  \\
+x = \pm 2\sqrt{ 5 }  
+\end{array}
+\right. \\
 \end{array}
 $$
 
