@@ -223,3 +223,24 @@ x  = 0  \implies    y =  1  \\
 \end{array}
 $$
 
+
+
+
+
+
+$$
+\begin{array}{l}  
+ 4 = xy   \\
+\frac{x^2}{4}  +\frac{y^2}{25}  =  1   \\
+
+37x^2  -24x   = 0 \\
+\left\{ \\
+\begin{array}{l} 
+x  = 0  \implies    y =  1  \\
+ x  =  \frac{24}{37} \implies  y  =  -\frac{35}{37} 
+\end{array}
+\right. \\
+
+\end{array}
+$$
+
