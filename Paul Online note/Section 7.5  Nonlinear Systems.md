@@ -233,7 +233,9 @@ $$
  4 = xy \implies y  =  \frac{4}{x}   \\
 \frac{x^2}{4}  +\frac{y^2}{25}  =  1   \\
 \frac{\left( \frac{4}{y}  \right)^2}{4}  +\frac{y^2}{25}  =  1  \\
-\frac{4}{y^2}  +\frac{y^2}{25}   = 1 \\
+\frac{4}{y^2}  +\frac{y^2}{25}   = 1   \\
+100 +  y^4   =   25y^2   \\
+\\
 \left\{ \\
 \begin{array}{l} 
 x  = 0  \implies    y =  1  \\
