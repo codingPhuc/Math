@@ -195,44 +195,30 @@ y  = x^2   + 6x  - 8   \\
 x^2 + 2x  -15  = 0   \\
 \left\{ \\
 \begin{array}{l} 
-x  = 3  \implies    y =   \\
- x  =  -5 
+x  = 3  \implies    y =  19  \\
+ x  =  -5 \implies  y  =  -13 
 \end{array}
 \right. \\
+
+\end{array}
+$$
+
+
+
+
+$$
+\begin{array}{l}  
+y  = x^2   + 6x  - 8   \\
+ y  = 4x  +  7   \\
+ 4x  +  7 = x^2 + 6x -  8   \\
+x^2 + 2x  -15  = 0   \\
 \left\{ \\
 \begin{array}{l} 
-y =  1 - 2x   \\
-x^2  +   4x^2  -  4x + 1     =  10    \\
+x  = 3  \implies    y =  19  \\
+ x  =  -5 \implies  y  =  -13 
 \end{array}
 \right. \\
-\left\{ \\
-\begin{array}{l} 
-y =  1 - 2x   \\
-5x^2  -  4x - 9     =   0    \\
-\end{array}
-\right. \\
-\left\{ \\
-\begin{array}{l} 
-y =  1 - 2x   \\
-\left\{ \\
-\begin{array}{l} 
-x  =  -\frac{9}{5}  \\
-x   = -1 
-\end{array}
-\right. \\
-\end{array}
-\right. \\
-\left\{ \\
-\begin{array}{l} 
-y =  1 - 2x   \\
-\left\{ \\
-\begin{array}{l} 
-x  = \frac{9}{5}  \implies  y  =     -\frac{13}{5}\\
-x   = -1 \implies   y  = 3 
-\end{array}
-\right. \\
-\end{array}
-\right. \\
+
 \end{array}
 $$
 
