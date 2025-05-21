@@ -272,6 +272,12 @@ x^2 - \frac{y^2}{9}   = 1  \\
 x^2 = 5 \\
 x^2 = 8  
 \end{array}
+\right.  \\
+\left\{ \\
+\begin{array}{l} 
+x = \pm \sqrt{ 5 }  \\
+x = \pm 2\sqrt{ 2 } 
+\end{array}
 \right. \\
 \end{array}
 $$
