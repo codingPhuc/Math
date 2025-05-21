@@ -192,7 +192,7 @@ $$
 y  = x^2   + 6x  - 8   \\
  y  = 4x  +  7   \\
  4x  +  7 = x^2 + 6x -  8   \\
-x^2 
+x^2 + 2x  -15  = 0   \\
 \left\{ \\
 \begin{array}{l} 
 
@@ -234,3 +234,4 @@ x   = -1 \implies   y  = 3
 \right. \\
 \end{array}
 $$
+
