@@ -237,13 +237,19 @@ $$
 100 +  y^4   =   25y^2   \\
   y^4   - 25y^2  + 100   = 0  \\
 t^2   -  25t  + 100  = 0   \\
- \\
+ (t  - 5)(t - 20) =  0   \\
 \left\{ \\
 \begin{array}{l} 
-
+t = 5  \\
+t = 20  
 \end{array}
 \right. \\
-
+\left\{ \\
+\begin{array}{l} 
+x = \pm \sqrt{ 5 }  \\
+x = \pm 2\sqrt{ 5 }  
+\end{array}
+\right. \\
 \end{array}
 $$
 
