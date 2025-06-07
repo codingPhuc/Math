@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 2.2 Linear Equations.md",
+                "file": "Paul Online note/Section 7.5  Nonlinear Systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 2.2 Linear Equations"
+              "title": "Outline of Section 7.5  Nonlinear Systems"
             }
           }
         ],
@@ -270,11 +270,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb0801bfb71bc866",
+  "active": "d187a9b5e7872778",
   "lastOpenFiles": [
+    "Paul Online note/Section 2.2 Linear Equations.md",
     "Paul Online note/Section 7.5  Nonlinear Systems.md",
     "Paul Online note/Section 7.4  More on the Augmented Matrix.md",
     "Paul Online note/Section 7.2  Linear Systems with Three Variables.md",
@@ -305,7 +307,6 @@
     "Paul Online note/Section 4.8  Rational Functions.md",
     "Paul Online note/Section 4.7  Symmetry.md",
     "Paul Online note/Section 4.5  Miscellaneous Functions.md",
-    "Paul Online note/Section 4.2  Parabolas.md",
     "book/ECE.pdf.crdownload",
     "picture/Pasted image 20250423112902.png",
     "picture/Pasted image 20250423084429.png",
