@@ -28,6 +28,7 @@ learning score:
 | ∀      | "For all"                | ∀x∈R,x2≥0∀x ∈ \mathbb{R}, x^2 ≥ 0                      |
 | ∃      | "There exists"           | ∃x∈R,x2=4∃x ∈ \mathbb{R}, x^2 = 4                      |
 | ->     | "become"                 |                                                        |
+| ...    | "sequence"               |                                                        |
 
 
 ### ✍️ **Ideas for Personal Shortcut Use in Notes**
