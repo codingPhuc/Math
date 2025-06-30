@@ -30,6 +30,7 @@ learning score:
 | ->     | "become"                 |                                                        |
 | ...    | "sequence"               |                                                        |
 | ÷      | "seperate"               |                                                        |
+| {}     | "order orientation"      |                                                        |
 
 
 ### ✍️ **Ideas for Personal Shortcut Use in Notes**
