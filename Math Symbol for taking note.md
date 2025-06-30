@@ -29,6 +29,7 @@ learning score:
 | ∃      | "There exists"           | ∃x∈R,x2=4∃x ∈ \mathbb{R}, x^2 = 4                      |
 | ->     | "become"                 |                                                        |
 | ...    | "sequence"               |                                                        |
+| ÷      | "seperate"               |                                                        |
 
 
 ### ✍️ **Ideas for Personal Shortcut Use in Notes**
