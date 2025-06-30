@@ -32,6 +32,7 @@ learning score:
 | ÷      | "seperate"                       |                                                        |
 | {}     | "order orientation"              |                                                        |
 | >>     | "domination marksing overshadow" |                                                        |
+|        |                                  |                                                        |
 
 
 ### ✍️ **Ideas for Personal Shortcut Use in Notes**
