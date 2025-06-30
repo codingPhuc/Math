@@ -25,7 +25,7 @@ learning score:
 | ∪      | "Union" (combine sets)           | A∪BA ∪ B                                               |
 | ∩      | "Intersection" (overlap)         | A∩BA ∩ B                                               |
 | ⊂      | "Subset of"                      | A⊂BA ⊂ B                                               |
-| ∀      | "For all"                        | ∀x∈R,x2≥0∀x ∈ \mathbb{R}, x^2 ≥ 0                      |
+| ∀      | "For all,multiple alleles"       | ∀x∈R,x2≥0∀x ∈ \mathbb{R}, x^2 ≥ 0                      |
 | ∃      | "There exists"                   | ∃x∈R,x2=4∃x ∈ \mathbb{R}, x^2 = 4                      |
 | ->     | "become"                         |                                                        |
 | ...    | "sequence"                       |                                                        |
