@@ -8,6 +8,7 @@ Current date: "2025-06-30"
 amount of time: 
 learning score:
 ---
+e  
 
 | Symbol | Stands for                       | Example                                                |
 | ------ | -------------------------------- | ------------------------------------------------------ |
