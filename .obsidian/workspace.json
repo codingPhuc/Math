@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 3.3  Circles.md",
+                "file": "Paul Online note/Section 3.2  Lines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 3.3  Circles"
+              "title": "Section 3.2  Lines"
             }
           },
           {
@@ -251,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 3.3  Circles.md",
+                "file": "Paul Online note/Section 3.2  Lines.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 3.3  Circles"
+              "title": "Outline of Section 3.2  Lines"
             }
           }
         ],
@@ -282,6 +282,7 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 3.2  Lines.md",
     "Untitled 3.md",
     "Paul Online note/Section 3.1 Graphing.md",
@@ -292,7 +293,6 @@
     "Paul Online note/Integer Exponents.md",
     "Math Symbol for taking note.md",
     "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
-    "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 2.12  Polynomial Inequalities.md",
     "Paul Online note/Section 2.7 Quadratic Equations  A Summary.md",
     "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
