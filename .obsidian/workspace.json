@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Symbol for taking note.md",
+                "file": "Paul Online note/Faction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math Symbol for taking note"
+              "title": "Faction"
             }
           },
           {
@@ -237,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Symbol for taking note.md",
+                "file": "Paul Online note/Integer Exponents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Math Symbol for taking note"
+              "title": "Outline of Integer Exponents"
             }
           }
         ],
@@ -262,13 +262,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9242df5253dc5c73",
   "lastOpenFiles": [
-    "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
+    "Paul Online note/Complex Numbers.md",
     "Math Symbol for taking note.md",
+    "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
     "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 2.12  Polynomial Inequalities.md",
@@ -292,7 +294,6 @@
     "Paul Online note/Untitled 1.md",
     "Paul Online note/Section 6.3 Solving Exponential Equations.md",
     "Paul Online note/Section 6.5  Applications.md",
-    "Paul Online note/Section 5.3  Graphing Polynomials.md",
     "picture/Pasted image 20250512173224.png",
     "picture/Pasted image 20250512173208.png",
     "book/Precalculus Stewart 7th Edition.pdf",
