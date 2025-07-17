@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "56951fb26ce0d245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
+          },
+          {
             "id": "3eeb3f2a277b812e",
             "type": "leaf",
             "state": {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 3.1 Graphing.md",
+                "file": "Untitled 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 3.1 Graphing"
+              "title": "Outline of Untitled 3"
             }
           }
         ],
@@ -266,8 +280,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9242df5253dc5c73",
+  "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "Paul Online note/Section 3.1 Graphing.md",
+    "Untitled 3.md",
+    "Untitled",
     "Paul Online note/Complex Numbers.md",
     "Paul Online note/Equation with more than one Variable.md",
     "Paul Online note/Faction.md",
@@ -275,7 +292,6 @@
     "Math Symbol for taking note.md",
     "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
     "Paul Online note/Section 3.3  Circles.md",
-    "Paul Online note/Section 3.1 Graphing.md",
     "Paul Online note/Section 2.12  Polynomial Inequalities.md",
     "Paul Online note/Section 2.7 Quadratic Equations  A Summary.md",
     "Paul Online note/Section 2.9  Equations Reducible to Quadratic in Form.md",
@@ -293,7 +309,6 @@
     "Paul Online note/Section 2.2 Linear Equations.md",
     "Paul Online note/Section 7.2  Linear Systems with Three Variables.md",
     "Paul Online note/Section 7.3  Augmented Matrices.md",
-    "Paul Online note/Solutions and Solution Sets.md",
     "picture/Pasted image 20250512173224.png",
     "picture/Pasted image 20250512173208.png",
     "book/Precalculus Stewart 7th Edition.pdf",
@@ -313,7 +328,6 @@
     "New folder",
     "picture/Pasted image 20250408074105.png",
     "independent version",
-    "Professor Leonard",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
