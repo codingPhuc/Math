@@ -874,27 +874,27 @@ Math  thoery::Algebra::Common Graphs::Symmetry
 Math  thoery::Algebra::Common Graphs::Rational Functions
 
 
-Math theory::Algebra::Polynomial Functions::Polynomial Functions Overview
-Math theory::Algebra::Polynomial Functions::Dividing Polynomials
-Math theory::Algebra::Polynomial Functions::Zeroes and Roots of Polynomials
-Math theory::Algebra::Polynomial Functions::Graphing Polynomials
-Math theory::Algebra::Polynomial Functions::Finding Zeroes of Polynomials
-Math theory::Algebra::Polynomial Functions::Partial Fractions
+Math  thoery::Algebra::Polynomial Functions::Polynomial Functions Overview
+Math  thoery::Algebra::Polynomial Functions::Dividing Polynomials
+Math  thoery::Algebra::Polynomial Functions::Zeroes and Roots of Polynomials
+Math  thoery::Algebra::Polynomial Functions::Graphing Polynomials
+Math  thoery::Algebra::Polynomial Functions::Finding Zeroes of Polynomials
+Math  thoery::Algebra::Polynomial Functions::Partial Fractions
 
 
-Math theory::Algebra::Exponential and Logarithmic Functions::Exponential and Logarithmic Functions Overview
-Math theory::Algebra::Exponential and Logarithmic Functions::Exponential Functions
-Math theory::Algebra::Exponential and Logarithmic Functions::Logarithm Functions
-Math theory::Algebra::Exponential and Logarithmic Functions::Solving Exponential Equations
-Math theory::Algebra::Exponential and Logarithmic Functions::Solving Logarithmic Equations
-Math theory::Algebra::Exponential and Logarithmic Functions::Applications
+Math  thoery::Algebra::Exponential and Logarithmic Functions::Exponential and Logarithmic Functions Overview
+Math  thoery::Algebra::Exponential and Logarithmic Functions::Exponential Functions
+Math  thoery::Algebra::Exponential and Logarithmic Functions::Logarithm Functions
+Math  thoery::Algebra::Exponential and Logarithmic Functions::Solving Exponential Equations
+Math  thoery::Algebra::Exponential and Logarithmic Functions::Solving Logarithmic Equations
+Math  thoery::Algebra::Exponential and Logarithmic Functions::Applications
 
-Math theory::Algebra::Systems of Equations::Systems of Equations Overview
-Math theory::Algebra::Systems of Equations::Linear Systems with Two Variables
-Math theory::Algebra::Systems of Equations::Linear Systems with Three Variables
-Math theory::Algebra::Systems of Equations::Augmented Matrices
-Math theory::Algebra::Systems of Equations::More on the Augmented Matrix
-Math theory::Algebra::Systems of Equations::Nonlinear Systems
+Math  thoery::Algebra::Systems of Equations::Systems of Equations Overview
+Math  thoery::Algebra::Systems of Equations::Linear Systems with Two Variables
+Math  thoery::Algebra::Systems of Equations::Linear Systems with Three Variables
+Math  thoery::Algebra::Systems of Equations::Augmented Matrices
+Math  thoery::Algebra::Systems of Equations::More on the Augmented Matrix
+Math  thoery::Algebra::Systems of Equations::Nonlinear Systems
 
 
 
