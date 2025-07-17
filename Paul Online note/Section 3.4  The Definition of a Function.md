@@ -855,3 +855,8 @@ there for the domain for this function is $(-\infty,3)(5, \infty)$
 
 
 Math  thoery::Algebra::Polynomial Functions::Lines, Circles and Piecewise Functions 
+Math  thoery::Algebra::Polynomial Functions::Parabolas
+Math  thoery::Algebra::Polynomial Functions::Ellipses
+Math  thoery::Algebra::Polynomial Functions::Hyperbolas
+Math  thoery::Algebra::Polynomial Functions::Lines, Circles and Piecewise Functions 
+Math  thoery::Algebra::Polynomial Functions::Lines, Circles and Piecewise Functions 
