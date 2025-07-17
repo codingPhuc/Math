@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Complex Numbers.md",
+                "file": "Paul Online note/Section 3.1 Graphing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complex Numbers"
+              "title": "Section 3.1 Graphing"
             }
           },
           {
@@ -237,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Complex Numbers.md",
+                "file": "Paul Online note/Section 3.1 Graphing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Complex Numbers"
+              "title": "Outline of Section 3.1 Graphing"
             }
           }
         ],
@@ -268,10 +268,10 @@
   },
   "active": "9242df5253dc5c73",
   "lastOpenFiles": [
+    "Paul Online note/Complex Numbers.md",
     "Paul Online note/Equation with more than one Variable.md",
     "Paul Online note/Faction.md",
     "Paul Online note/Integer Exponents.md",
-    "Paul Online note/Complex Numbers.md",
     "Math Symbol for taking note.md",
     "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
     "Paul Online note/Section 3.3  Circles.md",
