@@ -863,15 +863,15 @@ Math  thoery::Algebra::Polynomial Functions::Lines, Circles and Piecewise Functi
 
 
 
-Math theory::Algebra::Common Graphs::Common Graphs Overview
-Math theory::Algebra::Common Graphs::Lines, Circles and Piecewise Functions
-Math theory::Algebra::Common Graphs::Parabolas
-Math theory::Algebra::Common Graphs::Ellipses
-Math theory::Algebra::Common Graphs::Hyperbolas
-Math theory::Algebra::Common Graphs::Miscellaneous Functions
-Math theory::Algebra::Common Graphs::Transformations
-Math theory::Algebra::Common Graphs::Symmetry
-Math theory::Algebra::Common Graphs::Rational Functions
+Math  thoery::Algebra::Common Graphs::Common Graphs Overview
+Math  thoery::Algebra::Common Graphs::Lines, Circles and Piecewise Functions
+Math  thoery::Algebra::Common Graphs::Parabolas
+Math  thoery::Algebra::Common Graphs::Ellipses
+Math  thoery::Algebra::Common Graphs::Hyperbolas
+Math  thoery::Algebra::Common Graphs::Miscellaneous Functions
+Math  thoery::Algebra::Common Graphs::Transformations
+Math  thoery::Algebra::Common Graphs::Symmetry
+Math  thoery::Algebra::Common Graphs::Rational Functions
 
 
 Math theory::Algebra::Polynomial Functions::Polynomial Functions Overview
