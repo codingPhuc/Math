@@ -851,3 +851,7 @@ $$
 
 ```
 there for the domain for this function is $(-\infty,3)(5, \infty)$
+
+
+
+Math  thoery::Algebra::Polynomial Functions::Lines, Circles and Piecewise Functions 
