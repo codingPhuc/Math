@@ -860,3 +860,5 @@ Math  thoery::Algebra::Polynomial Functions::Ellipses
 Math  thoery::Algebra::Polynomial Functions::Hyperbolas
 Math  thoery::Algebra::Polynomial Functions::Lines, Circles and Piecewise Functions 
 Math  thoery::Algebra::Polynomial Functions::Lines, Circles and Piecewise Functions 
+
+
