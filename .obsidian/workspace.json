@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 3.2  Lines.md",
+                "file": "Paul Online note/Section 3.3  Circles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 3.2  Lines"
+              "title": "Section 3.3  Circles"
             }
           },
           {
@@ -251,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 3.2  Lines.md",
+                "file": "Paul Online note/Section 3.3  Circles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 3.2  Lines"
+              "title": "Outline of Section 3.3  Circles"
             }
           }
         ],
@@ -282,10 +282,10 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "Paul Online note/Section 3.3  Circles.md",
     "Paul Online note/Section 3.2  Lines.md",
-    "Untitled 3.md",
     "Paul Online note/Section 3.1 Graphing.md",
+    "Paul Online note/Section 3.3  Circles.md",
+    "Untitled 3.md",
     "Untitled",
     "Paul Online note/Complex Numbers.md",
     "Paul Online note/Equation with more than one Variable.md",
