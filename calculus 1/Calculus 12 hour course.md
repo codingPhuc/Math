@@ -81,4 +81,10 @@ the average rule
 
 
 example find the and simplify the different quitient for $f(x)= 2x^2  - x  + 3$
-differetn qui
+different   quotation  =  $\frac{f(x+h) - f(x)}{h}$ 
+
+$$
+\begin{array}
+
+\end{array}
+$$
