@@ -109,4 +109,12 @@ $$
 
 ## Graphs and limits 
 
-example
+example :  julia suice  18:55 
+
+write a n equation y =F(x ) as a piecewise definition function 
+
+$$
+\begin{array}
+
+\end{array}
+$$
