@@ -15,4 +15,6 @@ $$
 $$
 
 
-simplify $\frac{3x}{}$
+simplify $\frac{3x  +  6} {x^2 + 4x + 4}$ 
+$\frac{3(x  + 2)} {x + 2 }  = \frac{3}{x+ 2 }$ 
+# multply and adi
