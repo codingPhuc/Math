@@ -257,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/algebra/Section 4.8  Rational Functions.md",
+                "file": "calculus 1/Calculus 12 hour course.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.8  Rational Functions"
+              "title": "Outline of Calculus 12 hour course"
             }
           }
         ],
@@ -286,8 +286,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9242df5253dc5c73",
+  "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 4.8  Rational Functions.md",
     "calculus 1/Calculus 12 hour course.md",
     "Paul Online note/algebra/Complex Numbers.md",
     "calculus 1",
@@ -301,7 +302,6 @@
     "Paul Online note/algebra/Section 5.5   Partial Fractions.md",
     "Paul Online note/algebra/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/algebra/Section 5.1  Dividing Polynomials.md",
-    "Paul Online note/algebra/Section 4.8  Rational Functions.md",
     "Paul Online note/algebra/Section 4.7  Symmetry.md",
     "Paul Online note/algebra/Section 4.6  Transformations.md",
     "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
