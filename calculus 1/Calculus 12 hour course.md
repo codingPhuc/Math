@@ -129,4 +129,11 @@ not equal    $\lim_{ n \to 1 } \neq f(1)=10$
 defintion for real number a and 
 
 
-let say that the limit only care for the v
+let say that the limit only care for the value that approach the desire value in this case a from both side the of  x axis  
+
+
+
+
+
+
+## Descibe the behavior of $y=g(x )$
