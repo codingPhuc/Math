@@ -115,8 +115,12 @@ write a n equation y =F(x ) as a piecewise definition function
 
 $$
 \{\begin{array} 
-  0  if x  = 1  \\
-10x if x  \neq 1
+  0  \text{if } x  = 1  \\
+10x \text{ if} x  \neq 1
 \end{array}
 $$
 describe the behavior of  f(x ) when x is near 1 but is not equal to one 
+describe the behavior of f(x) when x is near 1 but not equal to 1 
+
+
+for real number a na
