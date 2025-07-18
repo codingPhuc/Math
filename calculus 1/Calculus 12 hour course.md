@@ -58,7 +58,9 @@ a line between two points on the slope of a function
 
 ## definition the average rate of change for f(x) on the interval [a, b] is 
 The secant line bteween the two point (a, f(a))  ) (b , f(b)) 
-
+$$
+ m=  \frac{rise}{ }
+$$
 Example the average rate of change for $f(x)  =\sqrt{ x }$ on the interval [1,4] is 
 $$  
 m = \frac{f(4)-f(1)}{4 -1 }   = \frac{\sqrt{ 4 } = \sqrt{ 1 }}{3} =
@@ -68,3 +70,9 @@ $$
 
 A different quotation represent 
 the average of change of a the function f(x ) on the intenal is [x, x + h] 
+
+
+$$
+m  =  \frac{f(b) -  f( c)}{ b -a }   = \frac{f(x+h)}{}
+$$
+
