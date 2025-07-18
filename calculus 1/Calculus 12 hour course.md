@@ -76,3 +76,9 @@ $$
 m  =  \frac{f(b) -  f( c)}{ b -a }   = \frac{f(x+h)}{}
 $$
 
+the average rule 
+
+
+
+example find the and simplify the different quitient for $f(x)= 2x^2  - x  + 3$
+differetn qui
