@@ -180,6 +180,11 @@ the limit in the right and left does not exit since it does not hit -2
 
 what is 
 $$
-\lim_{ x \to \infty } 
+\lim_{ x \to -1^- }   f(x ) = \frac{1}{2}
 $$
- 
+ $$
+\lim_{ x \to -1^+ }  f(x)  = 1  
+$$
+$$
+\lim_{ n \to -1 }  DDne  
+$$
