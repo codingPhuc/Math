@@ -204,3 +204,8 @@ $$
 when it is appoarching 0 it create multiple different value do to all the real number in between cannot settle in on number causing the limit does not exit 
 
 
+# limit laws 
+suppose 
+$$
+\lim_{ x \to 7 }    = 30  \cap 
+$$
