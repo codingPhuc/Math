@@ -197,8 +197,10 @@ this section talk about
 2 vertical asystopter 
 
 
-3 special cases 
+3 special cases wild behavior 
 why is $$
 \lim_{ x \to 0 } \sin \frac{\pi}{x} 
 $$
-when it is appoarching 0 it create multiple different value do to all the real number in between cannot settle in on number causing t
+when it is appoarching 0 it create multiple different value do to all the real number in between cannot settle in on number causing the limit does not exit 
+
+
