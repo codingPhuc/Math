@@ -127,3 +127,6 @@ for real number a and L  ,
 
 not equal    $\lim_{ n \to 1 } \neq f(1)=10$ 
 defintion for real number a and 
+
+
+let say that the limit only care for the v
