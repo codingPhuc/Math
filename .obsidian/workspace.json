@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/Section 5.3  Graphing Polynomials.md",
+                "file": "Paul Online note/Section 5.4  Finding Zeroes of Polynomials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 5.3  Graphing Polynomials"
+              "title": "Section 5.4  Finding Zeroes of Polynomials"
             }
           },
           {
@@ -251,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/Section 5.3  Graphing Polynomials.md",
+                "file": "Paul Online note/Section 5.4  Finding Zeroes of Polynomials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 5.3  Graphing Polynomials"
+              "title": "Outline of Section 5.4  Finding Zeroes of Polynomials"
             }
           }
         ],
@@ -282,6 +282,7 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "Paul Online note/Section 5.3  Graphing Polynomials.md",
     "Paul Online note/Section 5.2  Zeroes Roots of Polynomials.md",
     "Paul Online note/Section 5.1  Dividing Polynomials.md",
     "Paul Online note/Section 4.8  Rational Functions.md",
@@ -308,7 +309,6 @@
     "Math Symbol for taking note.md",
     "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
     "Paul Online note/Section 2.12  Polynomial Inequalities.md",
-    "Paul Online note/Section 2.7 Quadratic Equations  A Summary.md",
     "picture/Pasted image 20250512173224.png",
     "picture/Pasted image 20250512173208.png",
     "book/Precalculus Stewart 7th Edition.pdf",
