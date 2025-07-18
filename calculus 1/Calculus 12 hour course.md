@@ -93,5 +93,10 @@ f(x+h) = 2(x+ h)^2  - (x + h) + 3   \\
 \end{array}
 $$
 $$
-f(x+h) - f
+\begin{array}
+f(x+h) - f(x )   =    2x^2  = 4xh  + 2h^2  -x - h + 3 - (2x^2 -x + 3)  \\
+= 2x^2 + 4xh  + 2h^2  -x -h + 3  - 2x^2  + x  - 3  \\
+
+\end{array}
+
 $$
