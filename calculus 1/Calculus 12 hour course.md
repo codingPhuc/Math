@@ -33,3 +33,9 @@ $$
 
 
 
+## adding and sub fraction 
+
+used LCD 
+$$
+\frac{7}{6} - \frac{4}{15}  =  \frac{35 -  }{30}
+$$
