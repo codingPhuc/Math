@@ -44,3 +44,5 @@ $$\frac{3}{2x+2}  +\frac{5}{x^2 -1}= \frac{3}{2(x  + 1 )} +  \frac{5}{(x + 1 )(x
 1. write both denominator in factor form  
 2. multiply each denominator by the  missing factor  to have a common denominator using LCD logic 
 3. do the add or addition operation 
+
+
