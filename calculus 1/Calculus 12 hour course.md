@@ -80,7 +80,7 @@ the average rule
 
 
 
-example find the and simplify the different quitient for $f(x)= 2x^2  - x  + 3$
+example find the and simplify the different quotation for $f(x)= 2x^2  - x  + 3$
 different   quotation  =  $\frac{f(x+h) - f(x)}{h}$ 
 
 $$
@@ -102,5 +102,11 @@ f(x+h) - f(x )   =    2x^2  = 4xh  + 2h^2  -x - h + 3 - (2x^2 -x + 3)  \\
 $$
 
 $$
-\frac{f(x   +h )- f(x)} { h }  = \frac{4xh + 2h^2  -h}{ h }  =  \frac{h(4x + 2 )}{}
+\frac{f(x   +h )- f(x)} { h }  = \frac{4xh + 2h^2  -h}{ h }  =  \frac{h(4x + 2x -1)}{h}  = (4x + 2x -1)
 $$
+
+
+
+## Graphs and limits 
+
+example
