@@ -123,4 +123,4 @@ describe the behavior of  f(x ) when x is near 1 but is not equal to one
 describe the behavior of f(x) when x is near 1 but not equal to 1 
 
 
-for real number a na
+for real number a and L  , 
