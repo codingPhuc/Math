@@ -189,3 +189,5 @@ $$
 \lim_{ n \to -1 }  DDne  
 $$
 this section talk about 
+
+## note way that li
