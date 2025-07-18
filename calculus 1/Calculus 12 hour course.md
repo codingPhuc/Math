@@ -39,4 +39,6 @@ used LCD
 $$
 \frac{7}{6} - \frac{4}{15}  =  \frac{35 -  8}{30} =  \frac{27}{30 }  =  \frac{9}{10}
  $$
-add $$\frac{3}{2x+2}  +\frac{5}{x^2 -1}=$$
+add
+$$\frac{3}{2x+2}  +\frac{5}{x^2 -1}= \frac{3}{2(x  + 1 )} +  \frac{5}{(x + 1 )(x - 1)}  =  \frac{3x  - 3 +  10  }{2 (x + 1 ) (x - 1)}  =  \frac{3x + 7 }{2 (x + 1 ) (x - 1)}  $$
+1. write both den
