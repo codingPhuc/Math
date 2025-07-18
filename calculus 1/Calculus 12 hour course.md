@@ -143,4 +143,18 @@ $$
 $$
 
 
-the picutre describe howt
+the picutre describe how the limit does not continue after the value  2 but cut of 
+
+in the left side of the limit  
+$$
+\lim_{ n \to 2 }  =  1  
+$$
+right side of limit 
+$$
+\lim_{ n \to 2^+ }  = 3
+$$
+
+
+
+
+limg 
