@@ -60,5 +60,8 @@ a line between two points on the slope of a function
 The secant line bteween the two point (a, f(a))  ) (b , f(b)) 
 
 Example the average rate of change for $f(x)  =\sqrt{ x }$ on the interval [1,4] is 
-
+$$  
+m = \frac{f(4)-f(1)}{4 -1 }   = \frac{\sqrt{ 4 } = \sqrt{ 1 }}{3} =
+\frac{2-1}{}
+$$
 
