@@ -141,7 +141,6 @@ let say that the limit only care for the value that approach the desire value in
 $$
 \lim_{  x \to 2   } g(x) Dne   
 $$
-ld
 
 
-
+the picutre describe howt
