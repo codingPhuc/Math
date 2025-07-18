@@ -66,5 +66,5 @@ m = \frac{f(4)-f(1)}{4 -1 }   = \frac{\sqrt{ 4 } = \sqrt{ 1 }}{3} =
 $$
 
 
-
-
+A different quotation represent 
+the average of change of a the function f(x ) on the intenal is [x, x + h] 
