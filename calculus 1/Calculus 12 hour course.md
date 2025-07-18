@@ -119,4 +119,4 @@ $$
 10x if x  \neq 1
 \end{array}
 $$
-describe the behavior  of  f(x ) when x is near 1 but is not equal to one 
+describe the behavior of  f(x ) when x is near 1 but is not equal to one 
