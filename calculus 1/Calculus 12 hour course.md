@@ -46,3 +46,11 @@ $$\frac{3}{2x+2}  +\frac{5}{x^2 -1}= \frac{3}{2(x  + 1 )} +  \frac{5}{(x + 1 )(x
 3. do the add or addition operation 
 
 
+
+
+
+# Different Quotient 
+
+for function $y= f(x)$ 
+a secant line is  a line between two point in the graph if a function 
+	definition the average rate of change for f(x) on the interval [a,b ]
