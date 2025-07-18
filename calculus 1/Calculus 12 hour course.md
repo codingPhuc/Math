@@ -17,4 +17,13 @@ $$
 
 simplify $\frac{3x  +  6} {x^2 + 4x + 4}$ 
 $\frac{3(x  + 2)} {x + 2 }  = \frac{3}{x+ 2 }$ 
-# multply and adi
+# multply and divding 
+
+$$
+\frac{4}{3}  \cdot \frac{2}{5 }   = \frac{2\cdot  4}{5 \cdot 3 }
+$$
+
+
+$$
+\frac{\frac{4}{5}}{\frac{2}{3}}  =  \frac{4}{3}
+$$
