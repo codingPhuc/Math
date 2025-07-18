@@ -11,5 +11,8 @@ learning score:
 
 
 $$
-\frac{21}{45} =  
+\frac{21}{45} =  \frac{7\cdot  3} { 5 \cdot 3 \cdot 3}  =  \frac{7}{15}  
 $$
+
+
+simplify $\frac{3x}{}$
