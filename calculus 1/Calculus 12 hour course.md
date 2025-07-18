@@ -197,4 +197,8 @@ this section talk about
 2 vertical asystopter 
 
 
-3 special 
+3 special cases 
+why is $$
+\lim_{ x \to 0 } \sin \frac{\pi}{x} 
+$$
+when it is appoarching 0 it create multiple different value do to all the real number in between cannot settle in on number causing t
