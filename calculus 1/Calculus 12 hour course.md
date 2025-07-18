@@ -158,9 +158,13 @@ $$
 
 this section about how the direction of the limit affect the result of the function if the limit approaching 2  from either direction causing the function values to be negative then we say that the limit is a - . On the other hand, if the limit cause the function to be positive value then we say that it have a  + notation in the above 
 
-the image
+the image here is saying that the limit approaching from left to right cause the F val to be pos  while the other cause the f val to be neg 
 
 
+## last example 
+
+look at the graph when x is negative 2  
+y value is large larger than any real val
 
 
 
