@@ -164,7 +164,9 @@ the image here is saying that the limit approaching from left to right cause the
 ## last example 
 
 look at the graph when x is negative 2  
-y value is large larger than any real val
+y value is large larger than any real val we can choose right to left approach infi 
+if the left to  right then it is  - 
+the limit in the right and left does not exit since it 
 
 
 
