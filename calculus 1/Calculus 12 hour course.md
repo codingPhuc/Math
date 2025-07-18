@@ -85,6 +85,8 @@ different   quotation  =  $\frac{f(x+h) - f(x)}{h}$
 
 $$
 \begin{array}
-
+2(x+ h)^2  - (x + h) + 3   \\
+2 (x+ h ) (x + h  )  - x  -h  + 3   \\
+= 2(x^2 + x + h x + h)
 \end{array}
 $$
