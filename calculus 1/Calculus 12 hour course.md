@@ -190,4 +190,10 @@ $$
 $$
 this section talk about 
 
-## note way that li
+## note way that limit cannot exit 
+
+1. limit from the left != limit from the right 
+
+2 vertical asystopter 
+
+
