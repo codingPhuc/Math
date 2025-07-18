@@ -123,4 +123,7 @@ describe the behavior of  f(x ) when x is near 1 but is not equal to one
 describe the behavior of f(x) when x is near 1 but not equal to 1 
 
 
-for real number a and L  , 
+for real number a and L  ,  
+
+not equal    $\lim_{ n \to 1 } \neq f(1)=10$ 
+defintion for real number a and 
