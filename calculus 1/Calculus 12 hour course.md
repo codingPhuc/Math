@@ -25,5 +25,11 @@ $$
 
 
 $$
-\frac{\frac{4}{5}}{\frac{2}{3}}  =  \frac{4}{3}
+\frac{\frac{4}{5}}{\frac{2}{3}}  =  \frac{4}{5}  \cdot \frac{3}{2}   = \frac{12}{10}  = \frac{6}{5 }
 $$
+compute   $$
+\frac{\frac{x^2+ x }{x  + 4}}{\frac{x+1}{x^2 - 16}}  = 
+$$
+
+
+
