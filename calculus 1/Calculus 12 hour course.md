@@ -156,7 +156,7 @@ $$
 
 
 
-this s
+this section about how the direction of the limit affect the result of the function if the limit approaching 2  from either direction causing the function values to be negative then we say that the limit is a - . On the other hand, if thel 
 
 
  
