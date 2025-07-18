@@ -96,7 +96,11 @@ $$
 \begin{array}
 f(x+h) - f(x )   =    2x^2  = 4xh  + 2h^2  -x - h + 3 - (2x^2 -x + 3)  \\
 = 2x^2 + 4xh  + 2h^2  -x -h + 3  - 2x^2  + x  - 3  \\
-
+= 4xh  + 2h^2 -h  \\
 \end{array}
 
+$$
+
+$$
+\frac{f(x   +h )- f(x)} { h }  = \frac{4xh + 2h^2  -h}{ h }  =  \frac{h(4x + 2 )}{}
 $$
