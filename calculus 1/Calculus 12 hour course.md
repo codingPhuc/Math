@@ -56,6 +56,9 @@ for function $y= f(x)$
 ## secant line is 
 a line between two points on the slope of a function 
 
-## definition the average rate of change for f(x) on the interval 
+## definition the average rate of change for f(x) on the interval [a, b] is 
+The secant line bteween the two point (a, f(a))  ) (b , f(b)) 
+
+Example the average rate of change for $f(x)  =\sqrt{ x }$ on the interval [1,4] is 
 
 
