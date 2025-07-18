@@ -207,5 +207,5 @@ when it is appoarching 0 it create multiple different value do to all the real n
 # limit laws 
 suppose 
 $$
-\lim_{ x \to 7 }    = 30  \cap 
+\lim_{ x \to 7 } f(x)   = 30  \cap \lim_{ n \to 7 }g(x) = 2  
 $$
