@@ -136,4 +136,12 @@ let say that the limit only care for the value that approach the desire value in
 
 
 
-## Descibe the behavior of $y=g(x )$
+## Descibe the behavior of $y=g(x )$  when x is near 2 
+
+$$
+\lim_{  x \to 2   } g(x) Dne   
+$$
+ld
+
+
+
