@@ -214,5 +214,14 @@ $$
 3. wild behavior 
 
 what is the $$
-
+\lim_{ x \to 7 }    
 $$
+by pluggin in number for this  function we are using limit law 
+
+
+
+suppose that c is a constant and the limt $\lim_{ x \to a }f(x)$  
+
+
+
+lim
