@@ -7,10 +7,10 @@ $$
 $$
 
 this is also appliable to fraction with variables, where to top and the bottom can be reduce to the simples form  
-$$\frac{3x  +  6} {x^2 + 4x + 4}\frac{3(x  + 2)} {x + 2 }  = \frac{3}{x+ 2 }$$ 
+$$\frac{3x  +  6} {x^2 + 4x + 4}=\frac{3(x  + 2)} {x + 2 }  = \frac{3}{x+ 2 }$$ 
 here  I take out the common factor of the numerator then, crossing the numerator and the denominator out with the common term
 # multiplying  and dividing   
-
+multiplying factor between two faction only require you to common out multiply the numerator and denominator of the two rational express
 $$
 \frac{4}{3}  \cdot \frac{2}{5 }   = \frac{2\cdot  4}{5 \cdot 3 }
 $$
