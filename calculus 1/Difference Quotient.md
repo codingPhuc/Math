@@ -17,7 +17,8 @@ a line between two points on the slope of a function
     % Draw axes
     \draw[->] (-7,0) -- (7,0) node[right] {$x$};
     \draw[->] (0,-7) -- (0,7) node[above] {$y$};
-   \draw[->]  (1, 2) -- (2, 4) node[right] {$x$};
+   \draw[->]  (1, 2) -- (2, 4) node[right] {$x$}
+	   node[midway, above] {Secant Line};
     % Tick marks and labels
     \foreach \x in {-6,-5,...,6} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
@@ -38,8 +39,8 @@ a line between two points on the slope of a function
 ```
 
 ## definition the average rate of change for f(x) on the interval [a, b] is 
-The secant line bteween the two point (a, f(a))  ) (b , f(b)) 
-$$
+The secant line between the two point $ (a, f(a))  ) (b , f(b)) 
+$$$
  m=  \frac{rise}{ }  = \frac{y}{x }  = \frac{f(b) -f(a)}{b - a }
 $$
 Example the average rate of change for $f(x)  =\sqrt{ x }$ on the interval [1,4] is 
