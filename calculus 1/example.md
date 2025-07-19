@@ -1,0 +1,1 @@
+1. find the vertical asympotes and horiz
