@@ -38,5 +38,5 @@ $$\frac{3}{2x+2}  +\frac{5}{x^2 -1}= \frac{3}{2(x  + 1 )} +  \frac{5}{(x + 1 )(x
 3. do the add or addition operation 
 
 
-# additional 
+# additional info 
 [[Rational exponents]]
