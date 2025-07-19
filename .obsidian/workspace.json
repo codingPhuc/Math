@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Calculus 12 hour course.md",
+                "file": "Paul Online note/algebra/Section 6.1  Exponential Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculus 12 hour course"
+              "title": "Section 6.1  Exponential Functions"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Difference Quotient.md",
+                "file": "Paul Online note/algebra/Section 6.1  Exponential Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Difference Quotient"
+              "title": "Outline of Section 6.1  Exponential Functions"
             }
           }
         ],
@@ -295,22 +295,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56951fb26ce0d245",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
-    "calculus 1/Calculus 12 hour course.md",
+    "Paul Online note/algebra/Section 3.4  The Definition of a Function.md",
+    "Paul Online note/algebra/Section 3.2  Lines.md",
     "calculus 1/Difference Quotient.md",
+    "calculus 1/example.md",
+    "calculus 1/Limit Laws.md",
+    "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
+    "calculus 1/Calculus 12 hour course.md",
+    "picture/Pasted image 20250719165216.png",
+    "picture/Pasted image 20250719165215.png",
     "Math note.md",
     "calculus 1/Rational Expressions.md",
     "calculus 1/When the Limit of the Denominator is 0.md",
     "calculus 1/Limits using Algebraic Tricks.md",
     "calculus 1/The Squeeze Theorem.md",
-    "calculus 1/Limit Laws.md",
     "calculus 1/When Limits Fail to Exist.md",
     "calculus 1/Graphs and Limits.md",
     "calculus 1/Untitled.md",
-    "calculus 1/example.md",
     "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
-    "Paul Online note/algebra/Section 3.4  The Definition of a Function.md",
     "Paul Online note/algebra/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/algebra/Section 5.1  Dividing Polynomials.md",
     "Paul Online note/algebra/Section 4.8  Rational Functions.md",
@@ -321,8 +325,6 @@
     "Paul Online note/algebra/Section 7.4  More on the Augmented Matrix.md",
     "Paul Online note/algebra/Section 7.2  Linear Systems with Three Variables.md",
     "Paul Online note/algebra/Section 7.1  Linear Systems with Two Variables.md",
-    "Paul Online note/algebra/Section 6.2 Logarithm Functions.md",
-    "Paul Online note/algebra/Section 5.5   Partial Fractions.md",
     "calculus 1",
     "Paul Online note/algebra",
     "Untitled",
@@ -339,10 +341,8 @@
     "picture/Pasted image 20250417210346.png",
     "picture",
     "picture/Pasted image 20250417203642.png",
-    "picture/Pasted image 20250417203328.png",
     "book/Precalculus Stewart 7th Edition.pdf.crdownload",
     "book",
-    "picture/Pasted image 20250408074105.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
