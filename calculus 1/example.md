@@ -30,6 +30,4 @@ $$
 hole by denominator and nominator are both 0 meaning there x is   0 
 
 
-
-
-
+  
