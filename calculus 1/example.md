@@ -27,4 +27,4 @@ $$
 $$
 
 (0,-1 )
-find the verti
+hole by denominator and nominator are
