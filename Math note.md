@@ -11,7 +11,8 @@ learning score:
 
 # strategy for taking note 
 1. when it require you to draw a picture of said note, you should do this latter if you have the time, picture diagram that are in your slide usually contain this 
-2. try to understand the concept of the section that the person is talking, like instead
+2. try to understand the concept of the section that the person is talking, like instead of writing down whole operation write the main one(the simply equation important final part) then go back on it bases on the side
+3. you write note on your book so unhelpful, note should be look back upon not written then forgo
 
 
 
