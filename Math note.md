@@ -10,7 +10,8 @@ learning score:
 ---
 
 # strategy for taking note 
-1. when it require d
+1. when it require you to draw a picture of said note, you should do this latter if you have the time, picture diagram that are in your slide usually contain this 
+2. try to understand the concept of the section that the person is talking, like instead
 
 
 
