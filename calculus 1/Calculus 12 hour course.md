@@ -209,3 +209,10 @@ suppose
 $$
 \lim_{ x \to 7 } f(x)   = 30  \cap \lim_{ n \to 7 }g(x) = 2  
 $$
+1. one sided limit on the left and on the right are not equal  
+2. vertical asympotes  
+3. wild behavior 
+
+what is the $$
+
+$$
