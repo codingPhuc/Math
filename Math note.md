@@ -8,7 +8,13 @@ Current date: "2025-06-30"
 amount of time: 
 learning score:
 ---
-e  
+
+# strategy for taking note 
+1. when it require d
+
+
+
+# note taking simple 
 
 | Symbol | Stands for                       | Example                                                |
 | ------ | -------------------------------- | ------------------------------------------------------ |
