@@ -8,7 +8,7 @@ $$
 
 this is also appliable to fraction with variables, where to top and the bottom can be reduce to the simples form  
 $\frac{3x  +  6} {x^2 + 4x + 4}$ $\frac{3(x  + 2)} {x + 2 }  = \frac{3}{x+ 2 }$ 
-here  
+here  I take out the common factor of the numerator 
 # multiplying  and dividing   
 
 $$
