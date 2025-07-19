@@ -15,6 +15,12 @@ vertical asymptotes :
 $$
 \begin{array}{l} \\
 q(x)  =  \frac{3x^2 + 3x} {2x^3 + 5x^2   - 3x } \\
- =  \frac{3x(x + 1)}{x(2x^2 + 5x  - 3)}  = \frac{3x(x + 1)}{x(2x-1)(x + 3)}
+ =  \frac{3x(x + 1)}{x(2x^2 + 5x  - 3)}  = \frac{3x(x + 1)}{x(2x-1)(x + 3)} 
 \end{array}
+$$
+$x=\frac{1}{2}\cap-3$ 
+
+
+$$
+
 $$
