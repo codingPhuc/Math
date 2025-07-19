@@ -28,7 +28,7 @@ a line between two points on the slope of a function
 
     % Right branch
        \draw[dashed, red, domain=-3:3] plot (\x, {2^(\x) });
- \filldraw[black] (2, 3) circle (2pt) node[below left] {$(0, 1)$}; 
+
     \filldraw[black] (1, 2) circle (2pt) node[below left] {$(0, 1)$}; 
       \filldraw[black] (2, 4) circle (2pt) node[below left] {$(2, 4)$}; 
 
