@@ -1,14 +1,14 @@
 
 ## how to simply rational expression 
 
-
+you can simplify rational expression by reducing them to the simplest fraction, then cross 
 $$
 \frac{21}{45} =  \frac{7\cdot  3} { 5 \cdot 3 \cdot 3}  =  \frac{7}{15}  
 $$
 
 $\frac{3x  +  6} {x^2 + 4x + 4}$ $\frac{3(x  + 2)} {x + 2 }  = \frac{3}{x+ 2 }$ 
 simplify 
-# multiplying  and drivi 
+# multiplying  and dividing   
 
 $$
 \frac{4}{3}  \cdot \frac{2}{5 }   = \frac{2\cdot  4}{5 \cdot 3 }
