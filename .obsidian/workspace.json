@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/algebra/Section 6.1  Exponential Functions.md",
+                "file": "calculus 1/Difference Quotient.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 6.1  Exponential Functions"
+              "title": "Outline of Difference Quotient"
             }
           }
         ],
@@ -295,8 +295,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 6.1  Exponential Functions.md",
     "Paul Online note/algebra/Section 3.4  The Definition of a Function.md",
     "Paul Online note/algebra/Section 3.2  Lines.md",
     "calculus 1/Difference Quotient.md",
@@ -324,7 +325,6 @@
     "Paul Online note/algebra/Solutions and Solution Sets.md",
     "Paul Online note/algebra/Section 7.4  More on the Augmented Matrix.md",
     "Paul Online note/algebra/Section 7.2  Linear Systems with Three Variables.md",
-    "Paul Online note/algebra/Section 7.1  Linear Systems with Two Variables.md",
     "calculus 1",
     "Paul Online note/algebra",
     "Untitled",

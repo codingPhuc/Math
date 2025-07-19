@@ -6,6 +6,37 @@ for function $y= f(x)$
 ## secant line is 
 a line between two points on the slope of a function 
 
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw axes
+    \draw[->] (-7,0) -- (7,0) node[right] {$x$};
+    \draw[->] (0,-7) -- (0,7) node[above] {$y$};
+
+    % Tick marks and labels
+    \foreach \x in {-6,-5,...,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-6,-5,...,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Right branch
+       \draw[dashed, red, domain=-3:3] plot (\x, {2^(\x) });
+
+    \filldraw[black] (0, 0) circle (2pt) node[below left] {$(0, 0)$}; 
+      \filldraw[white] (0, 0) circle (2pt) node[below left] {$(0, 0)$};
+
+\end{tikzpicture}
+\end{document}
+
+```
+
 ## definition the average rate of change for f(x) on the interval [a, b] is 
 The secant line bteween the two point (a, f(a))  ) (b , f(b)) 
 $$
