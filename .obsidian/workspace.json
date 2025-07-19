@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Rational Expressions.md",
+                "file": "calculus 1/Calculus 12 hour course.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rational Expressions"
+              "title": "Outline of Calculus 12 hour course"
             }
           }
         ],
@@ -285,10 +285,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56951fb26ce0d245",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
-    "calculus 1/Calculus 12 hour course.md",
     "calculus 1/Rational Expressions.md",
+    "calculus 1/Calculus 12 hour course.md",
     "calculus 1/When the Limit of the Denominator is 0.md",
     "calculus 1/Limits using Algebraic Tricks.md",
     "calculus 1/The Squeeze Theorem.md",
