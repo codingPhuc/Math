@@ -17,7 +17,7 @@ multiplying factor between two faction only require you to common out multiply t
 $$
 \frac{4}{3}  \cdot \frac{2}{5 }   = \frac{2\cdot  4}{5 \cdot 3 }
 $$
-
+dividing is flipping the ratioan l
 
 $$
 \frac{\frac{4}{5}}{\frac{2}{3}}  =  \frac{4}{5}  \cdot \frac{3}{2}   = \frac{12}{10}  = \frac{6}{5 }
