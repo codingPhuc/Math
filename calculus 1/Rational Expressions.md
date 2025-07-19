@@ -1,11 +1,12 @@
 
 ## how to simply rational expression 
 
-you can simplify rational expression by reducing them to the simplest fraction in the numerator and the denominator, then crossing the numbers that appear in both the numerator and denominator. finally multiply each 
+you can simplify rational expression by reducing them to the simplest fraction in the numerator and the denominator, then crossing the numbers that appear in both the numerator and denominator. finally multiply the tops and bottom again  
 $$
 \frac{21}{45} =  \frac{7\cdot  3} { 5 \cdot 3 \cdot 3}  =  \frac{7}{15}  
 $$
 
+this is also appliable to x fraction 
 $\frac{3x  +  6} {x^2 + 4x + 4}$ $\frac{3(x  + 2)} {x + 2 }  = \frac{3}{x+ 2 }$ 
 simplify 
 # multiplying  and dividing   
