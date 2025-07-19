@@ -1,7 +1,7 @@
 
 ## how to simply rational expression 
 
-you can simplify rational expression by reducing them to the simplest fraction, then cross 
+you can simplify rational expression by reducing them to the simplest fraction in the numerator and the denominator, then crossing the numbers that appear in both the numerator and denominator. finally multiply each 
 $$
 \frac{21}{45} =  \frac{7\cdot  3} { 5 \cdot 3 \cdot 3}  =  \frac{7}{15}  
 $$
