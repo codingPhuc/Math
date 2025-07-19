@@ -6,7 +6,7 @@ $$
 \frac{21}{45} =  \frac{7\cdot  3} { 5 \cdot 3 \cdot 3}  =  \frac{7}{15}  
 $$
 
-this is also appliable to x fraction 
+this is also appliable to fraction with variables, where to top and the bottom can be reduce to the simples form in 
 $\frac{3x  +  6} {x^2 + 4x + 4}$ $\frac{3(x  + 2)} {x + 2 }  = \frac{3}{x+ 2 }$ 
 simplify 
 # multiplying  and dividing   
