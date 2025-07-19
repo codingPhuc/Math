@@ -221,7 +221,19 @@ by pluggin in number for this  function we are using limit law
 
 
 suppose that c is a constant and the limt $\lim_{ x \to a }f(x)$  
-
-
-
-lim
+here are the law n limit 
+$$
+\lim_{ n \to a }[f(x) + g(x )]   = \lim_{ n \to a }f(x)   +  
+$$
+$$
+\lim_{ n \to a }[f(x) + g(x )]   = 
+$$
+$$
+\lim_{ n \to a }[f(x) + g(x )]   = 
+$$
+$$
+\lim_{ n \to a }[f(x) + g(x )]   = 
+$$
+$$
+\lim_{ n \to a }[f(x) + g(x )]   = 
+$$
