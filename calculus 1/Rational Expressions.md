@@ -29,7 +29,7 @@ $$
 
 ## adding and sub fraction 
 
-used LCD 
+used LCD to have a common denominator for both fractio
 $$
 \frac{7}{6} - \frac{4}{15}  =  \frac{35 -  8}{30} =  \frac{27}{30 }  =  \frac{9}{10}
  $$
