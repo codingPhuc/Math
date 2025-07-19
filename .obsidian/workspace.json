@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math note.md",
+                "file": "calculus 1/Rational Expressions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Math note"
+              "title": "Outline of Rational Expressions"
             }
           }
         ],
@@ -285,8 +285,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581a36da74918a83",
+  "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "Math note.md",
     "calculus 1/Calculus 12 hour course.md",
     "calculus 1/Rational Expressions.md",
     "calculus 1/When the Limit of the Denominator is 0.md",
@@ -312,7 +313,6 @@
     "Paul Online note/algebra/Section 7.1  Linear Systems with Two Variables.md",
     "Paul Online note/algebra/Section 6.2 Logarithm Functions.md",
     "Paul Online note/algebra/Section 5.5   Partial Fractions.md",
-    "Paul Online note/algebra/Section 3.6  Combining Functions.md",
     "calculus 1",
     "Paul Online note/algebra",
     "Untitled",
