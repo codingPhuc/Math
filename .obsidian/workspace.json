@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/algebra/Section 4.8  Rational Functions.md",
+                "file": "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 4.8  Rational Functions"
+              "title": "Section 4.5  Miscellaneous Functions"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "factoring pol",
+                "query": "Absolute Value",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +189,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,13 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/algebra/Section 4.8  Rational Functions.md",
+                "file": "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.8  Rational Functions"
+              "title": "Outline of Section 4.5  Miscellaneous Functions"
             }
           }
         ],
@@ -288,7 +289,10 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 3.4  The Definition of a Function.md",
     "Paul Online note/algebra/Section 2.14 Absolute Value Equations.md",
+    "Paul Online note/algebra/Section 5.1  Dividing Polynomials.md",
+    "Paul Online note/algebra/Section 4.8  Rational Functions.md",
     "Paul Online note/algebra/Section 2.7 Quadratic Equations  A Summary.md",
     "Paul Online note/algebra/Section 2.6  Quadratic Equations - Part II.md",
     "Paul Online note/algebra/Section 7.5  Nonlinear Systems.md",
@@ -299,15 +303,12 @@
     "Paul Online note/algebra/Section 6.2 Logarithm Functions.md",
     "Paul Online note/algebra/Section 5.5   Partial Fractions.md",
     "Paul Online note/algebra/Section 3.6  Combining Functions.md",
-    "Paul Online note/algebra/Section 3.4  The Definition of a Function.md",
     "Paul Online note/algebra/Section 3.2  Lines.md",
     "Paul Online note/algebra/Section 3.1 Graphing.md",
     "Paul Online note/algebra/Section 2.15  Absolute Value Inequalities.md",
     "Paul Online note/algebra/Section 2.12  Polynomial Inequalities.md",
     "Paul Online note/algebra/Section 2.11  Linear Inequalities.md",
-    "Paul Online note/algebra/Section 4.8  Rational Functions.md",
     "Paul Online note/algebra/Section 5.2  Zeroes Roots of Polynomials.md",
-    "Paul Online note/algebra/Section 5.1  Dividing Polynomials.md",
     "calculus 1/Calculus 12 hour course.md",
     "Paul Online note/algebra/Complex Numbers.md",
     "calculus 1",
