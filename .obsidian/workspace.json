@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Difference Quotient.md",
+                "file": "Paul Online note/algebra/Section 6.1  Exponential Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Difference Quotient"
+              "title": "Outline of Section 6.1  Exponential Functions"
             }
           }
         ],
@@ -295,12 +295,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56951fb26ce0d245",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
+    "calculus 1/Difference Quotient.md",
     "Paul Online note/algebra/Section 6.1  Exponential Functions.md",
     "Paul Online note/algebra/Section 3.4  The Definition of a Function.md",
     "Paul Online note/algebra/Section 3.2  Lines.md",
-    "calculus 1/Difference Quotient.md",
     "calculus 1/example.md",
     "calculus 1/Limit Laws.md",
     "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
