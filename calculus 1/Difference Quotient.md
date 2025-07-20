@@ -75,7 +75,7 @@ f(x+h) = 2(x+ h)^2  - (x + h) + 3   \\
 $$
 
 
-then subtract the equation down   
+second subtract the equation down   
 $$
 \begin{array}
 f(x+h) - f(x )   =    2x^2  = 4xh  + 2h^2  -x - h + 3 - (2x^2 -x + 3)  \\
@@ -85,6 +85,7 @@ f(x+h) - f(x )   =    2x^2  = 4xh  + 2h^2  -x - h + 3 - (2x^2 -x + 3)  \\
 
 $$
 
+finally find  the most simply form of the equation in this cases is : 
 $$
 \frac{f(x   +h )- f(x)} { h }  = \frac{4xh + 2h^2  -h}{ h }  =  \frac{h(4x + 2x -1)}{h}  = (4x + 2x -1)
 $$
