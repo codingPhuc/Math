@@ -63,6 +63,7 @@ the average rule
 example find the and simplify the different quotation for $f(x)= 2x^2  - x  + 3$
 different   quotation    $\frac{f(x+h) - f(x)}{h}$ 
 
+first compute the value f(x  +h) : 
 $$
 \begin{array}
 f(x+h) = 2(x+ h)^2  - (x + h) + 3   \\
@@ -72,6 +73,9 @@ f(x+h) = 2(x+ h)^2  - (x + h) + 3   \\
  =   2x^2 + 4xh + 2h^2 - x -h + 3 
 \end{array}
 $$
+
+
+then subtract the equation down   
 $$
 \begin{array}
 f(x+h) - f(x )   =    2x^2  = 4xh  + 2h^2  -x - h + 3 - (2x^2 -x + 3)  \\
