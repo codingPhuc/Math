@@ -53,7 +53,7 @@ A different quotation representation
 the average of change of a the function f(x ) on the intenal is [x, x + h] 
 so another way to represent the secant line between the two point is : 
 $$
-m  =  \frac{f(b) -  f( c)}{ b -a }   = \frac{f(x+h)}{}
+m  =  \frac{f(b) -  f( c)}{ b -a }   = \frac{f(x+h)-f9}{(x  +h)}
 $$
 
 the average rule 
