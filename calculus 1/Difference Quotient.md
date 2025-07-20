@@ -49,11 +49,9 @@ m = \frac{f(4)-f(1)}{4 -1 }   = \frac{\sqrt{ 4 } -\sqrt{ 1 }}{3} =
 \frac{2-1}{3} = \frac{1}{3}
 $$
 
-
-A different quotation represent 
+A different quotation representation  
 the average of change of a the function f(x ) on the intenal is [x, x + h] 
-
-
+so another way to represent the secant line between the two point is  : 
 $$
 m  =  \frac{f(b) -  f( c)}{ b -a }   = \frac{f(x+h)}{}
 $$
