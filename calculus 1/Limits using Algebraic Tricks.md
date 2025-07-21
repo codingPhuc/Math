@@ -57,4 +57,17 @@ $$
 = \frac{2}{-1}   = -2 
 \end{array}
 
+$$ 
+
+$$
+\begin{array}{l} \\
+\lim_{  x \to -5^+ }    
+  \frac{2x+ 10}{ \mid x+ 5 \mid }  \\
+= \lim_{  x \to -5^+ }    \frac{2x+ 10}{ ( x+ 5 ) }    \\
+= \frac{2}{1}   = 2 
+\end{array}
+
+$$
+1. $$
+
 $$
