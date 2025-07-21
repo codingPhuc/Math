@@ -4,10 +4,12 @@ references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
 tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
-Current date: "2025-07-21"
+Current date: 2025-07-21
 amount of time: 
 learning score:
 ---
+# #definition  
+
 $$
 \lim_{  x  \to  a }   \frac{f(x)}{g(x)}  = \lim_{ x \to a }   \frac{f(x)}{\lim_{ x \to a } g(x)} 
 $$
@@ -15,9 +17,16 @@ provided  that $g(x)\neq 0$
 
 ## what if lim g(x)  = 0 ?  
 either one of these cases : 
-1. lim f(x)  = 0 and lim g(x)  =0  
-2. lim g(x) = 0  
+1.   lim g(x) = 0  
+2. lim f(x)  = 0 and lim g(x)  =0 
 the reason for this is that if we find
 $$
 \lim_{ x \to 3 } -\frac{4X}{x-3}  x =  \lim_{ x  \to 3 }  
 $$
+
+
+| x   | $-\frac{4x}{x-3}$ |
+| --- | ----------------- |
+|     |                   |
+|     |                   |
+|     |                   |
