@@ -56,10 +56,6 @@ $$
 m  =  \frac{f(b) -  f( c)}{ b -a }   = \frac{f(x+h) - f(x )}{h}
 $$
 
-the average rule 
-
-
-
 example find the and simplify the different quotation for $f(x)= 2x^2  - x  + 3$
 different   quotation    $\frac{f(x+h) - f(x)}{h}$ 
 
