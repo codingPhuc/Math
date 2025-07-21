@@ -71,7 +71,8 @@ $$
  $$
  \begin{array}{l} \\
  \lim_{ x \to 1 } \frac{x^3-1}{x^2  -1 } \xrightarrow{\text{}}\text{factor}  \\
- \lim_{ x \to 0 } \frac{(5  -z)^2}{x^2  -1 } \xrightarrow{\text{}}\text{factor}
+ \lim_{ x \to 0 } \frac{(5  -z)^2  -25}{2 }   \xrightarrow{\text{}}\text{multiply out}  \\
+\lim_{ r \to 0 }   \frac{\frac{1}{r + 3}  - \frac{1}{3}}{r}\xrightarrow{\text{}}  
 \end{array}
 
  $$
