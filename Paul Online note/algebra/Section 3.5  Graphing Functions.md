@@ -50,8 +50,7 @@ in this graph we plug in the value of x to get  the value of y , then draw the g
     % Draw the parabola
     \draw[thick, blue, domain=-1:2, smooth] plot (\x, {( \x - 1)^3+1});
 \end{tikzpicture}
-\end{document}
-
+v
 
 ``` 
 

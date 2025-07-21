@@ -7,6 +7,12 @@ $$
 $$
 1. one sided limit on the left and on the right are not equal  
 ```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Axes
     \draw[->] (-3,0) -- (3,0) node[right] {};
@@ -56,6 +62,30 @@ $$
 
 
 3. wild behavior 
+```tikz
+
+```
+```tikz 
+\begin{tikzpicture}[x=10cm, y=3cm]
+    \draw[->] (-0.2,0) -- (0.2,0) node[right] {};
+    \draw[->] (0,-1.2) -- (0,1.2) node[above] {};
+
+    % Ticks
+    \foreach \x in {-0.2,-0.1,0.1,0.2} {
+        \draw (\x,0.05) -- (\x,-0.05);
+    }
+    \foreach \y in {-1,1} {
+        \draw (0.01,\y) -- (-0.01,\y) node[left] {\y};
+    }
+
+    % Plot sin(1/x)
+    \draw[domain=0.01:0.2, smooth, variable=\x, thick, blue] plot ({\x},{sin(1/\x r)});
+    \draw[domain=-0.2:-0.01, smooth, variable=\x, thick, blue] plot ({\x},{sin(1/\x r)});
+\end{tikzpicture}
+
+```
+
+
 
 what is the $$
 \lim_{ x \to 7 }    

@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Limit Laws.md",
+                "file": "Paul Online note/algebra/Section 3.5  Graphing Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Limit Laws"
+              "title": "Outline of Section 3.5  Graphing Functions"
             }
           }
         ],
@@ -295,10 +295,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56951fb26ce0d245",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
-    "Paul Online note/algebra/Section 3.5  Graphing Functions.md",
     "calculus 1/Limit Laws.md",
+    "Paul Online note/algebra/Section 3.5  Graphing Functions.md",
     "Paul Online note/algebra/Section 2.11  Linear Inequalities.md",
     "Paul Online note/algebra/Section 2.9  Equations Reducible to Quadratic in Form.md",
     "calculus 1/Calculus 12 hour course.md",
