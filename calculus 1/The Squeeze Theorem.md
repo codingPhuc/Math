@@ -40,7 +40,10 @@ $$
     % Draw the parabola
     \draw[thick, blue, domain=0:3, smooth] plot (\x, {3*(\x)^2 -4*\x +5});
     \draw[thick, red, domain=0:3, smooth]  plot (\x, {4* sqrt(\x)});  
-\draw[thick, blue, domain=0:3, smooth]  plot (\x, {2*\x  + 2})  node[below] {ASD};
+\draw[thick, blue, domain=0:3, smooth] 
+  plot (\x, {2*\x + 2}) 
+  node[pos=0.5, below] {f};
+
 \end{tikzpicture}
 \end{document}
 ``` 
