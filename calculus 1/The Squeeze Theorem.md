@@ -85,8 +85,8 @@ $$
 
     % Plot sin(1/x)
     \draw[domain=0.01:0.2, smooth, variable=\x, thick, blue] plot ({\x},{sin(1/\x r)});
-    \draw[domain=0.01:0.2, smooth, variable=\x, thick, blue] plot ({\x},{sin(1/\x r)});
-        \draw[domain=0.01:0.2, smooth, variable=\x, thick, blue] plot ({\x},{sin(1/\x r)});
+    \draw[domain=0.01:0.2, smooth, variable=\x, thick, red] plot ({\x},{\x^2});
+        \draw[domain=0.01:0.2, smooth, variable=\x, thick, green] plot ({\x},{-(\x)^2});
 \end{tikzpicture}
 
 \end{document}
