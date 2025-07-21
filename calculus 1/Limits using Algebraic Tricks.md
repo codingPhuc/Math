@@ -68,6 +68,4 @@ $$
 \end{array}
 
 $$
-1. $$
-
-$$
+ $\lim_{ x \to 1 } \frac{x^3-1}{x^2  -1 } \xrightarrow{\text{}}\text{factor}$ 
