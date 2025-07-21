@@ -61,17 +61,17 @@ x+ 4  \implies   x+ 4 > 0 ( x > -4) \\
 \end{array}
 $$
 $$
-\lim_{ x \to -4^- }   = \frac{5x}{\cdot - ( x+ 4 ) }   =  \frac{+}{-}  =  - 
+\lim_{ x \to -4^- }   = \frac{5x}{\cdot - ( x+ 4 ) }   =  \frac{1}{+}  =  - 
 $$
 
 $$
-\lim_{ x \to -4^+}   = \frac{5x}{ \cdot ( x+ 4 ) }   =  \frac{+}{-}  =  - 
+\lim_{ x \to -4^+}   = \frac{5x}{ \cdot ( x+ 4 ) }   =  \frac{-}{+}  =  - 
 $$
 
 
 #todo 
 I don't understand the 
 $$
-\lim_{ x \to -4^+}   = \frac{5x}{ \cdot ( x+ 4 ) }   =  \frac{+}{-}  =  - 
+\lim_{ x \to -4^+}   = \frac{5x}{ \cdot ( x+ 4 ) }   =  \frac{-}{+}  =  - 
 $$
- I mean if x =  5 since it trying to approach  -4 from the right would the above be a positive not a negative, or do we only deal in the infinite fraction r
+ I mean if x =  5 since it trying to approach  -4 from the right would the above be a positive not a negative, or do we only deal in the infinite fraction range close to -4 like -3.999 and -4.00001 and that ?  
