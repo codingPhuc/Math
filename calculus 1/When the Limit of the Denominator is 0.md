@@ -45,5 +45,8 @@ $$
 $$
 
 
-when  it say that the equation is approaching -3  from the left and the right and left (3^+, 3^-) it mean that the e
+when  it say that the equation is approaching -3  from the left and the right and left (3^+, 3^-) it mean that the denomination will evaluate to a positive infinity or a negative infinity bases on the solution given. 
+
+
+
 
