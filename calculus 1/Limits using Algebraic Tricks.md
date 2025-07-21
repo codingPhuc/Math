@@ -18,3 +18,6 @@ $$
 $$
 
 simplifying the limit  help with plugging in the value 
+
+
+
