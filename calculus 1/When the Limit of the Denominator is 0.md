@@ -67,3 +67,10 @@ $$
 $$
 \lim_{ x \to -4^+}   = \frac{5x}{ \cdot ( x+ 4 ) }   =  \frac{+}{-}  =  - 
 $$
+
+I don't understand the 
+
+$$
+\lim_{ x \to -4^+}   = \frac{5x}{ \cdot ( x+ 4 ) }   =  \frac{+}{-}  =  - 
+$$
+ 
