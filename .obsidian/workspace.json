@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Calculus 12 hour course.md",
+                "file": "Paul Online note/algebra/Section 3.5  Graphing Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculus 12 hour course"
+              "title": "Section 3.5  Graphing Functions"
             }
           },
           {
@@ -297,11 +297,14 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 3.5  Graphing Functions.md",
+    "Paul Online note/algebra/Section 2.11  Linear Inequalities.md",
+    "Paul Online note/algebra/Section 2.9  Equations Reducible to Quadratic in Form.md",
     "calculus 1/Calculus 12 hour course.md",
+    "calculus 1/Limit Laws.md",
     "calculus 1/Difference Quotient.md",
     "calculus 1/example.md",
     "calculus 1/Graphs and Limits.md",
-    "calculus 1/Limit Laws.md",
     "calculus 1/Limits using Algebraic Tricks.md",
     "Math note.md",
     "Linear algebra.md",
@@ -322,9 +325,6 @@
     "Paul Online note/algebra/Section 5.1  Dividing Polynomials.md",
     "Paul Online note/algebra/Section 4.8  Rational Functions.md",
     "Paul Online note/algebra/Section 2.7 Quadratic Equations  A Summary.md",
-    "Paul Online note/algebra/Section 2.6  Quadratic Equations - Part II.md",
-    "Paul Online note/algebra/Section 7.5  Nonlinear Systems.md",
-    "Paul Online note/algebra/Solutions and Solution Sets.md",
     "calculus 1",
     "Paul Online note/algebra",
     "Untitled",
