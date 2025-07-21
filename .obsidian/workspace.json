@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/The Squeeze Theorem.md",
+                "file": "calculus 1/When Limits Fail to Exist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Squeeze Theorem"
+              "title": "When Limits Fail to Exist"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/The Squeeze Theorem.md",
+                "file": "calculus 1/When Limits Fail to Exist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Squeeze Theorem"
+              "title": "Outline of When Limits Fail to Exist"
             }
           }
         ],
@@ -297,11 +297,11 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "calculus 1/When Limits Fail to Exist.md",
-    "calculus 1/Limit Laws.md",
-    "calculus 1/Limits using Algebraic Tricks.md",
     "calculus 1/The Squeeze Theorem.md",
     "calculus 1/Rational Expressions.md",
+    "calculus 1/Limits using Algebraic Tricks.md",
+    "calculus 1/When Limits Fail to Exist.md",
+    "calculus 1/Limit Laws.md",
     "Paul Online note/algebra/Section 3.5  Graphing Functions.md",
     "picture/Pasted image 20250721130119.png",
     "Paul Online note/algebra/Section 2.11  Linear Inequalities.md",
