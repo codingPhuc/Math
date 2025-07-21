@@ -20,5 +20,10 @@ $$
 simplifying the limit  help with plugging in the value 
 
 $$
-\lim_{ z \to 0 }   \frac{(5-z)^2}{}
+\begin{array}{l}  \\
+\lim_{ z \to 0 }   \frac{(5-z)^2-25}{z}  \\
+ = \lim_{ x \to 0 } \frac{25-10z + z^2  -25}{z}   \\
+=
+\end{array}
+
 $$
