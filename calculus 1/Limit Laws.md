@@ -76,6 +76,13 @@ $$
 
 ```
 ```tikz 
+
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
 \begin{tikzpicture}[x=10cm, y=3cm]
     \draw[->] (-0.2,0) -- (0.2,0) node[right] {};
     \draw[->] (0,-1.2) -- (0,1.2) node[above] {};
@@ -93,6 +100,7 @@ $$
     \draw[domain=-0.2:-0.01, smooth, variable=\x, thick, blue] plot ({\x},{sin(1/\x r)});
 \end{tikzpicture}
 
+\end{document}
 ```
 
 
@@ -102,7 +110,7 @@ what is the $$
 $$
 by plugging  in number for this  function we are using limit law 
 
-suppose that c is a constant and the limt $\lim_{ x \to a }f(x)$  
+suppose that c is a constant and the  $\lim_{ x \to a }f(x)$  
 here are the law n limit 
 $$
 \lim_{ n \to a }[f(x) + g(x )]   = \lim_{ n \to a }f(x)   +   \lim_{ n \to a }g(x)   
