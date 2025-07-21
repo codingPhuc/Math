@@ -1,3 +1,5 @@
+![[Pasted image 20250721130119.png]]  
+
 
 $$
 \lim_{ x \to 7 } f(x)   = 30  \cap \lim_{ n \to 7 }g(x) = 2  
