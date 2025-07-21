@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/When Limits Fail to Exist.md",
+                "file": "calculus 1/Limits using Algebraic Tricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "When Limits Fail to Exist"
+              "title": "Limits using Algebraic Tricks"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/When Limits Fail to Exist.md",
+                "file": "calculus 1/Limits using Algebraic Tricks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of When Limits Fail to Exist"
+              "title": "Outline of Limits using Algebraic Tricks"
             }
           }
         ],
@@ -297,11 +297,13 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "calculus 1/The Squeeze Theorem.md",
     "calculus 1/Rational Expressions.md",
-    "calculus 1/Limits using Algebraic Tricks.md",
-    "calculus 1/When Limits Fail to Exist.md",
     "calculus 1/Limit Laws.md",
+    "calculus 1/When Limits Fail to Exist.md",
+    "calculus 1/When the Limit of the Denominator is 0.md",
+    "calculus 1/The Squeeze Theorem.md",
+    "calculus 1/Untitled.md",
+    "calculus 1/Limits using Algebraic Tricks.md",
     "Paul Online note/algebra/Section 3.5  Graphing Functions.md",
     "picture/Pasted image 20250721130119.png",
     "Paul Online note/algebra/Section 2.11  Linear Inequalities.md",
@@ -319,8 +321,6 @@
     "Professor Leonard/7.4 Intermediate Algebra Lecture  Adding and Subtracting Rational Expressions.md",
     "picture/Pasted image 20250719165216.png",
     "picture/Pasted image 20250719165215.png",
-    "calculus 1/When the Limit of the Denominator is 0.md",
-    "calculus 1/Untitled.md",
     "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
     "Paul Online note/algebra/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/algebra/Section 5.1  Dividing Polynomials.md",

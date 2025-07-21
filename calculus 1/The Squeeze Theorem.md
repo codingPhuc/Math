@@ -4,8 +4,8 @@ references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
 tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
-Current date: "2025-07-21"
-amount of time: 
+Current date: 2025-07-21
+amount of time: "30"
 learning score:
 ---
 Example : for the function g(x) suppose that ,for x-value near 1  
