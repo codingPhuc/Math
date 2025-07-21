@@ -14,5 +14,7 @@ all of the limit here are in the form $\frac{0}{0}$ form $\lim_{ x \to a }\frac{
 
 
 $$
-\lim_{ x \to 1 } \frac{x^3-1}{x^2  -1 } = \lim_{ x \to 1 } \frac{(x-1) (x^2 + x +1)  }{(x - 1) (x + 1)}   =  \frac{x^2 + x +1}{x + 1}
-$$ 
+\lim_{ x \to 1 } \frac{x^3-1}{x^2  -1 } = \lim_{ x \to 1 } \frac{(x-1) (x^2 + x +1)  }{(x - 1) (x + 1)}   = \lim_{ x \to 1 }  \frac{x^2 + x +1}{x + 1}  = \frac{3}{2}
+$$
+
+simplifying the limit  help with plugging in the value 
