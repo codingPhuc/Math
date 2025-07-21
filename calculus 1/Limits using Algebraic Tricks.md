@@ -33,3 +33,9 @@ $$
 $$
 \lim_{ r \to 0 }   \frac{\frac{1}{r + 3}  - \frac{1}{3}}{r}   =  \lim_{ r \to 0 } \frac{\frac{3 -(r + 3)}{(r + 3)\cdot 3}}{r}  =  \lim_{ r \to 0 } \frac{-r }{(r + 3)\cdot 3} \cdot \frac{1}{r}   =  \lim_{ r \to 0 }  \frac{-1}{3r + 9}   =  - \frac{1}{9}
 $$
+$$
+\begin{array}{l}   \\
+\lim_{ x \to 1  }  \frac{\sqrt{ x + 3 }   -2}{x -1}     \\
+= \lim_{ x \to 1  }  
+\end{array}
+$$
