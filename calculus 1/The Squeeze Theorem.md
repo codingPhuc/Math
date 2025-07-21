@@ -55,6 +55,5 @@ f(x) , g( x) , h(x )
 $$
 limit only care about x value near a (not for x = a ) suppose 
 
-
-
+## how  limit help solve wild behavior 
 
