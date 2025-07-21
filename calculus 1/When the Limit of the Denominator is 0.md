@@ -55,11 +55,11 @@ $$
 $$
 
 $$
-\mid x+5 \mid  \implies  \{\begin{array}{l} \\
+\mid  x+ 4  \mid  \implies  \{\begin{array}{l} \\
 x+ 4  \implies   x+ 4 > 0 ( x > -4) \\
 -(x+ 4 )  \implies  x+ 4 < 0 ( x < -4) 
 \end{array}
 $$
 $$
-\lim_{ x \to 4^- }  
+\lim_{ x \to 4^- }   = \frac{5x}{-4 ( x+ 4 ) }  
 $$
