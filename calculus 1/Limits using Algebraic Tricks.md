@@ -23,7 +23,7 @@ $$
 \begin{array}{l}  \\
 \lim_{ z \to 0 }   \frac{(5-z)^2-25}{z}  \\
  = \lim_{ x \to 0 } \frac{25-10z + z^2  -25}{z}   \\
-=
+=\lim_{ x \to 0 } \frac{-10z + z^2  -25}{z}  
 \end{array}
 
 $$
