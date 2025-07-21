@@ -42,10 +42,12 @@ $$
     \draw[thick, red, domain=0:3, smooth]  plot (\x, {4* sqrt(\x)});  
 \draw[thick, blue, domain=0:3, smooth] 
   plot (\x, {2*\x + 2}) 
-  node[pos=0.5, below] {f};
+  node[pos=0.5, below] {y =  g(x)};
 
 \end{tikzpicture}
 \end{document}
 ``` 
 
 
+
+suppose 
