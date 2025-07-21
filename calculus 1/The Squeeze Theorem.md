@@ -38,10 +38,11 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:1, smooth] plot (\x, {3*(\x)^2 -4*\x +5});
-    \draw[thick, red, domain=1:3, smooth] plot (\x, {2*\x  - 1});
+    \draw[thick, blue, domain=0:5, smooth] plot (\x, {3*(\x)^2 -4*\x +5});
+    \draw[thick, red, domain=0:5, smooth] plot (\x, {4* sqrt(\x)});
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
+
