@@ -68,9 +68,10 @@ $$
 \lim_{ x \to -4^+}   = \frac{5x}{ \cdot ( x+ 4 ) }   =  \frac{+}{-}  =  - 
 $$
 
-I don't understand the 
 
+#todo 
+I don't understand the 
 $$
 \lim_{ x \to -4^+}   = \frac{5x}{ \cdot ( x+ 4 ) }   =  \frac{+}{-}  =  - 
 $$
- 
+ I mean if x =  5 since it trying to approach  -4 from the right would the above be a positive not a negative, or do we only deal in the infinite fraction r
