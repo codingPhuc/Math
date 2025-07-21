@@ -45,5 +45,5 @@ $$
 $$
 
 
-the we concluded that 
+when  it say that the equation is approaching -3  from the left and the right it mean that 
 
