@@ -37,6 +37,6 @@ $$
 \begin{array}{l}   \\
 \lim_{ x \to 1  }  \frac{\sqrt{ x + 3 }   -2}{x -1}     \\
 = \lim_{ x \to 1  }  \frac{(\sqrt{ x + 3 }   -2) \cdot (\sqrt{ x + 3 }   -2)}{x -1\cdot (\sqrt{ x + 3 }   -2) }      \\
- = \lim_{ x \to 1  }  \frac{x-1}{ x\sqrt{ x  - 3 }  + 2x - \sqrt{ x - 3  } - 2 }  =  \frac{1}{\sqrt{ x  + 3  }   + 2}
+ = \lim_{ x \to 1  }  \frac{x-1}{ x\sqrt{ x  - 3 }  + 2x - \sqrt{ x - 3  } - 2 }  =  \frac{1}{\sqrt{ x  + 3  }   + 2  }  = \frac{1}{4}
 \end{array}
 $$
