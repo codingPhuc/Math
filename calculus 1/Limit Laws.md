@@ -12,9 +12,7 @@ $$
 what is the $$
 \lim_{ x \to 7 }    
 $$
-by pluggin in number for this  function we are using limit law 
-
-
+by plugging  in number for this  function we are using limit law 
 
 suppose that c is a constant and the limt $\lim_{ x \to a }f(x)$  
 here are the law n limit 
@@ -34,12 +32,7 @@ $$
 \lim_{ n \to a }[f(x) + g(x )]   = 
 $$
 
-
-
-
-
-1. find the vertical asympotes and horizontal asymptotes and holes 
-
+find the vertical asymptotes and horizontal asymptotes and holes 
 horizontal asymptotes  :  
 
 $$
