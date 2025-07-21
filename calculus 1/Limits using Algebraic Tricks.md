@@ -31,5 +31,5 @@ $$
 
 
 $$
-\lim_{ r \to 0 }   \frac{\frac{1}{r + 3}  - \frac{1}{3}}{r}   =  \lim_{ r \to 0 }  
+\lim_{ r \to 0 }   \frac{\frac{1}{r + 3}  - \frac{1}{3}}{r}   =  \lim_{ r \to 0 } \frac{\frac{3 -(r + 3)}{(r + 3)\cdot 3}}{r}  =  \lim_{ r \to 0 } \frac{\frac{3 -(r + 3)}{(r + 3)\cdot 3}}{r}  
 $$
