@@ -56,7 +56,10 @@ $$
 
 $$
 \mid x+5 \mid  \implies  \{\begin{array}{l} \\
-x + 5  \implies   x   +  5 > 0 ( x > -5) \\
--(x + 5 )  \implies  x + 5 < 0 ( x < -5) 
+x+ 4  \implies   x+ 4 > 0 ( x > -4) \\
+-(x+ 4 )  \implies  x+ 4 < 0 ( x < -4) 
 \end{array}
+$$
+$$
+\lim_{ x \to 4^- }  
 $$
