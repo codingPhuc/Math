@@ -33,11 +33,19 @@ $$
     \draw[blue] (0,1) circle (2pt);
     \fill[blue] (0,-1) circle (2pt);     % closed circle
 \end{tikzpicture}
+\end{document}
 ```
 
 
 2. vertical asymptotes
 ```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+
 \begin{tikzpicture}[x=1cm,y=1cm]
     \draw[->] (-3,0) -- (5,0) node[right] {};
     \draw[->] (0,-4) -- (0,4) node[above] {};
@@ -57,6 +65,8 @@ $$
     \draw[domain=-2.9:0.9, smooth, thick, blue] plot(\x,{1/(\x - 1)});
     \draw[domain=1.1:4.9, smooth, thick, blue] plot(\x,{1/(\x - 1)});
 \end{tikzpicture}
+\end{document}
+
 
 ```
 
