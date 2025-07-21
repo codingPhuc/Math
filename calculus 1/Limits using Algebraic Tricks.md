@@ -40,3 +40,8 @@ $$
  = \lim_{ x \to 1  }  \frac{x-1}{ x\sqrt{ x  - 3 }  + 2x - \sqrt{ x - 3  } - 2 }  =  \frac{1}{\sqrt{ x  + 3  }   + 2  }  = \frac{1}{4}
 \end{array}
 $$
+## limit using absolute value 
+
+$$
+\lim_{  x \to 5 }    =  \frac{2x+ 10}{ }
+$$
