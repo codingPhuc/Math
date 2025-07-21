@@ -9,5 +9,7 @@ amount of time: "30"
 learning score:
 ---
 #definition  
-we will compute a bunch of limit using algebraic trics  
-all of the limit here are in the form $\frac{0}{0}$ form 
+we will compute a bunch of limit using algebraic tricks  
+all of the limit here are in the form $\frac{0}{0}$ form $\lim_{ x \to a }\frac{f(x)}{g(x)}$where f(x)  = 0 and g(x) = 0 
+
+
