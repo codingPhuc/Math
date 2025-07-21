@@ -76,4 +76,5 @@ $$
 $$
  I mean if x =  5 since it trying to approach  -4 from the right would the above be a positive not a negative, or do we only deal in the infinite fraction range close to -4 like -3.999 and -4.00001 and that ?  
 
-note if $\lim_{ x \to a }f(x) !$
+note if $\lim_{ x \to a }f(x) \neq_{0}$ and $\lim_{ x \to a }g(x)=0$ then  $\lim_{ x \to a }\frac{f(x)}{g(x)}$ 
+- could be $-\int_{-\infty}^{\infty}  \, dx$
