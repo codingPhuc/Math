@@ -128,7 +128,7 @@ $$
 \lim_{ n \to a }[f(x) + g(x )]   =  \lim_{ x \to a } F(x) \cdot \lim_{ x \to  a }  g(x)
 $$
 $$
-\lim_{ n \to a } \frac{f(x)}{g(x )}  =  
+\lim_{ n \to a } \frac{f(x)}{g(x )}  =   \frac{\lim_{ z \to a } f(x)}{\lim_{ x \to a } g(x)} \text{ provided that } g(x ) \neq 0 
 $$
 
 find the vertical asymptotes and horizontal asymptotes and holes 
