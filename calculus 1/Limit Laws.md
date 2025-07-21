@@ -6,7 +6,55 @@ $$
 \lim_{ x \to 7 } f(x)   = 30  \cap \lim_{ n \to 7 }g(x) = 2  
 $$
 1. one sided limit on the left and on the right are not equal  
-2. vertical asymptotes    
+```tikz
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Axes
+    \draw[->] (-3,0) -- (3,0) node[right] {};
+    \draw[->] (0,-2) -- (0,2) node[above] {};
+
+    % Ticks
+    \foreach \x in {-2,-1,0,1,2} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-1,1} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Step function
+    \draw[blue, thick] (-3,1) -- (0,1);
+    \draw[blue, thick] (0,-1) -- (3,-1);
+    \filldraw[white] (0,1) circle (2pt); % open circle
+    \draw[blue] (0,1) circle (2pt);
+    \fill[blue] (0,-1) circle (2pt);     % closed circle
+\end{tikzpicture}
+```
+
+
+2. vertical asymptotes
+```tikz
+\begin{tikzpicture}[x=1cm,y=1cm]
+    \draw[->] (-3,0) -- (5,0) node[right] {};
+    \draw[->] (0,-4) -- (0,4) node[above] {};
+
+    % Ticks
+    \foreach \x in {-2,-1,0,1,2,3,4} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-3,-2,-1,1,2,3} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Asymptote
+    \draw[dashed, red] (1,-4) -- (1,4);
+
+    % Graph of 1/(x-1)
+    \draw[domain=-2.9:0.9, smooth, thick, blue] plot(\x,{1/(\x - 1)});
+    \draw[domain=1.1:4.9, smooth, thick, blue] plot(\x,{1/(\x - 1)});
+\end{tikzpicture}
+
+```
+
+
 3. wild behavior 
 
 what is the $$
