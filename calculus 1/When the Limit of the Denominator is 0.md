@@ -9,5 +9,8 @@ amount of time:
 learning score:
 ---
 $$
-\lim_{  x  \to  a }   \frac{f(x)}{g(x)}  = \lim_{ x \to a }   \frac{f(x)}{}
+\lim_{  x  \to  a }   \frac{f(x)}{g(x)}  = \lim_{ x \to a }   \frac{f(x)}{\lim_{ x \to a } g(x)} 
 $$
+provided  that $g(x)\neq 0$ 
+what if lim g(x)  = 0 
+either one of these case
