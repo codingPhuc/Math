@@ -61,9 +61,9 @@ x+ 4  \implies   x+ 4 > 0 ( x > -4) \\
 \end{array}
 $$
 $$
-\lim_{ x \to 4^- }   = \frac{5x}{\cdot - ( x+ 4 ) }   =  \frac{+}{-}  =  - 
+\lim_{ x \to -4^- }   = \frac{5x}{\cdot - ( x+ 4 ) }   =  \frac{+}{-}  =  - 
 $$
 
 $$
-\lim_{ x \to 4^- }   = \frac{5x}{-4 \cdot ( x+ 4 ) }   =  \frac{+}{-}  =  - 
+\lim_{ x \to -4^+}   = \frac{5x}{ \cdot ( x+ 4 ) }   =  \frac{+}{-}  =  - 
 $$
