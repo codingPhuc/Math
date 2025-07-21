@@ -109,5 +109,7 @@ $$
 \end{array}
 $$
 $$
-\lim_{ x \to 0 }     0 
+\lim_{ x \to 0 }    x^2 =  0 \cap  \lim_{ x \to 0 }  -x^2  = 0 \xrightarrow{\text{}} \lim_{ x \to \infty }  
 $$
+
+
