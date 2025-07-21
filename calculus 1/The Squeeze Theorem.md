@@ -97,6 +97,7 @@ $$
 
 it is tempting to used the product rule where 
 $$
- \lim_{ x \to 0 }  \sin \left( \frac{1}{x} \right)  
+ \lim_{ x \to 0 }  \sin \left( \frac{1}{x} \right) \xrightarrow{\text{fail}} \text{ since limit does not exit }  
 $$
+
 
