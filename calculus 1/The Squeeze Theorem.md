@@ -111,6 +111,10 @@ $$
 $$
 \lim_{ x \to 0 }    x^2 =  0 \cap  \lim_{ x \to 0 }  -x^2  = 0 \xrightarrow{\text{}} \lim_{ x \to  0  }  x^2  \sin\left( \frac{1}{x} \right)   = 0   
 $$
-1. normally we cannot evaluate the limit of a $\lim_{ x \to 0 }\sin(1)$
+1. normally we cannot evaluate the limit of a $\lim_{ x \to 0 }\sin\left( \frac{1}{x} \right)$ function 
+2. however, since the function is squeeze between 2 different limit it enable us to find the limit of the function bases on the limit of the upper bound and lower bound function  
+
+
+
 
 
