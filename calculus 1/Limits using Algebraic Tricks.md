@@ -44,9 +44,9 @@ $$
 
 $$
 \begin{array}{l} \\
-\lim_{  x \to -5 }    
-=  \frac{2x+ 10}{ \mid x+ 5 \mid }  \\
-=\lim_{  x \to  }  
+\lim_{  x \to -5^- }    
+  \frac{2x+ 10}{ \mid x+ 5 \mid }  \\
+= \lim_{  x \to -5^- }    
 \end{array}
 
 $$
