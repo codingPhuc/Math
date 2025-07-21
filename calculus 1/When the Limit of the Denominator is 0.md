@@ -81,4 +81,7 @@ note if $\lim_{ x \to a }f(x) \neq_{0}$ and $\lim_{ x \to a }g(x)=0$ then  $\lim
 - could be does not exit 
 - if one sided limit   $\infty ,-\infty$
 
-Not  if $
+Not  if $\lim_{ x \to a }f(x)=0$ and $\lim_{ x \to a }g(x)=0$ then $\lim_{ x \to a } \frac{f(x)}{g(x)}$ 
+
+could exit and could not exit 
+limit of this form is called  
