@@ -50,6 +50,13 @@ when  it say that the equation is approaching -3  from the left and the right an
 
 example : 
 $$
- \lim_{ x \to -4 }   
+ \lim_{ x \to -4 }  \frac{5x}{-4\mid x+ 4 \mid }  
+ 
 $$
 
+$$
+\mid x+5 \mid  \implies  \{\begin{array}{l} \\
+x + 5  \implies   x   +  5 > 0 ( x > -5) \\
+-(x + 5 )  \implies  x + 5 < 0 ( x < -5) 
+\end{array}
+$$
