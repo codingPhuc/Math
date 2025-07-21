@@ -44,10 +44,10 @@ $$
 
 $$
 \mid x+5 \mid  \implies  \{\begin{array}{l} \\
-
+x + 5  \implies   x   +  5 > 0 ( x > -5) \\
+-(x + 5 )  \implies  x + 5 < 0 ( x < -5) 
 \end{array}
 $$
-
 
 $$
 \begin{array}{l} \\
