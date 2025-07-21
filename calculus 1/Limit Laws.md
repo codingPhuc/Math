@@ -104,7 +104,12 @@ $$
 ```
 
 
-example   suppose $\lim_{ x \to 7 }f(x) =30$  and $\lim_{ x \to 7 }g(x)=2$ what is $\frac{\lim_{ x \to 7 }f(x)}{-3g(x)}$
+example   suppose $\lim_{ x \to 7 }f(x) =30$  and $\lim_{ x \to 7 }g(x)=2$ what is $\lim_{ x \to 7 }\frac{f(x)}{-3g(x)}$
+
+$$
+\lim_{ x \to 7 }\frac{f(x)}{-3g(x)}  =  \frac{30}{-3 \cdot 2} 
+$$
+
 
 by plugging  in number for this  function we are using limit law 
 
@@ -117,7 +122,7 @@ $$
 \lim_{ n \to a }[f(x) - g(x )]   = \lim_{ n \to a }f(x)   -   \lim_{ n \to a }g(x)   
 $$
 $$
-\lim_{ n \to a }[cf(x)]   = c 
+\lim_{ n \to a }[cf(x)]   = c \lim_{ x \to a }  f(x)
 $$
 $$
 \lim_{ n \to a }[f(x) + g(x )]   = 
