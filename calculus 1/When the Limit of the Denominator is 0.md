@@ -13,4 +13,7 @@ $$
 $$
 provided  that $g(x)\neq 0$ 
 what if lim g(x)  = 0 
-either one of these case
+either one of these cases : 
+1. lim f(x)  = 0 and lim g(x)  =0  
+2. lim g(x) = 0 
+
