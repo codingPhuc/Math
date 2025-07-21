@@ -51,8 +51,10 @@ $$
 
 
 suppose that we have 3 function  $$
-f(x)  g( x) h(x )
+f(x) , g( x) , h(x )
 $$
 limit only care about x value near a (not for x = a ) suppose 
+
+
 
 
