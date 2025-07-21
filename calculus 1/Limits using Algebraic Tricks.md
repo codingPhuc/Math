@@ -8,16 +8,17 @@ Current date: 2025-07-21
 amount of time: "30"
 learning score:
 ---
-#definition  
+# #definition  
 we will compute a bunch of limit using algebraic tricks  
 all of the limit here are in the form $\frac{0}{0}$ form $\lim_{ x \to a }\frac{f(x)}{g(x)}$where f(x)  = 0 and g(x) = 0 
 
-
+## simplifying limit  
 $$
 \lim_{ x \to 1 } \frac{x^3-1}{x^2  -1 } = \lim_{ x \to 1 } \frac{(x-1) (x^2 + x +1)  }{(x - 1) (x + 1)}   = \lim_{ x \to 1 }  \frac{x^2 + x +1}{x + 1}  = \frac{3}{2}
 $$
 
 simplifying the limit  help with plugging in the value 
 
-
-
+$$
+\lim_{ z \to 0 }   \frac{(5-z)^2}{}
+$$
