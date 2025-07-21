@@ -43,6 +43,13 @@ $$
 ## limit using absolute value 
 
 $$
+\mid x+5 \mid  \implies  \{\begin{array}{l} \\
+
+\end{array}
+$$
+
+
+$$
 \begin{array}{l} \\
 \lim_{  x \to -5^- }    
   \frac{2x+ 10}{ \mid x+ 5 \mid }  \\
