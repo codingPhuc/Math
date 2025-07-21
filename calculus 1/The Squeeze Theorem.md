@@ -59,8 +59,9 @@ limit only care about x value near a (not for x = a ) suppose
 
 
 $$
-\text{ Find }  \lim_{ x \to 0 }  \sin (1) 
+\text{ Find }  \lim_{ x \to 0 }  \sin \left( \frac{1}{x} \right) 
 $$
+
 
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -94,4 +95,8 @@ $$
 
 
 
+it is tempting to used the product rule where 
+$$
+ \lim_{ x \to 0 }  \sin \left( \frac{1}{x} \right)  
+$$
 
