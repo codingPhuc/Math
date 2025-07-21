@@ -68,4 +68,10 @@ $$
 \end{array}
 
 $$
- $\lim_{ x \to 1 } \frac{x^3-1}{x^2  -1 } \xrightarrow{\text{}}\text{factor}$ 
+ $$
+ \begin{array}{l} \\
+ \lim_{ x \to 1 } \frac{x^3-1}{x^2  -1 } \xrightarrow{\text{}}\text{factor}  \\
+ \lim_{ x \to 0 } \frac{(5  -z)^2}{x^2  -1 } \xrightarrow{\text{}}\text{factor}
+\end{array}
+
+ $$
