@@ -122,13 +122,13 @@ $$
 \lim_{ n \to a }[f(x) - g(x )]   = \lim_{ n \to a }f(x)   -   \lim_{ n \to a }g(x)   
 $$
 $$
-\lim_{ n \to a }[cf(x)]   = c  \lim_{ x \to a } 
+\lim_{ n \to a }[cf(x)]   = c  \lim_{ x \to a } f(x)
 $$
 $$
-\lim_{ n \to a }[f(x) + g(x )]   = 
+\lim_{ n \to a }[f(x) + g(x )]   =  \lim_{ x \to a } F(x) \cdot \lim_{ x \to  a }  g(x)
 $$
 $$
-\lim_{ n \to a }[f(x) + g(x )]   = 
+\lim_{ n \to a } \frac{f(x)}{g(x )}  =  
 $$
 
 find the vertical asymptotes and horizontal asymptotes and holes 
