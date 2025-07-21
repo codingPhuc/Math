@@ -13,3 +13,6 @@ we will compute a bunch of limit using algebraic tricks
 all of the limit here are in the form $\frac{0}{0}$ form $\lim_{ x \to a }\frac{f(x)}{g(x)}$where f(x)  = 0 and g(x) = 0 
 
 
+$$
+\lim_{ x \to 1 } \frac{x^3-1}{x^2  -1 } = \lim_{ x \to 1 } \frac{ x - 1  }{}
+$$ 
