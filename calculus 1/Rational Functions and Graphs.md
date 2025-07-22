@@ -54,6 +54,7 @@ how is the graph of this function $h(x)$ different from the graph of polynomial
 
 what is the end behavior of the graph 
 horizontal asymptote at y = 3  
+for horizontal asymptote we need to find the higest
 $$
 h(x) 
 $$
@@ -66,7 +67,8 @@ $$
 $$
 
 what is going on at x = 2  ? hole at x = 2   
-the hole appear in the pure non simplify version o
+the hole appear in the pure non simplify version of the original equation 
 $$
 \frac{3(x -2) (x  + 2)}{(x + 5)(x  -2)}  \implies x  \neq 2 
 $$
+
