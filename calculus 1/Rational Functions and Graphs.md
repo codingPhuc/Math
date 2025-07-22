@@ -81,3 +81,5 @@ finding the horizontal asymptote :
 2. cross the highest power variable out in both the numerator and denominator 
 finding the vertical asymptote : 
 3. simplify the equation to it lowest form, then find the point where the denominator = 0 
+hole : 
+4. where the denominator and numerator factor before factoring out 
