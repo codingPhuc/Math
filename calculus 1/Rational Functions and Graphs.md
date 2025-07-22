@@ -36,8 +36,8 @@ graph of the function $h(x) = \frac{3x^2 - 12}{x^2 + 3x  -10}$
     }
 
     % Text annotations  
-    \fill (1, 1) circle (2pt) node[above right] {$(1, 1) $};
-    \fill[red] (1, 3) circle (2pt) node[above right] {$(1, 3)$};
+    \fill (2, 2) circle (2pt) node[above right] {$(2, 2) $};
+   
 
 \draw[thick, blue, domain=-3:1.99, smooth] 
     plot (\x, {(3*(\x)^2 - 12)/((\x)^2 + 3*\x - 10)});
@@ -49,4 +49,6 @@ graph of the function $h(x) = \frac{3x^2 - 12}{x^2 + 3x  -10}$
 \end{tikzpicture}
 \end{document}
 ``` 
+
+how is the graph of this function $h(x)$ different from the graph of polynomial 
 
