@@ -54,6 +54,9 @@ how is the graph of this function $h(x)$ different from the graph of polynomial
 
 what is the end behavior of the graph 
 horizontal asymptote at y = 3  
+$$
+h(x) 
+$$
 
 what is the behavior of the graph of this function h(x) near  x = -5 
 vertical asymptote  at x = -5 
