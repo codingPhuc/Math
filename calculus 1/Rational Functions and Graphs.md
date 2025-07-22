@@ -53,10 +53,10 @@ graph of the function $h(x) = \frac{3x^2 - 12}{x^2 + 3x  -10}$
 how is the graph of this function $h(x)$ different from the graph of polynomial 
 
 what is the end behavior of the graph 
-horizontal asymptote at y = 3  
-for horizontal asymptote we need to find the higest
+horizontal asymptote at y = 3
+for horizontal asymptote we need to find the highest power variables numerator and denominator in the function 
 $$
-h(x) 
+h(x)  =   \frac{3x^2 - 12}{x^2 + 3x  -10}   = 
 $$
 
 what is the behavior of the graph of this function h(x) near  x = -5 
