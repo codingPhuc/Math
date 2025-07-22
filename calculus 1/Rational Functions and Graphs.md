@@ -89,5 +89,5 @@ hole :
 ## different equation outcome 
 where the degree in the numerator > denominator : 
 $$
-f(x) =  \frac{5x + 4}{}
+f(x) =  \frac{5x + 4}{3x^2 + 5x  - 7}  = \frac{5}{3x} \implies 
 $$
