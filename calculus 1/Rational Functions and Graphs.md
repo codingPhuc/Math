@@ -39,10 +39,10 @@ graph of the function $h(x) = \frac{3x^2 - 12}{x^2 + 3x  -10}$
     \fill (1, 1) circle (2pt) node[above right] {$(1, 1) $};
     \fill[red] (1, 3) circle (2pt) node[above right] {$(1, 3)$};
 
-\draw[thick, blue, domain=0:1.99, smooth] 
+\draw[thick, blue, domain=-3:1.99, smooth] 
     plot (\x, {(3*(\x)^2 - 12)/((\x)^2 + 3*\x - 10)});
 
-\draw[thick, blue, domain=2.01:3, smooth] 
+\draw[thick, blue, domain=2.01:10, smooth] 
     plot (\x, {(3*(\x)^2 - 12)/((\x)^2 + 3*\x - 10)});
 
 
