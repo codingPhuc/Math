@@ -79,4 +79,5 @@ $$
 finding the horizontal asymptote : 
 1. factor out the highest power variable 
 2. cross the highest power variable out in both the numerator and denominator 
-find 
+finding the vertical asymptote : 
+3. simplify the equation to it lowest form, then find the point where the denominator = 0 
