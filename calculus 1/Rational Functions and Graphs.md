@@ -52,3 +52,7 @@ graph of the function $h(x) = \frac{3x^2 - 12}{x^2 + 3x  -10}$
 
 how is the graph of this function $h(x)$ different from the graph of polynomial 
 
+what is the end behvior of the graph 
+horizontal asymptote at y = 3  
+
+what is the beahvior of the graph of this function h(x) near  x = -5 
