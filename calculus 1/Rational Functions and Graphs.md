@@ -9,4 +9,7 @@ amount of time:
 learning score:
 ---
 
-we written as rational is written as ratio of 2 polunomia 
+we written as rational is written as ratio of 2 polynomial 
+$$
+f(x ) = \frac{P(x)}{Q(x) }  
+$$
