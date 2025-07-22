@@ -9,8 +9,10 @@ amount of time:
 learning score:
 ---
 $$
-y = mx + 
+y = mx + b
 $$
+where m is the slope of the line  
+b is the y-intercept of the line
 
 $$
 \text{ slope }  = \frac{rise}{sum} = \frac{y}{x}   = \frac{y_{2}-y_{1}}{x_{2}-x_{1}}
@@ -47,3 +49,6 @@ $$
 \end{tikzpicture}
 \end{document}
 ``` 
+
+## find the equation of these lines 
+
