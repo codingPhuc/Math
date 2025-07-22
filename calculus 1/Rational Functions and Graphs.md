@@ -86,4 +86,8 @@ hole :
 
 
 
-## differ
+## different equation outcome 
+where the degree in the numerator > denominator : 
+$$
+f(x) =  \frac{5x + 4}{}
+$$
