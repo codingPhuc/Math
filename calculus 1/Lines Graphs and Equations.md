@@ -92,4 +92,7 @@ x = -2
 
 
 
-Find the equation of the line through the point (1,2) and (4,03)
+Find the equation of the line through the point (1,2) and (4,-3)
+$$
+m  = \frac{y_{2}-y_{1}}{x_{2}-x_{1}}   = \frac{-3-2}{-4-1}  = -\frac{5}{3}
+$$
