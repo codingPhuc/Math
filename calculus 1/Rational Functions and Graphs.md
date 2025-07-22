@@ -36,7 +36,7 @@ graph of the function $h(x) = \frac{3x^2 - 12}{x^2 + 3x  -10}$
     }
 
     % Text annotations  
-    \fill (2, 2) circle (2pt) node[above right] {$(2, 2) $};
+    \fill (2, 4/3) circle (2pt) node[above right] {$(2, 2) $};
    
 
 \draw[thick, blue, domain=-3:1.99, smooth] 
