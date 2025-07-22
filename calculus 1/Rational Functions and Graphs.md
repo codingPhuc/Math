@@ -41,7 +41,7 @@ graph of the function $h(x) = \frac{3x^2 - 12}{x^2 + 3x  -10}$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:3, smooth] plot (\x, {\frac{3\x^2 - 12}{x^2 + 3x  -10}});
+    \draw[thick, blue, domain=0:3, smooth] plot (\x, {\frac{{(\x)^2 + 3*\x  -10} 3(\x)^2 - 12 });
 
 \end{tikzpicture}
 \end{document}
