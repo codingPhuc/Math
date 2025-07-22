@@ -60,6 +60,9 @@ $$
 
 what is the behavior of the graph of this function h(x) near  x = -5 
 vertical asymptote  at x = -5 
-the vertical asymptote is located by simpl
+the vertical asymptote is located by simplifying the expression to it fundamental level. 
+$$
+  h(x) = \frac{3x^2 - 12}{x^2 + 3x  -10} = \frac{3(x -2) (x  + 2)}{(x + 5)(x  -2)}    =  
+$$
 
 what is going on at x = 2  ? hole at x = 2 
