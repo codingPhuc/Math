@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Graphs and Limits.md",
+                "file": "calculus 1/Limit Laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphs and Limits"
+              "title": "Limit Laws"
             }
           },
           {
@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/The Squeeze Theorem.md",
+                "file": "Math note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Squeeze Theorem"
+              "title": "Math note"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Graphs and Limits.md",
+                "file": "Math note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Graphs and Limits"
+              "title": "Outline of Math note"
             }
           }
         ],
@@ -295,24 +295,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56951fb26ce0d245",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
-    "calculus 1/Lines Graphs and Equations.md",
+    "python with math.md",
     "calculus 1/The Squeeze Theorem.md",
+    "calculus 1/Limit Laws.md",
+    "calculus 1/Difference Quotient.md",
+    "calculus 1/example.md",
+    "calculus 1/Graphs and Limits.md",
+    "calculus 1/Lines Graphs and Equations.md",
     "calculus 1/Rational Functions and Graphs.md",
     "calculus 1/Rational Expressions.md",
     "calculus 1/Limits using Algebraic Tricks.md",
     "calculus 1/When the Limit of the Denominator is 0.md",
-    "calculus 1/Limit Laws.md",
     "calculus 1/When Limits Fail to Exist.md",
     "Paul Online note/algebra/Section 3.5  Graphing Functions.md",
     "picture/Pasted image 20250721130119.png",
     "Paul Online note/algebra/Section 2.11  Linear Inequalities.md",
     "Paul Online note/algebra/Section 2.9  Equations Reducible to Quadratic in Form.md",
     "calculus 1/Calculus 12 hour course.md",
-    "calculus 1/Difference Quotient.md",
-    "calculus 1/example.md",
-    "calculus 1/Graphs and Limits.md",
     "Math note.md",
     "Linear algebra.md",
     "How to factor and solve fourth degree polynomial.md",
@@ -325,7 +326,6 @@
     "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
     "Paul Online note/algebra/Section 2.14 Absolute Value Equations.md",
     "Paul Online note/algebra/Section 5.1  Dividing Polynomials.md",
-    "Paul Online note/algebra/Section 4.8  Rational Functions.md",
     "calculus 1",
     "Paul Online note/algebra",
     "Untitled",

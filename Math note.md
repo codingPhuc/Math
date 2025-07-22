@@ -35,7 +35,7 @@ learning score:
 | ∀      | "For all,multiple alleles"       | ∀x∈R,x2≥0∀x ∈ \mathbb{R}, x^2 ≥ 0                      |
 | ∃      | "There exists"                   | ∃x∈R,x2=4∃x ∈ \mathbb{R}, x^2 = 4                      |
 | ->     | "become"                         |                                                        |
-| ...    | "sequence"                       |                                                        |
+| ...    | "sequence,continoues"            |                                                        |
 | ÷      | "seperate"                       |                                                        |
 | {}     | "order orientation"              |                                                        |
 | >>     | "domination marksing overshadow" |                                                        |
