@@ -85,3 +85,11 @@ $$
 horizontal line 
 y = mx+ 6 
 y = b  
+m  = 0 
+y = 3.5 
+vertical line 
+x = -2 
+
+
+
+Find the equation of the line through the point (1,2) and (4,03)
