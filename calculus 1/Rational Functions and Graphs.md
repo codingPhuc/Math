@@ -99,5 +99,6 @@ $$
 usually result in the real number 
 degree numerator > denominator  
 $$
-h(x) =  \frac{x^2+ 4x  -5}{ }  = \frac{5}{3x} \implies 0
+h(x) =  \frac{x^2+ 4x  -5}{ 2x -1}  = \frac{x}{2} \implies +\infty|| -\infty bases
 $$
+no H.A 
