@@ -104,3 +104,8 @@ $$
 no H.A  
 
 
+#todo  
+find the all the elements  in 
+$$
+q(x) =  \frac{3x^2+ 3x}{}
+$$
