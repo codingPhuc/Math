@@ -87,7 +87,7 @@ hole :
 
 
 ## different equation outcome 
-where the degree in the numerator > denominator : 
+where the degree in the numerator < denominator : 
 $$
 f(x) =  \frac{5x + 4}{3x^2 + 5x  - 7}  = \frac{5}{3x} \implies 0
 $$
@@ -97,4 +97,7 @@ $$
 g(x) = \frac{2x^3}{3x^3} =  \frac{2}{3}
 $$
 usually result in the real number 
-degree 
+degree numerator > denominator  
+$$
+h(x) =  \frac{x^2+ 4x  -5}{ }  = \frac{5}{3x} \implies 0
+$$
