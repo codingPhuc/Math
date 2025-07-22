@@ -31,8 +31,8 @@ $$
     }
 
     % Text annotations  
-    \fill (1, 1) circle (2pt) node[above right] {$(1, 1) $};
-    \fill[red] (1, 3) circle (2pt) node[above right] {$(1, 3)$};
+    \fill (1, 2) circle (2pt) node[above right] {$(1, 2) $};
+    \fill[red] (5, -1) circle (2pt) node[above right] {$(5, -1)$};
 
 
     % Draw the parabola
