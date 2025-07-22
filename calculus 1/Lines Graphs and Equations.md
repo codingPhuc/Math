@@ -60,11 +60,17 @@ $$
 
 \begin{tikzpicture}
   % Grid
-  \draw[very thin, gray!30] (-4,-4) grid (4,6);
+
     \draw[->] (-7,0) -- (7,0) node[right] {};
     \draw[->] (0,-7) -- (0,7) node[right] {};
+  % Axes
 
-
+  \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
   % Horizontal line at y=4
   \draw[blue, thick, ->] (-4,4) -- (4,4);
   \draw[blue, thick, <-] (-4,4) -- (-2.1,4);
@@ -76,3 +82,6 @@ $$
 
 \end{document}
 ```
+horizontal line 
+y = mx+ 6 
+y = b  
