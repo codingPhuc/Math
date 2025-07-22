@@ -36,11 +36,9 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=0:3, smooth] plot (\x, {3*(\x)^2 -4*\x +5});
-    \draw[thick, red, domain=0:3, smooth]  plot (\x, {4* sqrt(\x)});  
-\draw[thick, blue, domain=0:3, smooth] 
-  plot (\x, {10  \x +}) 
-  node[pos=0.5, below] {y =  g(x)};
+\draw[thick, green, domain=0:6, smooth] 
+  plot (\x, {-3/4*\x + 11/4}) 
+ ;
 
 \end{tikzpicture}
 \end{document}
