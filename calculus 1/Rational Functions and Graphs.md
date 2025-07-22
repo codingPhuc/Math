@@ -91,4 +91,10 @@ where the degree in the numerator > denominator :
 $$
 f(x) =  \frac{5x + 4}{3x^2 + 5x  - 7}  = \frac{5}{3x} \implies 0
 $$
-there for we will have a H.A at f()
+there for we will have a H.A at f(x)  = 0 
+where the degree in the numerator  = denominator : 
+$$
+g(x) = \frac{2x^3}{3x^3} =  \frac{2}{3}
+$$
+usually result in the real number 
+degree 
