@@ -85,3 +85,5 @@ hole :
 4. where the denominator = 0, before  canceling the common factor in the denominator and numerator
 
 
+
+## differ
