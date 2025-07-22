@@ -61,10 +61,9 @@ $$
 \begin{tikzpicture}
   % Grid
   \draw[very thin, gray!30] (-4,-4) grid (4,6);
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
 
-  % Axes
-  \draw[->, thick] (-4,0) -- (4.2,0); % x-axis
-  \draw[->, thick] (0,-4) -- (0,6.2); % y-axis
 
   % Horizontal line at y=4
   \draw[blue, thick, ->] (-4,4) -- (4,4);
@@ -76,3 +75,4 @@ $$
 \end{tikzpicture}
 
 \end{document}
+```
