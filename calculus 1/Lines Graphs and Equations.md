@@ -104,4 +104,4 @@ method 1
 2. used one point slope to find b 
 3. finish the equation by filling in result 
 method 2 :
-4. $y$
+4. $y-y_{0}=m(x-x_{0})$ where $(x_{0},y_{0})$ if 
