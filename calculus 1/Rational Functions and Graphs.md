@@ -82,4 +82,6 @@ finding the horizontal asymptote :
 finding the vertical asymptote : 
 3. simplify the equation to it lowest form, then find the point where the denominator = 0 
 hole : 
-4. before  canceling the common factor in the denominator and numerator 
+4. where the denominator = 0, before  canceling the common factor in the denominator and numerator
+
+
