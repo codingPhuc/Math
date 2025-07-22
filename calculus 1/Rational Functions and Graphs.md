@@ -75,3 +75,8 @@ $$
 
 
 ## step to finding each elements in the function 
+
+finding the horizontal asymptote : 
+1. factor out the highest power variable 
+2. cross the highest power variable out in both the numerator and denominator 
+find 
