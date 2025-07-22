@@ -107,5 +107,5 @@ no H.A
 #todo  
 find the all the elements  in 
 $$
-q(x) =  \frac{3x^2+ 3x}{}
+q(x) =  \frac{3x^2+ 3x}{2x^3   + 5x^2  - 3x}
 $$
