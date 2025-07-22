@@ -99,4 +99,9 @@ $$
 
 #todo 
 Find the equation of the line through $(1,2)\cap(4,-3)$ 
-method 1
+method 1 
+1. find the slope of the line 
+2. used one point slope to find b 
+3. finish the equation by filling in result 
+method 2 :
+4. $y$
