@@ -51,4 +51,28 @@ $$
 ``` 
 
 ## find the equation of these lines 
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
 
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}
+  % Grid
+  \draw[very thin, gray!30] (-4,-4) grid (4,6);
+
+  % Axes
+  \draw[->, thick] (-4,0) -- (4.2,0); % x-axis
+  \draw[->, thick] (0,-4) -- (0,6.2); % y-axis
+
+  % Horizontal line at y=4
+  \draw[blue, thick, ->] (-4,4) -- (4,4);
+  \draw[blue, thick, <-] (-4,4) -- (-2.1,4);
+
+  % Vertical dashed line at x = -2
+  \draw[blue, thick, dashed, ->] (-2,-4) -- (-2,6);
+  \draw[blue, thick, dashed, <-] (-2,-4) -- (-2,-3.9);
+\end{tikzpicture}
+
+\end{document}
