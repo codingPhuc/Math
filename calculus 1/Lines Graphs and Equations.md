@@ -8,3 +8,6 @@ Current date: "2025-07-21"
 amount of time: 
 learning score:
 ---
+$$
+\text{ slope }  = \frac{rise}{sum} =
+$$
