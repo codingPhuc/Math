@@ -9,6 +9,10 @@ amount of time:
 learning score:
 ---
 $$
+y = mx + 
+$$
+
+$$
 \text{ slope }  = \frac{rise}{sum} = \frac{y}{x}   = \frac{y_{2}-y_{1}}{x_{2}-x_{1}}
 $$
 ```tikz
