@@ -99,6 +99,8 @@ $$
 usually result in the real number 
 degree numerator > denominator  
 $$
-h(x) =  \frac{x^2+ 4x  -5}{ 2x -1}  = \frac{x}{2} \implies +\infty|| -\infty bases
+h(x) =  \frac{x^2+ 4x  -5}{ 2x -1}  = \frac{x}{2} \implies +\infty|| -\infty \text{ bases on if }   x\xrightarrow{\text{}}\infty^+ || x\xrightarrow{\text{}} \infty^-
 $$
-no H.A 
+no H.A  
+
+
