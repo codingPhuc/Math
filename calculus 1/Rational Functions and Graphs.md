@@ -13,3 +13,5 @@ we written as rational is written as ratio of 2 polynomial
 $$
 f(x ) = \frac{P(x)}{Q(x) }  
 $$
+
+graph of the function $h(x)$
