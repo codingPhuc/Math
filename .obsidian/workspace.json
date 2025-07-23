@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Limits using Algebraic Tricks.md",
+                "file": "calculus 1/Rational Functions and Graphs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Limits using Algebraic Tricks"
+              "title": "Rational Functions and Graphs"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Limits using Algebraic Tricks.md",
+                "file": "calculus 1/Rational Functions and Graphs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Limits using Algebraic Tricks"
+              "title": "Outline of Rational Functions and Graphs"
             }
           }
         ],
@@ -297,13 +297,13 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "calculus 1/Graphs and Limits.md",
+    "calculus 1/Limit Laws.md",
+    "calculus 1/Limits using Algebraic Tricks.md",
     "calculus 1/Lines Graphs and Equations.md",
     "calculus 1/Rational Functions and Graphs.md",
     "calculus 1/The Squeeze Theorem.md",
     "calculus 1/Rational Expressions.md",
-    "calculus 1/Limits using Algebraic Tricks.md",
-    "calculus 1/Limit Laws.md",
-    "calculus 1/Graphs and Limits.md",
     "calculus 1/Difference Quotient.md",
     "calculus 1/example.md",
     "calculus 1/When Limits Fail to Exist.md",
