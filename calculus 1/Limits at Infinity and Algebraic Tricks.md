@@ -79,5 +79,5 @@ $\lim_{ x \to \infty }2x^3  - 11x^2 + 12x\xrightarrow{\text{}} \infty$
 
 polynomial of  a limit will result in : 
 $$
-\lim_{ x \to \infty } \frac{5x^2 -4x}{2x^3  - 11x^2 + 12x}     = \frac{\infty}{}
+\lim_{ x \to \infty } \frac{5x^2 -4x}{2x^3  - 11x^2 + 12x}     = \frac{\infty}{\infty}   \xrightarrow{\text{}} \text{ indeterminate form}
 $$
