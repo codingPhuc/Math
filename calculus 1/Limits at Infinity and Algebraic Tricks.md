@@ -97,3 +97,10 @@ here we used algebraic trick in order to factor the form to the lowest form poss
 
 
 
+$$
+\begin{array}{l} \\
+\lim_{ x \to \infty } \frac{2x^3  3x^2 + 6x^2 + 10x +2}{2x^3 + x^2 +  5 }    \\
+\lim_{ x \to \infty } \frac{2x^3  3x^2 + 6x^2 + 10x +2}{2x^3 + x^2 +  5 }    \\
+\end{array}      
+
+$$
