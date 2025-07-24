@@ -85,4 +85,5 @@ $$
 
 ##  step to solving indeterminate form 
 
-factor out the highest power x 
+factor out the highest power x in the numerator and the denominator:
+
