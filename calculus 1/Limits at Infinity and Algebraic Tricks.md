@@ -124,9 +124,9 @@ $$
 $$
 degree numerator == denominator :
 $$
-\lim_{  x \to \infty   } ||  \lim_{  x \to - \infty   }  =\text{ que} 
+\lim_{  x \to \infty   } ||  \lim_{  x \to - \infty   }  =\text{ quotient from division term} 
 $$
 degree number > denominator  : 
 $$
-\lim_{  x \to \infty   } ||  \lim_{  x \to - \infty   }  =0 
+\lim_{  x \to \infty   } ||  \lim_{  x \to - \infty   }  = +\infty  || - \infty
 $$
