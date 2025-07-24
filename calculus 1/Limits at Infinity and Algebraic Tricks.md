@@ -115,4 +115,5 @@ $$
  \lim_{ x \to -\infty } x^2 \frac{1}{-5} = -\infty 
 \end{array}      
 $$
-here the same logic apply since the number
+
+
