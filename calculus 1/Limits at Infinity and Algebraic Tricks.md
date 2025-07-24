@@ -89,7 +89,8 @@ factor out the highest power x in the numerator and the denominator:
 $$
 \begin{array}{l} \\
 \lim_{ x \to \infty } \frac{5x^2 -4x}{2x^3  - 11x^2 + 12x}    \\
-= \lim_{ x  \to \infty }  \frac{x^2 \left( 5 -\frac{4}{x} \right)}{}  
-\end{array}
+= \lim_{ x  \to \infty }  \frac{x^2 \left( 5 -\frac{4}{x} \right)}{x^3 \left( 2  - \frac{11}{x} + \frac{12}{x^2} \right)}   \\
+= \lim_{ x \to \infty } \frac{1}{x }  \frac{5}{2  }   =  0 
+\end{array}      
 
 $$
