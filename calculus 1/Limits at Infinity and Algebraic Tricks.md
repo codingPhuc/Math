@@ -85,7 +85,6 @@ $$this equation can turn out to be anything, so we need an aglebraric trick into
 ##  step to solving indeterminate form 
 
 factor out the highest power x in the numerator and the denominator:
-
 $$
 \begin{array}{l} \\
 \lim_{ x \to \infty } \frac{5x^2 -4x}{2x^3  - 11x^2 + 12x}    \\
@@ -94,4 +93,7 @@ $$
 \end{array}      
 
 $$
-here we used algebraic trick in order to factor the form to 
+here we used algebraic trick in order to factor the form to the lowest form possible so that limit can be apply resulting in answer instead of a indeterminate form 
+
+
+
