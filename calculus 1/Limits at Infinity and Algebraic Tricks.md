@@ -130,3 +130,8 @@ degree number > denominator  :
 $$
 \lim_{  x \to \infty   } ||  \lim_{  x \to - \infty   }  = +\infty  || - \infty
 $$
+
+## summary 
+1. factor at highest power terms 
+2. degree of num and denominator, highest power terms 
+3. 
