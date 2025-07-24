@@ -111,6 +111,8 @@ this is the cases where the denominator and numerator have the same highest powe
 $$
 \begin{array}{l} \\
 \lim_{ x \to -\infty } \frac{x^4  -3x^2 + 6 }{-5x^2 +x + 2 }    \\
-\lim_{ x \to -\infty } \frac{x^4  \left( 1  -\frac{3}{x^2} + \frac{6}{x^4} \right) }{x^2 \left( -5 +\frac{1}{x} + \frac{2}{x^2} \right) }  
+\lim_{ x \to -\infty } \frac{x^4  \left( 1  -\frac{3}{x^2} + \frac{6}{x^4} \right) }{x^2 \left( -5 +\frac{1}{x} + \frac{2}{x^2} \right) }  \\
+ \lim_{ x \to -\infty } x^2 \frac{1}{-5} = -\infty 
 \end{array}      
 $$
+here the same logic apply since the number
