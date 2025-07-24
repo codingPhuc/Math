@@ -117,3 +117,9 @@ $$
 $$
 
 
+so bases on all the example we can concluded that : 
+the degree numerator < denominator 
+
+degree numerator == denominator 
+
+degree number > denominator 
