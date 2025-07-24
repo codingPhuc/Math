@@ -110,8 +110,7 @@ this is the cases where the denominator and numerator have the same highest powe
 
 $$
 \begin{array}{l} \\
-\lim_{ x \to -\infty } \frac{2x^3  3x^2 + 6x^2 + 10x +2}{2x^3 + x^2 +  5 }    \\
-\lim_{ x \to \infty } \frac{x^3\left( 3 + \frac{6}{x} + 10x + 2 \right)}{x^3\left( 2+ \frac{1}{x } \frac{5}{x^3} \right) }    \\
-\lim_{ x \to \infty }  \frac{3}{2}   =  \frac{3}{2}\\
+\lim_{ x \to -\infty } \frac{x^4  -3x^2 + 6 }{-5x^2 +x + 2 }    \\
+\lim_{ x \to -\infty } \frac{x^4  -3x^2 + 6 }{-5x^2 +x + 2 }  
 \end{array}      
 $$
