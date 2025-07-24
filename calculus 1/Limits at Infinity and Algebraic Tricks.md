@@ -13,7 +13,7 @@ $$
 \lim_{ x \to \infty } \frac{5x^2 -4x}{2x^3  - 11x^2 + 12x}    
 $$
 
-$5x^2 -4x$ will result in the following : 
+$5x^2 -4x$ will result in the following :  so  
  
 ```tikz
 \usepackage{amsmath,amssymb}
@@ -45,3 +45,4 @@ $5x^2 -4x$ will result in the following :
 ``` 
 
 
+$\lim_{ x \to \infty }5x^2 -4x\xrightarrow{\text{}} \infty$
