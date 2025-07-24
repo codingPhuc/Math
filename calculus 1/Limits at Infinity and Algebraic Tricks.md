@@ -94,4 +94,4 @@ $$
 \end{array}      
 
 $$
-here we used alg
+here we used algebraic trick in order to factor the form to 
