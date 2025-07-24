@@ -36,11 +36,12 @@ $5x^2 -4x$ will result in the following :
 
     % Text annotations  
     % Draw the parabola
-    \draw[thick, blue, domain=-6:6, smooth] plot (\x, 4);
+    \draw[thick, blue, domain=-1:4, smooth] plot (\x, {5(\x)^2 -4*\x});
  
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
+
 
