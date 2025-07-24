@@ -118,8 +118,15 @@ $$
 
 
 so bases on all the example we can concluded that : 
-the degree numerator < denominator 
-
-degree numerator == denominator 
-
-degree number > denominator 
+the degree numerator < denominator  : 
+$$
+\lim_{  x \to \infty   } ||  \lim_{  x \to - \infty   }  =0 
+$$
+degree numerator == denominator :
+$$
+\lim_{  x \to \infty   } ||  \lim_{  x \to - \infty   }  =\text{ que} 
+$$
+degree number > denominator  : 
+$$
+\lim_{  x \to \infty   } ||  \lim_{  x \to - \infty   }  =0 
+$$
