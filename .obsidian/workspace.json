@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "23eb0798764ae9a3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "picture/2.5.2 Intermediate Value Theorem 2025-07-25 14.28.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2.5.2 Intermediate Value Theorem 2025-07-25 14.28.05.excalidraw"
+            }
+          },
+          {
             "id": "890439e7289bc1ef",
             "type": "leaf",
             "state": {
@@ -301,9 +313,10 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "picture/2.5.2 Intermediate Value Theorem 2025-07-25 14.28.05.excalidraw.md",
+    "calculus 1/2.5.2 Intermediate Value Theorem.md",
     "calculus 1/2.5 Continuity on interval and continuous function.md",
     "calculus 1/2.5.1 Continuity.md",
-    "calculus 1/2.5.2 Intermediate Value Theorem.md",
     "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
     "calculus 1/2.6.1 limit at infinity and Graphs.md",
     "calculus 1/2.6.2 Limits at Infinity and Algebraic Tricks.md",
@@ -332,7 +345,6 @@
     "python with math.md",
     "Paul Online note/algebra/Section 3.5  Graphing Functions.md",
     "picture/Pasted image 20250721130119.png",
-    "Paul Online note/algebra/Section 2.11  Linear Inequalities.md",
     "picture/Pasted image 20250719165216.png",
     "picture/Pasted image 20250719165215.png",
     "calculus 1",
