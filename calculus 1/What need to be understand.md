@@ -9,4 +9,4 @@ amount of time:
 learning score:
 ---
 
-we say that  a function f(x) 
+what is continuous ?  why d
