@@ -25,10 +25,14 @@
             "id": "890439e7289bc1ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "calculus 1/2.5 Continuity on interval and continuous function.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2.5 Continuity on interval and continuous function"
             }
           }
         ]
@@ -297,10 +301,10 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
-    "calculus 1/2.5.2 Intermediate Value Theorem.md",
     "calculus 1/2.5 Continuity on interval and continuous function.md",
     "calculus 1/2.5.1 Continuity.md",
+    "calculus 1/2.5.2 Intermediate Value Theorem.md",
+    "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
     "calculus 1/2.6.1 limit at infinity and Graphs.md",
     "calculus 1/2.6.2 Limits at Infinity and Algebraic Tricks.md",
     "calculus 1/Calculus 12 hour course.md",
