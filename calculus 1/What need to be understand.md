@@ -11,3 +11,7 @@ learning score:
 #todo 
 what is continuous ?  
 when a limit approaching something what do we say from that ?
+(b,c] 
+[b,c)
+$[b, \infty)$
+continuous on the open end point of the interval and left right continuous on the close end point of the interval ? what does this mean does it mean that for open end point there need to be one interval while
