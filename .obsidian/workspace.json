@@ -291,11 +291,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "picture/Pasted image 20250725112624.png",
     "calculus 1/2.6.1 limit at infinity and Graphs.md",
     "calculus 1/2.6.2 Limits at Infinity and Algebraic Tricks.md",
     "calculus 1/2.5.1 Continuity.md",
@@ -324,7 +326,6 @@
     "Paul Online note/algebra/Section 2.9  Equations Reducible to Quadratic in Form.md",
     "calculus 1/Calculus 12 hour course.md",
     "Linear algebra.md",
-    "How to factor and solve fourth degree polynomial.md",
     "picture/Pasted image 20250719165216.png",
     "picture/Pasted image 20250719165215.png",
     "calculus 1",
