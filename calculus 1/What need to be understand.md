@@ -9,4 +9,5 @@ amount of time:
 learning score:
 ---
 
-what is continuous ?  why d
+what is continuous ?  
+when a limit approaching something what do we say from that ?
