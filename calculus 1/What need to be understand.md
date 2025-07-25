@@ -8,6 +8,6 @@ Current date: "2025-07-25"
 amount of time: 
 learning score:
 ---
-
+#todo 
 what is continuous ?  
 when a limit approaching something what do we say from that ?
