@@ -90,8 +90,9 @@ what goes wrong if compute sin 120 using right triangle
 
     \draw[->]  coordinate (C) (-2,0) -- (-3,3) node[right] {};
     % Draw tick marks and labels
-     \pic["$14^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = C--A--B} ;
- 
+%%      \pic["$14^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = C--A--B} ;
+  %% 
+ic["$14^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = C--A--B};
 \end{tikzpicture}
 \end{document}
 
