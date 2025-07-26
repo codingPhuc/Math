@@ -256,8 +256,8 @@ without  using a calculator fin  sin(30) and cos 30
   cycle;
     % Add angle at point A (between sides AC and AB)
 
-    \pic["$45^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = C--A--B} ;
-    \pic["$45^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = A--B--C};
+    \pic["$30^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = C--A--B} ;
+    \pic["$^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = A--B--C};
 
  
 \end{tikzpicture}
