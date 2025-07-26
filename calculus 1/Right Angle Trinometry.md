@@ -250,7 +250,7 @@ without  using a calculator fin  sin(30) and cos 30
   (0,0) coordinate (A) node[anchor=north]{$A$}
     -- node[midway, below]{$a$} %  bases 
   (4,0) coordinate (C) node[anchor=north]{$C$}
-    -- node[midway, right]{$a$} % hyp 
+    -- node[midway, right]{$1/2$} % hyp 
   (4,4) coordinate (B) node[anchor=south]{$B$}
     -- node[midway, above left]{$1$} %adj 
   cycle; 
@@ -274,3 +274,10 @@ without  using a calculator fin  sin(30) and cos 30
 \end{document}
 
 ```
+
+$$
+\begin{array}{l}  \\
+x^2   + \left( \frac{1}{2}  \right)^2  = 1   \\
+x^2  + \frac{1}{a^2   = \\
+\end{array}
+$$
