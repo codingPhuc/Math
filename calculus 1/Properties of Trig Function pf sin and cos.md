@@ -26,5 +26,9 @@ because $2n\pi$  mean that just n how many unit time the circle turn
 ![[Pasted image 20250726124712.png]]
 Example find  
 $$
-\cos 5\pi
+\begin{array}{l} \\
+\cos 5\pi  =  \cos( \pi + 4\pi )  = \cos \pi  =  1   \\
+\sin (-420) = \sin ( -360 -60 )  = \sin  
+\end{array}
+
 $$
