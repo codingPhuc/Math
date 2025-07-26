@@ -63,4 +63,32 @@ $$
 $$
 \cot \circ = \frac{1}{\tan \circ }  = \frac{1}{\frac{opp}{adj}}  = \frac{adj}{opp}  = \frac{b}{a} 
 $$
-find the exact value of all sic
+find the exact value of all six string function of angle $\circ$ in this right triangle  
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing, angles, quotes}
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+
+\draw (0,0) coordinate (A) node[anchor=north]{$1$}
+        -- node[midway, below]{B} 
+        (4,0) coordinate (C) node[anchor=north]{$2$}
+        -- node[midway, right]{5} 
+        (0,4) coordinate (B) node[anchor=south]{$3$}
+        -- node[midway, above left]{2} 
+        cycle;
+
+    % Add angle at point A (between sides AC and AB)
+    \pic["$50^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] 
+        {angle = B--C--A};
+
+ 
+\end{tikzpicture}
+\end{document}
+
+```
