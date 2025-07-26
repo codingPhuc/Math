@@ -20,4 +20,4 @@ $$
 \sin ( \circ -2\pi) =  \sin  \circ   \\
 \end{array}
 $$
-this is can be summarize as the equation 
+this is can be summarize as the equation :  $\cos(\circ +  2n)$
