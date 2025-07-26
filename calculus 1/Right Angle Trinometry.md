@@ -186,10 +186,9 @@ without using calculator find sin(45 ) adn cos 45  using right triangle with hyp
     -- node[midway, above left]{$1$} %adj
   cycle;
     % Add angle at point A (between sides AC and AB)
-    \pic["$50^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] 
-        {angle = B--C--A}
-        {angle = B--A--C}
-        {angle = B--B--};
+    \pic["$50^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = B--C--A};
+    \pic["$50^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = B--A--C} ;
+    \pic["$45^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = A--B--C};
 
  
 \end{tikzpicture}
