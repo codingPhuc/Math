@@ -51,5 +51,12 @@ $$
 why is does the equation of exit? 
 because $\tan(\circ) =  \frac{\sin(\circ)}{\cos(\circ)}$  
 $$
-\frac{\sin(\circ)}{\cos(\circ)}  =  \frac{\left( \frac{opp}{hyp} \right)}{\frac{adj}{hyp} }   =  
+\frac{\sin(\circ)}{\cos(\circ)}  =  \frac{\left( \frac{opp}{hyp} \right)}{\frac{adj}{hyp} }   =   \frac{opp}{adj} =  \frac{a}{b}
+$$
+
+$$
+ \sec \circ   = \frac{1}{\cos \circ} =  \frac{1}{\frac{adj}{hyp}}   = \frac{hyp}{adj} =  \frac{c}{b }
+$$
+$$
+ 
 $$
