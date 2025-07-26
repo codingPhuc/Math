@@ -19,12 +19,14 @@ learning score:
 
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
-  
+
+\draw (0,0) node[anchor=north]{$A$}
+  -- (4,0) node[anchor=north]{$C$}
+  -- (4,4) node[anchor=south]{$B$}
+  -- cycle;
 
     % Text annotations  
     % Draw the parabola
-    \draw[thick, blue, domain=-6:6, smooth] plot (\x, 4);
- 
 \end{tikzpicture}
 \end{document}
 
