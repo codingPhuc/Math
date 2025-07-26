@@ -15,6 +15,8 @@ $$
 \begin{array}{l} \\
 \cos  (\circ + 360^\circ )  = \cos \circ  \\
 \cos ( \circ -2\pi) =  \cos \circ   \\
-\sin (\circ  2 \pi)  = \sin \circ 
+\sin (\circ  + 2 \pi)  = \sin \circ  \\
+\sin  ( \circ  +  360^\circ ) =  \sin \circ   \\
+\sin ( \circ -2\pi) =  \cos \circ   \\
 \end{array}
 $$
