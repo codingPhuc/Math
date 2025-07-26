@@ -98,7 +98,9 @@ what goes wrong if compute sin 120 using right triangle
 
 ```
 
+there is  not way to compute  the triangle getting sin and cos 
 
 
 
-unit circle is a circle of radius 1  
+
+unit circle is a circle of radius 1  with larger and larger angle  and the top vertex  led out tot another area of the circle 
