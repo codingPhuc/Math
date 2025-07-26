@@ -39,4 +39,34 @@ $$
 \end{document}
 
 ```
-note up now   we have t
+note up now   we have define sin , cos  , tan in terms of right triables for example , to find  sin 14 
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing, angles, quotes}
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+
+
+
+\draw 
+  (0,0) coordinate (A) node[anchor=north]{$A$}
+    -- node[midway, below]{$a$} %  bases 
+  (4,0) coordinate (C) node[anchor=north]{$C$}
+    -- node[midway, right]{$a$} % hyp 
+  (4,4) coordinate (B) node[anchor=south]{$B$}
+    -- node[midway, above left]{$1$} %adj
+  cycle;
+    % Add angle at point A (between sides AC and AB)
+
+    \pic["$14^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = C--A--B} ;
+
+
+ 
+\end{tikzpicture}
+\end{document}
+
+```

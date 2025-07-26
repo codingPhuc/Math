@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/algebra/Section 4.8  Rational Functions.md",
+                "file": "calculus 1/Right Angle Trinometry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 4.8  Rational Functions"
+              "title": "Right Angle Trinometry"
             }
           },
           {
@@ -310,9 +310,10 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "Paul Online note/algebra/Section 4.8  Rational Functions.md",
-    "calculus 1/The Unit Circle.md",
     "calculus 1/Right Angle Trinometry.md",
+    "calculus 1/The Unit Circle.md",
+    "calculus 1/The Squeeze Theorem.md",
+    "Paul Online note/algebra/Section 4.8  Rational Functions.md",
     "calculus 1/What need to be understand.md",
     "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
     "calculus 1/2.5.2 Intermediate Value Theorem.md",
@@ -338,7 +339,6 @@
     "Paul Online note/algebra/Section 4.1  Lines, Circles and Piecewise Functions.md",
     "Paul Online note/algebra/Section 4.3  Ellipses.md",
     "calculus 1/Graphs and Limits.md",
-    "calculus 1/The Squeeze Theorem.md",
     "calculus 1/Rational Expressions.md",
     "calculus 1/example.md",
     "picture/Pasted image 20250721130119.png",
