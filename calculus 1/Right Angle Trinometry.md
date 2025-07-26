@@ -58,5 +58,8 @@ $$
  \sec \circ   = \frac{1}{\cos \circ} =  \frac{1}{\frac{adj}{hyp}}   = \frac{hyp}{adj} =  \frac{c}{b }
 $$
 $$
- 
+ \csc \circ  =  \frac{1}{\sin \circ}   =  \frac{1}{\frac{opp}{hyp}}  =  \frac{hyp}{opp} =  \frac{a}{c  }
+$$
+$$
+\cot \circ = \frac{1}{\tan \circ }  = 
 $$
