@@ -120,3 +120,5 @@ $$
 \tan \circ   = \frac{b}{a } 
 \end{array}
 $$
+
+Definition for angles $\circ$ that can be past 
