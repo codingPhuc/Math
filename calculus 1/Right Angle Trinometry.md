@@ -23,7 +23,7 @@ learning score:
         -- node[midway, below]{cm} 
         (4,0) coordinate (C) node[anchor=north]{$C$}
         -- node[midway, right]{cm} 
-        (4,4) coordinate (B) node[anchor=south]{$B$}
+        (0,4) coordinate (B) node[anchor=south]{$B$}
         -- node[midway, above left]{cm} 
         cycle;
 
