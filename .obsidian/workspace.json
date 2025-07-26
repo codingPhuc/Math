@@ -71,14 +71,10 @@
             "id": "d187a9b5e7872778",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paul Online note/Section 6.4  Solving Logarithm Equations.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Section 6.4  Solving Logarithm Equations"
+              "title": "New tab"
             }
           },
           {
@@ -151,7 +147,8 @@
               "title": "Section 4.5  Miscellaneous Functions"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,9 +310,10 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 4.8  Rational Functions.md",
     "calculus 1/What need to be understand.md",
-    "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
     "calculus 1/Right Angle Trinometry.md",
+    "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
     "calculus 1/2.5.2 Intermediate Value Theorem.md",
     "picture/2.5.2 Intermediate Value Theorem 2025-07-25 14.28.05.excalidraw.md",
     "calculus 1/2.5 Continuity on interval and continuous function.md",
@@ -343,7 +341,6 @@
     "calculus 1/Rational Expressions.md",
     "calculus 1/example.md",
     "Math note.md",
-    "python with math.md",
     "picture/Pasted image 20250721130119.png",
     "picture/Pasted image 20250719165216.png",
     "picture/Pasted image 20250719165215.png",

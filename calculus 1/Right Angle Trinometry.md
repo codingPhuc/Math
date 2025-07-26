@@ -9,76 +9,38 @@ amount of time:
 learning score:
 ---
 
-
 ```tikz
 \usepackage{amsmath,amssymb}
-\usetikzlibrary{decorations.pathreplacing}
+\usetikzlibrary{decorations.pathreplacing,```latex
+angles,
+                quotes
+```}
 
 \begin{document}
 \tikzset{every picture/.style={line width=0.75pt}} % set default line width
 
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
-
-y angle/.style = {draw, fill=teal!30,
-                   angle radius=7mm, 
-                   angle eccentricity=1.1, 
-                   right, inner sep=1pt,
-                   font=\footnotesize} 
-                   ]
-
-\draw (0,0) node[anchor=north]{$A$} (a)
-  -- (4,0) node[anchor=north]{$C$} (c)
-  -- (4,4) node[anchor=south]{$B$} (b)
-  -- cycle;
-
-\pic[my angle, "$\alpha=\SI{45}{\degree}$"] {angle = c--a--b};
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
 
     % Text annotations  
+    \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
+
+
     % Draw the parabola
+   \draw[red, thick, domain=0.3:3, samples=100] plot (\x, {1/\x});
+  \draw[red, thick, domain=-3:-0.3, samples=100] plot (\x, {1/\x});
+
+ 
 \end{tikzpicture}
 \end{document}
 
-
-``` 
-
-
-
-
-
-
-```tikz
-\usepackage{amsmath,amssymb}
-\usetikzlibrary{decorations.pathreplacing}
-
-\begin{document}
-\tikzset{every picture/.style={line width=0.75pt}} % set default line width
-
-\begin{tikzpicture}[x=1cm,y=1cm]
-    % Draw x-axis
-
-y angle/.style = {draw, fill=teal!30,
-                   angle radius=7mm, 
-                   angle eccentricity=1.1, 
-                   right, inner sep=1pt,
-                   font=\footnotesize} 
-                   ]
-
-\draw (0,0) node[anchor=north]{$A$} (a)
-  -- (4,0) node[anchor=north]{$C$} (c)
-  -- (4,4) node[anchor=south]{$B$} (b)
-  -- cycle;
-
-\pic[my angle, "$\alpha=\SI{45}{\degree}$"] {angle = c--a--b};
-
-    % Text annotations  
-    % Draw the parabola
-\end{tikzpicture}
-\end{document}
-
-
-``` 
-
-
-
-
+```
