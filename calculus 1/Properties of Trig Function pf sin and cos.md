@@ -13,6 +13,8 @@ Periodic Property  : sin and cos are period $\pi$
 $\cos( \circ  + 2\pi) =\cos \circ$ 
 $$
 \begin{array}{l} \\
-\cos  (\circ + 360^\circ )  = \cos degre^{   }
+\cos  (\circ + 360^\circ )  = \cos \circ  \\
+\cos ( \circ -2\pi) =  \cos \circ   \\
+\sin (\circ  2 \pi)  = \sin \circ 
 \end{array}
 $$
