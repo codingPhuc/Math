@@ -17,6 +17,7 @@ $$
 \cos ( \circ -2\pi) =  \cos \circ   \\
 \sin (\circ  + 2 \pi)  = \sin \circ  \\
 \sin  ( \circ  +  360^\circ ) =  \sin \circ   \\
-\sin ( \circ -2\pi) =  \cos \circ   \\
+\sin ( \circ -2\pi) =  \sin  \circ   \\
 \end{array}
 $$
+this is can be summarize as the equation 
