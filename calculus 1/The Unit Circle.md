@@ -115,8 +115,8 @@ using triangle definition of sin and cos, what sin and cos term of and a and b
 
 $$
  \begin{array}{l} \\
-\cos \circ  = a  (\text{ represent })   \\
-\sin \circ  = b   \\
+\cos \circ  = a  (\text{ represent the x point on the unit circle at degree } \circ)   \\
+\sin \circ   = b  (\text{ y coordinate on the unit circle at degree } \circ)  \\
 \tan \circ   = \frac{b}{a } 
 \end{array}
 $$
