@@ -12,8 +12,7 @@ learning score:
 
 ```tikz
 \usepackage{amsmath,amssymb}
-\usetikzlibrary{decorations.pathreplacing}
-
+\usetikzlibrary{decorations.pathreplacing, angles, quotes}
 \begin{document}
 \tikzset{every picture/.style={line width=0.75pt}} % set default line width
 
