@@ -25,7 +25,7 @@ $$
     % Draw x-axis 
     \draw[->] (-2,0) -- (2,0) node[right] {};
     \draw[->] (0,-2) -- (0,2) node[right] {}; 
-     \draw[->] (0,0) -- (0) node[right] {};
+     \draw[->] (0,0) -- (1,0.5) node[right] {};
     % Draw tick marks and labels
     \foreach \x in {-1,0,1} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
@@ -39,3 +39,4 @@ $$
 \end{document}
 
 ```
+note up now   we have t
