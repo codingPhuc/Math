@@ -113,3 +113,17 @@ $$
  \tan(\circ)  =   \frac{opp}{adj} =  \frac{2}{\sqrt{ 21 }}
 $$
 
+
+
+$$
+ \sec \circ   = \frac{1}{\cos \circ} =  \frac{1}{\frac{adj}{hyp}}   = \frac{hyp}{adj} =  \frac{5}{\sqrt{ 21 } }
+$$
+$$
+ \csc \circ  =  \frac{1}{\sin \circ}   =  \frac{1}{\frac{opp}{hyp}}  =  \frac{hyp}{opp} =  \frac{5}{2  }
+$$
+$$
+\cot \circ = \frac{1}{\tan \circ }  = \frac{1}{\frac{opp}{adj}}  = \frac{adj}{opp}  = \frac{\sqrt{ 21 }}{2} 
+$$
+
+
+
