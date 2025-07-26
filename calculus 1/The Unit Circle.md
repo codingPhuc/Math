@@ -121,7 +121,7 @@ $$
 \end{array}
 $$
 
-for an angles $\circ$ that is part of the triangle in the picture above, we can find the coordinates of the point on the unit circle using : 
+for an angles $\circ$ that is part of the triangle in the picture above, we can find the coordinates of the point on the unit circle using  sin cos  and tan  :  
 $$
 \begin{array}{l} \\
 \cos \circ  = \text{ x coordinate }  \\
@@ -129,3 +129,5 @@ $$
 \tan \circ  = \frac{\text{ y coordinate }}{\text{ x coordinate }}
 \end{array}
 $$
+
+example 
