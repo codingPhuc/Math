@@ -204,3 +204,9 @@ a^2   =\frac{1}{2 }   \\
 a = \pm  \sqrt{ \frac{1}{2} }
 \end{array}
 $$
+$$
+\begin{array}{l}  \\
+a = \frac{1}{\sqrt{ 2 }}   \\
+= \frac{1}{\sqrt{ 2 }}  \cdot  \frac{\sqrt{ 2 }}{ \sqrt{ 2 }}  = \frac{\sqrt{ 2  }}{ 2}
+\end{array}
+$$
