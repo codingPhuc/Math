@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/2.5.2 Intermediate Value Theorem.md",
+                "file": "calculus 1/Right Angle Trinometry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5.2 Intermediate Value Theorem"
+              "title": "Right Angle Trinometry"
             }
           },
           {
@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/2.5.2 Intermediate Value Theorem.md",
+                "file": "calculus 1/Right Angle Trinometry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.5.2 Intermediate Value Theorem"
+              "title": "Outline of Right Angle Trinometry"
             }
           }
         ],
@@ -313,8 +313,9 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "picture/2.5.2 Intermediate Value Theorem 2025-07-25 14.28.05.excalidraw.md",
     "calculus 1/2.5.2 Intermediate Value Theorem.md",
+    "calculus 1/Right Angle Trinometry.md",
+    "picture/2.5.2 Intermediate Value Theorem 2025-07-25 14.28.05.excalidraw.md",
     "calculus 1/2.5 Continuity on interval and continuous function.md",
     "calculus 1/2.5.1 Continuity.md",
     "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
@@ -343,7 +344,6 @@
     "calculus 1/example.md",
     "Math note.md",
     "python with math.md",
-    "Paul Online note/algebra/Section 3.5  Graphing Functions.md",
     "picture/Pasted image 20250721130119.png",
     "picture/Pasted image 20250719165216.png",
     "picture/Pasted image 20250719165215.png",
