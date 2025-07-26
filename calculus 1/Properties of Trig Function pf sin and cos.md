@@ -8,4 +8,6 @@ Current date: "2025-07-26"
 amount of time: 
 learning score:
 ---
-Periodic Property  : 
+Periodic Property  : sin and cos are period $\pi$
+
+$\cos( \circ  + 2\pi) =\cos \circ$
