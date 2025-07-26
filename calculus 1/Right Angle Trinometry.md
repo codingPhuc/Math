@@ -255,18 +255,20 @@ without  using a calculator fin  sin(30) and cos 30
     -- node[midway, above left]{$1$} %adj 
   cycle; 
 \draw 
-     (0,0) coordinate (D) node[anchor=north]{$D$}
+     (0,0) coordinate (H) node[anchor=north]{$H$}
     -- node[midway, below]{$a$} %  bases  
-  (4,0) coordinate (C) node[anchor=north]{$F$}
-    -- node[midway, right]{$a$} % hyp  
-      (4,-4) coordinate (C) node[anchor=north]{$G$}
+  (4,0) coordinate (E) node[anchor=north]{$E$}
+    -- node[midway, right]{$a$} % hyp 
+	 
+      (4,-4) coordinate (D) node[anchor=north]{$D$}
     -- node[midway, right]{$a$} % hyp  
   cycle; 
     % Add angle at point A (between sides AC and AB)
 
-    \pic["$60^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = C--A--B} ;
+    \pic["$30^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = C--A--B} ;
 
-    \pic["$60^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = C--A--B} ;
+    \pic["$60^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = B--} ;
+
  
 \end{tikzpicture}
 \end{document}
