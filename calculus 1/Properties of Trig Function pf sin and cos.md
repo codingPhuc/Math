@@ -22,3 +22,4 @@ $$
 $$
 this is can be summarize as the equation :  $\cos||\sin(\circ +  2n)$
 
+because
