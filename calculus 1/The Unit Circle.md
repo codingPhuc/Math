@@ -73,4 +73,25 @@ note up now   we have define sin , cos  , tan in terms of right triables for exa
 $$
  \sin  = \frac{opp}{hyp}
 $$
-what goes wrong if compute sin 120 using right tria
+what goes wrong if compute sin 120 using right triangle 
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=1pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm, scale = 2]
+    % Draw x-axis 
+    \draw[->] (-2,0) -- (2,0) node[right] {};
+
+
+    % Draw tick marks and labels
+  
+ 
+\end{tikzpicture}
+\end{document}
+
+```
