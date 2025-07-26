@@ -126,6 +126,6 @@ $$
 \begin{array}{l} \\
 \cos \circ  = \text{ x coordinate }  \\
 \sin  \circ  = \text{ y coordinate }   \\
-\tan \circ 
+\tan \circ  = \frac{\text{ y coordinate }}{\text{ x coordinate }}
 \end{array}
 $$
