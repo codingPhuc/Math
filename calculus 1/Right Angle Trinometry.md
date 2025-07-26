@@ -197,7 +197,10 @@ without using calculator find sin(45 ) adn cos 45  using right triangle with hyp
 ```
 
 $$
- \begin{array}
-
+ \begin{array}{l}  \\
+a^2 +  a^2   =  1   \\
+ 2a^2  = 1   \\
+a^2   =\frac{1}{2 }   \\
+a = \pm  \sqrt{ \frac{1}{2} }
 \end{array}
 $$
