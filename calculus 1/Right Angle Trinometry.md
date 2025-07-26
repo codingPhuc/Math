@@ -127,4 +127,4 @@ $$
 
 
 
-A kite fly
+A kite fly as an angle of  75 degree , with the kit string extended to the length of 100m. How high did the kite fly ? 
