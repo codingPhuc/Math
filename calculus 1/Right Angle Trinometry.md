@@ -278,6 +278,9 @@ without  using a calculator fin  sin(30) and cos 30
 $$
 \begin{array}{l}  \\
 x^2   + \left( \frac{1}{2}  \right)^2  = 1   \\
-x^2  + \frac{1}{a^2   = \\
+x^2  + \frac{1}{a^2}  = 1   \\
+x^2  + \frac{1}{4}  = 1   \\
+x^2  =  \frac{3}{4}   \\
+x  =   \pm \sqrt{ \frac{3}{4} }   = \frac{\sqrt{ 3 }}{2 } \\
 \end{array}
 $$
