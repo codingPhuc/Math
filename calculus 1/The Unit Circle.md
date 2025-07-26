@@ -54,11 +54,11 @@ note up now   we have define sin , cos  , tan in terms of right triables for exa
 
 \draw 
   (0,0) coordinate (A) node[anchor=north]{$A$}
-    -- node[midway, below]{$a$} %  bases 
+    -- node[midway, below]{$adj$} %  bases 
   (4,0) coordinate (C) node[anchor=north]{$C$}
-    -- node[midway, right]{$a$} % hyp 
+    -- node[midway, right]{$opp$} % hyp 
   (4,4) coordinate (B) node[anchor=south]{$B$}
-    -- node[midway, above left]{$1$} %adj
+    -- node[midway, above left]{$hyp$} %adj
   cycle;
     % Add angle at point A (between sides AC and AB)
 
@@ -70,3 +70,7 @@ note up now   we have define sin , cos  , tan in terms of right triables for exa
 \end{document}
 
 ```
+$$
+ \sin  = \frac{opp}{hyp}
+$$
+what goes wrong if compute sin 120 using right tria
