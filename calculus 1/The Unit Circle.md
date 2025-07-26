@@ -121,4 +121,11 @@ $$
 \end{array}
 $$
 
-for an angles $\circ$ that is part of the triangle in the picture above, we can find the coor
+for an angles $\circ$ that is part of the triangle in the picture above, we can find the coordinates of the point on the unit circle using : 
+$$
+\begin{array}{l} \\
+\cos \circ  = \text{ x coordinate }  \\
+\sin  \circ  = \text{ y coordinate }   \\
+\tan \circ 
+\end{array}
+$$
