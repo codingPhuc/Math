@@ -121,4 +121,4 @@ $$
 \end{array}
 $$
 
-Definition for angles $\circ$ that can be past 
+for an angles $\circ$ that is part of the triangle in the picture above, we can define it 
