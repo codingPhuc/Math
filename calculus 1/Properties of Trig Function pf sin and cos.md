@@ -33,6 +33,9 @@ $$
 $$
 ## even odd property 
 $$
-\cos  -\circ  =  \cos \circ 
-si
+\begin{array}{l} \\
+\cos  -\circ  =  \cos \circ \\
+\sin  \circ   =  - \sin \circ 
+\end{array}
 $$
+

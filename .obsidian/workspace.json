@@ -279,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Properties of Trig Function pf sin and cos.md",
+                "file": "calculus 1/Right Angle Trinometry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Properties of Trig Function pf sin and cos"
+              "title": "Outline of Right Angle Trinometry"
             }
           }
         ],
@@ -308,15 +308,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56951fb26ce0d245",
+  "active": "9242df5253dc5c73",
   "lastOpenFiles": [
+    "calculus 1/The Squeeze Theorem.md",
+    "calculus 1/Limit Laws.md",
+    "calculus 1/example.md",
+    "calculus 1/Right Angle Trinometry.md",
+    "calculus 1/Properties of Trig Function pf sin and cos.md",
     "picture/Pasted image 20250726124712.png",
     "calculus 1/Untitled 1.md",
     "calculus 1/The Unit Circle.md",
     "picture/Pasted image 20250726122926.png",
     "picture/Pasted image 20250726121431.png",
-    "calculus 1/Right Angle Trinometry.md",
-    "calculus 1/The Squeeze Theorem.md",
     "Paul Online note/algebra/Section 4.8  Rational Functions.md",
     "calculus 1/What need to be understand.md",
     "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
@@ -329,10 +332,8 @@
     "calculus 1/Calculus 12 hour course.md",
     "calculus 1/Difference Quotient.md",
     "picture/Pasted image 20250725121504.png",
-    "calculus 1/Limit Laws.md",
     "picture/Pasted image 20250725113452.png",
     "picture/Pasted image 20250725112624.png",
-    "calculus 1/Properties of Trig Function pf sin and cos.md",
     "calculus 1/Limits using Algebraic Tricks.md",
     "calculus 1/Rational Functions and Graphs.md",
     "calculus 1/Lines Graphs and Equations.md",
@@ -345,7 +346,6 @@
     "calculus 1/Graphs and Limits.md",
     "picture/Pasted image 20250721130119.png",
     "picture/Pasted image 20250719165216.png",
-    "picture/Pasted image 20250719165215.png",
     "calculus 1",
     "Paul Online note/algebra",
     "Untitled",
