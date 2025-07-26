@@ -20,9 +20,9 @@ learning score:
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
 
-\draw (0,0) node[anchor=north]{$A$}
-  -- (4,0) node[anchor=north]{$C$}
-  -- (4,4) node[anchor=south]{$B$}
+\draw (0,0) node[anchor=north]{$A$} (a)
+  -- (4,0) node[anchor=north]{$C$} (c)
+  -- (4,4) node[anchor=south]{$B$} (b)
   -- cycle;
 
     % Text annotations  
