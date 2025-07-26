@@ -48,4 +48,7 @@ $$
 $$
  \tan(\circ)  =   \frac{opp}{hyp} =  \frac{a}{b}
 $$
-why is $\tan(\circ) =  \frac{opp}{adj} =  \frac{a}{b}$
+why is $\tan(\circ) =  \frac{\sin(\circ)}{\cos(\circ)}$  
+$$
+\frac{\sin(\circ)}{\cos(\circ)}  =  \frac{\left( \frac{opp}{hyp} \right)}{}
+$$
