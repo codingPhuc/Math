@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Right Angle Trinometry.md",
+                "file": "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Right Angle Trinometry"
+              "title": "Outline of Section 4.5  Miscellaneous Functions"
             }
           }
         ],
@@ -311,10 +311,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56951fb26ce0d245",
+  "active": "581a36da74918a83",
   "lastOpenFiles": [
-    "calculus 1/2.5.2 Intermediate Value Theorem.md",
     "calculus 1/Right Angle Trinometry.md",
+    "calculus 1/2.5.2 Intermediate Value Theorem.md",
     "picture/2.5.2 Intermediate Value Theorem 2025-07-25 14.28.05.excalidraw.md",
     "calculus 1/2.5 Continuity on interval and continuous function.md",
     "calculus 1/2.5.1 Continuity.md",
