@@ -23,3 +23,8 @@ $$
 this is can be summarize as the equation :  $\cos||\sin(\circ +  2n)$
 
 because $2n\pi$  mean that just n how many unit time the circle turn 
+![[Pasted image 20250726124712.png]]
+Example find  
+$$
+\cos 5\pi
+$$
