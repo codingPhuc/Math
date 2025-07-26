@@ -165,3 +165,35 @@ Mnemonic for the equations is called  : SOHCAHTOA
 
 
 without using calculator find sin(45 ) adn cos 45  using right triangle with hyp being 1  
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing, angles, quotes}
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+
+
+
+\draw 
+  (0,0) coordinate (A) node[anchor=north]{$A$}
+    -- node[midway, below]{$a$} %  bases 
+  (4,0) coordinate (C) node[anchor=north]{$C$}
+    -- node[midway, right]{$a$} % hyp 
+  (4,4) coordinate (B) node[anchor=south]{$B$}
+    -- node[midway, above left]{$1$} %adj
+  cycle;
+    % Add angle at point A (between sides AC and AB)
+    \pic["$50^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] 
+        {angle = B--C--A}
+        {angle = B--A--C}
+        {angle = B--B--};
+
+ 
+\end{tikzpicture}
+\end{document}
+
+```
+
