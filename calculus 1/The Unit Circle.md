@@ -129,5 +129,4 @@ $$
 \tan \circ  = \frac{\text{ y coordinate }}{\text{ x coordinate }}
 \end{array}
 $$
-
-example 
+![[Pasted image 20250726122926.png]]

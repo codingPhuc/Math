@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/The Unit Circle.md",
+                "file": "calculus 1/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Unit Circle"
+              "title": "Untitled"
             }
           },
           {
@@ -279,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/The Unit Circle.md",
+                "file": "calculus 1/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Unit Circle"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -310,9 +310,11 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "calculus 1/Untitled 1.md",
+    "calculus 1/The Unit Circle.md",
+    "picture/Pasted image 20250726122926.png",
     "picture/Pasted image 20250726121431.png",
     "calculus 1/Right Angle Trinometry.md",
-    "calculus 1/The Unit Circle.md",
     "calculus 1/The Squeeze Theorem.md",
     "Paul Online note/algebra/Section 4.8  Rational Functions.md",
     "calculus 1/What need to be understand.md",
@@ -347,8 +349,6 @@
     "calculus 1",
     "Paul Online note/algebra",
     "Untitled",
-    "picture/Pasted image 20250512173224.png",
-    "picture/Pasted image 20250512173208.png",
     "book/Precalculus Stewart 7th Edition.pdf",
     "book/ECE.pdf",
     "book/Give Me Liberty, Seventh Edition.pdf",
