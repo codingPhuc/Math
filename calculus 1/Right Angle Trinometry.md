@@ -19,12 +19,12 @@ learning score:
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
 
-\draw (0,0) coordinate (A) node[anchor=north]{$A$}
-        -- node[midway, below]{A} 
-        (4,0) coordinate (C) node[anchor=north]{$C$}
-        -- node[midway, right]{cm} 
-        (0,4) coordinate (B) node[anchor=south]{$B$}
-        -- node[midway, above left]{cm} 
+\draw (0,0) coordinate (A) node[anchor=north]{$1$}
+        -- node[midway, below]{B} 
+        (4,0) coordinate (C) node[anchor=north]{$2$}
+        -- node[midway, right]{C} 
+        (0,4) coordinate (B) node[anchor=south]{$3$}
+        -- node[midway, above left]{A} 
         cycle;
 
     % Add angle at point A (between sides AC and AB)
