@@ -219,3 +219,14 @@ $$
 \end{array}
 
 $$
+
+
+$$
+\begin{array}{l} \\
+\cos  45  =   \frac{adj}{hyp}  \\
+\frac{\frac{\sqrt{ 2 }}{ 2}}{1 }   \\
+ = \frac{\sqrt{ 2 }}{ 2 }
+\end{array}
+
+$$
+
