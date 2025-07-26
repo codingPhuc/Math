@@ -61,5 +61,6 @@ $$
  \csc \circ  =  \frac{1}{\sin \circ}   =  \frac{1}{\frac{opp}{hyp}}  =  \frac{hyp}{opp} =  \frac{a}{c  }
 $$
 $$
-\cot \circ = \frac{1}{\tan \circ }  = 
+\cot \circ = \frac{1}{\tan \circ }  = \frac{1}{\frac{opp}{adj}}  = \frac{adj}{opp}  = \frac{b}{a} 
 $$
+find the exact value of all sic
