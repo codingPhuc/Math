@@ -255,9 +255,9 @@ without  using a calculator fin  sin(30) and cos 30
     -- node[midway, above left]{$1$} %adj 
   cycle; 
 \draw 
-     (0,0) coordinate (H) node[anchor=north]{$H$}
+     (0,0) coordinate (H) node[anchor=north]{$$}
     -- node[midway, below]{$a$} %  bases  
-  (4,0) coordinate (E) node[anchor=north]{$E$}
+  (4,0) coordinate (E) node[anchor=north]{$$}
     -- node[midway, right]{$a$} % hyp 
 	 
       (4,-4) coordinate (D) node[anchor=north]{$D$}
@@ -267,7 +267,7 @@ without  using a calculator fin  sin(30) and cos 30
 
     \pic["$30^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = C--A--B} ;
 
-    \pic["$60^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = B--} ;
+    \pic["$60^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = D--H--B} ;
 
  
 \end{tikzpicture}
