@@ -20,7 +20,7 @@ learning score:
     % Draw x-axis
 
 \draw (0,0) coordinate (A) node[anchor=north]{$A$}
-        -- node[midway, below]{cm} 
+        -- node[midway, below]{A} 
         (4,0) coordinate (C) node[anchor=north]{$C$}
         -- node[midway, right]{cm} 
         (0,4) coordinate (B) node[anchor=south]{$B$}
@@ -29,10 +29,11 @@ learning score:
 
     % Add angle at point A (between sides AC and AB)
     \pic["$50^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] 
-        {angle = C--A--B};
+        {angle = B--C--A};
 
  
 \end{tikzpicture}
 \end{document}
 
 ```
+
