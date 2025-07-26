@@ -207,6 +207,15 @@ $$
 $$
 \begin{array}{l}  \\
 a = \frac{1}{\sqrt{ 2 }}   \\
-= \frac{1}{\sqrt{ 2 }}  \cdot  \frac{\sqrt{ 2 }}{ \sqrt{ 2 }}  = \frac{\sqrt{ 2  }}{ 2}
+= \frac{1}{\sqrt{ 2 }}  \cdot  \frac{\sqrt{ 2 }}{ \sqrt{ 2 }}  = \\ \frac{\sqrt{ 2  }}{ 2}
 \end{array}
+$$
+
+$$
+\begin{array}{l} \\
+\sin 45  =   \frac{opp}{hyp}  \\
+\frac{\frac{\sqrt{ 2 }}{ 2}}{1 }   \\
+ = \frac{\sqrt{ 2 }}{ 2 }
+\end{array}
+
 $$
