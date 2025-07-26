@@ -111,4 +111,12 @@ In the figure , right triangle draw  in unit circle , top veritcle have coordina
 ![[Pasted image 20250726121431.png]]  
 
 
-using triangle definition of sin and cos, what sin and cos t
+using triangle definition of sin and cos, what sin and cos term of and a and b 
+
+$$
+ \begin{array}{l} \\
+\cos \circ  = a  (\text{ represent })   \\
+\sin \circ  = b   \\
+\tan \circ   = \frac{b}{a } 
+\end{array}
+$$
