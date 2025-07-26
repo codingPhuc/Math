@@ -12,8 +12,8 @@ learning score:
 
 ```tikz
 \usepackage{amsmath,amssymb}
-\usetikzlibrary{decorations.pathreplacing}
-
+\usetikzlibrary{decorations.pathreplacing }
+\usetikzlibrary {shapes.geometric}
 \begin{document}
 \tikzset{every picture/.style={line width=0.75pt}} % set default line width
 
@@ -27,16 +27,4 @@ learning score:
  
 \end{tikzpicture}
 \end{document}
-
-```
-```
-\usetikzlibrary {shapes.geometric}
-\begin{tikzpicture}[>=stealth, every node/.style={text=black},
-    shape border uses incircle, shape border rotate=-30]
-  \node [isosceles triangle, fill=gray!25, minimum width=1.5cm] (t) {};
-  \draw [red, <->] (t.left corner) -- (t.right corner)
-    node [midway, above left] {width};
-  \draw [red, <->] (t.apex) -- (t.lower side)
-    node [midway, above right] {height};
-\end{tikzpicture}
 ```
