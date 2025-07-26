@@ -288,6 +288,8 @@ $$
 $$
 \begin{array}{l}   \\
 \sin 30  =  \frac{opp}{hyp}  = \frac{\frac{1}{2}}{1}  = \frac{1}{2 }   \\
-\cos 30    =  \frac{adj}{hyp }  = \sqrt{ 3  }
+\cos 30    =  \frac{adj}{hyp }  = \frac{\frac{\sqrt{ 3  }}{2}}{1}  = \frac{\sqrt{ 3 }}{2}   \\
+\text{ find  sin60 and cos 60}  \\
+\sin 60  = \frac{opp}{hyp}  = 
 \end{array}
 $$
