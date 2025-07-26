@@ -97,3 +97,8 @@ what goes wrong if compute sin 120 using right triangle
 \end{document}
 
 ```
+
+
+
+
+unit circle is a circle of radius 1  
