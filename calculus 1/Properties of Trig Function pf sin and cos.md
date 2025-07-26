@@ -28,7 +28,11 @@ Example find
 $$
 \begin{array}{l} \\
 \cos 5\pi  =  \cos( \pi + 4\pi )  = \cos \pi  =  1   \\
-\sin (-420) = \sin ( -360 -60 )  = \sin  
+\sin (-420) = \sin ( -360 -60 )  = \sin (-60)  = -\frac{\sqrt{ 3 }}{2}
 \end{array}
-
+$$
+## even odd property 
+$$
+\cos  -\circ  =  \cos \circ 
+si
 $$
