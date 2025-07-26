@@ -23,8 +23,9 @@ $$
 
 \begin{tikzpicture}[x=1cm,y=1cm, scale = 2]
     % Draw x-axis 
-    \draw[->] (-1,0) -- (1,0) node[right] {};
-    \draw[->] (0,-1) -- (0,1) node[right] {};
+    \draw[->] (-2,0) -- (2,0) node[right] {};
+    \draw[->] (0,-2) -- (0,2) node[right] {}; 
+     \draw[->] (0,0) -- (0) node[right] {};
     % Draw tick marks and labels
     \foreach \x in {-1,0,1} {
         \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
