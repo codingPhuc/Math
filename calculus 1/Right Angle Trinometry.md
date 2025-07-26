@@ -100,7 +100,16 @@ find the exact value of all six string function of angle $\circ$ in this right t
 \end{document}
 
 ```
+
+
+
 $$
-\sin (\circ)  =  \frac{app}{hyp}   = \frac{a}{c }
-$$ 
+\sin (\circ)  =  \frac{app}{hyp}   = \frac{2}{5 }
+$$
+$$
+ \cos(\circ)   =  \frac{adj}{hyp} = \frac{\sqrt{ 21 }}{5 }
+$$
+$$
+ \tan(\circ)  =   \frac{opp}{adj} =  \frac{2}{\sqrt{ 21 }}
+$$
 
