@@ -9,3 +9,28 @@ amount of time:
 learning score:
 ---
 
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+  
+
+    % Text annotations  
+    % Draw the parabola
+    \draw[thick, blue, domain=-6:6, smooth] plot (\x, 4);
+ 
+\end{tikzpicture}
+\end{document}
+
+
+``` 
+
+
+
+
