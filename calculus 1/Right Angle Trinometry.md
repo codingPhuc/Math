@@ -163,3 +163,5 @@ $$
 $$
 Mnemonic for the equations is called  : SOHCAHTOA 
 
+
+without using calculator find sin 
