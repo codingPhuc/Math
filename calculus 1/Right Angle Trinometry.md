@@ -43,5 +43,9 @@ $$
 \sin (\circ)  =  \frac{app}{hyp}   = \frac{a}{c }
 $$
 $$
- \cos(\circ)   =  \frac{adj}{hyp} = 
+ \cos(\circ)   =  \frac{adj}{hyp} = \frac{b}{c }
 $$
+$$
+ \tan(\circ)  =   \frac{opp}{hyp} =  \frac{a}{b}
+$$
+why is $\tan(\circ) =  \frac{opp}{adj} =  \frac{a}{b}$
