@@ -284,3 +284,10 @@ x^2  =  \frac{3}{4}   \\
 x  =   \pm \sqrt{ \frac{3}{4} }   = \frac{\sqrt{ 3 }}{2 } \\
 \end{array}
 $$
+
+$$
+\begin{array}{l}   \\
+\sin 30  =  \frac{opp}{hyp}  = \frac{\frac{1}{2}}{1}  = \frac{1}{2 }   \\
+\cos 30    =  \frac{adj}{hyp }  = \sqrt{ 3  }
+\end{array}
+$$
