@@ -46,9 +46,10 @@ $$
  \cos(\circ)   =  \frac{adj}{hyp} = \frac{b}{c }
 $$
 $$
- \tan(\circ)  =   \frac{opp}{hyp} =  \frac{a}{b}
+ \tan(\circ)  =   \frac{opp}{adj} =  \frac{a}{b}
 $$
-why is $\tan(\circ) =  \frac{\sin(\circ)}{\cos(\circ)}$  
+why is does the equation of exit? 
+because $\tan(\circ) =  \frac{\sin(\circ)}{\cos(\circ)}$  
 $$
-\frac{\sin(\circ)}{\cos(\circ)}  =  \frac{\left( \frac{opp}{hyp} \right)}{}
+\frac{\sin(\circ)}{\cos(\circ)}  =  \frac{\left( \frac{opp}{hyp} \right)}{\frac{adj}{hyp} }   =  
 $$
