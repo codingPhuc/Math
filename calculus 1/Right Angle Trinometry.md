@@ -14,17 +14,28 @@ learning score:
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing }
 \usetikzlibrary {shapes.geometric}
+
+\usepackage{siunitx}
+
+\usetikzlibrary{angles,
+                quotes}
+
 \begin{document}
 \tikzset{every picture/.style={line width=0.75pt}} % set default line width
 
-\begin{tikzpicture}[x=1cm,y=1cm]
-    % Draw x-axis
-  \node [isosceles triangle, fill=gray!25, minimum width=1.5cm] (t) {};
-  \draw [red, <->] (t.left corner) -- (t.right corner)
-    node [midway, above left] {width};
-  \draw [red, <->] (t.apex) -- (t.lower side)
-    node [midway, above right] {height};
- 
-\end{tikzpicture}
+
+\begin{tikzpicture}[
+my angle/.style = {draw, fill=teal!30,
+                   angle radius=7mm, 
+                   angle eccentricity=1.1, 
+                   right, inner sep=1pt,
+                   font=\footnotesize} 
+                   ]
+\draw   (0,0) coordinate[label=below:$A$] (a) --
+        (4,0) coordinate[label=below:$C$] (c) --
+        (4,4) coordinate[label=above:$B$] (b) -- cycle;
+\pic[my angle, "$\alpha=\SI{45}{\degree}$"] {angle = c--a--b};
+    \end{tikzpicture}
+
 \end{document}
 ```
