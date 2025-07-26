@@ -10,4 +10,9 @@ learning score:
 ---
 Periodic Property  : sin and cos are period $\pi$
 
-$\cos( \circ  + 2\pi) =\cos \circ$
+$\cos( \circ  + 2\pi) =\cos \circ$ 
+$$
+\begin{array}{l} \\
+\cos  (\circ + 360^\circ )  = \cos degre^{   }
+\end{array}
+$$
