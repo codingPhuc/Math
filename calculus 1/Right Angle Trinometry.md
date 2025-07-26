@@ -85,13 +85,14 @@ find the exact value of all six string function of angle $\circ$ in this right t
 
 
 
-\draw (0,0) coordinate (A) node[anchor=north]{$1$}
-        -- node[midway, below]{2}  
-        (4,0) coordinate (C) node[anchor=north]{$2$}
-        -- node[midway, right]{5}  
-        (0,4) coordinate (B) node[anchor=south]{$3$}
-        -- node[midway, above left]
-        cycle;
+\draw 
+  (0,0) coordinate (A) node[anchor=north]{$A$}
+    -- node[midway, below]{$2$} 
+  (4,0) coordinate (C) node[anchor=north]{$C$}
+    -- node[midway, right]{$5$} 
+  (0,4) coordinate (B) node[anchor=south]{$B$}
+    -- node[midway, above left]{$$} 
+  cycle;
     % Add angle at point A (between sides AC and AB)
 
  
@@ -99,3 +100,7 @@ find the exact value of all six string function of angle $\circ$ in this right t
 \end{document}
 
 ```
+$$
+\sin (\circ)  =  \frac{app}{hyp}   = \frac{a}{c }
+$$ 
+
