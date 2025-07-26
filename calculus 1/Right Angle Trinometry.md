@@ -37,3 +37,11 @@ learning score:
 
 ```
 
+
+we define the funciton  
+$$
+\sin (\circ)  =  \frac{app}{hyp}   = \frac{a}{c }
+$$
+$$
+ \cos(\circ)   =  \frac{adj}{hyp} = 
+$$
