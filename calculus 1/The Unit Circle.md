@@ -21,7 +21,7 @@ $$
 \begin{document}
 \tikzset{every picture/.style={line width=1pt}} % set default line width
 
-\begin{tikzpicture}[x=1cm,y=1cm]
+\begin{tikzpicture}[x=1cm,y=1cm, scale = 2]
     % Draw x-axis
 \draw (2,2) circle (1cm);
  
