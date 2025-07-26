@@ -128,3 +128,32 @@ $$
 
 
 A kite fly as an angle of  75 degree , with the kit string extended to the length of 100m. How high did the kite fly ? 
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing, angles, quotes}
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+
+
+
+\draw 
+  (0,0) coordinate (A) node[anchor=north]{$A$}
+    -- node[midway, below]{$2$} %  bases 
+  (4,0) coordinate (C) node[anchor=north]{$C$}
+    -- node[midway, right]{$5$} % hyp 
+  (0,4) coordinate (B) node[anchor=south]{$B$}
+    -- node[midway, above left]{$$} %adj
+  cycle;
+    % Add angle at point A (between sides AC and AB)
+
+ 
+\end{tikzpicture}
+\end{document}
+
+```
+
+
