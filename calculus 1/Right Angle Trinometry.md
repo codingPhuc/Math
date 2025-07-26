@@ -19,6 +19,7 @@ angles,quotes}
 
 \begin{tikzpicture}[x=1cm,y=1cm]
     % Draw x-axis
+
 my angle/.style = {draw, fill=teal!30,
                    angle radius=7mm, 
                    angle eccentricity=1.1, 
