@@ -29,7 +29,7 @@ learning score:
 
     % Add angle at point A (between sides AC and AB)
     \pic["$50^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] 
-        {angle = B--A--C};
+        {angle = C--A--B};
 
  
 \end{tikzpicture}
