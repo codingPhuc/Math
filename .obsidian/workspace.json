@@ -304,11 +304,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "picture/Pasted image 20250726121431.png",
     "calculus 1/Right Angle Trinometry.md",
     "calculus 1/The Unit Circle.md",
     "calculus 1/The Squeeze Theorem.md",
@@ -339,7 +341,6 @@
     "Paul Online note/algebra/Section 4.3  Ellipses.md",
     "calculus 1/Graphs and Limits.md",
     "calculus 1/Rational Expressions.md",
-    "calculus 1/example.md",
     "picture/Pasted image 20250721130119.png",
     "picture/Pasted image 20250719165216.png",
     "picture/Pasted image 20250719165215.png",
