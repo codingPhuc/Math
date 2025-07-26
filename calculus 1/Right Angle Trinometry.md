@@ -157,3 +157,7 @@ A kite fly as an angle of  75 degree , with the kit string extended to the lengt
 ```
 
 
+
+$$
+\sin (75\circ)  =  \frac{y}{100}   \implies  y =   96.59 m 
+$$
