@@ -164,4 +164,4 @@ $$
 Mnemonic for the equations is called  : SOHCAHTOA 
 
 
-without using calculator find sin 
+without using calculator find sin(45 ) adn cos 45  using right triangle with hyp being 1  
