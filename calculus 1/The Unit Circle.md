@@ -121,4 +121,4 @@ $$
 \end{array}
 $$
 
-for an angles $\circ$ that is part of the triangle in the picture above, we can define it 
+for an angles $\circ$ that is part of the triangle in the picture above, we can find the coor
