@@ -17,4 +17,7 @@ $[b, \infty)$
 continuous on the open end point of the interval and left right continuous on the close end point of the interval ? what does this mean does it mean that for open end point there need to be one continuous either in the left to right direction ? or does it mean that for close end point it need to be continuous on both side ?
 what is a domain ? 
 
-what is  sin cos cotan actually and why do we need to convert it into radian  ?
+what is  sin cos cotan actually and why do we need to convert it into radian  ? 
+you don't understand shifting in general what is shifted  to the right shifted to the left and so on ? 
+
+

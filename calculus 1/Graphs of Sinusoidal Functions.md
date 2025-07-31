@@ -126,4 +126,4 @@ graph the function
 $$
  y = 3 \sin\left(  2  \left( x - \frac{\pi}{4} \right) \right)  -1  
 $$
-have a horizontal shifted  by -1 
+have a horizontal shifted  by -1  
