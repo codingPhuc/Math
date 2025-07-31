@@ -59,5 +59,8 @@ period: the horizontal length of the smallest unit
 
 
 attribute of graph cos t and sin t  : 
-midline is  
+midline is  y =   0
+amplitude is   1  
+period of $2\pi$
+
 
