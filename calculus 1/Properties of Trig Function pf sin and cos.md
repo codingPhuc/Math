@@ -67,3 +67,6 @@ $$
 \end{document}
 
 ```
+
+
+Determind if (tan)
