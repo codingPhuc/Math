@@ -14,4 +14,9 @@ $$
 $$
 
 
-example if $\sin(t) = -\frac{2}{7}$ 
+example if $\sin(t) = -\frac{2}{7}$ and  t is angle that lies in quadrant III , find the $\cos(t)$ 
+
+$$
+\cos t^2   +  \sin t^2  = 1  
+(\cos t)
+$$
