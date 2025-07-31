@@ -90,3 +90,34 @@ we know that the graph of $3 \sin2x$ is
 ```
 so the graph of the function  $3 \sin\left( 2 \left( x - \frac{\pi}{4} \right) \right)$  will look like this 
 
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw axes
+    \draw[->] (-7,0) -- (7,0) node[right] {$x$};
+    \draw[->] (0,-7) -- (0,7) node[above] {$y$};
+
+    % Tick marks and labels
+    \foreach \x in {-6,-5,...,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-6,-5,...,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Right branch
+  \draw[thick, red, domain=-6.28:6.28, smooth, samples=100]  node[ above] {sin} plot (\x, {3* sin((2* (\x  - 3.14/4)) r)});
+
+
+
+\end{tikzpicture}
+\end{document}
+
+```
+since  
+y =
