@@ -148,6 +148,6 @@ a  = \sqrt{ 45 }
 $$
 
 $$
-\cos t  = 
+\cos t  = \frac{adj}{hyp} =  \frac{\sqrt{ 45 }}{7}
 $$
- 
+since t is in the II quadrant -  $-\frac{\sqrt{ 45 }}{7}$
