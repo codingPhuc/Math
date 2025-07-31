@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Properties of Trig Function pf sin and cos.md",
+                "file": "calculus 1/pythagorean properties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Properties of Trig Function pf sin and cos"
+              "title": "pythagorean properties"
             }
           },
           {
@@ -279,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Properties of Trig Function pf sin and cos.md",
+                "file": "calculus 1/pythagorean properties.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Properties of Trig Function pf sin and cos"
+              "title": "Outline of pythagorean properties"
             }
           }
         ],
@@ -304,13 +304,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "calculus 1/The Unit Circle.md",
     "calculus 1/Properties of Trig Function pf sin and cos.md",
+    "calculus 1/pythagorean properties.md",
+    "calculus 1/The Unit Circle.md",
     "calculus 1/Right Angle Trinometry.md",
     "calculus 1/The Squeeze Theorem.md",
     "calculus 1/Limit Laws.md",
@@ -342,7 +344,6 @@
     "picture/Pasted image 20250723084432.png",
     "Paul Online note/algebra/Section 4.1  Lines, Circles and Piecewise Functions.md",
     "Paul Online note/algebra/Section 4.3  Ellipses.md",
-    "calculus 1/Graphs and Limits.md",
     "picture/Pasted image 20250721130119.png",
     "picture/Pasted image 20250719165216.png",
     "calculus 1",

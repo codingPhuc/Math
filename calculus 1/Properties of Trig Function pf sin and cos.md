@@ -74,4 +74,6 @@ Determind if ($\tan(\circ)$) is an even or odd function
 $$
 \tan(\circ)  =  \frac{\sin(-\circ)}{\cos(-\circ)}  =  - \frac{\sin(\circ )}{\cos(\circ)}  =   \frac{-\sin(\circ)}{\cos}  = -\tan (\circ)
 $$
+so we concluded that $\tan(\circ)$  is an odd function  
+
 
