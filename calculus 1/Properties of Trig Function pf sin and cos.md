@@ -119,11 +119,11 @@ there also a  second method  that used  Pythagorean
 
 \draw 
   (0,0) coordinate (A) node[anchor=north]{$A$}
-    -- node[midway, below]{$2$} %  bases 
+    -- node[midway, below]{$$} %  bases 
   (4,0) coordinate (C) node[anchor=north]{$C$}
-    -- node[midway, right]{$opp$} % hyp 
+    -- node[midway, right]{$2$} % hyp 
   (4,4) coordinate (B) node[anchor=south]{$B$}
-    -- node[midway, above left]{$hyp$} %adj
+    -- node[midway, above left]{$7$} %adj
   cycle;
     % Add angle at point A (between sides AC and AB)
 
@@ -137,4 +137,17 @@ there also a  second method  that used  Pythagorean
 ```
 $$
  \sin  = \frac{opp}{hyp}
+$$ 
 $$
+\begin{array}{l}  \\
+a^2  + 2^2  = 7^2   \\
+a^2 + 4  =  49   \\
+a^2  = 45   \\
+a  = \sqrt{ 45 }
+\end{array}
+$$
+
+$$
+\cos t  = 
+$$
+ 
