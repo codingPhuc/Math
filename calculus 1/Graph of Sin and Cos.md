@@ -46,5 +46,4 @@ Sure, here is a table of cosine and sine values from 0 to 2pi at intermediate va
 
 
 ``` 
-
-
+the graph of cos is similar to sin but shifted horizontally to the left by
