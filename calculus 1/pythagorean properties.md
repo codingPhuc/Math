@@ -31,4 +31,4 @@ since cos t lies in the quadrant III where both x and y is both negative :
 $\cos t=-\frac{\sqrt{ 45 }}{7}$
 
 ## second method  
-there also a 
+there also a  second method  that used pythagorean 
