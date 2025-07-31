@@ -163,4 +163,11 @@ period $2\pi$
 
 ```
 ## general definition  
-for the graph of   $y=A\cos(Bx  - C) +D$ and  $y=A\sin(Bx-C)+D$ w
+for the graph of   $y=A\cos(Bx  - C) +D$ and  $y=A\sin(Bx-C)+D$  with B positive  
+we have the midline as : 
+$y=D$
+amplitude 
+$\mid A \mid$
+period : 
+$\frac{1}{B} \cdot 2\pi=\frac{2\pi}{B}$
+horizontal shifted 
