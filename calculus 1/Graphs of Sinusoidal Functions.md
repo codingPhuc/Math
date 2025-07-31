@@ -121,3 +121,9 @@ so the graph of the function  $3 \sin\left( 2 \left( x - \frac{\pi}{4} \right) \
 ```
 since  
 $g(x) =f\left( x-\frac{\pi}{4} \right)$ shifted to the right by $\frac{\pi}{4}$
+
+graph the function 
+$$
+ y = 3 \sin\left(  2  \left( x - \frac{\pi}{4} \right) \right)  -1  
+$$
+have a horizontal shifted  by -1 
