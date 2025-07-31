@@ -54,5 +54,8 @@ $$
 \end{array}
 $$
 Midline : a horizontal line between the maximum and minimum 
-amplitude : is the vertical distance between 
+amplitude : is the vertical distance between max point and mid point 
+period the horizontal length of the smallest unit 
+
+
 
