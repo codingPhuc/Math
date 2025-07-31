@@ -279,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Difference Quotient.md",
+                "file": "calculus 1/Graph of Sin and Cos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Difference Quotient"
+              "title": "Outline of Graph of Sin and Cos"
             }
           }
         ],
@@ -308,14 +308,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9242df5253dc5c73",
+  "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "calculus 1/Difference Quotient.md",
     "calculus 1/2.6.2 Limits at Infinity and Algebraic Tricks.md",
     "calculus 1/Graph of Sin and Cos.md",
     "calculus 1/Graphs and Limits.md",
     "calculus 1/Limit Laws.md",
     "calculus 1/Properties of Trig Function pf sin and cos.md",
-    "calculus 1/Difference Quotient.md",
     "calculus 1/example.md",
     "calculus 1/Calculus 12 hour course.md",
     "calculus 1/What need to be understand.md",
