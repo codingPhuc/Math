@@ -27,3 +27,5 @@ $$
 $$
 
 ![[Pasted image 20250731091256.png]]
+since cos t lies in the quadrant III where both x and y is both negative : 
+$\cos t=-\sqrt{  }$
