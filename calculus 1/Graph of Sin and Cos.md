@@ -8,9 +8,10 @@ Current date: "2025-07-31"
 amount of time: 
 learning score:
 ---
+Sure, here is a table of cosine and sine values from 0 to 2pi at intermediate values, formatted for easy pasting into Obsidian. I've chosen common angles that divide the circle into 8 and 12 parts for good coverage.
 
-| t     | 0 -> $2\pi$ |
-| ----- | ----------- |
-| cos t |             |
-| cos t |             |
 
+| t (radians) | 0 | $\pi/6$ | $\pi/4$ | $\pi/3$ | $\pi/2$ | $2\pi/3$ | $3\pi/4$ | $5\pi/6$ | $\pi$ | $7\pi/6$ | $5\pi/4$ | $4\pi/3$ | $3\pi/2$ | $5\pi/3$ | $7\pi/4$ | $11\pi/6$ | $2\pi$ |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| cos t | 1 | $\sqrt{3}/2$ | $\sqrt{2}/2$ | $1/2$ | 0 | $-1/2$ | $-\sqrt{2}/2$ | $-\sqrt{3}/2$ | -1 | $-\sqrt{3}/2$ | $-\sqrt{2}/2$ | $-1/2$ | 0 | $1/2$ | $\sqrt{2}/2$ | $\sqrt{3}/2$ | 1 |
+| sin t | 0 | $1/2$ | $\sqrt{2}/2$ | $\sqrt{3}/2$ | 1 | $\sqrt{3}/2$ | $\sqrt{2}/2$ | $1/2$ | 0 | $-1/2$ | $-\sqrt{2}/2$ | $-\sqrt{3}/2$ | -1 | $-\sqrt{3}/2$ | $-\sqrt{2}/2$ | $-1/2$ | 0 |
