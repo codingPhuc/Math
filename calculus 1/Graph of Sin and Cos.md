@@ -4,8 +4,8 @@ references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
 tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
-Current date: "2025-07-31"
-amount of time: 
+Current date: 2025-07-31
+amount of time: "30"
 learning score:
 ---
 Sure, here is a table of cosine and sine values from 0 to 2pi at intermediate values, formatted for easy pasting into Obsidian. I've chosen common angles that divide the circle into 8 and 12 parts for good coverage.
