@@ -50,3 +50,9 @@ $$
 $$
 then the graph have an uptick by 1 unit 
 
+
+|               | midline | amplitude | period |
+| ------------- | ------- | --------- | ------ |
+| $y=\sin(x)$   |         |           |        |
+| $y=3 \sin 2x$ |         |           |        |
+| $y = 3 \sin$  |         |           |        |
