@@ -69,7 +69,7 @@ $$
 ```
 
 
-detemind if ($\tan(\circ)$) is an even or odd function 
+detemined if ($\tan(\circ)$) is an even or odd function 
 
 $$
 \tan(\circ)  =  \frac{\sin(-\circ)}{\cos(-\circ)}  =  - \frac{\sin(\circ )}{\cos(\circ)}  =   \frac{-\sin(\circ)}{\cos}  = -\tan (\circ)
@@ -77,6 +77,9 @@ $$
 so we concluded that $\tan(\circ)$  is an odd function  
 
 
+## Pythagorean Theorem   
+
+### first method   
 
 $$
 \cos(\circ)^2  + \sin (\circ)^2  = 1  
@@ -99,5 +102,5 @@ $$
 since cos t lies in the quadrant III where both x and y is both negative : 
 $\cos t=-\frac{\sqrt{ 45 }}{7}$
 
-## second method  
-there also a  second method  that used Pythagorean Theorem 
+### second method  
+there also a  second method  that used  p
