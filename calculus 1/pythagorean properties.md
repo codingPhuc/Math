@@ -9,4 +9,9 @@ amount of time:
 learning score:
 ---
 
-e
+$$
+\cos(\circ)^2  + \sin (\circ)^2  = 1  
+$$
+
+
+example if $\sin(t) = -\frac{2}{7}$ 
