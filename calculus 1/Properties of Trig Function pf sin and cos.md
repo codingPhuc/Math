@@ -103,4 +103,38 @@ since cos t lies in the quadrant III where both x and y is both negative :
 $\cos t=-\frac{\sqrt{ 45 }}{7}$
 
 ### second method  
-there also a  second method  that used  p
+there also a  second method  that used  Pythagorean 
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing, angles, quotes}
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+
+
+
+\draw 
+  (0,0) coordinate (A) node[anchor=north]{$A$}
+    -- node[midway, below]{$2$} %  bases 
+  (4,0) coordinate (C) node[anchor=north]{$C$}
+    -- node[midway, right]{$opp$} % hyp 
+  (4,4) coordinate (B) node[anchor=south]{$B$}
+    -- node[midway, above left]{$hyp$} %adj
+  cycle;
+    % Add angle at point A (between sides AC and AB)
+
+    \pic["$\circ$", draw=orange, angle radius=1cm, angle eccentricity=1.2] {angle = C--A--B} ;
+
+
+ 
+\end{tikzpicture}
+\end{document}
+
+```
+$$
+ \sin  = \frac{opp}{hyp}
+$$
