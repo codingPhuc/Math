@@ -38,6 +38,7 @@ Sure, here is a table of cosine and sine values from 0 to 2pi at intermediate va
     % Text annotations  
     % Draw the parabola
   \draw[thick, blue, domain=-6.28:6.28, smooth, samples=100] plot (\x, {cos(\x r)});
+  \draw[thick, red, domain=-6.28:6.28, smooth, samples=100] plot (\x, {sin(\x r)});
 
  
 \end{tikzpicture}
