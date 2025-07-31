@@ -279,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/The Unit Circle.md",
+                "file": "calculus 1/pythagorean properties.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Unit Circle"
+              "title": "Outline of pythagorean properties"
             }
           }
         ],
@@ -308,11 +308,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9242df5253dc5c73",
+  "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "calculus 1/The Unit Circle.md",
     "calculus 1/pythagorean properties.md",
     "calculus 1/Properties of Trig Function pf sin and cos.md",
-    "calculus 1/The Unit Circle.md",
     "calculus 1/Right Angle Trinometry.md",
     "calculus 1/The Squeeze Theorem.md",
     "calculus 1/Limit Laws.md",
