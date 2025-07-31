@@ -17,6 +17,12 @@ $$
 example if $\sin(t) = -\frac{2}{7}$ and  t is angle that lies in quadrant III , find the $\cos(t)$ 
 
 $$
-\cos t^2   +  \sin t^2  = 1  
-(\cos t)
+\begin{array}{l} \\
+\cos t^2   +  \sin t^2  = 1  \\ 
+(\cos t)^2  +\left( -\frac{2}{7} \right)^2  =1   \\
+(\cos t)^2  +  \frac{4}{49}   = 1   \\
+(\cos t)^2    =  1  - \frac{4}{49}   
+\end{array}
+
+
 $$
