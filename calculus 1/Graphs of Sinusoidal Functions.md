@@ -170,4 +170,11 @@ amplitude
 $\mid A \mid$
 period : 
 $\frac{1}{B} \cdot 2\pi=\frac{2\pi}{B}$
-horizontal shifted 
+horizontal shifted : 
+$$
+\frac{C}{B}
+$$
+- to the right if $\frac{C}{B}$ is positive 
+- to the left if $\frac{C}{B}$ is negative 
+
+
