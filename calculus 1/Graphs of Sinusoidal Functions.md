@@ -163,4 +163,4 @@ period $2\pi$
 
 ```
 ## general definition  
-for the graph of  
+for the graph of   $y=A\cos(Bx  - C) +D$ and  $y=A\sin(Bx-C)+D$ w
