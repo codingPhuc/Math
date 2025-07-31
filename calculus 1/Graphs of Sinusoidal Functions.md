@@ -9,3 +9,5 @@ amount of time:
 learning score:
 ---
 
+graph the function $y=3\sin(2x)$  with the attribute  
+- astray by  3
