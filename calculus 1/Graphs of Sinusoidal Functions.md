@@ -88,3 +88,5 @@ we know that the graph of $3 \sin2x$ is
 \end{document}
 
 ```
+so the graph of the function  $3 \sin\left( 2 \left( x - \frac{\pi}{4} \right) \right)$  will look like this 
+
