@@ -69,4 +69,8 @@ $$
 ```
 
 
-Determind if (tan)
+Determind if ($\tan(\circ)$) is an even or odd function 
+
+$$
+\tan(\circ)  =  \frac{\sin(-\circ)}{\cos(\circ)}
+$$
