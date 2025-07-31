@@ -10,4 +10,37 @@ learning score:
 ---
 
 graph the function $y=3\sin(2x)$  with the attribute  
-- astray by  3
+- astray by  3  
+- compress  horizontally by  1/2  
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw axes
+    \draw[->] (-7,0) -- (7,0) node[right] {$x$};
+    \draw[->] (0,-7) -- (0,7) node[above] {$y$};
+
+    % Tick marks and labels
+    \foreach \x in {-6,-5,...,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+    \foreach \y in {-6,-5,...,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[left] {\y};
+    }
+
+    % Right branch
+       \draw[dashed, red, domain=-3:3] plot (\x, {2^(\x) });
+
+
+
+\end{tikzpicture}
+\end{document}
+
+```
