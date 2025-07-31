@@ -53,4 +53,6 @@ $$
 \sin (x )   =  \cos \left(  x  - \frac{\pi}{2} \right)
 \end{array}
 $$
+Midline : a horizontal line between the maximum and minimum 
+amplitude : is the vertical distance between 
 
