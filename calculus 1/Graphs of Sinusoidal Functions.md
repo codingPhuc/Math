@@ -51,8 +51,10 @@ $$
 then the graph have an uptick by 1 unit 
 
 
-|                   | midline | amplitude | period                  |
-| ----------------- | ------- | --------- | ----------------------- |
-| $y=\sin(x)$       | 0       | 1         | $2\pi$                  |
-| $y=3 \sin 2x$     | 0       | 3         | $\frac{1}{2}\cdot =\pi$ |
-| $y = 3 \sin 2 +1$ | 1       | 3         |                         |
+|                   | midline | amplitude | period                      |
+| ----------------- | ------- | --------- | --------------------------- |
+| $y=\sin(x)$       | 0       | 1         | $2\pi$                      |
+| $y=3 \sin 2x$     | 0       | 3         | $\frac{1}{2}\cdot 2\pi=\pi$ |
+| $y = 3 \sin 2 +1$ | 1       | 3         | $\pi$                       |
+
+example graph the function  y =  3 $3 \sin(2 ) + 1$
