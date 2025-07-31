@@ -21,9 +21,9 @@ $$
 \cos t^2   +  \sin t^2  = 1  \\ 
 (\cos t)^2  +\left( -\frac{2}{7} \right)^2  =1   \\
 (\cos t)^2  +  \frac{4}{49}   = 1   \\
-(\cos t)^2    =  1  - \frac{4}{49}    =  \frac{45}{49} 
+(\cos t)^2    =  1  - \frac{4}{49}    =  \frac{45}{49}    \\
+\cos  t =   \pm  \frac{\sqrt{ 45 }}{7}
 \end{array}
 $$
-cost  
 
 ![[Pasted image 20250731091256.png]]
