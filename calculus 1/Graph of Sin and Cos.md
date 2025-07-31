@@ -15,3 +15,32 @@ Sure, here is a table of cosine and sine values from 0 to 2pi at intermediate va
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | cos t | 1 | $\sqrt{3}/2$ | $\sqrt{2}/2$ | $1/2$ | 0 | $-1/2$ | $-\sqrt{2}/2$ | $-\sqrt{3}/2$ | -1 | $-\sqrt{3}/2$ | $-\sqrt{2}/2$ | $-1/2$ | 0 | $1/2$ | $\sqrt{2}/2$ | $\sqrt{3}/2$ | 1 |
 | sin t | 0 | $1/2$ | $\sqrt{2}/2$ | $\sqrt{3}/2$ | 1 | $\sqrt{3}/2$ | $\sqrt{2}/2$ | $1/2$ | 0 | $-1/2$ | $-\sqrt{2}/2$ | $-\sqrt{3}/2$ | -1 | $-\sqrt{3}/2$ | $-\sqrt{2}/2$ | $-1/2$ | 0 |
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm]
+    % Draw x-axis
+    \draw[->] (-7,0) -- (7,0) node[right] {};
+    \draw[->] (0,-7) -- (0,7) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    }
+
+    % Text annotations  
+    % Draw the parabola
+    \draw[thick, blue, domain=-1:4, smooth] plot (\x, {cos(\x)});
+ 
+\end{tikzpicture}
+\end{document}
+
+
+``` 

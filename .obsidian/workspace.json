@@ -279,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/2.6.2 Limits at Infinity and Algebraic Tricks.md",
+                "file": "calculus 1/Graph of Sin and Cos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.6.2 Limits at Infinity and Algebraic Tricks"
+              "title": "Outline of Graph of Sin and Cos"
             }
           }
         ],
@@ -308,12 +308,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9242df5253dc5c73",
+  "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "calculus 1/2.6.2 Limits at Infinity and Algebraic Tricks.md",
+    "calculus 1/Graph of Sin and Cos.md",
     "calculus 1/Calculus 12 hour course.md",
     "calculus 1/Difference Quotient.md",
     "calculus 1/example.md",
-    "calculus 1/Graph of Sin and Cos.md",
     "calculus 1/Graphs and Limits.md",
     "Paul Online note/algebra/Section 2.5  Quadratic Equations - Part I.md",
     "calculus 1/Limits using Algebraic Tricks.md",
@@ -336,7 +337,6 @@
     "calculus 1/2.5 Continuity on interval and continuous function.md",
     "calculus 1/2.5.1 Continuity.md",
     "calculus 1/2.6.1 limit at infinity and Graphs.md",
-    "calculus 1/2.6.2 Limits at Infinity and Algebraic Tricks.md",
     "picture/Pasted image 20250725121504.png",
     "picture/Pasted image 20250725113452.png",
     "picture/Pasted image 20250725112624.png",
