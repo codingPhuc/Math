@@ -154,7 +154,7 @@ period $2\pi$
     }
 
     % Right branch
-  \draw[thick, red, domain=-6.28:6.28, smooth, samples=100]  node[ above] {sin} plot (\x, {3* sin((2* (\x  - 3.14/4)) r)});
+  \draw[thick, red, domain=-6.28:6.28, smooth, samples=100]  node[ above] {sin} plot (\x, {3* sin((2* (\x  - 3.14/4)) r) -1});
 
 
 
@@ -162,3 +162,5 @@ period $2\pi$
 \end{document}
 
 ```
+## general definition  
+for the graph of  
