@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/pythagorean properties.md",
+                "file": "calculus 1/Properties of Trig Function pf sin and cos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pythagorean properties"
+              "title": "Properties of Trig Function pf sin and cos"
             }
           },
           {
@@ -279,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/pythagorean properties.md",
+                "file": "calculus 1/Properties of Trig Function pf sin and cos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pythagorean properties"
+              "title": "Outline of Properties of Trig Function pf sin and cos"
             }
           }
         ],
@@ -310,10 +310,10 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "picture/Pasted image 20250731091256.png",
-    "calculus 1/The Unit Circle.md",
     "calculus 1/pythagorean properties.md",
     "calculus 1/Properties of Trig Function pf sin and cos.md",
+    "picture/Pasted image 20250731091256.png",
+    "calculus 1/The Unit Circle.md",
     "calculus 1/Right Angle Trinometry.md",
     "calculus 1/The Squeeze Theorem.md",
     "calculus 1/Limit Laws.md",
@@ -345,7 +345,6 @@
     "picture/Pasted image 20250723084432.png",
     "Paul Online note/algebra/Section 4.1  Lines, Circles and Piecewise Functions.md",
     "picture/Pasted image 20250721130119.png",
-    "picture/Pasted image 20250719165216.png",
     "calculus 1",
     "Paul Online note/algebra",
     "Untitled",

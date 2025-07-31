@@ -69,7 +69,7 @@ $$
 ```
 
 
-Determind if ($\tan(\circ)$) is an even or odd function 
+detemind if ($\tan(\circ)$) is an even or odd function 
 
 $$
 \tan(\circ)  =  \frac{\sin(-\circ)}{\cos(-\circ)}  =  - \frac{\sin(\circ )}{\cos(\circ)}  =   \frac{-\sin(\circ)}{\cos}  = -\tan (\circ)
@@ -77,3 +77,27 @@ $$
 so we concluded that $\tan(\circ)$  is an odd function  
 
 
+
+$$
+\cos(\circ)^2  + \sin (\circ)^2  = 1  
+$$
+
+
+example if $\sin(t) = -\frac{2}{7}$ and  t is angle that lies in quadrant III , find the $\cos(t)$ 
+
+$$
+\begin{array}{l} \\
+\cos t^2   +  \sin t^2  = 1  \\ 
+(\cos t)^2  +\left( -\frac{2}{7} \right)^2  =1   \\
+(\cos t)^2  +  \frac{4}{49}   = 1   \\
+(\cos t)^2    =  1  - \frac{4}{49}    =  \frac{45}{49}    \\
+\cos  t =   \pm  \frac{\sqrt{ 45 }}{7}
+\end{array}
+$$
+
+![[Pasted image 20250731091256.png]]
+since cos t lies in the quadrant III where both x and y is both negative : 
+$\cos t=-\frac{\sqrt{ 45 }}{7}$
+
+## second method  
+there also a  second method  that used Pythagorean Theorem 
