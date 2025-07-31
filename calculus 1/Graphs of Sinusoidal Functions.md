@@ -36,7 +36,7 @@ graph the function $y=3\sin(2x)$  with the attribute
     }
 
     % Right branch
-  \draw[thick, red, domain=-6.28:6.28, smooth, samples=100]  node[ above] {sin} plot (\x, { sin((2* \x) r)});
+  \draw[thick, red, domain=-6.28:6.28, smooth, samples=100]  node[ above] {sin} plot (\x, {3* sin((2* \x) r)});
 
 
 
@@ -44,3 +44,9 @@ graph the function $y=3\sin(2x)$  with the attribute
 \end{document}
 
 ```
+if then the graph change by adding one like  
+$$
+3 \sin2x + 1  
+$$
+then the graph have an uptick by 1 unit 
+
