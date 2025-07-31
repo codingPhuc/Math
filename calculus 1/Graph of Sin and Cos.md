@@ -9,6 +9,8 @@ amount of time:
 learning score:
 ---
 
-| t   |     |
-| --- | --- |
-|     |     |
+| t     | 0 -> $2\pi$ |
+| ----- | ----------- |
+| cos t |             |
+| cos t |             |
+
