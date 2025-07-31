@@ -55,7 +55,9 @@ $$
 $$
 Midline : a horizontal line between the maximum and minimum 
 amplitude : is the vertical distance between max point and mid point 
-period the horizontal length of the smallest unit 
+period: the horizontal length of the smallest unit 
 
 
+attribute of graph cos t and sin t  : 
+midline is  
 
