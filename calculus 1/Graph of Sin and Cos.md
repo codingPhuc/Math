@@ -46,5 +46,11 @@ Sure, here is a table of cosine and sine values from 0 to 2pi at intermediate va
 
 
 ``` 
-the graph of cos is similar to sin but shifted horizontally to the left by $\frac{\pi}{2}$
+the graph of cos is similar to sin but shifted horizontally to the left by $\frac{\pi}{2}$  
+$$
+\begin{array} {l}
+\cos ( x )  =  \sin \left( x  + \frac{\pi}{2} \right)   \\
+\sin (x )   =  \cos \left(  x  - \frac{\pi}{2} \right)
+\end{array}
+$$
 
