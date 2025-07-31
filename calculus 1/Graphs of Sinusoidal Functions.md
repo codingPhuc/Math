@@ -36,7 +36,7 @@ graph the function $y=3\sin(2x)$  with the attribute
     }
 
     % Right branch
-       \draw[dashed, red, domain=-3:3] plot (\x, {2^(\x) });
+  \draw[thick, red, domain=-6.28:6.28, smooth, samples=100]  node[ above] {sin} plot (\x, { sin((2* \x) r)});
 
 
 
