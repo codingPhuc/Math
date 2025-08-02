@@ -242,9 +242,10 @@ for example :
 \begin{document}
 \tikzset{every picture/.style={line width=1pt}} % set default line width
 % marco for setting
-\pgfmathsetmacro{\left}{-pi/2 + 0.001}
-  \pgfmathsetmacro{\right}{pi/2 - 0.001} 
 \pgfmathsetmacro{\halfpi}{pi/2}
+\pgfmathsetmacro{\left}{-\halfpi+ 0.001}
+  \pgfmathsetmacro{\right}{\halfpi - 0.001} 
+
 \begin{tikzpicture}[x=1cm,y=1cm, scale = 2]
     % Draw x-axis 
     
