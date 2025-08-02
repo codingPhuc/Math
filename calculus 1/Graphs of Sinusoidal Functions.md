@@ -181,10 +181,10 @@ $$
 $$
 \begin{array}{l} \\
  y = \frac{1}{3}\cos\left( \frac{1}{2}x + 3 \right)  - 5    \\
+=    \frac{1}{3}\cos\left( \frac{1}{2}(x + 6) \right)  - 5 
 \end{array}
-
 $$
 midline $y=-5$ 
 amplitude  $=\frac{1}{3}$ 
+shifted  6 unit to the left 
 
-shifted 
