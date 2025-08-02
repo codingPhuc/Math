@@ -188,3 +188,5 @@ midline $y=-5$
 amplitude  $=\frac{1}{3}$ 
 shifted  6 unit to the left 
 
+Graph the line  y = tan(x) 
+example what is the slope of the line at $\de$
