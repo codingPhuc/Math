@@ -252,8 +252,8 @@ for example :
 \draw[dashed] (-\halfpi,-2) -- (-\halfpi,2);
     \draw[->] (-2,0) -- (2,0) node[right] {};
     \draw[->] (0,-2) -- (0,2) node[right] {}; 
-\draw[thick, blue, domain=\left:\right, smooth] 
-    plot (\x, {tan(\x )});
+\draw[thick, blue, domain=-3.28:3.28, smooth] 
+    plot (\x, {tan(\x r)});
     % Draw tick marks and labels
 %%  \draw[thick, blue, domain=\right:, smooth] plot (\x, {tan(\x r)}); %%
 \end{tikzpicture}
