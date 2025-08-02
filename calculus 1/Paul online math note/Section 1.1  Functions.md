@@ -82,15 +82,16 @@ $$
 h (x)  =  -2x^2  + 12x +  5  \\
 \text{  the domain of this function is} (-\infty , \infty)   \\
 \text{ vertex  :} x = -\frac{12}{2 \cdot - 2 }    =3   +>(3,23) \\
-
-\text{ range of the function is }  [0 , \infty)
+\text{ range of the function is }  (-\infty , 23]
 \end{array}
 $$
+
 
 $$
 \begin{array}{l} \\
 h (x)  = \mid  z - 6 \mid   - 3  \\
-\text{  the domain of this function is} (-\infty , \infty)
+\text{  the domain of this function is} (-\infty , \infty)  \\
+\text{ range of the function is si }  [-3, \infty) 
 \end{array}
 $$
 
