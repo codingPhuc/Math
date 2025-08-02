@@ -290,5 +290,5 @@ this is the graph of $y=\tan(\circ)$
 \end{document}
 
 ```
-
-
+In the graph above find the : 
+x-intercept :  
