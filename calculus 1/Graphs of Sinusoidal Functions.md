@@ -328,10 +328,10 @@ graph the graph of sec(x) :
 
 ```
 
-The interesting part of this graph is that when ever cos collies with the x intercept it create a vertical  asymptotes 
+The interesting part of this graph is that when ever cos collies with the x intercept it create a vertical  asymptotes for sec(x)
 In the graph above find the : 
-x-intercept : 
-vertical asymptotes : $-\frac{3}{2}\pi\xrightarrow{\text{}} \frac{3}{2}\pi$ the general form is $\frac{\pi}{2}k$where k is an odd integer 
+x-intercept : None 
+vertical asymptotes : where cos(x) = 0 : $\frac{\pi}{2}\xrightarrow{\text{}} \pi$
 domain : ${x|x  \neq \frac{\pi}{2} \text{ for k odd integer}}$
 range : $(-\infty,\infty)$
 period : $\pi$
