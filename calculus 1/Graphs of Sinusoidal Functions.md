@@ -335,3 +335,6 @@ vertical asymptotes : where cos(x) = 0 : $\frac{\pi}{2}\xrightarrow{\text{}} \fr
 domain : ${x|x  \neq \frac{\pi}{2} \text{ for k odd integer}}$
 range : $(-\infty, -1  ] \cup [1 ,\infty)$
 period : $2\pi$
+
+
+

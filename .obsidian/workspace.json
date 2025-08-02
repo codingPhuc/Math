@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Graphs of Sinusoidal Functions.md",
+                "file": "calculus 1/Solving Basic Trig Equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphs of Sinusoidal Functions"
+              "title": "Solving Basic Trig Equation"
             }
           },
           {
@@ -279,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Graphs of Sinusoidal Functions.md",
+                "file": "calculus 1/Solving Basic Trig Equation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Graphs of Sinusoidal Functions"
+              "title": "Outline of Solving Basic Trig Equation"
             }
           }
         ],
@@ -310,8 +310,9 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "calculus 1/Rational Functions and Graphs.md",
     "calculus 1/Graphs of Sinusoidal Functions.md",
+    "calculus 1/Solving Basic Trig Equation.md",
+    "calculus 1/Rational Functions and Graphs.md",
     "calculus 1/Right Angle Trinometry.md",
     "calculus 1/The Squeeze Theorem.md",
     "calculus 1/The Unit Circle.md",
@@ -335,7 +336,6 @@
     "calculus 1/2.5.1 Continuity.md",
     "calculus 1/2.5 Continuity on interval and continuous function.md",
     "Paul Online note/algebra/Section 2.5  Quadratic Equations - Part I.md",
-    "calculus 1/pythagorean properties.md",
     "picture/Pasted image 20250731091256.png",
     "picture/Pasted image 20250726124712.png",
     "picture/Pasted image 20250726122926.png",
