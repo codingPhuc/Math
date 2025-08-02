@@ -20,18 +20,15 @@ Sure! Here's your list converted into link format. Each topic is followed by the
 
 ### [[Difference Quotient]]
 
-- [Tangent Lines and Rates of Change](https://tutorial.math.lamar.edu/Classes/CalcI/TangentLines.aspx)
-    
+- [Tangent Lines and Rates of Change](https://tutorial.math.lamar.edu/Classes/CalcI/Tangents_Rates.aspx) – In this section we will introduce two problems that we will see time and again in this course : Rate of Change of a function and Tangent Lines to functions. Both of these problems will be used to introduce the concept of limits, although we won't formally give the definition or notation until the next section.
 
 ### [[Graphs and Limits]]
 
-- [The Limit](https://tutorial.math.lamar.edu/Classes/CalcI/LimitsIntro.aspx)
-    
+- [The Limit](https://tutorial.math.lamar.edu/Classes/CalcI/TheLimit.aspx) – In this section we will introduce the notation of the limit. We will also take a conceptual look at limits and try to get a grasp on just what they are and what they can tell us. We will be estimating the value of limits in this section to help us understand what they tell us. We will actually start computing limits in a couple of sections.
 
 ### [[When Limits Fail to Exist]]
 
-- [One-Sided Limits](https://tutorial.math.lamar.edu/Classes/CalcI/OneSidedLimits.aspx)
-    
+- [One-Sided Limits](https://tutorial.math.lamar.edu/Classes/CalcI/OneSidedLimits.aspx) – In this section we will introduce the concept of one-sided limits. We will discuss the differences between one-sided limits and limits as well as how they are related to each other.
 - [Infinite Limits](https://tutorial.math.lamar.edu/Classes/CalcI/InfiniteLimits.aspx)
     
 
