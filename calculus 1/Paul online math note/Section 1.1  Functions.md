@@ -91,15 +91,18 @@ $$
 \begin{array}{l} \\
 h (x)  = \mid  z - 6 \mid   - 3  \\
 \text{  the domain of this function is} (-\infty , \infty)  \\
-\text{ range of the function is si }  [-3, \infty) 
+\text{ range of the function is }  [-3, \infty) 
 \end{array}
 $$
+
+this is because the value  z - 6  cannot be less than 0 because of abs 
 
 $$
 
 \begin{array}{l} \\
 g(x )  =  8 \\
-\text{ there is no domain for this function since it is constant at y =8 }
+
+\text{ range of the function is }  -8
 \end{array}
 
 $$
