@@ -47,7 +47,7 @@ $$
 $$
 f(t) =  9t^3    - 18t^2   +  6t  \implies 
 \left\{\begin{array}{l}   \\
-
+3t(3t^3  -  6t  + 6)  
 \end{array}
 \right.
 
