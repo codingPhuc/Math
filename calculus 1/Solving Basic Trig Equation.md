@@ -38,7 +38,7 @@ $$
         \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
     }
 
-    \draw (0,)  circle [radius  = 2cm ]  ; 
+    \draw (0,0)  circle [radius  = 2cm ]  ; 
 
 
 \end{tikzpicture}
