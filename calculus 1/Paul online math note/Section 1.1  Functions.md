@@ -57,3 +57,5 @@ t = \frac{6^2  \pm \sqrt{ -6^2    -  4  \cdot  2 \cdot  }}{2 \cdot 3}  =  1 \mp 
 
 $$
 
+
+## Find the 
