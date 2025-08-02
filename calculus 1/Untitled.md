@@ -8,3 +8,8 @@
 [[The Squeeze Theorem]]
 [[Limits using Algebraic Tricks]]
 [[When the Limit of the Denominator is 0]]
+[[Lines Graphs and Equations]]
+[[Rational Functions and Graphs]]
+[[2.6.1 limit at infinity and Graphs]]
+[[2.5.1 Continuity]]
+[[[2.5 Continuity on interval and continuous function]]]
