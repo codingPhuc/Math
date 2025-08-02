@@ -249,7 +249,8 @@ for example :
 \draw[dashed] (-\halfpi,-2) -- (-\halfpi,2);
     \draw[->] (-2,0) -- (2,0) node[right] {};
     \draw[->] (0,-2) -- (0,2) node[right] {}; 
-     \draw[->] (0,0) -- (1,0.5) node[right] {};
+\draw[thick, blue, domain=-3:1.99, smooth] 
+    plot (\x, {});
     % Draw tick marks and labels
  
 \end{tikzpicture}
