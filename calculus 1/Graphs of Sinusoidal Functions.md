@@ -231,4 +231,32 @@ when angle  0-> $-\frac{\pi}{2}$, slope -> $-\infty$
 when angle = $\frac{\pi}{2}\cup-\frac{\pi}{2}$ slope is DNE 
 sketch  a rough graph of y = $\tan(x)$ for x because  $-\frac{\pi}{2}\cap \frac{\pi}{2}$
 
-this mean that 
+this mean that the graph of tan(x) is a periodic graph that rise and fall in each interval 
+
+for example : 
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=1pt}} % set default line width
+
+\begin{tikzpicture}[x=1cm,y=1cm, scale = 2]
+    % Draw x-axis 
+    \draw[->] (-2,0) -- (2,0) node[right] {};
+    \draw[->] (0,-2) -- (0,2) node[right] {}; 
+     \draw[->] (0,0) -- (1,0.5) node[right] {};
+    % Draw tick marks and labels
+    \foreach \x in {-1,0,1} {
+        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
+    }
+        \foreach \y in {-1,0,1} {
+        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
+    } 
+\draw (0,0) circle (1cm);
+ 
+\end{tikzpicture}
+\end{document}
+
+```
