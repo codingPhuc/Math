@@ -45,6 +45,13 @@ $$
 
 ## determine  all the roots of 
 $$
-f(t) =  9t^3    - 18t^2   +  6t 
+\left\{  \right\} 
+\begin{array}{l} 
+f(t) =  9t^3    - 18t^2   +  6t   \\
+
+\end{array}
+
+
+
 $$
 
