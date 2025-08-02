@@ -226,4 +226,5 @@ $y = \tan(x)$
 - tan(x) being the angle 
 
 when angle  =  0, the slope is 0 
-when angle a
+when angle approaching $\frac{\pi}{2}$  the slope ->  0 
+when angle  0-> $-\frac{\pi}{2}$, slope -> $-\infty$  
