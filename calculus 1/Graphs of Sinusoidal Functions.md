@@ -263,3 +263,31 @@ for example :
 \end{document}
 
 ```
+
+
+
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{document}
+\tikzset{every picture/.style={line width=1pt}} % set default line width
+% marco for setting
+\pgfmathsetmacro{\halfpi}{pi/2}
+\pgfmathsetmacro{\left}{-\halfpi+ 0.001}
+  \pgfmathsetmacro{\right}{\halfpi - 0.001} 
+
+\begin{tikzpicture}[x=2cm, y=1.5cm]
+    % Draw x-axis 
+    \clip (2,-2) rectangle (6,2);
+\draw[dashed] (\halfpi,-2) -- (\halfpi,2);
+\draw[dashed] (-\halfpi,-2) -- (-\halfpi,2);
+    \draw[->] (-2,0) -- (2,0) node[right] {};
+    \draw[->] (0,-2) -- (0,2) node[right] {}; 
+\draw[thick, blue,  domain=-3.28:3.28, smooth] 
+    plot (\x, {tan(\x r)}); 
+\end{tikzpicture}
+\end{document}
+
+```
