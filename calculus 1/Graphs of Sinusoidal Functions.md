@@ -248,7 +248,7 @@ for example :
 
 \begin{tikzpicture}[x=2cm, y=1.5cm]
     % Draw x-axis 
-    
+    \clip (-2,-2) rectangle (2,2);
 \draw[dashed] (\halfpi,-2) -- (\halfpi,2);
 \draw[dashed] (-\halfpi,-2) -- (-\halfpi,2);
     \draw[->] (-2,0) -- (2,0) node[right] {};
