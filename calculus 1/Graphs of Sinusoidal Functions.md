@@ -238,10 +238,13 @@ for example :
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
-\pgfmathsetmacro{\halfpi}{pi/2}
+
 \begin{document}
 \tikzset{every picture/.style={line width=1pt}} % set default line width
-
+% marco for
+\pgfmathsetmacro{\left}{-pi/2 + 0.001}
+  \pgfmathsetmacro{\right}{pi/2 - 0.001} 
+\pgfmathsetmacro{\halfpi}{pi/2}
 \begin{tikzpicture}[x=1cm,y=1cm, scale = 2]
     % Draw x-axis 
     
