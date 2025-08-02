@@ -46,4 +46,6 @@ $$
 ![[Pasted image 20250802093703.png]] 
 
 ![[Pasted image 20250802093721.png]] 
+we can see though the circle that  if the angle is  $\frac{\pi}{6} \text{ then } (\frac{\sqrt{ 3 }}{2}, \frac{1}{2}$
 
+overall the gener
