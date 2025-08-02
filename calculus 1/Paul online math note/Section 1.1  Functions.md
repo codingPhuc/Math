@@ -58,4 +58,4 @@ t = \frac{6^2  \pm \sqrt{ -6^2    -  4  \cdot  2 \cdot  }}{2 \cdot 3}  =  1 \mp 
 $$
 
 
-## Find the 
+## Find the domain and range of each of the following function 
