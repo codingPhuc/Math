@@ -17,3 +17,4 @@ $$
 \cos(x) =   -\frac{1}{2}
 \end{array}
 $$
+
