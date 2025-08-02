@@ -223,7 +223,7 @@ example what is the slope of the line at $\circ$
 ```
 $y = \tan(x)$ 
 - y being the slope of the line that angle  
-- tan(x) being the angle 
+- x being the angle 
 
 when angle  =  0, the slope is 0 
 when angle approaching $\frac{\pi}{2}$  the slope ->  0 
@@ -231,3 +231,4 @@ when angle  0-> $-\frac{\pi}{2}$, slope -> $-\infty$
 when angle = $\frac{\pi}{2}\cup-\frac{\pi}{2}$ slope is DNE 
 sketch  a rough graph of y = $\tan(x)$ for x because  $-\frac{\pi}{2}\cap \frac{\pi}{2}$
 
+this mean that 
