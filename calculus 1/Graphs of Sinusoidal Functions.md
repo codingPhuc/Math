@@ -229,4 +229,5 @@ when angle  =  0, the slope is 0
 when angle approaching $\frac{\pi}{2}$  the slope ->  0 
 when angle  0-> $-\frac{\pi}{2}$, slope -> $-\infty$  
 when angle = $\frac{\pi}{2}\cup-\frac{\pi}{2}$ slope is DNE 
-sketch  a rought graph 
+sketch  a rough graph of y = $\tan(x)$ for x because  $-\frac{\pi}{2}\cap \frac{\pi}{2}$
+
