@@ -191,35 +191,30 @@ shifted  6 unit to the left
 Graph the line  y = tan(x) 
 example what is the slope of the line at $\circ$ 
 
-
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
 
 \begin{document}
-\tikzset{every picture/.style={line width=0.75pt}} % set default line width
+\tikzset{every picture/.style={line width=1pt}} % set default line width
 
-\begin{tikzpicture}[x=1cm,y=1cm]
-    % Draw x-axis
-    \draw[->] (-7,0) -- (7,0) node[right] {};
-    \draw[->] (0,-7) -- (0,7) node[right] {};
+\begin{tikzpicture}[x=1cm,y=1cm, scale = 2]
+    % Draw x-axis 
+    \draw[->] (-2,0) -- (2,0) node[right] {};
+    \draw[->] (0,-2) -- (0,2) node[right] {}; 
+     \draw[->] (0,0) -- (1,0.5) node[right] {};
     % Draw tick marks and labels
-    \foreach \x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6} {
-        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
-    }
-        \foreach \y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6} {
-        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
-    }
-
-    % Text annotations  
-    % Draw the parabola
-  \draw[thick, blue, domain=-6.28:6.28, smooth, samples=100]  node[midway, above] {cos} plot (\x, {cos(\x r)});
-  \draw[thick, red, domain=-6.28:6.28, smooth, samples=100]  node[ above] {sin} plot (\x, {sin(\x r)});
-
+\draw 
+  (0,0) coordinate (A) node[anchor=north]{$A$}
+    -- node[midway, below]{$adj$} %  bases 
+  (1,0) coordinate (C) node[anchor=north]{$C$}
+    -- node[midway, right]{$opp$} % hyp 
+  (1,1) coordinate (B) node[anchor=south]{$B$}
+    -- node[midway, above left]{$hyp$} %adj
+  cycle;
+\draw (0,0) circle (1cm);
  
 \end{tikzpicture}
 \end{document}
 
-
-``` 
-
+```
