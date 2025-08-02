@@ -211,8 +211,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -309,7 +308,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2355cabcc82546b0",
+  "active": "56951fb26ce0d245",
   "lastOpenFiles": [
     "calculus 1/Graphs and Limits.md",
     "calculus 1/Graph of Sin and Cos.md",

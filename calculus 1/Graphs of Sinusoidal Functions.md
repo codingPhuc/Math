@@ -51,11 +51,11 @@ $$
 then the graph have an uptick by 1 unit 
 
 
-|                   | <br><br><br><br>midline | amplitude | period                      |
-| ----------------- | ----------------------- | --------- | --------------------------- |
-| $y=\sin(x)$       | 0                       | 1         | $2\pi$                      |
-| $y=3 \sin 2x$     | 0                       | 3         | $\frac{1}{2}\cdot 2\pi=\pi$ |
-| $y = 3 \sin 2 +1$ | 1                       | 3         | $\pi$                       |
+|                   | <br><br><br><br><br>midline | amplitude | period                      |
+| ----------------- | --------------------------- | --------- | --------------------------- |
+| $y=\sin(x)$       | 0                           | 1         | $2\pi$                      |
+| $y=3 \sin 2x$     | 0                           | 3         | $\frac{1}{2}\cdot 2\pi=\pi$ |
+| $y = 3 \sin 2 +1$ | 1                           | 3         | $\pi$                       |
 
 example graph the function  y =  3 $3 \sin\left( 2 \left( x - \frac{\pi}{4} \right) \right)$ 
 we know that the graph of $3 \sin2x$ is 
@@ -177,3 +177,12 @@ $$
 - to the right if $\frac{C}{B}$ is positive 
 - to the left if $\frac{C}{B}$ is negative 
 
+
+$$
+\begin{array}{l} \\
+ y = \frac{1}{3}\cos\left( \frac{1}{2}x + 3 \right)  - 5    \\
+\end{array}
+
+$$
+midline $y=-5$ 
+amplicaiton 
