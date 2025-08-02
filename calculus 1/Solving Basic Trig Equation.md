@@ -41,3 +41,7 @@ $$
 \tan x  =  \frac{\sqrt{ 3 }}{3}
 \end{array}
 $$
+![[Pasted image 20250802093703.png]] 
+
+![[Pasted image 20250802093721.png]] 
+
