@@ -185,4 +185,6 @@ $$
 
 $$
 midline $y=-5$ 
-amplicaiton 
+amplitude  $=\frac{1}{3}$ 
+
+shifted 
