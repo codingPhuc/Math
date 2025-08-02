@@ -297,3 +297,5 @@ domain : ${x|x  \neq \frac{\pi}{2} \text{ for k odd integer}}$
 range : $(-\infty,\infty)$
 period : $\pi$
 
+graph the graph of se()
+
