@@ -21,4 +21,11 @@ $$
 
 as we can see there are two solution for $f(x)$ where the x coordinate is  $-\frac{1}{2}$  
 where x variable for the equation  cos(x)  is either  $\frac{2\pi}{3} \frac{,4\pi}{3}$ 
-bases on 
+bases on this we can conclude the general form for the equation 
+
+$$
+\begin{array}{l}  \\
+\frac{2\pi}{3}  + 2\pi \cdot k  \\
+\frac{4\pi}{3}
+\end{array}
+$$
