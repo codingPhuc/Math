@@ -38,7 +38,8 @@ find the solution in the interval  $[0,2\pi]$
 $$
  \begin{array}{l} \\
 3 \tan x  =  \sqrt{ 3  }   \\
-\tan x  =  \frac{\sqrt{ 3 }}{3}
+\tan x  =  \frac{\sqrt{ 3 }}{3}  \\
+\frac{\sin \frac{\pi}{6}}{\cos \frac{\pi}{6}}  = \frac{\frac{1}{2}}{\frac{\sqrt{ 3 }}{2}}      
 \end{array}
 $$
 ![[Pasted image 20250802093703.png]] 
