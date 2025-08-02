@@ -253,10 +253,9 @@ for example :
     \draw[->] (-2,0) -- (2,0) node[right] {};
     \draw[->] (0,-2) -- (0,2) node[right] {}; 
 \draw[thick, blue, domain=\left:\right, smooth] 
-    plot (\x, {tan(\x r)});
+    plot (\x, {tan(\x )});
     % Draw tick marks and labels
- \draw[thick, blue, domain=\right:10, smooth] 
-    plot (\x, {tan(\x r)});
+%%  \draw[thick, blue, domain=\right:, smooth] plot (\x, {tan(\x r)}); %%
 \end{tikzpicture}
 \end{document}
 
