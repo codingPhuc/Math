@@ -292,4 +292,4 @@ this is the graph of $y=\tan(\circ)$
 ```
 In the graph above find the : 
 x-intercept :  will have a pattern spanning from $-2\pi \xrightarrow{\text{}}2\pi$ the general form is $\pi \cdot k$ where k is an integer 
-vertical asymptotes : $-\frac{3}{}$
+vertical asymptotes : $-\frac{3}{2}\pi\xrightarrow{\text{}} \frac{3}{2}\pi$ the general form is $\frac{\pi}{2}$where 
