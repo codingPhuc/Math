@@ -29,7 +29,7 @@ Sure! Here's your list converted into link format. Each topic is followed by the
 ### [[When Limits Fail to Exist]]
 
 - [One-Sided Limits](https://tutorial.math.lamar.edu/Classes/CalcI/OneSidedLimits.aspx) – In this section we will introduce the concept of one-sided limits. We will discuss the differences between one-sided limits and limits as well as how they are related to each other.
--[Infinite Limits](https://tutorial.math.lamar.edu/Classes/CalcI/InfiniteLimits.aspx) – In this section we will look at limits that have a value of infinity or negative infinity. We’ll also take a brief look at vertical asymptotes
+- [Infinite Limits](https://tutorial.math.lamar.edu/Classes/CalcI/InfiniteLimits.aspx) – In this section we will look at limits that have a value of infinity or negative infinity. We’ll also take a brief look at vertical asymptotes
 
 ### [[Limit Laws]]
 
@@ -45,8 +45,7 @@ Sure! Here's your list converted into link format. Each topic is followed by the
 
 ### [[When the Limit of the Denominator is 0]]
 
-- [Infinite Limits](https://tutorial.math.lamar.edu/Classes/CalcI/InfiniteLimits.aspx)
-    
+[Infinite Limits](https://tutorial.math.lamar.edu/Classes/CalcI/InfiniteLimits.aspx) – In this section we will look at limits that have a value of infinity or negative infinity. We’ll also take a brief look at vertical asymptotes
 
 ### [[Lines Graphs and Equations]]
 
