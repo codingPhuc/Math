@@ -265,8 +265,7 @@ for example :
 ```
 
 
-
-
+this is the graph of $y=\tan(\circ)$
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
@@ -291,3 +290,5 @@ for example :
 \end{document}
 
 ```
+
+
