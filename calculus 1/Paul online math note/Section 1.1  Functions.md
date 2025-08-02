@@ -77,8 +77,8 @@ $$
 
 $$
 \begin{array}{l} \\
-h (x)  =  -2x^2  + 12x +  5  
-\text{ where }  t  \leq \frac{4}{7}
-\text{ the domain of this function is } (-\infty , \frac{4}{7} ]
+h (x)  =  -2x^2  + 12x +  5  \\
+\text{  the domain of this function is} (-\infty , \infty)
 \end{array}
 $$
+
