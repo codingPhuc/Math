@@ -50,5 +50,13 @@ we can see though the circle that  if the angle is  $\frac{\pi}{6} \text{ then }
 we will be given a general formula of the equation 
 
 $$
-
+x = \frac{\pi}{6}  +  2\pi \cdot  k     
 $$
+$$
+7\frac{\pi}{6}   + 2\pi k
+$$
+
+
+
+
+  
