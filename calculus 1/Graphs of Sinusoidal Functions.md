@@ -188,7 +188,9 @@ midline $y=-5$
 amplitude  $=\frac{1}{3}$ 
 shifted  6 unit to the left 
 
-Graph the line  y = tan(x) 
+
+## Graph the line  y = tan(x)  
+
 example what is the slope of the line at $\circ$ 
 
 ```tikz
@@ -212,7 +214,7 @@ example what is the slope of the line at $\circ$
     -- node[midway, above left]{$hyp$} %adj
   cycle;
 
-\pic["$14^\circ$", draw=orange, angle radius=0.3cm, angle eccentricity=0.3] {angle = C--A--B} ;
+\pic["$\circ$", draw=orange, angle radius=0.5cm, angle eccentricity=0.3] {angle = C--A--B} ;
 \draw (0,0) circle (1cm);
 
 \end{tikzpicture}
