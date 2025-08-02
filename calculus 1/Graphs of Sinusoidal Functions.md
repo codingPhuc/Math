@@ -238,10 +238,12 @@ for example :
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
-
+\pgfmathsetmacro{\halfpi}{pi/2}
 \begin{document}
 \tikzset{every picture/.style={line width=1pt}} % set default line width
 
+\draw[dashed] (\halfpi,-2) -- (\halfpi,2);
+\draw[dashed] (-\halfpi,-2) -- (-\halfpi,2);
 \begin{tikzpicture}[x=1cm,y=1cm, scale = 2]
     % Draw x-axis 
     \draw[->] (-2,0) -- (2,0) node[right] {};
