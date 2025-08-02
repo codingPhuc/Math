@@ -20,4 +20,5 @@ $$
 ![[Pasted image 20250802092919.png]]
 
 as we can see there are two solution for $f(x)$ where the x coordinate is  $-\frac{1}{2}$  
-
+where x variable for the equation  cos(x)  is either  $\frac{2\pi}{3} \frac{,4\pi}{3}$ 
+bases on 
