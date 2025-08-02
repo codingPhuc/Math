@@ -321,12 +321,14 @@ graph the graph of sec(x) :
     \draw[->] (-2,0) -- (2,0) node[right] {};
     \draw[->] (0,-2) -- (0,2) node[right] {}; 
 \draw[thick, blue,  domain=-3.28:3.28, smooth] 
-    plot (\x, {sec(\x r)}); 
+    plot (\x, {sec(\x r)});  
+  \draw[thick, red, domain=-3.28:3.28, smooth, samples=100]  node[ above] {sin} plot (\x, { cos( \x r) });
 \end{tikzpicture}
 \end{document}
 
 ```
 
+The interesting part of this gr
 In the graph above find the : 
 x-intercept : 
 vertical asymptotes : $-\frac{3}{2}\pi\xrightarrow{\text{}} \frac{3}{2}\pi$ the general form is $\frac{\pi}{2}k$where k is an odd integer 
