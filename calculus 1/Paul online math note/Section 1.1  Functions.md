@@ -8,3 +8,10 @@ Current date: 2025-08-02
 amount of time: 
 learning score:
 ---
+Example 2 Given$f(x)=−x^2+6x−11$ find each of the following.
+
+
+
+$$
+
+$$
