@@ -31,3 +31,6 @@ $$
 
 $$
 
+do the same for the equation  $2\tan(x)   = 3\sqrt{ 3 } - \tan(x)$ 
+
+find the solution in the interval  $[0,2\pi]$ 
