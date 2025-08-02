@@ -62,6 +62,9 @@ $x  = \frac{\pi}{6}+\pi k$ for all k int
 step for finding trig equation : 
 1.  isolating sin(or tan for cos )
 2. using unit circle to  find solution  $[0,2\pi]$ 
-3. adding multiple  $2\pi$ for all solution, for tan used 1 s
+3. adding multiple  $2\pi$ for all solution, for tan used 1 solution add pi instead of 2pi 
+
+
+
 
   
