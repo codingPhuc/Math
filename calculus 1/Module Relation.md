@@ -29,18 +29,14 @@ Sure! Here's your list converted into link format. Each topic is followed by the
 ### [[When Limits Fail to Exist]]
 
 - [One-Sided Limits](https://tutorial.math.lamar.edu/Classes/CalcI/OneSidedLimits.aspx) – In this section we will introduce the concept of one-sided limits. We will discuss the differences between one-sided limits and limits as well as how they are related to each other.
-- [Infinite Limits](https://tutorial.math.lamar.edu/Classes/CalcI/InfiniteLimits.aspx)
-    
+-[Infinite Limits](https://tutorial.math.lamar.edu/Classes/CalcI/InfiniteLimits.aspx) – In this section we will look at limits that have a value of infinity or negative infinity. We’ll also take a brief look at vertical asymptotes
 
 ### [[Limit Laws]]
 
-- [Limit Properties](https://tutorial.math.lamar.edu/Classes/CalcI/LimitsProperties.aspx)
-    
-
+- [Infinite Limits](https://tutorial.math.lamar.edu/Classes/CalcI/InfiniteLimits.aspx) – In this section we will look at limits that have a value of infinity or negative infinity. We’ll also take a brief look at vertical asymptotes.
 ### [[The Squeeze Theorem]]
 
-- [Computing Limits](https://tutorial.math.lamar.edu/Classes/CalcI/ComputingLimits.aspx)
-    
+- [Computing Limits](https://tutorial.math.lamar.edu/Classes/CalcI/ComputingLimits.aspx) – In this section we will looks at several types of limits that require some work before we can use the limit properties to compute them. We will also look at computing limits of piecewise functions and use of the Squeeze Theorem to compute some limits.
 
 ### [[Limits using Algebraic Tricks]]
 
