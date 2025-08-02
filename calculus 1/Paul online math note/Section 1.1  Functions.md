@@ -48,7 +48,7 @@ $$
 f(t) =  9t^3    - 18t^2   +  6t   = 3t(3t^2  -  6t  + 2)      \implies 
 \left\{\begin{array}{l}   \\
  t  =   0   \\
-t =  +6 \pm \frac{6^2  - \sqrt{ -6^2    -  4  \cdot  2 \cdot  }}{2 \cdot 3}  =  1 \mp  \frac{\sqrt{ 3 }}{3}
+t = \frac{6^2  \pm \sqrt{ -6^2    -  4  \cdot  2 \cdot  }}{2 \cdot 3}  =  1 \mp  \frac{\sqrt{ 3 }}{3}
 \end{array}
 \right.
 
