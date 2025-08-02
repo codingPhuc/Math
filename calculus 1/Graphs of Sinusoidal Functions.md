@@ -251,13 +251,6 @@ for example :
     \draw[->] (0,-2) -- (0,2) node[right] {}; 
      \draw[->] (0,0) -- (1,0.5) node[right] {};
     % Draw tick marks and labels
-    \foreach \x in {-1,0,1} {
-        \draw (\x,0.1) -- (\x,-0.1) node[below] {\x};
-    }
-        \foreach \y in {-1,0,1} {
-        \draw (0.1,\y) -- (-0.1,\y) node[below] {\y};
-    } 
-\draw (0,0) circle (1cm);
  
 \end{tikzpicture}
 \end{document}
