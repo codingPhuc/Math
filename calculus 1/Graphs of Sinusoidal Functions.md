@@ -246,7 +246,7 @@ for example :
 \pgfmathsetmacro{\left}{-\halfpi+ 0.001}
   \pgfmathsetmacro{\right}{\halfpi - 0.001} 
 
-\begin{tikzpicture}[x=1cm,y=1cm, scale = 2]
+\begin{tikzpicture}[x=2cm, y=1.5cm]
     % Draw x-axis 
     
 \draw[dashed] (\halfpi,-2) -- (\halfpi,2);
