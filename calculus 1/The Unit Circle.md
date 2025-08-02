@@ -10,9 +10,7 @@ learning score:
 ---
 
 
-$$
 
-$$
 
 ```tikz
 \usepackage{amsmath,amssymb}

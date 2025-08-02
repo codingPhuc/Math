@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Graph of Sin and Cos.md",
+                "file": "calculus 1/The Unit Circle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph of Sin and Cos"
+              "title": "The Unit Circle"
             }
           },
           {
@@ -279,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Graphs of Sinusoidal Functions.md",
+                "file": "calculus 1/The Unit Circle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Graphs of Sinusoidal Functions"
+              "title": "Outline of The Unit Circle"
             }
           }
         ],
@@ -308,26 +308,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56951fb26ce0d245",
+  "active": "9242df5253dc5c73",
   "lastOpenFiles": [
-    "calculus 1/Graph of Sin and Cos.md",
-    "calculus 1/Graphs of Sinusoidal Functions.md",
-    "calculus 1/Graphs and Limits.md",
-    "calculus 1/Limit Laws.md",
-    "calculus 1/Limits using Algebraic Tricks.md",
-    "calculus 1/Properties of Trig Function pf sin and cos.md",
-    "calculus 1/Rational Expressions.md",
-    "calculus 1/Rational Functions and Graphs.md",
-    "calculus 1/Right Angle Trinometry.md",
-    "calculus 1/The Squeeze Theorem.md",
+    "calculus 1/Untitled 1.md",
     "calculus 1/The Unit Circle.md",
+    "calculus 1/The Squeeze Theorem.md",
+    "calculus 1/Rational Functions and Graphs.md",
+    "calculus 1/Rational Expressions.md",
+    "calculus 1/Properties of Trig Function pf sin and cos.md",
+    "calculus 1/Lines Graphs and Equations.md",
+    "calculus 1/Limits using Algebraic Tricks.md",
+    "calculus 1/Limit Laws.md",
+    "calculus 1/Graphs and Limits.md",
+    "calculus 1/Graph of Sin and Cos.md",
+    "calculus 1/Difference Quotient.md",
+    "calculus 1/example.md",
+    "calculus 1/Graphs of Sinusoidal Functions.md",
+    "calculus 1/Right Angle Trinometry.md",
     "calculus 1/When Limits Fail to Exist.md",
     "calculus 1/When the Limit of the Denominator is 0.md",
     "calculus 1/What need to be understand.md",
-    "calculus 1/Untitled 1.md",
-    "calculus 1/Lines Graphs and Equations.md",
-    "calculus 1/example.md",
-    "calculus 1/Difference Quotient.md",
     "calculus 1/Calculus 12 hour course.md",
     "calculus 1/2.6.2 Limits at Infinity and Algebraic Tricks.md",
     "calculus 1/2.6.1 limit at infinity and Graphs.md",
