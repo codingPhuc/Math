@@ -59,3 +59,9 @@ $$
 
 
 ## Find the domain and range of each of the following function 
+$$
+\begin{array}{l} \\
+f(x )    =  5x  - 3    \\
+\text{ the domain of this function is } (-)
+\end{array}
+$$
