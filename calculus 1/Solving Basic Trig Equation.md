@@ -56,7 +56,9 @@ $$
 7\frac{\pi}{6}   + 2\pi k
 $$
 
+the more simply version will be 
+$x  = \frac{\pi}{6}+\pi k$ for all k int 
 
-
+step for finding 
 
   
