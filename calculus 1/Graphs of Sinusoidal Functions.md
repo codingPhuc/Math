@@ -211,7 +211,7 @@ example what is the slope of the line at $\circ$
   (0.485,0) coordinate (C) node[anchor=north]{$C$}
     -- node[midway, right]{$opp$} % hyp 
   (0.485,0.875) coordinate (B) node[anchor=south]{$B$}
-    -- node[midway, above left]{$hyp$} %adj
+    -- node[midway, above left]{$1$} %adj
   cycle;
 
 \pic["$\circ$", draw=orange, angle radius=0.5cm, angle eccentricity=0.3] {angle = C--A--B} ;
@@ -221,3 +221,9 @@ example what is the slope of the line at $\circ$
 \end{document}
 
 ```
+$y = \tan(x)$ 
+- y being the slope of the line that angle  
+- tan(x) being the angle 
+
+when angle  =  0, the slope is 0 
+when angle a
