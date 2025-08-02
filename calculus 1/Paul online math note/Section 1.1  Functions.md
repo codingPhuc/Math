@@ -62,6 +62,14 @@ $$
 $$
 \begin{array}{l} \\
 f(x )    =  5x  - 3    \\
-\text{ the domain of this function is } (-)
+\text{ the domain of this function is } (-\infty , \infty)
+\end{array}
+$$
+
+$$
+\begin{array}{l} \\
+f(x )    = \sqrt{  4  - 7t }   \\
+\text{ where }  t  < \frac{4}{}
+\text{ the domain of this function is } (-\infty , \infty)
 \end{array}
 $$
