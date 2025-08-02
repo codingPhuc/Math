@@ -10,4 +10,11 @@ learning score:
 ---
 
 for the equation 2cos(x) + 1 =0 
-find the solution in the i
+find the solution in the interval $[0,2\pi)$ 
+$$
+\begin{i}
+
+\end{i}
+2\cos(x)  = -1  
+
+$$
