@@ -193,8 +193,7 @@ example what is the slope of the line at $\circ$
 
 ```tikz
 \usepackage{amsmath,amssymb}
-\usetikzlibrary{decorations.pathreplacing}
-
+\usetikzlibrary{decorations.pathreplacing, angles, quotes}
 \begin{document}
 \tikzset{every picture/.style={line width=1pt}} % set default line width
 
@@ -213,7 +212,7 @@ example what is the slope of the line at $\circ$
     -- node[midway, above left]{$hyp$} %adj
   cycle;
 
-\pic["$14^\circ$", draw=orange, angle radius=1cm, angle eccentricity=1] {angle = C--A--B} ;
+\pic["$14^\circ$", draw=orange, angle radius=0.3cm, angle eccentricity=0.3] {angle = C--A--B} ;
 \draw (0,0) circle (1cm);
 
 \end{tikzpicture}
