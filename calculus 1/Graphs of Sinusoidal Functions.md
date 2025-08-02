@@ -328,7 +328,7 @@ graph the graph of sec(x) :
 
 ```
 
-The interesting part of this gr
+The interesting part of this graph is that when ever cos collies with the x intercept it create a vertical  asymptotes 
 In the graph above find the : 
 x-intercept : 
 vertical asymptotes : $-\frac{3}{2}\pi\xrightarrow{\text{}} \frac{3}{2}\pi$ the general form is $\frac{\pi}{2}k$where k is an odd integer 
