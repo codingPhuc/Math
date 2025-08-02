@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Rational Functions and Graphs.md",
+                "file": "Paul Online note/algebra/Section 3.3  Circles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rational Functions and Graphs"
+              "title": "Section 3.3  Circles"
             }
           },
           {
@@ -304,14 +304,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "calculus 1/Graphs of Sinusoidal Functions.md",
+    "Paul Online note/algebra/Section 3.3  Circles.md",
     "calculus 1/Solving Basic Trig Equation.md",
+    "Paul Online note/algebra/Section 3.1 Graphing.md",
+    "Paul Online note/algebra/Section 2.10  Equations with Radicals.md",
+    "Paul Online note/algebra/Section 2.8  Applications of Quadratic Equations.md",
+    "Paul Online note/algebra/Section 2.5  Quadratic Equations - Part I.md",
+    "Paul Online note/algebra/Rational exponents.md",
     "calculus 1/Rational Functions and Graphs.md",
+    "calculus 1/Graphs of Sinusoidal Functions.md",
     "calculus 1/Right Angle Trinometry.md",
     "calculus 1/The Squeeze Theorem.md",
     "calculus 1/The Unit Circle.md",
@@ -329,12 +336,6 @@
     "calculus 1/Untitled 1.md",
     "calculus 1/When the Limit of the Denominator is 0.md",
     "calculus 1/Calculus 12 hour course.md",
-    "calculus 1/2.6.2 Limits at Infinity and Algebraic Tricks.md",
-    "calculus 1/2.6.1 limit at infinity and Graphs.md",
-    "calculus 1/2.5.2 Intermediate Value Theorem.md",
-    "calculus 1/2.5.1 Continuity.md",
-    "calculus 1/2.5 Continuity on interval and continuous function.md",
-    "Paul Online note/algebra/Section 2.5  Quadratic Equations - Part I.md",
     "picture/Pasted image 20250731091256.png",
     "picture/Pasted image 20250726124712.png",
     "picture/Pasted image 20250726122926.png",
