@@ -76,7 +76,7 @@ f(x )    = \sqrt{  4  - 7t }   \\
 \end{array}
 $$ 
 
-
+#fail 
 $$
 \begin{array}{l} \\
 h (x)  =  -2x^2  + 12x +  5  \\

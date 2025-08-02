@@ -24,3 +24,6 @@ you don't understand shifting in general what is shifted  to the right shifted t
 In this case the range requires a little bit of work. From an Algebra class we know that the graph of this will be a [parabola](https://tutorial.math.lamar.edu/Classes/Alg/Parabolas.aspx) that opens down (because the coefficient of the x2 is negative) and so the vertex will be the highest point on the graph. If we know the vertex we can then get the range. The vertex is then,  
 
 why is the range dependent on the vertex and vice versal 
+
+how do you find the point of the vertex ? 
+
