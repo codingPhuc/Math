@@ -9,3 +9,5 @@ amount of time:
 learning score:
 ---
 
+for the equation 2cos(x) + 1 =0 
+find the solution in the i
