@@ -326,3 +326,10 @@ graph the graph of sec(x) :
 \end{document}
 
 ```
+
+In the graph above find the : 
+x-intercept : 
+vertical asymptotes : $-\frac{3}{2}\pi\xrightarrow{\text{}} \frac{3}{2}\pi$ the general form is $\frac{\pi}{2}k$where k is an odd integer 
+domain : ${x|x  \neq \frac{\pi}{2} \text{ for k odd integer}}$
+range : $(-\infty,\infty)$
+period : $\pi$
