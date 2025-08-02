@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Basic study structure outline.md",
+                "file": "calculus 1/12 hours calculus courses/2.5 Continuity on interval and continuous function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic study structure outline"
+              "title": "2.5 Continuity on interval and continuous function"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Rational Expressions.md",
+                "file": "calculus 1/12 hours calculus courses/Rational Expressions.md",
                 "mode": "source",
                 "source": false
               },
@@ -293,13 +293,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Basic study structure outline.md",
+                "file": "calculus 1/12 hours calculus courses/2.5 Continuity on interval and continuous function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic study structure outline"
+              "title": "Outline of 2.5 Continuity on interval and continuous function"
             }
           }
         ],
@@ -322,13 +322,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56951fb26ce0d245",
+  "active": "30b50d563073904f",
   "lastOpenFiles": [
-    "calculus 1/Rational Expressions.md",
-    "calculus 1/Basic study structure outline.md",
-    "calculus 1/Graphs of Sinusoidal Functions.md",
-    "calculus 1/When the Limit of the Denominator is 0.md",
-    "calculus 1/Solving Basic Trig Equation.md",
+    "calculus 1/Untitled",
+    "calculus 1/12 hours calculus courses/Graph of Sin and Cos.md",
+    "calculus 1/12 hours calculus courses/Basic study structure outline.md",
+    "calculus 1/12 hours calculus courses",
+    "calculus 1/12 hours calculus courses/Rational Expressions.md",
+    "calculus 1/12 hours calculus courses/Graphs of Sinusoidal Functions.md",
+    "calculus 1/12 hours calculus courses/When the Limit of the Denominator is 0.md",
+    "calculus 1/12 hours calculus courses/Solving Basic Trig Equation.md",
     "picture/Pasted image 20250802093721.png",
     "picture/Pasted image 20250802093703.png",
     "picture/Pasted image 20250802092919.png",
@@ -339,21 +342,19 @@
     "Paul Online note/algebra/Section 2.8  Applications of Quadratic Equations.md",
     "Paul Online note/algebra/Section 2.5  Quadratic Equations - Part I.md",
     "Paul Online note/algebra/Rational exponents.md",
-    "calculus 1/Rational Functions and Graphs.md",
-    "calculus 1/Right Angle Trinometry.md",
-    "calculus 1/The Squeeze Theorem.md",
-    "calculus 1/The Unit Circle.md",
-    "calculus 1/What need to be understand.md",
-    "calculus 1/When Limits Fail to Exist.md",
-    "calculus 1/Properties of Trig Function pf sin and cos.md",
-    "calculus 1/Limits using Algebraic Tricks.md",
-    "calculus 1/Limit Laws.md",
-    "calculus 1/Graphs and Limits.md",
-    "calculus 1/Graph of Sin and Cos.md",
-    "calculus 1/Difference Quotient.md",
-    "calculus 1/example.md",
-    "calculus 1/Lines Graphs and Equations.md",
-    "calculus 1/Untitled 1.md",
+    "calculus 1/12 hours calculus courses/Rational Functions and Graphs.md",
+    "calculus 1/12 hours calculus courses/Right Angle Trinometry.md",
+    "calculus 1/12 hours calculus courses/The Squeeze Theorem.md",
+    "calculus 1/12 hours calculus courses/The Unit Circle.md",
+    "calculus 1/12 hours calculus courses/What need to be understand.md",
+    "calculus 1/12 hours calculus courses/When Limits Fail to Exist.md",
+    "calculus 1/12 hours calculus courses/Properties of Trig Function pf sin and cos.md",
+    "calculus 1/12 hours calculus courses/Limits using Algebraic Tricks.md",
+    "calculus 1/12 hours calculus courses/Limit Laws.md",
+    "calculus 1/12 hours calculus courses/Graphs and Limits.md",
+    "calculus 1/12 hours calculus courses/Difference Quotient.md",
+    "calculus 1/12 hours calculus courses/example.md",
+    "calculus 1/12 hours calculus courses/Lines Graphs and Equations.md",
     "picture/Pasted image 20250731091256.png",
     "picture/Pasted image 20250726124712.png",
     "picture/Pasted image 20250726122926.png",
@@ -369,7 +370,6 @@
     "book/ECE.pdf.crdownload",
     "picture",
     "book/Precalculus Stewart 7th Edition.pdf.crdownload",
-    "book",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
