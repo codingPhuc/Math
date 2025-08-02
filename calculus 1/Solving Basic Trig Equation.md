@@ -24,9 +24,10 @@ where x variable for the equation  cos(x)  is either  $\frac{2\pi}{3} \frac{,4\p
 bases on this we can conclude the general form for the equation 
 
 $$
-
-\begin{array}{l}  \\
+\left\{\begin{array}{l}  
 \frac{2\pi}{3}  + 2\pi \cdot k  \\
-\frac{4\pi}{3} +  2\pi \cdot k   
-\end{array}
+\frac{4\pi}{3} +  2\pi \cdot k     
+\end{array}  \right. \xrightarrow{\text{}}  \text{ for any int k}
+
 $$
+
