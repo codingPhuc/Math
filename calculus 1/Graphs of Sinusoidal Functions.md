@@ -202,14 +202,14 @@ example what is the slope of the line at $\circ$
     % Draw x-axis 
     \draw[->] (-2,0) -- (2,0) node[right] {};
     \draw[->] (0,-2) -- (0,2) node[right] {}; 
-     \draw[->] (0,0) -- (1,0.5) node[right] {};
+
     % Draw tick marks and labels
 \draw 
   (0,0) coordinate (A) node[anchor=north]{$A$}
     -- node[midway, below]{$adj$} %  bases 
-  (1,0) coordinate (C) node[anchor=north]{$C$}
+  (0.485,0) coordinate (C) node[anchor=north]{$C$}
     -- node[midway, right]{$opp$} % hyp 
-  (1,1) coordinate (B) node[anchor=south]{$B$}
+  (0.485,0.875) coordinate (B) node[anchor=south]{$B$}
     -- node[midway, above left]{$hyp$} %adj
   cycle;
 \draw (0,0) circle (1cm);
