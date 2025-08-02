@@ -248,13 +248,15 @@ for example :
 
 \begin{tikzpicture}[x=2cm, y=1.5cm]
     % Draw x-axis 
-    \clip (-2,-2) rectangle (2,2);
+    \clip (-2,-2) rectangle (6,2);
 \draw[dashed] (\halfpi,-2) -- (\halfpi,2);
 \draw[dashed] (-\halfpi,-2) -- (-\halfpi,2);
     \draw[->] (-2,0) -- (2,0) node[right] {};
     \draw[->] (0,-2) -- (0,2) node[right] {}; 
 \draw[thick, blue, domain=-1.6:1.6, smooth] 
-    plot (\x, {tan(\x r)});
+    plot (\x, {tan(\x r)}); 
+\draw[thick, blue, domain=1.6:3, smooth] 
+    plot (\x, {tan(\x r)});    
     % Draw tick marks and labels
 %%  \draw[thick, blue, domain=\right:, smooth] plot (\x, {tan(\x r)}); %%
 \end{tikzpicture}
