@@ -63,7 +63,7 @@ $$
 \begin{array}{l} \\
 f(x )    =  5x  - 3    \\
 \text{ the domain of this function is } (-\infty , \infty) \\
-\text{ range of the }
+\text{ range of the function is }  (-\infty , \infty)
 \end{array}
 $$
 
@@ -71,7 +71,8 @@ $$
 \begin{array}{l} \\
 f(x )    = \sqrt{  4  - 7t }   \\
 \text{ where }  t  \leq \frac{4}{7}
-\text{ the domain of this function is } (-\infty , \frac{4}{7} ]
+\text{ the domain of this function is } (-\infty , \frac{4}{7} ]   \\
+\text{ range of the function is }  [0 , \infty)
 \end{array}
 $$ 
 
@@ -79,7 +80,8 @@ $$
 $$
 \begin{array}{l} \\
 h (x)  =  -2x^2  + 12x +  5  \\
-\text{  the domain of this function is} (-\infty , \infty)
+\text{  the domain of this function is} (-\infty , \infty)  \\
+\text{ range of the function is }  [0 , \infty)
 \end{array}
 $$
 
