@@ -279,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/The Unit Circle.md",
+                "file": "calculus 1/Graphs of Sinusoidal Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Unit Circle"
+              "title": "Outline of Graphs of Sinusoidal Functions"
             }
           }
         ],
@@ -308,10 +308,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9242df5253dc5c73",
+  "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "calculus 1/Graphs of Sinusoidal Functions.md",
     "calculus 1/The Unit Circle.md",
+    "calculus 1/Graphs of Sinusoidal Functions.md",
     "calculus 1/Untitled 1.md",
     "calculus 1/The Squeeze Theorem.md",
     "calculus 1/Rational Functions and Graphs.md",
