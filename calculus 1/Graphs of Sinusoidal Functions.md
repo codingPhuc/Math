@@ -241,7 +241,7 @@ for example :
 
 \begin{document}
 \tikzset{every picture/.style={line width=1pt}} % set default line width
-% marco for
+% marco for setting
 \pgfmathsetmacro{\left}{-pi/2 + 0.001}
   \pgfmathsetmacro{\right}{pi/2 - 0.001} 
 \pgfmathsetmacro{\halfpi}{pi/2}
@@ -252,10 +252,10 @@ for example :
 \draw[dashed] (-\halfpi,-2) -- (-\halfpi,2);
     \draw[->] (-2,0) -- (2,0) node[right] {};
     \draw[->] (0,-2) -- (0,2) node[right] {}; 
-\draw[thick, blue, domain=-pi/2:pi/2, smooth] 
+\draw[thick, blue, domain=\left:\right, smooth] 
     plot (\x, {tan(\x r)});
     % Draw tick marks and labels
- \draw[thick, blue, domain=-pi/2:10, smooth] 
+ \draw[thick, blue, domain=\right:10, smooth] 
     plot (\x, {tan(\x r)});
 \end{tikzpicture}
 \end{document}
