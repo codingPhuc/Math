@@ -69,7 +69,16 @@ $$
 $$
 \begin{array}{l} \\
 f(x )    = \sqrt{  4  - 7t }   \\
-\text{ where }  t  < \frac{4}{}
-\text{ the domain of this function is } (-\infty , \infty)
+\text{ where }  t  \leq \frac{4}{7}
+\text{ the domain of this function is } (-\infty , \frac{4}{7} ]
+\end{array}
+$$ 
+
+
+$$
+\begin{array}{l} \\
+h (x)  =  -2x^2  + 12x +  5  
+\text{ where }  t  \leq \frac{4}{7}
+\text{ the domain of this function is } (-\infty , \frac{4}{7} ]
 \end{array}
 $$
