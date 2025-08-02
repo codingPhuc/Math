@@ -45,9 +45,10 @@ $$
 
 ## determine  all the roots of 
 $$
-f(t) =  9t^3    - 18t^2   +  6t  \implies 
+f(t) =  9t^3    - 18t^2   +  6t   = 3t(3t^2  -  6t  + 2)      \implies 
 \left\{\begin{array}{l}   \\
-3t(3t^3  -  6t  + 6)  
+ t  =   0   \\
+t =  +6 \pm \sqrt{ 6^2  -  }
 \end{array}
 \right.
 
