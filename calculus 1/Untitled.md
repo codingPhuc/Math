@@ -17,4 +17,4 @@
 [[Right Angle Trinometry]]
 [[Graph of Sin and Cos]]
 [[Graphs of Sinusoidal Functions]]
-[[g]]
+[[Solving Basic Trig Equation]]
