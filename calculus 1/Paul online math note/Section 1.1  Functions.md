@@ -13,5 +13,11 @@ Example 2 Given$f(x)=−x^2+6x−11$ find each of the following.
 
 
 $$
-
+\begin{array}{l} \\
+f(x)=−x^2+6x−11      \\
+f(2)=(−2)^2+6\cdot 2 −11    \\
+ = 4 +  12  - 11   \\
+  =  5     
+\end{array}
 $$
+
