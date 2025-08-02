@@ -80,7 +80,9 @@ $$
 $$
 \begin{array}{l} \\
 h (x)  =  -2x^2  + 12x +  5  \\
-\text{  the domain of this function is} (-\infty , \infty)  \\
+\text{  the domain of this function is} (-\infty , \infty)   \\
+\text{ vertex  :} x = -\frac{12}{2 \cdot - 2 }    =3   +>(3,23) \\
+
 \text{ range of the function is }  [0 , \infty)
 \end{array}
 $$
