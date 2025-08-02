@@ -82,3 +82,15 @@ h (x)  =  -2x^2  + 12x +  5  \\
 \end{array}
 $$
 
+$$
+\begin{array}{l} \\
+h (x)  = \mid  z - 6 \mid   - 3  \\
+\text{  the domain of this function is} (-\infty , \infty)
+\end{array}
+$$
+
+$$
+g(x )  =  8 \\
+\text{ there is no domain for this function since it is constant at y =8 }
+$$
+
