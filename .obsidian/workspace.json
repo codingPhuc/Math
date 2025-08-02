@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Untitled.md",
+                "file": "calculus 1/Basic study structure outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Basic study structure outline"
             }
           },
           {
@@ -293,13 +293,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Untitled.md",
+                "file": "calculus 1/Basic study structure outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Basic study structure outline"
             }
           }
         ],
@@ -325,7 +325,7 @@
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
     "calculus 1/Rational Expressions.md",
-    "calculus 1/Untitled.md",
+    "calculus 1/Basic study structure outline.md",
     "calculus 1/Graphs of Sinusoidal Functions.md",
     "calculus 1/When the Limit of the Denominator is 0.md",
     "calculus 1/Solving Basic Trig Equation.md",
