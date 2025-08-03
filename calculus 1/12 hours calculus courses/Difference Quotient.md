@@ -1,4 +1,18 @@
+---
+title: Adjunction
+references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
+tags:
+  - In_Progress
+learning method: Vault + Read + Recall + Practice  (VRRP Method)
+Current date: 2025-08-03
+amount of time: 
+learning score: 
+reference: https://www.youtube.com/watch?app=desktop&v=L_GApcZZgsE&t=4s&ab_channel=Mario%27sMathTutoring
+---
 
+
+
+finding the different quotient of a function, the different quotation just another way of finding the slope of a formula without knowing the
 # Different Quotient 
 
 for function $y= f(x)$ 
