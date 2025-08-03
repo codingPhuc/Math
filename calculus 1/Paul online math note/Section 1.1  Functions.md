@@ -125,3 +125,22 @@ $$
 
 
 
+
+$$
+\begin{array}{l} \\
+f(x)  = \sqrt{  6 + t - t^2 }     \\
+\text{ finding the domain }  \\
+ 6 + t - t^2 \geq  0   \\
+6 + t - t^2 \leq  0   \
+\left\{  \begin{array}{l}  
+x= 5   \\
+ x = -3 \\
+\end{array}\right.    \\  \\
+\text{ range of the function is } (-\infty  ,  -3 ) \cap ( -3 , 5)  \cap  (5 , \infty )    \\
+\text{ range of the function is } (- \infty  ,\infty )
+\end{array}
+$$
+
+
+
+
