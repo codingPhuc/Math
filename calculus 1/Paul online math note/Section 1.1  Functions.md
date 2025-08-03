@@ -131,7 +131,7 @@ $$
 f(x)  = \sqrt{  6 + t - t^2 }     \\
 \text{ finding the domain }  \\
  6 + t - t^2 \geq  0   \\
-6 + t - t^2 \leq  0   \
+  t^2 - t -6   \leq  0   \
 \left\{  \begin{array}{l}  
 x= 5   \\
  x = -3 \\
