@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/algebra/Section 4.6  Transformations.md",
+                "file": "Paul Online note/algebra/Section 3.4  The Definition of a Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 4.6  Transformations"
+              "title": "Section 3.4  The Definition of a Function"
             }
           },
           {
@@ -294,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/algebra/Section 4.6  Transformations.md",
+                "file": "Paul Online note/algebra/Section 3.4  The Definition of a Function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.6  Transformations"
+              "title": "Outline of Section 3.4  The Definition of a Function"
             }
           }
         ],
@@ -325,10 +325,17 @@
   },
   "active": "9242df5253dc5c73",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 3.1 Graphing.md",
+    "Paul Online note/algebra/Section 3.4  The Definition of a Function.md",
+    "Paul Online note/algebra/Section 3.5  Graphing Functions.md",
     "Paul Online note/algebra/Section 4.2  Parabolas.md",
     "Paul Online note/algebra/Section 4.4 Hyperbolas.md",
     "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
     "Paul Online note/algebra/Section 4.6  Transformations.md",
+    "Paul Online note/algebra/Section 7.1  Linear Systems with Two Variables.md",
+    "Paul Online note/algebra/Section 6.2 Logarithm Functions.md",
+    "Paul Online note/algebra/Section 6.1  Exponential Functions.md",
+    "Paul Online note/algebra/Section 4.8  Rational Functions.md",
     "Paul Online note/algebra/Section 4.7  Symmetry.md",
     "Paul Online note/algebra/Section 3.3  Circles.md",
     "independent version/Transformations video lecture.md",
@@ -349,14 +356,7 @@
     "picture/Pasted image 20250802093703.png",
     "picture/Pasted image 20250802092919.png",
     "picture/Pasted image 20250802092820.png",
-    "Paul Online note/algebra/Section 3.1 Graphing.md",
     "Paul Online note/algebra/Section 2.10  Equations with Radicals.md",
-    "Paul Online note/algebra/Section 2.8  Applications of Quadratic Equations.md",
-    "Paul Online note/algebra/Section 2.5  Quadratic Equations - Part I.md",
-    "Paul Online note/algebra/Rational exponents.md",
-    "calculus 1/12 hours calculus courses/Rational Functions and Graphs.md",
-    "calculus 1/12 hours calculus courses/Right Angle Trinometry.md",
-    "calculus 1/12 hours calculus courses/The Squeeze Theorem.md",
     "picture/Pasted image 20250731091256.png",
     "picture/Pasted image 20250726124712.png",
     "picture/Pasted image 20250726122926.png",
