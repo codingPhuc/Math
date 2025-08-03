@@ -139,6 +139,8 @@ t  = 3
 \text{ domain of the function is } [-2  , 3 ]    \\
 \end{array}
 $$
+I know that the function is negative or positive th
+
 
 
 
