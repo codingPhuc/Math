@@ -219,7 +219,9 @@ $$
 
 
  $$
-\begg()in{array}{l}  
-
+\begin{array}{l}  
+g(t)  = \frac{t}{2t  + 6}   \\ 
+g(t+ h) =  \frac{t +  h}{2 \cdot (t + h) + 6 }  \\
+ =   
 \end{array}
 $$
