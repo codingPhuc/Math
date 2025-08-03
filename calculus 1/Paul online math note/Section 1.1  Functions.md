@@ -117,6 +117,7 @@ x^2   - 2x  - 15  = 0  \\
 x= 5   \\
  x = -3 \\
 \end{array}\right.    \\  \\
-\text{ range of the function is } (-\infty  ,  -3 ) \cap ( -3 , 5)  \cap  (5 , \infty )  
+\text{ range of the function is } (-\infty  ,  -3 ) \cap ( -3 , 5)  \cap  (5 , \infty )    \\
+\text{ range of the function is } ()
 \end{array}
 $$
