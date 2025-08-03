@@ -195,3 +195,13 @@ $$
  = x 
 \end{array} 
 $$
+
+
+
+## #Practice_Exercise 
+
+ $$
+\begin{array}{l}   \\
+
+\end{array}
+$$
