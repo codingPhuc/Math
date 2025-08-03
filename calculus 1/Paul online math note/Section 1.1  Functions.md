@@ -151,8 +151,8 @@ h (x) =   \frac{x}{\sqrt{ x^2 - 9  }} \\
 x^2 - 9  >  0   \\
 
 \left\{  \begin{array}{l}  
-t  =     \\
-t  = 3  
+t  =  3   \\
+t  = -3  
 \end{array}\right.    \\  
 \text{ domain of the function is } [-2  , 3 ]    \\
 \end{array}
