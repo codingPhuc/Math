@@ -101,10 +101,9 @@ $$
 
 \begin{array}{l} \\
 g(x )  =  8 \\
-
-\text{ range of the function is }  -8
+\text{ the function have no domain }
+\text{ range of the function is } 8
 \end{array}
-
 $$
 
-
+## Find the domain of each of the following functions 
