@@ -199,8 +199,11 @@ $$
 
 
 
-## #Practice_Exercise 
+# #Practice_Exercise 
 
+## For problems 1 – 4 the given functions perform the indicated function evaluations. 
+
+ 
  $$
 \begin{array}{l}   \\  
 f(x )  =  3 - 5x   -2x^2   \\
@@ -239,6 +242,8 @@ h(x)  =  \sqrt{ 1- z^2  }    \\
 h(z^2  - 2z ) =   \sqrt{ 1-   (z^2  - 2z) }   \\
 = \sqrt{ 1 - z^2   + 2z }  \\
 h(z  +   k )  =  \sqrt{ 1- (z +  k)^2  }       \\
-=  
+=  \sqrt{  1 - z^2   - k^2  -2kz  }
 \end{array}
-$$
+$$ 
+
+
