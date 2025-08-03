@@ -113,8 +113,9 @@ $$
 f(x)  =  \frac{x  - 4}{x^2   - 2x  - 15}      \\
 \text{ finding the domain }  \\
 x^2   - 2x  - 15  = 0  \\
-\left\{  \begin{array}{l}
-\end{array}\right\    \\
+\left\{  \begin{array}{l}  
+ \\
+\end{array}\right.    \\
 
 \end{array}
 
