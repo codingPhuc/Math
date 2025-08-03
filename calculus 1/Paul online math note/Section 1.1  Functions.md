@@ -183,7 +183,9 @@ given $f(x)=3x - 2 \cap g(x) = \frac{1}{3}x+\frac{2}{3}$
 $$
 \begin{array}{ l }   \\
 
-(f \circ  g) ( x)  
+(f \circ  g) ( x)   \\
+ = f(g(x))   \\
+ = f()\\
 (g \circ f) (x)   
 \end{array} 
 $$
