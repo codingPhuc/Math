@@ -107,3 +107,12 @@ g(x )  =  8 \\
 $$
 
 ## Find the domain of each of the following functions 
+
+$$
+\begin{array}{l} \\
+f(x)  =  \frac{x  - 4}{x^2   - 2x  - 15}     \\
+
+\end{array}
+
+
+$$
