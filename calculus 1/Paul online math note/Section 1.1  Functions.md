@@ -174,9 +174,16 @@ $$
 (g∘g)(x)   \\
  =  g(g(  1 - 20x )  )  \\
 =  1-20(1 - 20x )   \\
-=   1 -  20  - 40x   \\
- = -19  - 40x  
+=   1 -  20  + 400x   \\
+ = -19  + 400x  
 \end{array}
 $$
 
 given $f(x)=3x - 2 \cap g(x) = \frac{1}{3}x+\frac{2}{3}$ 
+$$
+\begin{array}{ l }   \\
+
+(f \circ  g) ( x)  
+(g \circ f) (x)   
+\end{array} 
+$$
