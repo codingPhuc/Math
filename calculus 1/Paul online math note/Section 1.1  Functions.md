@@ -111,8 +111,6 @@ $$
 $$
 \begin{array}{l} \\
 f(x)  =  \frac{x  - 4}{x^2   - 2x  - 15}     \\
-
+ \\
 \end{array}
-
-
 $$
