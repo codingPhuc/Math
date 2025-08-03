@@ -235,6 +235,8 @@ $$
 
  $$
 \begin{array}{l}  
-
+h(x)  =  \sqrt{ 1- z^2  }    \\
+h(z^2  - 2z ) =   \sqrt{ 1-   (z^2  - 2z) }   \\
+= \sqrt{  }
 \end{array}
 $$
