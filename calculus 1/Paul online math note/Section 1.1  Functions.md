@@ -136,7 +136,7 @@ f(x)  = \sqrt{  6 + t - t^2 }     \\
 t  =  -2   \\
 t  = 3  
 \end{array}\right.    \\  
-\text{ domain of the function is } (-\infty  ,  -2) \cap ( 3 , +\infty)     \\
+\text{ domain of the function is } [-2  , 3 ]    \\
 \end{array}
 $$
 
