@@ -139,9 +139,23 @@ t  = 3
 \text{ domain of the function is } [-2  , 3 ]    \\
 \end{array}
 $$
-I know that the function is negative or positive th
+I know that the function is negative or positive there because I plug in the number to see it 
 
 
 
 
+$$
+\begin{array}{l} \\
+h (x) =   \frac{x}{\sqrt{ x^2 - 9  }} \\
+\text{ finding the domain }  \\
+x^2 - 9  >  0   \\
+
+\left\{  \begin{array}{l}  
+t  =     \\
+t  = 3  
+\end{array}\right.    \\  
+\text{ domain of the function is } [-2  , 3 ]    \\
+\end{array}
+$$
+I know that the function is negative or positive there because I plug in the number to see it 
 
