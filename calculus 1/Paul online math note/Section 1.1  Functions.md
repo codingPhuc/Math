@@ -253,7 +253,7 @@ $$
 $$
 \begin{array}{l}
 \frac{f(x + h )  - f(x)}{ h}        \\
- = 
+f( 4x -  9 )   \implies   
 \end{array}
 
 $$
