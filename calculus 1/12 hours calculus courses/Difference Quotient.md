@@ -8,11 +8,12 @@ Current date: 2025-08-03
 amount of time: 
 learning score: 
 reference: https://www.youtube.com/watch?app=desktop&v=L_GApcZZgsE&t=4s&ab_channel=Mario%27sMathTutoring
+reference_2: https://www.quora.com/What-is-the-difference-quotient-in-math-useful-for
 ---
 
 
 
-finding the different quotient of a function, the different quotation just another way of finding the slope of a formula without knowing the
+finding the different quotient of a function, the different quotation just another way of finding the slope of a formula without knowing the second  point 
 # Different Quotient 
 
 for function $y= f(x)$ 
