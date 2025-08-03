@@ -253,7 +253,7 @@ $$
 $$
 \begin{array}{l}
 \frac{f(x + h )  - f(x)}{ h}        \\
-f( 4x -  9 ) \implies   \frac{f(x +  h  )  +  }{}  
+f( x )  =  4x -  9 \implies   \frac{4(x  + h)  -  9  -  4x  - h  }{ }  
 \end{array}
 
 $$
