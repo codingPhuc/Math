@@ -223,6 +223,7 @@ $$
 g(t)  = \frac{t}{2t  + 6}   \\ 
 g(t+ h) =  \frac{t +  h}{2 \cdot (t + h) + 6 }  \\
  =   \frac{t +  h}{2t + 2h + 6}   \\
-g(t^2  - 3t  + 1)  =   \frac{t^2  - 3t  + 1}{2(t^2  - 3t  + 1)  + 6}    
+g(t^2  - 3t  + 1)  =   \frac{t^2  - 3t  + 1}{2(t^2  - 3t  + 1)  + 6}     \\
+ =   \frac{t^2  - 3t  + 1}{ 2t^2  - 6t  +  8  }
 \end{array}
 $$
