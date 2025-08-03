@@ -201,7 +201,9 @@ $$
 ## #Practice_Exercise 
 
  $$
-\begin{array}{l}   \\
-
+\begin{array}{l}   \\  
+f(x )  =  3 - 5x   -2x^2   \\
+f(7  - 4x )  =  3 -  5( 7- 4x )   - 2(7- 4x)^2   \\
+f(x + h)  =  3  -  35  - 20x  -  1
 \end{array}
 $$
