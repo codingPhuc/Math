@@ -186,7 +186,12 @@ $$
 (f \circ  g) ( x)   \\
  = f(g(x))   \\
  = 3\left( \frac{1}{3}x + \frac{2}{3} \right)     -2   \\
- =  \\
-(g \circ f) (x)   
+ = x  +  2  - 2    \\
+ = x   \\
+(g \circ f) (x)   \\
+= g(f(x)  )  \\
+ =  \frac{1}{3}(3x-2)  +  \frac{2}{3 }     \\
+ = x - \frac{2}{3}  + \frac{2}{3}  \\
+ = x 
 \end{array} 
 $$
