@@ -161,6 +161,10 @@ I know that the function is negative or positive there because I plug in the num
 
 
 function composition :  F(x ) and g(x ) is 
-$$
-(f \circ g ) ( x )  =f(g(x))
-$$
+
+
+1. (f∘g)(5)
+2. (f∘g)(x)
+3. (g∘f)(x)
+4. (g∘g)(x) 
+
