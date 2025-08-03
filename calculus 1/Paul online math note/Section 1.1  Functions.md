@@ -161,10 +161,15 @@ I know that the function is negative or positive there because I plug in the num
 
 
 function composition :  F(x ) and g(x ) is 
+given  $F(x) =3x^2-x + 10 \cap $
+$$
+\begin{array}{ l }   \\
 
+\end{array}
+$$
 
-1. (f∘g)(5)
-2. (f∘g)(x)
-3. (g∘f)(x)
-4. (g∘g)(x) 
+(f∘g)(5)
+(f∘g)(x)
+(g∘f)(x)
+(g∘g)(x) 
 
