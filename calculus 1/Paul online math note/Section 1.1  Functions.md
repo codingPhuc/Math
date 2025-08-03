@@ -165,7 +165,9 @@ given  $f(x) =3x^2-x + 10 \cap g(x) =1-20x$ find each of the following
 $$
 \begin{array}{ l }   \\
 
-(f∘g)(5)   =  f(g(5))  = \\
+(f∘g)(5)    \\
+=  f(g(5))    \\
+=  3(1  - 20 \cdot )^2  -  (1  - 20x )   +  10 \\
 \\
 (f∘g)(x)\\
 (g∘f)(x)\\
