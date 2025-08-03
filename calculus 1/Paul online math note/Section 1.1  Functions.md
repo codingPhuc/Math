@@ -237,6 +237,8 @@ $$
 \begin{array}{l}  
 h(x)  =  \sqrt{ 1- z^2  }    \\
 h(z^2  - 2z ) =   \sqrt{ 1-   (z^2  - 2z) }   \\
-= \sqrt{  }
+= \sqrt{ 1 - z^2   + 2z }  \\
+h(z  +   k )  =  \sqrt{ 1- (z +  k)^2  }       \\
+=  
 \end{array}
 $$
