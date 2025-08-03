@@ -247,3 +247,13 @@ h(z  +   k )  =  \sqrt{ 1- (z +  k)^2  }       \\
 $$ 
 
 
+## The **difference quotient** of a function f(x) is defined to be,  
+
+
+$$
+\begin{array}{l}
+\frac{f(x + h )  - f(x)}{ h}        \\
+
+\end{array}
+
+$$
