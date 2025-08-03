@@ -179,5 +179,4 @@ $$
 \end{array}
 $$
 
-
-given f(x)
+given $f(x)=3x - 2 \cap g(x) = \frac{1}{3}x+\frac{2}{3}$ 
