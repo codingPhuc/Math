@@ -154,8 +154,13 @@ x^2 - 9  >  0   \\
 t  =  3   \\
 t  = -3  
 \end{array}\right.    \\  
-\text{ domain of the function is } ( -\infty  ,   -3  ) \cap \left(  3, \in \right)    \\
+\text{ domain of the function is } ( -\infty  ,   -3  ) \cap ( 3, \infty )    \\
 \end{array}
 $$
 I know that the function is negative or positive there because I plug in the number to see it 
 
+
+function composition :  F(x ) and g(x ) is 
+$$
+(f \circ g ) ( x )  =f(g(x))
+$$
