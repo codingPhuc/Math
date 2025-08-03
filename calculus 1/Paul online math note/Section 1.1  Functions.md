@@ -136,8 +136,7 @@ f(x)  = \sqrt{  6 + t - t^2 }     \\
 t  =  -2   \\
 t  = 3  
 \end{array}\right.    \\  
-\text{ range of the function is } (-\infty  ,  -3 ) \cap ( -3 , 5)  \cap  (5 , \infty )    \\
-\text{ range of the function is } (- \infty  ,\infty )
+\text{ domain of the function is } (-\infty  ,  -2) \cap ( 3 , +\infty)     \\
 \end{array}
 $$
 
