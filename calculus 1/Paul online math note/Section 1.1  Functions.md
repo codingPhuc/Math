@@ -154,7 +154,7 @@ x^2 - 9  >  0   \\
 t  =  3   \\
 t  = -3  
 \end{array}\right.    \\  
-\text{ domain of the function is } [-2  , 3 ]    \\
+\text{ domain of the function is } ( -\infty  ,   -3  ) \cap \left(  3, \in \right)    \\
 \end{array}
 $$
 I know that the function is negative or positive there because I plug in the number to see it 
