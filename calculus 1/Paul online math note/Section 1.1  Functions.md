@@ -114,10 +114,9 @@ f(x)  =  \frac{x  - 4}{x^2   - 2x  - 15}      \\
 \text{ finding the domain }  \\
 x^2   - 2x  - 15  = 0  \\
 \left\{  \begin{array}{l}  
- \\
-\end{array}\right.    \\
-
+x= 5   \\
+ x = -3 \\
+\end{array}\right.    \\  \\
+\text{ range of the function is } (-\infty  , )
 \end{array}
-
-
 $$
