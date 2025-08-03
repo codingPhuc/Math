@@ -253,7 +253,7 @@ $$
 $$
 \begin{array}{l}
 \frac{f(x + h )  - f(x)}{ h}        \\
-
+ = 
 \end{array}
 
 $$
