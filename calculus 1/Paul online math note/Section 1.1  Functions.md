@@ -185,7 +185,8 @@ $$
 
 (f \circ  g) ( x)   \\
  = f(g(x))   \\
- = f()\\
+ = 3\left( \frac{1}{3}x + \frac{2}{3} \right)     -2   \\
+ =  \\
 (g \circ f) (x)   
 \end{array} 
 $$
