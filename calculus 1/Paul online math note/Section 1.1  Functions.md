@@ -12,8 +12,8 @@ reference: https://tutorial.math.lamar.edu/Solutions/CalcI/Functions/Prob2.aspx
 Example 2 Given$f(x)=−x^2+6x−11$ find each of the following.
 # #definition 
 
-## Based on the "Calculus I - Functions" source, what is the **simplest definition of a function**?
-## #ai_explaination 
+### Based on the "Calculus I - Functions" source, what is the **simplest definition of a function**?
+### #ai_explaination 
 
 Thank you for rephrasing your answer! This is a significant improvement and much closer to the precise definition of a function provided in the source.
 
@@ -40,7 +40,7 @@ Let's continue to build on this.
 Based on the "Calculus I - Functions" source, what is the significance of the equation ({y^2} = x + 1) not being a function, and how does it relate to the definition of a function?
 
 
-## #human_explaination  
+### #human_explaination  
 Let me rephrase my answer A symbolic definition of a function for for any ex in a specific domain there will be a single output of Y That he evaluated at a specific value of X meaning that we cannot have multiple input for the same output
 
 
@@ -75,9 +75,7 @@ $$
 \end{array}
 $$
 
-	
 
-##  
 
 
 
