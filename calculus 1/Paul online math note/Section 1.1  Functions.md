@@ -162,8 +162,7 @@ The significant of the order in function composition is that the second function
 
 
 ### #ai_explaination 
-
-Here’s your fully formatted explanation in **Obsidian-friendly Markdown**, including clean math notation using LaTeX and headings for clarity:
+Got it! Here's the **Obsidian-ready version** with all equations wrapped in `$$` blocks (for proper math rendering), and properly spaced Markdown formatting:
 
 ---
 
@@ -171,10 +170,7 @@ Here’s your fully formatted explanation in **Obsidian-friendly Markdown**, inc
 
 Given two functions:
 
-- f(x)=3x2−x+10f(x) = 3x^2 - x + 10
-    
-- g(x)=1−20xg(x) = 1 - 20x
-    
+f(x)=3x2−x+10f(x) = 3x^2 - x + 10 g(x)=1−20xg(x) = 1 - 20x
 
 We will:
 
@@ -189,7 +185,7 @@ We will:
 
 ### 1. Calculate (f∘g)(x)(f \circ g)(x)
 
-By definition,
+By definition:
 
 (f∘g)(x)=f(g(x))(f \circ g)(x) = f(g(x))
 
@@ -209,7 +205,7 @@ f(g(x))=3(1−40x+400x2)−(1−20x)+10f(g(x)) = 3(1 - 40x + 400x^2) - (1 - 20x)
 
 ### 2. Calculate (g∘f)(x)(g \circ f)(x)
 
-By definition,
+By definition:
 
 (g∘f)(x)=g(f(x))(g \circ f)(x) = g(f(x))
 
@@ -232,45 +228,18 @@ These results are clearly **not the same**.
 
 #### ✅ Key Takeaway:
 
-> **Function composition is not commutative**.  
-> That is, f(g(x))≠g(f(x))f(g(x)) \neq g(f(x)) in general.
+> **Function composition is not commutative**  
+> That is:
+> 
+> f(g(x))≠g(f(x)) in generalf(g(x)) \neq g(f(x)) \text{ in general}
 
-The function listed **second** is plugged into the one listed **first**, which means that the output of the second function becomes the input for the first. This order directly affects the final output.
+The function listed **second** is plugged into the one listed **first**. This order determines the input and thus directly affects the output.
 
-Understanding this concept is essential in calculus and algebra because it helps you apply operations, transformations, or real-world processes in the correct sequence.
+This concept is vital in calculus and algebra because applying functions in the wrong order can completely change the result.
 
 ---
 
-Let me know if you'd like this turned into an Anki Q&A format or embedded in a note with links to other Obsidian topics like [[Composition of Functions]] or [[Function Operations]].
-$$
-\begin{array}{l} \\
-f(x)=−x^2+6x−11      \\
-f(2)=(−2)^2+6\cdot 2 −11    \\
- = 4 +  12  - 11   \\
-  =  5     
-\end{array}
-$$
-
-$$
-\begin{array}{l} \\
-f(x)=−x^2+6x−11      \\
-f(2)=(−2)^2+6\cdot 2 −11    \\
- = 4 +  12  - 11   \\
-  =  5     
-\end{array}
-$$
-
-
-
-$$
-\begin{array}{l} \\
- f(x)=−x^2+6x−11       \\
- f(4x  -1 ) =  -(4x  -1  )^2 +6(4x  - 1) −11    \\
-  f(4x  -1 ) =   -16x^2  +8x   -1   +   24x  - 6   - 11   \\
-   f(4x  -1 ) =   -16x^2  +  32x   -  18  
-\end{array}
-$$
-
+Let me know if you'd like this turned into [[Anki]] flashcards or linked into your Obsidian vault with [[Function Composition]] and [[Commutativity]] references!
 
 
 
