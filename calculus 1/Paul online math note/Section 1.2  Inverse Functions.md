@@ -89,6 +89,9 @@ Your description of the steps was very clear, especially noting the conversion o
 
 
 $$ 
-f(x)  =  6x  + 15 
+\begin{array}{l}
+f(x)  =  6x  + 15   \\
+
+\end{array}
 
 $$
