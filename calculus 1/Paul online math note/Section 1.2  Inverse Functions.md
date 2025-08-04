@@ -174,7 +174,9 @@ $$
 \begin{array}{l}
  h(x)  =  \frac{1 + 9x}{4 -x }  \\
  \text{ inverses the function }   \\
- \frac{1 + 9x}{4 -x }
+ y  =  \frac{1 + 9x}{4 -x }     \\
+x= \frac{1 + 9x}{4 -x }  \\
+ 
 \end{array}
 $$
 
