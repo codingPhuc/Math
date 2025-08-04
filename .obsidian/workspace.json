@@ -209,7 +209,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "domain ",
+                "query": "tag:#human_explaination",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -240,7 +240,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

@@ -150,6 +150,62 @@ This example clearly shows how restrictions on the input (domain) lead to specif
 
 
 
+## Okay, here is another question for you, drawing on the latest information we've discussed about functions and composition: Building on our discussion of function composition, which is evaluated by plugging the second function listed into the first function listed, consider the following functions from the source: (f\left( x \right) = 3{x^2} - x + 10) and (g\left( x \right) = 1 - 20x). Your task is to:
+
+1. Calculate (\left( {f \circ g} \right)\left( x \right)).
+2. Calculate (\left( {g \circ f} \right)\left( x \right)).
+3. Based on your results, explain the significance of the order in which functions are composed.
+
+### #human_explaination 
+
+The significant of the order in function composition is that the fun
+
+### #ai_explaination 
+
+
+You've posed an excellent question that allows us to delve deeper into **function composition** and its properties, drawing directly from the "Calculus I - Functions" source. You've also provided a good initial thought on the significance of order.
+
+Let's break down your request into the three parts:
+
+---
+
+### 1. Calculate (\left( {f \circ g} \right)\left( x \right))
+
+As we discussed, function composition means **plugging the second function listed into the first function listed**. So, for (\left( {f \circ g} \right)\left( x \right)), we need to substitute (g\left( x \right)) into (f\left( x \right)).
+
+Given:
+
+- (f\left( x \right) = 3{x^2} - x + 10)
+- (g\left( x \right) = 1 - 20x)
+
+Following the steps from the source: [\begin{align*}\left( {f \circ g} \right)\left( x \right) & = f\left( {g\left( x \right)} \right) \ & = f\left( {1 - 20x} \right) \ & = 3{\left( {1 - 20x} \right)^2} - \left( {1 - 20x} \right) + 10 \ & = 3\left( {1 - 40x + 400{x^2}} \right) - 1 + 20x + 10 \ & = 3 - 120x + 1200{x^2} - 1 + 20x + 10 \ & = \mathbf{1200{x^2} - 100x + 12}\end{align*}]
+
+### 2. Calculate (\left( {g \circ f} \right)\left( x \right))
+
+For (\left( {g \circ f} \right)\left( x \right)), we reverse the order and substitute (f\left( x \right)) into (g\left( x \right)).
+
+Given:
+
+- (f\left( x \right) = 3{x^2} - x + 10)
+- (g\left( x \right) = 1 - 20x)
+
+Following the steps from the source: [\begin{align*}\left( {g \circ f} \right)\left( x \right) & = g\left( {f\left( x \right)} \right) \ & = g\left( {3{x^2} - x + 10} \right) \ & = 1 - 20\left( {3{x^2} - x + 10} \right) \ & = 1 - 60{x^2} + 20x - 200 \ & = \mathbf{- 60{x^2} + 20x - 199}\end{align*}]
+
+### 3. Explain the significance of the order in which functions are composed
+
+Your explanation correctly identifies the core mechanism of composition: "if the first function is used before the second function the second function will be in the parameters of the function meaning that it will be plugged into the X value of the function." This describes the process of "plugging the second function listed into the first function listed".
+
+Building on this, the **significance of the order** in function composition is demonstrated clearly by our calculations above:
+
+- We found (\left( {f \circ g} \right)\left( x \right) = 1200{x^2} - 100x + 12).
+- We found (\left( {g \circ f} \right)\left( x \right) = - 60{x^2} + 20x - 199).
+
+As you can see, **these two results are different**. The source explicitly states that "Interchanging the order will **more often than not result in a different answer**". It further emphasizes that the answers are "NOT the same" when comparing (\left( {f \circ g} \right)\left( x \right)) and (\left( {g \circ f} \right)\left( x \right)) for these specific functions.
+
+Therefore, the key significance is that **function composition is generally not commutative**. This means that ( \left( {f \circ g} \right)\left( x \right) ) is typically not equal to ( \left( {g \circ f} \right)\left( x \right) ). While there are special cases where they might be equal (such as with inverse functions, where both compositions result in (x)), for most functions, the sequence in which you compose them fundamentally changes the resulting function. This is a crucial concept to understand when working with functions in Calculus.
+
+
+
 $$
 \begin{array}{l} \\
 f(x)=−x^2+6x−11      \\
