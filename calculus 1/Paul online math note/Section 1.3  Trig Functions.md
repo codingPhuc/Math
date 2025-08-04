@@ -105,40 +105,10 @@ You demonstrated a solid understanding of the unit circle definition and the cor
 
 # #Practice_Exercise 
 
-```tikz
-\usepackage{amsmath,amssymb}
-\usetikzlibrary{decorations.pathreplacing, angles, quotes}
-\begin{document}
-\tikzset{every picture/.style={line width=1pt}} % set default line width
-
-\begin{tikzpicture}[x=1cm,y=1cm, scale = 2]
-    % Draw x-axis 
-    \draw[->] (-2,0) -- (2,0) node[right] {};
-    \draw[->] (0,-2) -- (0,2) node[right] {}; 
-
-    % Draw tick marks and labels
-\draw 
-  (0,0) coordinate (A) node[anchor=north]{$A$}
-    -- node[midway, below]{$adj$} %  bases 
-  (0.485,0) coordinate (C) node[anchor=north]{$C$}
-    -- node[midway, right]{$opp$} % hyp 
-  (0.485,0.875) coordinate (B) node[anchor=south]{$B$}
-    -- node[midway, above left]{$1$} %adj
-  cycle;
-
-\pic["$\circ$", draw=orange, angle radius=0.5cm, angle eccentricity=0.3] {angle = C--A--B} ;
-\draw (0,0) circle (1cm);
-
-\end{tikzpicture}
-\end{document}
-
-``` 
-
 $$
-
 \begin{array}{l}  \\
 \sin\left( \frac{2\pi}{3} \right)   \\
- 
+
 \end{array}
 
 
