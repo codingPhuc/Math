@@ -91,7 +91,10 @@ Your description of the steps was very clear, especially noting the conversion o
 $$ 
 \begin{array}{l}
 f(x)  =  6x  + 15   \\
-
+\text{ inverses the function }  \\
+ y = 6x + 15    \\
+x =  6y  + 15   \\
+y  = \frac{x-15}{6} 
 \end{array}
 
 $$
