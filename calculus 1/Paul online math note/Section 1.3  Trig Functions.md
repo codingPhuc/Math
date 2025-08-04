@@ -105,8 +105,14 @@ You demonstrated a solid understanding of the unit circle definition and the cor
 ## quadrant exercise 
 So, why did we only put in the first quadrant? The answer is simple. If you know the first quadrant then you can get all the other quadrants from the first with a small application of geometry. You’ll see how this is done in the following set of examples.
 ![[Pasted image 20250804163332.png]]
-bases on the provided number in the unit circle : 
-specify what value 
+evaluate  each of the following 
+
+$$
+\begin{array}{l}  \\
+\frac{\sin(2\pi)}{3 }  \cap \sin\left( -\frac{2\pi}{3} \right) \\
+
+\end{array}
+$$
 
 
 # #Practice_Exercise  
