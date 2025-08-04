@@ -110,14 +110,12 @@
             "id": "9242df5253dc5c73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "calculus 1/Paul online math note/Section 1.1  Functions.md",
-                "mode": "source",
-                "source": false
+                "file": "book/Trig_Cheat_Sheet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Section 1.1  Functions"
+              "icon": "lucide-file-text",
+              "title": "Trig_Cheat_Sheet"
             }
           },
           {
@@ -308,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Paul online math note/Section 1.2  Inverse Functions.md",
+                "file": "book/Trig_Cheat_Sheet.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 1.2  Inverse Functions"
+              "title": "Outline of Trig_Cheat_Sheet"
             }
           }
         ],
@@ -337,10 +335,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "905b77a89638b732",
+  "active": "9242df5253dc5c73",
   "lastOpenFiles": [
     "calculus 1/Paul online math note/Section 1.1  Functions.md",
     "calculus 1/Paul online math note/Section 1.2  Inverse Functions.md",
+    "book/Trig_Cheat_Sheet.pdf",
+    "book/Trig_Cheat_Sheet.pdf.crdownload",
     "calculus 1/12 hours calculus courses/Difference Quotient.md",
     "calculus 1/Module Relation.md",
     "calculus 1/What need to be understand.md",
@@ -364,7 +364,6 @@
     "Paul Online note/algebra/Section 4.7  Symmetry.md",
     "Paul Online note/algebra/Section 3.3  Circles.md",
     "mathwiki/Notes/smith_normal_form.md",
-    "calculus 1/12 hours calculus courses/2.5 Continuity on interval and continuous function.md",
     "calculus 1/Paul online math note",
     "calculus 1/12 hours calculus courses",
     "picture/Pasted image 20250802093721.png",
@@ -383,8 +382,6 @@
     "book/Precalculus Stewart 7th Edition.pdf",
     "book/ECE.pdf",
     "book/Give Me Liberty, Seventh Edition.pdf",
-    "book/ECE.pdf.crdownload",
-    "picture",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
