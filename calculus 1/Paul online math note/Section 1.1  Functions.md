@@ -42,6 +42,11 @@ Based on the "Calculus I - Functions" source, what is the significance of the eq
 
 ### #human_explaination  
 Let me rephrase my answer A symbolic definition of a function for for any ex in a specific domain there will be a single output of Y That he evaluated at a specific value of X meaning that we cannot have multiple input for the same output
+## Based on the "Calculus I - Functions" source, what is the significance of the equation ({y^2} = x + 1) not being a function, and how does it relate to the definition of a function? 
+
+
+
+
 
 
 
