@@ -8,3 +8,7 @@ Current date: "2025-08-04"
 amount of time: 
 learning score:
 ---
+# #definition 
+
+## 
+
