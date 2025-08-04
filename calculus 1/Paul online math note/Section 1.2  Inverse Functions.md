@@ -175,9 +175,11 @@ $$
  h(x)  =  \frac{1 + 9x}{4 -x }  \\
  \text{ inverses the function }   \\
  y  =  \frac{1 + 9x}{4 -x }     \\
-x= \frac{1 + 9x}{4 -x }  \\
- 
-\end{array}
+x= \frac{1 + 9y}{4 -y }  \\
+ x(4 -y)  =  1 + 9y  \\
+4x  - xy   =  1 +  9y  \\
+
+  \end{array}
 $$
 
 now we will composite the two function to check for our answer 
