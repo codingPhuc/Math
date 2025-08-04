@@ -90,7 +90,7 @@ Your description of the steps was very clear, especially noting the conversion o
 
 
 
-## 
+## For each of the following functions find the inverse of the function. Verify your inverse by computing one or both of the composition as discussed in this section.
 $$ 
 \begin{array}{l}
 f(x)  =  6x  + 15   \\
@@ -146,11 +146,10 @@ $$
 
 $$ 
 \begin{array}{l}
-h(x)  = 3-  29x    \\
+f(x)= \sqrt[7]{ 5 + 8  }   \\
 \text{ inverses the function }  \\
-y =  3 - 29x   \\ 
-x =  3 - 29y  \\
-h(x)^{-1} =   \frac{3-x}{29}
+y =  \sqrt[7]{ 5x + 8  }   
+x =  \sqrt[7]{ 5 + 8  }   
 \end{array}
 $$
 
