@@ -103,9 +103,16 @@ $$
 now we will composite the two function to check for our answer 
 $$
 \begin{array}{l}
-(f \circ f^{-1} ) ( x) =  f[f^{-1}]
+(f \circ f^{-1} ) ( x) =  f[f^{-1}(x)]  \\
+ =  6\left[  \frac{1}{6} (x  -15) \right] + 15   \\
+ = x  - 15  +  15  \\
+ =  x 
 \end{array}
 $$
+
+
+
+
 
 
 
