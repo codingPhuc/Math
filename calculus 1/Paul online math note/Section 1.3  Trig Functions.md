@@ -102,14 +102,12 @@ You demonstrated a solid understanding of the unit circle definition and the cor
 
 **Rating: 9/10** – Your response was very accurate and showed a strong grasp of the concepts. You clearly understand the definition from the unit circle and the method for evaluating angles in different quadrants.
 
-
-# #Practice_Exercise 
+## quadrant exercise 
+So, why did we only put in the first quadrant? The answer is simple. If you know the first quadrant then you can get all the other quadrants from the first with a small application of geometry. You’ll see how this is done in the following set of examples.
 ![[Pasted image 20250804163332.png]]
-$$
-\begin{array}{l}  \\
-\sin\left( \frac{2\pi}{3} \right)   \\
-
-\end{array}
+bases on the provided number in the unit circle : 
+specify what value 
 
 
-$$
+# #Practice_Exercise  
+
