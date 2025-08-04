@@ -32,3 +32,28 @@ You've shown a strong grasp of these fundamental definitions. Remembering these 
 
 **Rating: 9/10** – Your conceptual understanding is spot on for all six functions. The minor verbal stumbles did not hinder your accurate recall of the mathematical definitions.
 
+
+## Based on the sources, what is the primary unit of angle measurement used in calculus, and why is it emphasized over degrees? Additionally, can you provide the radian equivalents for 30, 45, and 90 degrees as presented in the sources? 
+
+### #human_explaination  
+
+The source specified that the radiance is used over like measurement like degrees because it represents the circle more accurately meaning that it is more precise as compared to like something like a degree Umm the grading equivalent by I know that the ankle for 90 degrees is like P-2 we can use it to calculate the angle for like 45 degrees by using P-2 to multiply by 45 and / 90 degrees we equate to like P4 and the same go for like do do you do degrees of like 30s and that in that equation equal equate to P6
+
+### #ai_explaination 
+That's a very good attempt, and you've accurately identified key aspects of angle measurement in calculus!
+
+Let's break down your response:
+
+You correctly identified that **radians** are the primary unit of angle measurement used in calculus. This is a crucial point, as the sources strongly emphasize that "everything in most calculus classes will be done in radians!".
+
+Regarding _why_ radians are emphasized, you suggested it's because they "represent the circle more accurately meaning that it is more precise." While it is true that radians are mathematically more fundamental and simplify many formulas in calculus (a reason not explicitly detailed in _these specific excerpts_), the provided sources primarily state that radians are used because **it is the convention in calculus courses**. They note that degrees are often used in trig and science classes "probably because it’s easier to visualize degrees", implying that calculus shifts to radians as the standard. So, the emphasis is on _what_ is used, rather than a detailed explanation of its inherent precision advantage within these notes.
+
+For the radian equivalents:
+
+- You correctly stated that **90 degrees is (\displaystyle \frac{\pi}{2}) radians**.
+- You accurately deduced that **45 degrees is (\displaystyle \frac{\pi}{4}) radians** by relating it to 90 degrees (dividing 90 degrees / 2 and similarly dividing (\displaystyle \frac{\pi}{2}) / 2).
+- You also correctly deduced that **30 degrees is (\displaystyle \frac{\pi}{6}) radians** using a similar logical approach.
+
+Your ability to recall and even derive these common radian equivalents is excellent!
+
+**Rating: 8/10** – You demonstrated strong understanding of the units and conversions. The only minor point for clarification is that the provided text emphasizes the _convention_ of using radians in calculus rather than explicitly detailing their "precision" as the primary _reason_ within these specific notes. 
