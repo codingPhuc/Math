@@ -27,4 +27,4 @@ why is the range dependent on the vertex and vice versal
 
 how do you find the point of the vertex ? 
 
-what does 
+[[Properties of Trig Function pf sin and cos]] what does w have to do with anything, like I know that period when added is when the circle reset but what is the fix variable w doing ? 
