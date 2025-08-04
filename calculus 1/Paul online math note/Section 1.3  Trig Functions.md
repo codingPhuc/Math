@@ -111,7 +111,8 @@ $$
 \begin{array}{l}  \\
 \sin\left( \frac{2\pi}{3} \right) \cap \sin\left( -\frac{2\pi}{3} \right) \\
 \sin\left( \frac{2\pi}{3} \right)    = \sin\left( \pi + \frac{\pi}{3}   \right) \implies \frac{\pi}{3}  \\
- \text{move up by pi creating a reflection over the y axis so  } p   
+ \text{move up by pi creating a reflection over the y axis so  } \\\frac{2\pi}{3}    \in  \text{ quadrant II}  \\
+
 \end{array}
 $$
 
