@@ -102,7 +102,7 @@ there is  not way to compute  the triangle getting sin and cos
 
 
 The unit circle is a circle with a radius of 1. As the angle increases, the terminal side of the angle moves around the circle, tracing points along its circumference.
-- if you add  a radiant the t
+- if you add  a radiant the the angle will be moving up like o
 In the figure , right triangle draw  in unit circle , top veritcle have coordinate $(a,b)$ in term a and b 
 - How long is the base  the triangle,  the height of the triangle 
 - how long is height 
