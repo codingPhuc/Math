@@ -146,7 +146,7 @@ $$
 
 $$ 
 \begin{array}{l}
-f(x)= \sqrt[7]{ 5 + 8  }   \\
+f(x)= \sqrt[7]{ 5x + 8  }   \\
 \text{ inverses the function }  \\
 y=  \sqrt[7]{ 5x + 8  }     \\ 
 x =  \sqrt[7]{ 5y + 8  }  \\
@@ -159,10 +159,29 @@ $$
 now we will composite the two function to check for our answer 
 $$
 \begin{array}{l}
-(f \circ f^{-1} ) ( x) =  3 - 29( \frac{3-x}{29})  \\
+(f \circ f^{-1} ) ( x) =  \sqrt[7]{ 5( \frac{x^7 - 8}{5} ) + 8  }   \\
  =  x
 \end{array}
 $$
 
+
+
+
+
+
+
+$$ 
+\begin{array}{l}
+ h(x)  =  \frac{1 + 9x}{4 -x }
+\end{array}
+$$
+
+now we will composite the two function to check for our answer 
+$$
+\begin{array}{l}
+(f \circ f^{-1} ) ( x) =  \sqrt[7]{ 5( \frac{x^7 - 8}{5} ) + 8  }   \\
+ =  x
+\end{array}
+$$
 
 
