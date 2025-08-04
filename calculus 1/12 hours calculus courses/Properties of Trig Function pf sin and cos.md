@@ -11,6 +11,7 @@ learning score:
 Periodic Property  : sin and cos are period $2\pi$
 there is also a short form to write this  The period of the function is the number T, such that $F(\circ + T)=f(\circ)$. So, if w is a fixed number and $\circ$ is any angle we  have the following periods 
 
+
 $\cos( \circ  + 2\pi) =\cos \circ$ 
 $$
 \begin{array}{l} \\

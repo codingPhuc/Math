@@ -110,14 +110,16 @@
             "id": "9242df5253dc5c73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "calculus 1/What need to be understand.md",
-                "mode": "source",
-                "source": false
+                "file": "book/Trig_Cheat_Sheet.pdf",
+                "page": 1,
+                "left": 146,
+                "top": 646,
+                "zoom": 1
               },
-              "icon": "lucide-file",
-              "title": "What need to be understand"
+              "icon": "lucide-file-text",
+              "title": "Trig_Cheat_Sheet"
             }
           },
           {
@@ -308,13 +310,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/What need to be understand.md",
+                "file": "book/Trig_Cheat_Sheet.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What need to be understand"
+              "title": "Outline of Trig_Cheat_Sheet"
             }
           }
         ],
@@ -342,8 +344,9 @@
   },
   "active": "9242df5253dc5c73",
   "lastOpenFiles": [
-    "book/Trig_Cheat_Sheet.pdf",
     "calculus 1/12 hours calculus courses/Properties of Trig Function pf sin and cos.md",
+    "book/Trig_Cheat_Sheet.pdf",
+    "calculus 1/What need to be understand.md",
     "calculus 1/12 hours calculus courses/Graphs of Sinusoidal Functions.md",
     "calculus 1/12 hours calculus courses/Graph of Sin and Cos.md",
     "calculus 1/Paul online math note/Section 1.2  Inverse Functions.md",
@@ -351,7 +354,6 @@
     "book/Trig_Cheat_Sheet.pdf.crdownload",
     "calculus 1/12 hours calculus courses/Difference Quotient.md",
     "calculus 1/Module Relation.md",
-    "calculus 1/What need to be understand.md",
     "calculus 1/12 hours calculus courses/Lines Graphs and Equations.md",
     "calculus 1/12 hours calculus courses/Rational Expressions.md",
     "calculus 1/12 hours calculus courses/Right Angle Trinometry.md",
