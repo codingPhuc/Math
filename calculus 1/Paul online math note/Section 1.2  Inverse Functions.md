@@ -191,8 +191,10 @@ $$
 (h \circ h^{-1} ) ( x) =   \frac{1 + 9\left( \frac{4x - 1}{x + 9 }  \right)}{4 -\left( \frac{4x - 1}{x + 9 }  \right) }     \\
 (h \circ h^{-1} ) ( x) =   \frac{\frac{x + 9 + 9(4x -1 )}{x + 9 }}{ \frac{4(x+ 9)  -4x + 1}{ x + 9} }  \\
 = \frac{x + 9 + 9(4x -1 )}{4(x+ 9)  -4x + 1}  \\
-= \frac{x + 9 + 36x  -   9}{4x+ 9)  -4x + 1} 
+= \frac{x + 9 + 36x  -   9}{4x+ 36  -4x + 1}  = \frac{37x}{37}  = x 
 \end{array}
 $$
+
+
 
 
