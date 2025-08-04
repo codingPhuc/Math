@@ -31,5 +31,27 @@ The property of being one-to-one is **necessary for a function to have an invers
 
 Now for your next question:
 
-Based on the sources, **what is the formal notation used to denote the inverse of a function (f(x)), and what is a common mistake students make with this notation?**
+# Based on the sources, **what is the formal notation used to denote the inverse of a function (f(x)), and what is a common mistake students make with this notation?** 
 
+
+
+### #human_explaination 
+The common notation that it used for like the function efforts is exponent like annotation where you got an exponent of minus 1 and the common mistake that student make with igno tasting expecting it to be an exponent of money one meaning the invert meaning the IT will be converted into a factional number or fashion or polynomials
+
+
+
+You are absolutely on the right track with your understanding of the notation for inverse functions and the common mistake associated with it.
+
+Based on the sources, the formal notation used to denote the inverse of a function (f(x)) is **(f^{-1}(x))**. Similarly, if you have a function (g(x)), its inverse would be denoted as (g^{-1}(x)).
+
+The **common mistake** that students often make with this notation is **to interpret the "(-1)" as an exponent**. They incorrectly assume that (f^{-1}(x)) means the reciprocal of (f(x)), as in **({f^{ - 1}}\left( x \right) \ne \frac{1}{{f\left( x \right)}})**. The sources emphasize that despite its appearance, the "(-1)" in (f^{-1}(x)) is **NOT an exponent** and does not imply division or a fractional form of the function. Instead, it is a specific symbol used solely to indicate that the function is an inverse function.
+
+Your explanation captured this mistake well, noting that it's expected to be "a fractional number or fashion or polynomials," which aligns with the source's warning about mistaking it for (1/f(x)).
+
+**Rating: 10/10**
+
+---
+
+Now, moving on to the next question:
+
+# Based on the sources, **outline the step-by-step process for finding the inverse of a given function (f(x)).**
