@@ -91,6 +91,10 @@ Your description of the steps was very clear, especially noting the conversion o
 
 
 ## For each of the following functions find the inverse of the function. Verify your inverse by computing one or both of the composition as discussed in this section.
+4/8 
+
+
+
 $$ 
 \begin{array}{l}
 f(x)  =  6x  + 15   \\
