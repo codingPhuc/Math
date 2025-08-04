@@ -103,9 +103,8 @@ there is  not way to compute  the triangle getting sin and cos
 
 unit circle is a circle of radius 1  with larger and larger angle  and the top vertex  led out tot another area of the circle 
 In the figure , right triangle draw  in unit circle , top veritcle have coordinate $(a,b)$ in term a and b 
-- How long is the base o f hte triable 
+- How long is the base  the triangle,  the height of the triangle 
 - how long is height 
-
 ![[Pasted image 20250726121431.png]]  
 
 
