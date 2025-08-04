@@ -248,7 +248,6 @@ Let me know if you'd like this turned into [[Anki]] flashcards or linked into yo
 
 
 
-
 ## determine  all the roots of 
 $$
 f(t) =  9t^3    - 18t^2   +  6t   = 3t(3t^2  -  6t  + 2)      \implies 
