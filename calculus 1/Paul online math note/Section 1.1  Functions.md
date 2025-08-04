@@ -267,4 +267,10 @@ g(t) =  2t^2 - 3t +  9   \implies   \frac{2 (h+t )^2 - 3 (h+t ) +  9   - 2t^2 - 
 \end{array}
 $$
 ## For problems 10 – 17 determine all the roots of the given function.  
+$$
+\begin{array}{l}  
+\frac{z}{z - 5 }    -  \frac{4}{z - 8 }  \\
+ = \frac{  z \cdot  (z - 8)   -  4(z - )}{}
+\end{array}
 
+$$
