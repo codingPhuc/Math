@@ -151,14 +151,15 @@ f(x)= \sqrt[7]{ 5 + 8  }   \\
 y=  \sqrt[7]{ 5x + 8  }     \\ 
 x =  \sqrt[7]{ 5y + 8  }  \\
 x^7  =    5y + 8    \\
- y =   x^7 - 
+ y =   \frac{x^7 - 8}{5}  \\
+f(x )^{-1}  = \frac{x^7 - 8}{5} 
 \end{array}
 $$
 
 now we will composite the two function to check for our answer 
 $$
 \begin{array}{l}
-(h \circ h^{-1} ) ( x) =  3 - 29( \frac{3-x}{29})  \\
+(f \circ f^{-1} ) ( x) =  3 - 29( \frac{3-x}{29})  \\
  =  x
 \end{array}
 $$
