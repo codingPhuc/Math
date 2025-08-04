@@ -30,4 +30,5 @@ how do you find the point of the vertex ?
 [[Properties of Trig Function pf sin and cos]] what does w have to do with anything, like I know that period when added is when the circle reset but what is the fix variable w doing ?  
 
 
-[[Section 1.3  Trig Functions]]  why is it that the degree or the space between the degree is so different when moving up or down by pi like $\frac{2\pi}{3}$ have as
+[[Section 1.3  Trig Functions]]  why is it that the degree or the space between the degree is so different when moving up or down by pi like $\frac{2\pi}{3}$ have space smaller reaching $\frac{\pi}{3}$ when compare to $-\frac{2\pi}{3}$ 
+
