@@ -283,8 +283,9 @@ $$
 $$
 \begin{array}{l}  
 g(w)   =  \frac{2w}{w+1  }   +  \frac{w -4}{2w - 3}   \\
-   =   \frac{2w (2w - 3) + (w -4)(w+ 1)}{(w+1)(2w - 3 ) }   +  \frac{w -4}{2w - 3}     \\
-= \frac{2w}{}
+   =   \frac{2w (2w - 3) + (w -4)(w+ 1)}{(w+1)(2w - 3 ) }     \\
+= \frac{2w^2 -  6w  + w^2 + w  - 4w  -4}{ (w+1)(2w - 3 ) }   \\
+\frac{2w^2 -  6w  + w^2 + w  - 4w  -4}{ (w+1)(2w - 3 ) }  
 
 \end{array}
 
