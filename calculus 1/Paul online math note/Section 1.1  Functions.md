@@ -266,3 +266,5 @@ g(t) =  2t^2 - 3t +  9   \implies   \frac{2 (h+t )^2 - 3 (h+t ) +  9   - 2t^2 - 
  = \frac{ 2h^2  + 4ht   - 3h     }{ h}    
 \end{array}
 $$
+## For problems 10 – 17 determine all the roots of the given function.  
+
