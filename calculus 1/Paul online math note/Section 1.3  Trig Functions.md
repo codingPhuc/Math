@@ -58,8 +58,9 @@ Your ability to recall and even derive these common radian equivalents is excell
 
 **Rating: 8/10** – You demonstrated strong understanding of the units and conversions. The only minor point for clarification is that the provided text emphasizes the _convention_ of using radians in calculus rather than explicitly detailing their "precision" as the primary _reason_ within these specific notes. 
 
-## 1.   
-    How is the sine and cosine of an angle defined using the unit circle?
+## compact question    
+  
+1. How is the sine and cosine of an angle defined using the unit circle?
 2. Using your understanding of the unit circle and its properties, as explained in the sources, what is the value of (\cos \left( {\frac{{7\pi }}{6}} \right))? Please explain your reasoning. Sing and closing in the eunuch circle define a coordinate in a point with the causing being the X value and the sing being the Y value For the value in the Unicorn cost mean that we suit will take a like because 7P6 equate to like P per 6 we should will take like downward by P * 
 
 ## #ai_explaination 
