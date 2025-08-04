@@ -158,7 +158,8 @@ This example clearly shows how restrictions on the input (domain) lead to specif
 
 ### #human_explaination 
 
-The significant of the order in function composition is that the fun
+The significant of the order in function composition is that the second function in the order will be plug into the first function like a list, and act as it x variables 
+
 
 ### #ai_explaination 
 
