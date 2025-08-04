@@ -261,8 +261,8 @@ g(x) =  6 - x^2  \implies  \frac{6 - (h+x )^2  - 6 + x^2 }{ h}   \\
 \frac{6- h^2  - x^2- 2hx  - 6 + x^2}{ h}  \\
   \frac{-h^2  - 2hx }{ h}    \\
 =  - h  - 2x     \\
-g(t) =  2t^2 - 3t +  9   \implies   \frac{2 (h+x )^2 - 3 (h+x ) +  9   - 2t^2 - 3t +  9 }{ h}        \\
-\frac{2h^2  + 2x^2  + 4 - 2t^2 - 3t +  9 }{ h}   
+g(t) =  2t^2 - 3t +  9   \implies   \frac{2 (h+t )^2 - 3 (h+t ) +  9   - 2t^2 - 3t +  9 }{ h}        \\
+\frac{ 2h^2  +  2t^2+ 4ht   - 3 }{ h}   
 
 \end{array}
 $$
