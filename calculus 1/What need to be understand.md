@@ -27,3 +27,4 @@ why is the range dependent on the vertex and vice versal
 
 how do you find the point of the vertex ? 
 
+what does 

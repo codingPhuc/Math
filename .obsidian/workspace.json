@@ -110,16 +110,14 @@
             "id": "9242df5253dc5c73",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "book/Trig_Cheat_Sheet.pdf",
-                "page": 1,
-                "left": 128,
-                "top": 540,
-                "zoom": 1
+                "file": "calculus 1/What need to be understand.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Trig_Cheat_Sheet"
+              "icon": "lucide-file",
+              "title": "What need to be understand"
             }
           },
           {
@@ -242,8 +240,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -311,13 +308,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/12 hours calculus courses/Properties of Trig Function pf sin and cos.md",
+                "file": "calculus 1/What need to be understand.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Properties of Trig Function pf sin and cos"
+              "title": "Outline of What need to be understand"
             }
           }
         ],
@@ -343,7 +340,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "905b77a89638b732",
+  "active": "9242df5253dc5c73",
   "lastOpenFiles": [
     "book/Trig_Cheat_Sheet.pdf",
     "calculus 1/12 hours calculus courses/Properties of Trig Function pf sin and cos.md",
