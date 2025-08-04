@@ -87,5 +87,8 @@ Your description of the steps was very clear, especially noting the conversion o
 
 # #Practice_Exercise 
 
-$$
+
+$$ 
+f(x)  =  6x  + 15 
+
 $$
