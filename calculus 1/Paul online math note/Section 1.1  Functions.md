@@ -290,4 +290,5 @@ g(w)   =  \frac{2w}{w+1  }   +  \frac{w -4}{2w - 3}   \\
 \end{array}
 
 $$
-this quadratic equation does not factor so we
+this quadratic equation does not factor so we need to used quadratic formula to get the equation 
+
