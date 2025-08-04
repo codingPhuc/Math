@@ -110,6 +110,12 @@ Based on "Calculus I - Functions," what are the **domain** and **range** of a fu
 
 
 
+## Based on "Calculus I - Functions," what are the **domain** and **range** of a function? Provide an example of a function from the source and explain its domain and range. 
+
+
+### #
+
+
 
 $$
 \begin{array}{l} \\
