@@ -8,8 +8,8 @@ Current date: "2025-07-26"
 amount of time: 
 learning score:
 ---
-Periodic Property  : sin and cos are period $\pi$
-
+Periodic Property  : sin and cos are period $2\pi$
+there is also a short form to write this  The period of the function is the number T, such that $F(\circ)$
 $\cos( \circ  + 2\pi) =\cos \circ$ 
 $$
 \begin{array}{l} \\
