@@ -178,8 +178,9 @@ $$
 x= \frac{1 + 9y}{4 -y }  \\
  x(4 -y)  =  1 + 9y  \\
 4x  - xy   =  1 +  9y  \\
-
-  \end{array}
+9y + xy  = 4x - 1   \\
+y  =  \frac{4x - 1}{x + 9 }  \\
+\end{array}
 $$
 
 now we will composite the two function to check for our answer 
