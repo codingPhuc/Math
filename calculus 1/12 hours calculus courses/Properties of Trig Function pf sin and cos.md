@@ -28,7 +28,7 @@ $$
 $$
 this is can be summarize as the equation :  $\cos||\sin(\circ +  2n)$
 
-because $2n\pi$  mean that just n how many unit time the circle turn 
+because $2n\pi$  mean that just n how many unit time the circle turn or another name the 
 ![[Pasted image 20250726124712.png]]
 Example find  
 $$
