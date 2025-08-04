@@ -101,7 +101,8 @@ there is  not way to compute  the triangle getting sin and cos
 
 
 
-unit circle is a circle of radius 1  with larger and larger angle  and the top vertex  led out tot another area of the circle 
+The unit circle is a circle with a radius of 1. As the angle increases, the terminal side of the angle moves around the circle, tracing points along its circumference.
+- if you add  a radiant the t
 In the figure , right triangle draw  in unit circle , top veritcle have coordinate $(a,b)$ in term a and b 
 - How long is the base  the triangle,  the height of the triangle 
 - how long is height 
