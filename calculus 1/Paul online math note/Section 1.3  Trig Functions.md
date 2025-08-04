@@ -104,7 +104,7 @@ You demonstrated a solid understanding of the unit circle definition and the cor
 
 
 # #Practice_Exercise 
-
+![[Pasted image 20250804163332.png]]
 $$
 \begin{array}{l}  \\
 \sin\left( \frac{2\pi}{3} \right)   \\

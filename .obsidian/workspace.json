@@ -112,12 +112,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/12 hours calculus courses/The Unit Circle.md",
+                "file": "Paul Online note/algebra/Section 3.1 Graphing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Unit Circle"
+              "title": "Section 3.1 Graphing"
             }
           },
           {
@@ -309,13 +309,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/12 hours calculus courses/The Unit Circle.md",
+                "file": "calculus 1/Paul online math note/Section 1.3  Trig Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Unit Circle"
+              "title": "Outline of Section 1.3  Trig Functions"
             }
           }
         ],
@@ -341,8 +341,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9242df5253dc5c73",
+  "active": "905b77a89638b732",
   "lastOpenFiles": [
+    "picture/Pasted image 20250804163332.png",
     "Paul Online note/algebra/Section 3.1 Graphing.md",
     "calculus 1/12 hours calculus courses/The Unit Circle.md",
     "calculus 1/12 hours calculus courses/Graphs of Sinusoidal Functions.md",
@@ -370,7 +371,6 @@
     "Paul Online note/algebra/Section 4.2  Parabolas.md",
     "Paul Online note/algebra/Section 4.4 Hyperbolas.md",
     "Paul Online note/algebra/Section 4.5  Miscellaneous Functions.md",
-    "Paul Online note/algebra/Section 4.6  Transformations.md",
     "calculus 1/Paul online math note",
     "calculus 1/12 hours calculus courses",
     "picture/Pasted image 20250802093721.png",
