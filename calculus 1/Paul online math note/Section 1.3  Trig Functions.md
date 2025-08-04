@@ -134,3 +134,6 @@ You demonstrated a solid understanding of the unit circle definition and the cor
 
 ``` 
 
+$$
+\sin\left( \frac{2\pi}{3} \right)
+$$
