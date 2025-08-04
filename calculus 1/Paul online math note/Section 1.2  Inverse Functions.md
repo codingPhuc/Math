@@ -88,6 +88,9 @@ Your description of the steps was very clear, especially noting the conversion o
 # #Practice_Exercise 
 
 
+
+
+## 
 $$ 
 \begin{array}{l}
 f(x)  =  6x  + 15   \\
@@ -129,14 +132,35 @@ $$
 now we will composite the two function to check for our answer 
 $$
 \begin{array}{l}
-(h \circ h^{-1} ) ( x) = h[ 3-  29x] \\
- =  6\left[  \frac{1}{6} (x  -15) \right] + 15   \\
- = x  - 15  +  15  \\
- =  x 
+(h \circ h^{-1} ) ( x) =  3 - 29( \frac{3-x}{29})  \\
+ =  x
 \end{array}
 $$
 
 
+
+
+
+
+
+
+$$ 
+\begin{array}{l}
+h(x)  = 3-  29x    \\
+\text{ inverses the function }  \\
+y =  3 - 29x   \\ 
+x =  3 - 29y  \\
+h(x)^{-1} =   \frac{3-x}{29}
+\end{array}
+$$
+
+now we will composite the two function to check for our answer 
+$$
+\begin{array}{l}
+(h \circ h^{-1} ) ( x) =  3 - 29( \frac{3-x}{29})  \\
+ =  x
+\end{array}
+$$
 
 
 
