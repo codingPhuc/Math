@@ -115,7 +115,7 @@
                 "file": "book/Trig_Cheat_Sheet.pdf",
                 "page": 1,
                 "left": 146,
-                "top": 646,
+                "top": 599,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
@@ -310,13 +310,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/Trig_Cheat_Sheet.pdf",
+                "file": "calculus 1/12 hours calculus courses/Properties of Trig Function pf sin and cos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trig_Cheat_Sheet"
+              "title": "Outline of Properties of Trig Function pf sin and cos"
             }
           }
         ],
@@ -342,10 +342,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9242df5253dc5c73",
+  "active": "905b77a89638b732",
   "lastOpenFiles": [
-    "calculus 1/12 hours calculus courses/Properties of Trig Function pf sin and cos.md",
     "book/Trig_Cheat_Sheet.pdf",
+    "calculus 1/12 hours calculus courses/Properties of Trig Function pf sin and cos.md",
     "calculus 1/What need to be understand.md",
     "calculus 1/12 hours calculus courses/Graphs of Sinusoidal Functions.md",
     "calculus 1/12 hours calculus courses/Graph of Sin and Cos.md",
