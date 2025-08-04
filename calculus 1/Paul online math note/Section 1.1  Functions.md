@@ -10,7 +10,9 @@ learning score:
 reference: https://tutorial.math.lamar.edu/Solutions/CalcI/Functions/Prob2.aspx
 ---
 Example 2 Given$f(x)=−x^2+6x−11$ find each of the following.
-# #th
+# #definition 
+
+
 
 
 
