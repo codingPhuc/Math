@@ -94,7 +94,10 @@ f(x)  =  6x  + 15   \\
 \text{ inverses the function }  \\
  y = 6x + 15    \\
 x =  6y  + 15   \\
-y  = \frac{x-15}{6} 
+y  = \frac{x-15}{6}  \\
+f(x)^{-1}  = \frac{x-15}{6} 
 \end{array}
 
 $$
+
+now we wil l
