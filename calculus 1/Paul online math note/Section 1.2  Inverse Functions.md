@@ -120,7 +120,7 @@ $$
 \begin{array}{l}
 h(x)  = 3-  29x    \\
 \text{ inverses the function }  \\
-h(x)  = 3-  29x  \\ 
+h(x) =    \\ 
 f(x)^{-1}  = \frac{x-15}{6} 
 \end{array}
 $$
