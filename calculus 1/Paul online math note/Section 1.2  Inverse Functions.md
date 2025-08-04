@@ -148,8 +148,10 @@ $$
 \begin{array}{l}
 f(x)= \sqrt[7]{ 5 + 8  }   \\
 \text{ inverses the function }  \\
-f(x)=  \sqrt[7]{ 5x + 8  }     \\ 
-f(x) =  \sqrt[7]{ 5 + 8  }   
+y=  \sqrt[7]{ 5x + 8  }     \\ 
+x =  \sqrt[7]{ 5y + 8  }  \\
+x^7  =    5y + 8    \\
+ y =   x^7 - 
 \end{array}
 $$
 
