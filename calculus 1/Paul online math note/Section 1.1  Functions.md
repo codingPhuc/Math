@@ -272,7 +272,10 @@ $$
 \frac{z}{z - 5 }    -  \frac{4}{z - 8 }  \\
  = \frac{  z \cdot  (z - 8)   -  4(z - 5)}{ (z - 5) (z -8)}  \\
 = \frac{  z^2  -12z  +     20   }{ (z - 5) (z -8)}  \\
-
+\left\{  \begin{array}{l}  
+z  = 10   \\
+z  =  2  
+\end{array}\right.    \\
 \end{array}
 
 $$
