@@ -258,9 +258,9 @@ f( x )  =  4x -  9 \implies   \frac{4(x  + h)  -  9  -  4x  - h  }{ h}   \\
 =   \frac{ 4h } {  h}    = 4   \\
  \\
 g(x) =  6 - x^2  \implies  \frac{6 - (h+x )^2  - 6 + x^2 }{ h}   \\
-\frac{6- h^2  - x^2- 2x  - 6 + x^2}{ h}  \\
-  \frac{-h^2  - 2x }{ h}    \\
-g(x) =  6 - x^2  \implies  \frac{6 - (h+x )^2  - 6 + x^2 }{ h}   \\
+\frac{6- h^2  - x^2- 2hx  - 6 + x^2}{ h}  \\
+  \frac{-h^2  - 2hx }{ h}    \\
+g(x) =  2t^2 =3t +  9   \implies   \\
 \frac{6- h^2  - x^2- 2x  - 6 + x^2}{ h}  \\
   \frac{-h^2  - 2x }{ h}  
 \end{array}
