@@ -172,7 +172,9 @@ $$
 
 $$ 
 \begin{array}{l}
- h(x)  =  \frac{1 + 9x}{4 -x }
+ h(x)  =  \frac{1 + 9x}{4 -x }  \\
+ \text{ inverses the function }   \\
+ \frac{1 + 9x}{4 -x }
 \end{array}
 $$
 
