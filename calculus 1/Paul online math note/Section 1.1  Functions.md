@@ -270,7 +270,9 @@ $$
 $$
 \begin{array}{l}  
 \frac{z}{z - 5 }    -  \frac{4}{z - 8 }  \\
- = \frac{  z \cdot  (z - 8)   -  4(z - )}{}
+ = \frac{  z \cdot  (z - 8)   -  4(z - 5)}{ (z - 5) (z -8)}  \\
+= \frac{  z^2  -12z  +     20   }{ (z - 5) (z -8)}  \\
+
 \end{array}
 
 $$
