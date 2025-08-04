@@ -179,14 +179,16 @@ x= \frac{1 + 9y}{4 -y }  \\
  x(4 -y)  =  1 + 9y  \\
 4x  - xy   =  1 +  9y  \\
 9y + xy  = 4x - 1   \\
-y  =  \frac{4x - 1}{x + 9 }  \\
+y  =  \frac{4x - 1}{x + 9 }   \\
+h(x)^{-1} =  \frac{4x - 1}{x + 9 } 
 \end{array}
 $$
+
 
 now we will composite the two function to check for our answer 
 $$
 \begin{array}{l}
-(f \circ f^{-1} ) ( x) =  \sqrt[7]{ 5( \frac{x^7 - 8}{5} ) + 8  }   \\
+(h \circ h^{-1} ) ( x) =   \frac{1 + 9()}{4 -x }     \\
  =  x
 \end{array}
 $$
