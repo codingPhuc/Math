@@ -113,7 +113,40 @@ Based on "Calculus I - Functions," what are the **domain** and **range** of a fu
 ## Based on "Calculus I - Functions," what are the **domain** and **range** of a function? Provide an example of a function from the source and explain its domain and range. 
 
 
-### #
+### #human_explaination 
+The domain of a function is the value of X that can be passed into the function the value X that can be input into the function meaning acceptable value of X that can be inputted the range on the other hand is the odd possible value of Y or the output of the function that can be resolved due to the function evaluation
+
+### #ai_explaination  
+
+8/10 
+You have a good grasp of the definitions of domain and range. Let's elaborate on them based on the "Calculus I - Functions" source.
+
+The source defines these important ideas about functions:
+
+- **Domain of a function**: In the simplest terms, the **domain** of a function is **the set of all values that can be plugged into a function and have the function exist and have a real number for a value**. This means it encompasses all the acceptable (x)-values that can be inputted into the equation. To determine the domain, you generally need to avoid specific mathematical operations that would lead to undefined or non-real results. These include avoiding division by zero, taking square roots of negative numbers, and using logarithms of zero or negative numbers.
+- **Range of a function**: The **range** of a function is **simply the set of all possible values that a function can take**. These are the possible (y)-values or outputs that result from evaluating the function within its domain. Determining the range can sometimes be more challenging than finding the domain, especially for complex functions.
+
+**Example from the source to illustrate domain and range:**
+
+Let's consider the function (g\left( t \right) = \sqrt {4 - 7t} ).
+
+- **Domain of (g\left( t \right))**:
+    
+    - For this function, we must ensure that we **do not take the square root of any negative numbers**.
+    - Therefore, the expression under the square root, (4 - 7t), must be greater than or equal to zero.
+    - Setting up the inequality: (4 - 7t \ge 0).
+    - Solving for (t):
+        - (4 \ge 7t)
+        - (\frac{4}{7} \ge t), which can also be written as (t \le \frac{4}{7}).
+    - So, the **domain** of (g\left( t \right)) is (t \le \frac{4}{7}), or in interval notation: (\left( { - \infty ,\frac{4}{7}} \right]).
+- **Range of (g\left( t \right))**:
+    
+    - Since this is a square root function, we know that **square roots are always positive or zero**.
+    - The smallest value the expression under the square root, (4 - 7t), can take is 0 (when (t = \frac{4}{7})), which results in (\sqrt{0} = 0). As (t) decreases, (4 - 7t) increases, and thus (\sqrt{4 - 7t}) also increases.
+    - Therefore, the **range** of (g\left( t \right)) will be all values greater than or equal to zero.
+    - In interval notation, the range is (\left[ {0,\infty } \right)).
+
+This example clearly shows how restrictions on the input (domain) lead to specific boundaries for the output (range).
 
 
 
