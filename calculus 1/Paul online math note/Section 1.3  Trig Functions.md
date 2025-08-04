@@ -109,7 +109,8 @@ evaluate  each of the following
 
 $$
 \begin{array}{l}  \\
-\frac{\sin(2\pi)}{3 }  \cap \sin\left( -\frac{2\pi}{3} \right)
+\sin\left( \frac{2\pi}{3} \right) \cap \sin\left( -\frac{2\pi}{3} \right) \\
+\sin\left( \frac{2\pi}{3} \right)    = \sin\left( \pi + \frac{1}{3}   \right) \implies 
 \end{array}
 $$
 
