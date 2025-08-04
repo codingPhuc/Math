@@ -279,3 +279,12 @@ z  =  2
 \end{array}
 
 $$
+
+$$
+\begin{array}{l}  
+g(w)   =  \frac{2w}{w+1  }   +  \frac{w -4}{2w - 3}   \\
+ 
+
+\end{array}
+
+$$
