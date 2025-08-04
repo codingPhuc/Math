@@ -163,50 +163,85 @@ The significant of the order in function composition is that the second function
 
 ### #ai_explaination 
 
-
-You've posed an excellent question that allows us to delve deeper into **function composition** and its properties, drawing directly from the "Calculus I - Functions" source. You've also provided a good initial thought on the significance of order.
-
-Let's break down your request into the three parts:
+Here’s your fully formatted explanation in **Obsidian-friendly Markdown**, including clean math notation using LaTeX and headings for clarity:
 
 ---
 
-### 1. Calculate (\left( {f \circ g} \right)\left( x \right))
+## Function Composition: Order Matters
 
-As we discussed, function composition means **plugging the second function listed into the first function listed**. So, for (\left( {f \circ g} \right)\left( x \right)), we need to substitute (g\left( x \right)) into (f\left( x \right)).
+Given two functions:
 
-Given:
+- f(x)=3x2−x+10f(x) = 3x^2 - x + 10
+    
+- g(x)=1−20xg(x) = 1 - 20x
+    
 
-- (f\left( x \right) = 3{x^2} - x + 10)
-- (g\left( x \right) = 1 - 20x)
+We will:
 
-Following the steps from the source: [\begin{align*}\left( {f \circ g} \right)\left( x \right) & = f\left( {g\left( x \right)} \right) \ & = f\left( {1 - 20x} \right) \ & = 3{\left( {1 - 20x} \right)^2} - \left( {1 - 20x} \right) + 10 \ & = 3\left( {1 - 40x + 400{x^2}} \right) - 1 + 20x + 10 \ & = 3 - 120x + 1200{x^2} - 1 + 20x + 10 \ & = \mathbf{1200{x^2} - 100x + 12}\end{align*}]
+1. Compute (f∘g)(x)(f \circ g)(x)
+    
+2. Compute (g∘f)(x)(g \circ f)(x)
+    
+3. Explain the significance of the order in which functions are composed
+    
 
-### 2. Calculate (\left( {g \circ f} \right)\left( x \right))
+---
 
-For (\left( {g \circ f} \right)\left( x \right)), we reverse the order and substitute (f\left( x \right)) into (g\left( x \right)).
+### 1. Calculate (f∘g)(x)(f \circ g)(x)
 
-Given:
+By definition,
 
-- (f\left( x \right) = 3{x^2} - x + 10)
-- (g\left( x \right) = 1 - 20x)
+(f∘g)(x)=f(g(x))(f \circ g)(x) = f(g(x))
 
-Following the steps from the source: [\begin{align*}\left( {g \circ f} \right)\left( x \right) & = g\left( {f\left( x \right)} \right) \ & = g\left( {3{x^2} - x + 10} \right) \ & = 1 - 20\left( {3{x^2} - x + 10} \right) \ & = 1 - 60{x^2} + 20x - 200 \ & = \mathbf{- 60{x^2} + 20x - 199}\end{align*}]
+Substitute g(x)=1−20xg(x) = 1 - 20x into f(x)f(x):
 
-### 3. Explain the significance of the order in which functions are composed
+f(g(x))=f(1−20x)=3(1−20x)2−(1−20x)+10f(g(x)) = f(1 - 20x) = 3(1 - 20x)^2 - (1 - 20x) + 10
 
-Your explanation correctly identifies the core mechanism of composition: "if the first function is used before the second function the second function will be in the parameters of the function meaning that it will be plugged into the X value of the function." This describes the process of "plugging the second function listed into the first function listed".
+Now expand:
 
-Building on this, the **significance of the order** in function composition is demonstrated clearly by our calculations above:
+(1−20x)2=1−40x+400x2(1 - 20x)^2 = 1 - 40x + 400x^2
 
-- We found (\left( {f \circ g} \right)\left( x \right) = 1200{x^2} - 100x + 12).
-- We found (\left( {g \circ f} \right)\left( x \right) = - 60{x^2} + 20x - 199).
+So:
 
-As you can see, **these two results are different**. The source explicitly states that "Interchanging the order will **more often than not result in a different answer**". It further emphasizes that the answers are "NOT the same" when comparing (\left( {f \circ g} \right)\left( x \right)) and (\left( {g \circ f} \right)\left( x \right)) for these specific functions.
+f(g(x))=3(1−40x+400x2)−(1−20x)+10f(g(x)) = 3(1 - 40x + 400x^2) - (1 - 20x) + 10 =3−120x+1200x2−1+20x+10= 3 - 120x + 1200x^2 - 1 + 20x + 10 =1200x2−100x+12= \boxed{1200x^2 - 100x + 12}
 
-Therefore, the key significance is that **function composition is generally not commutative**. This means that ( \left( {f \circ g} \right)\left( x \right) ) is typically not equal to ( \left( {g \circ f} \right)\left( x \right) ). While there are special cases where they might be equal (such as with inverse functions, where both compositions result in (x)), for most functions, the sequence in which you compose them fundamentally changes the resulting function. This is a crucial concept to understand when working with functions in Calculus.
+---
 
+### 2. Calculate (g∘f)(x)(g \circ f)(x)
 
+By definition,
 
+(g∘f)(x)=g(f(x))(g \circ f)(x) = g(f(x))
+
+Substitute f(x)=3x2−x+10f(x) = 3x^2 - x + 10 into g(x)g(x):
+
+g(f(x))=1−20(3x2−x+10)g(f(x)) = 1 - 20(3x^2 - x + 10) =1−(60x2−20x+200)= 1 - (60x^2 - 20x + 200) =−60x2+20x−199= \boxed{-60x^2 + 20x - 199}
+
+---
+
+### 3. Significance of Order in Function Composition
+
+As shown above:
+
+- (f∘g)(x)=1200x2−100x+12(f \circ g)(x) = 1200x^2 - 100x + 12
+    
+- (g∘f)(x)=−60x2+20x−199(g \circ f)(x) = -60x^2 + 20x - 199
+    
+
+These results are clearly **not the same**.
+
+#### ✅ Key Takeaway:
+
+> **Function composition is not commutative**.  
+> That is, f(g(x))≠g(f(x))f(g(x)) \neq g(f(x)) in general.
+
+The function listed **second** is plugged into the one listed **first**, which means that the output of the second function becomes the input for the first. This order directly affects the final output.
+
+Understanding this concept is essential in calculus and algebra because it helps you apply operations, transformations, or real-world processes in the correct sequence.
+
+---
+
+Let me know if you'd like this turned into an Anki Q&A format or embedded in a note with links to other Obsidian topics like [[Composition of Functions]] or [[Function Operations]].
 $$
 \begin{array}{l} \\
 f(x)=−x^2+6x−11      \\
