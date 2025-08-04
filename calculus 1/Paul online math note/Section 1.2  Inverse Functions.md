@@ -97,7 +97,6 @@ x =  6y  + 15   \\
 y  = \frac{x-15}{6}  \\
 f(x)^{-1}  = \frac{x-15}{6} 
 \end{array}
-
 $$
 
 now we will composite the two function to check for our answer 
@@ -111,6 +110,30 @@ $$
 $$
 
 
+
+
+
+
+
+
+$$ 
+\begin{array}{l}
+h(x)  = 3-  29x    \\
+\text{ inverses the function }  \\
+h(x)  = 3-  29x  \\ 
+f(x)^{-1}  = \frac{x-15}{6} 
+\end{array}
+$$
+
+now we will composite the two function to check for our answer 
+$$
+\begin{array}{l}
+(f \circ f^{-1} ) ( x) =  f[f^{-1}(x)]  \\
+ =  6\left[  \frac{1}{6} (x  -15) \right] + 15   \\
+ = x  - 15  +  15  \\
+ =  x 
+\end{array}
+$$
 
 
 
