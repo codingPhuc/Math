@@ -15,6 +15,7 @@ there is also a short form to write this  The period of the function is the numb
 > 
 > 
 
+it say that w is how faster the circle spin, meaning that instead of the normal spinning spead of like $2\pi$ for the sin  and cos it can spin fast
 $\cos( \circ  + 2\pi) =\cos \circ$ 
 $$
 \begin{array}{l} \\
