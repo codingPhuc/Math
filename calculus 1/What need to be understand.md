@@ -32,3 +32,5 @@ how do you find the point of the vertex ?
 
 [[Section 1.3  Trig Functions]]  why is it that the degree or the space between the degree is so different when moving up or down by pi like $\frac{2\pi}{3}$ have space smaller reaching $\frac{\pi}{3}$ when compare to $-\frac{2\pi}{3}$ 
 
+why is it call an event function  ? 
+From this unit circle we can see that cos(7π6)=−√32and cos(−7π6)=−√32. In this case the cosine function is called an **even** function and so for ANY angle we have 
