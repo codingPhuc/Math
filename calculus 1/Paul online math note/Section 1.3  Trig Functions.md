@@ -117,7 +117,7 @@ $$
  \text{move down by pi creating a reflection over the  origin  so  } \\ \frac{-2\pi}{3}    \in  \text{ quadrant III}   \\ 
 \end{array}
 $$
-remember that the angle is being measure at the point $\pi,-\pi$  if  $\pi - \frac{\pi}{3}$ meaning that at the point $-\frac{\pi}{3}$ it will be a
+remember that the angle is being measure at the point $\pi,-\pi$  if  $\pi - \frac{\pi}{3}$ meaning that at the point $-\frac{\pi}{3}$ is  a reflection of $\frac{\pi}{3}$ over the x axis so it will be rotated up  by 
 
 # #Practice_Exercise  
 
