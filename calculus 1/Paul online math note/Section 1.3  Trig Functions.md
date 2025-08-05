@@ -114,10 +114,10 @@ $$
 \sin\left( \frac{2\pi}{3} \right)    = \sin\left( \pi - \frac{\pi}{3}   \right) \implies \frac{\pi}{3}  \\
  \text{move up by pi creating a reflection over the y axis so  } \\ \frac{2\pi}{3}    \in  \text{ quadrant II}   \\
  \sin\left( -\frac{2\pi}{3} \right)  =   \sin\left( -\pi +  \frac{\pi}{3}   \right)  
- \text{move down by pi creating a reflection over the  origin  so  } \\ \frac{-2\pi}{3}    \in  \text{ quadrant III}   \\
+ \text{move down by pi creating a reflection over the  origin  so  } \\ \frac{-2\pi}{3}    \in  \text{ quadrant III}   \\ 
 \end{array}
 $$
-remember that the angle is being measure at the point $\pi,-\pi$  if 
+remember that the angle is being measure at the point $\pi,-\pi$  if  $\pi - \frac{\pi}{3}$ meaning that at the point $-\frac{\pi}{3}$ it will be a
 
 # #Practice_Exercise  
 
