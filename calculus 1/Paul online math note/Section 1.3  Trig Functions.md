@@ -128,7 +128,7 @@ $$
 ## Second method 
 ![[Pasted image 20250805110720.png]] 
 we need to understand $\pi,2\pi$ , $\pi$ is the part of the x on the negative side of the material while 2 $\pi$ is part of the  x axis on the positive side. 
-when we $\pi+$  
+when we $\pi+w$ with  w being a fixed variable it will move down the circle, and when we $\pi -w$ it will move down  the circle,   
 
 
 
