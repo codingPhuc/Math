@@ -146,8 +146,9 @@ we can see that in the unit circle the reflection of $\frac{\pi}{3}$ is $-\frac{
 
 
 $$
-\begin{array}{l}  \
-\cos \frac{7\pi}{6}  =   \cos 
+\begin{array}{l}  \\
+\cos\left( \frac{7\pi}{6} \right) \cap  \cos \left( -\frac{7\pi}{6} \right)   \\
+\cos \frac{7\pi}{6}  =   \cos \pi +  1
 \end{array}
 $$
 
