@@ -181,7 +181,8 @@ $$
 \tan\left( - \frac{\pi}{4}  \right) \cap  \tan \left( \frac{7\pi}{4}\right)   \\
 \tan\left( - \frac{\pi}{4}  \right)  =   \cos \pi +  \frac{\pi}{6}  \text{ we will rotated it so that it lose the negative notaiton}  \\
  \frac{\pi}{4}       = \pi  - \frac{5}{4}\pi \implies  -  \frac{\pi}{4}   \in \text{quadrant III, reflection have an origin reflection of   }  \frac{\pi}{4}  
-  
+\sin\left( - \frac{\pi}{4} \right)   =  \frac{\sqrt{ 2  }}{2}  \\
+\cos\left( - \frac{\pi}{4} \right)   =  \frac{\sqrt{ 2  }}{2}  
 
 \end{array}
 $$
