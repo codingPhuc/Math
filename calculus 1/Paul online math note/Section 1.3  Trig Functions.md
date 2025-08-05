@@ -151,8 +151,8 @@ $$
 \cos \frac{7\pi}{6}  =   \cos \pi +  \frac{\pi}{6}  \\
 \implies  \frac{7\pi}{6} \text{ belong in quadrant III,x and y same value but negative sign of } \frac{\pi}{6}   \\
 \cos -\frac{7\pi}{6}  =   -\cos \pi -  \frac{\pi}{6}   \\
-\implies  -\frac{7\pi}{6} \text{ belong in quadrant II, x and y same but x is negative but y is positive } -\frac{\pi}{6}   \\
-\implies \cos(\frac{7\pi}{6} )  =   
+\implies  -\frac{7\pi}{6} \text{ belong in quadrant II because is is a reflection of -pi/6, x and y same but x is negative } \frac{\pi}{6}   \\
+\implies \cos\left( \frac{7\pi}{6}  \right)  =    -\frac{\sqrt{ 3 }}{2}
 \end{array}
 $$
 
