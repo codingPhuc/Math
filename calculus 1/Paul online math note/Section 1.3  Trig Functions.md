@@ -111,7 +111,8 @@ evaluate  each of the following
 
 ### first method 
 the first method I will used have nothing to do with rotation as all : 
-1. 
+1. when  I see $-\frac{\pi}{3}$ I will chock it down to a reflection of $\frac{\pi}{3}$ over the x axis  
+2. then adding or subtraction $\pi$ does not matter I just need to know that $\pi$ 
 
 $$
 \begin{array}{l}  \\
