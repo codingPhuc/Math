@@ -118,7 +118,7 @@ $$
 \end{array}
 $$
 remember that the angle is being measure at the point $\pi,-\pi$  if  $\pi - \frac{\pi}{3}$ meaning that at the point $-\frac{\pi}{3}$ is  a reflection of $\frac{\pi}{3}$ over the x axis so it will be rotated up  by $\pi$ causing it to reflect over the origin at $\frac{2\pi}{3}$ 
-on the other hand,  $\frac{\pi}{3}$  is moving down by $-\pi$  causing it to  reflect over it origin at $\frac{\pi}{3}$
+on the other hand,  $\frac{\pi}{3}$  is moving down by $-\pi$  causing it to  reflect over it origin at $\frac{-2\pi}{3}$
 
 # #Practice_Exercise  
 
