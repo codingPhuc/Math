@@ -117,8 +117,7 @@ $$
  \text{move down by pi creating a reflection over the  origin  so  } \\ \frac{-2\pi}{3}    \in  \text{ quadrant III}   \\
 \end{array}
 $$
-
-so
+remember that the angle is being mesu
 
 # #Practice_Exercise  
 
