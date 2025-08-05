@@ -125,6 +125,8 @@ $$
 \end{array}
 $$
 
+## Second method 
+
 
 
 
