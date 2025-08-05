@@ -181,18 +181,32 @@ $$
 \tan\left( - \frac{\pi}{4}  \right) \cap  \tan \left( \frac{7\pi}{4}\right)   \\
 \tan\left( - \frac{\pi}{4}  \right)  =   \cos \pi +  \frac{\pi}{6}  \text{ we will rotated it so that it lose the negative notaiton}  \\
 \frac{7\pi}{4 }  =  2\pi - \frac{\pi}{4} \in \text{quadrant IV,  have an axis reflection of   }  \frac{\pi}{4}  \\
-\sin\left( - \frac{\pi}{4} \right)   =  \frac{\sqrt{ 2  }}{2}  \\
+\sin\left( - \frac{\pi}{4} \right)   = - \frac{\sqrt{ 2  }}{2}  \\
 \cos\left( - \frac{\pi}{4} \right)   =  \frac{\sqrt{ 2  }}{2}   \\
-\implies \tan x =  \frac{\sin(x)}{\cos (x) }  =  1 
+\implies \tan x =  \frac{\sin(x)}{\cos (x) }  =  -1  
 \end{array}
 $$
+so we note that tan  is an odd function  
 
-![[Pasted image 20250804172241.png]] 
-
-we can see that in the unit circle the reflection of $\frac{\pi}{3}$ is $-\frac{2\pi}{3}$ resulting  in both  x and y being negative because it belong to quadrant III so   $\sin\left( -\frac{2\pi}{3}  =  -\frac{\sqrt{ 3 }}{2}  \right)$ since sin represent the y value 
-
+![[Pasted image 20250805145159.png]]
 
 
+
+
+
+$$
+\begin{array}{l}  \\
+\tan\left( - \frac{\pi}{4}  \right) \cap  \tan \left( \frac{7\pi}{4}\right)   \\
+\tan\left( - \frac{\pi}{4}  \right)  =   \cos \pi +  \frac{\pi}{6}  \text{ we will rotated it so that it lose the negative notaiton}  \\
+\frac{7\pi}{4 }  =  2\pi - \frac{\pi}{4} \in \text{quadrant IV,  have an axis reflection of   }  \frac{\pi}{4}  \\
+\sin\left( - \frac{\pi}{4} \right)   = - \frac{\sqrt{ 2  }}{2}  \\
+\cos\left( - \frac{\pi}{4} \right)   =  \frac{\sqrt{ 2  }}{2}   \\
+\implies \tan x =  \frac{\sin(x)}{\cos (x) }  =  -1  
+\end{array}
+$$
+so we note that tan  is an odd function  
+
+![[Pasted image 20250805145159.png]]
 
 # #Practice_Exercise  
 
