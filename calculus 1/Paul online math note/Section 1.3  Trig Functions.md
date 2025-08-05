@@ -213,11 +213,8 @@ $$
 \begin{array}{l}  \\
 \sec \left(  \frac{25\pi}{6} \right) \\
 \sec \left(  \frac{25\pi}{6} \right)  = \sec \left( 4\pi +  \frac{\pi}{6} \right)    \\
-\frac{7\pi}{4 }  =  2\pi - \frac{\pi}{4} \in \text{quadrant IV,  have an axis reflection of   }  \frac{\pi}{4}  \\
-\text{ they are in fact the same angle} \\
-\sin\left( - \frac{\pi}{4} \right)   = - \frac{\sqrt{ 2  }}{2}  \\
-\cos\left( - \frac{\pi}{4} \right)   =  \frac{\sqrt{ 2  }}{2}   \\
-\implies \tan x =  \frac{\sin(x)}{\cos (x) }  =  -1  
+\frac{7\pi}{4 }  = 4\pi +  \frac{\pi}{6} \in \text{quadrant IV,  have an axis reflection of   }  \frac{\pi}{4}  \\
+2\pi  - \frac{\pi}{4}  =  
 \end{array}
 $$
 so we note that tan  is an odd function  
