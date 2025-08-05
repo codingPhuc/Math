@@ -108,6 +108,11 @@ So, why did we only put in the first quadrant? The answer is simple. If you kno
 ![[Pasted image 20250804163332.png]]
 evaluate  each of the following 
 
+
+### first method 
+the first method I will used have nothing to do with rotation as all : 
+1. 
+
 $$
 \begin{array}{l}  \\
 \sin\left( \frac{2\pi}{3} \right) \cap \sin\left( -\frac{2\pi}{3} \right) \\
@@ -117,14 +122,6 @@ $$
  \text{move down by pi creating a reflection over the  origin  so  } \\ \frac{-2\pi}{3}    \in  \text{ quadrant III}   \\ 
 \end{array}
 $$
-remember that the angle is being measure at the point $\pi,-\pi$  if  $\pi - \frac{\pi}{3}$ meaning that at the point $-\frac{\pi}{3}$ is  a reflection of $\frac{\pi}{3}$ over the x axis so it will be rotated up  by $\pi$ causing it to reflect over the origin at $\frac{2\pi}{3}$ 
-on the other hand,  $\frac{\pi}{3}$  is moving down by $-\pi$  causing it to  reflect over it origin at $\frac{-2\pi}{3}$
-- ou're thinking of **reflections and rotations** around the origin or x-axis, and using **π\piπ** as a key point for symmetry.
-    
-- You noticed that:
-    - $π3\frac{\pi}{3}3π​ \text{and}and −π3-\frac{\pi}{3}−3π​$ are **reflections** of each other over the x-axis.   
-    - Adding or subtracting π\piπ to those causes them to move to **Quadrant II or III**, preserving the same reference angle (π3\frac{\pi}{3}3π​) but changing signs depending on the quadrant.
-This approach is **correct** and matches what we know from the unit circle — you're just explaining it in your own language. 
 
 
 
