@@ -224,3 +224,16 @@ so we note that tan  is an odd function
 
 # #Practice_Exercise  
 
+
+$$
+\begin{array}{l}  \\
+\cos \left(  \frac{25\pi}{6} \right) \\
+\cos \left(  \frac{25\pi}{6} \right)  = \cos \left( 4\pi +  \frac{\pi}{6} \right)    \\
+\frac{25\pi}{6}   = 4\pi +  \frac{\pi}{6}  \text{ the angle will spin  around two time because of the coterminal angle   }  \frac{\pi}{4}   \\
+\implies \cos \left(\frac{\pi}{6} \right)    \\
+\sin  =  \frac{1}{2}   \\
+\cos  = \frac{\sqrt{ 3 }}{ 2  }   \\ 
+\cos  =  \frac{1}{\cos}  =\frac{1}{ \frac{\sqrt{ 3 }}{ 2  }}   = \frac{2}{\sqrt{ 3 }}
+\end{array}
+$$
+
