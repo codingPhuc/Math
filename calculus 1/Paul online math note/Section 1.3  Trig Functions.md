@@ -180,7 +180,7 @@ $$
 \begin{array}{l}  \\
 \tan\left( - \frac{\pi}{4}  \right) \cap  \tan \left( \frac{7\pi}{4}\right)   \\
 \tan\left( - \frac{\pi}{4}  \right)  =   \cos \pi +  \frac{\pi}{6}  \text{ we will rotated it so that it lose the negative notaiton}  \\
- -  \frac{\pi}{4}       = \pi  - \frac{5}{4}\pi \implies  -  \frac{\pi}{4}   \in  {quadrant 3 }
+ -  \frac{\pi}{4}       = \pi  - \frac{5}{4}\pi \implies  -  \frac{\pi}{4}   \in \text{quadrant III, reflection of $\frac{\pi}{4} $  }  
 \end{array}
 $$
 
@@ -192,4 +192,3 @@ we can see that in the unit circle the reflection of $\frac{\pi}{3}$ is $-\frac{
 
 
 # #Practice_Exercise  
-
