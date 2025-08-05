@@ -149,7 +149,8 @@ $$
 \begin{array}{l}  \\
 \cos\left( \frac{7\pi}{6} \right) \cap  \cos \left( -\frac{7\pi}{6} \right)   \\
 \cos \frac{7\pi}{6}  =   \cos \pi +  \frac{\pi}{6}  \\
-\implies 
+\implies  \frac{7\pi}{6} \text{ belong in quadrant III meaning x and y will be negative }   \\
+\text{ }
 \end{array}
 $$
 
