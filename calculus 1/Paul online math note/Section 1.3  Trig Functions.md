@@ -130,8 +130,8 @@ $$
 we need to understand $\pi,2\pi$ , $\pi$ is the part of the x on the negative side of the material while 2 $\pi$ is part of the  x axis on the positive side. 
 when we $\pi+w$ with  w being a fixed variable it will move down the circle, and when we $\pi -w$ it will move up  the circle 
 the same procedure will  happen to $2\pi$ but in reverse. Because $2\pi$ is in the opposite side of the axis 
-1. when I see $\pi-\frac{\pi}{3}$ I will know that pi will move up from the x axis by  a number of $\pi-$
-2. dfasdsa
+1. when I see $\pi-\frac{\pi}{3}$ I will know that pi will move up the circle from the x axis by  a number of $\frac{\pi}{3}$  clock wise 
+2. so it will land on quadrant II if 
 3. asdasd
 4. asdasda
 5. 
