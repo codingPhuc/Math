@@ -135,7 +135,7 @@ the same procedure will  happen to $2\pi$ but in reverse. Because $2\pi$ is in t
 2. so it will land on quadrant II of the graphs  
 3. this mean that  the line for  $\frac{2\pi}{3}$ will mirror the line for $\frac{\pi}{3}$ only on the second quadrant 
 on the other hand , 
-4. when I see $-\pi +  \frac{\pi}{3}$    
+4. when I see $-2\pi$    I will convert it into 
 $$
 \begin{array}{l}  \\
 \cos\left( \frac{7\pi}{6} \right) \cap  \cos \left( -\frac{7\pi}{6} \right)   \\
