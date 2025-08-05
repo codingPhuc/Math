@@ -103,7 +103,7 @@ You demonstrated a solid understanding of the unit circle definition and the cor
 
 **Rating: 9/10** – Your response was very accurate and showed a strong grasp of the concepts. You clearly understand the definition from the unit circle and the method for evaluating angles in different quadrants.
 
-## quadrant exercise 
+## quadrant exercise  Evaluate each of the following.
 So, why did we only put in the first quadrant? The answer is simple. If you know the first quadrant then you can get all the other quadrants from the first with a small application of geometry. You’ll see how this is done in the following set of examples.
 ![[Pasted image 20250804163332.png]]
 evaluate  each of the following 
@@ -153,6 +153,28 @@ $$
 ![[Pasted image 20250804172241.png]] 
 
 we can see that in the unit circle the reflection of $\frac{\pi}{3}$ is $-\frac{2\pi}{3}$ resulting  in both  x and y being negative because it belong to quadrant III so   $\sin\left( -\frac{2\pi}{3}  =  -\frac{\sqrt{ 3 }}{2}  \right)$ since sin represent the y value 
+
+
+
+
+
+$$
+\begin{array}{l}  \\
+\cos\left( \frac{7\pi}{6} \right) \cap  \cos \left( -\frac{7\pi}{6} \right)   \\
+\cos \frac{7\pi}{6}  =   \cos \pi +  \frac{\pi}{6}  \\
+\implies  \frac{7\pi}{6} \text{ belong in quadrant III,x and y same value but negative sign of } \frac{\pi}{6}   \\
+\cos -\frac{7\pi}{6}  =   -\cos \pi -  \frac{\pi}{6}   \\
+\implies  -\frac{7\pi}{6} \text{ belong in quadrant II because is is a reflection of -pi/6, x and y same but x is negative } \frac{\pi}{6}   \\
+\implies \cos\left( \frac{7\pi}{6}  \right)  =    -\frac{\sqrt{ 3 }}{2} \cap  \cos\left( - \frac{7\pi}{6}  \right)   = -\frac{\sqrt{ 3 }}{2} 
+\end{array}
+$$
+
+![[Pasted image 20250804172241.png]] 
+
+we can see that in the unit circle the reflection of $\frac{\pi}{3}$ is $-\frac{2\pi}{3}$ resulting  in both  x and y being negative because it belong to quadrant III so   $\sin\left( -\frac{2\pi}{3}  =  -\frac{\sqrt{ 3 }}{2}  \right)$ since sin represent the y value 
+
+
+
 
 
 
