@@ -127,7 +127,7 @@ $$
 
 ## Second method 
 ![[Pasted image 20250805110720.png]] 
-we need to understand $\pi,2\pi$ , $\pi$ is the part of the x on the negative side of the material 
+we need to understand $\pi,2\pi$ , $\pi$ is the part of the x on the negative side of the material while 2 $\pi$ is part of the  x 
 
 
 
