@@ -178,8 +178,8 @@ we can see that in the unit circle the reflection of $\frac{\pi}{3}$ is $-\frac{
 
 $$
 \begin{array}{l}  \\
-\tan\left( -\left \frac{\pi}{4} \right\right) \cap  \tan \left( \frac{7\pi}{4}\right)   \\
-\tan\left( -\left \frac{\pi}{4} \right \right)  =   \cos \pi +  \frac{\pi}{6}  \\
+\tan\left( - \frac{\pi}{4}  \right) \cap  \tan \left( \frac{7\pi}{4}\right)   \\
+\tan\left( - \frac{\pi}{4}  \right)  =   \cos \pi +  \frac{\pi}{6}  \\
 \implies  \frac{7\pi}{6} \text{ belong in quadrant III,x and y same value but negative sign of } \frac{\pi}{6}   \\
 \cos -\frac{7\pi}{6}  =   -\cos \pi -  \frac{\pi}{6}   \\
 \implies  -\frac{7\pi}{6} \text{ belong in quadrant II because is is a reflection of -pi/6, x and y same but x is negative } \frac{\pi}{6}   \\
