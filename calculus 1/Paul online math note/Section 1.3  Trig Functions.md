@@ -117,7 +117,7 @@ $$
  \text{move down by pi creating a reflection over the  origin  so  } \\ \frac{-2\pi}{3}    \in  \text{ quadrant III}   \\
 \end{array}
 $$
-
+so
 
 # #Practice_Exercise  
 
