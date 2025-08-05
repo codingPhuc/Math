@@ -124,23 +124,7 @@ on the other hand,  $\frac{\pi}{3}$  is moving down by $-\pi$  causing it to  re
 - You noticed that:
     - $π3\frac{\pi}{3}3π​ \text{and}and −π3-\frac{\pi}{3}−3π​$ are **reflections** of each other over the x-axis.   
     - Adding or subtracting π\piπ to those causes them to move to **Quadrant II or III**, preserving the same reference angle (π3\frac{\pi}{3}3π​) but changing signs depending on the quadrant.
-This approach is **correct** and matches what we know from the unit circle — you're just explaining it in your own language.
-# #Practice_Exercise  
-
-
-$$
-\begin{array}{l}  \\
-\sin\left( \frac{2\pi}{3} \right) \cap \sin\left( -\frac{2\pi}{3} \right) \\
-\sin\left( \frac{2\pi}{3} \right)    = \sin\left( \pi - \frac{\pi}{3}   \right) \implies \frac{\pi}{3}  \\
- \text{move up by pi creating a reflection over the y axis so  } \\ \frac{2\pi}{3}    \in  \text{ quadrant II}   \\
- \sin\left( -\frac{2\pi}{3} \right)  =   \sin\left( -\pi +  \frac{\pi}{3}   \right)  
- \text{move down by pi creating a reflection over the  origin  so  } \\ \frac{-2\pi}{3}    \in  \text{ quadrant III}   \\ 
-\end{array}
-$$
-
-![[Pasted image 20250804172241.png]] 
-
-we can see that in the unit circle the reflection of $\frac{\pi}{3}$ is $-\frac{2\pi}{3}$ resulting  in both  x and y being negative because it belong to quadrant III so   $\sin\left( -\frac{2\pi}{3}  =  -\frac{\sqrt{ 3 }}{2}  \right)$ since sin represent the y value 
+This approach is **correct** and matches what we know from the unit circle — you're just explaining it in your own language. 
 
 
 
@@ -159,4 +143,7 @@ $$
 ![[Pasted image 20250804172241.png]] 
 
 we can see that in the unit circle the reflection of $\frac{\pi}{3}$ is $-\frac{2\pi}{3}$ resulting  in both  x and y being negative because it belong to quadrant III so   $\sin\left( -\frac{2\pi}{3}  =  -\frac{\sqrt{ 3 }}{2}  \right)$ since sin represent the y value 
+
+
+# #Practice_Exercise  
 
