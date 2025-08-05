@@ -78,28 +78,6 @@
         ]
       },
       {
-        "id": "7d5dc869e9b7d127",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2e6372115f7d9995",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "book/Trig_Cheat_Sheet.pdf",
-                "page": 1,
-                "left": 278,
-                "top": 449,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Trig_Cheat_Sheet"
-            }
-          }
-        ]
-      },
-      {
         "id": "67c628547dda02c7",
         "type": "tabs",
         "children": [

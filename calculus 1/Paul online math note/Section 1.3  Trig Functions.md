@@ -198,7 +198,7 @@ $$
 \begin{array}{l}  \\
 \tan\left( - \frac{\pi}{4}  \right) \cap  \tan \left( \frac{7\pi}{4}\right)   \\
 \tan\left( - \frac{\pi}{4}  \right)  =   \tan \pi +  \frac{\pi}{6}  \text{ we will rotated it so that it lose the negative notaiton}  \\
-\frac{7\pi}{4 }  =  2\pi - \frac{\pi}{4} \in \text{quadrant IV,  have an axis reflection of   }  \frac{\pi}{4}  \\
+\frac{7\pi}{4 }  =  2\pi - \frac{\pi}{4} \in \text{bases on the   }  \frac{\pi}{4}  \\
 \text{ they are in fact the same angle} \\
 \sin\left( - \frac{\pi}{4} \right)   = - \frac{\sqrt{ 2  }}{2}  \\
 \cos\left( - \frac{\pi}{4} \right)   =  \frac{\sqrt{ 2  }}{2}   \\
