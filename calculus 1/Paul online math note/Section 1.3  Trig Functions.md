@@ -140,10 +140,5 @@ $$
 
 ![[Pasted image 20250804172241.png]] 
 
-we can see that in the unit circle the reflection of $\frac{\pi}{3}$ is $-\frac{2\pi}{3}$ resulting  in both  x and y being negative because it belong to quadrant III 
+we can see that in the unit circle the reflection of $\frac{\pi}{3}$ is $-\frac{2\pi}{3}$ resulting  in both  x and y being negative because it belong to quadrant III so   $\sin\left( -\frac{2\pi}{3}  \right)$
 
-$$
- \begin{array}{l}  \\
- 
-\end{array}
-$$
