@@ -212,7 +212,7 @@ so we note that tan  is an odd function
 $$
 \begin{array}{l}  \\
 \sec \left(  \frac{25\pi}{6} \right) \\
-\sec \left(  \frac{25\pi}{6} \right)  =   \sec \left(  2\pi  + )  \\
+\sec \left(  \frac{25\pi}{6} \right)  = \sec \left( 4\pi +   \right)    \\
 \frac{7\pi}{4 }  =  2\pi - \frac{\pi}{4} \in \text{quadrant IV,  have an axis reflection of   }  \frac{\pi}{4}  \\
 \text{ they are in fact the same angle} \\
 \sin\left( - \frac{\pi}{4} \right)   = - \frac{\sqrt{ 2  }}{2}  \\
