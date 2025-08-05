@@ -63,4 +63,3 @@ midline is  y =   0
 amplitude is   1  
 period of $2\pi$
 
-
