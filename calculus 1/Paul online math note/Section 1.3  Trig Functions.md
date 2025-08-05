@@ -180,7 +180,7 @@ $$
 \begin{array}{l}  \\
 \tan\left( - \frac{\pi}{4}  \right) \cap  \tan \left( \frac{7\pi}{4}\right)   \\
 \tan\left( - \frac{\pi}{4}  \right)  =   \cos \pi +  \frac{\pi}{6}  \text{ we will rotated it so that it lose the negative notaiton}  \\
- -  \frac{\pi}{4}       = \pi  - 
+ -  \frac{\pi}{4}       = \pi  - \frac{5}{4}\pi \implies  -  \frac{\pi}{4}   \in  {quadrant 3 }
 \end{array}
 $$
 
