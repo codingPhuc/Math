@@ -213,7 +213,7 @@ $$
 \begin{array}{l}  \\
 \sec \left(  \frac{25\pi}{6} \right) \\
 \sec \left(  \frac{25\pi}{6} \right)  = \sec \left( 4\pi +  \frac{\pi}{6} \right)    \\
-\frac{25\pi}{6}   = 4\pi +  \frac{\pi}{6} \in \text{quadrant IV,  have an axis reflection of   }  \frac{\pi}{4}  \\
+\frac{25\pi}{6}   = 4\pi +  \frac{\pi}{6} \in \text{since bases on the coterminal angle it will remove the 4 }  \frac{\pi}{4}  \\
 2\pi  - \frac{\pi}{4}  =  
 \end{array}
 $$
