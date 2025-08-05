@@ -150,7 +150,7 @@ $$
 \cos\left( \frac{7\pi}{6} \right) \cap  \cos \left( -\frac{7\pi}{6} \right)   \\
 \cos \frac{7\pi}{6}  =   \cos \pi +  \frac{\pi}{6}  \\
 \implies  \frac{7\pi}{6} \text{ belong in quadrant III,x and y same value but negative sign of } \frac{\pi}{6}   \\
-\cos \frac{7\pi}{6}  =   \cos \pi +  \frac{\pi}{6}  \\
+\cos \frac{7\pi}{6}  =   \cos \pi -  \frac{\pi}{6}  \\
 \end{array}
 $$
 
