@@ -135,7 +135,10 @@ the same procedure will  happen to $2\pi$ but in reverse. Because $2\pi$ is in t
 2. so it will land on quadrant II of the graphs  
 3. this mean that  the line for  $\frac{2\pi}{3}$ will mirror the line for $\frac{\pi}{3}$ only on the second quadrant 
 on the other hand , 
-4. when I see $-\frac{2\pi}{3}$    I will convert it into  a positive number by spinning it one time around the circle,  $-\frac{2\pi}{3}+2\pi=\frac{4}{3}\pi\implies$
+4. when I see $-\frac{2\pi}{3}$    I will convert it into  a positive number by spinning it one time around the circle,  $-\frac{2\pi}{3}+2\pi=\frac{4}{3}\pi\implies \pi +\frac{\pi}{3}$  so it move down the negative axes 
+5. since it in quadrant III we can see it just the reflection of $\frac{\pi}{3}$ over the origin 
+
+
 $$
 \begin{array}{l}  \\
 \cos\left( \frac{7\pi}{6} \right) \cap  \cos \left( -\frac{7\pi}{6} \right)   \\
