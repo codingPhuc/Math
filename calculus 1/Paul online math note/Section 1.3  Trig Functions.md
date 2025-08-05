@@ -214,7 +214,10 @@ $$
 \sec \left(  \frac{25\pi}{6} \right) \\
 \sec \left(  \frac{25\pi}{6} \right)  = \sec \left( 4\pi +  \frac{\pi}{6} \right)    \\
 \frac{25\pi}{6}   = 4\pi +  \frac{\pi}{6}  \text{ the angle will spin  around two time because of the coterminal angle   }  \frac{\pi}{4}   \\
-\implies \sec \left(\frac{\pi}{6} \right)   
+\implies \sec \left(\frac{\pi}{6} \right)    \\
+\sin  =  \frac{\sqrt{ 3 }}{ 2  }   \\
+\cos  =  \frac{1}{2}   \\
+\sec  =  \frac{1}{\cos}  =2 
 \end{array}
 $$
 so we note that tan  is an odd function  
