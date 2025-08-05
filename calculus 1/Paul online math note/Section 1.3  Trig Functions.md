@@ -113,7 +113,7 @@ evaluate  each of the following
 the first method I will used have nothing to do with rotation as all : 
 1. when  I see $-\frac{\pi}{3}$ I will chock it down to a reflection of $\frac{\pi}{3}$ over the x axis  
 2. then adding or subtraction $\pi$ does not matter I just need to know that doing any operation with $\pi$  will cause a reflection over the origin 
-3. so the co
+3. so the only thing that matter is that whether the fixed variable added is negative or positive over the pi general form $\pm w \pm \pi$
 $$
 \begin{array}{l}  \\
 \sin\left( \frac{2\pi}{3} \right) \cap \sin\left( -\frac{2\pi}{3} \right) \\
