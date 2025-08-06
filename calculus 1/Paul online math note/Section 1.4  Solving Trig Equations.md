@@ -24,7 +24,7 @@ $$
 5x  =  5 \cdot  \frac{4\pi}{3}   = \frac{20\pi}{3}   \\
  \sin(5x) -\frac{\sqrt{ 3 }}{2}  \implies x = -\frac{\pi}{3} + 2\pi  \\
  =  \frac{5\pi}{3} \text{ reflection over x axis}  \\
-
+5x  =  5 \cdot  \frac{5\pi}{3}   = \frac{25\pi}{3}
   \end{array}
 $$
 
