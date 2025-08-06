@@ -273,7 +273,7 @@ $$
 $$
 \begin{array}{l}  \\
 \tan \left(  \frac{15\pi}{4} \right) \\
-\tan \left(  \frac{15\pi}{4} \right) = \tan \left(  \frac{7}{4}\pi  +  2\pi \right)   =  \tan \left( 2\pi -   \right)  \text{ the angle will spin  around one time because of the coterminal angle   }  \\
+\tan \left(  \frac{15\pi}{4} \right) = \tan \left(  \frac{7}{4}\pi  +  2\pi \right)   =  \tan \left( 2\pi -  \frac{\pi}{4} \right)    = \text{ the angle will spin  around one time because of the coterminal angle   }  \\
  \tan \left(  \frac{7}{4}\pi  \right)   =  \\
  \\ 
 \end{array}
