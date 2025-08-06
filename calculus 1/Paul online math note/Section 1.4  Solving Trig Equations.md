@@ -18,8 +18,9 @@ learning score: https://tutorial.math.lamar.edu/Classes/CalcI/TrigEquations.aspx
 $$
 \begin{array}{l} 
 2\sin (5x) =-\sqrt{ 3 }\text{ on } [-\pi,2\pi] \\
-\sin(5x)  =  -\frac{\sqrt{ 3 }}{2} [-\pi,2\pi] \\
-\implies \sin(5x)  =  \frac{\pi}{} 
+\sin(5x)  =  -\frac{\sqrt{ 3 }}{2} [-\pi,2\pi]  \\
+\frac{\pi}{3}\left( \frac{1}{2} , \frac{\sqrt{ 3 }}{2} \right)   \\
+\implies \sin(5x)  =  \frac{\pi}{3} 
 \end{array}
 $$
 
