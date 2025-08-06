@@ -8,3 +8,4 @@ Current date: 2025-08-05
 amount of time: 
 learning score: https://tutorial.math.lamar.edu/Classes/CalcI/TrigEquations.aspx
 ---
+In this section we will see a look at sol
