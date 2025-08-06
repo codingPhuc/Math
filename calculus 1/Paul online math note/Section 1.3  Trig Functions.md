@@ -273,14 +273,14 @@ $$
 $$
 \begin{array}{l}  \\
 \tan \left(  \frac{15\pi}{4} \right) \\
-\tan \left(  \frac{15\pi}{4} \right) = \tan \left(  \frac{7}{4}\pi  +  2\pi \right)      \text{ the angle will spin  around one time because of the coterminal angle   }   \\
+\tan \left(  \frac{15\pi}{4} \right) = \left(  4\pi - \frac{\pi}{4}     \right)    \text{ the angle will spin  around 2 time because of the coterminal angle   }   \\
  =  \tan \left(  2\pi - \frac{\pi}{4}     \right) \in \text{ quadrant IV,reflect over of x axis of} \frac{\pi}{4}   \\
  \text{ remember that 2 pi is positive x axis so a sub will result in going down instead of up } \\
  \sin \left(   - \frac{\pi}{4}   \right)  = - \frac{\sqrt{ 2 }}{2} \\
 \cos  \left( - \frac{\pi}{4} \right)   = \frac{\sqrt{ 2 }}{2} 
   \\
-\tan \frac{\sqrt{ 2 }}{2}  =  \frac{\frac{\sqrt{ 2 }}{2}}{/}
-\end{array}
+\tan \frac{\sqrt{ 2 }}{2}  =  \frac{-\frac{\sqrt{ 2 }}{2}}{\frac{\sqrt{ 2 }}{2} }  =  -1
+ \end{array}
 $$
 
 
