@@ -236,10 +236,6 @@ $$
 \end{array}
 $$
 
-
-
-
-
 $$
 \begin{array}{l}  \\
 \cos \left(    -\frac{2\pi}{3} \right) \\
@@ -251,11 +247,6 @@ $$
 \end{array}
 $$
 
-
-
-
-
-
 $$
 \begin{array}{l}  \\
 \cos \left(    -\frac{2\pi}{3} \right) \\
@@ -266,21 +257,15 @@ $$
 
 \end{array}
 $$
-
-
-
-
-
-
-
 
 $$
 \begin{array}{l}  \\
 \sec \left( -\frac{11\pi}{6} \right) \\
 \sec \left( -\frac{11\pi}{6} \right) = \sec \left( \frac{\pi}{6}    \right) \text{because we want to convert negative to positive rebesentation }   \\
-\cos  (\frac{\pi}{6}  )  =     \\
-\sec  = -\frac{1}{2}   \\ 
-
+\cos  \left( \frac{\pi}{6}   \right)  =  \frac{\sqrt{ 3 }}{2}   \\
+\sec  = \frac{2}{\sqrt{ 3 }}   \\ 
 \end{array}
 $$
+
+
 
