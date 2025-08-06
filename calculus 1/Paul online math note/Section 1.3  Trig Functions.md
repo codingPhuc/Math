@@ -245,8 +245,8 @@ $$
 \cos \left(    -\frac{2\pi}{3} \right) \\
 \cos \left(   -\frac{2\pi}{3}\right)  = \cos \left( \frac{4}{3} \pi  \right) \text{because we want to convert negative to positive rebesentation }   \\
  \frac{4}{3} \pi   = \pi +  \frac{\pi}{3}  \text{ so this mean that the circle will move down  } \frac{\pi}{3}     \\
-\implies \cos \left(   -\frac{2\pi}{3}\right)    \in \text{quadrant III,reflect by  orign of } \frac{\pi}{6}     \\
-\cos  = - \frac{\sqrt{ 3 }}{ 2  }   \\ 
+\implies \cos \left(   -\frac{2\pi}{3}\right)    \in \text{quadrant III,reflect by  orign of }\frac{\pi}{3}     \\
+\cos  = \frac{1}{2}   \\ 
 
 \end{array}
 $$
