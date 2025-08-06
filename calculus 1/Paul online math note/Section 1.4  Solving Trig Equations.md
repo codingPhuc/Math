@@ -12,3 +12,4 @@ learning score: https://tutorial.math.lamar.edu/Classes/CalcI/TrigEquations.aspx
 
 
 ##  Trig Equations  exercise
+$2\sin (5x) =-\sqrt{ 3 }\text{ on } [-\pi,2\pi]$
