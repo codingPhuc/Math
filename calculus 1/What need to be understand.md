@@ -43,4 +43,4 @@ so what i don't get about this is when you have an angle of like $-\frac{\pi}{6}
 
 ![[Pasted image 20250805200501.png]] 
 
-like here the angle is 330 degree but still manage to
+like here the angle is 330 degree but still manage to create the same value of sin x and sin y like I thought that it should be bigger, like I know that sin is hyp div opp and cos opp div hyp b
