@@ -27,7 +27,9 @@ x  =    \frac{\pi}{3}
   \end{array}
 $$
 There are many way to write different angle on a unit. Sometime it will be $-\frac{\pi}{6}$ that we want for a solution sometime many more so we need  a formula for every possible solution : 
-
+$$
+5x =   \pi + \frac{\pi}{3} + 2\pi n  \left\{ \text{ n } 1\xrightarrow{\text{}} \infty \right\} 
+$$
 
 given  n  = 0   : 
 $$\begin{array}{l}
