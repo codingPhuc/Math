@@ -30,7 +30,9 @@ $$
 given  n  = 0   : 
 $$\begin{array}{l}
 \frac{4\pi}{15} + 2\pi  \cdot 0   = \frac{4\pi}{15}  < 2\pi\\
-\frac{5\pi}{15}    + 2\pi  \cdot 0   = \frac{5\pi}{15}  < 2\pi  \\ 
+\frac{5\pi}{15}    + 2\pi  \cdot 0   = \frac{5\pi}{15}  < 2\pi  \\  \\
+\frac{4\pi}{15} + 2\pi  \cdot 0   = \frac{4\pi}{15}  < -\pi\\
+\frac{5\pi}{15}    + 2\pi  \cdot 0   = \frac{5\pi}{15}  < -\pi  \\   
 \end{array}
  
 $$
