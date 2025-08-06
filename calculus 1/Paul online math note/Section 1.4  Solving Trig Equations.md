@@ -27,6 +27,9 @@ x  =    \frac{5\pi}{15}
   \end{array}
 $$
 
-given  n  = 1   : 
-
-
+given  n  = 0   : 
+$$\begin{array}{l}
+\frac{4\pi}{15} + 2\pi  \cdot 0   = \frac{4\pi}{15}  < \\
+\end{array}
+ 
+$$
