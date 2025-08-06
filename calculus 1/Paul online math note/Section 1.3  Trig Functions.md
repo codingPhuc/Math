@@ -236,3 +236,18 @@ $$
 \end{array}
 $$
 
+
+
+
+
+$$
+\begin{array}{l}  \\
+\cos \left(    -\frac{2\pi}{3} \right) \\
+\cos \left(   \frac{5\pi}{6}\right)  = \cos \left(  \frac{\pi}{6} + \pi \right)   \\
+ -\frac{2\pi}{3}  = \pi +  \frac{\pi}{6}  \text{ so this mean that the circle will move down  } \frac{\pi}{6}     \\
+\implies \cos \left(   \frac{5\pi}{6}\right)    \in \text{quadrant III,reflect by  orign of } \frac{\pi}{6}     \\
+\cos  = - \frac{\sqrt{ 3 }}{ 2  }   \\ 
+
+\end{array}
+$$
+
