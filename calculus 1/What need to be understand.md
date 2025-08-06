@@ -37,5 +37,5 @@ From this unit circle we can see that cos(7π6)=−√32and cos(−7π6)=−�
 
 
 To find this angle for this problem all we need to do is use a little geometry. The angle in the first quadrant makes an angle of π6 with the positive x-axis, then so must the angle in the fourth quadrant. So, we have two options. We could use −π6, but again, it’s more common to use positive angles. To get a positive angle all we need to do is use the fact that the angle is π6 with the positive x-axis (as noted above) and a positive angle will be t=2π−π6=11π6.
-so what i don't get about this is when you have an angle of like $-\frac{\pi}{6}$ ,  you subtract it with $2\pi$ to make the angle positive $\frac{11\pi}{6}$ so what does this mean in the unit circle 
+so what i don't get about this is when you have an angle of like $-\frac{\pi}{6}$ ,  you subtract it with $2\pi$ to make the angle positive $\frac{11\pi}{6}$ so what does this mean in the unit circle radiant i mesu
 
