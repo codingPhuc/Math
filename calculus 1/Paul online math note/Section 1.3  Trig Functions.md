@@ -289,10 +289,10 @@ $$
 $$
 \begin{array}{l}  \\
 \sin \left(  -\frac{11\pi}{3} \right) \\
-\sin \left(    -\frac{11\pi}{3} \right) = \left(   -\frac{\pi}{3}  +  \frac{\pi}{4}    \right)    \text{ the angle will spin  around 2 time because of the coterminal angle   }   \\
- =  \sin \left( \frac{\pi}{4}    \right) \in \text{ quadrant IV,reflect over of x axis of} \frac{\pi}{4}   \\
+\sin \left(    -\frac{11\pi}{3} \right) = \left(   +\frac{\pi}{3}  -  4\pi   \right)    \text{ the angle will spin  around 2 time because of the coterminal angle   }   \\
+ =  \sin \left( \frac{\pi}{3}    \right) \in \text{ quadrant IV,reflect over of x axis of} \frac{\pi}{4}   \\
 
- \sin \left(  \frac{\pi}{4}  \right)  = \frac{\sqrt{ 2 }}{2}
+ \sin \left( \frac{\pi}{3}    \right)  = \frac{\sqrt{ 2 }}{2}
  \end{array}
 $$
 
