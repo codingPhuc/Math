@@ -269,3 +269,14 @@ $$
 
 
 
+
+$$
+\begin{array}{l}  \\
+\tan \left(  \frac{15\pi}{4} \right) \\
+\sec \left( -\frac{11\pi}{6} \right) = \sec \left( \frac{\pi}{6}    \right) \text{because we want to convert negative to positive rebesentation }   \\
+\cos  \left( \frac{\pi}{6}   \right)  =  \frac{\sqrt{ 3 }}{2}   \\
+\sec  = \frac{2}{\sqrt{ 3 }}   \\ 
+\end{array}
+$$
+
+
