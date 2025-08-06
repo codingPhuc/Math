@@ -227,8 +227,8 @@ so we note that tan  is an odd function
 
 $$
 \begin{array}{l}  \\
-\cos \left(  \frac{25\pi}{6} \right) \\
-\cos \left(  \frac{25\pi}{6} \right)  = \cos \left( 4\pi +  \frac{\pi}{6} \right)    \\
+\cos \left(   \frac{5\pi}{6}\right) \\
+\cos \left(   \frac{5\pi}{6}\right)  = \cos \left(   \frac{5\pi}{6}\right)   \\
 \frac{25\pi}{6}   = 4\pi +  \frac{\pi}{6}  \text{ the angle will spin  around two time because of the coterminal angle   }  \frac{\pi}{4}   \\
 \implies \cos \left(\frac{\pi}{6} \right)    \\
 \sin  =  \frac{1}{2}   \\
