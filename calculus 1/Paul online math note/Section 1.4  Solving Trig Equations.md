@@ -26,7 +26,8 @@ x  =   \frac{4\pi}{15}    \\
 x  =    \frac{\pi}{3}   
   \end{array}
 $$
-There are many way to write different angle on a uni 
+There are many way to write different angle on a unit. Sometime it will be $-\frac{\pi}{6}$ that we want for a solution sometime many more so we need  a formula for every possible solution : 
+
 
 given  n  = 0   : 
 $$\begin{array}{l}
