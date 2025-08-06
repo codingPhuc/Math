@@ -22,9 +22,8 @@ $$
 \frac{\pi}{3}\left( \frac{1}{2} , \frac{\sqrt{ 3 }}{2} \right)  \implies \text{ reflection over x axis and origin} \\
 \sin(5x)= -\frac{\sqrt{ 3 }}{2} \implies    5x =   \pi + \frac{\pi}{3}  = \frac{4\pi}{3} \text{  over origin}   \\
 x  =   \frac{4\pi}{15}    \\
- \sin(5x) -\frac{\sqrt{ 3 }}{2}  \implies x = -\frac{\pi}{3} + 2\pi  \\
- =  \frac{5\pi}{3} \text{ reflection over x axis}  \\
-5x  =  5 \cdot  \frac{5\pi}{3}   = \frac{25\pi}{3}
+ \sin(5x) -\frac{\sqrt{ 3 }}{2}  \implies 5x = -\frac{\pi}{3} + 2\pi =  \frac{5\pi}{3} \text{ reflection over x axis}  \\
+x  =    \frac{5\pi}{3}   = \frac{25\pi}{3}
   \end{array}
 $$
 
