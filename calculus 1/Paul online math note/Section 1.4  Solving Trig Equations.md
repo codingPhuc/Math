@@ -26,10 +26,7 @@ x  =   \frac{4\pi}{15}    \\
 x  =    \frac{\pi}{3}   
   \end{array}
 $$
-
-Now we di
-
-
+There are many way to write different angle on a uni 
 
 given  n  = 0   : 
 $$\begin{array}{l}
