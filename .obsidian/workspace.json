@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
+                "file": "calculus 1/What need to be understand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 1.4  Solving Trig Equations"
+              "title": "What need to be understand"
             }
           },
           {
@@ -307,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
+                "file": "calculus 1/What need to be understand.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 1.4  Solving Trig Equations"
+              "title": "Outline of What need to be understand"
             }
           }
         ],
@@ -341,8 +341,10 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
-    "calculus 1/Paul online math note/Section 1.3  Trig Functions.md",
+    "calculus 1/Module Relation.md",
     "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
+    "calculus 1/What need to be understand.md",
+    "calculus 1/Paul online math note/Section 1.3  Trig Functions.md",
     "calculus 1/12 hours calculus courses/Properties of Trig Function pf sin and cos.md",
     "book/Trig_Cheat_Sheet.pdf",
     "calculus 1/12 hours calculus courses/2.5 Continuity on interval and continuous function.md",
@@ -366,8 +368,6 @@
     "calculus 1/12 hours calculus courses/Calculus 12 hour course.md",
     "calculus 1/12 hours calculus courses/When the Limit of the Denominator is 0.md",
     "calculus 1/12 hours calculus courses/Graphs and Limits.md",
-    "calculus 1/12 hours calculus courses/When Limits Fail to Exist.md",
-    "calculus 1/12 hours calculus courses/Difference Quotient.md",
     "picture/Pasted image 20250805145159.png",
     "picture/Pasted image 20250805110720.png",
     "picture/Pasted image 20250804172241.png",

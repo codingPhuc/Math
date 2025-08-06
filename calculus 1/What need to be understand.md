@@ -34,3 +34,7 @@ how do you find the point of the vertex ?
 
 why is it call an event function  ? 
 From this unit circle we can see that cos(7π6)=−√32and cos(−7π6)=−√32. In this case the cosine function is called an **even** function and so for ANY angle we have 
+
+
+To find this angle for this problem all we need to do is use a little geometry. The angle in the first quadrant makes an angle of π6 with the positive x-axis, then so must the angle in the fourth quadrant. So, we have two options. We could use −π6, but again, it’s more common to use positive angles. To get a positive angle all we need to do is use the fact that the angle is π6 with the positive x-axis (as noted above) and a positive angle will be t=2π−π6=11π6.
+so what i don't
