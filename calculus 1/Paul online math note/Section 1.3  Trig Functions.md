@@ -229,8 +229,8 @@ $$
 \begin{array}{l}  \\
 \cos \left(   \frac{5\pi}{6}\right) \\
 \cos \left(   \frac{5\pi}{6}\right)  = \cos \left(  \frac{\pi}{6} + \pi \right)   \\
- \frac{5\pi}{6}  = \pi +  \frac{\pi}{6}  \text{ so this mean that the circle will move down  }  \frac{\pi}{4}   \\
-\implies \cos \left(\frac{\pi}{6} \right)    \\
+ \frac{5\pi}{6}  = \pi +  \frac{\pi}{6}  \text{ so this mean that the circle will move down  } \frac{\pi}{6}     \\
+\implies \cos \left(   \frac{5\pi}{6}\right)    \in \text{quadrant III,reflect by  orign of } \frac{\pi}{6}     \\
 \sin  =  \frac{1}{2}   \\
 \cos  = \frac{\sqrt{ 3 }}{ 2  }   \\ 
 \cos  =  \frac{1}{\cos}  =\frac{1}{ \frac{\sqrt{ 3 }}{ 2  }}   = \frac{2}{\sqrt{ 3 }}
