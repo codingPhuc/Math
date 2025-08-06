@@ -277,7 +277,7 @@ $$
 $$
 \begin{array}{l}  \\
 \sec \left( -\frac{11\pi}{6} \right) \\
-\sec \left( -\frac{11\pi}{6} \right) = \sec \left( \frac{\pi}{6} \pi  \right) \text{because we want to convert negative to positive rebesentation }   \\
+\sec \left( -\frac{11\pi}{6} \right) = \sec \left( \frac{\pi}{6}  +  2 \pi  \right) \text{because we want to convert negative to positive rebesentation }   \\
  \frac{4}{3} \pi   = \pi +  \frac{\pi}{3}  \text{ so this mean that the circle will move down  } \frac{\pi}{3}     \\
 \implies \sec \left(   -\frac{2\pi}{3}\right)    \in \text{quadrant III,reflect by  orign of }\frac{\pi}{3}     \\
 \sec  = -\frac{1}{2}   \\ 
