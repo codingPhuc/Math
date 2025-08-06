@@ -21,7 +21,8 @@ $$
 \sin(5x)  =  -\frac{\sqrt{ 3 }}{2} [-\pi,2\pi]  \\
 \frac{\pi}{3}\left( \frac{1}{2} , \frac{\sqrt{ 3 }}{2} \right)  \implies \text{ reflection over x axis and origin} \\
 \implies \sin(5x)  =   \pi + \frac{\pi}{3}  = \frac{4\pi}{3} \text{  over origin}  \\
-\implies \sin(5x)  = -\frac{\pi}{3} + 2\pi  = 
+\implies \sin(5x)  = -\frac{\pi}{3} + 2\pi  =  \frac{5\pi}{3} \text{ reflection over x axis}  \\
+
   \end{array}
 $$
 
