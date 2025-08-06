@@ -284,3 +284,19 @@ $$
 $$
 
 
+
+
+$$
+\begin{array}{l}  \\
+\sin \left(  -\frac{11\pi}{3} \right) \\
+\sin \left(    -\frac{11\pi}{3} \right) = \left(   -\frac{11\pi}{3}     \right)    \text{ the angle will spin  around 2 time because of the coterminal angle   }   \\
+ =  \sin \left(  - \frac{\pi}{4}     \right) \in \text{ quadrant IV,reflect over of x axis of} \frac{\pi}{4}   \\
+
+ \sin \left(   - \frac{\pi}{4}   \right)  = - \frac{\sqrt{ 2 }}{2} \\
+\cos  \left( - \frac{\pi}{4} \right)   = \frac{\sqrt{ 2 }}{2} 
+  \\
+\sin \frac{\sqrt{ 2 }}{2}  =  \frac{-\frac{\sqrt{ 2 }}{2}}{\frac{\sqrt{ 2 }}{2} }  =  -1
+ \end{array}
+$$
+
+
