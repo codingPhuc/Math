@@ -27,6 +27,10 @@ x  =    \frac{\pi}{3}
   \end{array}
 $$
 
+Now we di
+
+
+
 given  n  = 0   : 
 $$\begin{array}{l}
 \frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  < 2\pi\\
