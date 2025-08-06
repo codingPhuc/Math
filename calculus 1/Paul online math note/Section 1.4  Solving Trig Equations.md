@@ -23,7 +23,10 @@ $$
 \sin(5x)= -\frac{\sqrt{ 3 }}{2} \implies    5x =   \pi + \frac{\pi}{3}  = \frac{4\pi}{3} \text{  over origin}   \\
 x  =   \frac{4\pi}{15}    \\
  \sin(5x) -\frac{\sqrt{ 3 }}{2}  \implies 5x = -\frac{\pi}{3} + 2\pi =  \frac{5\pi}{3} \text{ reflection over x axis}  \\
-x  =    \frac{5\pi}{15}  
+x  =    \frac{5\pi}{15}   
   \end{array}
 $$
+
+given  n  = 1   : 
+
 
