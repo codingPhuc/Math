@@ -28,7 +28,11 @@ x  =    \frac{\pi}{3}
 $$
 There are many way to write different angle on a unit. Sometime it will be $-\frac{\pi}{6}$ that we want for a solution sometime many more so we need  a formula for every possible solution : 
 $$
-5x =   \pi + \frac{\pi}{3} + 2\pi n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+x =  \frac{4\pi}{15} + \frac{2\pi n}{5}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+
+$$
+x =  \frac{4\pi}{15} + \frac{2\pi n}{5}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 
 given  n  = 0   : 
