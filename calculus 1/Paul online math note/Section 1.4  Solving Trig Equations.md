@@ -462,9 +462,10 @@ $$
 so there  is only one solution to this equation 
 
 
+$$
+\begin{array}{l}
+\sqrt{ 3 }   \csc (9z)  - 7 = -5 \in \left[ \frac{\pi}{3}, \frac{4\pi}{9} \right]  \\
+\\
+\end{array}
 
-
-
-
-
-
+$$
