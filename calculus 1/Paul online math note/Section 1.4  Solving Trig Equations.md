@@ -516,10 +516,10 @@ $$
 $$
 
 $$
- z =  \frac{\pi}{27}  + \frac{6\pi}{27} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+  \frac{28\pi}{3} +14\pi n    \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
- z =  \frac{2\pi}{27}  +  \frac{6\pi}{27} n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+ \frac{28\pi}{3} +14\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 
 given  n  =    0 : 
