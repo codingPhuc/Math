@@ -46,7 +46,8 @@ $$\begin{array}{l}
 $$
 in the above solution we are trying to find the interval of the sin(5x) it self not only the x, so here we will be 
 $$
-\begin{in}
+\begin{array}{l} \\
+\cos(3x) =  2  \\
 
-\end{in}
+\end{array}
 $$
