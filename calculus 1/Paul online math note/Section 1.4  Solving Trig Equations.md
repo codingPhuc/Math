@@ -104,10 +104,10 @@ $$
 
 given  n  = 0   : 
 $$\begin{array}{l}
- \frac{7\pi}{8}   +  \frac{\pi n}{2}   = \frac{4\pi}{15}  < 2\pi\\
- \frac{7\pi}{8}   -  \frac{\pi n}{2}   = \frac{5\pi}{15}  < 2\pi  \\  \\
- \frac{3\pi}{4} + \pi n   = \frac{4\pi}{15}  > -\pi\\
- \frac{3\pi}{4} - \pi n   = \frac{5\pi}{15}  > -\pi  \\   
+ \frac{7\pi}{8}   +  \frac{\pi 0}{2}   = \frac{4\pi}{15}  < 2\pi\\
+ \frac{7\pi}{8}   -  \frac{\pi 0}{2}   = \frac{5\pi}{15}  < 2\pi  \\  \\
+ \frac{3\pi}{4} + \pi 0   = \frac{4\pi}{15}  > -\pi\\
+ \frac{3\pi}{4} - \pi 0   = \frac{5\pi}{15}  > -\pi  \\   
 \end{array}
  
 $$
