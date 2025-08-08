@@ -448,10 +448,6 @@ $$
 $$
 
 $$
- z =  \frac{\pi}{}  + \frac{2\pi}{9} n 
-$$
-
-$$
  z =  \frac{\pi}{27}  + \frac{6\pi}{27} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
@@ -461,18 +457,34 @@ $$
 given  n  =    0 : 
 $$\begin{array}{l}
   \\ 
-  < \frac{4\pi}{9} \\
+ \frac{\pi}{27}   >  \frac{12\pi}{27}   \\
 \end{array}
 $$ 
 
 
 so there  is only one solution to this equation 
 
-
-$$
-\begin{array}{l}
-\sqrt{ 3 }   \csc (9z)  - 7 = -5 \in \left[ \frac{\pi}{3}, \frac{4\pi}{9} \right]  \\
-\\
+given  n  =    0 : 
+$$\begin{array}{l}
+\frac{\pi}{8} +  n\pi   =   \frac{\pi}{8}    < \frac{3\pi}{2}   \\ 
+  \frac{5\pi}{8}   +  n\pi    =     \frac{5\pi}{8}      <  \frac{3\pi}{2}   \\
 \end{array}
+$$ 
 
+given  n  =    1 : 
+
+$$\begin{array}{l}
+\frac{\pi}{8} +   n\pi    = \frac{9\pi}{8}   < \frac{3\pi}{2}  \\ 
+\end{array}
 $$
+
+
+given  n  =    -1 : 
+$$\begin{array}{l}
+
+  \frac{5\pi}{8}   - \pi  =   -\frac{3}{8\pi}  >  -\frac{\pi}{2}\pi \\
+\end{array}
+$$
+
+
+there are only 4 solution to this equation 
