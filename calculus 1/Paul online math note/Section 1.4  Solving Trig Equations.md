@@ -218,3 +218,50 @@ $$\begin{array}{l}
 $$
 
 
+so it look like there are four solution to the interval 
+
+
+
+
+
+![[Pasted image 20250808085447.png]]
+
+$$
+\begin{array}{l} 
+4\sin(3t) = 2  \left[ 0, \frac{4\pi}{3} \right] \\
+\sin 3t  = \frac{1}{2}  \left[ 0, \frac{4\pi}{3} \right]  \\
+ \implies \frac{\pi}{6} \text{ reflected  over y axis } \\
+   \text{  over y axis }   \\
+x  =   \frac{5\pi}{6}  \\
+  \end{array}
+$$
+
+
+There are many way to write different angle on a unit. Sometime it will be $\frac{5\pi}{6} \cap \frac{\pi}{6}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+$$
+3t =   \frac{5\pi}{6}  + 2\pi n  \implies t =   \frac{5\pi}{18}  + \frac{2\pi n}{3}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+$$
+3t =   \frac{\pi}{6}  + 2\pi n  \implies t =   \frac{\pi}{18}  + \frac{2\pi n}{3}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+
+given  n  =    0 : 
+$$\begin{array}{l}
+ \frac{5\pi}{18}  + \frac{2\pi 0}{3}    =  \frac{5\pi}{18} < \frac{4\pi}{3} \\
+ \\  
+  \frac{\pi}{18}  + \frac{2\pi 0}{3} =   \frac{\pi}{18}  < \frac{4\pi}{3}\\
+\end{array}
+$$
+
+
+
+
+given  n  =    1 : 
+$$\begin{array}{l}
+ \frac{5\pi}{18}  + \frac{2\pi 1}{3}    =  \frac{17\pi}{18} < \frac{4\pi}{3} \\ 
+  \frac{\pi}{18}  + \frac{2\pi 1}{3} =   \frac{13\pi}{18}   < \frac{4\pi}{3}\\
+\end{array}
+$$
+
+
+so it look like there are four solution to the interval 
