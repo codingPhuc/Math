@@ -229,7 +229,7 @@ so it look like there are four solution to the interval
 $$
 \begin{array}{l} 
 2\cos \left(  \frac{x}{3}  \right)  +  \sqrt{ 2  }  =  0   \\
- \cos \left(  \frac{x}{3}  \right)     = - \sqrt{ 2 } \\
+ \cos \left(  \frac{x}{3}  \right)     = - \frac{\sqrt{ 2 }}{2} \\
 \sin 3t  = \frac{1}{2}  \left[ 0, \frac{4\pi}{3} \right]  \\
  \implies \frac{\pi}{6} \text{ reflected  over y axis } \\
    \text{  over y axis }   \\
