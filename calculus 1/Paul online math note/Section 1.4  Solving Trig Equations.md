@@ -450,8 +450,12 @@ $$
 $$
  z =  \frac{\pi}{}  + \frac{2\pi}{9} n 
 $$
+
 $$
- t =   \frac{10\pi}{3} + \frac{24}{3}\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+ z =  \frac{\pi}{27}  + \frac{6\pi}{27} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+$$
+ z =  \frac{2\pi}{27}  +  \frac{6\pi}{27} n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 
 given  n  =    0 : 
