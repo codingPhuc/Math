@@ -349,15 +349,28 @@ so there are  multiple number of solution bases on the above equation
 
 given  n  =    0 : 
 $$\begin{array}{l}
- \frac{9\pi}{4}  + 6\pi  \cdot 0    =   \frac{9\pi}{4}     > 7\pi \\ 
- \frac{15\pi}{4}   + 6\pi 0  =   \frac{15\pi}{4}     <  7\pi \\
+\frac{\pi}{8} + \pi n  =   \frac{9\pi}{4}     > -\frac{\pi}{2}\pi \\ 
+  \frac{5\pi}{8}   + \pi n  =   \frac{15\pi}{4}     >  -\frac{\pi}{2}\pi \\
 \end{array}
 $$ 
 
 
 $$\begin{array}{l}
- \frac{9\pi}{4}  + 6\pi  \cdot -1    =  -\frac{15}{4}\pi  > -7\pi \\ 
- \frac{15\pi}{4}   + 6\pi -1  =  -\frac{9}{4} \pi   >  -7\pi \\
+\frac{\pi}{8} + \pi n  =   \frac{9\pi}{4}     > -\frac{\pi}{2}\pi \\ 
+  \frac{5\pi}{8}   + \pi n  =   \frac{15\pi}{4}     >  -\frac{\pi}{2}\pi \\
+\end{array}
+$$
+
+
+$$\begin{array}{l}
+\frac{\pi}{8} + \pi n  =   \frac{9\pi}{4}     > -\frac{\pi}{2}\pi \\ 
+  \frac{5\pi}{8}   + \pi n  =   \frac{15\pi}{4}     >  -\frac{\pi}{2}\pi \\
+\end{array}
+$$
+
+$$\begin{array}{l}
+\frac{\pi}{8} + \pi n  =   \frac{9\pi}{4}     > -\frac{\pi}{2}\pi \\ 
+  \frac{5\pi}{8}   + \pi n  =   \frac{15\pi}{4}     >  -\frac{\pi}{2}\pi \\
 \end{array}
 $$
 
