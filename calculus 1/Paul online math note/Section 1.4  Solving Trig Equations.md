@@ -48,14 +48,15 @@ $$\begin{array}{l}
 $$
 in the above solution we are trying to find the interval of the sin(5x) it self not only the x, so here we will be 
 
-
+![[Pasted image 20250808085447.png]]
 $$
 \begin{array}{l} \\
 \sin(2x)  = - \cos (2x )  on \left[ -\frac{3\pi}{2}, \frac{3\pi}{2}  \right]  \\ 
 \frac{\sin(2x  )}{\cos(2x)}  = -1   \\
 \tan(2x) =  -1   \\
-\implies \frac{\pi}{4} \text{ reflection over the x axis} \\
- \frac{7\pi}{4}  \text{ the reason why is } \frac{- \sin\left( \frac{\sqrt{ 2 }}{2} \right)}{   \left( \cos \left( \frac{\sqrt{ 2 }}{2}  \right) \right)}  =  -1 
+\implies \frac{\pi}{4} \text{ reflection over the x axis and  y axis} \\
+ \frac{7\pi}{4}  \text{ the reason why is } \frac{- \sin\left( \frac{\sqrt{ 2 }}{2} \right)}{   \left( \cos \left( \frac{\sqrt{ 2 }}{2}  \right) \right)}  =  -1 \\
+ 
 \end{array}
 $$
 
