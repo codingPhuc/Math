@@ -230,10 +230,8 @@ $$
 \begin{array}{l} 
 2\cos \left(  \frac{x}{3}  \right)  +  \sqrt{ 2  }  =  0   \\
  \cos \left(  \frac{x}{3}  \right)     = - \frac{\sqrt{ 2 }}{2} \\
- \implies \frac{\pi}{4} \text{ reflected  over x axis and origin } \frac{7\pi}{4}  \text{ reflected over the x axis }  \\
-\\
-   \text{  over y axis }   \\
-x  =   \frac{5\pi}{6}  \\
+\frac{\pi}{4} \text{ reflected  over x axis and origin } \frac{7\pi}{4}  \text{ reflected over the x axis }  \\
+\frac{5\pi}{4} \text{  reflected over the origin }   \\
   \end{array}
 $$
 
