@@ -172,37 +172,8 @@ $$
 $$
 3t =   \frac{\pi}{6}  + 2\pi n  \implies t =   \frac{\pi}{18}  + \frac{2\pi n}{3}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
-given  n  = 0   : 
-$$\begin{array}{l}
-\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  < 2\pi\\
-\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  < 2\pi  \\  \\
-\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  > -\pi\\
-\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  > -\pi  \\   
-\end{array}
- 
-$$
-
-given  n  = 1   : 
-$$\begin{array}{l}
-\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 1   = \frac{2\pi}{3} < 2\pi\\
-\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 1   = \frac{11\pi}{15}  < 2\pi  \\  \\
-\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 1   = -\frac{2\pi}{15}   > -\pi\\
-\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 1   = -\frac{1\pi}{15}  > -\pi  \\   
-\end{array}
- 
-$$
+There are a infinite amount of possible solution since there is no  fixed range the value fall in 
 
 
 
 
-given  n  = 2   : 
-$$\begin{array}{l}
-\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 2   = \frac{16\pi}{15}   < 2\pi\\
-\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 2   = \frac{17\pi}{15}< 2\pi  \\  \\
-\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 2   =\frac{-8\pi}{15}  > -\pi\\
-\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 2   = \frac{-7\pi}{15}> -\pi  \\   
-\end{array}
-$$
-
-
-the there are also additional solution from  $0 <n<5\cap-1<n<-4$ 
