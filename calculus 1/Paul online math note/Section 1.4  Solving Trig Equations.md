@@ -62,10 +62,10 @@ $$
 
 given  n  = 2   : 
 $$\begin{array}{l}
-\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 2   = \frac{4\pi}{15}  < 2\pi\\
-\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 2   = \frac{5\pi}{15}  < 2\pi  \\  \\
-\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 2   = \frac{4\pi}{15}  > -\pi\\
-\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 2   = \frac{5\pi}{15}  > -\pi  \\   
+\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 2   = \frac{16\pi}{15}   < 2\pi\\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 2   = < 2\pi  \\  \\
+\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 2   =\frac{-8\pi}{15}  > -\pi\\
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 2   =   > -\pi  \\   
 \end{array}
  
 $$
