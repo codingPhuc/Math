@@ -126,11 +126,11 @@ $$\begin{array}{l}
 \end{array}
 $$
 
-given  n  =    : 
+given  n  =    -2 : 
 $$\begin{array}{l}
- \frac{7\pi}{8}   +  \frac{\pi n}{2}   = \frac{4\pi}{15}  < \frac{3\pi}{2}\\
+ \frac{7\pi}{8}   +  \frac{\pi \cdot -2}{2}   = -\frac{1}{8}\pi>  -\frac{3\pi}{2}\\
  \\  
- \frac{3\pi}{8} + \frac{\pi n}{2} = \frac{4\pi}{15}  > -\frac{3\pi}{2}\\
+ \frac{3\pi}{8} + \frac{\pi  \cdot -2}{2} = \frac{4\pi}{15}  > -\frac{3\pi}{2}\\
 \end{array}
 $$
 
