@@ -199,6 +199,18 @@ $$
 3t =   \frac{\pi}{6}  + 2\pi n  \implies t =   \frac{\pi}{18}  + \frac{2\pi n}{3}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 
+given  n  =    0 : 
+$$\begin{array}{l}
+ \frac{5\pi}{18}  + \frac{2\pi n}{3}    = -\frac{1}{8}\pi >   -\frac{3\pi}{2}\\
+ \\  
+ \frac{3\pi}{8} + \frac{\pi  \cdot -2}{2} = \frac{4\pi}{15}  > -\frac{5\pi}{8}\\
+\end{array}
+$$
+
+
+
+
+
 given  n  =    -2 : 
 $$\begin{array}{l}
  \frac{7\pi}{8}   +  \frac{\pi \cdot -2}{2}   = -\frac{1}{8}\pi>  -\frac{3\pi}{2}\\
@@ -208,7 +220,13 @@ $$\begin{array}{l}
 $$
 
 
-
+given  n  =    -2 : 
+$$\begin{array}{l}
+ \frac{7\pi}{8}   +  \frac{\pi \cdot -2}{2}   = -\frac{1}{8}\pi>  -\frac{3\pi}{2}\\
+ \\  
+ \frac{3\pi}{8} + \frac{\pi  \cdot -2}{2} = \frac{4\pi}{15}  > -\frac{5\pi}{8}\\
+\end{array}
+$$
 
 
 
