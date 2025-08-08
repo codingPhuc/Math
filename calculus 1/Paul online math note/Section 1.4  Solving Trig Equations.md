@@ -63,12 +63,12 @@ $$
 given  n  = 2   : 
 $$\begin{array}{l}
 \frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 2   = \frac{16\pi}{15}   < 2\pi\\
-\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 2   = < 2\pi  \\  \\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 2   = \frac{17\pi}{15}< 2\pi  \\  \\
 \frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 2   =\frac{-8\pi}{15}  > -\pi\\
-\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 2   =   > -\pi  \\   
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 2   = \frac{-7\pi}{15}> -\pi  \\   
 \end{array}
- 
 $$
+
 
 the there are also additional solution from  $0 <n<5\cap-1<n<-4$ 
 
