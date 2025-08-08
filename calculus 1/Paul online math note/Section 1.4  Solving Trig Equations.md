@@ -524,6 +524,6 @@ $$
 
 given  n  =    0 : 
 
-there are no solution in the interval since plugging in 0 will resulting  in $\frac{28\pi}{3}\cap$ 
+there are no solution in the interval since plugging in 0 will resulting  in $\frac{28\pi}{3}\cap \frac{14\pi}{3}$ 
 
  
