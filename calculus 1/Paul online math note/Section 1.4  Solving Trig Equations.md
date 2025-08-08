@@ -370,9 +370,8 @@ $$
 \begin{array}{l} 
 \sqrt{ 3} \tan\left( \frac{t}{4}  \right)  +  5 =4   \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right]  \\
  \tan\left( \frac{t}{4}  \right)   =  -\frac{1}{\sqrt{ 3 }}  \\
-  \implies  \pi\\
-\implies \frac{\pi}{4} \text{ reflected  over the origin }  \\
-\frac{5\pi}{4}  \text{  reflected  over the origin }  \\
+\implies \frac{\pi}{6} \text{ reflected  over the origin }  \\
+\implies \frac{\pi}{6} \text{ reflected  over the x axis }
   \end{array}
 $$
 
