@@ -357,7 +357,7 @@ $$
 given  n  =    1 : 
 
 $$\begin{array}{l}
-\frac{\pi}{8} +  \frac{\pi }{2}   = \frac{5}{8}   < \frac{3\pi}{2}  \\ 
+\frac{\pi}{8} +  \frac{\pi }{2}   = \frac{5\pi}{8}   < \frac{3\pi}{2}  \\ 
 \end{array}
 $$
 
