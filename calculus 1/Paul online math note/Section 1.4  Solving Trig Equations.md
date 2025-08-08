@@ -389,7 +389,7 @@ so there are  multiple number of solution bases on the above equation
 
 given  n  =    0 : 
 $$\begin{array}{l}
-\frac{t}{4}=  \frac{11\pi}{6} + 2\pi n   =   \frac{14\pi}{3}    < 4\pi   \\ 
+ \frac{22\pi}{3}   + 8\pi n   =    \frac{22\pi}{3}    < 4\pi   \\ 
 3\pi + 8\pi n   =   3\pi    <  4\pi  \\
 \end{array}
 $$ 
