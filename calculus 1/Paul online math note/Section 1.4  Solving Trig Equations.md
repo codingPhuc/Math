@@ -427,8 +427,8 @@ $$
 \sqrt{  3  } \csc (9z)  -   7 =  -5   \in  \left[ -\frac{\pi}{3},   \frac{4\pi}{9} \right] \\
 \csc (9z)  =  \frac{2}{\sqrt{ 3 }}  \left[ -\frac{\pi}{3},   \frac{4\pi}{9} \right] \\
 \implies \frac{\pi}{3} \text{ reflected  over the origin and the x axis   }  \\
-\frac{11\pi}{6} \\
-\frac{5\pi}{6}
+\frac{\pi}{3} \\
+\frac{2\pi}{3}
   \end{array}
 $$
 
