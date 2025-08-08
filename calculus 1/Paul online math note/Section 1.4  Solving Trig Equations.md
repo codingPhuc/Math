@@ -349,15 +349,15 @@ so there are  multiple number of solution bases on the above equation
 
 given  n  =    0 : 
 $$\begin{array}{l}
-\frac{\pi}{8} + \pi 0  =   \frac{\pi}{8}    < \frac{3\pi}{2}   \\ 
-  \frac{5\pi}{8}   + \pi 0  =     \frac{5\pi}{8}      <  \frac{3\pi}{2}   \\
+\frac{\pi}{8} +  \frac{\pi 0}{2}   =   \frac{\pi}{8}    < \frac{3\pi}{2}   \\ 
+  \frac{5\pi}{8}   +  \frac{\pi 0}{2}   =     \frac{5\pi}{8}      <  \frac{3\pi}{2}   \\
 \end{array}
 $$ 
 
 given  n  =    1 : 
 
 $$\begin{array}{l}
-\frac{\pi}{8} + \pi   =  \frac{9}{8}\pi    < \frac{3\pi}{2}  \\ 
+\frac{\pi}{8} +  \frac{\pi }{2}   = \frac{5}{8}   < \frac{3\pi}{2}  \\ 
 \end{array}
 $$
 
