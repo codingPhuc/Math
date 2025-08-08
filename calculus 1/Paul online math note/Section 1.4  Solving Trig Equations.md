@@ -349,11 +349,12 @@ so there are  multiple number of solution bases on the above equation
 
 given  n  =    0 : 
 $$\begin{array}{l}
-\frac{\pi}{8} + \pi n  =   \frac{9\pi}{4}     > -\frac{\pi}{2}\pi \\ 
-  \frac{5\pi}{8}   + \pi n  =   \frac{15\pi}{4}     >  -\frac{\pi}{2}\pi \\
+\frac{\pi}{8} + \pi 0  =   \frac{9\pi}{4}     > -\frac{\pi}{2}\pi \\ 
+  \frac{5\pi}{8}   + \pi 0  =   \frac{15\pi}{4}     >  -\frac{\pi}{2}\pi \\
 \end{array}
 $$ 
 
+given  n  =    1 : 
 
 $$\begin{array}{l}
 \frac{\pi}{8} + \pi n  =   \frac{9\pi}{4}     > -\frac{\pi}{2}\pi \\ 
@@ -362,12 +363,14 @@ $$\begin{array}{l}
 $$
 
 
+given  n  =    -1 : 
 $$\begin{array}{l}
 \frac{\pi}{8} + \pi n  =   \frac{9\pi}{4}     > -\frac{\pi}{2}\pi \\ 
   \frac{5\pi}{8}   + \pi n  =   \frac{15\pi}{4}     >  -\frac{\pi}{2}\pi \\
 \end{array}
 $$
 
+given  n  =     : 
 $$\begin{array}{l}
 \frac{\pi}{8} + \pi n  =   \frac{9\pi}{4}     > -\frac{\pi}{2}\pi \\ 
   \frac{5\pi}{8}   + \pi n  =   \frac{15\pi}{4}     >  -\frac{\pi}{2}\pi \\
