@@ -368,7 +368,7 @@ there are no solution for this equation since the solution for sin and cos remai
 
 $$
 \begin{array}{l} 
-\sqrt{ 3} \tan\left( \frac{t}{4}  \right)  +  5    \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right]  \\
+\sqrt{ 3} \tan\left( \frac{t}{4}  \right)  +  5 =4   \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right]  \\
 \tan x = 1     \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right] \\
 \implies \frac{\pi}{4} \text{ reflected  over the origin }  \\
 \frac{5\pi}{4}  \text{  reflected  over the origin }  \\
