@@ -212,16 +212,14 @@ $$
 
 given  n  =    1 : 
 $$\begin{array}{l}
- \frac{5\pi}{18}  + \frac{2\pi 1}{3}    =  \frac{17\pi}{18} < \frac{4\pi}{3} \\
- \\  
-  \frac{\pi}{18}  + \frac{2\pi 1}{3} =   \frac{\pi}{18}   < \frac{4\pi}{3}\\
+ \frac{5\pi}{18}  + \frac{2\pi 1}{3}    =  \frac{17\pi}{18} < \frac{4\pi}{3} \\ 
+  \frac{\pi}{18}  + \frac{2\pi 1}{3} =   \frac{13\pi}{18}   < \frac{4\pi}{3}\\
 \end{array}
 $$
-given  n  =    -2 : 
+given  n  =    -1 : 
 $$\begin{array}{l}
- \frac{7\pi}{8}   +  \frac{\pi \cdot -2}{2}   = -\frac{1}{8}\pi>  -\frac{3\pi}{2}\\
- \\  
- \frac{3\pi}{8} + \frac{\pi  \cdot -2}{2} = \frac{4\pi}{15}  > -\frac{5\pi}{8}\\
+ \frac{5\pi}{18}  + \frac{2\pi 1}{3}    =  \frac{17\pi}{18} > 0 \\ 
+  \frac{\pi}{18}  + \frac{2\pi 1}{3} =   \frac{13\pi}{18}   >0\\
 \end{array}
 $$
 
