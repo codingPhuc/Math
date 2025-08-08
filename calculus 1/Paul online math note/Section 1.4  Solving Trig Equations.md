@@ -458,24 +458,19 @@ given  n  =    0 :
 $$\begin{array}{l}
   \\ 
  \frac{\pi}{27}   <  \frac{12\pi}{27}    \\
-\\
+\frac{6\pi}{27}   <   \frac{12\pi}{27}  \\
 \end{array}
 $$ 
 
 
 so there  is only one solution to this equation 
 
-given  n  =    0 : 
-$$\begin{array}{l}
-\frac{\pi}{8} +  n\pi   =   \frac{\pi}{8}    < \frac{3\pi}{2}   \\ 
-  \frac{5\pi}{8}   +  n\pi    =     \frac{5\pi}{8}      <  \frac{3\pi}{2}   \\
-\end{array}
-$$ 
 
 given  n  =    1 : 
 
 $$\begin{array}{l}
-\frac{\pi}{8} +   n\pi    = \frac{9\pi}{8}   < \frac{3\pi}{2}  \\ 
+ z =  \frac{2\pi}{27}  +  \frac{6\pi}{27} n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\}  \\
+ z =  \frac{2\pi}{27}  +  \frac{6\pi}{27} n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 \end{array}
 $$
 
