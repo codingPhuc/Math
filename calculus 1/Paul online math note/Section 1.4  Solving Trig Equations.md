@@ -389,8 +389,8 @@ so there are  multiple number of solution bases on the above equation
 
 given  n  =    0 : 
 $$\begin{array}{l}
- \frac{14\pi}{3}   + 8\pi n    =   \frac{14\pi}{3}    >  0    \\ 
-3\pi + 8\pi n   =   3\pi    <  \frac{3\pi}{2}   \\
+ \frac{14\pi}{3}   + 8\pi n    =   \frac{14\pi}{3}    < 4\pi   \\ 
+3\pi + 8\pi n   =   3\pi    <  4\pi  \\
 \end{array}
 $$ 
 
