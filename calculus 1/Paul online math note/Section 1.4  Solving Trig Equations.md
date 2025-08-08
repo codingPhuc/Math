@@ -398,13 +398,17 @@ $$
 
 given  n  =    0 : 
 $$\begin{array}{l}
- \frac{22\pi}{3}   + 8\pi n   =    \frac{22\pi}{3}    < 4\pi   \\ 
+  \\ 
  \frac{10\pi}{3}  + 8\pi n   =    \frac{10\pi}{3}     <  4\pi  \\
 \end{array}
 $$ 
 
 
-there are only 4 solution to this equation 
+so there  is only one solution to this equation 
+
+
+
+
 
 
 
