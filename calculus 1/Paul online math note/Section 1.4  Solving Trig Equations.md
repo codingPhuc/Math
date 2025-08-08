@@ -364,14 +364,50 @@ there are no solution for this equation since the solution for sin and cos remai
 
 
 
-
 ![[Pasted image 20250808085447.png]]
 
 $$
 \begin{array}{l} 
-\sqrt{ 3 } \tan\left( \frac{t}{4} \right) +    \in  \left[ -2\pi, \frac{9\pi}{4}  \right]  \\
-\sin(7x) = -\frac{20}{9}     \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right] \\ 
+\sqrt{ 3} \tan\left( \frac{t}{4}  \right)  +  5    \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right]  \\
+\tan x = 1     \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right] \\
+\implies \frac{\pi}{4} \text{ reflected  over the origin }  \\
+\frac{5\pi}{4}  \text{  reflected  over the origin }  \\
   \end{array}
 $$
 
-there are no solution for this equation since the solution for sin and cos remain in the range of $\cos \in (-1,1) \cap  \sin \in(-1,1)$ therefore it can never be greater than 1 and it definitely can't be 2, there are not solution for this equation 
+
+There are many way to write different angle on a unit. Sometime it will be $\frac{\pi}{4}  \cap \frac{5\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+$$
+2x=  \frac{\pi}{4}  + 2\pi n  \implies  x  =   \frac{\pi}{8} + n\pi \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+$$
+2x =   \frac{5\pi}{4}   + 2\pi n  \implies  x  =      \frac{5\pi}{8}+ n\pi  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+so there are  multiple number of solution bases on the above equation 
+
+given  n  =    0 : 
+$$\begin{array}{l}
+\frac{\pi}{8} +  n\pi   =   \frac{\pi}{8}    < \frac{3\pi}{2}   \\ 
+  \frac{5\pi}{8}   +  n\pi    =     \frac{5\pi}{8}      <  \frac{3\pi}{2}   \\
+\end{array}
+$$ 
+
+given  n  =    1 : 
+
+$$\begin{array}{l}
+\frac{\pi}{8} +   n\pi    = \frac{9\pi}{8}   < \frac{3\pi}{2}  \\ 
+\end{array}
+$$
+
+
+given  n  =    -1 : 
+$$\begin{array}{l}
+
+  \frac{5\pi}{8}   - \pi  =   -\frac{3}{8\pi}  >  -\frac{\pi}{2}\pi \\
+\end{array}
+$$
+
+
+there are only 4 solution to this equation 
+
+
