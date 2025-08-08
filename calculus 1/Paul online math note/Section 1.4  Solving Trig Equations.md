@@ -49,10 +49,10 @@ $$
 
 given  n  = 1   : 
 $$\begin{array}{l}
-\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  < 2\pi\\
-\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  < 2\pi  \\  \\
-\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  > -\pi\\
-\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  > -\pi  \\   
+\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 1   = \frac{4\pi}{15}  < 2\pi\\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 1   = \frac{5\pi}{15}  < 2\pi  \\  \\
+\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 1   = \frac{4\pi}{15}  > -\pi\\
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 1   = \frac{5\pi}{15}  > -\pi  \\   
 \end{array}
  
 $$
@@ -61,10 +61,10 @@ $$
 
 given  n  = -1  : 
 $$\begin{array}{l}
-\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  < 2\pi\\
-\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  < 2\pi  \\  \\
-\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  > -\pi\\
-\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  > -\pi  \\   
+\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot -1   = \frac{4\pi}{15}  < 2\pi\\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot -1   = \frac{5\pi}{15}  < 2\pi  \\  \\
+\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot -1   = \frac{4\pi}{15}  > -\pi\\
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot -1   = \frac{5\pi}{15}  > -\pi  \\   
 \end{array}
  
 $$
@@ -73,10 +73,10 @@ $$
 
 given  n  = 2   : 
 $$\begin{array}{l}
-\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  < 2\pi\\
-\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  < 2\pi  \\  \\
-\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  > -\pi\\
-\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  > -\pi  \\   
+\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 2   = \frac{4\pi}{15}  < 2\pi\\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 2   = \frac{5\pi}{15}  < 2\pi  \\  \\
+\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 2   = \frac{4\pi}{15}  > -\pi\\
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 2   = \frac{5\pi}{15}  > -\pi  \\   
 \end{array}
  
 $$
