@@ -462,15 +462,11 @@ $$\begin{array}{l}
 \end{array}
 $$ 
 
-
-so there  is only one solution to this equation 
-
-
 given  n  =    1 : 
 
 $$\begin{array}{l}
- z =  \frac{2\pi}{27}  +  \frac{6\pi}{27} n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\}  \\
- z =  \frac{2\pi}{27}  +  \frac{6\pi}{27} n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+ \frac{\pi}{27}  +  \frac{6\pi}{27}    = \frac{7\pi}{} <  \frac{12\pi}{27}  \\
+  \frac{2\pi}{27}  +  \frac{6\pi}{27}    =  <  \frac{12\pi}{27}
 \end{array}
 $$
 
