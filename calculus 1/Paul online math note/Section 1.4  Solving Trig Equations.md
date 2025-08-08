@@ -14,7 +14,7 @@ learning score: https://tutorial.math.lamar.edu/Classes/CalcI/TrigEquations.aspx
 ##  Trig Equations  exercise
 
 
-
+### practice 1 
 $$
 \begin{array}{l} 
 2\sin (5x) =-\sqrt{ 3 }\text{ on } [-\pi,2\pi] \\
@@ -74,7 +74,7 @@ the there are also additional solution from  $0 <n<5\cap-1<n<-4$
 
 
 
-
+### practice 
 
 in the above solution we are trying to find the interval of the sin(5x) it self not only the x, so here we will be 
 
@@ -133,4 +133,5 @@ $$\begin{array}{l}
  \frac{3\pi}{8} + \frac{\pi  \cdot -2}{2} = \frac{4\pi}{15}  > -\frac{5\pi}{8}\\
 \end{array}
 $$
+
 
