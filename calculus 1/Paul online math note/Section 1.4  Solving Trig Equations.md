@@ -244,24 +244,4 @@ $$
 $$
 \frac{x}{3} =   \frac{5\pi}{4}   + 2\pi n  \implies  x  =   \frac{15\pi}{4}   + 6\pi n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
-
-given  n  =    0 : 
-$$\begin{array}{l}
- \frac{5\pi}{18}  + \frac{2\pi 0}{3}    =  \frac{5\pi}{18} < \frac{4\pi}{3} \\
- \\  
-  \frac{\pi}{18}  + \frac{2\pi 0}{3} =   \frac{\pi}{18}  < \frac{4\pi}{3}\\
-\end{array}
-$$
-
-
-
-
-given  n  =    1 : 
-$$\begin{array}{l}
- \frac{5\pi}{18}  + \frac{2\pi 1}{3}    =  \frac{17\pi}{18} < \frac{4\pi}{3} \\ 
-  \frac{\pi}{18}  + \frac{2\pi 1}{3} =   \frac{13\pi}{18}   < \frac{4\pi}{3}\\
-\end{array}
-$$
-
-
-so it look like there are four solution to the interval 
+so there are no solution  b
