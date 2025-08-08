@@ -156,9 +156,9 @@ there are no solution for this equation since the solution for sin and cos remai
 
 $$
 \begin{array}{l} 
-4\sin(3t)  \\
-
-\frac{\pi}{3}\left( \frac{1}{2} , \frac{\sqrt{ 3 }}{2} \right)  \implies \text{ reflection over x axis and origin} \\
+4\sin(3t) = 2  \\
+\sin 3t  = \frac{1}{2}  \\
+ \implies \text{ reflection over x axis and origin} \\
   \pi + \frac{\pi}{3}  = \frac{4\pi}{3} \text{  over origin}   \\
 x  =   \frac{4\pi}{15}    \\
  -\frac{\pi}{3} + 2\pi =  \frac{5\pi}{3} \text{ reflection over x axis}  \\
