@@ -56,7 +56,8 @@ $$
 \tan(2x) =  -1   \\
 \implies \frac{\pi}{4} \text{ reflection over the x axis and  y axis} \\
  \frac{7\pi}{4}  \text{ the reason why is } \frac{- \sin\left( \frac{\sqrt{ 2 }}{2} \right)}{   \left( \cos \left( \frac{\sqrt{ 2 }}{2}  \right) \right)}  =  -1 \\
- 
+ \frac{7\pi}{4}  \text{ the reason why is } \frac{- \sin\left( \frac{\sqrt{ 2 }}{2} \right)}{   \left( \cos \left( \frac{\sqrt{ 2 }}{2}  \right) \right)}  =  -1 \\
+  
 \end{array}
 $$
 
