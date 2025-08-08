@@ -237,9 +237,9 @@ $$
 $$
 
 
-There are many way to write different angle on a unit. Sometime it will be $\frac{7\pi}{4} \cap \frac{\pi}{6}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+There are many way to write different angle on a unit. Sometime it will be $\frac{7\pi}{4} \cap \frac{5\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
 $$
-3t =   \frac{5\pi}{6}  + 2\pi n  \implies t =   \frac{5\pi}{18}  + \frac{2\pi n}{3}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+\frac{x}{3} =   \frac{7\pi}{4}  + 2\pi n  \implies t =   \frac{5\pi}{18}  + \frac{2\pi n}{3}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
 3t =   \frac{\pi}{6}  + 2\pi n  \implies t =   \frac{\pi}{18}  + \frac{2\pi n}{3}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
