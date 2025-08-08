@@ -333,12 +333,12 @@ $$
 8\tan x - 5   = 3   \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right]  \\
 \tan x = 1     \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right] \\
 \implies \frac{\pi}{4} \text{ reflected  over the origin }  \\
-\frac{5\pi}{4}  \text{ reflected over the y axis }  \\
+\frac{5\pi}{4}  \text{  reflected  over the origin }  \\
   \end{array}
 $$
 
 
-There are many way to write different angle on a unit. Sometime it will be $\frac{\pi}{6} \cap \frac{5\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+There are many way to write different angle on a unit. Sometime it will be $\frac{\pi}{4}  \cap \frac{5\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
 $$
 6x=  \frac{\pi}{6}  + 2\pi n  \implies  x  =    \frac{\pi}{36}  + \frac{\pi n}{3}    \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
