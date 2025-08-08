@@ -165,9 +165,9 @@ x  =   \frac{5\pi}{6}  \\
 $$
 
 
-There are many way to write different angle on a unit. Sometime it will be $\frac{\5\pi}{6} \cap \frac{{4}\pi}{3}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+There are many way to write different angle on a unit. Sometime it will be $\frac{5\pi}{6} \cap \frac{\pi}{6}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
 $$
-5x =  \frac{4\pi}{3} + 2\pi n  \implies  x =  \frac{4\pi}{15} + \frac{2\pi n}{5}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+3t =   \frac{5\pi}{6}  + 2\pi n  \implies  x =  \frac{4\pi}{15} + \frac{2\pi n}{5}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 
 $$
