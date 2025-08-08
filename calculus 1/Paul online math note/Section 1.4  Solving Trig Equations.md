@@ -355,7 +355,7 @@ there are only 4 solution to this equation
 $$
 \begin{array}{l} 
 16 =   -9\sin(7x)   - 4   \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right]  \\
-\sin(7x) =      \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right] \\
+\sin(7x) = -\frac{20}{9}     \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right] \\
 \implies \frac{\pi}{4} \text{ reflected  over the origin }  \\
 \frac{5\pi}{4}  \text{  reflected  over the origin }  \\
   \end{array}
