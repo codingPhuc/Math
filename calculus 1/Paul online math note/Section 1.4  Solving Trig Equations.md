@@ -371,7 +371,7 @@ $$
 \sqrt{ 3} \tan\left( \frac{t}{4}  \right)  +  5 =4   \in  \left[ 0,4\pi \right]  \\
  \tan\left( \frac{t}{4}  \right)   =  -\frac{1}{\sqrt{ 3 }}  \left[ 0,4\pi \right]  \\
 \implies \frac{\pi}{6} \text{ reflected  over the origin and the x axis   }  \\
-\frac{7\pi}{6} \\
+\frac{11\pi}{6} \\
 \frac{3\pi}{4}
   \end{array}
 $$
