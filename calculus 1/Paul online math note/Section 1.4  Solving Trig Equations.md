@@ -154,6 +154,8 @@ there are no solution for this equation since the solution for sin and cos remai
 
 $$
 \begin{array}{l}  \\
+4\sin 3t   = 2     \\
+\sin(3t)  = \frac{1}{2  }    \\
 
 \end{array}
 $$
