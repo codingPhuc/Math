@@ -448,7 +448,7 @@ $$
 $$
 
 $$
- t =   \frac{22\pi}{3}   + \frac{24}{3}\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+ z =  \frac{\pi}{}  + \frac{2\pi}{9} n 
 $$
 $$
  t =   \frac{10\pi}{3} + \frac{24}{3}\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
