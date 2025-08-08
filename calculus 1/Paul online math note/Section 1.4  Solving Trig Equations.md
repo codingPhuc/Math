@@ -20,9 +20,14 @@ $$
 2\sin (5x) =-\sqrt{ 3 }\text{ on } [-\pi,2\pi] \\
 \sin(5x)  =  -\frac{\sqrt{ 3 }}{2} [-\pi,2\pi]  \\
 \frac{\pi}{3}\left( \frac{1}{2} , \frac{\sqrt{ 3 }}{2} \right)  \implies \text{ reflection over x axis and origin} \\
-
+  \pi + \frac{\pi}{3}  = \frac{4\pi}{3} \text{  over origin}   \\
+x  =   \frac{4\pi}{15}    \\
+ -\frac{\pi}{3} + 2\pi =  \frac{5\pi}{3} \text{ reflection over x axis}  \\
+x  =    \frac{\pi}{3}   
   \end{array}
 $$
+
+
 There are many way to write different angle on a unit. Sometime it will be $\frac{5\pi}{3} \cap \frac{{4}\pi}{3}$ that we want for a solution sometime many more so we need  a formula for every possible solution : 
 $$
 5x =  \frac{4\pi}{3} + 2\pi n  \implies  x =  \frac{4\pi}{15} + \frac{2\pi n}{5}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
