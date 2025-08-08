@@ -383,14 +383,14 @@ $$
 \frac{t}{4}=  \frac{7\pi}{6}   + 2\pi n  \implies t =   \frac{14\pi}{3}   + 8\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
-\frac{t}{4}=  \frac{3\pi}{4}  + 2\pi n  \implies t =   \frac{3\pi}{4}  + 8\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+\frac{t}{4}=  \frac{3\pi}{4}  + 2\pi n  \implies t =   3\pi + 8\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 so there are  multiple number of solution bases on the above equation 
 
 given  n  =    0 : 
 $$\begin{array}{l}
-\frac{\pi}{8} +  n\pi   =   \frac{\pi}{8}    < \frac{3\pi}{2}   \\ 
-  \frac{5\pi}{8}   +  n\pi    =     \frac{5\pi}{8}      <  \frac{3\pi}{2}   \\
+ \frac{14\pi}{3}   + 8\pi n    =   \frac{\pi}{8}    < \frac{3\pi}{2}   \\ 
+3\pi + 8\pi n   =     \frac{5\pi}{8}      <  \frac{3\pi}{2}   \\
 \end{array}
 $$ 
 
