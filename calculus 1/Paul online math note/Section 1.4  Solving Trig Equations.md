@@ -48,6 +48,6 @@ in the above solution we are trying to find the interval of the sin(5x) it self 
 $$
 \begin{array}{l} \\
 \cos(3x) =  2  \\
-
+3x  = 
 \end{array}
 $$
