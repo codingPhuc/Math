@@ -512,7 +512,7 @@ so there are  multiple number of solution bases on the above equation
 
 convert it into a form  that is easier to compare 
 $$
-\left[ \frac{10}{3}\pi, \frac{15}{3}\pi \right]
+\left[ \frac{30}{3}\pi, \frac{45}{3}\pi \right]
 $$
 
 $$
@@ -524,8 +524,8 @@ $$
 
 given  n  =    0 : 
 $$\begin{array}{l}
-  \frac{28\pi}{3} +\frac{42\pi 0 }{3}   = \frac{7\pi}{27 } <  \frac{12\pi}{27}  \\
- \frac{14\pi}{3} +\frac{42\pi 0}{3}    = \frac{8\pi}{27}    <  \frac{12\pi}{27}
+
+ \frac{14\pi}{3} +\frac{42\pi 0}{3}    =  \frac{14\pi}{3}    <  \frac{15}{3}
 \end{array}
 $$
  
