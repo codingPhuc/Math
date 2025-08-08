@@ -380,10 +380,10 @@ $$
 
 There are many way to write different angle on a unit. Sometime it will be $\frac{7\pi}{6}  \cap \frac{3\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
 $$
-\frac{t}{4}=  \frac{7\pi}{6}   + 2\pi n  \implies t =   \frac{7\pi}{6}   + 2\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+\frac{t}{4}=  \frac{7\pi}{6}   + 2\pi n  \implies t =   \frac{14\pi}{3}   + 8\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
-2x =   \frac{5\pi}{4}   + 2\pi n  \implies  x  =      \frac{5\pi}{8}+ n\pi  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+\frac{t}{4}=  \frac{3\pi}{4}  + 2\pi n  \implies t =   \frac{3\pi}{4}  + 8\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 so there are  multiple number of solution bases on the above equation 
 
