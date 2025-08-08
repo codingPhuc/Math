@@ -46,6 +46,47 @@ $$\begin{array}{l}
 \end{array}
  
 $$
+
+given  n  = 1   : 
+$$\begin{array}{l}
+\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  < 2\pi\\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  < 2\pi  \\  \\
+\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  > -\pi\\
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  > -\pi  \\   
+\end{array}
+ 
+$$
+
+
+
+given  n  = -1  : 
+$$\begin{array}{l}
+\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  < 2\pi\\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  < 2\pi  \\  \\
+\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  > -\pi\\
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  > -\pi  \\   
+\end{array}
+ 
+$$
+
+
+
+given  n  = 2   : 
+$$\begin{array}{l}
+\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  < 2\pi\\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  < 2\pi  \\  \\
+\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  > -\pi\\
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  > -\pi  \\   
+\end{array}
+ 
+$$
+
+
+
+
+
+
+
 in the above solution we are trying to find the interval of the sin(5x) it self not only the x, so here we will be 
 
 ![[Pasted image 20250808085447.png]]
@@ -69,4 +110,15 @@ $$
 
 $$
 2x =  \frac{3\pi}{4} + \pi n  \implies  x =  \frac{3\pi}{8} + \frac{\pi n}{2}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+
+
+given  n  = 0   : 
+$$\begin{array}{l}
+\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  < 2\pi\\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  < 2\pi  \\  \\
+\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  > -\pi\\
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  > -\pi  \\   
+\end{array}
+ 
 $$
