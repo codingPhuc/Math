@@ -370,10 +370,11 @@ $$
 \begin{array}{l} 
 \sqrt{ 3} \tan\left( \frac{t}{4}  \right)  +  5 =4   \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right]  \\
  \tan\left( \frac{t}{4}  \right)   =  -\frac{1}{\sqrt{ 3 }}  \\
-\implies \frac{\pi}{6} \text{ reflected  over the origin }  \\
-\implies \frac{\pi}{6} \text{ reflected  over the x axis }
+\implies \frac{\pi}{6} \text{ reflected  over the origin and the x axis   }  \\
+\implies 
   \end{array}
 $$
+
 
 
 There are many way to write different angle on a unit. Sometime it will be $\frac{\pi}{4}  \cap \frac{5\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
