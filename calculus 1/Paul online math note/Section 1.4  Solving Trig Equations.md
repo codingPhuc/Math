@@ -283,4 +283,52 @@ $$\begin{array}{l}
  \frac{15\pi}{4}   + 6\pi 0  =   \frac{15\pi}{4}     <  7\pi \\
 \end{array}
 $$
+there are only 2 solution to this equation 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[Pasted image 20250808085447.png]]
+
+$$
+\begin{array}{l} 
+4   \\
+ \cos \left(  \frac{x}{3}  \right)     = - \frac{\sqrt{ 2 }}{2} [-7\pi,  7\pi ] \\
+\implies \frac{\pi}{4} \text{ reflected  over x axis and origin }  \\
+\frac{3\pi}{4}  \text{ reflected over the x axis }  \\
+\frac{5\pi}{4} \text{  reflected over the origin }   \\
+  \end{array}
+$$
+
+
+There are many way to write different angle on a unit. Sometime it will be $\frac{9\pi}{4} \cap \frac{5\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+$$
+\frac{x}{3} =   \frac{3\pi}{4}  + 2\pi n  \implies  x  =   \frac{9\pi}{4}  + 6\pi n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+$$
+\frac{x}{3} =   \frac{5\pi}{4}   + 2\pi n  \implies  x  =   \frac{15\pi}{4}   + 6\pi n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+so there are  multiple number of solution bases on the above equation 
+
+given  n  =    0 : 
+$$\begin{array}{l}
+ \frac{9\pi}{4}  + 6\pi  \cdot 0    =   \frac{9\pi}{4}     < 7\pi \\ 
+ \frac{15\pi}{4}   + 6\pi 0  =   \frac{15\pi}{4}     <  7\pi \\
+\end{array}
+$$
+there are only 2 solution to this equation 
+
+
+
+ 
