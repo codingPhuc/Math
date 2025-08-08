@@ -160,13 +160,12 @@ $$
 \sin 3t  = \frac{1}{2}  \\
  \implies \frac{\pi}{6} \text{ reflected  over y axis } \\
    \text{  over y axis }   \\
-x  =   \frac{4\pi}{15}    \\
-
+x  =   \frac{5\pi}{6}  \\
   \end{array}
 $$
 
 
-There are many way to write different angle on a unit. Sometime it will be $\frac{5\pi}{3} \cap \frac{{4}\pi}{3}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+There are many way to write different angle on a unit. Sometime it will be $\frac{\5\pi}{6} \cap \frac{{4}\pi}{3}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
 $$
 5x =  \frac{4\pi}{3} + 2\pi n  \implies  x =  \frac{4\pi}{15} + \frac{2\pi n}{5}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
