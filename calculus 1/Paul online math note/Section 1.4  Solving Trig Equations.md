@@ -332,7 +332,7 @@ $$
 \begin{array}{l} 
 8\tan x - 5   = 3   \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right]  \\
 \tan x = 1     \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right] \\
-\implies \frac{\pi}{4} \text{ reflected  over y axis }  \\
+\implies \frac{\pi}{4} \text{ reflected  over the origin }  \\
 \frac{5\pi}{4}  \text{ reflected over the y axis }  \\
   \end{array}
 $$
