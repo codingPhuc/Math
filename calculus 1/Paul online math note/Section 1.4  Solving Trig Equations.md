@@ -101,39 +101,7 @@ $$
 2x =  \frac{3\pi}{4} + \pi n  \implies  x =  \frac{3\pi}{8} + \pi n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 
-
-given  n  = 0   : 
-$$\begin{array}{l}
- \frac{7\pi}{8}   +  \frac{\pi 0}{2}   = \frac{7\pi}{8}   < \frac{3\pi}{2}\\
- \\  
- \frac{3\pi}{8} + \frac{\pi 0}{2} =  \frac{3\pi}{8}  < \frac{3\pi}{2}\\
-\end{array}
-$$
-
-given  n  = -1   : 
-$$\begin{array}{l}
- \frac{7\pi}{8}   +  \frac{\pi \cdot -1}{2}   = \frac{3\pi}{8} >  -\frac{3\pi}{2}\\
- \\  
- \frac{3\pi}{8} + \frac{\pi \cdot  -1 }{2} = -\frac{\pi}{8}   > -\frac{3\pi}{2}\\
-\end{array}
-$$
-
-given  n  = 1  : 
-$$\begin{array}{l}
- \frac{7\pi}{8}   +  \frac{\pi \cdot 1}{2}   = \frac{11\pi}{8}  < \frac{3\pi}{2}\\
- \\  
- \frac{3\pi}{8} + \frac{\pi \cdot 1 }{2} = \frac{7\pi}{8}    < \frac{3\pi}{2}\\
-\end{array}
-$$
-
-given  n  =    -2 : 
-$$\begin{array}{l}
- \frac{7\pi}{8}   +  \frac{\pi \cdot -2}{2}   = -\frac{1}{8}\pi>  -\frac{3\pi}{2}\\
- \\  
- \frac{3\pi}{8} + \frac{\pi  \cdot -2}{2} = \frac{4\pi}{15}  > -\frac{5\pi}{8}\\
-\end{array}
-$$
-
+I cannot waste time on doing the solution  so the solution are in the page source, sorry future me 
 
 ### practice 3 
 
