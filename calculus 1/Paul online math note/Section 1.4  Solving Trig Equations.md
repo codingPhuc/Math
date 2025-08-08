@@ -303,12 +303,10 @@ there are only 2 solution to this equation
 
 $$
 \begin{array}{l} 
-4 \cos(6x ) =  \sqrt{  12  }  \in  \left(  0, \frac{\pi}{2} \right)    \\
-\cos(6x) =  \frac{\sqrt{ 12 }}{4} = \frac{\sqrt{ 3 }}{2 }  \\
-
+4 \cos(6x ) =  \sqrt{  12  }  \in  \left[  0, \frac{\pi}{2} \right]   \\
+\cos(6x) =  \frac{\sqrt{ 12 }}{4} = \frac{\sqrt{ 3 }}{2 }  \left[  0, \frac{\pi}{2} \right]  \\
 \implies \frac{\pi}{6} \text{ reflected  over y axis }  \\
-\frac{11\pi}{4}  \text{ reflected over the x axis }  \\
-\frac{5\pi}{4} \text{  reflected over the origin }   \\
+\frac{11\pi}{4}  \text{ reflected over the y axis }  \\
   \end{array}
 $$
 
