@@ -340,16 +340,16 @@ $$
 
 There are many way to write different angle on a unit. Sometime it will be $\frac{\pi}{4}  \cap \frac{5\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
 $$
-2x=  \frac{\pi}{6}  + 2\pi n  \implies  x  =    \frac{\pi}{36}  + \frac{\pi n}{3}    \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+2x=  \frac{\pi}{4}  + 2\pi n  \implies  x  =   \frac{\pi}{8} + \pi n \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
-2x =   \frac{5\pi}{4}   + 2\pi n  \implies  x  =      \frac{5\pi}{24}   + \frac{\pi n}{3}    \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+2x =   \frac{5\pi}{4}   + 2\pi n  \implies  x  =      \frac{5\pi}{8}   + \pi n     \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 so there are  multiple number of solution bases on the above equation 
 
 given  n  =    0 : 
 $$\begin{array}{l}
- \frac{9\pi}{4}  + 6\pi  \cdot 0    =   \frac{9\pi}{4}     < 7\pi \\ 
+ \frac{9\pi}{4}  + 6\pi  \cdot 0    =   \frac{9\pi}{4}     > 7\pi \\ 
  \frac{15\pi}{4}   + 6\pi 0  =   \frac{15\pi}{4}     <  7\pi \\
 \end{array}
 $$ 
