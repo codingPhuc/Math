@@ -519,16 +519,16 @@ $$
   \frac{28\pi}{3} +\frac{42\pi n}{3}    \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
- \frac{14\pi}{3} +14\pi n     \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+ \frac{14\pi}{3} +\frac{42\pi n}{3}       \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 
 given  n  =    0 : 
 $$\begin{array}{l}
-  \\ 
- \frac{\pi}{27}   <  \frac{12\pi}{27}    \\
-\frac{6\pi}{27}   <   \frac{12\pi}{27}  \\
+  \frac{28\pi}{3} +\frac{42\pi n}{3}   = \frac{7\pi}{27 } <  \frac{12\pi}{27}  \\
+  \frac{2\pi}{27}  +  \frac{6\pi}{27}  = \frac{8\pi}{27}    <  \frac{12\pi}{27}
 \end{array}
-$$ 
+$$
+ 
 
 given  n  =    1 : 
 
