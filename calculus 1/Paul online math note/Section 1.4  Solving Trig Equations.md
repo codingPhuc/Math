@@ -106,7 +106,7 @@ given  n  = 0   :
 $$\begin{array}{l}
  \frac{7\pi}{8}   +  \frac{\pi 0}{2}   = \frac{7\pi}{8}   < \frac{3\pi}{2}\\
  \\  
- \frac{3\pi}{8} + \frac{\pi 0}{2} =  \frac{3\pi}{8}  > -\frac{3\pi}{2}\\
+ \frac{3\pi}{8} + \frac{\pi 0}{2} =  \frac{3\pi}{8}  < \frac{3\pi}{2}\\
 \end{array}
 $$
 
