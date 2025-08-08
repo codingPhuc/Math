@@ -357,16 +357,15 @@ $$
 given  n  =    1 : 
 
 $$\begin{array}{l}
-\frac{\pi}{8} + \pi   =  \frac{9}{8}p    < \frac{3\pi}{2}  \\ 
-  \frac{5\pi}{8}   + \pi   =   \frac{15\pi}{4}     <  \frac{3\pi}{2}   \\
+\frac{\pi}{8} + \pi   =  \frac{9}{8}\pi    < \frac{3\pi}{2}  \\ 
 \end{array}
 $$
 
 
 given  n  =    -1 : 
 $$\begin{array}{l}
-\frac{\pi}{8} + \pi n  =   \frac{9\pi}{4}     > -\frac{\pi}{2}\pi \\ 
-  \frac{5\pi}{8}   + \pi n  =   \frac{15\pi}{4}     >  -\frac{\pi}{2}\pi \\
+\frac{\pi}{8} - \pi  =   \frac{9\pi}{4}     > -\frac{\pi}{2}\pi \\ 
+  \frac{5\pi}{8}   - \pi  =   \frac{15\pi}{4}     >  -\frac{\pi}{2}\pi \\
 \end{array}
 $$
 
