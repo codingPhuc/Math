@@ -49,6 +49,6 @@ $$
 \begin{array}{l} \\
 \sin(2x)  = - \cos (2x )  on \left[ -\frac{3\pi}{2}, \frac{3\pi}{2}  \right]  \\ 
 \frac{\sin(2x  )}{\cos(2x)}  = -1   \\
-\tan(2x) =  -
+\tan(2x) =  -1 
 \end{array}
 $$
