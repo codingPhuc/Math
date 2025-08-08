@@ -411,3 +411,7 @@ $$
 there are only 4 solution to this equation 
 
 
+
+
+
+
