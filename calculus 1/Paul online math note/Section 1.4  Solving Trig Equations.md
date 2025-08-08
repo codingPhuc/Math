@@ -94,11 +94,11 @@ $$
 
 There are many way to write different angle on a unit. Sometime it will be $\frac{3\pi}{4}\cap  \frac{7\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
 $$
-2x =   \frac{7\pi}{4}  + \pi n  \implies  x = \frac{7\pi}{8}   +  \frac{\pi n}{2}   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+2x =   \frac{7\pi}{4}  + \pi n  \implies  x = \frac{7\pi}{8}   +  \pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 
 $$
-2x =  \frac{3\pi}{4} + \pi n  \implies  x =  \frac{3\pi}{8} + \frac{\pi n}{2}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+2x =  \frac{3\pi}{4} + \pi n  \implies  x =  \frac{3\pi}{8} + \pi n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 
 
