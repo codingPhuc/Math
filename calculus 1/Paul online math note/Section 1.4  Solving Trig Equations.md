@@ -435,10 +435,10 @@ $$
 
 There are many way to write different angle on a unit. Sometime it will be $\frac{7\pi}{6}  \cap \frac{3\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
 $$
-\frac{t}{4}=  \frac{11\pi}{6} + 2\pi n  \implies t =   \frac{22\pi}{3}   + 8\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+9z =  \frac{\pi}{3}  + 2\pi n  \implies z =  \frac{\pi}{27}  + \frac{2\pi}{9} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
-\frac{t}{4}= \frac{5\pi}{6}   + 2\pi n  \implies t =   \frac{10\pi}{3} + 8\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+9z =  \frac{\pi}{3}  + 2\pi n  \implies z =  \frac{\pi}{27}  + \frac{2\pi}{9} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 so there are  multiple number of solution bases on the above equation 
 
