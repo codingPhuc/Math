@@ -444,7 +444,7 @@ so there are  multiple number of solution bases on the above equation
 
 convert it into a form  that is easier to compare 
 $$
-\left[ -\frac{3\pi}{9},   \frac{4\pi}{9} \right]
+\left[ -\frac{9\pi}{27},   \frac{12\pi}{27} \right]
 $$
 
 $$
