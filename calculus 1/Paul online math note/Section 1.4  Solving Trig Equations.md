@@ -501,9 +501,9 @@ $$
 $$
 
 
-There are many way to write different angle on a unit. Sometime it will be $\frac{7\pi}{6}  \cap \frac{3\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+There are many way to write different angle on a unit. Sometime it will be $\frac{4\pi}{3} \cap \frac{2\pi}{3}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
 $$
-9z =  \frac{\pi}{3}  + 2\pi n  \implies z =  \frac{\pi}{27}  + \frac{2\pi}{9} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+\frac{y}{7}  = \frac{4\pi}{3}   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
 9z = \frac{2\pi}{3} + 2\pi n  \implies z =  \frac{2\pi}{27}  + \frac{2\pi}{9} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
