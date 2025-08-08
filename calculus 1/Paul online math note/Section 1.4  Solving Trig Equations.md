@@ -148,4 +148,4 @@ $$
 $$
 
 
-there are no solution for this equation since the solution for sin and cos remain in the range of $\cos \in (-1,1) \cap  \sin \in()$
+there are no solution for this equation since the solution for sin and cos remain in the range of $\cos \in (-1,1) \cap  \sin \in(-1,1)$ therefore it can never be greater than 1 and it definitely can't be 2, there are not solution for this equation 
