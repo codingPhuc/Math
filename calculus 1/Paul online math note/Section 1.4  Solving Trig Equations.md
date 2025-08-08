@@ -372,15 +372,15 @@ $$
  \tan\left( \frac{t}{4}  \right)   =  -\frac{1}{\sqrt{ 3 }}  \\
 \implies \frac{\pi}{6} \text{ reflected  over the origin and the x axis   }  \\
 \frac{7\pi}{6} \\
-\frac{3p}{4}
+\frac{3\pi}{4}
   \end{array}
 $$
 
 
 
-There are many way to write different angle on a unit. Sometime it will be $\frac{\pi}{4}  \cap \frac{5\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+There are many way to write different angle on a unit. Sometime it will be $\frac{7\pi}{6}  \cap \frac{3\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
 $$
-2x=  \frac{\pi}{4}  + 2\pi n  \implies  x  =   \frac{\pi}{8} + n\pi \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+\frac{t}{4}=  \frac{7\pi}{6}   + 2\pi n  \implies  \frac{t}{4}  =   \frac{\pi}{8} + n\pi \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
 2x =   \frac{5\pi}{4}   + 2\pi n  \implies  x  =      \frac{5\pi}{8}+ n\pi  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
