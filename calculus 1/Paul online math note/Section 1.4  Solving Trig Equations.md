@@ -438,7 +438,7 @@ $$
 9z =  \frac{\pi}{3}  + 2\pi n  \implies z =  \frac{\pi}{27}  + \frac{2\pi}{9} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
-9z =  \frac{\pi}{3}  + 2\pi n  \implies z =  \frac{\pi}{27}  + \frac{2\pi}{9} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+9z = \frac{2\pi}{3} + 2\pi n  \implies z =  \frac{2\pi}{27}  + \frac{2\pi}{9} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 so there are  multiple number of solution bases on the above equation 
 
@@ -454,7 +454,7 @@ $$
 given  n  =    0 : 
 $$\begin{array}{l}
   \\ 
- \frac{10\pi}{3}  + 8\pi n   =    \frac{10\pi}{3}     <  4\pi  \\
+  < \frac{4\pi}{9} \\
 \end{array}
 $$ 
 
