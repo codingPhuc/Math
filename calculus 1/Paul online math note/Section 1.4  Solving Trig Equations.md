@@ -55,6 +55,7 @@ $$
 \sin(2x)  = - \cos (2x )  on \left[ -\frac{3\pi}{2}, \frac{3\pi}{2}  \right]  \\ 
 \frac{\sin(2x  )}{\cos(2x)}  = -1   \\
 \tan(2x) =  -1   \\
-\implies  x  
+\implies \frac{\pi}{4} \text{ reflection over the x axis} \\
+\text{ the reason tan is } 
 \end{array}
 $$
