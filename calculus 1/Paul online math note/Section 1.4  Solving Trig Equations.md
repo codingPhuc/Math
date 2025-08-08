@@ -152,13 +152,13 @@ there are no solution for this equation since the solution for sin and cos remai
 
 # #Practice_Exercise 
 
-
+![[Pasted image 20250808085447.png]]
 
 $$
 \begin{array}{l} 
 4\sin(3t) = 2  \\
 \sin 3t  = \frac{1}{2}  \\
- \implies \text{ reflection over x axis and origin} \\
+ \implies \frac{\pi}{6} \text{ reflection over y axis and the current line} \\
   \pi + \frac{\pi}{3}  = \frac{4\pi}{3} \text{  over origin}   \\
 x  =   \frac{4\pi}{15}    \\
  -\frac{\pi}{3} + 2\pi =  \frac{5\pi}{3} \text{ reflection over x axis}  \\
