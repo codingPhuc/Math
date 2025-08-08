@@ -390,33 +390,18 @@ so there are  multiple number of solution bases on the above equation
 convert it into a form  that is easier to compare 
 
 $$
- t =   \frac{22\pi}{3}   + 8\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+ t =   \frac{22\pi}{3}   + \frac{24}{3}\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 $$
-\frac{t}{4}= \frac{5\pi}{6}   + 2\pi n  \implies t =   \frac{10\pi}{3} + 8\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+ t =   \frac{10\pi}{3} + \frac{24}{3}\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
 $$
 
 given  n  =    0 : 
 $$\begin{array}{l}
  \frac{22\pi}{3}   + 8\pi n   =    \frac{22\pi}{3}    < 4\pi   \\ 
-3\pi + 8\pi n   =   3\pi    <  4\pi  \\
+ \frac{10\pi}{3}  + 8\pi n   =    \frac{10\pi}{3}     <  4\pi  \\
 \end{array}
 $$ 
-
-given  n  =    1 : 
-
-$$\begin{array}{l}
-\frac{\pi}{8} +   n\pi    = \frac{9\pi}{8}   < \frac{3\pi}{2}  \\ 
-\end{array}
-$$
-
-
-given  n  =    -1 : 
-$$\begin{array}{l}
-
-  \frac{5\pi}{8}   - \pi  =   -\frac{3}{8\pi}  >  -\frac{\pi}{2}\pi \\
-\end{array}
-$$
 
 
 there are only 4 solution to this equation 
