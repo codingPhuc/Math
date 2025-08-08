@@ -465,18 +465,17 @@ $$
 given  n  =    1 : 
 
 $$\begin{array}{l}
- \frac{\pi}{27}  +  \frac{6\pi}{27}    = \frac{7\pi}{} <  \frac{12\pi}{27}  \\
-  \frac{2\pi}{27}  +  \frac{6\pi}{27}    =  <  \frac{12\pi}{27}
+ \frac{\pi}{27}  +  \frac{6\pi}{27}    = \frac{7\pi}{27 } <  \frac{12\pi}{27}  \\
+  \frac{2\pi}{27}  +  \frac{6\pi}{27}  = \frac{8\pi}{27}    <  \frac{12\pi}{27}
 \end{array}
 $$
 
 
 given  n  =    -1 : 
 $$\begin{array}{l}
-
-  \frac{5\pi}{8}   - \pi  =   -\frac{3}{8\pi}  >  -\frac{\pi}{2}\pi \\
+ \frac{\pi}{27}  -  \frac{6\pi}{27}    = \frac{7\pi}{27 } <  \frac{12\pi}{27}  \\
+  \frac{2\pi}{27}  -  \frac{6\pi}{27}  = \frac{8\pi}{27}    <  \frac{12\pi}{27}
 \end{array}
 $$
-
 
 there are only 4 solution to this equation 
