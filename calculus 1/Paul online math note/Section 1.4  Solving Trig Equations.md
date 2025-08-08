@@ -372,7 +372,7 @@ $$
  \tan\left( \frac{t}{4}  \right)   =  -\frac{1}{\sqrt{ 3 }}  \\
 \implies \frac{\pi}{6} \text{ reflected  over the origin and the x axis   }  \\
 \frac{7\pi}{6} \\
-
+\frac{3p}{4}
   \end{array}
 $$
 
