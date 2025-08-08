@@ -342,10 +342,6 @@ there are only 4 solution to this equation
 
 
 
- 
-
-
-
 
 
 
@@ -358,5 +354,24 @@ $$
 \sin(7x) = -\frac{20}{9}     \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right] \\ 
   \end{array}
 $$
-there  are no solution to the equai
 
+there are no solution for this equation since the solution for sin and cos remain in the range of $\cos \in (-1,1) \cap  \sin \in(-1,1)$ therefore it can never be greater than 1 and it definitely can't be 2, there are not solution for this equation 
+
+
+
+
+
+
+
+
+
+![[Pasted image 20250808085447.png]]
+
+$$
+\begin{array}{l} 
+\sqrt{ 3 } \tan\left( \frac{t}{4} \right) +    \in  \left[ -2\pi, \frac{9\pi}{4}  \right]  \\
+\sin(7x) = -\frac{20}{9}     \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right] \\ 
+  \end{array}
+$$
+
+there are no solution for this equation since the solution for sin and cos remain in the range of $\cos \in (-1,1) \cap  \sin \in(-1,1)$ therefore it can never be greater than 1 and it definitely can't be 2, there are not solution for this equation 
