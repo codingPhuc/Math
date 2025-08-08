@@ -81,7 +81,7 @@ $$\begin{array}{l}
  
 $$
 
-
+the there are also additional solution from  $0 <n<5\cap-1<n<-4$ 
 
 
 
