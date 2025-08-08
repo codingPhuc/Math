@@ -415,3 +415,57 @@ so there  is only one solution to this equation
 
 
 
+
+
+
+
+
+![[Pasted image 20250808085447.png]]
+
+$$
+\begin{array}{l} 
+\sqrt{  3  } \csc (9z)  -   7 =  -5   \in  \left[ 0,4\pi \right]  \\
+ \tan\left( \frac{t}{4}  \right)   =  -\frac{1}{\sqrt{ 3 }}  \left[ 0,4\pi \right]  \\
+\implies \frac{\pi}{6} \text{ reflected  over the origin and the x axis   }  \\
+\frac{11\pi}{6} \\
+\frac{5\pi}{6}
+  \end{array}
+$$
+
+
+
+There are many way to write different angle on a unit. Sometime it will be $\frac{7\pi}{6}  \cap \frac{3\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+$$
+\frac{t}{4}=  \frac{11\pi}{6} + 2\pi n  \implies t =   \frac{22\pi}{3}   + 8\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+$$
+\frac{t}{4}= \frac{5\pi}{6}   + 2\pi n  \implies t =   \frac{10\pi}{3} + 8\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+so there are  multiple number of solution bases on the above equation 
+
+convert it into a form  that is easier to compare 
+
+$$
+ t =   \frac{22\pi}{3}   + \frac{24}{3}\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+$$
+ t =   \frac{10\pi}{3} + \frac{24}{3}\pi n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+
+given  n  =    0 : 
+$$\begin{array}{l}
+  \\ 
+ \frac{10\pi}{3}  + 8\pi n   =    \frac{10\pi}{3}     <  4\pi  \\
+\end{array}
+$$ 
+
+
+so there  is only one solution to this equation 
+
+
+
+
+
+
+
+
