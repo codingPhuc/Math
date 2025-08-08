@@ -152,10 +152,61 @@ there are no solution for this equation since the solution for sin and cos remai
 
 # #Practice_Exercise 
 
-$$
-\begin{array}{l}  \\
-4\sin 3t   = 2     \\
-\sin(3t)  = \frac{1}{2  }    \\
 
+
+$$
+\begin{array}{l} 
+4\sin(3t)  \\
+
+\frac{\pi}{3}\left( \frac{1}{2} , \frac{\sqrt{ 3 }}{2} \right)  \implies \text{ reflection over x axis and origin} \\
+  \pi + \frac{\pi}{3}  = \frac{4\pi}{3} \text{  over origin}   \\
+x  =   \frac{4\pi}{15}    \\
+ -\frac{\pi}{3} + 2\pi =  \frac{5\pi}{3} \text{ reflection over x axis}  \\
+x  =    \frac{\pi}{3}   
+  \end{array}
+$$
+
+
+There are many way to write different angle on a unit. Sometime it will be $\frac{5\pi}{3} \cap \frac{{4}\pi}{3}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+$$
+5x =  \frac{4\pi}{3} + 2\pi n  \implies  x =  \frac{4\pi}{15} + \frac{2\pi n}{5}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+
+$$
+5x =  \frac{5\pi}{3} + 2\pi n  \implies  x =  \frac{\pi}{3}  + \frac{2\pi n}{5}  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+
+given  n  = 0   : 
+$$\begin{array}{l}
+\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  < 2\pi\\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  < 2\pi  \\  \\
+\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 0   = \frac{4\pi}{15}  > -\pi\\
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 0   = \frac{5\pi}{15}  > -\pi  \\   
+\end{array}
+ 
+$$
+
+given  n  = 1   : 
+$$\begin{array}{l}
+\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 1   = \frac{2\pi}{3} < 2\pi\\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 1   = \frac{11\pi}{15}  < 2\pi  \\  \\
+\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 1   = -\frac{2\pi}{15}   > -\pi\\
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 1   = -\frac{1\pi}{15}  > -\pi  \\   
+\end{array}
+ 
+$$
+
+
+
+
+given  n  = 2   : 
+$$\begin{array}{l}
+\frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 2   = \frac{16\pi}{15}   < 2\pi\\
+\frac{5\pi}{15}    + \frac{2\pi}{5}  \cdot 2   = \frac{17\pi}{15}< 2\pi  \\  \\
+\frac{4\pi}{15} - \frac{2\pi}{5}  \cdot 2   =\frac{-8\pi}{15}  > -\pi\\
+\frac{5\pi}{15}    - \frac{2\pi}{5}  \cdot 2   = \frac{-7\pi}{15}> -\pi  \\   
 \end{array}
 $$
+
+
+the there are also additional solution from  $0 <n<5\cap-1<n<-4$ 
