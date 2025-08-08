@@ -112,17 +112,17 @@ $$
 
 given  n  = -1   : 
 $$\begin{array}{l}
- \frac{7\pi}{8}   +  \frac{\pi \cdot -1}{2}   = \frac{4\pi}{15}  >  -\frac{3\pi}{2}\\
+ \frac{7\pi}{8}   +  \frac{\pi \cdot -1}{2}   = \frac{3\pi}{8} >  -\frac{3\pi}{2}\\
  \\  
- \frac{3\pi}{8} + \frac{\pi \cdot  -1 }{2} = \frac{4\pi}{15}  > -\frac{3\pi}{2}\\
+ \frac{3\pi}{8} + \frac{\pi \cdot  -1 }{2} = -\frac{\pi}{8}   > -\frac{3\pi}{2}\\
 \end{array}
 $$
 
 given  n  = 1  : 
 $$\begin{array}{l}
- \frac{7\pi}{8}   +  \frac{\pi n}{2}   = \frac{4\pi}{15}  < \frac{3\pi}{2}\\
+ \frac{7\pi}{8}   +  \frac{\pi \cdot 1}{2}   = \frac{4\pi}{15}  < \frac{3\pi}{2}\\
  \\  
- \frac{3\pi}{8} + \frac{\pi n}{2} = \frac{4\pi}{15}  > -\frac{3\pi}{2}\\
+ \frac{3\pi}{8} + \frac{\pi \cdot 1 }{2} = \frac{4\pi}{15}  > -\frac{3\pi}{2}\\
 \end{array}
 $$
 
