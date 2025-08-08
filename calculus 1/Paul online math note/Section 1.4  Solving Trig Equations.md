@@ -523,29 +523,7 @@ $$
 $$
 
 given  n  =    0 : 
-$$\begin{array}{l}
 
- \frac{14\pi}{3} +\frac{42\pi 0}{3}    =  \frac{14\pi}{3}    <  \frac{45}{3}  \\
-  \frac{28\pi}{3}  +\frac{42\pi 0}{3}    =    \frac{28\pi}{3}   <  \frac{45}{3}
-\end{array}
-$$
- 
+there are no solution in the interval since plugging in 0 will resulting  in $\frac{28\pi}{3}\cap$ 
 
-given  n  =    1 : 
-
-$$\begin{array}{l}
- \frac{\pi}{27}  +  \frac{6\pi}{27}    = \frac{7\pi}{27 } <  \frac{12\pi}{27}  \\
-  \frac{2\pi}{27}  +  \frac{6\pi}{27}  = \frac{8\pi}{27}    <  \frac{12\pi}{27}
-\end{array}
-$$
-
-
-given  n  =    -1 : 
-$$\begin{array}{l}
- \frac{\pi}{27}  -  \frac{6\pi}{27}    = -\frac{5\pi}{27 } >  -\frac{9\pi}{27}   \\
-  \frac{2\pi}{27}  -  \frac{6\pi}{27}  = -\frac{4\pi}{27}    > -\frac{9\pi}{27}
-\end{array}
-$$
-
-there are only 5 solution to this equation 
  
