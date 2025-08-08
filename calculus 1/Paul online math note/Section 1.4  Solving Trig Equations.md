@@ -525,7 +525,8 @@ $$
 given  n  =    0 : 
 $$\begin{array}{l}
 
- \frac{14\pi}{3} +\frac{42\pi 0}{3}    =  \frac{14\pi}{3}    <  \frac{15}{3}
+ \frac{14\pi}{3} +\frac{42\pi 0}{3}    =  \frac{14\pi}{3}    <  \frac{45}{3}  \\
+  \frac{28\pi}{3}  +\frac{42\pi 0}{3}    =    \frac{28\pi}{3}   <  \frac{45}{3}
 \end{array}
 $$
  
