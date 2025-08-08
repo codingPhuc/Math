@@ -56,6 +56,6 @@ $$
 \frac{\sin(2x  )}{\cos(2x)}  = -1   \\
 \tan(2x) =  -1   \\
 \implies \frac{\pi}{4} \text{ reflection over the x axis} \\
-\text{ the reason tan is } 
+\tan(2x) =  -1   \implies  \frac{7\pi}{3}
 \end{array}
 $$
