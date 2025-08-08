@@ -492,9 +492,9 @@ there are only 5 solution to this equation
 
 $$
 \begin{array}{l} 
-15 =  17 +  4 \cos\left( \frac{y}{7} \right)  \in  \\
-\csc (9z)  =  \frac{2}{\sqrt{ 3 }}  \left[ -\frac{\pi}{3},   \frac{4\pi}{9} \right] \\
-\implies \frac{\pi}{3} \text{ reflected  over the origin and the x axis   }  \\
+15 =  17 +  4 \cos\left( \frac{y}{7} \right)  \in [10\pi,15\pi] \\
+ \cos\left( \frac{y}{7} \right)   = -\frac{1}{2}  \\
+\implies \frac{\pi}{3} \text{ reflected  over the origin and the y axis   }  \\
 \frac{\pi}{3} \\
 \frac{2\pi}{3}
   \end{array}
@@ -546,4 +546,5 @@ $$\begin{array}{l}
 \end{array}
 $$
 
-there are only 5 solution to this equat
+there are only 5 solution to this equation 
+ 
