@@ -47,6 +47,7 @@ $$
 in the above solution we are trying to find the interval of the sin(5x) it self not only the x, so here we will be 
 $$
 \begin{array}{l} \\
-\sin(2x)  = - \cos (2x )  on \left[ -\frac{3\pi}{2},  \right]
+\sin(2x)  = - \cos (2x )  on \left[ -\frac{3\pi}{2}, \frac{3\pi}{2}  \right]  \\
+
 \end{array}
 $$
