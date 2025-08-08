@@ -457,7 +457,8 @@ $$
 given  n  =    0 : 
 $$\begin{array}{l}
   \\ 
- \frac{\pi}{27}   >  \frac{12\pi}{27}   \\
+ \frac{\pi}{27}   <  \frac{12\pi}{27}    \\
+\\
 \end{array}
 $$ 
 
