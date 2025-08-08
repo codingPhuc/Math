@@ -279,8 +279,8 @@ so there are  multiple number of solution bases on the above equation
 
 given  n  =    0 : 
 $$\begin{array}{l}
- \frac{9\pi}{4}  + 6\pi  \cdot    =   \frac{9\pi}{4}  + 6\pi n  < 7\pi \\ 
-  \frac{\pi}{18}  + \frac{2\pi 1}{3} =   \frac{13\pi}{18}   < \frac{4\pi}{3}\\
+ \frac{9\pi}{4}  + 6\pi  \cdot 0    =   \frac{9\pi}{4}     < 7\pi \\ 
+ \frac{15\pi}{4}   + 6\pi 0  =   \frac{15\pi}{4}     < \frac{4\pi}{3}\\
 \end{array}
 $$
 
