@@ -325,7 +325,15 @@ $$\begin{array}{l}
  \frac{9\pi}{4}  + 6\pi  \cdot 0    =   \frac{9\pi}{4}     < 7\pi \\ 
  \frac{15\pi}{4}   + 6\pi 0  =   \frac{15\pi}{4}     <  7\pi \\
 \end{array}
+$$ 
+
+
+$$\begin{array}{l}
+ \frac{9\pi}{4}  + 6\pi  \cdot -1    =  -\frac{16}{4}\pi  < 7\pi \\ 
+ \frac{15\pi}{4}   + 6\pi -1  =   \frac{15\pi}{4}     <  7\pi \\
+\end{array}
 $$
+
 there are only 2 solution to this equation 
 
 
