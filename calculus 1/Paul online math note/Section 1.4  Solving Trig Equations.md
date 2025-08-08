@@ -512,7 +512,7 @@ so there are  multiple number of solution bases on the above equation
 
 convert it into a form  that is easier to compare 
 $$
-\left[ -\frac{9\pi}{27},   \frac{12\pi}{27} \right]
+\left[ \frac{10}{3}\pi, \frac{15}{3}\pi \right]
 $$
 
 $$
