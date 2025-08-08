@@ -159,7 +159,7 @@ $$
 4\sin(3t) = 2  \\
 \sin 3t  = \frac{1}{2}  \\
  \implies \frac{\pi}{6} \text{ reflected  over y axis } \\
-  \pi + \frac{\pi}{3}  = \frac{4\pi}{3} \text{  over origin}   \\
+  \text{  over y axis }   \\
 x  =   \frac{4\pi}{15}    \\
  -\frac{\pi}{3} + 2\pi =  \frac{5\pi}{3} \text{ reflection over x axis}  \\
 x  =    \frac{\pi}{3}   
