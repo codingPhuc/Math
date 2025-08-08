@@ -287,15 +287,42 @@ there are only 2 solution to this equation
 
 
 
+![[Pasted image 20250808085447.png]]
+
+$$
+\begin{array}{l} 
+4 \cos(6x ) =  \sqrt{  12  }  \in  \left[  0, \frac{\pi}{2} \right]   \\
+\cos(6x) =  \frac{\sqrt{ 12 }}{4} = \frac{\sqrt{ 3 }}{2 }  \left[  0, \frac{\pi}{2} \right]  \\
+\implies \frac{\pi}{6} \text{ reflected  over y axis }  \\
+\frac{5\pi}{4}  \text{ reflected over the y axis }  \\
+  \end{array}
+$$
 
 
+There are many way to write different angle on a unit. Sometime it will be $\frac{\pi}{6} \cap \frac{5\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+$$
+6x=  \frac{\pi}{6}  + 2\pi n  \implies  x  =    \frac{\pi}{36}  + \frac{\pi n}{3}    \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+$$
+6x =   \frac{5\pi}{4}   + 2\pi n  \implies  x  =      \frac{5\pi}{24}   + \frac{\pi n}{3}    \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+so there are  multiple number of solution bases on the above equation 
+
+given  n  =    0 : 
+$$\begin{array}{l}
+ \frac{9\pi}{4}  + 6\pi  \cdot 0    =   \frac{9\pi}{4}     < 7\pi \\ 
+ \frac{15\pi}{4}   + 6\pi 0  =   \frac{15\pi}{4}     <  7\pi \\
+\end{array}
+$$ 
 
 
+$$\begin{array}{l}
+ \frac{9\pi}{4}  + 6\pi  \cdot -1    =  -\frac{15}{4}\pi  > -7\pi \\ 
+ \frac{15\pi}{4}   + 6\pi -1  =  -\frac{9}{4} \pi   >  -7\pi \\
+\end{array}
+$$
 
-
-
-
-
+there are only 4 solution to this equation 
 
 
 
@@ -339,3 +366,6 @@ there are only 4 solution to this equation
 
 
  
+
+
+
