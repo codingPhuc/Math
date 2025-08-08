@@ -495,7 +495,7 @@ $$
 15 =  17 +  4 \cos\left( \frac{y}{7} \right)  \in [10\pi,15\pi] \\
  \cos\left( \frac{y}{7} \right)   = -\frac{1}{2}  \\
 \implies \frac{\pi}{3} \text{ reflected  over the origin and the y axis   }  \\
-\frac{\pi}{3} \\
+\frac{4\pi}{3} \\
 \frac{2\pi}{3}
   \end{array}
 $$
