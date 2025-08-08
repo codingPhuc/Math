@@ -201,25 +201,22 @@ $$
 
 given  n  =    0 : 
 $$\begin{array}{l}
- \frac{5\pi}{18}  + \frac{2\pi n}{3}    = -\frac{1}{8}\pi < \frac{4\pi}{3} \\
+ \frac{5\pi}{18}  + \frac{2\pi 0}{3}    =  \frac{5\pi}{18} < \frac{4\pi}{3} \\
  \\  
-  \frac{\pi}{18}  + \frac{2\pi n}{3} = \frac{4\pi}{15}  < \frac{4\pi}{3}\\
+  \frac{\pi}{18}  + \frac{2\pi 0}{3} =   \frac{\pi}{18}  < \frac{4\pi}{3}\\
 \end{array}
 $$
 
 
 
 
-
-given  n  =    -2 : 
+given  n  =    1 : 
 $$\begin{array}{l}
- \frac{7\pi}{8}   +  \frac{\pi \cdot -2}{2}   = -\frac{1}{8}\pi>  -\frac{3\pi}{2}\\
+ \frac{5\pi}{18}  + \frac{2\pi 1}{3}    =  \frac{5\pi}{18} < \frac{4\pi}{3} \\
  \\  
- \frac{3\pi}{8} + \frac{\pi  \cdot -2}{2} = \frac{4\pi}{15}  > -\frac{5\pi}{8}\\
+  \frac{\pi}{18}  + \frac{2\pi 1}{3} =   \frac{\pi}{18}   >  \frac{4\pi}{3}\\
 \end{array}
 $$
-
-
 given  n  =    -2 : 
 $$\begin{array}{l}
  \frac{7\pi}{8}   +  \frac{\pi \cdot -2}{2}   = -\frac{1}{8}\pi>  -\frac{3\pi}{2}\\
