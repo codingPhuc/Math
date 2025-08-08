@@ -478,4 +478,72 @@ $$\begin{array}{l}
 \end{array}
 $$
 
-there are only 4 solution to this equation 
+there are only 5 solution to this equation 
+
+
+
+
+
+
+
+
+
+![[Pasted image 20250808085447.png]]
+
+$$
+\begin{array}{l} 
+15 =  17 +  4 \cos\left( \frac{y}{7} \right)  \in  \\
+\csc (9z)  =  \frac{2}{\sqrt{ 3 }}  \left[ -\frac{\pi}{3},   \frac{4\pi}{9} \right] \\
+\implies \frac{\pi}{3} \text{ reflected  over the origin and the x axis   }  \\
+\frac{\pi}{3} \\
+\frac{2\pi}{3}
+  \end{array}
+$$
+
+
+There are many way to write different angle on a unit. Sometime it will be $\frac{7\pi}{6}  \cap \frac{3\pi}{4}$ that we want for a solution, sometime many more so we need  a formula for every possible solution : 
+$$
+9z =  \frac{\pi}{3}  + 2\pi n  \implies z =  \frac{\pi}{27}  + \frac{2\pi}{9} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+$$
+9z = \frac{2\pi}{3} + 2\pi n  \implies z =  \frac{2\pi}{27}  + \frac{2\pi}{9} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+so there are  multiple number of solution bases on the above equation 
+
+convert it into a form  that is easier to compare 
+$$
+\left[ -\frac{9\pi}{27},   \frac{12\pi}{27} \right]
+$$
+
+$$
+ z =  \frac{\pi}{27}  + \frac{6\pi}{27} n   \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+$$
+ z =  \frac{2\pi}{27}  +  \frac{6\pi}{27} n  \left\{ \text{ n } \in Z |  (-\infty , \infty )\right\} 
+$$
+
+given  n  =    0 : 
+$$\begin{array}{l}
+  \\ 
+ \frac{\pi}{27}   <  \frac{12\pi}{27}    \\
+\frac{6\pi}{27}   <   \frac{12\pi}{27}  \\
+\end{array}
+$$ 
+
+given  n  =    1 : 
+
+$$\begin{array}{l}
+ \frac{\pi}{27}  +  \frac{6\pi}{27}    = \frac{7\pi}{27 } <  \frac{12\pi}{27}  \\
+  \frac{2\pi}{27}  +  \frac{6\pi}{27}  = \frac{8\pi}{27}    <  \frac{12\pi}{27}
+\end{array}
+$$
+
+
+given  n  =    -1 : 
+$$\begin{array}{l}
+ \frac{\pi}{27}  -  \frac{6\pi}{27}    = -\frac{5\pi}{27 } >  -\frac{9\pi}{27}   \\
+  \frac{2\pi}{27}  -  \frac{6\pi}{27}  = -\frac{4\pi}{27}    > -\frac{9\pi}{27}
+\end{array}
+$$
+
+there are only 5 solution to this equat
