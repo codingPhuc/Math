@@ -368,8 +368,8 @@ there are no solution for this equation since the solution for sin and cos remai
 
 $$
 \begin{array}{l} 
-\sqrt{ 3} \tan\left( \frac{t}{4}  \right)  +  5 =4   \in  \left[ -\frac{\pi}{2} , \frac{3\pi}{2}  \right]  \\
- \tan\left( \frac{t}{4}  \right)   =  -\frac{1}{\sqrt{ 3 }}  \\
+\sqrt{ 3} \tan\left( \frac{t}{4}  \right)  +  5 =4   \in  \left[ 0,4\pi \right]  \\
+ \tan\left( \frac{t}{4}  \right)   =  -\frac{1}{\sqrt{ 3 }}  \left[ 0,4\pi \right]  \\
 \implies \frac{\pi}{6} \text{ reflected  over the origin and the x axis   }  \\
 \frac{7\pi}{6} \\
 \frac{3\pi}{4}
@@ -389,8 +389,8 @@ so there are  multiple number of solution bases on the above equation
 
 given  n  =    0 : 
 $$\begin{array}{l}
- \frac{14\pi}{3}   + 8\pi n    =   \frac{\pi}{8}    < \frac{3\pi}{2}   \\ 
-3\pi + 8\pi n   =     \frac{5\pi}{8}      <  \frac{3\pi}{2}   \\
+ \frac{14\pi}{3}   + 8\pi n    =   \frac{14\pi}{3}    >  0    \\ 
+3\pi + 8\pi n   =   3\pi    <  \frac{3\pi}{2}   \\
 \end{array}
 $$ 
 
