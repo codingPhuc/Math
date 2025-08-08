@@ -425,7 +425,7 @@ so there  is only one solution to this equation
 $$
 \begin{array}{l} 
 \sqrt{  3  } \csc (9z)  -   7 =  -5   \in  \left[ -\frac{\pi}{3},   \frac{4\pi}{9} \right] \\
- \tan\left( \frac{t}{4}  \right)   =  -\frac{1}{\sqrt{ 3 }}  \left[ 0,4\pi \right]  \\
+\csc (9z)  =  \frac{2}{\sqrt{ 3 }}  \left[ -\frac{\pi}{3},   \frac{4\pi}{9} \right] \\
 \implies \frac{\pi}{6} \text{ reflected  over the origin and the x axis   }  \\
 \frac{11\pi}{6} \\
 \frac{5\pi}{6}
