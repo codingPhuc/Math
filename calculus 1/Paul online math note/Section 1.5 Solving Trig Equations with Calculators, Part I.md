@@ -103,8 +103,6 @@ $$\begin{array}{l}
 \end{array}
 $$
 
-given  t  =    0 : 
-$$\begin{array}{l}
- 0.7742 +   \frac{2\pi n}{5}  =  0.7742   + \frac{2\pi }{5}  < 1  \\
-\end{array}
-$$
+so there is only one solution that sati
+
+
