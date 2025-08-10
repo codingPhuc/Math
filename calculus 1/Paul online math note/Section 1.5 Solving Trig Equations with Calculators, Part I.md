@@ -8,5 +8,13 @@ Current date: "2025-08-09"
 amount of time: 
 learning score:
 ---
+# #
 
-E
+
+Example 2 solve  
+$$
+\begin{array}{l}  \\
+-10 \cos(3t) =  7  \in  [-2,5]  \\
+
+\end{array}
+$$

@@ -56,10 +56,6 @@ $$\begin{array}{l}
 \end{array}
  
 $$
-
-
-
-
 given  n  = 2   : 
 $$\begin{array}{l}
 \frac{4\pi}{15} + \frac{2\pi}{5}  \cdot 2   = \frac{16\pi}{15}   < 2\pi\\
