@@ -215,3 +215,21 @@ $$
 
 
 
+
+$$
+\begin{array}{l} 
+6 +  5x \cos  \left( \frac{x}{3} \right)   = 10   \in [0, 38]  \\
+\cos 4x  =   -\frac{1}{ 7}  \\
+4.569   \\
+1.7141  
+\end{array}
+$$
+$$
+\begin{array}{l} \\
+4x  = 4.569   +  2\pi n        \\
+4x      =   1.7141 +  2\pi n     \\
+t  = 1.1423   +  \frac{\pi n}{2}  \\
+t     =  1.3124 +  \frac{\pi n}{2}  
+\end{array}
+$$
+
