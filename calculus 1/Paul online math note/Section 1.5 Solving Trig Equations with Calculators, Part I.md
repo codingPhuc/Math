@@ -263,13 +263,17 @@ x = 0.9786 +  \frac{\pi n}{3}    \\
 x    =   0.5922 +  \frac{\pi n}{3} 
 \end{array}
 $$ 
+$$
+\begin{array}{ccccc}n=0:&z=0.5922&&\mathrm{OR}&&z=0.9786\\n=1:&z=1.6394&&\mathrm{OR}\end{array}
+$$
 
 
- 
+
+
 
 $$
 \begin{array}{l} 
-6 +  5 \cos  \left( \frac{x}{3} \right)   = 10   \in [0, 38]  \\
+3\tan\left( \frac{w}{4} \right)   - 1  = 10   \in [0, 38]  \\
  5 \cos  \left( \frac{x}{3} \right)  =   4 \\
 \cos  \left( \frac{x}{3} \right)  =   \frac{4}{5}   \\
 0.6435 \\
