@@ -123,18 +123,11 @@ $$
 \begin{array}{l} \\
 2x  = 2.6345   +  2\pi n        \\
 2x     =   5.7761  +  2\pi n     \\
-z  =    1.6345   +   \frac{2\pi n}{5}  \\
-z  = 5.7761  +  \frac{2\pi n}{5} 
+z  =    1.3173   +  \pi n  \\
+z  = 2.8881  + \pi n 
 \end{array}
 $$
 
-given  t  =    0 : 
-$$\begin{array}{l}
- 0.7742 +   \frac{2\pi n}{5}  =  0.7742    < 1  \\
-\end{array}
-$$
-
-so there is only one solution that satisfy the range  
 
 
 
