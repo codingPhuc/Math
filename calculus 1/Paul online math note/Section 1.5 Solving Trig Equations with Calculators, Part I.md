@@ -232,12 +232,60 @@ $$
 \begin{array}{l} \\
 \frac{x}{3} = 0.6435  +  2\pi n        \\
 \frac{x}{3}     =   5.6396  +  6\pi n     \\
-x = 1.9305  +  2\pi n        \\
+x = 1.9305 +  6\pi n    \\
 x    =   16.9188  +  6\pi n  
 \end{array}
 $$ 
 
 
 
+
+
+
+
+$$
+\begin{array}{l} 
+6 +  5 \cos  \left( \frac{x}{3} \right)   = 10   \in [0, 38]  \\
+ 5 \cos  \left( \frac{x}{3} \right)  =   4 \\
+\cos  \left( \frac{x}{3} \right)  =   \frac{4}{5}   \\
+0.6435 \\
+5.6396 
+\end{array}
+$$
+
+
+
+$$
+\begin{array}{l} \\
+\frac{x}{3} = 0.6435  +  2\pi n        \\
+\frac{x}{3}     =   5.6396  +  6\pi n     \\
+x = 1.9305 +  6\pi n    \\
+x    =   16.9188  +  6\pi n  
+\end{array}
+$$ 
+
+
+ 
+
+$$
+\begin{array}{l} 
+6 +  5 \cos  \left( \frac{x}{3} \right)   = 10   \in [0, 38]  \\
+ 5 \cos  \left( \frac{x}{3} \right)  =   4 \\
+\cos  \left( \frac{x}{3} \right)  =   \frac{4}{5}   \\
+0.6435 \\
+5.6396 
+\end{array}
+$$
+
+
+
+$$
+\begin{array}{l} \\
+\frac{x}{3} = 0.6435  +  2\pi n        \\
+\frac{x}{3}     =   5.6396  +  6\pi n     \\
+x = 1.9305 +  6\pi n    \\
+x    =   16.9188  +  6\pi n  
+\end{array}
+$$ 
 
 
