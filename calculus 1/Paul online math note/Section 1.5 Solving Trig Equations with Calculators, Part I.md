@@ -193,3 +193,6 @@ $$
 \end{array}
 $$
 the reason why  $\pi \cap 0$ is because when we look at the unit circle it have two value $\pi \cap 2\pi$ where  sin(x) =  0, since $2\pi$ is nothing more then $0+2\pi \cdot{1}$ we will take 0 and the reflection of $2\pi$ is  $\pi$ so we take $\pi$
+
+# #Practice_Exercise 
+
