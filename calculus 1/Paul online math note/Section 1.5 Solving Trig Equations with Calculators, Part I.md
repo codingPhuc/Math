@@ -211,7 +211,7 @@ $$
 \begin{array}{l} \\
 4x  = 4.569   +  2\pi n        \\
 4x      =   1.7141 +  2\pi n     \\
-t  = 0.782    +  \frac{2\pi n}{3}  \\
-t     =  1.3124 +  \frac{2\pi n}{3}
+t  = 1.1423   +  \frac{\pi n}{2}  \\
+t     =  1.3124 +  \frac{\pi n}{2}  
 \end{array}
 $$
