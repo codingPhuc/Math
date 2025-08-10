@@ -229,8 +229,9 @@ $$
 \begin{array}{l} \\
 \frac{x}{3} = 0.6435  +  2\pi n        \\
 \frac{x}{3}     =   5.6396  +  2\pi n     \\
-x = 1.9305   +  \frac{\pi n}{2}  \\
-x     =  1.9305  +  \frac{\pi n}{2}  
+x = 0.6435  +  2\pi n        \\
+x    =   5.6396  +  2\pi n  
 \end{array}
-$$
+$$ 
+
 
