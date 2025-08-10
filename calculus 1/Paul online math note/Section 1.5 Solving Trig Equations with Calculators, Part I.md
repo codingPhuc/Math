@@ -92,8 +92,14 @@ $$
 \begin{array}{l} \\
 5z   =    3.8713    +  2\pi n        \\
 5z     =  5.5534  +  2\pi n     \\
-z  =   0.77426  +   \frac{2\pi n}{5}  \\
-z  = 
+z  =   0.7742 +   \frac{2\pi n}{5}  \\
+z  = 1.1106 +  \frac{2\pi n}{5} 
 \end{array}
 $$
-![[Pasted image 20250810103318.png]]
+
+given  t  =    0 : 
+$$\begin{array}{l}
+ 0.7742 +   \frac{2\pi n}{5}  < 5  \\
+ 1.1106 +  \frac{2\pi n}{5} =  1.3123    < 5 
+\end{array}
+$$ 
