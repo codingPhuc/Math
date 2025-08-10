@@ -179,9 +179,10 @@ $$
 \begin{array}{l} 
 \sin\left(  \frac{\alpha}{  7}  \right)  =   0    \\
  0 \\
- 
-\end{array}
+\pi \end{array}
 $$
+
+
 the solution to the trig equation is : 
 $$
 \begin{array}{l} \\       \\

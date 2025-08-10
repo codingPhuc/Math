@@ -46,3 +46,4 @@ so what i don't get about this is when you have an angle of like $-\frac{\pi}{6}
 like here the angle is 330 degree but still manage to create the same value of sin x and sin y like I thought that it should be bigger, like I know that sin is hyp div opp and cos opp div hyp but in this cases should the angle not be 0-> 345 -> 330  instead of 0-> 180->330, since it would make more sense ? 
 
 
+why does the unit circle $\pi$ angle will result in sin being  0?
