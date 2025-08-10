@@ -178,15 +178,15 @@ $$
 $$
 \begin{array}{l} 
 \sin\left(  \frac{\alpha}{  7}  \right)  =   0    \\
- \\
+ 0 \\
  
 \end{array}
 $$
 the solution to the trig equation is : 
 $$
 \begin{array}{l} \\       \\
-4\theta     =   \pi +  2\pi n     \\
-\theta     =   \frac{\pi}{4} +  \frac{\pi n}{2}     \\
+ \frac{\alpha}{  7}  =    2\pi n     \\
+\alpha  =    14\pi n     \\
 \end{array}
 $$
 
