@@ -307,14 +307,20 @@ $$
 $$
 \begin{array}{l} 
 \frac{1}{2}\cos\left( \frac{x}{8} \right) + \frac{1}{4} =  \frac{2}{3}\in  [0 ,100  ] \\
-\cos\left( \frac{x}{8} \right) + \frac{1}{4} =  \frac{2}{3} \\
-\tan\left( \frac{w}{4} \right)   =   \frac{12}{5}   \\
-1.176 \\
-4.3176 
+\cos\left( \frac{x}{8} \right) = \frac{5}{6}\\
+0.5856  \\
+5.6975 
 \end{array}
 $$
 
-
+$$
+\begin{array}{l} \\
+\frac{w}{4} = 1.176  +  2\pi n        \\
+\frac{w}{4}     =   4.3176  +  2\pi n    \\
+w = 4.704 +  8\pi n    \\
+w = 17.2704  +     8\pi n
+\end{array}
+$$
 $$
 \begin{array}{l} \\
 \frac{w}{4} = 1.176  +  2\pi n        \\
