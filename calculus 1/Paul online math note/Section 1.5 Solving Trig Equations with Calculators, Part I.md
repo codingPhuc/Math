@@ -152,6 +152,29 @@ t  = 0.782    +  \frac{2\pi n}{3}  \\
 t     =  1.3124 +  \frac{2\pi n}{3}
 \end{array}
 $$
-$$
+
+
+
+
+## Practice 6 
 
 $$
+\begin{array}{l} 
+7 \sec (3t)  =   -10     \in  [0,1 ]  \\
+\sec (3t)  =   -\frac{10}{7}   \\
+\frac{1}{\cos 3t}  =   -\frac{10}{7}   \\
+\cos 3t  =   -\frac{7}{10}    \\
+2.3461   \\
+3.9371 
+\end{array}
+$$
+the solution to the trig equation is : 
+$$
+\begin{array}{l} \\
+3t  = 2.3461    +  2\pi n        \\
+3t     =   3.9371 +  2\pi n     \\
+t  = 0.782    +  \frac{2\pi n}{3}  \\
+t     =  1.3124 +  \frac{2\pi n}{3}
+\end{array}
+$$
+
