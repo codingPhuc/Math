@@ -26,6 +26,6 @@ $$
 3t   =    2.3461   +  2\pi n      \\
 3t =  3.937   + 2\pi n      \\
 t  =  0.782   +  \frac{2\pi n}{3}  \\
-t  =  
+t  =  1.3123 +  \frac{2\pi n}{3}  
 \end{array}
-$$
+$$ plug in   t  = 0 
