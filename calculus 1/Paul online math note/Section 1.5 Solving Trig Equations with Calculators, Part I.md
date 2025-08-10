@@ -274,9 +274,9 @@ $$
 $$
 \begin{array}{l} 
 3\tan\left( \frac{w}{4} \right)   - 1  = 11 -  2\tan\left( \frac{w}{4} \right) \in  [-50, 0 ] \\
- 5 \cos  \left( \frac{x}{3} \right)  =   4 \\
-\cos  \left( \frac{x}{3} \right)  =   \frac{4}{5}   \\
-0.6435 \\
+5\tan\left( \frac{w}{4} \right)   =   12 \\
+\tan\left( \frac{w}{4} \right)   =   \frac{12}{5}   \\
+1.176 \\
 5.6396 
 \end{array}
 $$
