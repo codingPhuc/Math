@@ -5,7 +5,7 @@ tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
 Current date: 2025-08-09
-amount of time: "50"
+amount of time: 1h50
 learning score:
 ---
 # #definition 
