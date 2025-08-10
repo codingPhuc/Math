@@ -306,8 +306,8 @@ $$
 
 $$
 \begin{array}{l} 
-\frac{1}{2}\cos\left( \frac{x}{8} \right) +\in  [-50, 0 ] \\
-5\tan\left( \frac{w}{4} \right)   =   12 \\
+\frac{1}{2}\cos\left( \frac{x}{8} \right) + \frac{1}{4} =  \frac{2}{3}\in  [0 ,100  ] \\
+\cos\left( \frac{x}{8} \right) + \frac{1}{4} =  \frac{2}{3} \\
 \tan\left( \frac{w}{4} \right)   =   \frac{12}{5}   \\
 1.176 \\
 4.3176 
