@@ -39,13 +39,8 @@ $$
 given  t   =    1 : 
 $$\begin{array}{l}
  0.782   +  \frac{2\pi n}{3}   = 2.8763  < 5  \\
- 1.3123 +  \frac{2\pi n}{3}    =  3.4   < 5 
+ 1.3123 +  \frac{2\pi n}{3}    =  3.4066   < 5 
 \end{array}
 $$
 
-given  t  =    -1 : 
-$$\begin{array}{l}
- \frac{\pi}{27}  -  \frac{6\pi}{27}    = -\frac{5\pi}{27 } >  -\frac{9\pi}{27}   \\
-  \frac{2\pi}{27}  -  \frac{6\pi}{27}  = -\frac{4\pi}{27}    > -\frac{9\pi}{27}
-\end{array}
-$$
+
