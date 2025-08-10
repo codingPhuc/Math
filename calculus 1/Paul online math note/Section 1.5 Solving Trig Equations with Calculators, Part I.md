@@ -113,7 +113,7 @@ $$
 \begin{array}{l} 
 9 \sin (2x) =   -5 \cos (2x)    \in  [0,1 ]  \\
 \tan(2x)    = -\frac{5}{9}   \\
-\implies  -1.0636 + 2\pi   = 5.2194    \\
+\implies -0.5071  + 2\pi   = 5.7761   \\
 2.0778 
 \end{array}
 
