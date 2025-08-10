@@ -218,10 +218,10 @@ $$
 
 $$
 \begin{array}{l} 
-6 +  5x \cos  \left( \frac{x}{3} \right)   = 10   \in [0, 38]  \\
-\cos 4x  =   -\frac{1}{ 7}  \\
-4.569   \\
-1.7141  
+6 +  5 \cos  \left( \frac{x}{3} \right)   = 10   \in [0, 38]  \\
+ 5 \cos  \left( \frac{x}{3} \right)  =   4 \\
+\cos  \left( \frac{x}{3} \right)  =   \frac{4}{5}   \\
+0.6435 
 \end{array}
 $$
 $$
