@@ -143,4 +143,12 @@ $$
 3.9371 
 \end{array}
 $$
-the solution to the trig equatio
+the solution to the trig equation is : 
+$$
+\begin{array}{l} \\
+3t  = 2.3461    +  2\pi n        \\
+3t     =   3.9371 +  2\pi n     \\
+3t  = 0.782    +  2\pi n  \\
+3t     =   3.9371 +  2\pi n
+\end{array}
+$$
