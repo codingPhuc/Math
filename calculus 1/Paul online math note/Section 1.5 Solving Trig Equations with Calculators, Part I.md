@@ -295,7 +295,8 @@ $$
 $$
 \begin{array}{l}
 n=-1:\quad w=-20.4287\quad\mathrm{OR}
-\quad w=-7.8623n=-2:\quad w=-45.5614\quad\mathrm{OR}\quad w=-32.9950  \\
+\quad w=-7.8623 \\
+n=-2:\quad w=-45.5614\quad\mathrm{OR}\quad w=-32.9950 
 \end{array}
 
 $$
