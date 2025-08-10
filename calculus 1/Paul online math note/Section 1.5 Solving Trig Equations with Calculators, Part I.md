@@ -1,11 +1,11 @@
 ---
 title: Adjunction
-references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
+references: https://tutorial.math.lamar.edu/Problems/CalcI/TrigEquations_CalcI.aspx
 tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
-Current date: "2025-08-09"
-amount of time: 
+Current date: 2025-08-09
+amount of time: "50"
 learning score:
 ---
 # #definition 
