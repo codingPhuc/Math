@@ -99,7 +99,12 @@ $$
 
 given  t  =    0 : 
 $$\begin{array}{l}
- 0.7742 +   \frac{2\pi n}{5}  < 5  \\
- 1.1106 +  \frac{2\pi n}{5} =  1.3123    < 5 
+ 0.7742 +   \frac{2\pi n}{5}  =  0.7742    < 1  \\
 \end{array}
-$$ 
+$$
+
+given  t  =    0 : 
+$$\begin{array}{l}
+ 0.7742 +   \frac{2\pi n}{5}  =  0.7742   + \frac{2\pi }{5}  < 1  \\
+\end{array}
+$$
