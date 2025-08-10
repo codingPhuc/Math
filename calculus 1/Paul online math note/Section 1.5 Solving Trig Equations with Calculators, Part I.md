@@ -71,7 +71,4 @@ t  =  0.3348   +  4\pi n    \\
 t  =  5.9482  +  4\pi n
 \end{array}
 $$
-$$
-\begin{array}{ll}\\n=-1&:\quad t=-12.2315\quad\mathrm{~and~}\quad-6.6181\\n=0&:\quad t=0.1674 \quad\mathrm{~and~}\quad5.9482 \\
-\end{array}
-$$
+![[Pasted image 20250810103318.png]]
