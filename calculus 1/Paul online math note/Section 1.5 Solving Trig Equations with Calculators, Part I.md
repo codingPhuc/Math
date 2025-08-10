@@ -21,3 +21,8 @@ $$
 \end{array}
 $$
 so the solution to the trig equation is  : 
+$$
+\begin{array}{l} \\
+
+\end{array}
+$$
