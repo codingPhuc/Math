@@ -113,19 +113,18 @@ $$
 \begin{array}{l} 
 9 \sin (2x) =   -5 \cos (2x)    \in  [0,1 ]  \\
 \tan(2x)    = -\frac{5}{9}   \\
-\implies -0.5071  + 2\pi  =   \\
+\implies -0.5071  + 2\pi  = 5.7761  \\
  2.6345    \\
 \end{array}
-
 $$
 
 the solution to the trig equation : 
 $$
 \begin{array}{l} \\
-2x  =    3.8713    +  2\pi n        \\
-5z     =  5.5534  +  2\pi n     \\
-z  =   0.7742 +   \frac{2\pi n}{5}  \\
-z  = 1.1106 +  \frac{2\pi n}{5} 
+2x  = 2.6345   +  2\pi n        \\
+2x     =   5.7761  +  2\pi n     \\
+z  =    1.6345   +   \frac{2\pi n}{5}  \\
+z  = 5.7761  +  \frac{2\pi n}{5} 
 \end{array}
 $$
 
