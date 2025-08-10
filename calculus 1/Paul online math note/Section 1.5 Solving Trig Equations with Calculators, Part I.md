@@ -167,10 +167,9 @@ $$
 $$
 the solution to the trig equation is : 
 $$
-\begin{array}{l} \\
-3t  = 2.3461    +  2\pi n        \\
-3t     =   3.9371 +  2\pi n     \\
-t  = 0.782    +  \frac{2\pi n}{3}  \\
+\begin{array}{l} \\       \\
+4\theta     =   \pi +  2\pi n     \\
+\theta     =   \frac{\pi}{4} +  \frac{\pi n}{2}     \\
 t     =  1.3124 +  \frac{2\pi n}{3}
 \end{array}
 $$
