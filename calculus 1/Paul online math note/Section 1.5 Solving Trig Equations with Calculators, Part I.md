@@ -273,7 +273,7 @@ $$
 
 $$
 \begin{array}{l} 
-3\tan\left( \frac{w}{4} \right)   - 1  = 10   \in [0, 38]  \\
+3\tan\left( \frac{w}{4} \right)   - 1  = 11 -  2\tan\left( \frac{w}{4} \right) \in  [-50, 0 ] \\
  5 \cos  \left( \frac{x}{3} \right)  =   4 \\
 \cos  \left( \frac{x}{3} \right)  =   \frac{4}{5}   \\
 0.6435 \\
