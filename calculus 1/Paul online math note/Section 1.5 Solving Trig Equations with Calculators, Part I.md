@@ -51,5 +51,10 @@ $$
 t=-1.3123,-0.7821,0.7821,1.3123,2.8765,3.4067,4.9709
 $$
 $$
-6 \sin \left( \frac{x}{2} \right)   = 1  on 
+\begin{array}{l} 
+6 \sin \left( \frac{x}{2} \right)   = 1 \in  [-20, 30]   \\
+\sin\left( \frac{x}{2} \right)  =  \frac{1}{6}   \\
+
+\end{array}
+
 $$
