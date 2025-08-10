@@ -290,8 +290,39 @@ w = 4.704 +  8\pi n    \\
 w = 17.2704  +     8\pi n
 \end{array}
 $$ 
+$$
+\begin{array}{l}
+n=-1:\quad w=-20.4287\quad\mathrm{OR}
+\quad w=-7.8623 \\
+n=-2:\quad w=-45.5614\quad\mathrm{OR}\quad w=-32.9950 
+\end{array}
+
+$$
 
 
+
+
+
+
+$$
+\begin{array}{l} 
+\frac{1}{2}\cos\left( \frac{x}{8} \right) +\in  [-50, 0 ] \\
+5\tan\left( \frac{w}{4} \right)   =   12 \\
+\tan\left( \frac{w}{4} \right)   =   \frac{12}{5}   \\
+1.176 \\
+4.3176 
+\end{array}
+$$
+
+
+$$
+\begin{array}{l} \\
+\frac{w}{4} = 1.176  +  2\pi n        \\
+\frac{w}{4}     =   4.3176  +  2\pi n    \\
+w = 4.704 +  8\pi n    \\
+w = 17.2704  +     8\pi n
+\end{array}
+$$ 
 $$
 \begin{array}{l}
 n=-1:\quad w=-20.4287\quad\mathrm{OR}
