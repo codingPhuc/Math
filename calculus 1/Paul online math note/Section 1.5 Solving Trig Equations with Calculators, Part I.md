@@ -338,7 +338,9 @@ $$
 $$
 \begin{array}{l} 
 \frac{4}{3 } =   1 + 3\sec(2t)   \in  [-4,6]  \\
-\sec(2t)   =  \frac{1}{9 }
+\sec(2t)   =  \frac{1}{9 } \\
+1.4595  \\
+
 \end{array}
 $$
 
