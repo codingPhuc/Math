@@ -133,6 +133,11 @@ $$
 
 ## Practice 5 
 
-
 $$
+\begin{array}{l} 
+7 \sec (3t)  =   -10     \in  [0,1 ]  \\
+\tan(2x)    = -\frac{5}{9}   \\
+\implies -0.5071  + 2\pi  = 5.7761  \\
+ 2.6345    \\
+\end{array}
 $$
