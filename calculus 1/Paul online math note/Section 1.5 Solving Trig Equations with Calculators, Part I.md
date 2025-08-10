@@ -325,3 +325,34 @@ $$
 $$
  \begin{aligned}n&=0:\quad x=4.6856\quad&\mathrm{OR}\quad&x=45.58\\n&=1:\quad x=54.9511\quad&\mathrm{OR}\quad&x=95.8455\end{aligned} 
 $$
+
+
+
+
+
+
+
+
+
+
+$$
+\begin{array}{l} 
+\frac{4}{3 } =   1 + 3\sec(2t)   \in  [-4,6]  \\
+\sec(2t)   =  \frac{1}{9 }
+\end{array}
+$$
+
+$$
+\begin{array}{l} \\
+\frac{x}{8} = 0.5856   +  2\pi n        \\
+\frac{x}{8}   =   5.6975   +  2\pi n    \\
+x = 4.6848  +  16\pi n    \\
+x = 45.58   +     16\pi n
+\end{array}
+$$
+
+$$
+ \begin{aligned}n&=0:\quad x=4.6856\quad&\mathrm{OR}\quad&x=45.58\\n&=1:\quad x=54.9511\quad&\mathrm{OR}\quad&x=95.8455\end{aligned} 
+$$
+
+
