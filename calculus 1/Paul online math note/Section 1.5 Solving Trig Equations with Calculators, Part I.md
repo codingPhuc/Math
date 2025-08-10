@@ -103,6 +103,39 @@ $$\begin{array}{l}
 \end{array}
 $$
 
-so there is only one solution that sati
+so there is only one solution that satisfy the range  
+
+
+## Practice  4 
+
+
+$$
+\begin{array}{l} 
+3 \sin(5z)  =   -2   \in  [0,1 ]  \\
+\sin(5z)  = -\frac{2}{3}    \\
+\implies  -0.7297 + 2\pi   = 5.5534    \\
+3.8713 
+\end{array}
+
+$$
+
+the solution to the trig equation : 
+$$
+\begin{array}{l} \\
+5z   =    3.8713    +  2\pi n        \\
+5z     =  5.5534  +  2\pi n     \\
+z  =   0.7742 +   \frac{2\pi n}{5}  \\
+z  = 1.1106 +  \frac{2\pi n}{5} 
+\end{array}
+$$
+
+given  t  =    0 : 
+$$\begin{array}{l}
+ 0.7742 +   \frac{2\pi n}{5}  =  0.7742    < 1  \\
+\end{array}
+$$
+
+so there is only one solution that satisfy the range  
+
 
 
