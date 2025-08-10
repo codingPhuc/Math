@@ -25,6 +25,7 @@ $$
 \begin{array}{l} \\
 3t   =    2.3461   +  2\pi n      \\
 3t =  3.937   + 2\pi n      \\
-t  =  \frac{2.34613}{3}   +  2\pi n      
+t  =  0.782   +  \frac{2\pi n}{3}  \\
+t  =  
 \end{array}
 $$
