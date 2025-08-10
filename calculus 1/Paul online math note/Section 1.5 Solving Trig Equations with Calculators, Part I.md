@@ -170,7 +170,22 @@ $$
 \begin{array}{l} \\       \\
 4\theta     =   \pi +  2\pi n     \\
 \theta     =   \frac{\pi}{4} +  \frac{\pi n}{2}     \\
-t     =  1.3124 +  \frac{2\pi n}{3}
+\end{array}
+$$
+
+## Practice 7 
+$$
+\begin{array}{l} 
+\cos 4 \theta  = -1     \\
+\pi   \\
+ 
+\end{array}
+$$
+the solution to the trig equation is : 
+$$
+\begin{array}{l} \\       \\
+4\theta     =   \pi +  2\pi n     \\
+\theta     =   \frac{\pi}{4} +  \frac{\pi n}{2}     \\
 \end{array}
 $$
 
