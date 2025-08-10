@@ -173,11 +173,12 @@ $$
 \end{array}
 $$
 
-## Practice 7 
+## Practice 7  
+
 $$
 \begin{array}{l} 
-\cos 4 \theta  = -1     \\
-\pi   \\
+\sin\left(  \frac{\alpha}{  7}  \right)  =   0    \\
+ \\
  
 \end{array}
 $$
