@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Paul online math note/Section 1.1  Functions.md",
+                "file": "calculus 1/Paul online math note/Section 1.5 Solving Trig Equations with Calculators, Part I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 1.1  Functions"
+              "title": "Section 1.5 Solving Trig Equations with Calculators, Part I"
             }
           },
           {
@@ -307,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Paul online math note/Section 1.1  Functions.md",
+                "file": "calculus 1/Paul online math note/Section 1.5 Solving Trig Equations with Calculators, Part I.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 1.1  Functions"
+              "title": "Outline of Section 1.5 Solving Trig Equations with Calculators, Part I"
             }
           }
         ],
@@ -341,9 +341,10 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
+    "calculus 1/Paul online math note/Section 1.1  Functions.md",
     "calculus 1/Paul online math note/Section 1.2  Inverse Functions.md",
     "calculus 1/Paul online math note/Section 1.3  Trig Functions.md",
-    "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
     "calculus 1/Paul online math note/Section 1.5 Solving Trig Equations with Calculators, Part I.md",
     "calculus 1/What need to be understand.md",
     "calculus 1/12 hours calculus courses/The Squeeze Theorem.md",
@@ -371,7 +372,6 @@
     "calculus 1/12 hours calculus courses/Limits using Algebraic Tricks.md",
     "calculus 1/12 hours calculus courses/Limit Laws.md",
     "calculus 1/12 hours calculus courses/example.md",
-    "calculus 1/12 hours calculus courses/2.6.2 Limits at Infinity and Algebraic Tricks.md",
     "picture/Pasted image 20250805145159.png",
     "picture/Pasted image 20250805110720.png",
     "picture/Pasted image 20250804172241.png",

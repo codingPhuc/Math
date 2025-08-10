@@ -5,7 +5,7 @@ tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
 Current date: 2025-08-02
-amount of time: 
+amount of time: 1h30
 learning score: 
 reference: https://tutorial.math.lamar.edu/Solutions/CalcI/Functions/Prob2.aspx
 ---

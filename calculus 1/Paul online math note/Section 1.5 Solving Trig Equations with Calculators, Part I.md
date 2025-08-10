@@ -198,6 +198,7 @@ the reason why  $\pi \cap 0$ is because when we look at the unit circle it have 
 $$
 \begin{array}{l} 
 7 \cos( 4x)  + 11  = 0  \\
-\cos 
+\cos 4x  =   -\frac{11}{ 7}  \\
+
 \end{array}
 $$
