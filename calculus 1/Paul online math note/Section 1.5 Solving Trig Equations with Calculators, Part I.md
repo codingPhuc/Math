@@ -187,7 +187,9 @@ the solution to the trig equation is :
 $$
 \begin{array}{l} \\       \\
  \frac{\alpha}{  7}  =    2\pi n     \\
-\alpha  =    14\pi n     \\
+ \frac{\alpha}{  7}   =   \pi +     2\pi n  
+\alpha  =    14\pi n    \\
+ \frac{\alpha}{  7}   =   \frac{\pi}{7} +     2\pi n   \\
 \end{array}
 $$
 
