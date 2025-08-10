@@ -187,9 +187,9 @@ the solution to the trig equation is :
 $$
 \begin{array}{l} \\       \\
  \frac{\alpha}{  7}  =    2\pi n     \\
- \frac{\alpha}{  7}   =   \pi +     2\pi n  
+ \frac{\alpha}{  7}   =   \pi +     2\pi n    \\
 \alpha  =    14\pi n    \\
- \frac{\alpha}{  7}   =   \frac{\pi}{7} +     2\pi n   \\
+\alpha  =   \frac{\pi}{7} +     14\pi n     \\
 \end{array}
 $$
-
+the reason why  $\pi \cap 0$ is because when we look at the unit circle it have two value $\pi \cap 2\pi$ where  
