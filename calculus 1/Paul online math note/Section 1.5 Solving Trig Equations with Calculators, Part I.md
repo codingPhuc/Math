@@ -16,7 +16,7 @@ Example 2 solve
 $$
 \begin{array}{l}  \\
 -10 \cos(3t) =  7  \in  [-2,5]  \\
-\implies  3t  =  2.3461   \\
-t  = 
+\implies  3t  =  2.3461  \text{ this the first } \\
+
 \end{array}
 $$
