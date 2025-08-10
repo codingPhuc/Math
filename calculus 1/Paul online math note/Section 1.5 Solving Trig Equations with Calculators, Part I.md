@@ -54,6 +54,7 @@ $$
 \begin{array}{l} 
 6 \sin \left( \frac{x}{2} \right)   = 1 \in  [-20, 30]   \\
 \sin\left( \frac{x}{2} \right)  =  \frac{1}{6}   \\
+\implies 0.1674   \\
 
 \end{array}
 
