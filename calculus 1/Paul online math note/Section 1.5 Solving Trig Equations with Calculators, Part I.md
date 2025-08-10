@@ -339,23 +339,9 @@ $$
 \begin{array}{l} 
 \frac{4}{3 } =   1 + 3\sec(2t)   \in  [-4,6]  \\
 \sec(2t)   = \frac{1}{9} \\
-\frac{1}{\cos(2t) }  =  \frac{1}{9} \\
-1.4595  \\
+\frac{1}{\cos(2t) }  =  \frac{1}{9}   \\
+\cos(2t)    =  9\\
 
 \end{array}
 $$
-
-$$
-\begin{array}{l} \\
-\frac{x}{8} = 0.5856   +  2\pi n        \\
-\frac{x}{8}   =   5.6975   +  2\pi n    \\
-x = 4.6848  +  16\pi n    \\
-x = 45.58   +     16\pi n
-\end{array}
-$$
-
-$$
- \begin{aligned}n&=0:\quad x=4.6856\quad&\mathrm{OR}\quad&x=45.58\\n&=1:\quad x=54.9511\quad&\mathrm{OR}\quad&x=95.8455\end{aligned} 
-$$
-
-
+At this point we can note that −1≤cosθ≤1 and so again there is no way for cosine to be 9 and again we get that there will be **no solution** to this equation.
