@@ -64,7 +64,7 @@ $$
 \begin{array}{l} \\
 \frac{x}{2}   =   0.1674   +  2\pi n      \\
 \frac{x}{2}   = 2.9741  +  2\pi n     \\
-t  =  0.782   +  \frac{2\pi n}{3}  \\
-t  =  1.3123 +  \frac{2\pi n}{3}  
+t  =  0.3348   +  2\pi n    \\
+t  =  5.9482  +  2\pi n
 \end{array}
 $$
