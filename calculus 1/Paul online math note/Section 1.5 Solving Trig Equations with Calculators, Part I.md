@@ -160,12 +160,9 @@ $$
 
 $$
 \begin{array}{l} 
-\cos \theta   \\
-\sec (3t)  =   -\frac{10}{7}   \\
-\frac{1}{\cos 3t}  =   -\frac{10}{7}   \\
-\cos 3t  =   -\frac{7}{10}    \\
-2.3461   \\
-3.9371 
+\cos 4 \theta  = -1     \\
+\pi   \\
+ 
 \end{array}
 $$
 the solution to the trig equation is : 
