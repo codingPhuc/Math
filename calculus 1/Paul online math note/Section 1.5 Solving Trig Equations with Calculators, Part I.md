@@ -82,7 +82,7 @@ $$
 3 \sin(5z)  =   -2   \in  [0,1 ]  \\
 \sin(5z)  = -\frac{2}{3}    \\
 \implies  -0.7297 + 2\pi   = 5.5534    \\
-3.7813 
+3.8713 
 \end{array}
 
 $$
@@ -90,8 +90,8 @@ $$
 the solution to the trig equation : 
 $$
 \begin{array}{l} \\
-\frac{x}{2}   =   0.1674   +  2\pi n      \\
-\frac{x}{2}   = 2.9741  +  2\pi n     \\
+5z   =    3.8713    +  2\pi n        \\
+5z     =  5.5534  +  2\pi n     \\
 t  =  0.3348   +  4\pi n    \\
 t  =  5.9482  +  4\pi n
 \end{array}
