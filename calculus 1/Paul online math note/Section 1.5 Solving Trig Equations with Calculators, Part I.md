@@ -277,16 +277,15 @@ $$
 5\tan\left( \frac{w}{4} \right)   =   12 \\
 \tan\left( \frac{w}{4} \right)   =   \frac{12}{5}   \\
 1.176 \\
-5.6396 
+4.3176 
 \end{array}
 $$
 
 
-
 $$
 \begin{array}{l} \\
-\frac{x}{3} = 0.6435  +  2\pi n        \\
-\frac{x}{3}     =   5.6396  +  6\pi n     \\
+\frac{w}{4} = 1.176  +  2\pi n        \\
+\frac{w}{4}     =   4.3176  +  2\pi n    \\
 x = 1.9305 +  6\pi n    \\
 x    =   16.9188  +  6\pi n  
 \end{array}
