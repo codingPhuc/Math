@@ -31,19 +31,17 @@ t  =  1.3123 +  \frac{2\pi n}{3}
 $$
 given  t  =    0 : 
 $$\begin{array}{l}
- 0.782   +  \frac{2\pi n}{3}   = \frac{7\pi}{27 } <  \frac{12\pi}{27}  \\
- 1.3123 +  \frac{2\pi n}{3}    = \frac{8\pi}{27}    <  \frac{12\pi}{27}
+ 0.782   +  \frac{2\pi n}{3}   =  0.782  < 5  \\
+ 1.3123 +  \frac{2\pi n}{3}    =  1.3123    < 5 
 \end{array}
 $$ 
 
 given  t   =    1 : 
-
 $$\begin{array}{l}
- \frac{\pi}{27}  +  \frac{6\pi}{27}    = \frac{7\pi}{27 } <  \frac{12\pi}{27}  \\
-  \frac{2\pi}{27}  +  \frac{6\pi}{27}  = \frac{8\pi}{27}    <  \frac{12\pi}{27}
+ 0.782   +  \frac{2\pi n}{3}   =  0.782  < 5  \\
+ 1.3123 +  \frac{2\pi n}{3}    =  1.3123    < 5 
 \end{array}
 $$
-
 
 given  t  =    -1 : 
 $$\begin{array}{l}
