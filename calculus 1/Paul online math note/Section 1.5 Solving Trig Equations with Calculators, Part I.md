@@ -20,4 +20,4 @@ $$
  - 2.3461 +  2\pi   =  3.937   \text{ this is the second angle}
 \end{array}
 $$
-
+so the solution to the trig equation is  : 
