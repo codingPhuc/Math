@@ -81,6 +81,7 @@ $$
 \begin{array}{l} 
 3 \sin(5z)  =   -2   \in  [0,1 ]  \\
 \sin(5z)  = -\frac{2}{3}    \\
+\implies  -0.7297 + 2\pi   = 5.5534    \\
 
 \end{array}
 
