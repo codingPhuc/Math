@@ -111,8 +111,8 @@ so there is only one solution that satisfy the range
 
 $$
 \begin{array}{l} 
-3 \sin(5z)  =   -2   \in  [0,1 ]  \\
-\sin(5z)  = -\frac{2}{3}    \\
+9 \sin (2x) =   -5 \cos (2x)    \in  [0,1 ]  \\
+\tan(2x)    = -\frac{9}{5}   \\
 \implies  -0.7297 + 2\pi   = 5.5534    \\
 3.8713 
 \end{array}
