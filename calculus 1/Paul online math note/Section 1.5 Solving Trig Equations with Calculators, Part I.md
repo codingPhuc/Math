@@ -323,21 +323,5 @@ x = 45.58   +     16\pi n
 $$
 
 $$
-\begin{array}{l} \\
-\frac{w}{4} = 1.176  +  2\pi n        \\
-\frac{w}{4}     =   4.3176  +  2\pi n    \\
-w = 4.704 +  8\pi n    \\
-w = 17.2704  +     8\pi n
-\end{array}
-$$ 
+ \begin{aligned}n&=0:\quad x=4.6856\quad&\mathrm{OR}\quad&x=45.58\\n&=1:\quad x=54.9511\quad&\mathrm{OR}\quad&x=95.8455\end{aligned} 
 $$
-\begin{array}{l}
-n=-1:\quad w=-20.4287\quad\mathrm{OR}
-\quad w=-7.8623 \\
-n=-2:\quad w=-45.5614\quad\mathrm{OR}\quad w=-32.9950 
-\end{array}
-
-$$
-
-
-
