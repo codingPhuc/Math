@@ -72,6 +72,6 @@ t  =  5.9482  +  4\pi n
 \end{array}
 $$
 $$
-\begin{array}{ll}n=-2&:\quad t=\overline{3.4067}\quad\mathrm{~and~}\quad\overline{-2.8765}\\n=-1&:\quad t=-12.2315\quad\mathrm{~and~}\quad-0.7821\\n=0&:\quad t=0.1674 \quad\mathrm{~and~}\quad5.9482 \\
+\begin{array}{ll}\\n=-1&:\quad t=-12.2315\quad\mathrm{~and~}\quad-6.6181\\n=0&:\quad t=0.1674 \quad\mathrm{~and~}\quad5.9482 \\
 \end{array}
 $$
