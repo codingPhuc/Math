@@ -17,6 +17,7 @@ $$
 \begin{array}{l}  \\
 -10 \cos(3t) =  7  \in  [-2,5]  \\
  \implies  2.3461  \text{ this the first angle } \\
- - 2.3461 +  2\pi   =  
+ - 2.3461 +  2\pi   =  3.937   \text{ this is the second angle}
 \end{array}
 $$
+
