@@ -197,4 +197,4 @@ the reason why  $\pi \cap 0$ is because when we look at the unit circle it have 
 # #Practice_Exercise 
 
 
-find the solution to the following equaiotn 
+7co
