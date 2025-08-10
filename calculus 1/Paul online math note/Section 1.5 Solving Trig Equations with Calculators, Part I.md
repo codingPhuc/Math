@@ -256,8 +256,8 @@ $$
 
 
 $$
-\begin{array}{l} \\
-\frac{x}{3} = 0.6435  +  2\pi n        \\
+\begin{array}{l}  \\
+6z  = 5.8716  +  2\pi n        \\
 \frac{x}{3}     =   5.6396  +  6\pi n     \\
 x = 1.9305 +  6\pi n    \\
 x    =   16.9188  +  6\pi n  
