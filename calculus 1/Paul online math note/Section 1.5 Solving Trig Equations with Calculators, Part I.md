@@ -245,8 +245,8 @@ $$
 
 $$
 \begin{array}{l} 
-6 +  5 \cos  \left( \frac{x}{3} \right)   = 10   \in [0, 38]  \\
- 5 \cos  \left( \frac{x}{3} \right)  =   4 \\
+4 \sin(6z)  +  \frac{13}{10 } =  -\frac{3}{10}   \in [0,2]  \\
+4 \sin(6z)   =   -\frac{8}{5} \\
 \cos  \left( \frac{x}{3} \right)  =   \frac{4}{5}   \\
 0.6435 \\
 5.6396 
