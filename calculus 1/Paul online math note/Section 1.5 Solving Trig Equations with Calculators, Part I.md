@@ -139,6 +139,8 @@ $$
 \sec (3t)  =   -\frac{10}{7}   \\
 \frac{1}{\cos 3t}  =   -\frac{10}{7}   \\
 \cos 3t  =   -\frac{7}{10}    \\
-3t 
+2.3461   \\
+3.9371 
 \end{array}
 $$
+the solution to the trig equatio
