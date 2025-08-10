@@ -137,6 +137,8 @@ $$
 \begin{array}{l} 
 7 \sec (3t)  =   -10     \in  [0,1 ]  \\
 \sec (3t)  =   -\frac{10}{7}   \\
-
+\frac{1}{\cos 3t}  =   -\frac{10}{7}   \\
+\cos 3t  =   -\frac{7}{10}    \\
+3t 
 \end{array}
 $$
