@@ -47,3 +47,9 @@ $$
 $$
 \begin{array}{ll}n=-2&:\quad t=\overline{3.4067}\quad\mathrm{~and~}\quad\overline{-2.8765}\\n=-1&:\quad t=-1.3123\quad\mathrm{~and~}\quad-0.7821\\n=0&:\quad t=0.7821\quad\mathrm{~and~}\quad1.3123\\n=1&:\quad t=2.8765\quad\mathrm{~and~}\quad3.4067\\n=2&:\quad t=4.9709\quad\mathrm{~and~}\quad\overline{5.5011}\end{array}
 $$
+$$
+t=-1.3123,-0.7821,0.7821,1.3123,2.8765,3.4067,4.9709
+$$
+$$
+6 \sin \left( \frac{x}{2} \right)   = 1  on 
+$$
