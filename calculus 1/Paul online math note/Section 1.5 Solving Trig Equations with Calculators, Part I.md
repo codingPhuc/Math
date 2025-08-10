@@ -286,8 +286,8 @@ $$
 \begin{array}{l} \\
 \frac{w}{4} = 1.176  +  2\pi n        \\
 \frac{w}{4}     =   4.3176  +  2\pi n    \\
-x = 1.9305 +  6\pi n    \\
-x    =   16.9188  +  6\pi n  
+w = 4.704 +  8\pi n    \\
+w = 
 \end{array}
 $$ 
 
