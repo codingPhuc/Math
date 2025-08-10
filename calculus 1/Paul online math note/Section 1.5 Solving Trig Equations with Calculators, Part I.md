@@ -321,6 +321,7 @@ x = 4.6848  +  16\pi n    \\
 x = 45.58   +     16\pi n
 \end{array}
 $$
+
 $$
 \begin{array}{l} \\
 \frac{w}{4} = 1.176  +  2\pi n        \\
