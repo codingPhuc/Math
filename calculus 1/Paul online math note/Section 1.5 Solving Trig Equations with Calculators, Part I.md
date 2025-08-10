@@ -92,8 +92,8 @@ $$
 \begin{array}{l} \\
 5z   =    3.8713    +  2\pi n        \\
 5z     =  5.5534  +  2\pi n     \\
-t  =  0.3348   +  4\pi n    \\
-t  =  5.9482  +  4\pi n
+z  =   0.77426  +   \frac{2\pi n}{5}  \\
+z  = 
 \end{array}
 $$
 ![[Pasted image 20250810103318.png]]
