@@ -30,5 +30,4 @@ x = 1  \\
 x =  4  
 \end{array} \right. 
 \end{array}
-
 $$
