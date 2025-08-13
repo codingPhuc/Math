@@ -9,13 +9,10 @@ amount of time:
 learning score:
 ---
 
-
-
-
 $$
-\begin{array }
-
-\end{array }
-\sqrt{  15x  +  21 }  =  x + 5 
+\begin{array}{l}  \\
+g(x)  = 3x^2 - 6x +    + 5    \\
+g(x  )
+\end{array}
 
 $$
