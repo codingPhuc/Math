@@ -42,3 +42,17 @@ x =  + \sqrt{  34 }    -10
 \end{array} \right. 
 \end{array}
 $$
+
+
+
+
+$$ 
+\begin{array}{l}  \\
+(w  + 10)^2  =  34     \\
+w + 10   = \pm \sqrt{  34 } \\
+\left\{  \begin{array}{l} 
+x = - \sqrt{  34 }    -10   \\
+x =  + \sqrt{  34 }    -10
+\end{array} \right. 
+\end{array}
+$$
