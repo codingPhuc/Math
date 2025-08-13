@@ -35,10 +35,10 @@ $$
 $$ 
 \begin{array}{l}  \\
 (w  + 10)^2  =  34     \\
-b   = \sqrt{  34 } \\
+w + 10   = \pm \sqrt{  34 } \\
 \left\{  \begin{array}{l} 
-x = 5  \\
-x =  1  
+x = - \sqrt{  34 }    -10   \\
+x =  \pm \sqrt{  34 }    -10
 \end{array} \right. 
 \end{array}
 $$
