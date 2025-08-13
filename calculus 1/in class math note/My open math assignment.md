@@ -38,7 +38,7 @@ $$
 w + 10   = \pm \sqrt{  34 } \\
 \left\{  \begin{array}{l} 
 x = - \sqrt{  34 }    -10   \\
-x =  \pm \sqrt{  34 }    -10
+x =  + \sqrt{  34 }    -10
 \end{array} \right. 
 \end{array}
 $$
