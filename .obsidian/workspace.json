@@ -307,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/in class math note/My open math assignment.md",
+                "file": "Paul Online note/algebra/Section 4.2  Parabolas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My open math assignment"
+              "title": "Outline of Section 4.2  Parabolas"
             }
           }
         ],
@@ -339,11 +339,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56951fb26ce0d245",
+  "active": "9242df5253dc5c73",
   "lastOpenFiles": [
+    "calculus 1/in class math note/My open math assignment.md",
     "calculus 1/Module Relation.md",
     "calculus 1/What need to be understand.md",
-    "calculus 1/in class math note/My open math assignment.md",
     "Paul Online note/algebra/Section 4.2  Parabolas.md",
     "Paul Online note/algebra/Section 4.4 Hyperbolas.md",
     "Paul Online note/algebra/Section 4.6  Transformations.md",
