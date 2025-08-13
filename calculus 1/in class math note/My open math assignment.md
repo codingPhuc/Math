@@ -55,4 +55,6 @@ x = - \sqrt{  34 }    -10   \\
 x =  + \sqrt{  34 }    -10
 \end{array} \right. 
 \end{array}
+$$$$
+\sqrt{  8x^2 }
 $$
