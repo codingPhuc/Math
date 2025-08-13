@@ -11,7 +11,7 @@ learning score:
 
 $$
 \begin{array}{l}  \\
-g(x)  = 3x^2 - 6x      + 5    \\
+g(x)  = x^2  - 10x   \\
 g(x )   =  3 \left( x^2 - 2x + 1 -1 \right) +  5   \\
 3 (x^2     -1)  +  2  \\
 \end{array}
@@ -20,6 +20,19 @@ $$
 
 
 $$
+\begin{array}{l}  \\
+\sqrt{  16x  +  20 }  =  x + 5   \\
+16x  +  20    =   x^2   + 10x +  25    \\
+x^2  - 6x  +5  = 0 \\
+\left\{  \begin{array}{l} 
+x = 5  \\
+x =  1  
+\end{array} \right. 
+\end{array}
+$$ 
+
+
+$$ 
 \begin{array}{l}  \\
 \sqrt{  16x  +  20 }  =  x + 5   \\
 16x  +  20    =   x^2   + 10x +  25    \\
