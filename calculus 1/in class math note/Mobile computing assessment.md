@@ -21,7 +21,7 @@
 
     % Text annotations  
     % Draw the parabola
-   \draw[very thick, red, domain=-3:3, smooth] plot(\x, {});
+   \draw[very thick, red, domain=-3:3, smooth] plot(\x, {(\x)^2 + 16*\x +  59});
 \end{tikzpicture}
 \end{document}
 
