@@ -12,7 +12,8 @@ learning score:
 $$
 \begin{array}{l}  \\
 g(x)  = 3x^2 - 6x +  15 - 15   + 5    \\
-g(x )   =  3 \left( x^2 - 3x +  \frac{9}{2}  -\frac{9}{2} \right) +  5   \\
+g(x )   =  3 \left( x^2 - 3x +  \frac{9}{4}  -\frac{9}{4} \right) +  5   \\
+3\left( x - \frac{3}{2} \right)^2    -  2 \\
 
 \end{array}
 
