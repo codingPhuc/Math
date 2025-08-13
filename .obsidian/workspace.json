@@ -239,8 +239,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -308,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/algebra/Section 4.2  Parabolas.md",
+                "file": "calculus 1/in class math note/Mobile computing assessment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.2  Parabolas"
+              "title": "Outline of Mobile computing assessment"
             }
           }
         ],
@@ -340,8 +339,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9242df5253dc5c73",
+  "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 4.2  Parabolas.md",
     "Paul Online note/algebra/Section 4.4 Hyperbolas.md",
     "Paul Online note/algebra/Section 4.6  Transformations.md",
     "calculus 1/12 hours calculus courses/2.6.1 limit at infinity and Graphs.md",
@@ -373,7 +373,6 @@
     "calculus 1/12 hours calculus courses/Solving Basic Trig Equation.md",
     "calculus 1/12 hours calculus courses/Right Angle Trinometry.md",
     "calculus 1/12 hours calculus courses/Rational Functions and Graphs.md",
-    "calculus 1/12 hours calculus courses/Rational Expressions.md",
     "picture/Pasted image 20250805145159.png",
     "picture/Pasted image 20250805110720.png",
     "picture/Pasted image 20250804172241.png",
