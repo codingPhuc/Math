@@ -84,7 +84,7 @@ $$
 
 
     % Draw the parabola
-    \draw[thick, blue, domain=-6:0, smooth] plot (\x, { -3^\x  });
+    \draw[thick, blue, domain=-10:3, smooth] plot (\x, { -3^(\x) +4 });
  
 \end{tikzpicture}
 \end{document}
