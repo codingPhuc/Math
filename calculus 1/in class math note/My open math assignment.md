@@ -11,9 +11,9 @@ learning score:
 
 $$
 \begin{array}{l}  \\
-g(x)  = x^2  - 10x   \\
-g(x )   =  3 \left( x^2 - 2x + 1 -1 \right) +  5   \\
-3 (x^2     -1)  +  2  \\
+g(x)  = x^2  - 10x +  24    \\
+g(x )   =   x^2  - 10x  + 25   - 25  + 24   \\
+g(x) =  (x^2 )  \\
 \end{array}
 
 $$
