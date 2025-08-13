@@ -34,9 +34,8 @@ $$
 
 $$ 
 \begin{array}{l}  \\
-\sqrt{  16x  +  20 }  =  x + 5   \\
-16x  +  20    =   x^2   + 10x +  25    \\
-x^2  - 6x  +5  = 0 \\
+(b  - 4)^2  =  24     \\
+b   = \pm  2\sqrt{  6 }  + 4 \\
 \left\{  \begin{array}{l} 
 x = 5  \\
 x =  1  
