@@ -13,9 +13,15 @@ $$
 \begin{array}{l}  \\
 g(x)  = 3x^2 - 6x      + 5    \\
 g(x )   =  3 \left( x^2 - 2x + 1 -1 \right) +  5   \\
-3\left( x - \frac{3}{2} \right)^2    - \frac{7}{4}   \\
-  \\
+3 (x^2     -1)  +  2  \\
+\end{array}
 
+$$
+
+
+$$
+\begin{array}{l}  \\
+\sqrt{  15x  +  21 }  =  x + 5  
 \end{array}
 
 $$
