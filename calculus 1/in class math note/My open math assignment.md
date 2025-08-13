@@ -12,7 +12,7 @@ learning score:
 $$
 \begin{array}{l}  \\
 g(x)  = 3x^2 - 6x      + 5    \\
-g(x )   =  3 \left( x^2 - 3x +  \frac{9}{4}  -\frac{9}{4} \right) +  5   \\
+g(x )   =  3 \left( x^2 - 2x + 1 -1 \right) +  5   \\
 3\left( x - \frac{3}{2} \right)^2    - \frac{7}{4}   \\
   \\
 
