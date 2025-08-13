@@ -25,7 +25,10 @@ $$
 15x +   21  =(x + 5)^2   \\
 15x + 21  =  x^2  +   10x  +  25   \\
 x^2  - 5x  + 4    =  0   \\
-\left{ \right.
+\left\{  \begin{array}{l} 
+x = 1  \\
+x =  4  
+\end{array} \right. 
 \end{array}
 
 $$
