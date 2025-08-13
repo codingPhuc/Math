@@ -34,8 +34,8 @@ $$
 
 $$ 
 \begin{array}{l}  \\
-(b  - 4)^2  =  24     \\
-b   = \pm  2\sqrt{  6 }  + 4 \\
+(w  + 10)^2  =  34     \\
+b   = \sqrt{  34 } \\
 \left\{  \begin{array}{l} 
 x = 5  \\
 x =  1  
