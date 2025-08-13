@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/algebra/Section 4.6  Transformations.md",
+                "file": "Paul Online note/algebra/Section 4.2  Parabolas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 4.6  Transformations"
+              "title": "Section 4.2  Parabolas"
             }
           },
           {
@@ -308,13 +308,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/algebra/Section 4.6  Transformations.md",
+                "file": "Paul Online note/algebra/Section 4.2  Parabolas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 4.6  Transformations"
+              "title": "Outline of Section 4.2  Parabolas"
             }
           }
         ],
@@ -342,6 +342,8 @@
   },
   "active": "9242df5253dc5c73",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 4.4 Hyperbolas.md",
+    "Paul Online note/algebra/Section 4.6  Transformations.md",
     "calculus 1/12 hours calculus courses/2.6.1 limit at infinity and Graphs.md",
     "calculus 1/in class math note/Mobile computing assessment.md",
     "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
@@ -372,8 +374,6 @@
     "calculus 1/12 hours calculus courses/Right Angle Trinometry.md",
     "calculus 1/12 hours calculus courses/Rational Functions and Graphs.md",
     "calculus 1/12 hours calculus courses/Rational Expressions.md",
-    "calculus 1/12 hours calculus courses/Lines Graphs and Equations.md",
-    "calculus 1/12 hours calculus courses/Limits using Algebraic Tricks.md",
     "picture/Pasted image 20250805145159.png",
     "picture/Pasted image 20250805110720.png",
     "picture/Pasted image 20250804172241.png",
