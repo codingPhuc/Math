@@ -12,7 +12,8 @@ learning score:
 $$
 \begin{array}{l}  \\
 g(x)  = 3x^2 - 6x +  15 - 15   + 5    \\
-g(x  ) =  3(x^2  - 3x +  5)
+g(x )   =  3 (x^2 - 3x  + 2 - 2  ) +  5   \\
+g(x  )   =  3(x^2 0 )
 \end{array}
 
 $$
