@@ -21,7 +21,11 @@ $$
 
 $$
 \begin{array}{l}  \\
-\sqrt{  15x  +  21 }  =  x + 5  
+\sqrt{  15x  +  21 }  =  x + 5   \\
+15x +   21  =(x + 5)^2   \\
+15x + 21  =  x^2  +   10x  +  25   \\
+x^2  - 5x  + 4    =  0   \\
+\left{ \right.
 \end{array}
 
 $$
