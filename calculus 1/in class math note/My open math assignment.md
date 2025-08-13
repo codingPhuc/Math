@@ -56,5 +56,5 @@ x =  + \sqrt{  34 }    -10
 \end{array} \right. 
 \end{array}
 $$$$
-\sqrt{  8x^2 }
+\sqrt[5]{  8x^2 }    =  ((2\sqrt{ 2 }x)^2 )^{1/5}  = 
 $$
