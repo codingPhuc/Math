@@ -45,15 +45,23 @@ $$
 solving for cos give :  
 $$
 \begin{array}{l} \\
-3t   =    \frac{\pi}{2}   +  2\pi n      \\
-3t =   \frac{3\pi}{2}   + 2\pi n      \\
-t  =  0.782   +  \frac{2\pi n}{3}  \\
-t  =  1.3123 +  \frac{2\pi n}{3}  
+6y   =    \frac{\pi}{2}   +  2\pi n      \\
+6y =   \frac{3\pi}{2}   + 2\pi n      \\
+y   =    \frac{\pi}{12}   +  \frac{\pi n}{3}      \\
+y =   \frac{\pi}{4}   + \frac{\pi n}{3}      \\
 \end{array}
 $$
 
+solving for  sin give : 
 
-
+$$
+\begin{array}{l} \\
+6y   =    \frac{\pi}{2}   +  2\pi n      \\
+6y =   \frac{3\pi}{2}   + 2\pi n      \\
+y   =    \frac{\pi}{12}   +  \frac{\pi n}{3}      \\
+y =   \frac{\pi}{4}   + \frac{\pi n}{3}      \\
+\end{array}
+$$
 
 
 
