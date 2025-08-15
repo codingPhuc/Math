@@ -45,7 +45,7 @@ $$
 
 if you have square of square root double check your answer
 
-given $y= x^2 - x + 6$ 
+given $y= x^2 - x - 6$ 
 1. find the x intercept  by plugging in 0 for y 
 2. find the y intercept by plugging in 0 for x 
 3. draw the chart by plugging in a range of x numbers resulting in y value then connect the point to draw the parabola 
@@ -73,10 +73,10 @@ given $y= x^2 - x + 6$
     % Text annotations  
     \fill (0,3) circle (2pt) node[above right] {$(0,3) $};
 
-
+\fill (0,3) circle (2pt) node[above right] {$(0,3) $};
     % Draw the parabola
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, {
-    (\x)^2 -\x +  6 });
+    \draw[thick, blue, domain=-2:3, smooth] plot (\x, {
+    (\x)^2 -\x -  6 });
  
  
 \end{tikzpicture}
