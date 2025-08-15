@@ -79,8 +79,13 @@ u  =  1 \\
 \end{array} 
  \right.   \\
 \left\{\begin{array}{l}
-u  =  -\frac{1}{4}   \\
-u  =  1 \\ 
+\sin\left( \frac{t}{3}   \right)  =  -\frac{1}{4}   \\
+\sin\left( \frac{t}{3}   \right)   =  1 \\ 
+\end{array} 
+ \right.  \\
+\left\{\begin{array}{l}
+6,0305,   \\
+\sin\left( \frac{t}{3}   \right)   =  1 \\ 
 \end{array} 
  \right. 
 \end{array}
