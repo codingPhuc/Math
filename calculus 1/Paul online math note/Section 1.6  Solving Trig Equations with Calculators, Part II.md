@@ -38,15 +38,15 @@ $$
  
 \left\{ \begin{array}{l}  
 \frac{\pi}{2}  , \frac{3\pi}{2} \\
-6.1004 ,  3.3243  
+6.1004 ,  3.3244  
 \end{array}  \right.  \\
 \end{array}
 $$
-so the solution to the trig equation is  : 
+solving for cos give :  
 $$
 \begin{array}{l} \\
-3t   =    2.3461   +  2\pi n      \\
-3t =  3.937   + 2\pi n      \\
+3t   =    \frac{\pi}{2}   +  2\pi n      \\
+3t =   \frac{3\pi}{2}   + 2\pi n      \\
 t  =  0.782   +  \frac{2\pi n}{3}  \\
 t  =  1.3123 +  \frac{2\pi n}{3}  
 \end{array}
