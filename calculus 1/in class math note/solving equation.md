@@ -84,3 +84,4 @@ given $y= x^2 - x - 6$
 
 ``` 
 
+there are different type of notation when showing the result set notation and interval notation, Gita said that she like to used set notation example (-2,0) etc
