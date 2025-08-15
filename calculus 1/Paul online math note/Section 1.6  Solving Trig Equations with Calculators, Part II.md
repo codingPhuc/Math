@@ -102,3 +102,20 @@ t   =   \frac{3\pi}{2}   + 6\pi n  \\
 \end{array}
 $$
 
+
+
+$$
+\begin{array}{l} \\
+5x \tan(8x) = 3x   \\
+x(5 \tan(8x)  + 3)  =  0  \\
+
+\end{array}
+$$so the solution to the trig equation is  : 
+$$
+\begin{array}{l} \\
+2x - 1  =   2.2143    +  2\pi n      \\
+2x - 1  =   4.0688   +  2\pi n       \\
+x  =   1.6712    +  \pi n      \\
+x  =   2.5344  +  \pi n      \\
+\end{array}
+$$
