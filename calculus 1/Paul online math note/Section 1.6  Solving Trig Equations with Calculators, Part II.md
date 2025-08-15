@@ -84,18 +84,31 @@ u  =  1 \\
 \end{array} 
  \right.  \\
 \left\{\begin{array}{l}
-6,0305, 3.3942  \\
+6.0305, 3.3942  \\
 \frac{\pi}{2} \\ 
 \end{array} 
  \right. 
 \end{array}
 $$
-so the solution to the trig equation is  : 
+solving for sin give :  
 $$
 \begin{array}{l} \\
-3t   =    2.3461   +  2\pi n      \\
-3t =  3.937   + 2\pi n      \\
-t  =  0.782   +  \frac{2\pi n}{3}  \\
-t  =  1.3123 +  \frac{2\pi n}{3}  
+6y   =    \frac{\pi}{2}   +  2\pi n      \\
+6y =   \frac{3\pi}{2}   + 2\pi n      \\
+y   =    \frac{\pi}{12}   +  \frac{\pi n}{3}      \\
+y =   \frac{\pi}{4}   + \frac{\pi n}{3}      \\
 \end{array}
 $$
+
+solving for  sin give : 
+
+$$
+\begin{array}{l} \\
+3y  =  6.1004     +  2\pi n      \\
+3y =     3.3244    + 2\pi n      \\
+y   =    2.034   +  \frac{2\pi n}{3}      \\
+y =   1.1081  + \frac{\pi n}{3}      \\
+\end{array}
+$$
+
+
