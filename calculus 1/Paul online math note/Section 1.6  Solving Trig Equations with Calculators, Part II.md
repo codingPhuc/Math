@@ -69,10 +69,10 @@ $$
 
 $$
 \begin{array}{l}  \\
-4\sin^2  \left( \frac{t}{3}  \right)  -  3\sin\left( \frac{t}{3}   \right) =  1   \in  [-2,5]   \\
-
- \implies  2.3461  \text{ this the first angle } \\
- - 2.3461 +  2\pi   =  3.937   \text{ this is the second angle}
+4\sin^2  \left( \frac{t}{3}  \right)  -  3\sin\left( \frac{t}{3}   \right) =  1     \\
+u  = \sin\left( \frac{t}{3} \right) \\
+4u^2   -  3u - 1 =  0  \\
+()
 \end{array}
 $$
 so the solution to the trig equation is  : 
