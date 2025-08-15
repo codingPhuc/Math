@@ -77,6 +77,11 @@ u  = \sin\left( \frac{t}{3} \right) \\
 u  =  -1   \\
 u  =  4 \\ 
 \end{array} 
+ \right.   \\
+\left\{\begin{array}{l}
+u  =  -1   \\
+u  =  4 \\ 
+\end{array} 
  \right. 
 \end{array}
 $$
