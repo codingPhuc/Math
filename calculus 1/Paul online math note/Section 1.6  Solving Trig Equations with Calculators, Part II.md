@@ -96,21 +96,9 @@ $$
 \frac{t}{3}  =   6.0305   +  2\pi n      \\
 \frac{t}{3} =   3.3942    + 2\pi n      \\
 \frac{t}{3}   =   \frac{\pi}{2}   +  \frac{\pi n}{3}      \\
-t  =   6.0305   +  6\pi n      \\
-t =   3.3942    + 2\pi n      \\
-t   =   \frac{\pi}{2}   +  \frac{\pi n}{3}      \\
+t  =   18.0915   +  6\pi n      \\
+t =   10.1829   +6\pi n     \\
+t   =   \frac{3\pi}{2}   + 6\pi n  \\
 \end{array}
 $$
-
-solving for  sin give : 
-
-$$
-\begin{array}{l} \\
-3y  =  6.1004     +  2\pi n      \\
-3y =     3.3244    + 2\pi n      \\
-y   =    2.034   +  \frac{2\pi n}{3}      \\
-y =   1.1081  + \frac{\pi n}{3}      \\
-\end{array}
-$$
-
 
