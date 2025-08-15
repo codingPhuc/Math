@@ -27,4 +27,43 @@ x  =   2.5344  +  \pi n      \\
 $$
 
 
+$$
+\begin{array}{l}  \\
 
+ \implies  2.3461  \text{ this the first angle } \\
+ - 2.3461 +  2\pi   =  3.937   \text{ this is the second angle}
+\end{array}
+$$
+so the solution to the trig equation is  : 
+$$
+\begin{array}{l} \\
+3t   =    2.3461   +  2\pi n      \\
+3t =  3.937   + 2\pi n      \\
+t  =  0.782   +  \frac{2\pi n}{3}  \\
+t  =  1.3123 +  \frac{2\pi n}{3}  
+\end{array}
+$$
+
+
+
+
+
+
+
+
+$$
+\begin{array}{l}  \\
+4\sin^2  \left( \frac{t}{3}  \right)  -  3\sin\left( \frac{t}{3}   \right) =  1   \in  [-2,5]  \\
+ \implies  2.3461  \text{ this the first angle } \\
+ - 2.3461 +  2\pi   =  3.937   \text{ this is the second angle}
+\end{array}
+$$
+so the solution to the trig equation is  : 
+$$
+\begin{array}{l} \\
+3t   =    2.3461   +  2\pi n      \\
+3t =  3.937   + 2\pi n      \\
+t  =  0.782   +  \frac{2\pi n}{3}  \\
+t  =  1.3123 +  \frac{2\pi n}{3}  
+\end{array}
+$$
