@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/in class math note/My open math assignment.md",
+                "file": "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My open math assignment"
+              "title": "Section 1.6  Solving Trig Equations with Calculators, Part II"
             }
           },
           {
@@ -307,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/in class math note/My open math assignment.md",
+                "file": "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My open math assignment"
+              "title": "Outline of Section 1.6  Solving Trig Equations with Calculators, Part II"
             }
           }
         ],
@@ -341,17 +341,17 @@
   },
   "active": "56951fb26ce0d245",
   "lastOpenFiles": [
+    "calculus 1/in class math note/My open math assignment.md",
     "book/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
     "book/Calculus_Volume_1_-_WEB_68M1Z5W.pdf.crdownload",
     "Paul Online note/algebra/Section 4.2  Parabolas.md",
-    "calculus 1/in class math note/My open math assignment.md",
     "calculus 1/Module Relation.md",
     "calculus 1/What need to be understand.md",
     "Paul Online note/algebra/Section 4.4 Hyperbolas.md",
     "Paul Online note/algebra/Section 4.6  Transformations.md",
     "calculus 1/12 hours calculus courses/2.6.1 limit at infinity and Graphs.md",
     "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
-    "calculus 1/Paul online math note/Untitled.md",
+    "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
     "calculus 1/in class math note",
     "calculus 1/Paul online math note/Section 1.5 Solving Trig Equations with Calculators, Part I.md",
     "calculus 1/Paul online math note/Section 1.1  Functions.md",
@@ -386,7 +386,6 @@
     "calculus 1",
     "Paul Online note/algebra",
     "Untitled",
-    "book/Precalculus Stewart 7th Edition.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
