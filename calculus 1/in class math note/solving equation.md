@@ -21,9 +21,16 @@ $$
 3x  - 1  = 2\sqrt{ 3 }   \\
 3x   - 1  =  -2 \sqrt{ 3 }
 \end{array}  \right.  \\
-\left\{ \begin{array}{l}  \\
+\left\{ \begin{array}{l}  
 x   = \frac{2\sqrt{ 3 }  + 1}{3}  \\
-x   =  -2 \sqrt{ 3 } +1
+x   = \frac{ -2 \sqrt{ 3 } +1}{3}
 \end{array}  \right. 
+\end{array}
+$$
+
+
+$$
+\begin{array}{l} \\
+2\sqrt{  x + 4 }  =  s
 \end{array}
 $$
