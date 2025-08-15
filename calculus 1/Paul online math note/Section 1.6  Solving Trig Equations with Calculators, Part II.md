@@ -72,7 +72,7 @@ $$
 4\sin^2  \left( \frac{t}{3}  \right)  -  3\sin\left( \frac{t}{3}   \right) =  1     \\
 u  = \sin\left( \frac{t}{3} \right) \\
 4u^2   -  3u - 1 =  0  \\
-(u + 1) (u - 4)    = 0  \\
+(u + 1) \left( u - \frac{1}{4} \right)    = 0  \\
 \left\{\begin{array}{l}
 u  =  -1   \\
 u  =  4 \\ 
