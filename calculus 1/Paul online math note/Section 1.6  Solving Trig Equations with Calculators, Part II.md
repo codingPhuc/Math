@@ -9,6 +9,10 @@ amount of time:
 learning score:
 ---
 
+$$
+\begin{array}{l} \\
+5 \cos(2x - 1 )  = -3   \\
+\cos(2x - 1)  =-\frac{3}{5}  \\
 
-
-
+\end{array}
+$$
