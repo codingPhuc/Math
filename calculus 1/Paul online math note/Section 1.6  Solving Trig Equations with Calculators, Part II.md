@@ -93,10 +93,12 @@ $$
 solving for sin give :  
 $$
 \begin{array}{l} \\
-6y   =    \frac{\pi}{2}   +  2\pi n      \\
-6y =   \frac{3\pi}{2}   + 2\pi n      \\
-y   =    \frac{\pi}{12}   +  \frac{\pi n}{3}      \\
-y =   \frac{\pi}{4}   + \frac{\pi n}{3}      \\
+\frac{t}{3}  =   6.0305   +  2\pi n      \\
+\frac{t}{3} =   3.3942    + 2\pi n      \\
+\frac{t}{3}   =   \frac{\pi}{2}   +  \frac{\pi n}{3}      \\
+t  =   6.0305   +  6\pi n      \\
+t =   3.3942    + 2\pi n      \\
+t   =   \frac{\pi}{2}   +  \frac{\pi n}{3}      \\
 \end{array}
 $$
 
