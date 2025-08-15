@@ -33,11 +33,11 @@ $$
 \cos(6y) ( 2 +  11\sin(3y))  =  0  \\
 \left\{ \begin{array}{l}  
 \cos(6y)  =  0   \\
-2 + 11\sin(3y)   =  0    
+\sin(3y)   =  -\frac{2}{11}  
 \end{array}  \right.  \\
  
 \left\{ \begin{array}{l}  
-\frac{\pi}{2}  , 3\pi \\
+\frac{\pi}{2}  , \frac{3\pi}{2} \\
 2 + 11\sin(3y)   =  0    
 \end{array}  \right.  \\
 \end{array}
@@ -74,3 +74,4 @@ $$
 t  =  0.782   +  \frac{2\pi n}{3}  \\
 t  =  1.3123 +  \frac{2\pi n}{3}  
 \end{array}
+$$
