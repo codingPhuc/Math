@@ -38,7 +38,7 @@ $$
  
 \left\{ \begin{array}{l}  
 \frac{\pi}{2}  , \frac{3\pi}{2} \\
-2 + 11\sin(3y)   =  0    
+6.1004 ,    
 \end{array}  \right.  \\
 \end{array}
 $$
