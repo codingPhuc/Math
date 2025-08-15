@@ -114,7 +114,7 @@ x  =   0  \\
 \end{array}  \right.   \\
 \left\{ \begin{array}{l}
 x  =   0  \\
-\tan(8x)  = - \frac{3}{5}  
+5.7428,
 \end{array}  \right. 
 \end{array}
 $$so the solution to the trig equation is  : 
