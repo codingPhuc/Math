@@ -38,7 +38,9 @@ x^2  -10x - 7  = 0   \\
 x =  5 + 4\sqrt{ 2 }   \\
 x  = 5  - 4\sqrt{ 2 }  \\
 \text{ however  plug in } 5-4\sqrt{ 2 }  \\
-2\sqrt{ 5 -  4\sqrt{ 2 }  + 4 } \neq 5 - 4\sqrt{ 2 } =3   \\
+2\sqrt{ 5 -  4\sqrt{ 2 }  + 4 } \neq 5 - 4\sqrt{ 2 } -3   \\
 \implies \text{ only got 1 answer } 5 + 4\sqrt{ 2 }
 \end{array}
 $$
+
+if you have square of square root double check your answer
