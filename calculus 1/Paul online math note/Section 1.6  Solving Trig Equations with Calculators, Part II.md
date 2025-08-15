@@ -29,11 +29,7 @@ $$
 
 $$
 \begin{array}{l}  \\
-2\cos (6y )  +  11\cos(6y)  \sin (3y )  =  0    \\
-\cos (6y ) (2  + 11 )  = -\sin ( 3y)   \\
-13\cos(6) +  13\cos(y)  = -\sin(3) -  \sin y 
- \implies  2.3461  \text{ this the first angle } \\
- - 2.3461 +  2\pi   =  3.937   \text{ this is the second angle}
+2\cos(6y) +  11\cos(6y)
 \end{array}
 $$
 so the solution to the trig equation is  : 
