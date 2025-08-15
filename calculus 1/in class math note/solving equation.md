@@ -47,4 +47,6 @@ if you have square of square root double check your answer
 
 given $y= x^2 - x + 6$ 
 1. find the x intercept  by plugging in 0 for y 
-2. find the y intercept by plugging in y 
+2. find the y intercept by plugging in 0 for x 
+3. draw the chart by plugging in a range of x numbers resulting in y value then connect the point to draw the parabola 
+
