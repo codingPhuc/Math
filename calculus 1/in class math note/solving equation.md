@@ -37,6 +37,7 @@ x^2  -10x - 7  = 0   \\
 \text{ used the quadratic equation}  \\
 x =  5 + 4\sqrt{ 2 }   \\
 x  = 5  - 4\sqrt{ 2 }  \\
-
+\text{ however }  \\
+2\sqrt{ 5 -  4\sqrt{ 2 }  + 4 } \neq   
 \end{array}
 $$
