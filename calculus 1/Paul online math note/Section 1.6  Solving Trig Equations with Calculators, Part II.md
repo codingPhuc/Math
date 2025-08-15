@@ -13,14 +13,15 @@ $$
 \begin{array}{l} \\
 5 \cos(2x - 1 )  = -3   \\
 \cos(2x - 1)  =-\frac{3}{5}  \\
-2.2143   \\
+2.2143  \\
+4.0688
 \end{array}
 $$so the solution to the trig equation is  : 
 $$
 \begin{array}{l} \\
 2x - 1  =   2.2143    +  2\pi n      \\
-3t =  3.937   + 2\pi n      \\
-t  =  0.782   +  \frac{2\pi n}{3}  \\
-t  =  1.3123 +  \frac{2\pi n}{3}  
+2x - 1  =   4.0688   +  2\pi n       \\
+2x  =   2.2143    +  2\pi n      \\
+2x - 1  =   4.0688   +  2\pi n      \\
 \end{array}
 $$
