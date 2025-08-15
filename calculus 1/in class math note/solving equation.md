@@ -44,3 +44,7 @@ x  = 5  - 4\sqrt{ 2 }  \\
 $$
 
 if you have square of square root double check your answer
+
+given $y= x^2 - x + 6$ 
+1. find the x intercept  by plugging in 0 for y 
+2. find the y intercept by plugging in y 
