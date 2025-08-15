@@ -38,7 +38,7 @@ $$
  
 \left\{ \begin{array}{l}  
 \frac{\pi}{2}  , \frac{3\pi}{2} \\
-6.1004 ,    
+6.1004 ,  3.3243  
 \end{array}  \right.  \\
 \end{array}
 $$
