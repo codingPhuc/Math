@@ -17,8 +17,13 @@ there are many way of solving equation either by :
 $$
 \begin{array}{l}  \\
 (3x -1)^2 = 12  \\
-\left\{ \begin{array}
-
+\left\{ \begin{array}{l}  \\
+3x  - 1  = 2\sqrt{ 3 }   \\
+3x   - 1  =  -2 \sqrt{ 3 }
+\end{array}  \right.  \\
+\left\{ \begin{array}{l}  \\
+x   = \frac{2\sqrt{ 3 }  + 1}{3}  \\
+x   =  -2 \sqrt{ 3 } +1
 \end{array}  \right. 
 \end{array}
 $$
