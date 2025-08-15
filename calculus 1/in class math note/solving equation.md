@@ -33,6 +33,10 @@ $$
 \begin{array}{l} \\
 2\sqrt{  x + 4 }  =  x - 3   \\
 4x + 16  = x^2  -6x +   9   \\
-x^2  -10x - 7  = 0  
+x^2  -10x - 7  = 0   \\
+\text{ used the quadratic equation}  \\
+x =  5 + 4\sqrt{ 2 }   \\
+x  = 5  - 4\sqrt{ 2 }  \\
+
 \end{array}
 $$
