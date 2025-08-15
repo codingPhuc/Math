@@ -108,7 +108,14 @@ $$
 \begin{array}{l} \\
 5x \tan(8x) = 3x   \\
 x(5 \tan(8x)  + 3)  =  0  \\
-
+\left\{ \begin{array}{l}
+x  =   0  \\
+\tan(8x)  = - \frac{3}{5}  
+\end{array}  \right.   \\
+\left\{ \begin{array}{l}
+x  =   0  \\
+\tan(8x)  = - \frac{3}{5}  
+\end{array}  \right. 
 \end{array}
 $$so the solution to the trig equation is  : 
 $$
