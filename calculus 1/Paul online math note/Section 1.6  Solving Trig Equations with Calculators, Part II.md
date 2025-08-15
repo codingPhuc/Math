@@ -31,10 +31,15 @@ $$
 \begin{array}{l}  \\
 2\cos(6y) +  11\cos(6y)\sin(3y) =   0  \\
 \cos(6y) ( 2 +  11\sin(3y))  =  0  \\
-\left\{ \begin{array}{l}  \\
+\left\{ \begin{array}{l}  
 \cos(6y)  =  0   \\
 2 + 11\sin(3y)   =  0    
-\end{array}  \right. 
+\end{array}  \right.  \\
+ 
+\left\{ \begin{array}{l}  
+  \\
+2 + 11\sin(3y)   =  0    
+\end{array}  \right.  \\
 \end{array}
 $$
 so the solution to the trig equation is  : 
