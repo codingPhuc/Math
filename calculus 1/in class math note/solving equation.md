@@ -9,4 +9,16 @@ amount of time:
 learning score:
 ---
 there are many way of solving equation either by : 
-1. factoring t
+1. factoring the equation 
+2. by quadratic formula 
+3. Square root method 
+
+
+$$
+\begin{array}{l}  \\
+(3x -1)^2 = 12  \\
+\left\{ \begin{array}
+
+\end{array}  \right. 
+\end{array}
+$$
