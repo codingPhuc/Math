@@ -126,3 +126,7 @@ x=0.4603+πn4 \\
 n=0,±1,±2,…
 \end{array}
 $$
+
+
+# #Practice_Exercise 
+
