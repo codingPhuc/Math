@@ -130,3 +130,41 @@ $$
 
 # #Practice_Exercise 
 
+
+
+
+$$
+\begin{array}{l}  \\
+4\sin^2  \left( \frac{t}{3}  \right)  -  3\sin\left( \frac{t}{3}   \right) =  1     \\
+u  = \sin\left( \frac{t}{3} \right) \\
+4u^2   -  3u - 1 =  0  \\
+(4u + 1) \left( u - 1 \right)    = 0  \\
+\left\{\begin{array}{l}
+u  =  -\frac{1}{4}   \\
+u  =  1 \\ 
+\end{array} 
+ \right.   \\
+\left\{\begin{array}{l}
+\sin\left( \frac{t}{3}   \right)  =  -\frac{1}{4}   \\
+\sin\left( \frac{t}{3}   \right)   =  1 \\ 
+\end{array} 
+ \right.  \\
+\left\{\begin{array}{l}
+6.0305, 3.3942  \\
+\frac{\pi}{2} \\ 
+\end{array} 
+ \right. 
+\end{array}
+$$
+solving for sin give :  
+$$
+\begin{array}{l} \\
+\frac{t}{3}  =   6.0305   +  2\pi n      \\
+\frac{t}{3} =   3.3942    + 2\pi n      \\
+\frac{t}{3}   =   \frac{\pi}{2}   +  \frac{\pi n}{3}      \\
+t  =   18.0915   +  6\pi n      \\
+t =   10.1829   +6\pi n     \\
+t   =   \frac{3\pi}{2}   + 6\pi n  \\
+\end{array}
+$$
+
