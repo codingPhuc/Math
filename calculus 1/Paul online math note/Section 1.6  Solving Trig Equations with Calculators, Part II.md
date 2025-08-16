@@ -144,10 +144,9 @@ $$
 solving for sin give :  
 $$
 \begin{array}{l} \\
-\frac{t}{3}  =   6.0305   +  2\pi n      \\
-\frac{t}{3} =   3.3942    + 2\pi n      \\
-\frac{t}{3}   =   \frac{\pi}{2}   +  \frac{\pi n}{3}      \\
-t  =   18.0915   +  6\pi n      \\
+12t  + 7  =   5.4875   +  2\pi n       \\
+12t +  7  =  3.9372    + 2\pi n      \\
+t  =   -1.5125   +  6\pi n      \\
 t =   10.1829   +6\pi n     \\
 t   =   \frac{3\pi}{2}   + 6\pi n  \\
 \end{array}
