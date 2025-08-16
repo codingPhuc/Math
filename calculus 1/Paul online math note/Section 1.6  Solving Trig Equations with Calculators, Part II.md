@@ -136,8 +136,9 @@ $$
 $$
 \begin{array}{l}  \\
 3 - 14\sin( 12t  +  7 ) =  13    \\
-\sin(12t  + 7)  =       \\
-u  = \sin\left( \frac{t}{3} \right) \\
+\sin(12t  + 7)  =  -\frac{5}{7}   \\
+5.4875  \\
+\\
 4u^2   -  3u - 1 =  0  \\
 (4u + 1) \left( u - 1 \right)    = 0  \\
 \left\{\begin{array}{l}
