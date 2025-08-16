@@ -146,9 +146,8 @@ $$
 \begin{array}{l} \\
 12t  + 7  =   5.4875   +  2\pi n       \\
 12t +  7  =  3.9372    + 2\pi n      \\
-t  =  3.9372  +  6\pi n      \\
-t =    +6\pi n     \\
-t   =   \frac{3\pi}{2}   + 6\pi n  \\
+t  =  -0.1261   +  \frac{\pi n}{6}      \\
+t =   -0.2552  +  \frac{\pi n}{6}     \\
 \end{array}
 $$
 
