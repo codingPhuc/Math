@@ -8,3 +8,9 @@ Current date: "2025-08-17"
 amount of time: 
 learning score:
 ---
+$$
+\begin{array}{l} \\
+\log_{2}(16 ) = \log_{2}2^4   =  4     \\
+\log_{4} 1 
+\end{array}
+$$
