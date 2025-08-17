@@ -337,10 +337,15 @@ $$
 4y \sec(7y) =  -21y    \\
 4y \sec(7y) + 21y  =  0   \\
 y(4 \sec(7y) +   21 )     = 0  
-
+\\
 \left\{\begin{array}{l}  
 y  =  -3 \\
-4 \sec(7y)  = -6  \\
+\sec(7y)  = -\frac{21}{4}  \\
+\end{array} 
+ \right.   \\
+\left\{\begin{array}{l}  
+y  =  -3 \\
+\frac{1}{\cos(7y)}  = -\frac{21}{4}  \\
 \end{array} 
  \right.   \\
 \left\{\begin{array}{l}  
