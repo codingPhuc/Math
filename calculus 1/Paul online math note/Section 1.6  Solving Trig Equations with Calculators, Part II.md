@@ -182,11 +182,9 @@ $$
 
 $$
 \begin{array}{l}  \\
-4 \sin(x  + 2  )    -15\sin(x + 2) \ta()  \\
- \sec (4 -  9z)    =   8  \\
-\cos (4  - 9z)=   \frac{1}{8}   \\
-1.4455    \\
- 4.8377 
+4 \sin(x  + 2  )    -15\sin(x + 2) \tan(4x) = 0    \\
+\sin(x + 2)(4  -15 \tan(4x)   )   =   8  \\
+\left\{  \right\} 
 \end{array}
 $$
 solving for sin give :  
