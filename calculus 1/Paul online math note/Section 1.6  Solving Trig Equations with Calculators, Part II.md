@@ -302,8 +302,8 @@ $$
 \end{array} 
  \right.   \\
 \left\{\begin{array}{l}  
-0 , \pi   \\
-1.4274  ,  4.8558 \\
+5.0341, 1.8925\\
+1.3258, \\
 \end{array} 
  \right.  
 \end{array}
