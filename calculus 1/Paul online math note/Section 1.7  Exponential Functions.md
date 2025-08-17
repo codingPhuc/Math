@@ -18,7 +18,7 @@ learning score:
 
 ### #human_explaination 
 
-
+The restriction of the base fee of exponential function is that in order for work to base speed should not be equalized to zero 1 and it should be greater greater than zero Most of the times they could do through the fact that if it kick below zero it can be soaking a compass numbers based on the exponent and if it's like a 1 or zero then it will be a constant function which is not good for like drawing deep powerful
 ### #ai_explaination 
 
 
@@ -53,6 +53,11 @@ Let's move on to the next one.
 
 
 ## **Question 2:** Based on the properties discussed in the sources, what is the range of an exponential function (f\left( x \right) = {b^x})?
+
+### #human_explaination 
+The range of the exponential function cannot be a negative number and it will vary between like greater than zero to Infinity
+
+### #ai_explaination 
 
 That's an **excellent** answer! You've perfectly captured the essence of the range of an exponential function.
 
