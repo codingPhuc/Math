@@ -171,7 +171,30 @@ $$
 \begin{array}{l} \\
 4 -  9z =   1.4455   +  2\pi n       \\
 4 -  9z  =   4.8377     + 2\pi n      \\
-t  = 0.2838  +  \frac{\pi n}{6}      \\
-t =   -0.0931 +  \frac{\pi n}{6}     \\
+t  = 0.2838  +  \frac{2\pi n}{9}   \\
+t =  - 0.0931 +  \frac{2\pi n}{9}     \\
+\end{array}
+$$ 
+
+
+
+
+
+$$
+\begin{array}{l}  \\
+4 \sin(x  + 2  )    -15\sin(x + 2) \ta()  \\
+ \sec (4 -  9z)    =   8  \\
+\cos (4  - 9z)=   \frac{1}{8}   \\
+1.4455    \\
+ 4.8377 
+\end{array}
+$$
+solving for sin give :  
+$$
+\begin{array}{l} \\
+4 -  9z =   1.4455   +  2\pi n       \\
+4 -  9z  =   4.8377     + 2\pi n      \\
+t  = 0.2838  +  \frac{2\pi n}{9}   \\
+t =  - 0.0931 +  \frac{2\pi n}{9}     \\
 \end{array}
 $$ 
