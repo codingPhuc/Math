@@ -65,3 +65,12 @@ $$
 
 ## properties that are useful in the manipulation of logarithms. 
 
+
+$$
+\frac{\log_{3}(9x^4)}{\sqrt{ y }}  = \log_{3}()
+$$
+
+
+$$
+
+$$
