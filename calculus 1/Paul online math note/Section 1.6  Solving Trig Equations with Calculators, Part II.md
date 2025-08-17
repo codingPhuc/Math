@@ -266,12 +266,16 @@ $$
 \begin{array}{l}  \\
 7\cos(3x )^2  - \cos(3x)   = 0  \\
 \cos(3x)( 7\cos(3x) - 1  )   =   0 \\
-\left\{ \cos(3x)  =  0  \\
+\left\{\begin{array}{l}  
+ \cos(3x)  =  0  \\
 \cos(3x)   =  \frac{1}{7}  \\
- \right.    \\
-\left\{ \cos(3x)  =  0  \\
+\end{array} 
+ \right.   \\
+\left\{\begin{array}{l}  
+0 , \pi   \\
 \cos(3x)   =  \frac{1}{7}  \\
- \right.    
+\end{array} 
+ \right.  
 \end{array}
 $$
  solve for sin :
