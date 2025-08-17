@@ -296,8 +296,8 @@ $$
 
 $$
 \begin{array}{l}  \\
-\tan\left( \frac{w}{4} \right)^2     = 0  \\
-\cos(3x)( 7\cos(3x) - 1  )   =   0 \\
+\tan\left( \frac{w}{4} \right)^2     =  \tan\left( \frac{w}{4}  \right)   +12   \\
+\tan\left( \frac{w}{4} \right)^2     =  \tan\left( \frac{w}{4}  \right)   +12  \\
 \left\{\begin{array}{l}  
  \cos(3x)  =  0  \\
 \cos(3x)   =  \frac{1}{7}  \\
