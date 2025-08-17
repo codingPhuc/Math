@@ -43,7 +43,14 @@ $$
 
 $$
 \begin{array}{l} \\
-\ln \sqrt[3]{ e }   = e  
+\ln \sqrt[3]{ e }   =   \ln (e)^{1/3}    = \frac{1}{3} 
 \end{array}
 $$
+$$
+\log 1000  = \log 10^3    = 3   
+$$
 
+$$
+\log_{1}6
+$$
+  
