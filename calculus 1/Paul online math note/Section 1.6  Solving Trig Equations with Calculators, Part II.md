@@ -393,7 +393,7 @@ $$
 
 
 
- solve for cos :
+ solve for tan :
   $$
 \begin{array}{l} \\
 \frac{6t}{11} = 4.9098  +          2\pi n          \\
