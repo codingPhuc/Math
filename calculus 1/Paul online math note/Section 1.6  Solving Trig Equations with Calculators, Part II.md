@@ -206,9 +206,9 @@ x  =    2\pi    -  2    + 2\pi n      \\
 $$ solve for sin : 
 $$
 \begin{array}{l} \\
-4 -  9z =   1.4455   +  2\pi n       \\
-4 -  9z  =   4.8377     + 2\pi n      \\
-t  = 0.2838  +  \frac{2\pi n}{9}   \\
-t =  - 0.0931 +  \frac{2\pi n}{9}     \\
+4x =    0.2606   +  2\pi n  \\
+4x =  3.4022     +  2\pi n     \\
+4x =    0.   +  2\pi n  \\
+4x =  3.4022     +  2\pi n     \\
 \end{array}
 $$
