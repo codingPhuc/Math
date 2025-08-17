@@ -294,10 +294,11 @@ $$
 $$
 \begin{array}{l}  \\
 \tan\left( \frac{w}{4} \right)^2     =  \tan\left( \frac{w}{4}  \right)   +12   \\
-\tan\left( \frac{w}{4} \right)^2    - \tan\left( \frac{w}{4}  \right)  -12 =   0 \\
+\tan\left( \frac{w}{4} \right)^2    - \tan\left( \frac{w}{4}  \right)  -12 =   0     \\
+( \tan\left( \frac{w}{4}  \right)  -   4 )(\tan\left( \frac{w}{4}  \right) +  4 ) =   0\\
 \left\{\begin{array}{l}  
-\tan\left( \frac{w}{4}  \right) =  0  \\
-\tan\left( \frac{w}{4}  \right)   =  \frac{1}{7}  \\
+\tan\left( \frac{w}{4}  \right) =  -3 \\
+\tan\left( \frac{w}{4}  \right)   =  4  \\
 \end{array} 
  \right.   \\
 \left\{\begin{array}{l}  
