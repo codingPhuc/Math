@@ -184,7 +184,11 @@ $$
 \begin{array}{l}  \\
 4 \sin(x  + 2  )    -15\sin(x + 2) \tan(4x) = 0    \\
 \sin(x + 2)(4  -15 \tan(4x)   )   =   8  \\
-\left\{  \right\} 
+\left\{  \begin{array}{l}
+\sin(x + 2)=    0  \\
+\tan(4x)   =  \frac{4}{15}
+\end{array}
+  \right. 
 \end{array}
 $$
 solving for sin give :  
