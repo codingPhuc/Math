@@ -303,20 +303,21 @@ $$
  \right.   \\
 \left\{\begin{array}{l}  
 5.0341, 1.8925\\
-1.3258, \\
+1.3258, 4.4674\\
 \end{array} 
  \right.  
 \end{array}
 $$
 
 
+
  solve for cos :
   $$
 \begin{array}{l} \\
-3x   =     \pi      +  2\pi n       \\
-3x   =        2\pi n       \\
-3x =   1.4274    +  2\pi n  \\
-3x =  4.8558      +  2\pi n     \\
+\frac{w}{4}  =     \pi      +  2\pi n       \\
+\frac{w}{4}   =        2\pi n       \\
+\frac{w}{4}  =   1.4274    +  2\pi n  \\
+\frac{w}{4}  =  4.8558      +  2\pi n     \\
 x   =     \frac{\pi}{3}      +  \frac{2\pi n}{3}       \\
 x   =       +  \frac{2\pi n}{3}         \\
 x =  0.4758   +  \frac{2\pi n}{3}    \\
