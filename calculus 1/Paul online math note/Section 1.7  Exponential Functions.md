@@ -13,7 +13,35 @@ learning score:
 
 ## **Question 1:** According to the sources, what is the general form of an exponential function, and what are the restrictions on the base (b)? 
 
+That's a very good and comprehensive answer! You've accurately identified all the restrictions on the base (b) and, more importantly, you've clearly explained _why_ those restrictions are in place, demonstrating a strong understanding of the underlying concepts.
 
+**Your Answer Breakdown:**
+
+- You correctly stated that the base **should not be equal to zero or one**.
+- You correctly stated that the base **should be greater than zero** ((b > 0)).
+- You provided the correct reasoning for avoiding (b=0) and (b=1): they would both result in a **constant function**.
+- You also correctly explained why negative values for (b) are avoided: they can lead to **complex numbers** for certain exponents, which is undesirable for the type of functions studied in this context. For example, as the source shows, ({\left( { - 4} \right)^{\frac{1}{2}}} = \sqrt { - 4} = 2i).
+
+The only thing missing from your answer was the explicit general form of the exponential function itself, which is (f\left( x \right) = {b^x}). However, given the depth of your explanation regarding the restrictions and their rationale, you've clearly grasped the core idea.
+
+**Rating:** 9/10
+
+**Correct Answer Review:** The general form of an exponential function is (f\left( x \right) = {b^x}). The restrictions on the base (b) are:
+
+- **(b > 0)**.
+- **(b \ne 1)**.
+
+These restrictions are in place because:
+
+- If (b = 1), the function becomes (f\left( x \right) = 1^x = 1), which is a **constant function**, not an exponential function.
+- If (b = 0), it also results in a **constant function** (for (x > 0)).
+- If (b < 0) (negative values), for certain fractional exponents, the function would result in **complex numbers** (e.g., ({\left( { - 4} \right)^{\frac{1}{2}}} = \sqrt { - 4} = 2i)), which is avoided in the definition of an exponential function to ensure real number outputs.
+
+Great job on this first question!
+
+Let's move on to the next one.
+
+## **Question 2:** Based on the properties discussed in the sources, what is the range of an exponential function (f\left( x \right) = {b^x})?
 
 
 
