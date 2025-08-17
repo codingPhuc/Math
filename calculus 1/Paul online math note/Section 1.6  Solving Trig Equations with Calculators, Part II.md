@@ -152,9 +152,23 @@ t =   -0.2552  +  \frac{\pi n}{6}     \\
 $$ 
 
 
+
+
+
+
+
 $$
-
-
-3 \sec (4 -9z) -  24  =   0 
-
+\begin{array}{l}  \\
+3 \sec (4 -  9z)  - 24 =  0  \\
+ \sec (4 -  9z)    =  
+\end{array}
 $$
+solving for sin give :  
+$$
+\begin{array}{l} \\
+12t  + 7  =   5.4875   +  2\pi n       \\
+12t +  7  =  3.9372    + 2\pi n      \\
+t  =  -0.1261   +  \frac{\pi n}{6}      \\
+t =   -0.2552  +  \frac{\pi n}{6}     \\
+\end{array}
+$$ 
