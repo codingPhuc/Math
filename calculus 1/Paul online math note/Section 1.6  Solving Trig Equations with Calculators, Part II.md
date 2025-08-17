@@ -225,7 +225,7 @@ $$
 
 $$
 \begin{array}{l}  \\
-3  \cos\left( \frac{3y}{7} \right) 
+3  \cos\left( \frac{3y}{7} \right) \sin\left( \frac{y}{2} \right)
 \left\{  \begin{array}{l}
 \sin(x + 2)=    0  \\
 \tan(4x)   =  \frac{4}{15}
