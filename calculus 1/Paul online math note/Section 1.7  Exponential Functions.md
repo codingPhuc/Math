@@ -11,20 +11,11 @@ learning score:
 
 
 ## _look at a couple of exponential functions._  
-sketch the graph of$$
+sketch the graph of$f(x) =2^x$ and $g(x)=\left( \frac{1}{2} \right)^x$ 
 
 $$
 \begin{array}{l}  \\
-(2t - 3) \tan\left( \frac{6t}{11} \right)   =  15 - 10t     \\
-(2t - 3) \tan\left( \frac{6t}{11} \right)  -15 +  10t  = 0    \\
- (2t - 3) \tan\left( \frac{6t}{11} \right) +   5(2t  - 3   )  = 0   \\
- (2t  - 3   ) \left( \tan\left( \frac{6t}{11} \right) + 5   \right)\\ 
-\left\{\begin{array}{l}  
-4.9098,1.7682 \\
-t  = \frac{3}{2}  \\
-\end{array} 
- \right.   \\
-
+f(x)  = 
 \end{array}
 $$
 
