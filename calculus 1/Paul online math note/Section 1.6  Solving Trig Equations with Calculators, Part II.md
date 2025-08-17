@@ -161,7 +161,9 @@ $$
 \begin{array}{l}  \\
 3 \sec (4 -  9z)  - 24 =  0  \\
  \sec (4 -  9z)    =   8  \\
-\frac{1}{}
+\cos (4  - 9z)=   \frac{1}{8}   \\
+1.4455    \\
+ 
 \end{array}
 $$
 solving for sin give :  
