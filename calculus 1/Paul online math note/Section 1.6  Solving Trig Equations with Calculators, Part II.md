@@ -379,9 +379,7 @@ $$
 $$
 \begin{array}{l}  \\
 (2t - 3) \tan\left( \frac{6t}{11} \right)   =  15 - 10t     \\
-4y \sec(7y) + 21y  =  0   \\
-y(4 \sec(7y) +   21 )     = 0  
-\\
+ \tan\left( \frac{6t}{11} \right)   =  \frac{15 - 10t}{2t - 3}    \\
 \left\{\begin{array}{l}  
 y  =  0 \\
 \sec(7y)  = -\frac{21}{4}  \\
