@@ -67,7 +67,7 @@ $$
 
 
 $$
-\log_{3}\left( \frac{9x^4}{\sqrt{ y }} \right)  = \log_{3}(9x^4) -  \sqrt{  }
+\log_{3}\left( \frac{9x^4}{\sqrt{ y }} \right)  = \log_{3}(9x^4) -  \sqrt{ y }  =  \log_{3}(9) +   \log_{3}x^4  -  \sqrt{ y }   =  2 +  4  \log_{3}x^4   - \sqrt{ y  }
 $$
 
 
