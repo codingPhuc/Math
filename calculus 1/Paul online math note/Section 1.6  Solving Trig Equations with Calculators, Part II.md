@@ -381,15 +381,15 @@ $$
 (2t - 3) \tan\left( \frac{6t}{11} \right)   =  15 - 10t     \\
 (2t - 3) \tan\left( \frac{6t}{11} \right)  -15 +  10t  = 0    \\
  (2t - 3) \tan\left( \frac{6t}{11} \right) +   5(2t  - 3   )  = 0   \\
- (2t  - 3   ) (\tan\left( \frac{6t}{11} \right) + 5  )\\ 
+ (2t  - 3   ) \left( \tan\left( \frac{6t}{11} \right) + 5   \right)\\ 
 \left\{\begin{array}{l}  
-\tan\left( \frac{6t}{11} \right)  =  -5 \\
-\sec(7y)  = -\frac{21}{4}  \\
+4.9098 \\
+t  = \frac{3}{2}  \\
 \end{array} 
  \right.   \\
 \left\{\begin{array}{l}  
-y  =  0 \\
-\cos(7y)  = -\frac{4}{21}  \\
+4.9098 \\
+t  = \frac{3}{2}  \\
 \end{array} 
  \right.   \\
 \left\{\begin{array}{l}  
