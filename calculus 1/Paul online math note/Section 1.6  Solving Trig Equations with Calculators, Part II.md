@@ -188,6 +188,11 @@ $$
 \sin(x + 2)=    0  \\
 \tan(4x)   =  \frac{4}{15}
 \end{array}
+  \right.   \\
+\left\{  \begin{array}{l}
+2\pi  ,   \pi  \\
+0.2606 
+\end{array}
   \right. 
 \end{array}
 $$
