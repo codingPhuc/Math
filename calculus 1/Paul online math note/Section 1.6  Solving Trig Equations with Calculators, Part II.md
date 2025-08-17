@@ -412,3 +412,47 @@ $$
 
 
 
+
+
+
+
+
+
+
+
+
+
+$$
+\begin{array}{l}  \\
+(2t - 3) \tan\left( \frac{6t}{11} \right)   =  15 - 10t     \\
+ \tan\left( \frac{6t}{11} \right)   =  \frac{15 - 10t}{2t - 3}    \\
+\left\{\begin{array}{l}  
+y  =  0 \\
+\sec(7y)  = -\frac{21}{4}  \\
+\end{array} 
+ \right.   \\
+\left\{\begin{array}{l}  
+y  =  0 \\
+\cos(7y)  = -\frac{4}{21}  \\
+\end{array} 
+ \right.   \\
+\left\{\begin{array}{l}  
+0  \\
+1.7624  ,  4.6208
+\end{array} 
+ \right.  
+\end{array}
+$$
+
+
+
+ solve for cos :
+  $$
+\begin{array}{l} \\
+7y =  1.7624   +  2\pi n       \\
+7y   =     4.6208  +          2\pi n       \\
+y =  0.2518  +  \frac{2\pi n}{7}       \\
+y   =     0.6601   +           \frac{2\pi n}{7}        \\
+\end{array}
+$$
+
