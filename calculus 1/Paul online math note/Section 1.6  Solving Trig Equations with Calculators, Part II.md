@@ -383,20 +383,11 @@ $$
  (2t - 3) \tan\left( \frac{6t}{11} \right) +   5(2t  - 3   )  = 0   \\
  (2t  - 3   ) \left( \tan\left( \frac{6t}{11} \right) + 5   \right)\\ 
 \left\{\begin{array}{l}  
-4.9098 \\
+4.9098,1.7682 \\
 t  = \frac{3}{2}  \\
 \end{array} 
  \right.   \\
-\left\{\begin{array}{l}  
-4.9098 \\
-t  = \frac{3}{2}  \\
-\end{array} 
- \right.   \\
-\left\{\begin{array}{l}  
-0  \\
-1.7624  ,  4.6208
-\end{array} 
- \right.  
+
 \end{array}
 $$
 
@@ -405,8 +396,8 @@ $$
  solve for cos :
   $$
 \begin{array}{l} \\
-7y =  1.7624   +  2\pi n       \\
-7y   =     4.6208  +          2\pi n       \\
+\frac{6t}{11} =  1.7624   +  2\pi n       \\
+\frac{6t}{11}   =     4.6208  +          2\pi n       \\
 y =  0.2518  +  \frac{2\pi n}{7}       \\
 y   =     0.6601   +           \frac{2\pi n}{7}        \\
 \end{array}
