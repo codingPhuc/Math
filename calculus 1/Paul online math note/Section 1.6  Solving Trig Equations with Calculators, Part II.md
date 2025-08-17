@@ -261,3 +261,41 @@ $$
 
 
 
+
+$$
+\begin{array}{l}  \\
+7\cos(3x )
+\left\{  \begin{array}{l}
+\sin(x + 2)=    0  \\
+\tan(4x)   =  \frac{4}{15}
+\end{array}
+  \right.   \\
+\left\{  \begin{array}{l}
+0  ,   \pi  \\
+0.2606 ,3.4022 
+\end{array}
+  \right. 
+\end{array}
+$$
+ solve for sin :
+  $$
+\begin{array}{l} \\
+x  +  2 =     \pi      +  2\pi n       \\
+x  +  2  =    0     + 2\pi n      \\
+x  =     \pi    -  2   +  2\pi n       \\
+x  =    2\pi    -  2    + 2\pi n      \\
+\end{array}
+$$
+solving for tan  :
+$$
+\begin{array}{l} \\
+4x =    0.2606   +  2\pi n  \\
+4x =  3.4022     +  2\pi n     \\
+x =    0.0652   +  \frac{\pi n}{2}  \\
+x = 0.8506   +  \frac{\pi n}{2}     \\
+\end{array}
+$$
+
+
+
+
