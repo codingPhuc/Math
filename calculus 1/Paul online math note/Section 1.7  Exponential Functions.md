@@ -34,10 +34,10 @@ sketch the graph of$f(x) =2^x$ and $g(x)=\left( \frac{1}{2} \right)^x$
     }
 
     % Text annotations  
- \node[blue] at (3, 9) {$f(x) = 2^x$};
+ \node[blue] at (-3, 1) {$f(x) = 2^x$};
     \node[red] at (3, 1) {$f(x) = \left(\frac{1}{2}\right)^x = 2^{-x}$};
     % Draw the parabola
-    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {2^(\x)})  ;
+    \draw[thick, blue, domain=-2:2, smooth] plot (\x, {2^(\x)})  ;
     \draw[thick, red, domain=-2:4, smooth] plot (\x, {(1/2)^(\x)}) ;
 \end{tikzpicture}
 \end{document}
@@ -45,10 +45,3 @@ sketch the graph of$f(x) =2^x$ and $g(x)=\left( \frac{1}{2} \right)^x$
 
 ``` 
 
-
-
-
-
-properties of $f(x) =b^x$ 
-1. $f(0)=1$ the function will always take the value of 1 and x  = 0 
-2. 
