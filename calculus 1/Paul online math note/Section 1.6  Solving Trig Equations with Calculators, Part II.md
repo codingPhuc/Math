@@ -314,10 +314,10 @@ $$
  solve for cos :
   $$
 \begin{array}{l} \\
-\frac{w}{4}  =     \pi      +  2\pi n       \\
-\frac{w}{4}   =        2\pi n       \\
-\frac{w}{4}  =   1.4274    +  2\pi n  \\
-\frac{w}{4}  =  4.8558      +  2\pi n     \\
+\frac{w}{4}  =   5.0341 +  2\pi n       \\
+\frac{w}{4}   =    1.8925   +          2\pi n       \\
+\frac{w}{4}  =  1.3258 +  2\pi n  \\ 
+\frac{w}{4}  =  4.4674  +   2\pi n   \\
 x   =     \frac{\pi}{3}      +  \frac{2\pi n}{3}       \\
 x   =       +  \frac{2\pi n}{3}         \\
 x =  0.4758   +  \frac{2\pi n}{3}    \\
