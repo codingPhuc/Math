@@ -324,3 +324,47 @@ w  =  5.3032  +  8\pi n  \\
 w  =  17.8696  +  8\pi n   \\
 \end{array}
 $$
+
+
+
+
+
+
+
+
+$$
+\begin{array}{l}  \\
+4y \sec(7y) =  -21y    \\
+4y \sec(7y) + -21y   \\ =  
+( \tan\left( \frac{w}{4}  \right)  -   4 )(\tan\left( \frac{w}{4}  \right) +  3 ) =   0\\
+\left\{\begin{array}{l}  
+\tan\left( \frac{w}{4}  \right) =  -3 \\
+\tan\left( \frac{w}{4}  \right)   =  4  \\
+\end{array} 
+ \right.   \\
+\left\{\begin{array}{l}  
+5.0341, 1.8925\\
+1.3258, 4.4674\\
+\end{array} 
+ \right.  
+\end{array}
+$$
+
+
+
+ solve for cos :
+  $$
+\begin{array}{l} \\
+\frac{w}{4}  =   5.0341 +  2\pi n       \\
+\frac{w}{4}   =    1.8925   +          2\pi n       \\
+\frac{w}{4}  =  1.3258 +  2\pi n  \\ 
+\frac{w}{4}  =  4.4674  +   2\pi n   \\
+w  =  20.1364  +  8\pi n       \\
+w   =7.5704    +         8\pi n     \\
+w  =  5.3032  +  8\pi n  \\ 
+w  =  17.8696  +  8\pi n   \\
+\end{array}
+$$
+
+
+
