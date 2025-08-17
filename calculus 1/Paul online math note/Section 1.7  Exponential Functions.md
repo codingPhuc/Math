@@ -72,8 +72,8 @@ sketch the graph of $h(t)=1- 5e^{1- \frac{t}{2}}$
  \node[blue] at (-3, 1) {$f(x) = 2^x$};
     \node[red] at (3, 1) {$f(x) = \left(\frac{1}{2}\right)^x = 2^{-x}$};
     % Draw the parabola
-    \draw[thick, blue, domain=-2:2, smooth] plot (\x, {2^(\x)})  ;
-    \draw[thick, red, domain=-2:4, smooth] plot (\x, {(1/2)^(\x)}) ;
+
+    \draw[thick, red, domain=0:4, smooth] plot (\x, {1 -  5 *e^(1-(\x)/2)}) ;
 \end{tikzpicture}
 \end{document}
 
