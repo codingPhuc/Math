@@ -198,7 +198,10 @@ $$
 $$
 solving for tan  :  $$
 \begin{array}{l} \\
-
+4 -  9z =   1.4455   +  2\pi n       \\
+4 -  9z  =   4.8377     + 2\pi n      \\
+t  = 0.2838  +  \frac{2\pi n}{9}   \\
+t =  - 0.0931 +  \frac{2\pi n}{9}     \\
 \end{array}
 $$ solve for sin : 
 $$
