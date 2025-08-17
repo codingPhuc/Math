@@ -11,6 +11,15 @@ learning score:
 
 # #definition 
 
+## **Question 1:** According to the sources, what is the general form of an exponential function, and what are the restrictions on the base (b)? 
+
+
+
+
+
+
+
+
 
 
 ## _look at a couple of exponential functions._  
