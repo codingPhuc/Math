@@ -1,5 +1,11 @@
 [
+  "obsidian-tikzjax",
+  "templater-obsidian",
+  "mathlinks",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-heading-shifter"
+  "obsidian-image-toolkit",
+  "obsidian-latex-suite",
+  "obsidian-heading-shifter",
+  "pdf-plus"
 ]
