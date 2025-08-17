@@ -364,11 +364,51 @@ $$
 7y =  1.7624   +  2\pi n       \\
 7y   =     4.6208  +          2\pi n       \\
 y =  0.2518  +  \frac{2\pi n}{7}       \\
-y   =     4.6208  +           \frac{2\pi n}{7}        \\
-w  =  20.1364  +  8\pi n       \\
-w   =7.5704    +         8\pi n     \\
-w  =  5.3032  +  8\pi n  \\ 
-w  =  17.8696  +  8\pi n   \\
+y   =     0.6601   +           \frac{2\pi n}{7}        \\
+\end{array}
+$$
+
+
+
+
+
+
+
+
+
+$$
+\begin{array}{l}  \\
+(2t - 3) \tan\left( \frac{6t}{11} \right)   =  15 - 10t     \\
+4y \sec(7y) + 21y  =  0   \\
+y(4 \sec(7y) +   21 )     = 0  
+\\
+\left\{\begin{array}{l}  
+y  =  0 \\
+\sec(7y)  = -\frac{21}{4}  \\
+\end{array} 
+ \right.   \\
+\left\{\begin{array}{l}  
+y  =  0 \\
+\cos(7y)  = -\frac{4}{21}  \\
+\end{array} 
+ \right.   \\
+\left\{\begin{array}{l}  
+0  \\
+1.7624  ,  4.6208
+\end{array} 
+ \right.  
+\end{array}
+$$
+
+
+
+ solve for cos :
+  $$
+\begin{array}{l} \\
+7y =  1.7624   +  2\pi n       \\
+7y   =     4.6208  +          2\pi n       \\
+y =  0.2518  +  \frac{2\pi n}{7}       \\
+y   =     0.6601   +           \frac{2\pi n}{7}        \\
 \end{array}
 $$
 
