@@ -191,7 +191,7 @@ $$
   \right.   \\
 \left\{  \begin{array}{l}
 2\pi  ,   \pi  \\
-0.2606 
+0.2606 ,3.4022 
 \end{array}
   \right. 
 \end{array}
