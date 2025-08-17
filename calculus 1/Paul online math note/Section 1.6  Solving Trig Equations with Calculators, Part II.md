@@ -345,12 +345,11 @@ y  =  -3 \\
  \right.   \\
 \left\{\begin{array}{l}  
 y  =  -3 \\
-\frac{1}{\cos(7y)}  = -\frac{21}{4}  \\
+\cos(7y)  = -\frac{4}{21}  \\
 \end{array} 
  \right.   \\
 \left\{\begin{array}{l}  
-5.0341, 1.8925\\
-1.3258, 4.4674\\
+
 \end{array} 
  \right.  
 \end{array}
