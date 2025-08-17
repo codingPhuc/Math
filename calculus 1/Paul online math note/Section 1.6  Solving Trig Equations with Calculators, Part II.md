@@ -311,6 +311,7 @@ $$
 \end{array}
 $$
 
+
  solve for cos :
   $$
 \begin{array}{l} \\
