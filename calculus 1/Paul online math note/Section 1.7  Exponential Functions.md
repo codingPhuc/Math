@@ -34,8 +34,8 @@ sketch the graph of$f(x) =2^x$ and $g(x)=\left( \frac{1}{2} \right)^x$
     }
 
     % Text annotations  
-
-
+ \node[blue] at (3, 9) {$f(x) = 2^x$};
+    \node[red] at (3, 1) {$f(x) = \left(\frac{1}{2}\right)^x = 2^{-x}$};
     % Draw the parabola
     \draw[thick, blue, domain=-2:4, smooth] plot (\x, {2^(\x)})  node[draw, inner sep=5pt, pos=1.5, anchor=north] {$f(x) =2^x$};
     \draw[thick, red, domain=-2:4, smooth] plot (\x, {(1/2)^(\x)}) node[draw, inner sep=5pt, pos=1.5, anchor=north] {$f(x) =2^x$};
