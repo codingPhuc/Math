@@ -13,11 +13,8 @@ learning score:
 ## _look at a couple of exponential functions._  
 sketch the graph of$f(x) =2^x$ and $g(x)=\left( \frac{1}{2} \right)^x$ 
 
-$$
-\begin{array}{l}  \\
-f(x)  = 
-\end{array}
-$$
+=
+
 
 
 

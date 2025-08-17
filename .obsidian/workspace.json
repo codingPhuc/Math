@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8aaf6d6b2c55de8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Section 1.6  Solving Trig Equations with Calculators, Part II"
-            }
-          },
-          {
             "id": "484e8598d1b88e37",
             "type": "leaf",
             "state": {
@@ -35,8 +21,27 @@
               "title": "Section 1.7  Exponential Functions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "752288a36839bbd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8aaf6d6b2c55de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paul Online note/algebra/Section 3.2  Lines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section 3.2  Lines"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,16 +194,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "484e8598d1b88e37",
+  "active": "c8aaf6d6b2c55de8",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 3.3  Circles.md",
+    "Paul Online note/algebra/Section 3.4  The Definition of a Function.md",
+    "Paul Online note/algebra/Section 4.2  Parabolas.md",
+    "Paul Online note/algebra/Section 4.4 Hyperbolas.md",
+    "Paul Online note/algebra/Section 4.1  Lines, Circles and Piecewise Functions.md",
+    "Paul Online note/algebra/Section 3.6  Combining Functions.md",
+    "Paul Online note/algebra/Section 3.7  Inverse Functions.md",
+    "Paul Online note/algebra/Section 4.7  Symmetry.md",
+    "Paul Online note/algebra/Section 4.8  Rational Functions.md",
+    "Paul Online note/algebra/Section 7.3  Augmented Matrices.md",
+    "Paul Online note/algebra/Section 7.2  Linear Systems with Three Variables.md",
+    "calculus 1/Module Relation.md",
+    "calculus 1/Paul online math note/Untitled.md",
+    "calculus 1/Paul online math note/Untitled 1.md",
+    "calculus 1/What need to be understand.md",
+    "calculus 1/Paul online math note/Section 1.3  Trig Functions.md",
+    "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
+    "calculus 1/Paul online math note/Section 1.5 Solving Trig Equations with Calculators, Part I.md",
+    "calculus 1/Paul online math note/Section 1.2  Inverse Functions.md",
+    "calculus 1/Paul online math note/Section 1.1  Functions.md",
     "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
     "calculus 1/Paul online math note/Section 1.7  Exponential Functions.md",
     "book/Book category.md",
-    "calculus 1/Paul online math note/Untitled.md",
-    "calculus 1/Paul online math note/Untitled 1.md",
     "Paul Online note/algebra/Section 5.2  Zeroes Roots of Polynomials.md",
-    "Paul Online note/algebra/Section 4.7  Symmetry.md",
-    "calculus 1/Module Relation.md",
     "preamble.sty",
     "New Text Document.txt"
   ]
