@@ -226,9 +226,14 @@ $$
 $$
 \begin{array}{l}   \\
 3\cos\left( \frac{3y}{7} \right)  \sin\left(  \frac{y}{2} \right) + 14 \cos\left( \frac{3y}{7} \right)   =   0 \\
-\cos\left( \frac{3y}{7} \right)( 3\sin\left(  \frac{y}{2} \right) + 14)  = 0      \\
-\left\{ \begin{array}{l} \\
-
+\cos\left( \frac{3y}{7} \right)\left(  3\sin\left(  \frac{y}{2} \right) + 14 \right)  = 0      \\
+\left\{ \begin{array}{l} 
+\cos\left( \frac{3y}{7} \right)  = 0    \\
+\sin\left(  \frac{y}{2} \right)   = -\frac{14}{3}
+\end{array} \right.   \\
+\left\{ \begin{array}{l} 
+  \\
+3\sin\left(  \frac{y}{2} \right) + 14   =  0  
 \end{array} \right. 
 \end{array}
 $$
