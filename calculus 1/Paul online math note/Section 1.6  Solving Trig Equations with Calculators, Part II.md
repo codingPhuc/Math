@@ -339,17 +339,18 @@ $$
 y(4 \sec(7y) +   21 )     = 0  
 \\
 \left\{\begin{array}{l}  
-y  =  -3 \\
+y  =  0 \\
 \sec(7y)  = -\frac{21}{4}  \\
 \end{array} 
  \right.   \\
 \left\{\begin{array}{l}  
-y  =  -3 \\
+y  =  0 \\
 \cos(7y)  = -\frac{4}{21}  \\
 \end{array} 
  \right.   \\
 \left\{\begin{array}{l}  
-
+0  \\
+1.7624  ,  
 \end{array} 
  \right.  
 \end{array}
