@@ -273,7 +273,7 @@ $$
  \right.   \\
 \left\{\begin{array}{l}  
 0 , \pi   \\
-\cos(3x)   =  \frac{1}{7}  \\
+1.4274  ,   \\
 \end{array} 
  \right.  
 \end{array}
