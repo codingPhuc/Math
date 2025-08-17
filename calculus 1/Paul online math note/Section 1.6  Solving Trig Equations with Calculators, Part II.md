@@ -163,14 +163,14 @@ $$
  \sec (4 -  9z)    =   8  \\
 \cos (4  - 9z)=   \frac{1}{8}   \\
 1.4455    \\
- 
+ 4.8377 
 \end{array}
 $$
 solving for sin give :  
 $$
 \begin{array}{l} \\
-12t  + 7  =   5.4875   +  2\pi n       \\
-12t +  7  =  3.9372    + 2\pi n      \\
+12t  + 7  =   1.4455   +  2\pi n       \\
+12t +  7  =   4.8377     + 2\pi n      \\
 t  =  -0.1261   +  \frac{\pi n}{6}      \\
 t =   -0.2552  +  \frac{\pi n}{6}     \\
 \end{array}
