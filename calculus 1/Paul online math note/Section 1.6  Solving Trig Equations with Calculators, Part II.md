@@ -380,9 +380,10 @@ $$
 \begin{array}{l}  \\
 (2t - 3) \tan\left( \frac{6t}{11} \right)   =  15 - 10t     \\
 (2t - 3) \tan\left( \frac{6t}{11} \right)  -15 +  10t  = 0    \\
- (2t - 3) \tan\left( \frac{6t}{11} \right)  - 5(  3  )  = 0   \\ 
+ (2t - 3) \tan\left( \frac{6t}{11} \right) +   5(2t  - 3   )  = 0   \\
+ (2t  - 3   ) (\tan\left( \frac{6t}{11} \right) + 5  )\\ 
 \left\{\begin{array}{l}  
-y  =  0 \\
+\tan\left( \frac{6t}{11} \right)  =  -5 \\
 \sec(7y)  = -\frac{21}{4}  \\
 \end{array} 
  \right.   \\
