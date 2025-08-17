@@ -335,11 +335,12 @@ $$
 $$
 \begin{array}{l}  \\
 4y \sec(7y) =  -21y    \\
-4y \sec(7y) + -21y   \\ =  
-( \tan\left( \frac{w}{4}  \right)  -   4 )(\tan\left( \frac{w}{4}  \right) +  3 ) =   0\\
+4y \sec(7y) + 21y  =  0   \\
+y(4 \sec(7y) +   21 )     = 0  
+
 \left\{\begin{array}{l}  
-\tan\left( \frac{w}{4}  \right) =  -3 \\
-\tan\left( \frac{w}{4}  \right)   =  4  \\
+y  =  -3 \\
+4 \sec(7y)  = -6  \\
 \end{array} 
  \right.   \\
 \left\{\begin{array}{l}  
