@@ -208,7 +208,7 @@ $$
 \begin{array}{l} \\
 4x =    0.2606   +  2\pi n  \\
 4x =  3.4022     +  2\pi n     \\
-4x =    0.   +  2\pi n  \\
-4x =  3.4022     +  2\pi n     \\
+x =    0.0652   +  \frac{\pi n}{2}  \\
+x = 0.8506   +  \frac{\pi n}{2}     \\
 \end{array}
 $$
