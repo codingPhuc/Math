@@ -8,6 +8,8 @@ Current date: "2025-08-17"
 amount of time: 
 learning score:
 ---
+# #definition 
+
 $$
 \begin{array}{l} \\
 \log_{2}(16 ) = \log_{2}2^4   =  4     \\
@@ -58,4 +60,8 @@ $$
 
 $$
 \log_{2} \sqrt[7]{32  } = \log_{2} 2^{5/7}   = \frac{5}{7}$$
+
+
+
+## properties that are useful in the manipulation of logarithms. 
 
