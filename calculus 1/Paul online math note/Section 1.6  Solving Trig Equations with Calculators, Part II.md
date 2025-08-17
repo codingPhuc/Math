@@ -226,8 +226,10 @@ $$
 $$
 \begin{array}{l}   \\
 3\cos\left( \frac{3y}{7} \right)  \sin\left(  \frac{y}{2} \right) + 14 \cos\left( \frac{3y}{7} \right)   =   0 \\
-\cos\left( \frac{3y}{7} \right)( 3\sin\left(  \frac{y}{2} \right) + 14)  = 0     \\
+\cos\left( \frac{3y}{7} \right)( 3\sin\left(  \frac{y}{2} \right) + 14)  = 0      \\
+\left\{ \begin{array}{l} \\
 
+\end{array} \right. 
 \end{array}
 $$
  solve for sin :
