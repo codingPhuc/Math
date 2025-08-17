@@ -190,7 +190,7 @@ $$
 \end{array}
   \right.   \\
 \left\{  \begin{array}{l}
-2\pi  ,   \pi  \\
+0  ,   \pi  \\
 0.2606 ,3.4022 
 \end{array}
   \right. 
@@ -200,7 +200,7 @@ $$
   $$
 \begin{array}{l} \\
 x  +  2 =     \pi      +  2\pi n       \\
-x  +  2  =    2\pi     + 2\pi n      \\
+x  +  2  =    0     + 2\pi n      \\
 x  =     \pi    -  2   +  2\pi n       \\
 x  =    2\pi    -  2    + 2\pi n      \\
 \end{array}
