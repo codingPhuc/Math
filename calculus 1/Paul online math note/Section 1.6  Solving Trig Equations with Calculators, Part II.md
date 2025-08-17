@@ -279,11 +279,13 @@ $$
   $$
 \begin{array}{l} \\
 3x   =     \pi      +  2\pi n       \\
-3x   =       + 2\pi n       \\
+3x   =        2\pi n       \\
 3x =   1.4274    +  2\pi n  \\
 3x =  4.8558      +  2\pi n     \\
-x  =     \pi    -  2   +  2\pi n       \\
-x  =    2\pi    -  2    + 2\pi n      \\
+x   =     \frac{\pi}{3}      +  \frac{2\pi n}{3}       \\
+x   =       +  \frac{2\pi n}{3}         \\
+3x =   1.4274    +  \frac{2\pi n}{3}    \\
+3x =  4.8558      +  \frac{2\pi n}{3}       \\
 \end{array}
 $$
 solving for tan  :
