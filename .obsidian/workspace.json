@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Module Relation.md",
+                "file": "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module Relation"
+              "title": "Section 1.6  Solving Trig Equations with Calculators, Part II"
             }
           }
         ]
@@ -170,12 +170,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c8aaf6d6b2c55de8",
   "lastOpenFiles": [
     "calculus 1/Paul online math note/Untitled.md",
+    "calculus 1/Paul online math note/Untitled 1.md",
+    "Paul Online note/algebra/Section 5.2  Zeroes Roots of Polynomials.md",
+    "Paul Online note/algebra/Section 4.7  Symmetry.md",
+    "calculus 1/Module Relation.md",
+    "preamble.sty",
+    "New Text Document.txt",
     "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md"
   ]
 }
