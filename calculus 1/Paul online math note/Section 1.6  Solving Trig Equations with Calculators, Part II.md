@@ -232,8 +232,8 @@ $$
 \sin\left(  \frac{y}{2} \right)   = -\frac{14}{3}
 \end{array} \right.   \\
 \left\{ \begin{array}{l} 
-  \\
-3\sin\left(  \frac{y}{2} \right) + 14   =  0  
+\frac{\pi}{2 }, \frac{3\pi}{2}     \\
+\sin\left(  \frac{y}{2} \right)   = -\frac{14}{3}
 \end{array} \right. 
 \end{array}
 $$
