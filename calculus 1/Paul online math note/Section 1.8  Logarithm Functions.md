@@ -21,6 +21,9 @@ $$
 
 $$
 \begin{array}{l} \\
-\log_{\frac{1}{6} } 36  =   \log_{\frac{1}{6} }  6^2  =  
+\log_{\frac{1}{6} } 36   \\
+ =   \log_{\frac{1}{6} }  6^2   \\
+=  \log_{\frac{1}{6} }  \left( \frac{1}{6} \right)^{-2}   \\
+ = -2
 \end{array}
 $$
