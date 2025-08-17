@@ -48,17 +48,7 @@ sketch the graph of$f(x) =2^x$ and $g(x)=\left( \frac{1}{2} \right)^x$
 
 
 
- solve for tan :
-  $$
-\begin{array}{l} \\
-\frac{6t}{11} = 4.9098  +          2\pi n          \\
-\frac{6t}{11}   =     1.7682    +          2\pi n       \\
-\frac{6t}{11} = 9.0013  +  \frac{11\pi}{3}      \\
-\frac{6t}{11} = 3.2415  +  \frac{11\pi}{3}           \\
-\end{array}
-$$
 
-
-
-
-
+properties of $f(x) =b^x$ 
+1. $f(0)=1$ the function will always take the value of 1 and x  = 0 
+2. 
