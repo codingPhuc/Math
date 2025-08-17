@@ -396,10 +396,10 @@ $$
  solve for cos :
   $$
 \begin{array}{l} \\
-\frac{6t}{11} =  1.7624   +  2\pi n       \\
-\frac{6t}{11}   =     4.6208  +          2\pi n       \\
-y =  0.2518  +  \frac{2\pi n}{7}       \\
-y   =     0.6601   +           \frac{2\pi n}{7}        \\
+\frac{6t}{11} = 4.9098  +  2\pi n       \\
+\frac{6t}{11}   =     1.7682    +          2\pi n       \\
+\frac{6t}{11} = 9.0013  +  2\pi n     \\
+\frac{6t}{11} = 4.9098  +  2\pi n        \\
 \end{array}
 $$
 
