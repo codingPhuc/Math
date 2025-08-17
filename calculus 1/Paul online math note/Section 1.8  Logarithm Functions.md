@@ -43,7 +43,7 @@ $$
 
 $$
 \begin{array}{l} \\
-\ln \sqrt[3]{ e }   =  
+\ln \sqrt[3]{ e }   = e  
 \end{array}
 $$
 
