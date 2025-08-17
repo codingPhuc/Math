@@ -46,8 +46,8 @@ sketch the graph of$f(x) =2^x$ and $g(x)=\left( \frac{1}{2} \right)^x$
     \fill (3,0) circle (2pt) node[above right] {$(3,0)$};
 
     % Draw the parabola
-    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {2^{\x}});
-    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {2^{\x}});
+    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {2^(\x)});
+    \draw[thick, blue, domain=-2:4, smooth] plot (\x, {(1/2)^(\x)});
 \end{tikzpicture}
 \end{document}
 
