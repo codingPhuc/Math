@@ -20,5 +20,7 @@ $$
 $$
 
 $$
-\log_{\frac{1}{6}} 
+\begin{array}{l} \\
+\log_{\frac{1}{6} } 36  =   \log_{\frac{1}{6} }  6^2  =  
+\end{array}
 $$
