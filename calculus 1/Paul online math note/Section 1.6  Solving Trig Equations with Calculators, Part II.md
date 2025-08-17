@@ -258,10 +258,6 @@ $$
 
 
 
-
-
-
-
 $$
 \begin{array}{l}  \\
 7\cos(3x )^2  - \cos(3x)   = 0  \\
@@ -279,11 +275,13 @@ $$
 \end{array}
 $$
 
- solve for sin :
+ solve for cos :
   $$
 \begin{array}{l} \\
-x  +  2 =     \pi      +  2\pi n       \\
-x  +  2  =    0     + 2\pi n      \\
+3x   =     \pi      +  2\pi n       \\
+3x   =       + 2\pi n       \\
+3x =   1.4274    +  2\pi n  \\
+3x =  4.8558      +  2\pi n     \\
 x  =     \pi    -  2   +  2\pi n       \\
 x  =    2\pi    -  2    + 2\pi n      \\
 \end{array}
@@ -291,8 +289,7 @@ $$
 solving for tan  :
 $$
 \begin{array}{l} \\
-4x =    0.2606   +  2\pi n  \\
-4x =  3.4022     +  2\pi n     \\
+
 x =    0.0652   +  \frac{\pi n}{2}  \\
 x = 0.8506   +  \frac{\pi n}{2}     \\
 \end{array}
