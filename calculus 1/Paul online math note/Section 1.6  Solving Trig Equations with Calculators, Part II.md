@@ -375,7 +375,7 @@ $$
 
 
 
-
+#fail 
 $$
 \begin{array}{l}  \\
 (2t - 3) \tan\left( \frac{6t}{11} \right)   =  15 - 10t     \\
