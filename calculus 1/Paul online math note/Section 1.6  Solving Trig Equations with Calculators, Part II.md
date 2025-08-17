@@ -160,7 +160,8 @@ $$
 $$
 \begin{array}{l}  \\
 3 \sec (4 -  9z)  - 24 =  0  \\
- \sec (4 -  9z)    =  
+ \sec (4 -  9z)    =   8  \\
+\frac{1}{}
 \end{array}
 $$
 solving for sin give :  
