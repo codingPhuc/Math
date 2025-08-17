@@ -273,11 +273,12 @@ $$
  \right.   \\
 \left\{\begin{array}{l}  
 0 , \pi   \\
-1.4274  ,   \\
+1.4274  ,  4.8558 \\
 \end{array} 
  \right.  
 \end{array}
 $$
+
  solve for sin :
   $$
 \begin{array}{l} \\
