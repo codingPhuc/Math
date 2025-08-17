@@ -224,13 +224,8 @@ $$
 
 
 $$
-\begin{array}{l}  \\
-3  \cos\left( \frac{3y}{7} \right) \sin\left( \frac{y}{2} \right)
-\left\{  \begin{array}{l}
-\sin(x + 2)=    0  \\
-\tan(4x)   =  \frac{4}{15}
-\end{array}
-  \right.   \\
+\begin{array}{l}   \\
+3\cos\left( \frac{3y}{7} \right)  \sin\left(  \frac{y}{2} \right) + 14 \cos\left( \frac{3y}{7} \right)   =   0 
 \left\{  \begin{array}{l}
 0  ,   \pi  \\
 0.2606 ,3.4022 
