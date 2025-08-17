@@ -9,6 +9,9 @@ amount of time:
 learning score:
 ---
 
+# #definition 
+
+
 
 ## _look at a couple of exponential functions._  
 sketch the graph of$f(x) =2^x$ and $g(x)=\left( \frac{1}{2} \right)^x$ 
@@ -69,8 +72,8 @@ sketch the graph of $h(t)=1- 5e^{1- \frac{t}{2}}$
     }
 
     % Text annotations  
- \node[blue] at (-3, 1) {$f(x) = 2^x$};
-    \node[red] at (3, 1) {$f(x) = \left(\frac{1}{2}\right)^x = 2^{-x}$};
+
+    \node[red] at (3, 1) {$h(t)=1- 5e^{1- \frac{t}{2}}$};
     % Draw the parabola
 
     \draw[thick, red, domain=0:4, smooth] plot (\x, {1 -  5 *e^(1-(\x)/2)}) ;
