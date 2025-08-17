@@ -284,19 +284,43 @@ $$
 3x =  4.8558      +  2\pi n     \\
 x   =     \frac{\pi}{3}      +  \frac{2\pi n}{3}       \\
 x   =       +  \frac{2\pi n}{3}         \\
-3x =   1.4274    +  \frac{2\pi n}{3}    \\
-3x =  4.8558      +  \frac{2\pi n}{3}       \\
+x =  0.4758   +  \frac{2\pi n}{3}    \\
+x =  1.6186     +  \frac{2\pi n}{3}       \\
 \end{array}
 $$
-solving for tan  :
+
+
+
+
+
+
 $$
+\begin{array}{l}  \\
+\tan\left( \frac{w}{4} \right)^2     = 0  \\
+\cos(3x)( 7\cos(3x) - 1  )   =   0 \\
+\left\{\begin{array}{l}  
+ \cos(3x)  =  0  \\
+\cos(3x)   =  \frac{1}{7}  \\
+\end{array} 
+ \right.   \\
+\left\{\begin{array}{l}  
+0 , \pi   \\
+1.4274  ,  4.8558 \\
+\end{array} 
+ \right.  
+\end{array}
+$$
+
+ solve for cos :
+  $$
 \begin{array}{l} \\
-
-x =    0.0652   +  \frac{\pi n}{2}  \\
-x = 0.8506   +  \frac{\pi n}{2}     \\
+3x   =     \pi      +  2\pi n       \\
+3x   =        2\pi n       \\
+3x =   1.4274    +  2\pi n  \\
+3x =  4.8558      +  2\pi n     \\
+x   =     \frac{\pi}{3}      +  \frac{2\pi n}{3}       \\
+x   =       +  \frac{2\pi n}{3}         \\
+x =  0.4758   +  \frac{2\pi n}{3}    \\
+x =  1.6186     +  \frac{2\pi n}{3}       \\
 \end{array}
 $$
-
-
-
-
