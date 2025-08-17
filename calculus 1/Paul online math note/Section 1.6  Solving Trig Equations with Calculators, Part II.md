@@ -291,9 +291,6 @@ $$
 
 
 
-
-
-
 $$
 \begin{array}{l}  \\
 \tan\left( \frac{w}{4} \right)^2     =  \tan\left( \frac{w}{4}  \right)   +12   \\
