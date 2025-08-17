@@ -11,6 +11,7 @@ learning score:
 $$
 \begin{array}{l} \\
 \log_{2}(16 ) = \log_{2}2^4   =  4     \\
-\log_{4} 1 
+\log_{4} 16  =  \log_{4}4^2   = 2  \\
+\log_{5} 625   =   
 \end{array}
 $$
