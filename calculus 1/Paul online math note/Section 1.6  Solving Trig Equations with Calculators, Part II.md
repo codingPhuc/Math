@@ -350,7 +350,7 @@ y  =  0 \\
  \right.   \\
 \left\{\begin{array}{l}  
 0  \\
-1.7624  ,  
+1.7624  ,  4.6208
 \end{array} 
  \right.  
 \end{array}
@@ -361,8 +361,8 @@ $$
  solve for cos :
   $$
 \begin{array}{l} \\
-\frac{w}{4}  =   5.0341 +  2\pi n       \\
-\frac{w}{4}   =    1.8925   +          2\pi n       \\
+\frac{w}{4}  =  1.7624   +  2\pi n       \\
+\frac{w}{4}   =     4.6208  +          2\pi n       \\
 \frac{w}{4}  =  1.3258 +  2\pi n  \\ 
 \frac{w}{4}  =  4.4674  +   2\pi n   \\
 w  =  20.1364  +  8\pi n       \\
