@@ -30,7 +30,8 @@ $$
 
 $$
 \begin{array}{l} \\
-\log_{\frac{3}{2} }   = \frac{27}{8}   \\
-= 3 \\
+\log_{\frac{3}{2} }   = \log_{\frac{3}{2} }\left(  \frac{27}{8}  \right)  \\
+=  \log_{\frac{3}{2} }\left( \frac{3}{2} \right)^3     \\
+= 3  \\
 \end{array}
 $$
