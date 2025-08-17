@@ -8,7 +8,7 @@ Current date: 2025-08-14
 amount of time: 
 learning score:
 ---
-
+dm
 $$
 \begin{array}{l} \\
 5 \cos(2x - 1 )  = -3   \\
@@ -149,20 +149,6 @@ $$
 t  =  -0.1261   +  \frac{\pi n}{6}      \\
 t =   -0.2552  +  \frac{\pi n}{6}     \\
 \end{array}
-$$
+$$ 
 
-
-
-
-
-
-
-$$
-\begin{array}{l}  \\
-3\sec (  4- 9z)  - 24  =  0   \\
-\frac{1}{\cos ( 4 -  9z)}   =  8   \\
-\cos ( 4 -  9z) =  \frac{1}{8}  \\
-\\ 
-\end{array}
-$$
-
+dm
