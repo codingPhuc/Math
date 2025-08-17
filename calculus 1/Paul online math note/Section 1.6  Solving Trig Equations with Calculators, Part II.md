@@ -196,14 +196,16 @@ $$
   \right. 
 \end{array}
 $$
-solving for tan  :  $$
+ solve for sin :
+  $$
 \begin{array}{l} \\
 x  +  2 =     \pi      +  2\pi n       \\
 x  +  2  =    2\pi     + 2\pi n      \\
 x  =     \pi    -  2   +  2\pi n       \\
 x  =    2\pi    -  2    + 2\pi n      \\
 \end{array}
-$$ solve for sin : 
+$$
+solving for tan  :
 $$
 \begin{array}{l} \\
 4x =    0.2606   +  2\pi n  \\
