@@ -169,9 +169,9 @@ $$
 solving for sin give :  
 $$
 \begin{array}{l} \\
-12t  + 7  =   1.4455   +  2\pi n       \\
-12t +  7  =   4.8377     + 2\pi n      \\
-t  =  -0.1261   +  \frac{\pi n}{6}      \\
-t =   -0.2552  +  \frac{\pi n}{6}     \\
+4 -  9z =   1.4455   +  2\pi n       \\
+4 -  9z  =   4.8377     + 2\pi n      \\
+t  = 0.2838  +  \frac{\pi n}{6}      \\
+t =   -0.0931 +  \frac{\pi n}{6}     \\
 \end{array}
 $$ 
