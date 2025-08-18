@@ -91,10 +91,13 @@ $$
 
 $$
 \begin{array}{l}
-\ln(x\sqrt{ y^2 + z^2 })  =  \ln x +  \frac{1}{2}\ln( y^2 + z^2)     \\
-\log_{4} \left( \frac{x-4}{y^2 \sqrt[5]{ z }} \right)  =  \\
-\log_{2} \frac{1}{8}  = -3   \\
-\log_{\frac{1}{4} }  16  = \log{\frac{1}{4}} 4^2  = -2 
+\ln(x\sqrt{ y^2 + z^2 })  =  \ln x +  \frac{1}{2}\ln( y^2 + z^2)   \\
 \end{array}
+$$
 
+
+$$
+\begin{array}{l}
+\log_{4} \frac{x-4}{y^2 \sqrt[5]{  }}
+\end{array}
 $$
