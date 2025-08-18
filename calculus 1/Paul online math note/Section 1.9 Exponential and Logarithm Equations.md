@@ -29,6 +29,9 @@ $$
 \begin{array}{l}  \\
 10^{t^2  -t}   = 100   \\
 t^2  -t   -2 =   0  \\
-\left\{  \right. 
+\left\{ \begin{array}{l}  \\
+(t   - 2)(t  + 1 )  =    0   \\
+ 
+\end{array}  \right. 
   \end{array}
 $$
