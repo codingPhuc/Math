@@ -77,8 +77,6 @@ $$
 
 
 
-
-
 $$
 \begin{array}{l} \\
 4e^{1 + 3x}  -  9e^{ 5-2x}  =  0   \\
@@ -92,7 +90,9 @@ $$
 another way of solving the equation : 
 $$
  \begin{array}{l} \\
-
+4e^{ 1 + 3x}  -  9e^{5 -2x}  =  0   \\
+4e^{1  + 3 x  }    =   9   \\
+\frac{e^{1  + 3 x  }}{e^{5   -2x} }   =  9   
 \end{array}
 $$
 
