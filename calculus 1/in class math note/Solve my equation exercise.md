@@ -43,6 +43,10 @@ $$
 y^4  -y^2  - 9y^2  = 0  \\
 y^4  - 10y^2  = 0  \\
 y^2(y^2  - 10)  =  0  \\
-\left\{  \right. 
+\left\{ \begin{array}{l}
+y^2  - 10  =   0  \\
+y^2   =  0   \\
+\end{array} \\
+  \right. 
 \end{array}
 $$
