@@ -185,7 +185,7 @@ $$
 e^{ z^2    -2z }   =  3   \\
 z^2    -2z     -\ln 3  =    0   \\
 \frac{-b \pm \sqrt{  b^2 -  4ac }}{2a}   \\
-\frac{2\pm \sqrt{ 4 -  4( -\ln 3) }}{2}      \\
-
+\frac{2\pm \sqrt{ 4 +  4\ln 3 }}{2}      \\
+1\pm \sqrt{ 1+  1\ln 3 }
 \end{array}
 $$
