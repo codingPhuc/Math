@@ -134,16 +134,26 @@ x =   \frac{e^2}{(1 + e^2 )}
 $$
 ps : you should also check if the domain of the equation fit into the solution of this problem as well
 
-
-
 $$
 \begin{array}{l} \\
 \log x   + \log(x + 3) =  1   \\
 \log (x \cdot(x + 3))  =  1   \\
 x^2  + 3x   - 10  = 0   \\
-(x )
+(x + 5)(x - 2 )  =  0  \\
+\left\{ \begin{array}{l}  
+x     = - 5  \\
+x = -2  
+\end{array}  \right. 
 \end{array}
 $$
+
+$$
+ \begin{array}{l} \\
+\ln(x + 2)
+\end{array}
+$$
+
+
 #todo 
 create a script that read individual files in the md folder then combine it into 1 file with the name of the folder 
 
