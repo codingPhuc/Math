@@ -134,7 +134,7 @@ $$
 
 $$
 \begin{array}{l}
-\log_{12} 35  = \frac{\log }{}
+\log_{12} 35  = \frac{ 35}{ }
 \end{array}
 $$
 
