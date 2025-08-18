@@ -123,9 +123,11 @@ $$
 
 $$
 \begin{array}{l} \\
-2 \ln(\sqrt{  x }  - \ln(1 -x )   ) =  2   \\
-\ln(\sqrt{  x }  - \ln(1 -x )   )     = 1  \\
-\sqrt{ x }
+2\ln(\sqrt{ x } )   -  \ln(1 -x)  =2   \\
+\ln\left( \frac{x}{1-x} \right)  = 2  \\
+\frac{x}{1-x}  =  e^2   \\
+x   =  e^2(1 -x )    \\
+
 \end{array}
 $$
 
