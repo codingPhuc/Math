@@ -105,3 +105,23 @@ $$
 $$
 
 ## Combine each of the following into a single logarithm with a coefficient of one. 
+
+
+
+
+$$
+\begin{array}{l}
+2\log_{4} x  +  5\log_{4} y  - \frac{1}{2}\log_{4} z    \\
+\log x^2 &   +  \log_{4} y^5 
+\end{array}
+$$
+
+
+$$
+\begin{array}{l}
+\log_{4} \frac{x-4}{y^2 \sqrt[5]{z  }}   \\
+\log_{4}(x-4 )  -   \log_{4} y^2  +  \log_{4} \sqrt[5]{z  }   \\
+\log_{4}(x-4 )  -   2\log_{4} y  +  \frac{5}{2}\log_{4} z   
+\end{array}
+$$
+ 
