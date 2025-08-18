@@ -134,19 +134,16 @@ $$
 
 $$
 \begin{array}{l}
-\log_{12} 35  = \frac{ 35}{ }
+\log_{12} 35  = \frac{\ln  35}{ \ln 12  } =   \frac{3.5553}{2.4849}
 \end{array}
 $$
-
 
 
 
 
 $$
 \begin{array}{l}
-3\ln(t + 5 )   - 4 \ln t  -  2\ln(s  -1 )  \\
-\ln (t + 5)^3  -  \ln  t^4 - \ln(s-1)^2      \\
-\ln (t+ 5)^3  - (\ln t^4  +  \ln(s- 1)^2)   \\
-\ln \frac{(t + 5)^3}{t^4 \cdot (s-1)^2}
+\log_{2.}
 \end{array}
 $$
+
