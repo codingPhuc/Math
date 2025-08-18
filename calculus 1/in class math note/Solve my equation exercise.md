@@ -41,6 +41,7 @@ y + 6  = x + 5 \implies  x  = y + 1  \\
 y + 6  = x +  7  \implies x   = y  - 1  \\
 y + 6 =  x +  9  \implies  x =  y-3\\
 (y + 3) ( y  -3) ( y + 1) (y -1)  =  9  \\
-(y^2 - 9)(y^2  - 1 ) 
+(y^2 - 9)(y^2  - 1 ) = 9  \\
+y
 \end{array}
 $$
