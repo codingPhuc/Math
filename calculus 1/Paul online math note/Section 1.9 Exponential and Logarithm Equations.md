@@ -164,3 +164,17 @@ $$
 #todo 
 create a script that read individual files in the md folder then combine it into 1 file with the name of the folder 
 
+
+# #Practice_Exercise  
+
+$$
+ \begin{array}{l} \\
+ \\12 -  4e^{ 7 + 3x}  =  7  \\
+
+\left\{ \begin{array}{l} 
+x  = \frac{ 1  \pm \sqrt{ 1  -  4(-2  - e^2) } }{2} = \frac{ 1 \pm \sqrt{ 9 + 4e^2 }}{2}  \\
+\end{array} \\  \right. 
+ \\
+
+\end{array}
+$$
