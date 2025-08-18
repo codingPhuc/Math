@@ -24,7 +24,8 @@ $$
 (x^2  +8x + 15 ) (x^2 + 16x  + 63)  = 9  \\
 x^4 + 16x^3  + 504x + 15x^2 + 240x +945  =  9  \\
  x^4 + 16x^3  + 504x + 15x^2 + 240x +  936   =  0  \\
-\text{ divide the equation by x^2 }  \\ 
+\text{ divide the equation by } x^2   \\
+x^2 + 16x +  \frac{504}{x} + 15 +  \frac{240}{x}  +  \frac{936}{x^2}   =   0   
 \end{array}
 
 
