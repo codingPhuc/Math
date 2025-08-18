@@ -245,18 +245,19 @@ $$
  \begin{array}{l} \\
 2 e^{ 3y  +  8} -   11e^{5 - 10y} =   0    \\
 2 e^{ 3y  +  8}   =  11e^{5 - 10y}   \\
-
+\frac{2}{11}  =  \frac{e^{5 - 10y}}{ e^{ 3y  +  8} }    \\
+e^{5 - 10y  } 
 \left\{ \begin{array}{l} 
 x  = -\frac{1}{4}  \\
 e^{x^2 -2}    = \frac{1}{3} 
 \end{array} \right.     \\
 \left\{ \begin{array}{l} 
 x  = -\frac{1}{4}  \\
-x^2 -2  =  \ln (\frac{1}{3} )  
+x^2 -2  =  \ln \left( \frac{1}{3}  \right)  
 \end{array} \right.     \\
 \left\{ \begin{array}{l} 
 x  = -\frac{1}{4}  \\
-x    =   \pm \sqrt{  2   + \ln (\frac{1}{3} ) }
+x    =   \pm \sqrt{  2   + \ln \left( \frac{1}{3}  \right) }
 \end{array} \right.     
 \end{array}
 $$
