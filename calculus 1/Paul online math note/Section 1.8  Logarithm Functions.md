@@ -99,6 +99,9 @@ $$
 $$
 \begin{array}{l}
 \log_{4} \frac{x-4}{y^2 \sqrt[5]{z  }}   \\
-\log_{4}(x-4 )  -   \log_{4} y^2 \sqrt[5]{z  } 
+\log_{4}(x-4 )  -   \log_{4} y^2  +  \log_{4} \sqrt[5]{z  }   \\
+\log_{4}(x-4 )  -   2\log_{4} y  +  \frac{5}{2}\log_{4} z   
 \end{array}
 $$
+
+## Combine each of the following into a single logarithm with a coefficient of one. 
