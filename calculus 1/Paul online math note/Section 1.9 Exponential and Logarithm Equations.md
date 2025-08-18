@@ -243,6 +243,7 @@ $$
 
 $$
  \begin{array}{l} \\
+2 e^{ 3y  +  8} -   11e^{5 - 10y} =   0    \\
 
 \left\{ \begin{array}{l} 
 x  = -\frac{1}{4}  \\
@@ -258,3 +259,6 @@ x    =   \pm \sqrt{  2   + \ln (\frac{1}{3} ) }
 \end{array} \right.     
 \end{array}
 $$
+
+
+
