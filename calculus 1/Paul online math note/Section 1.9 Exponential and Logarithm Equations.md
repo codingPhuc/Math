@@ -101,16 +101,18 @@ b^{\log_{b} x   }  =   x
 $$
 
 
-
-
 $$
 \begin{array}{l} 
 3 +  2 \ln\left( \frac{x}{7} +  3  \right)  =   -4  \\
 \ln\left( \frac{x}{7} +  3  \right)    =   -\frac{7}{2}   \\
 e^{\ln\left( \frac{x}{7} +  3  \right) }      = e^{-\frac{7}{2} }   \\
-\frac{x}{7} +  3     =  e^{-\frac{7}{2} }  
+\frac{x}{7} +  3     =  e^{-\frac{7}{2} }   \\
+x  = -20.3212
  \end{array}
 $$
+
+
+
 
 
 #todo 
