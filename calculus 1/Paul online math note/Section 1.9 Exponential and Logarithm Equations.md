@@ -151,7 +151,7 @@ $$
  \begin{array}{l} \\
 \ln(x + 2) + \ln(x  + 1 ) = 2   \\
 \ln [(x + 2 )\cdot (x + 1)  ] =  2   \\
-
+x^2  + 3x  + 2
 \end{array}
 $$
 
