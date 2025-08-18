@@ -149,11 +149,10 @@ $$
 
 $$
  \begin{array}{l} \\
-\ln(x + 2) + \ln(x  + 1 ) = 2   \\
-\ln [(x + 2 )\cdot (x + 1)  ] =  2   \\
-x^2  + 3x  =  0  \\
-\left\{  x  = 0 , \\
-x  =   -3   \right. 
+\ln(x - 2) + \ln(x  + 1 ) = 2   \\
+\ln [(x - 2 )\cdot (x + 1)  ] =  2   \\
+x^2   - x  - 2   =  0  \\
+
 \end{array}
 $$
 
