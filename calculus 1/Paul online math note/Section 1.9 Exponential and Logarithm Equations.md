@@ -105,8 +105,9 @@ $$
 
 $$
 \begin{array}{l} 
+3 +  2 \ln\left( \frac{x}{7} +  3  \right)  =   -4  \\
 
-\end{array}
+ \end{array}
 $$
 
 
