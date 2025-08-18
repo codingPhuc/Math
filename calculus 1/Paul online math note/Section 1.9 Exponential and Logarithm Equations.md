@@ -206,7 +206,22 @@ t =    0
 t =    0 
 \end{array} \right.    \\
 \left\{ \begin{array}{l} \\
-6t - 1  = \ln 2  \\
+t = 0.2822 \\
+t =    0 
+\end{array} \right.    
+\end{array}
+$$
+
+
+
+
+
+
+$$
+ \begin{array}{l} \\
+
+\left\{ \begin{array}{l} 
+t = 0.2822 \\
 t =    0 
 \end{array} \right.    
 \end{array}
