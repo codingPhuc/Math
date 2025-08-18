@@ -83,7 +83,9 @@ $$
 \begin{array}{l} \\
 4e^{1 + 3x}  -  9e^{ 5-2x}  =  0   \\
 \ln 4 e^{1 + 3x}     -  \ln 9e^{ 5-2x}     =0   \\
-\ln 4 +    \ln e^{1 + 3x}  - \ln 9  -   
+\ln 4 +    \ln e^{1 + 3x}  - \ln 9  -    \ln e^{ 5-2x}      = 0  \\
+\ln 4 + 1 + 3x  - \ln 9  -  5 + 2x       =  0  \\
+ 5x   = 
 \left\{ \begin{array}{l} 
 x^2  - 4 = 0  \\
  5  - e^{7-x}  =   0   
