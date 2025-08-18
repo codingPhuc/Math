@@ -45,9 +45,7 @@ x = 0  \\
 \end{array} \right.   \\
 \left\{ \begin{array}{l}  
 x = 0  \\
-\ln 1  -   5x  - 2  =    0   \\
 x =  -\frac{2}{5 }  \\
-  
 \end{array} \right. 
 \end{array}
 $$
@@ -60,6 +58,10 @@ $$
 \begin{array}{l} \\
  5(x^2  -  4)  = (x^2  - 4)  e^{ 7 - x}   \\
 5(x^2 -4) -  (x^2  - 4)  e^{ 7 - x}       = 0   \\
-(x^2  - 4)( 5  - e^{7-x}  )
+(x^2  - 4)( 5  - e^{7-x})  =  0   \\
+\left\{ \begin{array}{l} 
+x = 0  \\
+1  -  e^{5x + 2}  =   0   
+\end{array} \right.   \\
 \end{array}
 $$
