@@ -111,7 +111,10 @@ x  = -20.7886
  \end{array}
 $$
 
-
+##  one or more of the following properties to combine all the logarithms into a single logarithm. 
+$$
+\log_{b}(xy)  = \log_{b}(x) +     
+$$
 
 
 
