@@ -95,6 +95,10 @@ e^{   5 x   - 4  }  =    \frac{9}{4}    \\
 x   =0.9621 
 \end{array}
 $$
+## some equations that involve logarithms. 
+$$
+b^{\log_{b} x   }  =   x  
+$$
 
 
 
