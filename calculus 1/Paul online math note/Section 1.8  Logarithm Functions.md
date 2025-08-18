@@ -75,5 +75,9 @@ $$
 # #Practice_Exercise 
 
 $$
-\log
+\begin{array}{l}
+\log_{3}81   =  \log_{3}  3^4       =  4   \\
+\log_{3}
+\end{array}
+
 $$
