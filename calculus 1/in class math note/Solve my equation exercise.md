@@ -21,7 +21,8 @@ https://www.youtube.com/watch?v=a9nvXovb84Q
 $$
 \begin{array}{l} 
 (x + 3) (x+ 5)  (x + 7)(x + 9)   =  9   \\
-x^
+(x^2  + 5x  + 3x + 15 ) (x^2 + 9x + 7x + 63)  = 9  \\
+
 
 \end{array}
 
