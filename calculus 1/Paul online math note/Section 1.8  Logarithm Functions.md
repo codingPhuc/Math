@@ -74,3 +74,6 @@ $$
 
 # #Practice_Exercise 
 
+$$
+\log
+$$
