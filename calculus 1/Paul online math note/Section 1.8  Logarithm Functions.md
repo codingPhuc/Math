@@ -123,7 +123,8 @@ $$
 
 $$
 \begin{array}{l}
-3\ln(t)
+3\ln(t + 5 )   - 4 \ln t  -  2\ln(s  -1 )  \\
+
 \end{array}
 $$
 
