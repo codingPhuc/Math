@@ -29,6 +29,6 @@ $$
 \begin{array}{l}  \\
 10^{t^2  -t}   = 100   \\
 t^2  -t   -2 =   0  \\
-
+\left\{  \right. 
   \end{array}
 $$
