@@ -42,6 +42,12 @@ x(1   -  e^{5x + 2})  =  0   \\
 \left\{ \begin{array}{l}  \\
 x = 0  \\
 1  -  e^{5x + 2}  =   0   
+\end{array} \right.   \\
+\left\{ \begin{array}{l}  \\
+x = 0  \\
+\ln 1  -   5x  - 2  =    0   \\
+x =  -\frac{2}{5 }  \\
+  
 \end{array} \right. 
 \end{array}
 $$
