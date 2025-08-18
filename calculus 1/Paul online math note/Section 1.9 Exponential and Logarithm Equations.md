@@ -107,12 +107,9 @@ $$
 \ln\left( \frac{x}{7} +  3  \right)    =   -\frac{7}{2}   \\
 e^{\ln\left( \frac{x}{7} +  3  \right) }      = e^{-\frac{7}{2} }   \\
 \frac{x}{7} +  3     =  e^{-\frac{7}{2} }   \\
-x  = -20.3212
+x  = -20.7886 
  \end{array}
 $$
-
-
-
 
 
 #todo 
