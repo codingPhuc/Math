@@ -47,6 +47,11 @@ y^2(y^2  - 10)  =  0  \\
 y^2  - 10  =   0  \\
 y^2   =  0   \\
 \end{array} \\
+  \right.  \\
+\left\{ \begin{array}{l}
+(x +  6)^2    =   10   \\
+(x +  6)^2   =  0   \\
+\end{array} \\
   \right. 
 \end{array}
 $$
