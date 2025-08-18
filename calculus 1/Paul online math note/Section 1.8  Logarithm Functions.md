@@ -112,7 +112,8 @@ $$
 $$
 \begin{array}{l}
 2\log_{4} x  +  5\log_{4} y  - \frac{1}{2}\log_{4} z    \\
-\log x^2 &   +  \log_{4} y^5 
+\log x^2    +  \log_{4} y^5   - \log_{4} \sqrt{ z }  \\
+
 \end{array}
 $$
 
