@@ -225,6 +225,14 @@ $$
 \left\{ \begin{array}{l} 
 x  = -\frac{1}{4}  \\
 e^{x^2 -2}    = \frac{1}{3} 
-\end{array} \right.    
+\end{array} \right.     \\
+\left\{ \begin{array}{l} 
+x  = -\frac{1}{4}  \\
+x^2 -2  =  \ln (\frac{1}{3} )  
+\end{array} \right.     \\
+\left\{ \begin{array}{l} 
+x  = -\frac{1}{4}  \\
+x^2 -2    - \ln (\frac{1}{3} )    =   0  
+\end{array} \right.     
 \end{array}
 $$
