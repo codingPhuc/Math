@@ -152,7 +152,8 @@ $$
 \ln(x - 2) + \ln(x  + 1 ) = 2   \\
 \ln [(x - 2 )\cdot (x + 1)  ] =  2   \\
 x^2   - x  - 2   =  0  \\
-
+ \\
+\frac{ -b  \pm \sqrt{ 4ac } }{}
 \end{array}
 $$
 
