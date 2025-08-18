@@ -149,7 +149,9 @@ $$
 
 $$
  \begin{array}{l} \\
-\ln(x + 2)
+\ln(x + 2) + \ln(x  + 1 ) = 2   \\
+\ln [(x + 2 )\cdot (x + 1)  ] =  2   \\
+x
 \end{array}
 $$
 
