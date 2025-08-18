@@ -267,7 +267,8 @@ $$
 \log \left( \frac{z^2}{ 7 z  -1} \right)    =  0   \\
 \frac{z^2}{7z  -1}  =    1  \\
 z^2  =  7z  - 1   \\
-z^2   - 
+z^2   - 7z  + 1  = 0  \\
+
 \end{array}
 $$
 
