@@ -39,8 +39,9 @@ $$
 \begin{array}{l} \\
 x -  xe^{5x + 2}  =   0  \\
 x(1   -  e^{5x + 2})  =  0   \\
-\left\{ \begin{ar}
-
-\end{ar} \right. 
+\left\{ \begin{array}{l}  \\
+x = 0  \\
+1  -  e^{5x + 2}  =   0   
+\end{array} \right. 
 \end{array}
 $$
