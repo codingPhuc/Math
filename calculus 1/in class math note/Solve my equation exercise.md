@@ -18,8 +18,11 @@ solve my equation exercise are equations that are given in the school broad
 
 
 $$
-\begin{array}{l}
+\begin{array}{l} 
+(x + 3) (x+ 5)  (x + 7)(x + 9)   =  9   \\
+[(x + 3) (x+ 5)  (x + 7)] x +  [(x + 3) (x+ 5)  (x + 7)]  9   =  9   \\
+9[-1 + (x + 3) (x+ 5)  (x + 7)]    \\
 \end{array}
-(x + 3) (x+ 5)  (x + 7)(x + 9)   =  9 
+
 
 $$
