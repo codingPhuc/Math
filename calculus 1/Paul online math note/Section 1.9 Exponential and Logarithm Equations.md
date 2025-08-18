@@ -221,10 +221,10 @@ $$
  \begin{array}{l} \\
 4x + 1  =  (12x + 3)e^{x^2 -2}  \\
 4x + 1 -  3(4x + 1)e^{x^2 -2}   =   0  \\
- \\
+(4x + 1)(1  - 3e^{x^2 -2}  )   =0   \\
 \left\{ \begin{array}{l} 
-t = 0.2822 \\
-t =    0 
+x  = -\frac{1}{4}  \\
+e^{x^2 -2}    = \frac{1}{3} 
 \end{array} \right.    
 \end{array}
 $$
