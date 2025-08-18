@@ -143,7 +143,7 @@ $$
 
 $$
 \begin{array}{l}
-\log_{2.}
+\log_{\frac{2}{3}} 53   =   \frac{\ln 53}{}
 \end{array}
 $$
 
