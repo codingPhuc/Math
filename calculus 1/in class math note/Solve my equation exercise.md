@@ -12,3 +12,14 @@ learning score:
 solve my equation exercise are equations that are given in the school broad 
 
 
+![[Pasted image 20250817180611.png]] 
+
+
+
+
+$$
+\begin{array}{l}
+\end{array}
+(x + 3) (x+ 5)  (x + 7)(x + 9)   =  9 
+
+$$
