@@ -21,6 +21,7 @@ https://www.youtube.com/watch?v=a9nvXovb84Q
 $$
 \begin{array}{l} 
 (x + 3) (x+ 5)  (x + 7)(x + 9)   =  9   \\
+x^
 
 \end{array}
 
