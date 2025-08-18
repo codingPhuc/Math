@@ -36,10 +36,10 @@ $$
 \begin{array}{l} 
 (x + 3) (x+ 5)  (x + 7)(x + 9)   =  9   \\
 \frac{3 + 5 + 7 + 9}{4} =  6  \\
-y + 6  = x + 3  \implies  x   = \\
-y + 6  = x + 5  \\
-y + 6  = x +  7  \\
-y + 6 =  x +  9  \\
+y + 6  = x + 3  \implies  x   = y +  3\\
+y + 6  = x + 5 \implies  x  = y + 1  \\
+y + 6  = x +  7  \implies x   = y  - 1  \\
+y + 6 =  x +  9  \implies  x =  y-3\\
 
 \end{array}
 $$
