@@ -151,7 +151,9 @@ $$
  \begin{array}{l} \\
 \ln(x - 2) + \ln(x  + 1 ) = 2   \\
 \ln [(x - 2 )\cdot (x + 1)  ] =  2   \\
-x^2   - x  - 2   =    e^2 
+x^2   - x  - 2 - e^2     =     0   \\
+\left\{ x  = \frac{ 1  \pm \sqrt{ 1  -  4ac } }{2a}  \\
+x  = \frac{ -b  \pm \sqrt{ b^2  -  4ac } }{2a}  \right. 
  \\
 \frac{ -b  \pm \sqrt{ b^2  -  4ac } }{2a}
 \end{array}
