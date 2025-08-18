@@ -152,12 +152,11 @@ $$
 \ln(x - 2) + \ln(x  + 1 ) = 2   \\
 \ln [(x - 2 )\cdot (x + 1)  ] =  2   \\
 x^2   - x  - 2 - e^2     =     0   \\
-\left\{ \begin{array}{l} \\
-
-\end{array} \\
-
+\left\{ \begin{array}{l} 
+x  = \frac{ 1  \pm \sqrt{ 1  -  4(-2  - e^2) } }{2} = \frac{ 1 \pm \sqrt{ 9 + 4e^2 }}{}  \\
+\end{array} \\  \right. 
  \\
-\frac{ -b  \pm \sqrt{ b^2  -  4ac } }{2a}
+
 \end{array}
 $$
 
