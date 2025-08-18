@@ -15,6 +15,7 @@ solve my equation exercise are equations that are given in the school broad
 ![[Pasted image 20250817180611.png]] 
 
 
+https://www.youtube.com/watch?v=a9nvXovb84Q 
 
 
 $$
