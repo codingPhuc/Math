@@ -189,3 +189,14 @@ z^2    -2z     -\ln 3  =    0   \\
 1\pm \sqrt{ 1+  1\ln 3 }
 \end{array}
 $$
+
+
+
+
+$$
+ \begin{array}{l} \\
+2t  -  te^{6t - 1 }  =  0   \\
+t(2   - e^{6t - 1 })   =0   \\
+\left\{  \right\} 
+\end{array}
+$$
