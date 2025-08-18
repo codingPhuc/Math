@@ -77,7 +77,9 @@ $$
 $$
 \begin{array}{l}
 \log_{3}81   =  \log_{3}  3^4       =  4   \\
-\log_{3}
+\log_{5}  125  = \log_{5} 5^3  = 3   \\
+\log_{2} \frac{1}{8}  = -3   \\
+\log_{\frac{1}{4} }  
 \end{array}
 
 $$
