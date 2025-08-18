@@ -98,6 +98,7 @@ $$
 
 $$
 \begin{array}{l}
-\log_{4} \frac{x-4}{y^2 \sqrt[5]{  }}
+\log_{4} \frac{x-4}{y^2 \sqrt[5]{z  }}   \\
+\log_{4}(x-4 )  -   \log_{4} y^2 \sqrt[5]{z  } 
 \end{array}
 $$
