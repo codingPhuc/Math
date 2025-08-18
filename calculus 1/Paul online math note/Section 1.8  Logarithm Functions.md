@@ -143,7 +143,7 @@ $$
 
 $$
 \begin{array}{l}
-\log_{\frac{2}{3}} 53   =   \frac{\ln 53}{\ln \frac{2}{3}}  =  \frac{3.9703}{-0.4054}   =  
+\log_{\frac{2}{3}} 53   =   \frac{\ln 53}{\ln \frac{2}{3}}  =  \frac{3.9703}{-0.4054}   =  -9.7935
 \end{array}
 $$
 
