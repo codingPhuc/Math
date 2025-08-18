@@ -21,10 +21,6 @@ $$
 $$
 
 
-
-
-
-
 $$
 \begin{array}{l}  \\
 10^{t^2  -t}   = 100   \\
@@ -37,3 +33,9 @@ t  = -1
   \end{array}
 $$
 
+
+
+$$
+\begin{array}{l}
+\end{array}
+$$
