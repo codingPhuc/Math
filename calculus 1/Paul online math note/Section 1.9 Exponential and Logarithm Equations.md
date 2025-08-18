@@ -126,8 +126,10 @@ $$
 2\ln(\sqrt{ x } )   -  \ln(1 -x)  =2   \\
 \ln\left( \frac{x}{1-x} \right)  = 2  \\
 \frac{x}{1-x}  =  e^2   \\
-x   =  e^2(1 -x )    \\
-
+x   =  e^2(1 -x )  \\
+x =  e^2   - e^2x  \\
+x  + e^2x  =  e^2   \\
+x =   \frac{e^2}{(1 + e^2 )}
 \end{array}
 $$
 
