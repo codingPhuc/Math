@@ -153,7 +153,7 @@ $$
 \ln [(x - 2 )\cdot (x + 1)  ] =  2   \\
 x^2   - x  - 2   =    e^2 
  \\
-\frac{ -b  \pm \sqrt{ 4ac } }{2a}
+\frac{ -b  \pm \sqrt{ b^2  -  4ac } }{2a}
 \end{array}
 $$
 
