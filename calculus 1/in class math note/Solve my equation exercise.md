@@ -52,6 +52,11 @@ y^2   =  0   \\
 (x +  6)^2    =   10   \\
 (x +  6)^2   =  0   \\
 \end{array} \\
+  \right.  \\
+\left\{ \begin{array}{l}
+x  =   \pm \sqrt{ 10 }  -6  \\
+x   =  -6   \\
+\end{array} \\
   \right. 
 \end{array}
 $$
