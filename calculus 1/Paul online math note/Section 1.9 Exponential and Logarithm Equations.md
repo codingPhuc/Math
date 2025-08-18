@@ -192,7 +192,7 @@ $$
 
 
 
-
+1/5
 $$
  \begin{array}{l} \\
 2t  -  te^{6t - 1 }  =  0   \\
@@ -216,6 +216,30 @@ $$
 
 
 
+2/5
+$$
+ \begin{array}{l} \\
+4x + 1  =  (12x + 3)e^{x^2 -2}  \\
+4x + 1 -  3(4x + 1)e^{x^2 -2}   =   0  \\
+(4x + 1)(1  - 3e^{x^2 -2}  )   =0   \\
+\left\{ \begin{array}{l} 
+x  = -\frac{1}{4}  \\
+e^{x^2 -2}    = \frac{1}{3} 
+\end{array} \right.     \\
+\left\{ \begin{array}{l} 
+x  = -\frac{1}{4}  \\
+x^2 -2  =  \ln (\frac{1}{3} )  
+\end{array} \right.     \\
+\left\{ \begin{array}{l} 
+x  = -\frac{1}{4}  \\
+x    =   \pm \sqrt{  2   + \ln (\frac{1}{3} ) }
+\end{array} \right.     
+\end{array}
+$$
+
+
+
+
 
 $$
  \begin{array}{l} \\
@@ -232,7 +256,7 @@ x^2 -2  =  \ln (\frac{1}{3} )
 \end{array} \right.     \\
 \left\{ \begin{array}{l} 
 x  = -\frac{1}{4}  \\
-x^2 -2    - \ln (\frac{1}{3} )    =   0  
+x    =   \pm \sqrt{  2   + \ln (\frac{1}{3} ) }
 \end{array} \right.     
 \end{array}
 $$
