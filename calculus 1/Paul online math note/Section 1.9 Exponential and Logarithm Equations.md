@@ -184,7 +184,7 @@ $$
  1 =  10   -3e^{ z^2    -2z }  \\
 e^{ z^2    -2z }   =  3   \\
 z^2    -2z     -\ln 3  =    0   \\
-
-
+\frac{-b \pm \sqrt{  b^2 -  4ac }}{2a}   \\
+\frac{2\pm \sqrt{ 4 -  4( -\ln 3) }}{2a}  
 \end{array}
 $$
