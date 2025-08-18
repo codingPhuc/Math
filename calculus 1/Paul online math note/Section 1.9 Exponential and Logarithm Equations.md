@@ -116,12 +116,18 @@ $$
 \begin{array}{l} 
 \log_{b}(xy)  = \log_{b}(x) + \log_{b}(y)   \\
 \log_{b}\left( \frac{x}{y} \right)  = \log_{b}(x)  - \log_{b}(y)       \\
-\log_{b}(x^{r}   = r )   
+\log_{b}(x^{r})  = r\log_{b}(x)   
 \end{array}
-
 $$
 
 
+$$
+\begin{array}{l} \\
+2 \ln(\sqrt{  x }  - \ln(1 -x )   ) =  2   \\
+\ln(\sqrt{  x }  - \ln(1 -x )   )     = 1  \\
+\sqrt{ x }
+\end{array}
+$$
 
 
 
