@@ -268,11 +268,29 @@ $$
 \frac{z^2}{7z  -1}  =    1  \\
 z^2  =  7z  - 1   \\
 z^2   - 7z  + 1  = 0  \\
-\frac{7 \pm 3\sqrt{ 5}}{2}  
+\frac{7 \pm 3\sqrt{ 5}}{2}   
 \end{array}
 $$
 
 
 
 
+
+
+
+
+
+5/5
+
+$$
+ \begin{array}{l} \\
+2\log( z  )  - \log( 7 z  -1 )   =   0   \\
+\log(z^2 )  - \log( 7 z  -1 )    = 0  \\
+\log \left( \frac{z^2}{ 7 z  -1} \right)    =  0   \\
+\frac{z^2}{7z  -1}  =    1  \\
+z^2  =  7z  - 1   \\
+z^2   - 7z  + 1  = 0  \\
+\frac{7 \pm 3\sqrt{ 5}}{2}   
+\end{array}
+$$
 
