@@ -197,6 +197,17 @@ $$
  \begin{array}{l} \\
 2t  -  te^{6t - 1 }  =  0   \\
 t(2   - e^{6t - 1 })   =0   \\
-\left\{  \right\} 
+\left\{ \begin{array}{l} \\
+ e^{6t - 1 }   = 2   \\
+t =    0 
+\end{array} \right.  \\
+\left\{ \begin{array}{l} \\
+6t - 1  = \ln 2  \\
+t =    0 
+\end{array} \right.    \\
+\left\{ \begin{array}{l} \\
+6t - 1  = \ln 2  \\
+t =    0 
+\end{array} \right.    
 \end{array}
 $$
