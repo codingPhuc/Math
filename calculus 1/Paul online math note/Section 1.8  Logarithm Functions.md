@@ -91,7 +91,7 @@ $$
 
 $$
 \begin{array}{l}
-\log() \\
+\ln(x\sqrt{ y^2 + z^2 })  =  \ln x +  \frac{1}{2}\ln ỳ  \\
 \log_{5}  125  = \log_{5} 5^3  = 3   \\
 \log_{2} \frac{1}{8}  = -3   \\
 \log_{\frac{1}{4} }  16  = \log{\frac{1}{4}} 4^2  = -2 
