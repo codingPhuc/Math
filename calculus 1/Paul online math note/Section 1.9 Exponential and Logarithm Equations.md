@@ -36,6 +36,8 @@ $$
 
 
 $$
-\begin{array}{l}
+\begin{array}{l} \\
+5(x^2 -  4)   = (x^2 - 4)e^{ 7-x}   \\
+
 \end{array}
 $$
