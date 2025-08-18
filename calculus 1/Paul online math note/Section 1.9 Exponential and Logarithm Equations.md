@@ -132,9 +132,21 @@ x  + e^2x  =  e^2   \\
 x =   \frac{e^2}{(1 + e^2 )}
 \end{array}
 $$
+ps : you should also check if the domain of the equation fit into the solution of this problem as well
 
 
 
+$$
+\begin{array}{l} \\
+2\ln(\sqrt{ x } )   -  \ln(1 -x)  =2   \\
+\ln\left( \frac{x}{1-x} \right)  = 2  \\
+\frac{x}{1-x}  =  e^2   \\
+x   =  e^2(1 -x )  \\
+x =  e^2   - e^2x  \\
+x  + e^2x  =  e^2   \\
+x =   \frac{e^2}{(1 + e^2 )}
+\end{array}
+$$
 #todo 
 create a script that read individual files in the md folder then combine it into 1 file with the name of the folder 
 
