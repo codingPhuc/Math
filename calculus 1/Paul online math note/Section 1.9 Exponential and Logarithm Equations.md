@@ -244,6 +244,7 @@ $$
 $$
  \begin{array}{l} \\
 2 e^{ 3y  +  8} -   11e^{5 - 10y} =   0    \\
+2 e^{ 3y  +  8}   =  11e^{5 - 10y}   \\
 
 \left\{ \begin{array}{l} 
 x  = -\frac{1}{4}  \\
