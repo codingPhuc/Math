@@ -13,8 +13,8 @@ learning score:
 $$
 \begin{array}{l}  \\
 7 +   15e^{1 -  3z}   = 10   \\
-\ln  7  +  \ln(15e^{1 -  3z} ) = \ln 10   \\
-\ln  7  +  \ln(15)  +  \ln(e^{1 -  3z})  =  \ln 10   \\
-1 -  3z 
+ \ln(15e^{1 -  3z} ) = \ln 3   \\
+\ln(15)  +  \ln(e^{1 -  3z})  =  \ln 3   \\
+1 -  3z  = 
 \end{array}
 $$
