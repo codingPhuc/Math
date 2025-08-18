@@ -239,7 +239,7 @@ $$
 
 
 
-
+3/5
 
 $$
  \begin{array}{l} \\
@@ -248,19 +248,8 @@ $$
 \frac{2}{11}  =  \frac{e^{5 - 10y}}{ e^{ 3y  +  8} }    \\
 e^{5 - 10y  -3y  -  8}   = \frac{2}{11}    \\
 -13y  - 3   =   \ln \frac{2}{11}     \\
-y =  \frac{\left( \ln \frac{2}{11}  + 3 \right)}{-13} \\
-\left\{ \begin{array}{l} 
-x  = -\frac{1}{4}  \\
-e^{x^2 -2}    = \frac{1}{3} 
-\end{array} \right.     \\
-\left\{ \begin{array}{l} 
-x  = -\frac{1}{4}  \\
-x^2 -2  =  \ln \left( \frac{1}{3}  \right)  
-\end{array} \right.     \\
-\left\{ \begin{array}{l} 
-x  = -\frac{1}{4}  \\
-x    =   \pm \sqrt{  2   + \ln \left( \frac{1}{3}  \right) }
-\end{array} \right.     
+y =  \frac{\left( \ln \frac{2}{11}  + 3 \right)}{-13}  \\
+y   = -0.09963      
 \end{array}
 $$
 
