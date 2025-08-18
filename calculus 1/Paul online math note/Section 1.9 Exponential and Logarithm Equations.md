@@ -106,8 +106,9 @@ $$
 $$
 \begin{array}{l} 
 3 +  2 \ln\left( \frac{x}{7} +  3  \right)  =   -4  \\
-2 \ln\left( \frac{x}{7} +  3  \right)    =   -7   \\
-
+\ln\left( \frac{x}{7} +  3  \right)    =   -\frac{7}{2}   \\
+e^{\ln\left( \frac{x}{7} +  3  \right) }      = e^{-\frac{7}{2} }   \\
+\frac{x}{7} +  3     =  e^{-\frac{7}{2} }  
  \end{array}
 $$
 
