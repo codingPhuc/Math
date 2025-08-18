@@ -113,7 +113,12 @@ $$
 
 ##  one or more of the following properties to combine all the logarithms into a single logarithm. 
 $$
-\log_{b}(xy)  = \log_{b}(x) +     
+\begin{array}{l} 
+\log_{b}(xy)  = \log_{b}(x) + \log_{b}(y)   \\
+\log_{b}\left( \frac{x}{y} \right)  = \log_{b}(x)  - \log_{b}(y)       \\
+\log_{b}(x^{r}   = r )   
+\end{array}
+
 $$
 
 
