@@ -79,7 +79,22 @@ $$
 \log_{3}81   =  \log_{3}  3^4       =  4   \\
 \log_{5}  125  = \log_{5} 5^3  = 3   \\
 \log_{2} \frac{1}{8}  = -3   \\
-\log_{\frac{1}{4} }  
+\log_{\frac{1}{4} }  16  = \log{\frac{1}{4}} 4^2  = -2 
+\end{array}
+
+$$
+
+## Write each of the following in terms of simpler logarithms. 
+
+
+
+
+$$
+\begin{array}{l}
+\log() \\
+\log_{5}  125  = \log_{5} 5^3  = 3   \\
+\log_{2} \frac{1}{8}  = -3   \\
+\log_{\frac{1}{4} }  16  = \log{\frac{1}{4}} 4^2  = -2 
 \end{array}
 
 $$
