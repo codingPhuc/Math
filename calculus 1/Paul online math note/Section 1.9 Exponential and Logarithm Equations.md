@@ -86,18 +86,13 @@ $$
 \ln 4 +    \ln e^{1 + 3x}  - \ln 9  -    \ln e^{ 5-2x}      = 0  \\
 \ln 4 + 1 + 3x  - \ln 9  -  5 + 2x       =  0  \\
  5x   = 4.8109 \\
-\left\{ \begin{array}{l} 
-x^2  - 4 = 0  \\
- 5  - e^{7-x}  =   0   
-\end{array} \right.    \\
-\left\{ \begin{array}{l} 
-x  = \pm 2    \\
-7-x  =   \ln 5   
-\end{array} \right.    \\
-\left\{ \begin{array}{l} 
-x  = \pm 2    \\
-x  =   -\ln 5 +7    
-\end{array} \right.   \\
+x  = 0.9621 \\
+\end{array}
+$$
+another way of solving the equation : 
+$$
+ \begin{array}{l} \\
+
 \end{array}
 $$
 
