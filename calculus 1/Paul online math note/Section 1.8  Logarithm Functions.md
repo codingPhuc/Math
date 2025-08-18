@@ -117,3 +117,14 @@ $$
 \end{array}
 $$
 
+
+
+
+
+$$
+\begin{array}{l}
+3\ln(t)
+\end{array}
+$$
+
+ 
