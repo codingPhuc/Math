@@ -173,12 +173,7 @@ $$
  -  4e^{ 7 + 3x}     = -5   \\
  e^{7 + 3x}   =   \frac{5}{4}    \\
 7 + 3x   =  e^{ \frac{5}{4}   }      \\
-\\
-
-\left\{ \begin{array}{l} 
-x  = \frac{ 1  \pm \sqrt{ 1  -  4(-2  - e^2) } }{2} = \frac{ 1 \pm \sqrt{ 9 + 4e^2 }}{2}  \\
-\end{array} \\  \right. 
- \\
+x =  -1.1699 
 
 \end{array}
 $$
