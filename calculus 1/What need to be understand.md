@@ -49,4 +49,10 @@ like here the angle is 330 degree but still manage to create the same value of s
 why does the unit circle $\pi$ angle will result in sin being  0? 
 
 
-proof the finding vertex solution $-\frac{b}{2a}$ 
+proof the finding vertex solution $-\frac{b}{2a}$  
+
+
+
+proof the attribute of a a ellipse  
+
+proof the  attribute of a 
