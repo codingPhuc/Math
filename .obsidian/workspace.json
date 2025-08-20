@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "What need to be understand"
             }
+          },
+          {
+            "id": "a1cb91a13e529b11",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "752288a36839bbd6",
@@ -195,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -205,11 +218,10 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ed68c8602ba6916b",
+  "active": "a1cb91a13e529b11",
   "lastOpenFiles": [
     "calculus 1/Module Relation.md",
     "calculus 1/Paul online math note/Section 1.9 Exponential and Logarithm Equations.md",

@@ -55,4 +55,7 @@ proof the finding vertex solution $-\frac{b}{2a}$
 
 proof the attribute of a a ellipse  
 
-proof the  attribute of a 
+proof the  attribute of a  hyperbola 
+
+proof the attribute of circle 
+
