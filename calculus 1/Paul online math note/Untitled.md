@@ -42,4 +42,7 @@ stronger  basic on theory
 hamonic anaylsis 
 thing that bases in theory quantative trading, if you know do anaylisis in theory, pure mathematic  step 1 applies mathematic is step 10. applies mathematic is more engineering, 
 # behavior volitarity matrix 
-first  you  need a way to 
+first  you  need a way to  
+
+behavioural  volitity matrix is pretty much step 1 
+step 1  way of breaking down data 
