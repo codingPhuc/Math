@@ -35,5 +35,11 @@ if the umbela used is whether sunny or rainy  you will bring the umbela even if 
 
 if nvidia have no chip to sell then fedx will either not  deliver or deliver, ship a lot or not depending on nvidia not production 
 
+# Apply  mathematic 
+
+machine learning theory 
+stronger  basic on theory  
+hamonic anaylsis 
+
 # behavior volitarity matrix 
 first  you  need a way to 
