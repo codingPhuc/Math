@@ -58,3 +58,4 @@ indictive  of the behavior of the masses predicting stocks movement bases on nam
 ##  sway 
 ![[Pasted image 20250820203440.png]]
 sway is like weight, how much  weight does data have on each other, 
+if we want more accuracy you cannot predict people behavior and stock 
