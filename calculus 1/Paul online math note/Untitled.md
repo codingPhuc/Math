@@ -15,3 +15,4 @@ change how the pari matrix look at the matrix
 if 2 +3  = 5 is wrong,
 deep learning where the model learn for it self 
 random forest tree  create  a  neuro network  and making sure that data is okay really inefficient for high 
+random  forest used for  tax fraud ,  like if it look in 
