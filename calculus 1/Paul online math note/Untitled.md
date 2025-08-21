@@ -24,3 +24,5 @@ you can used  random forest tree to see what it is happening
 multual information is how much x will affect y  
 stock in multual distribution properbilty of x y with x nvial  y  fedx  
 function of  nvidia and amazon ,  amazon
+if no one ship nvidia ship  
+multual infr
