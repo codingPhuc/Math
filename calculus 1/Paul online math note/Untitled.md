@@ -48,4 +48,4 @@ behavioural  volitity matrix is pretty much step 1
 step 1  way of breaking down data
 news paper and stuff 
 people relive on news a lot sources info 
-
+a person that is left  leaning right leaning news 
