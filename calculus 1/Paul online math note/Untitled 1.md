@@ -2,3 +2,7 @@ the  p bar **  i**  is mean to represent  our best  possible guess,  the other  
 
 p  bar is best top  accuracy  = j2  
 ,  
+
+
+
+if you are a softmore or a junior  you need to take the entire entities of physic cources and math coures 
