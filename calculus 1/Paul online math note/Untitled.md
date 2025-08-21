@@ -33,3 +33,4 @@ popubility  function you p defly  the variable x  either sunny or  rainy. define
 in a perfect world where there is high multiple informaiton if it raining then you bring the umbela 
 if the umbela used is whether sunny or rainy  you will bring the umbela even if it sunny so x variable does not impact y 
 
+if nvidia have no chip to sell then fedx will either not  deliver or deliver, ship a lot or not depending on nvidia not production 
