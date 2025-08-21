@@ -11,3 +11,7 @@ random forest a bunch of decision tree basic form of machine learning, yes no fo
 feeding it more information  
 ![[Pasted image 20250820194137.png]]
 
+change how the pari matrix look at the matrix  
+if 2 +3  = 5 is wrong,
+deep learning where the model learn for it self 
+random forest tree  create  a  neuro network  and making sure that data is okay really inefficient for high 
