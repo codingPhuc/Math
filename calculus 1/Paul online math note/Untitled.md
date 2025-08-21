@@ -45,4 +45,7 @@ thing that bases in theory quantative trading, if you know do anaylisis in theor
 first  you  need a way to  
 
 behavioural  volitity matrix is pretty much step 1 
-step 1  way of breaking down data 
+step 1  way of breaking down data
+news paper and stuff 
+people relive on news a lot sources info 
+
