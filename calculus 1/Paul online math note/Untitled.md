@@ -30,3 +30,6 @@ an umbela depend perfectly on the weather
 
 if the variable perfectly depend on the weather sunny or rainy,
 popubility  function you p defly  the variable x  either sunny or  rainy. define y as yes or no 
+in a perfect world where there is high multiple informaiton if it raining then you bring the umbela 
+if the umbela used is whether sunny or rainy  you will bring the umbela even if it sunny so x variable does not impact y 
+
