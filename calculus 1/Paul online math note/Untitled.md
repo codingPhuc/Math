@@ -8,4 +8,6 @@ tensor is made of a cornal each tensor is a group of matrix algorithm look thoug
 power bell work populary  
 how to make 
 random forest a bunch of decision tree basic form of machine learning, yes no for anything that is accurate, this is what frog look like and this is what frog does not look like 
-feeding it more information 
+feeding it more information  
+![[Pasted image 20250820194137.png]]
+
