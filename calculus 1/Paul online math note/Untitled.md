@@ -59,3 +59,9 @@ indictive  of the behavior of the masses predicting stocks movement bases on nam
 ![[Pasted image 20250820203440.png]]
 sway is like weight, how much  weight does data have on each other, 
 if we want more accuracy you cannot predict people behavior and stock 
+
+## equation 
+![[Pasted image 20250820212825.png]] 
+
+
+find me a house give me a question over a here no other information bases of off instead of hourse 
