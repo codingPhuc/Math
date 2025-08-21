@@ -12,3 +12,9 @@ and law test
 pre law and pre med 
 do not do all that back ground 
 1 thing the admission broad look for different from the other 90%  of people  that take different  thing take all the extra curicular law all these same shadowing all the same extra curicular same as every one else you don't need to be pre lawed 
+
+
+
+
+# 
+if  your school product a bad doctor  then it will cause something to happend another person is on the line if s
