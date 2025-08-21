@@ -51,4 +51,5 @@ people relive on news a lot sources info
 a person that is left  leaning right leaning news sources to measure the  behavioral volitirity  of people  connect it with show this directly thought stock show how accurate 
 
 stocks = indictive of the behavior of the masses, stocks nasdeq intel and tsla walmakt 
-indict
+indictive  of the behavior of the masses 
+
