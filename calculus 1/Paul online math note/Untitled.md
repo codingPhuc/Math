@@ -35,11 +35,11 @@ if the umbela used is whether sunny or rainy  you will bring the umbela even if 
 
 if nvidia have no chip to sell then fedx will either not  deliver or deliver, ship a lot or not depending on nvidia not production 
 
-# Apply  mathematic 
+# Apply  mathematic  vs theory 
 
 machine learning theory 
 stronger  basic on theory  
 hamonic anaylsis 
-
+thing that bases in theory quantative trading, if you know do anaylisis in theory, pure mathematic  step 1 applies mathematic is step 10. applies mathematic is more engineering, 
 # behavior volitarity matrix 
 first  you  need a way to 
