@@ -19,3 +19,4 @@ random forest tree  create  a  neuro network  and making sure that data is okay 
 random  forest used for  tax fraud ,  like if it look in mark off heat map turn the bell curve into a 
 ![[Pasted image 20250820194522.png]]
 blue  less likely  to happend 
+you can used  random forest tree to see what it is happening 
