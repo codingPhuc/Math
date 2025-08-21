@@ -27,3 +27,6 @@ function of  nvidia and amazon ,  amazon
 if no one ship nvidia ship  
 multual information explaining the realationship between 2 variable 
 an umbela depend perfectly on the weather 
+
+if the variable perfectly depend on the weather sunny or rainy,
+popubility  function you p defly  the variable x  either sunny or  rainy. define y as yes or no 
