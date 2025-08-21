@@ -51,4 +51,10 @@ people relive on news a lot sources info
 a person that is left  leaning right leaning news sources to measure the  behavioral volitirity  of people  connect it with show this directly thought stock show how accurate 
 
 stocks = indictive of the behavior of the masses, stocks nasdeq intel and tsla walmakt 
-indictive  of the behavior of the masses predicting stocks movement bases on name sources 
+indictive  of the behavior of the masses predicting stocks movement bases on name sources  
+
+
+
+##  sway 
+![[Pasted image 20250820203440.png]]
+sway is like weight, how much  weight does data have on each other, 
