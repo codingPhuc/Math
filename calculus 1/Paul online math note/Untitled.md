@@ -8,7 +8,8 @@ tensor is made of a cornal each tensor is a group of matrix algorithm look thoug
 power bell work populary  
 how to make 
 random forest a bunch of decision tree basic form of machine learning, yes no for anything that is accurate, this is what frog look like and this is what frog does not look like 
-feeding it more information  
+feeding it more information 
+guideson map, the bell curve is the midd
 ![[Pasted image 20250820194137.png]]
 
 change how the pari matrix look at the matrix  
@@ -16,3 +17,6 @@ if 2 +3  = 5 is wrong,
 deep learning where the model learn for it self 
 random forest tree  create  a  neuro network  and making sure that data is okay really inefficient for high 
 random  forest used for  tax fraud ,  like if it look in mark off heat map 
+![[Pasted image 20250820194522.png]]
+
+
