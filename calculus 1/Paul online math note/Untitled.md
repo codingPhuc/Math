@@ -20,4 +20,5 @@ random  forest used for  tax fraud ,  like if it look in mark off heat map turn 
 ![[Pasted image 20250820194522.png]]
 blue  less likely  to happend 
 you can used  random forest tree to see what it is happening 
-multual information is how much x will affect y 
+
+multual information is how much x will affect y  
