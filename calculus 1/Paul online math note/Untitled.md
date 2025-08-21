@@ -26,3 +26,4 @@ stock in multual distribution properbilty of x y with x nvial  y  fedx
 function of  nvidia and amazon ,  amazon
 if no one ship nvidia ship  
 multual information explaining the realationship between 2 variable 
+an umbela depend perfectly on the weather 
