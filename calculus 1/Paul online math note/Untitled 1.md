@@ -17,4 +17,4 @@ do not do all that back ground
 
 
 # 
-if  your school product a bad doctor  then it will cause something to happend another person is on the line if s
+if  your school product a bad doctor  then it will cause something to happend another person is on the line if change 
