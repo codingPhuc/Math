@@ -8,7 +8,7 @@ Current date: 2025-08-18
 amount of time: 
 learning score:
 ---
-asdsadasdsadscsad
+
 
 $$
 \begin{array}{l}  \\
