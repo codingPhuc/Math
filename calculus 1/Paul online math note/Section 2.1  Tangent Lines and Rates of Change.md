@@ -10,4 +10,5 @@ learning score:
 ---
 
 # #todo  
-- [ ] 
+- [ ] what is the rate of change, why is instances rate of change so important 
+
