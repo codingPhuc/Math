@@ -39,14 +39,10 @@
             "id": "c40ebe977575f400",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professor Leonard/7.1 Rational Function.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "7.1 Rational Function"
+              "title": "New tab"
             }
           }
         ],
@@ -174,6 +170,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -187,9 +187,12 @@
   },
   "active": "c40ebe977575f400",
   "lastOpenFiles": [
+    "/calculus 1/Paul online math note/Section 2.2  The Limit.md",
+    "/calculus 1/Paul online math note",
+    "/calculus 1",
+    "/mathwiki",
     "/Professor Leonard/7.1 Rational Function.md",
     "/Professor Leonard",
-    "/mathwiki",
     "Excalidraw/7.1 Rational Function 2025-02-10 13.21.00.excalidraw.md",
     "Professor Leonard/Rational Function.md",
     "Professor Leonard/7.1 Rational Function.md",
@@ -222,7 +225,6 @@
     "Excalidraw/6.2 Factorings 2025-02-05 16.24.19.excalidraw.md",
     "Excalidraw/6.2 Factorings 2025-02-05 16.39.55.excalidraw.md",
     "Excalidraw/6.2 Factorings 2025-02-05 16.21.50.excalidraw.md",
-    "Excalidraw/6.7 Word Problem 2025-02-05 09.27.32.excalidraw.md",
     "Excalidraw",
     "Paul Online note/Pasted image 20241201195150.png",
     "Paul Online note/Pasted image 20241201201758.png",
