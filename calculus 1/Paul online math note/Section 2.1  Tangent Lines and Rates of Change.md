@@ -173,7 +173,7 @@ $$
 $$
 \begin{array}{l }  \\ 
 slope =   \frac{f(x )  - f(a)}{x  - a }  =    \frac{3.63 -3}{-3.1  + 3 }   =  \frac{0.63}{-0.1}  =  -6.3 \\
-y  =  
+y  =   -6.3x -3  
 \end{array}
 $$
 
