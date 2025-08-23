@@ -171,9 +171,8 @@ $$
 
 
 $$
-\begin{array}{l }  \\
-f(x) =   3( x+  2)^2        \\
-P  \text{ given by }  x  = -3 
+\begin{array}{l }  \\ 
+slope =   \frac{f(x )  - f(a)}{x  - a }  =    
 \end{array}
 $$
 
