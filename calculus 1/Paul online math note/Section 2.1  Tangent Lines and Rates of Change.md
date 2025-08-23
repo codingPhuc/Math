@@ -152,7 +152,12 @@ f(x) =   3( x+  2)^2        \\
 P  \text{ given by }  x  = -3 
 \end{array}
 $$
-
+#fail 
+- you  should have create a  unify slope equation instead of calculating 1  slope  
+the slope formula is   
+$$
+m_{PQ}  = \frac{3(x + 2)^2   - 3}{ x + 3  }
+$$
 
 | x            | f(x)       |
 | ------------ | ---------- |
@@ -166,7 +171,7 @@ $$
 | -2.99<br>    | 2.9403     |
 | . -2.999<br> | 2.94003    |
 | -2.9999      | 2.940003   |
-
+- it  should be something like thisn 
 
 
 
