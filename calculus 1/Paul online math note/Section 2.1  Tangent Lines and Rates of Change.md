@@ -19,6 +19,17 @@ $$
 h(x) =  \frac{ f(h +a) + -f(a) }{h  }  
 $$
 
+
+
+
+
+
+
+
+
+
 # #todo  
 - [ ] what is the rate of change, why is instances rate of change so importan
+- [ ] why is it called the  instantaneous rate of change  
+- [ ] why is it called the  instantaneous rate of change
 
