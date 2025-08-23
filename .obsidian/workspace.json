@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adjoinin",
+                "query": "math h",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,7 +225,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "052a5656ec4c2d4e",
   "lastOpenFiles": [
     "Math note.md",
     "mathwiki/README.md",
