@@ -34,4 +34,5 @@ so much data  on it that like the output is not that much a different
 10  terrrabyte of data 5 % performance increase  the more data the worse it get 
 
 
-HRM have curve  it  but because o
+HRM have curve  it  but because of that it not really that good 
+
