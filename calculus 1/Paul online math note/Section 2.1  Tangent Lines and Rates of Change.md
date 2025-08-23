@@ -60,7 +60,10 @@ The two main reasons for discussing tangent lines and rates of change early in a
 
 Let's move on to the next question.
 
-The sources describe a tangent line to a function (f(x)) at a point (x = a). What are the two key characteristics that define such a tangent line?
+## The sources describe a tangent line to a function (f(x)) at a point (x = a). What are the two key characteristics that define such a tangent line?
+
+
+
 
 # #todo  
 - [ ] what is the rate of change, why is instances rate of change so importan
