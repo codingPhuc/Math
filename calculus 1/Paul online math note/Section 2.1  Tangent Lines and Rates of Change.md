@@ -144,6 +144,24 @@ Let's refine the specifics based directly on the sources:
     - The sources then take a final step to generalize this for any point (x) (instead of a specific (a)) by replacing (a) with (x). This results in the most general "new" form: [\mathbf{\frac{{f\left( {x + h} \right) - f\left( x \right)}}{h}} \text{}]
 
 This new notation is introduced because, as the sources explain, it will often be **easier to work with this form** when dealing with these problems as a single, more general concept, especially as we transition into the study of limits.
+# #Practice_Exercise  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # #todo  
 - [ ] what is the rate of change, why is instances rate of change so importan
