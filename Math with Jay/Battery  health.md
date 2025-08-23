@@ -6,4 +6,5 @@ all litium  battery can be overcharge
 you overcharge you increase the build up that thing have 
 that battery  
 18 hour battery life 
-13 bat
+13 battery life if
+the more cicle you have more integrety  the batt
