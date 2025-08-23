@@ -8,3 +8,4 @@ that battery
 18 hour battery life 
 13 battery life if
 the more cicle you have more integrety  the loses  
+apple setting system setting click on 
