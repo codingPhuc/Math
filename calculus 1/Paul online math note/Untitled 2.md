@@ -7,6 +7,8 @@
 
 $f(x)−L<0.001$ if f(x) is larger than 
 $L−f(x)<0.001$ if f(x) is smaller than L
-where L is a the limit or value of 
+where L is a the limit or value that we want the function to be closest to a 
+
+
 
 
