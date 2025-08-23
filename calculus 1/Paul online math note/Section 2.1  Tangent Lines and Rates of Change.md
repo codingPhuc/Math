@@ -88,7 +88,12 @@ The two key characteristics that define a tangent line to the function (f(x)) at
 
 Let's move on to your next question:
 
-The general formula given in the sources for calculating the slope of a secant line between two points (P = (a, f(a))) and (Q = (x, f(x))) is a crucial step in understanding tangent lines. What is this formula, and why is it used in the context of approximating the tangent line's slope?
+## The general formula given in the sources for calculating the slope of a secant line between two points (P = (a, f(a))) and (Q = (x, f(x))) is a crucial step in understanding tangent lines. What is this formula, and why is it used in the context of approximating the tangent line's slope? 
+
+### #human_explaination 
+the general formula in the source for generating the two points, the slope formula. We need this to find the slope of the secant line in order to find the slopes of the tangent line the formula require 2 point, the first point the point where the graph and tangent line touch. The second point we need to create our self, which can be on either side of the first point by plugging a choosen x access to create a y access in the graph the formula is : $slope=\frac{x_{2} - x_{1}}{y_{2}-y_{1}}$
+### #ai_explaination 
+
 
 
 # #todo  
