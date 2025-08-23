@@ -31,4 +31,7 @@ entering community  college, do they take into account the age, you cannot have 
 
 so much data  on it that like the output is not that much a different 
 
-10  terrrabyte of data 5 % pervf
+10  terrrabyte of data 5 % performance increase  the more data the worse it get 
+
+
+t
