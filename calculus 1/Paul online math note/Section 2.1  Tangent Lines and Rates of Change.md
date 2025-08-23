@@ -15,6 +15,10 @@ $slope=\frac{f(x )  -  f(a)}{x -a}$
 but if we plug in any number it will cause the slope to be less accurate since we don't know if the point is in the tangent line or not. As a result, it is recomended to used a cooridinate that is closet to the touch point as possible since this will eable us to get the most accurate slope 
 
 
+$$
+h(x) =  \frac{ f(h +a) + -f(a) }{h_}
+$$
+
 # #todo  
 - [ ] what is the rate of change, why is instances rate of change so importan
 
