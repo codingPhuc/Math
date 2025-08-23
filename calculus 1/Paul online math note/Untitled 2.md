@@ -5,8 +5,8 @@
 - [ ] what make  L and a different is L just a way of saying the limit of the function getting closer and closer to basically the function is getting close to a, so why do we need to both make it closer to a and L. Or does it mean that the limit should exit in a close range, a range that we define to get us the best result of x satisfying L condition like this : 
  f(x) no more than 0.001 away from L. This means that we want one of the following
 
-f(x)−L<0.001if f(x) is larger than 
-LL−f(x)<0.001if f(x) is smaller than L
-
+$f(x)−L<0.001$ if f(x) is larger than 
+$L−f(x)<0.001$ if f(x) is smaller than L
+where L is a the limit or value of 
 
 
