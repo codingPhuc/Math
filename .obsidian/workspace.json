@@ -123,8 +123,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,7 +224,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "052a5656ec4c2d4e",
+  "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
     "Math note.md",
     "mathwiki/README.md",
