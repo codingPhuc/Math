@@ -172,7 +172,7 @@ $$
 
 $$
 \begin{array}{l }  \\ 
-slope =   \frac{f(x )  - f(a)}{x  - a }  =    
+slope =   \frac{f(x )  - f(a)}{x  - a }  =    \frac{f(x )  - f(a)}{x  - a } 
 \end{array}
 $$
 
