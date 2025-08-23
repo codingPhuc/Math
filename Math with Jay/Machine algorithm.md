@@ -18,4 +18,5 @@ model  me
 pseudo - quantum parrel HRM model  
 
 
-back  popera
+back  popergation model  is like  a weal 
+there is a like a 
