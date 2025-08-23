@@ -154,6 +154,10 @@ P  \text{ given by }  x  = -3
 $$
 
 
+| x   | f(x) |
+| --- | ---- |
+|     |      |
+
 
 
 
@@ -165,5 +169,5 @@ $$
 # #todo  
 - [ ] what is the rate of change, why is instances rate of change so importan
 - [ ] why is it called the  instantaneous rate of change  
-- [ ] why is it called the  instantaneous rate of change
+- [ ]what is the seca
 
