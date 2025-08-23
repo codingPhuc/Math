@@ -156,13 +156,6 @@ This new notation is introduced because, as the sources explain, it will often b
 
 
 
-
-
-
-
-
-
-
 # #todo  
 - [ ] what is the rate of change, why is instances rate of change so importan
 - [ ] why is it called the  instantaneous rate of change  
