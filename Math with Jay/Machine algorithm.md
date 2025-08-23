@@ -16,3 +16,6 @@ model  me
 
 
 pseudo - quantum parrel HRM model  
+
+
+back  popera
