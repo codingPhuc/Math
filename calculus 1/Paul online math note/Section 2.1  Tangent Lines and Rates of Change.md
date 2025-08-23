@@ -16,7 +16,7 @@ but if we plug in any number it will cause the slope to be less accurate since w
 
 
 $$
-h(x) =  \frac{ f(h +a) + -f(a) }{h_}
+h(x) =  \frac{ f(h +a) + -f(a) }{h  }  
 $$
 
 # #todo  
