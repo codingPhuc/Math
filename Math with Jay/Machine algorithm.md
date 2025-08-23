@@ -25,4 +25,4 @@ how can we get the data to the people
 building the model  cs  
 \
 
-the pear  review  paper, if you research paper as achirvement, there is a top tier, teacher they work to give us informaiton and help on what module we doing 
+the pear  review  paper, if you research paper as achivement, there is a top tier, teacher they work to give us informaiton and help on what module we doing 
