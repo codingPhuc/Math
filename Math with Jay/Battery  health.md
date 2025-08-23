@@ -9,3 +9,5 @@ that battery
 13 battery life if
 the more cicle you have more integrety  the loses  
 apple setting system setting click on battery health  condition and circle 
+
+ask
