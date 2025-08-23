@@ -27,4 +27,4 @@ building the model  cs
 
 the pear  review  paper, if you research paper as achivement, there is a top tier, teacher they work to give us informaiton and help on what module we doing 
 
-entering community  college, do they take into 
+entering community  college, do they take into account the age, you cannoth ave
