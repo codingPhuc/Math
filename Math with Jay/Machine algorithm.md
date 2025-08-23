@@ -13,3 +13,6 @@ ml algorithm
 
 Jay research paper 
 model  me 
+
+
+pseudo - quantum parrel HRM m
