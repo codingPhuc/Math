@@ -30,3 +30,5 @@ the pear  review  paper, if you research paper as achivement, there is a top tie
 entering community  college, do they take into account the age, you cannot have 2 and half year in community college 
 
 so much data  on it that like the output is not that much a different 
+
+10  terrrabyte of data 5 % pervf
