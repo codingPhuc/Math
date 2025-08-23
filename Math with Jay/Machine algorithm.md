@@ -38,4 +38,5 @@ HRM have curve  it  but because of that it not really that good
 
 
 mostly  python 
-docker  m
+docker  make sure everything work other 
+rust version of python that work effeciently 
