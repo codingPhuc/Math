@@ -46,16 +46,16 @@ learning score:
 
 You can even invent your own consistent shortcuts for words like:
 
-| Symbol  | Shortcut For                               | Example                            |
-| ------- | ------------------------------------------ | ---------------------------------- |
-| ≠       | "Not equal"                                | x≠yx ≠ y means x is not equal to y |
-| ↑ ↓ → ← | "Increase, decrease, leads to, comes from" | Profit ↑ = good                    |
-| ⟹       | "Leads to / Results in"                    | Mutation ⟹ Disease                 |
-| #****   | "Number" or "count"                        | # of genes = 20,000                |
-| %       | "Percent"                                  | 80% efficiency                     |
-| ∆       | "Change in"                                | ∆x = x₂ - x₁                       |
-| ~       | "Similar to"                               | A ~ B                              |
-| @       | "At" (especially in locations)             | @ locus 7q31                       |
+| Symbol | Shortcut For                   | Example                            |
+| ------ | ------------------------------ | ---------------------------------- |
+| ≠      | "Not equal"                    | x≠yx ≠ y means x is not equal to y |
+| →      | approaching                    | Profit ↑ = good                    |
+| ⟹      | "Leads to / Results in"        | Mutation ⟹ Disease                 |
+| #****  | "Number" or "count"            | # of genes = 20,000                |
+| %      | "Percent"                      | 80% efficiency                     |
+| ∆      | "Change in"                    | ∆x = x₂ - x₁                       |
+| ~      | "Similar to"                   | A ~ B                              |
+| @      | "At" (especially in locations) | @ locus 7q31                       |
 
 ---
 
