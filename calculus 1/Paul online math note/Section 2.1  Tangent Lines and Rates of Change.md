@@ -94,6 +94,34 @@ Let's move on to your next question:
 the general formula in the source for generating the two points, the slope formula. We need this to find the slope of the secant line in order to find the slopes of the tangent line the formula require 2 point, the first point the point where the graph and tangent line touch. The second point we need to create our self, which can be on either side of the first point by plugging a choosen x access to create a y access in the graph the formula is : $slope=\frac{x_{2} - x_{1}}{y_{2}-y_{1}}$
 ### #ai_explaination 
 
+You've done a great job explaining the **purpose** of the secant line slope and **how the two points are chosen** in the process! You correctly stated that we need the secant line's slope to find the tangent line's slope, and that the first point is where the graph and tangent line touch ((P = (a, f(a)))). You also rightly noted that the second point, (Q = (x, f(x))), can be chosen on either side of the first point by picking an (x)-value and finding its corresponding (f(x)) value on the graph.
+
+However, there's a crucial detail in your formula for the slope. The formula you provided, (slope=\frac{x_{2} - x_{1}}{y_{2}-y_{1}}), is actually the reciprocal of the standard slope formula.
+
+**Rating: 6/10** - You've demonstrated a strong conceptual understanding of _why_ and _how_ secant lines are used to approximate tangent lines, but the mathematical formula itself was inverted.
+
+---
+
+Here's the correct explanation based on the sources:
+
+The general formula given in the sources for calculating the slope of a secant line between two points (P = (a, f(a))) and (Q = (x, f(x))) is:
+
+$$ \mathbf{{m_{PQ}} = \frac{{f\left( x \right) - f\left( a \right)}}{{x - a}}} \text{} $$
+
+This formula represents the **change in (y) divided by the change in (x)** between the two points.
+
+This secant line slope is used in the context of approximating the tangent line's slope because:
+
+- The tangent line itself requires only one point, and to find its slope directly, we would need a second point, which we don't initially have.
+- By taking a second point (Q) that is **on the graph of the function** and **moving it closer and closer to the point (P)** (the point of tangency), the slope of the secant line connecting (P) and (Q) will get closer and closer to the actual slope of the tangent line.
+- The process involves observing the trend of the secant line slopes as (x) approaches (a) from both the left and the right sides. Even though we cannot plug (x = a) directly into the formula (as it would result in division by zero), we can determine information about what is happening at (x = a) by looking at what is happening around it.
+
+---
+
+Let's continue.
+
+## The sources mention a "change of notation" towards the end of Section 2.1. What is the **new variable** introduced in this notation, and how does it relate to the original (x) and (a) in the secant line slope formula? What is the resulting "new" form of the slope formula?
+
 
 
 # #todo  
