@@ -149,7 +149,7 @@ This new notation is introduced because, as the sources explain, it will often b
 $$
 \begin{array}{l }  \\
 f(x) =   3( x+  2)^2       \\
-x =  - 3   \\
+   \\
 
 \end{array}
 $$
