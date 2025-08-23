@@ -34,7 +34,7 @@ $$
 so $a=b =0$
 
 $\{ 1 , \sqrt{ 2 } \}$  is a basic for  $Q(\sqrt{ 2 })$ as  a vector space over Q   
-
+Vbshsjshsjsn
 Dvdvevevervdb
 $dimQ(\sqrt{ 2 })=2$
 what is a dimension ?  
