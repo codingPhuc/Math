@@ -170,6 +170,13 @@ $$
 
 
 
+$$
+\begin{array}{l }  \\
+f(x) =   3( x+  2)^2        \\
+P  \text{ given by }  x  = -3 
+\end{array}
+$$
+
 
 
 
