@@ -171,8 +171,18 @@ $$
 | -2.99<br>    | 2.9403     |
 | . -2.999<br> | 2.94003    |
 | -2.9999      | 2.940003   |
-- it  should be something like thisn 
+- it  should be something like this  
 
+
+|x|mPQ|x|mPQ|
+|---|---|---|---|
+|-3.5|-7.5|-2.5|-4.5|
+|-3.1|-6.3|-2.9|-5.7|
+|-3.01|-6.03|-2.99|-5.97|
+|-3.001|-6.003|-2.999|-5.997|
+|-3.0001|-6.0003|-2.9999|-5.9997|
+
+so we can estimate that the slope of the secant line is -6 since it approaching -6 from the left and right 
 
 
 $$
