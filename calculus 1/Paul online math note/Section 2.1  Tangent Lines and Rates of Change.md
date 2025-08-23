@@ -9,7 +9,7 @@ amount of time:
 learning score:
 ---
 
-
+the general  formula in the source for generating the two points $P =(a,f(a) )$
 
 
 
