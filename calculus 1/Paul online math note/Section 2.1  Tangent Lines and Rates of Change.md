@@ -171,8 +171,10 @@ $$
 | -2.99<br>    | 2.9403     |
 | . -2.999<br> | 2.94003    |
 | -2.9999      | 2.940003   |
-- it  should be something like this  
-
+$$
+slope =   \frac{f(x )  - f(a)}{x  - a }  =    \frac{3.63 -3}{-3.1  + 3 }   =  \frac{0.63}{-0.1}  =  -6.3  \\
+$$
+- it  should be something like this 
 
 |x|mPQ|x|mPQ|
 |---|---|---|---|
@@ -187,7 +189,7 @@ so we can estimate that the slope of the secant line is -6 since it approaching 
 
 $$
 \begin{array}{l }  \\ 
-slope =   \frac{f(x )  - f(a)}{x  - a }  =    \frac{3.63 -3}{-3.1  + 3 }   =  \frac{0.63}{-0.1}  =  -6.3  \\
+
 y -y_{1}   =  m(x -  x_{1})  \\
  y   - 3   =   m(x  + 3)  \\
 y =  -6(x  + 3)   + 3 \\
