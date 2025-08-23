@@ -122,6 +122,9 @@ Let's continue.
 
 ## The sources mention a "change of notation" towards the end of Section 2.1. What is the **new variable** introduced in this notation, and how does it relate to the original (x) and (a) in the secant line slope formula? What is the resulting "new" form of the slope formula?
 
+### #human_explaination 
+The change of notion The change of notion did mean that instead of the regular formula that we have been using to represent the SO form of the equation no to represent the rate of change and to represent the slope of the equation we can instead replace the input variable X with a plus H with H either being on the on the on the right side of a or on the left side of a which will not matter much they will be soaking a on a new formula that will relate that will basically combine all the different formula that we have learn into one singular thing that we can refer to like devotery volatile formulae wake up James formula and the tangent line formula If the operation C it will create a formula like h(x) = \frac{ f(h +a) + -f(a) }{h }
+
 
 
 # #todo  
