@@ -146,7 +146,13 @@ Let's refine the specifics based directly on the sources:
 This new notation is introduced because, as the sources explain, it will often be **easier to work with this form** when dealing with these problems as a single, more general concept, especially as we transition into the study of limits.
 # #Practice_Exercise  
 
+$$
+\begin{array}{l }  \\
+f(x) =   3( x+  2)^2       \\
+x =  - 3   \\
 
+\end{array}
+$$
 
 
 
