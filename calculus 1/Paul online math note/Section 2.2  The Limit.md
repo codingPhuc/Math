@@ -162,6 +162,12 @@ $$
 \end{array}   \right. 
 $$
 
+
+
+
+
+
+
 # #todo 
 - [ ]  what does this sentence mean ? _There are many functions out there in the world that we can make as close to_ _L_ _for specific values of_ _x_ _that are close to_ _a__, but there will be other values of_ _x_ _closer to_ _a_ _that give functions values that are nowhere near close to_ _L_  
 - [ ] why does 0.01  cause the graph to  result in 0  and if  it is other digit after the decimal point it is different ? 
