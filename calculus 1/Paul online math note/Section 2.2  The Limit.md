@@ -70,7 +70,7 @@ we need to  note two thing :
  f(x) no more than 0.001 away from L. This means that we want one of the following
 
 $f(x)−L<0.001$ if f(x) is larger than 
-$L−f(x)<0.001$ if f(x) is smaller than L
+\L−f(x)<0.001$ if f(x) is smaller than L
 where L is a the limit or value that we want the function to be closest to a 
 L is the domain we put on x, to get the range of f(x) that satisfy L 
 
