@@ -87,9 +87,8 @@ $$
 
 
 $$
-\begin{array }
-
-\end{array }
+\begin{array}{l}
+\end{array}
 \lim_{ t \to 0 } \cos\left(  \frac{\pi}{t} \right)   
 $$
 
