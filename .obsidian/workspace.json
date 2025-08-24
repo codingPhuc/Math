@@ -60,12 +60,14 @@
             "id": "b48a4cc9d3354bbd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 15.37.49.excalidraw.md"
+                "file": "mathwiki/Notes/fixed_point_theorems_of_p_groups.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 15.37.49.excalidraw"
+              "icon": "lucide-file",
+              "title": "fixed_point_theorems_of_p_groups"
             }
           }
         ]
@@ -225,7 +227,9 @@
   },
   "active": "b48a4cc9d3354bbd",
   "lastOpenFiles": [
+    "calculus 1/12 hours calculus courses/Basic study structure outline.md",
     "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
+    "Excalidraw/7.3 ADD SUB  RATIONAL  EXPRESION 2025-02-12 15.37.49.excalidraw.md",
     "calculus 1/12 hours calculus courses/2.5 Continuity on interval and continuous function.md",
     "calculus 1/12 hours calculus courses/Graphs of Sinusoidal Functions.md",
     "calculus 1/12 hours calculus courses/Lines Graphs and Equations.md",
@@ -242,7 +246,6 @@
     "calculus 1/12 hours calculus courses/2.5.2 Intermediate Value Theorem.md",
     "calculus 1/12 hours calculus courses/2.6.2 Limits at Infinity and Algebraic Tricks.md",
     "calculus 1/12 hours calculus courses/2.6.1 limit at infinity and Graphs.md",
-    "calculus 1/12 hours calculus courses/Basic study structure outline.md",
     "calculus 1/12 hours calculus courses/Calculus 12 hour course.md",
     "calculus 1/Paul online math note/Section 2.2  The Limit.md",
     "calculus 1/Paul online math note/Section 2.1  Tangent Lines and Rates of Change.md",
@@ -250,7 +253,6 @@
     "calculus 1/Paul online math note/Section 1.1  Functions.md",
     "calculus 1/Paul online math note/Section 1.7  Exponential Functions.md",
     "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
-    "calculus 1/Paul online math note/Section 1.5 Solving Trig Equations with Calculators, Part I.md",
     "picture/Pasted image 20250823091751.png",
     "Math with Jay",
     "picture/Pasted image 20250820212825.png",
