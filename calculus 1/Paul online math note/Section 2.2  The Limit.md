@@ -125,9 +125,10 @@ $$
     % Text annotations  
     % Draw the parabola
 
-    \draw[thick,red,domain=-9.2:9.2,samples=200]
+    \draw[thick,red,domain=0.1:9.2,samples=200]
     plot (\x,{cos( pi/\x r)});
-
+    \draw[thick,red,domain=,samples=200]
+    plot (\x,{cos( pi/\x r)});
 \end{tikzpicture}
 \end{document}
 
