@@ -87,7 +87,7 @@ $$
 
 
 $$
-l
+\lim_{ t \to 0 }  \\lim_{  \to \infty } 
 $$
 
 # todo 
