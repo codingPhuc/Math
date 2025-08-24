@@ -13,7 +13,8 @@ learning score:
 # #definition 
 
 $$
-\begin{array}
+\begin{array}{l} \\
+\lim_{  x \to 2 }  
 \end{array}
 $$
 
