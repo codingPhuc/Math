@@ -89,7 +89,7 @@ $$
 $$
 \begin{array}{l}  \\
 \lim_{ t \to 0 } \cos\left(  \frac{\pi}{t} \right)     \\
-
+\lim_{ t \to 0 } \cos\left(  \frac{\pi}{t} \right) 
 \end{array}
 
 $$
