@@ -63,6 +63,9 @@ we need to  note two thing :
 
 ``` 
 
+ Estimate the value of 
+
+
 
 # todo 
 - [ ]  what does this sentence mean ? _There are many functions out there in the world that we can make as close to_ _L_ _for specific values of_ _x_ _that are close to_ _a__, but there will be other values of_ _x_ _closer to_ _a_ _that give functions values that are nowhere near close to_ _L_ 
@@ -70,7 +73,7 @@ we need to  note two thing :
  f(x) no more than 0.001 away from L. This means that we want one of the following
 
 $f(x)−L<0.001$ if f(x) is larger than 
-\L−f(x)<0.001$ if f(x) is smaller than L
+$L−f(x)<0.001$ if f(x) is smaller than L
 where L is a the limit or value that we want the function to be closest to a 
 L is the domain we put on x, to get the range of f(x) that satisfy L 
 
