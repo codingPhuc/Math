@@ -14,7 +14,7 @@ learning score:
 
 $$
 \begin{array}{l} \\
-\lim_{  x \to 2 } \frac{x^2 + 4x  0}{}
+\lim_{  x \to 2 } \frac{x^2 + 4x  - 12}{ x^2 - 2x }
 \end{array}
 $$
 
