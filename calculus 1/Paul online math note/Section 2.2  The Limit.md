@@ -10,12 +10,6 @@ learning score:
 ---
 
 
-$$ \begin{array}
-
-\end{array}
-\lim_{ x \to 2 }   
-$$
-
 
 
 # todo  
