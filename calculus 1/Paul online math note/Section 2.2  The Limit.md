@@ -88,7 +88,7 @@ $$
 
 $$
 \begin{array}{l}  \\
-\lim_{ t \to 0 } \cos\left(  \frac{\pi}{t} \right)     \\
+g(x)  =  \lim_{ t \to 0 } \cos\left(  \frac{\pi}{t} \right)     \\
 \end{array}
 $$
 
