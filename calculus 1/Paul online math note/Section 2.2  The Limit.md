@@ -111,7 +111,7 @@ $$
 f\left( \frac{2}{2001} \right)    = 0   
 $$
 $$
-f
+f\left( \frac{4}{4001} \right)  =  \sqrt{ 2 }
 $$
 
 
