@@ -127,7 +127,7 @@ $$
 
     \draw[thick,red,domain=0.1:3,samples=200]
     plot (\x,{cos( pi/\x r)});
-    \draw[thick,red,domain=-3:0.1,samples=200]
+    \draw[thick,red,domain=-3:-0.1,samples=200]
     plot (\x,{cos( pi/\x r)});
 \end{tikzpicture}
 \end{document}
