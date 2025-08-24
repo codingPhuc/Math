@@ -19,6 +19,19 @@ $$
 $$
 
 
+| x            | f(x)       |
+| ------------ | ---------- |
+| -3.5<br>     | 6.75       |
+| -3.1<br>     | 3.63       |
+| -3.01<br>    | 3.0603     |
+| -3.001<br>   | 3.006003   |
+| -3.0001      | 3.00060003 |
+| -2.5<br>     | 0.75       |
+| -2.9<br>     | 2.43       |
+| -2.99<br>    | 2.9403     |
+| . -2.999<br> | 2.94003    |
+| -2.9999      | 2.940003   |
+
 
 # todo  
 - [ ]  what does this sentence mean ? _There are many functions out there in the world that we can make as close to_ _L_ _for specific values of_ _x_ _that are close to_ _a__, but there will be other values of_ _x_ _closer to_ _a_ _that give functions values that are nowhere near close to_ _L_ 
