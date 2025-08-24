@@ -65,9 +65,10 @@ we need to  note two thing :
 
  Estimate the value of the following limit : 
  $$
-\lim_{ x \to  2 }  g(x)   where ,  g(x)   =   \left\{ \begin{array} & 
+\lim_{ x \to  2 }  g(x)   where ,  g(x)   =   \left\{ \begin{array}{l}  \\
+x^2  
 
-\end{array} &   \right.
+\end{array}  \right.
 $$
 
 
