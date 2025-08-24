@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jay",
+                "query": "sin cos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,7 +225,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b48a4cc9d3354bbd",
+  "active": "052a5656ec4c2d4e",
   "lastOpenFiles": [
     "calculus 1/12 hours calculus courses/Lines Graphs and Equations.md",
     "calculus 1/12 hours calculus courses/Limits using Algebraic Tricks.md",
