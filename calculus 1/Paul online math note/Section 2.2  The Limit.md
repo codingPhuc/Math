@@ -12,9 +12,10 @@ learning score:
 
 # #definition 
 
-
-
-
+$$
+\begin{array}
+\end{array}
+$$
 
 
 
