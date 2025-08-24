@@ -65,8 +65,9 @@ we need to  note two thing :
 
  Estimate the value of the following limit : 
  $$
-\lim_{ x \to  2 }  g(x)  \text{ where }   ,  g(x)   =   \left\{ \begin{array}{l}  \\
-\frac{x^2 + 4x   -12 }{x^2 -2x}   \\
+\lim_{ x \to  2 }  g(x)  \text{ where }   ,  g(x)   =   \left\{ \begin{array}{l}  
+\frac{x^2 + 4x   -12 }{x^2 -2x}  \\
+6   \\
 \end{array}  \right.
 $$
 
