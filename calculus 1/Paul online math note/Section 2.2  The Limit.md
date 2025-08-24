@@ -157,7 +157,8 @@ this function does not setter in a single number so the limit does not exit
 
 $$
 \lim_{  t \to 0 }  H(t)  where ,  H(t)   =   \left\{ \begin{array}{l}  \\
- 
+ 0 \text{ if }  t <   0  \\
+1 \text{ if } t > =
 \end{array}   \right. 
 $$
 
