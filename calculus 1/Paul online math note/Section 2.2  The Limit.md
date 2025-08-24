@@ -149,7 +149,7 @@ $$
 
 ``` 
 
-as we can see in thre
+as we can see in the graph the function oscillations increase 
 
 
 # #todo 
