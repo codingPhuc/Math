@@ -156,7 +156,7 @@ this function does not setter in a single number so the limit does not exit
 
 
 $$
-\lim_{  t \to 0 }  H(t)  where ,  H(t)   =   \left\{  \right\} 
+\lim_{  t \to 0 }  H(t)  where ,  H(t)   =   \left\{ 0   \right. 
 $$
 
 # #todo 
