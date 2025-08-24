@@ -87,7 +87,10 @@ $$
 
 
 $$
-\lim_{ t \to 0 }  \\lim_{  \to \infty } 
+\begin{array }
+
+\end{array }
+\lim_{ t \to 0 } \cos\left(  \frac{\pi}{t} \right)   
 $$
 
 # todo 
