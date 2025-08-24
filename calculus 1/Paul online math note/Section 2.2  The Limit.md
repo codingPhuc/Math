@@ -64,6 +64,9 @@ we need to  note two thing :
 ``` 
 
  Estimate the value of the following limit : 
+ $$
+\lim_{ x \to  2 }  g( )
+$$
 
 
 
