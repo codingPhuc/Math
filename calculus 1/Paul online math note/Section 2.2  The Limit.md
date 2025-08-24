@@ -63,7 +63,7 @@ we need to  note two thing :
 
 ``` 
 
- Estimate the value of 
+ Estimate the value of the following limit : 
 
 
 
