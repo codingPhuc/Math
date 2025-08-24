@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sin cos",
+                "query": "math note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,7 +241,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "052a5656ec4c2d4e",
   "lastOpenFiles": [
     "calculus 1/Paul online math note/Section 2.2  The Limit.md",
     "calculus 1/12 hours calculus courses/Graph of Sin and Cos.md",
