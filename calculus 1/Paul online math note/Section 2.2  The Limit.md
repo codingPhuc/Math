@@ -53,7 +53,7 @@ we need to  note two thing :
 
     % Text annotations  
     % Draw the parabola
-   \draw[very thick, red, domain=-3:3, smooth] plot(\x, {((\x)^2 + 4*\x - 12)/((\x)^2 - 2*())});
+   \draw[very thick, red, domain=-3:3, smooth] plot(\x, {((\x)^2 + 4*\x - 12)/((\x)^2 - 2*\x});
 \end{tikzpicture}
 \end{document}
 
