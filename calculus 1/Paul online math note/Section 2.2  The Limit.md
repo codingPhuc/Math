@@ -29,7 +29,7 @@ $$
 | 2.001 | 3.9985    |
 we need to  note two thing :  
 1. first the domain of the function does not accept x = 2  it will cause an undefine error if it does 
-2. 
+2. from the table we can see that the function is 
 
 
 # todo  
