@@ -72,6 +72,15 @@ we need to  note two thing :
 $$
 
 
+| x     | f(x)      |
+| ----- | --------- |
+| 1.9   | 4.157     |
+| 1.99  | 4.01507   |
+| 1.999 | 4.0015007 |
+| 2.1   | 3.857     |
+| 2.01  | 3.985     |
+| 2.001 | 3.9985    |
+
 
 # todo 
 - [ ]  what does this sentence mean ? _There are many functions out there in the world that we can make as close to_ _L_ _for specific values of_ _x_ _that are close to_ _a__, but there will be other values of_ _x_ _closer to_ _a_ _that give functions values that are nowhere near close to_ _L_ 
