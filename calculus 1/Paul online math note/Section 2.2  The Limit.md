@@ -157,7 +157,7 @@ this function does not setter in a single number so the limit does not exit
 
 # #todo 
 - [ ]  what does this sentence mean ? _There are many functions out there in the world that we can make as close to_ _L_ _for specific values of_ _x_ _that are close to_ _a__, but there will be other values of_ _x_ _closer to_ _a_ _that give functions values that are nowhere near close to_ _L_  
-- [ ] why does 0.01  happen at  
+- [ ] why does 0.01  cause t
 - [ ] what make  L and a different is L just a way of saying the limit of the function getting closer and closer to basically the function is getting close to a, so why do we need to both make it closer to a and L. Or does it mean that the limit should exit in a close range, a range that we define to get us the best result of x satisfying L condition like this : 
  f(x) no more than 0.001 away from L. This means that we want one of the following
 
