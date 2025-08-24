@@ -124,7 +124,7 @@ $$
 
     % Text annotations  
     % Draw the parabola
-   \draw[very thick, red, domain=-3:3, smooth] plot(\x, {cos()});
+   \draw[very thick, red, domain=-3:3, smooth] plot(\x, {cos(pi)});
    \draw[dotted, blue, domain=-6:6, smooth] plot (\x, 1);
      \draw[densely dotted, blue, domain=-6:6, smooth] plot (\x, -1);
 \end{tikzpicture}
