@@ -124,8 +124,10 @@ $$
 
     % Text annotations  
     % Draw the parabola
-   \draw[very thick, red, domain=-2:-0.00001, smooth] plot(\x, {cos((3.14/\x) r)});
- \draw[very thick, red, domain=0.00001:2 , smooth] plot(\x, {cos((3.14/\x )r)});
+
+    \draw[thick,red,domain=-9.2:9.2,samples=200]
+    plot (\x,{cos(\x r)});
+
 \end{tikzpicture}
 \end{document}
 
