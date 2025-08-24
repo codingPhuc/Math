@@ -65,7 +65,9 @@ we need to  note two thing :
 
  Estimate the value of the following limit : 
  $$
-\lim_{ x \to  2 }  g(x)   where ,  g(x)   =   \left\{  \right
+\lim_{ x \to  2 }  g(x)   where ,  g(x)   =   \left\{ \begin{array} & 
+
+\end{array} &   \right.
 $$
 
 
