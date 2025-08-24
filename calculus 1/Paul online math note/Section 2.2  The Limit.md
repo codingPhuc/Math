@@ -149,7 +149,8 @@ $$
 
 ``` 
 
-as we can see in the graph the function oscillations increase 
+as we can see in the graph the function oscillations increase in speed closer to T as we are getting 
+this function does not setter in a single number
 
 
 # #todo 
