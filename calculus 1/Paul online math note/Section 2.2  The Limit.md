@@ -126,7 +126,7 @@ $$
     % Draw the parabola
 
     \draw[thick,red,domain=-9.2:9.2,samples=200]
-    plot (\x,{cos( \x)});
+    plot (\x,{cos( pi/\x r)});
 
 \end{tikzpicture}
 \end{document}
