@@ -20,7 +20,6 @@ Here are **10 key questions** you can ask an AI (or use for review) based on the
 ### 📘 **Topical Review Questions from Section 2.2: The Limit**
 
 1. **What is the intuitive (working) definition of a limit?**
-    
 
 2. **Why does the value of a function at a point not matter when computing the limit at that point?**
 
