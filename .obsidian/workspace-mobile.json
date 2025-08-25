@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Determine Symmetry about the x-axis, y-axis, and the origin"
             }
+          },
+          {
+            "id": "b63f5157077cec41",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,11 +199,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c40ebe977575f400",
+  "active": "b63f5157077cec41",
   "lastOpenFiles": [
+    "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "independent version/Transformations video lecture.md",
-    "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
     "Math with Jay/Untitled 1.md",
     "2025-08-23.md",
     "calculus 1/Paul online math note/Section 2.3  One-Sided Limits.md",
