@@ -244,9 +244,11 @@ You made several excellent points:
 - **Specificity about accuracy:** While graphs help verify if a limit exists and what value it _approaches_, the sources note that they are not always ideal for getting _exact_ values, especially if the limit isn't a "nice" integer.
 
 In summary, your answer effectively highlights the key role of graphs in understanding limit behavior, particularly in scenarios where limits don't exist due to oscillation, which is a significant concept emphasized by the sources.
+
+
 ### #human_explaination 
 
-   
+   Degradably fun so I can tell you a lot about women like for example if you're using a lemme work like a function that use Koh Sing Tang or Co Tang it can create and once you do the limit not settling in the pacific point if you do not draw the graph of epilemic it can lead to an error where you think that a gig approaching or you can estimate a point based on all the cosig X point that you have a stick on the table but if you use a different value of X it it can create a point that jump all over the place so it get more accurate if you use a graph to verify your estimate
 
 
 ## **What is the significance of one-sided limits in determining whether a two-sided limit exists?**
