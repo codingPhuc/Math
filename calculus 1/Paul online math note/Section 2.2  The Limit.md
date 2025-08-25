@@ -21,28 +21,18 @@ Here are **10 key questions** you can ask an AI (or use for review) based on the
 
 1. **What is the intuitive (working) definition of a limit?**
     
-    - Ask to explain it in simple terms and why it's not the formal definition.
-        
+
 2. **Why does the value of a function at a point not matter when computing the limit at that point?**
-    
-    - Explore the difference between the function value and the limit.
-        
+
 3. **How do you estimate a limit using a table of values?**
-    
-    - Request a step-by-step example for practice.
-        
+
 4. **What does it mean for a function to approach a value from both sides? Why is this important?**
-    
-    - Ask for graphical and numerical explanations.
-        
+
 5. **When does a limit not exist?**
     
-    - Explore examples where limits fail to exist due to oscillation or differing values from the left and right.
-        
+
 6. **Why might estimating a limit from a table give the wrong answer?**
-    
-    - Ask for a cautionary example and explanation.
-        
+
 7. **What does the graph of a function tell you about the limit?**
  
         
