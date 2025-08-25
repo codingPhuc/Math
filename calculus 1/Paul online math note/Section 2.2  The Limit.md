@@ -177,6 +177,7 @@ Considering both sides is critically important for accurately estimating and und
 
 ## **When does a limit not exist?**
 
+
 ## **Why might estimating a limit from a table give the wrong answer?**
 
 ## **What does the graph of a function tell you about the limit?**
