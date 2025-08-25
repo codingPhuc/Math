@@ -13,7 +13,7 @@ pre law and pre med
 do not do all that back ground 
 1 thing the admission broad look for different from the other 90%  of people  that take different  thing take all the extra curicular law all these same shadowing all the same extra curicular same as every one else you don't need to be pre lawed 
 
-
+Hmm, I haven’t done any real complex modeling yet, but when I was pulling info from Finbert at the 6 year timeline 20 min intervals it really really slowed down my computer, but that was because I have a zero-drift arbitor and meta data storing at the same time.
 
 
 # 
