@@ -10,4 +10,8 @@ learning score:
 ---
 
 
-https://www.ratemyprofessors.com/professor/2593951
+https://www.ratemyprofessors.com/professor/2593951 
+
+
+
+https://www.ratemyprofessors.com/professor/2151528
