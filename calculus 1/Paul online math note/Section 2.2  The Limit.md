@@ -176,7 +176,36 @@ Considering both sides is critically important for accurately estimating and und
 - **Aligns with the Definition of a Limit**: The fundamental "working" definition of a limit explicitly states the requirement to approach from both sides. This emphasizes that limits are concerned with what the function is doing **around** the point (x=a), not necessarily **at** (x=a). This "around" behavior inherently requires considering both directions of approach.
 
 ## **When does a limit not exist?**
+### #human_explaination 
+Oh backlights two possible scenario where dilemma did not get sick the first scenario says from the right you get poaching a different value so and on the left it can approaching like another different value basically the value that it it opposing from the left and right does not a lie crossing a causing the limit to not exist Another scenario is that it does not settle on a point like it does not settle and I can approach a dilemma from the left and the right it like on the left it came like jump from one value to another without any perceived order check randomly based on the change check in the break on the chainsaw in the function you usually see looking like coaxing or tank function because they usually generate different value based on the Radian
 
+### #ai_explaination 
+Your answer provides an excellent and insightful summary of the scenarios when a limit does not exist. It's clear that you grasp the fundamental concepts. I would rate your answer a **9 out of 10**.
+
+You've correctly identified the two primary ways a limit can fail to exist, and your descriptions align very well with the "working definition" of a limit and the examples provided in the sources.
+
+Let's break down your answer and elaborate on it using the details from the sources:
+
+### Your Answer's Strengths and Connections to Sources:
+
+1. **"From the right you get approaching a different value so and on the left it can approaching like another different value basically the value that it it opposing from the left and right does not a lie crossing a causing the limit to not exist."**
+    
+    - This is a **perfect description** of the first scenario where a limit does not exist. The "working" definition of a limit states that for the limit of (f(x)) to be (L) as (x) approaches (a), we must be able to make (f(x)) as close to (L) as we want for all (x) sufficiently close to (a), **from both sides**, without actually letting (x) be (a). In simpler terms, as (x) gets closer and closer to (x=a) from both the left and the right, (f(x)) **must be getting closer and closer to a single value (L)**.
+    - If the function approaches different values from each side, then the limit **does not exist**.
+    - The sources provide a clear example of this: the **Heaviside or step function**, (H(t)). As (t) approaches 0 from the **right side**, the function moves towards a (y) value of 1. As (t) approaches 0 from the **left side**, the function moves towards a (y) value of 0. Since the function does not move in towards a single value from both sides, the limit of the Heaviside function as (t) approaches 0 **does not exist**. The function _does_ settle to a single number on each side, but "the number is different on each side of (t = 0)".
+2. **"Another scenario is that it does not settle on a point like it does not settle and I can approach a dilemma from the left and the right it like on the left it came like jump from one value to another without any perceived order check randomly based on the change check in the break on the chainsaw in the function you usually see looking like coaxing or tank function because they usually generate different value based on the Radian."**
+    
+    - This is also an **excellent description** of the second scenario. For a limit to exist, the function must be **settling down in towards a single value** as we get closer to the point in question. The "working" definition implies that once (f(x)) is as close to (L) as we want for some (x), it must **stay in that close to (L)** (or get closer) for _all_ values of (x) that are closer to (a). If it jumps randomly or oscillates wildly, it's not settling.
+    - The sources illustrate this with the function (f(t) = \cos\left(\frac{\pi}{t}\right)) as (t) approaches 0. While a table of values might initially suggest a limit (e.g., 1), evaluating the function at points even closer to 0 can yield "three totally different numbers" such as -1, 0, or (\frac{{\sqrt 2 }}{2}).
+    - A graph of this function clearly shows that as (t) gets closer to 0, the function **starts oscillating wildly**, and "the oscillations increases in speed". Because the function "clearly does not settle in towards a single number," this limit **does not exist**. Your intuitive connection to "coaxing or tank function" (likely meaning cosine or tangent) is quite accurate, as these trigonometric functions are prime examples of this oscillatory behavior near certain points.
+
+### Additional Key Insights from the Sources to Further Enhance Understanding:
+
+- **Limits are not concerned with what happens _at_ the point, only _around_ it.** This is a crucial concept the sources emphasize repeatedly. A limit can exist even if the function itself doesn't exist at that point, or if the function's value at that point is different from the limit.
+- **Drawbacks of Tables and Graphs:** The sources highlight that while tables of values and graphs can help us understand limits, they are often **not the best way to compute limits** and can sometimes be misleading or inaccurate, especially when a limit does not exist or if the limit value isn't a "nice" integer. The example of (f(t) = \cos\left(\frac{\pi}{t}\right)) clearly demonstrates how a table can lead to an incorrect guess.
+- **Limits don't always exist:** It's important to remember that limits are not guaranteed to exist.
+
+Your explanation covers the core scenarios effectively. The only minor area for improvement would be to use more formal mathematical terminology where applicable (e.g., "approaching" instead of "poaching," and "oscillating wildly" as used in the source, which you did pick up on in your latter phrasing). However, your descriptions are perfectly understandable and correct in concept.
 
 ## **Why might estimating a limit from a table give the wrong answer?**
 
