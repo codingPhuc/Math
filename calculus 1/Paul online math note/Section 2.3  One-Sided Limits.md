@@ -41,4 +41,5 @@ $$
 $$
 
 ![[Pasted image 20250825085743.png]] 
-so  event  on one side
+so  event  on one sided limit the limit does not need to exit 
+
