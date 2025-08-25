@@ -27,4 +27,4 @@ $$
 | - 0.1  | 0    |
 | -0.01  | 0    |
 | -0.001 | 0    |
-so the one sided limit when  $\lim_{ t \to 0^+ }    H(t)$ and $$
+so the one sided limit when  $\lim_{ t \to 0^+ }    H(t)$ and $\lim_{ t \to  0^- }  H(t)$ 
