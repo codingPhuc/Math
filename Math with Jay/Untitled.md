@@ -65,3 +65,7 @@ if we want more accuracy you cannot predict people behavior and stock
 
 
 find me a house give me a question over a here no other information bases of off instead of hourse 
+the Multi Vertices inside the space?
+It’s called Polytupes
+We accidentally rediscovered Polytupes
+
