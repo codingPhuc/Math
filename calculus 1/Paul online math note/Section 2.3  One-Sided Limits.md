@@ -49,7 +49,7 @@ so  event  on one sided limit the limit does not need to exit
 
 $$
 \lim_{ t \to 0^+ }    H(t)  \cap  \lim_{ t \to  0^- }  G(t)  \text{ where }   
-H(t )  = \left\{ \begin{array}{l} 0 \text{  if } t< 0    \\
+G(t )  = \left\{ \begin{array}{l} 0 \text{  if } t< 0    \\
 1  \text{ if } t\geq   0 
  \end{array}  \right. 
 
