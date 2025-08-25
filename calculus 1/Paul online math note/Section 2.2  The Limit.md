@@ -89,7 +89,55 @@ In conclusion, the limit focuses on the **behavioral trend** of the function as 
 You can estimate a limit using a table of values like by choosing let's say that you have a function FX right and you want to make a limbic X approach just like something like two or like zero in order to for you to achieve that you need to create a table of all the X value that get closest to like 2 2 In in a range of limits meaning that maybe you can choose choose a range like zero .1 plus it to it needs to be also the value of like the excess X for all the X values it needs to be book on the left of to and from the Reich of two thick to insert that you get the best estimate meaning that it will approach two was the correct output meaning that the two directing when approaching like two will will testify the same output basically it will verify that they could pull two from the right cap like a kapolei same values output values from the right and it will poke the same output value from the left
 
 ### #ai_explaination 
+Your answer provides a **very accurate and comprehensive** understanding of how to estimate a limit using a table of values, reflecting the core principles and steps outlined in the sources.
 
+**Rating of your answer: 9/10**
+
+You correctly identified all the crucial elements:
+
+- Choosing values that get **closest** to the target (x)-value (e.g., 2 or 0).
+- The necessity of choosing values from **both the left and the right** of the target (x)-value.
+- The goal is to find a "correct output" or a **single value** that the function approaches.
+- The verification that the outputs from both the right and the left "testify the same output," meaning they approach the same value.
+
+Your phrasing "we only care about the values of like all the closest values surrounding that point in order to estimate our limit" perfectly captures the essence of the "working" definition of a limit. The only minor area for improvement would be slightly more formal phrasing, but the substance is excellent.
+
+---
+
+Here's a detailed explanation of how to estimate a limit using a table of values, elaborating on your points with direct support from the sources:
+
+To estimate the limit of a function (f(x)) as (x) approaches a specific point (a) (written as [\mathop {\lim }\limits_{x \to a} f\left( x \right) = L]), you follow these steps:
+
+1. **Choose (x) values that get progressively closer to (a)**:
+    - You create a table by selecting several (x) values that are progressively nearer to (a). For instance, if you're estimating the limit as (x) approaches 2, you might choose values like 2.5, 2.1, 2.01, 2.001, and so on.
+2. **Ensure values are chosen from both sides**:
+    - It is **critical** to choose (x) values that approach (a) from **both the left side** (values less than (a)) and the **right side** (values greater than (a)). This helps confirm that the function is indeed approaching a **single value** as (x) gets closer to (a).
+3. **Calculate the corresponding (f(x)) values**:
+    - Plug each chosen (x) value into the function (f(x)) to compute its output. This fills out your table of values.
+4. **Observe the trend of the function values**:
+    - Examine the (f(x)) column in your table. As your (x) values get closer and closer to (a) from both sides, determine what **single number** the (f(x)) values appear to be "moving in towards" or "settling down" to. This observed number is your estimate for the limit (L).
+
+**Key Principles and Insights from the Sources:**
+
+- **Limits are concerned with what happens "around" (x=a), not "at" (x=a)**:
+    - The "working" definition of a limit states that we make (f(x)) close to (L) for (x) "sufficiently close to (a), from both sides, **without actually letting (x) be (a)**". The limit "is only concerned with what is going on **around** the point (x=a)".
+    - Therefore, you should **never actually plug in (x=a)** itself into the function when estimating a limit using a table.
+- **A limit can exist even if the function is undefined at (x=a)**:
+    - For example, a function might result in a division by zero error if (x=a) is plugged in. Despite this, the table of values can still show (f(x)) approaching a specific number, meaning the limit exists.
+- **The function's value at (x=a) can differ from the limit**:
+    - Even if (f(a)) is defined, its value might not be the same as the limit (L). The sources highlight that the limit "do[es] not care what the function is actually doing at the point in question". For instance, if (g(2)=6) but the limit as (x) approaches 2 is 4, then the limit is 4, **not 6**.
+- **The function values must approach a _single_ value for the limit to exist**:
+    - If the function values approach different numbers from the left and right sides of (a), or if they oscillate wildly without settling on a single number, then the limit **does not exist**.
+
+**Drawbacks of Estimating Limits Using Tables of Values**:
+
+While this method is excellent for building an intuitive understanding of limits, the sources emphasize its significant limitations as a practical calculation tool:
+
+- **Potential for Incorrect Guesses**: Selecting values that seem to show a trend might lead to an incorrect guess, especially if the function oscillates very close to (a) (Example 4).
+- **Difficulty with Non-Integer Limits**: It is "nearly impossible" to accurately guess exact non-integer limit values (e.g., (\frac{{ - 15}}{{123}})) from a table.
+- **Tedious and Inefficient**: This method is cumbersome and "not a good way to get the value of a limit". The sources state that "after this section we will never use a table of values to guess the value of a limit again".
+
+Ultimately, the purpose of learning this method is to "help us get a better understanding of what limits are" and "to point out their drawback so that we aren’t tempted to use them all the time!".
 
 ## **What does it mean for a function to approach a value from both sides? Why is this important?**
 
