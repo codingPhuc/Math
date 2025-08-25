@@ -44,12 +44,10 @@ Here are **10 key questions** you can ask an AI (or use for review) based on the
     - Ask for a cautionary example and explanation.
         
 7. **What does the graph of a function tell you about the limit?**
-    
-    - Ask for interpretation of limits using graphs, and what open/closed dots signify.
+ 
         
 8. **How can two functions have the same limit at a point even if one is undefined there?**
-    
-    - Explore with examples like piecewise or rational functions.
+
         
 9. **What are common mistakes students make when evaluating limits?**
 
