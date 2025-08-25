@@ -162,8 +162,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
-                "collapseAll": false,
+                "file": "calculus 1/Paul online math note/Section 2.2  The Limit.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Section 1.6  Solving Trig Equations with Calculators, Part II"
+              "title": "Backlinks for Section 2.2  The Limit"
             }
           },
           {
@@ -223,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +242,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "484e8598d1b88e37",
+  "active": "68ae72a7ca8d7c09",
   "lastOpenFiles": [
     "calculus 1/Paul online math note/Section 2.1  Tangent Lines and Rates of Change.md",
     "calculus 1/Paul online math note/Section 2.2  The Limit.md",
