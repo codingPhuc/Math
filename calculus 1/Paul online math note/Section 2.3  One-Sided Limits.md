@@ -31,3 +31,4 @@ so the one sided limit when  $\lim_{ t \to 0^+ }    H(t)=1$  and $\lim_{ t \to  
 
 
 
+![[Pasted image 20250825085558.png]]
