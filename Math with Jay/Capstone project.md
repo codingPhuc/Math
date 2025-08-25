@@ -10,7 +10,7 @@ learning score:
 ---
 
 [ Shin Liu](https://www.ratemyprofessors.com/professor/2593951 )
-
+[sliu@gwc.cccd.edu](mailto:sliu@gwc.cccd.edu)
 
 [ Shawn Taylor](https://www.ratemyprofessors.com/professor/2151528)
 
