@@ -62,4 +62,5 @@ $\lim_{x \to 6^-} f(x)5$
 $\lim_{x \to 6^+} f(x)=5$  
 $\lim_{x \to 6} f(x)=5$  
 
-# #
+# #inclass_note 
+
