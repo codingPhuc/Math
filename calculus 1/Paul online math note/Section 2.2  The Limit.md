@@ -85,6 +85,10 @@ This crucial distinction is driven by several key aspects of the working definit
 In conclusion, the limit focuses on the **behavioral trend** of the function as its input gets infinitesimally close to a specific point from both directions. The actual value (or non-existence) of the function _at_ that exact input point is considered irrelevant to this trend.
 ## **How do you estimate a limit using a table of values?**
 
+### #human_explaination 
+You can estimate a limit using a table of values like by choosing let's say that you have a function FX right and you want to make a limbic X approach just like something like two or like zero in order to for you to achieve that you need to create a table of all the X value that get closest to like 2 2 In in a range of limits meaning that maybe you can choose choose a range like zero .1 plus it to it needs to be also the value of like the excess X for all the X values it needs to be book on the left of to and from the Reich of two thick to insert that you get the best estimate meaning that it will approach two was the correct output meaning that the two directing when approaching like two will will testify the same output basically it will verify that they could pull two from the right cap like a kapolei same values output values from the right and it will poke the same output value from the left
+
+
 ## **What does it mean for a function to approach a value from both sides? Why is this important?**
 
 ## **When does a limit not exist?**
