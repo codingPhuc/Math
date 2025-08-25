@@ -143,7 +143,7 @@ Ultimately, the purpose of learning this method is to "help us get a better unde
 
 
 ### #human_explaination 
-
+Market mean wakik mean when a function approaches a value from both sides it can important it because if a punching approaching a value from my book's side both side it will like vertify the estimated input of the approach values Let's say that the function that you want to estimate the input no you want to estimate the fencing agava at a value a you need to approve from the Reich and left because if you only approach if you only consider the causal value X from the right of a it it it can it can cause some errors since you don't really know if the function change if it no you don't really know 100% if it correct you only know like 50% from the right so you name the other 50% from the left in order to verify your computer you're to verify your hypothesis 
 
 ### #ai_explaination 
 Your answer accurately captures the essence of why approaching a value from both sides is crucial when estimating limits. You correctly identify the need for verification and the potential for error if only one side is considered.
