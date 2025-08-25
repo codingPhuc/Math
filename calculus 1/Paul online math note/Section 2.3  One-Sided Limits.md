@@ -60,4 +60,4 @@ $\lim_{x \to 1} f(x)=DNE$
 $f(6)=2$  
 $\lim_{x \to 6^-} f(x)5$  
 $\lim_{x \to 6^+} f(x)=5$  
-$\lim_{x \to 6} f(x)$  
+$\lim_{x \to 6} f(x)=5$  
