@@ -57,7 +57,8 @@ In essence, as (x) gets closer and closer to (a) (from both sides), then (f(x)) 
 ## **Why does the value of a function at a point not matter when computing the limit at that point?**
 
 
-### 
+### #human_explaination 
+
 ## **How do you estimate a limit using a table of values?**
 
 ## **What does it mean for a function to approach a value from both sides? Why is this important?**
