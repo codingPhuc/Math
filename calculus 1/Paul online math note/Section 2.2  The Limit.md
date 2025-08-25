@@ -18,30 +18,28 @@ Here are **10 key questions** you can ask an AI (or use for review) based on the
 ---
 
 ### 📘 **Topical Review Questions from Section 2.2: The Limit**
-
-1. **What is the intuitive (working) definition of a limit?**
-
-2. **Why does the value of a function at a point not matter when computing the limit at that point?**
-
-3. **How do you estimate a limit using a table of values?**
-
-4. **What does it mean for a function to approach a value from both sides? Why is this important?**
-
-5. **When does a limit not exist?**
-    
-
-6. **Why might estimating a limit from a table give the wrong answer?**
-
-7. **What does the graph of a function tell you about the limit?**
- 
-        
-8. **How can two functions have the same limit at a point even if one is undefined there?**
-
-        
-9. **What are common mistakes students make when evaluating limits?**
-
-10. **What is the significance of one-sided limits in determining whether a two-sided limit exists?**
-    
+## 
+## **What is the intuitive (working) definition of a limit?**
+## 
+## **Why does the value of a function at a point not matter when computing the limit at that point?**
+## 
+## **How do you estimate a limit using a table of values?**
+## 
+## **What does it mean for a function to approach a value from both sides? Why is this important?**
+## 
+## **When does a limit not exist?**
+##     
+## 
+## **Why might estimating a limit from a table give the wrong answer?**
+## 
+## **What does the graph of a function tell you about the limit?**
+##  
+##         
+## **How can two functions have the same limit at a point even if one is undefined there?**
+## 
+##         
+## **What are common mistakes students make when evaluating limits?**
+hat is the significance of one-sided limits in determining whether a two-sided limit exists?**
 
 
 
