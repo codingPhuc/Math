@@ -3,7 +3,7 @@ title: Adjunction
 references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
 tags:
   - In_Progress
-learning method: Vault + Read + Recall + Practice  (VRRP Method)
+learning method: RAP (Read – Answer – Practice)
 Current date: 2025-08-23
 amount of time: 3h
 learning score:
