@@ -43,5 +43,13 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "obsidian-heading-shifter:apply-heading2": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "2"
+    }
   ]
 }
