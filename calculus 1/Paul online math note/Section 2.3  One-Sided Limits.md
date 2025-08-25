@@ -8,7 +8,10 @@ Current date: "2025-08-24"
 amount of time: 
 learning score:
 ---
-Estimate the value of the following limits 
+
+#  #definition 
+
+## Estimate the value of the following limits 
 $$
 \lim_{ t \to 0^+ }    H(t)  \cap  \lim_{ t \to  0^- }  H(t)  \text{ where }   
 H(t )  = \left\{ \begin{array}{l} 0 \text{  if } t< 0    \\
@@ -42,4 +45,13 @@ $$
 
 ![[Pasted image 20250825085743.png]] 
 so  event  on one sided limit the limit does not need to exit 
+
+
+$$
+\lim_{ t \to 0^+ }    H(t)  \cap  \lim_{ t \to  0^- }  H(t)  \text{ where }   
+H(t )  = \left\{ \begin{array}{l} 0 \text{  if } t< 0    \\
+1  \text{ if } t\geq   0 
+ \end{array}  \right. 
+
+$$
 
