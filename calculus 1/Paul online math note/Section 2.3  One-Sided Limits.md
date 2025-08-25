@@ -51,7 +51,7 @@ $$
 \lim_{ t \to 0^+ }    H(t)  \cap  \lim_{ t \to  0^- }  G(t)  \text{ where }   
 G(t )  = \left\{ \begin{array}{l} \frac{x^2 + 4x - 12}{ x^2  - 2x} \text{  if }  x \neq 2  \\
 6  \text{ if } x  =  2  
- \end{array}  \right. 
+ \end{rray}  \right. 
 
 $$
 
