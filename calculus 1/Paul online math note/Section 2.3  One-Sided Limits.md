@@ -53,8 +53,8 @@ $\lim_{x \to -4^+} f(x)=2$
 $\lim_{x \to -4} f(x)=2$  
 
 $f(1)=-2$  
-$\lim_{x \to 1^-} f(x)=$  
-$\lim_{x \to 1^+} f(x)$  
+$\lim_{x \to 1^-} f(x)=-2$  
+$\lim_{x \to 1^+} f(x)=-$  
 $\lim_{x \to 1} f(x)$  
 
 $f(6)$  
