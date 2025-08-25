@@ -55,7 +55,9 @@ There are two **crucial aspects** of this working definition that are repeatedly
 In essence, as (x) gets closer and closer to (a) (from both sides), then (f(x)) **must** be getting closer and closer to a single value, (L). If the function values approach different numbers from either side, or if they oscillate wildly without settling on a single value, then the limit does not exist.
 
 ## **Why does the value of a function at a point not matter when computing the limit at that point?**
- 
+
+
+### 
 ## **How do you estimate a limit using a table of values?**
 
 ## **What does it mean for a function to approach a value from both sides? Why is this important?**
