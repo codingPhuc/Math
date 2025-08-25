@@ -11,8 +11,8 @@ learning score:
 Estimate the value of the following limits 
 $$
 \lim_{ t \to 0^+ }    H(t)  \cap  \lim_{ t \to  0^- }  H(t)  \text{ where }   
-H(t )  = \left\{ \begin{array}{l} 0 \text{  if } t< 0   \\
- \\
+H(t )  = \left\{ \begin{array}{l} 0 \text{  if } t< 0    \\
+1  \text{ if }
  \end{array}  \right. 
 
 $$
