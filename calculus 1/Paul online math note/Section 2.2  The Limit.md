@@ -28,18 +28,16 @@ Here are **10 key questions** you can ask an AI (or use for review) based on the
 ## **What does it mean for a function to approach a value from both sides? Why is this important?**
 ## 
 ## **When does a limit not exist?**
-##     
-## 
+
 ## **Why might estimating a limit from a table give the wrong answer?**
-## 
+
 ## **What does the graph of a function tell you about the limit?**
-##  
-##         
+     
 ## **How can two functions have the same limit at a point even if one is undefined there?**
-## 
-##         
+   
 ## **What are common mistakes students make when evaluating limits?**
-hat is the significance of one-sided limits in determining whether a two-sided limit exists?**
+
+## **What is the significance of one-sided limits in determining whether a two-sided limit exists?**
 
 
 
