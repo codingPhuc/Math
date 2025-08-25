@@ -18,15 +18,15 @@ Here are **10 key questions** you can ask an AI (or use for review) based on the
 ---
 
 ### 📘 **Topical Review Questions from Section 2.2: The Limit**
-## 
+
 ## **What is the intuitive (working) definition of a limit?**
-## 
+ 
 ## **Why does the value of a function at a point not matter when computing the limit at that point?**
-## 
+ 
 ## **How do you estimate a limit using a table of values?**
-## 
+
 ## **What does it mean for a function to approach a value from both sides? Why is this important?**
-## 
+
 ## **When does a limit not exist?**
 
 ## **Why might estimating a limit from a table give the wrong answer?**
