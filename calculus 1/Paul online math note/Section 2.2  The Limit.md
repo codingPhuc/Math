@@ -24,6 +24,9 @@ Here are **10 key questions** you can ask an AI (or use for review) based on the
 ### #human_explaination 
 OK so the limit of the function FX we can denote at L as L L**** Apostolic A as X approach a hey Cortana provided we can make to the limit L as possible meaning it is there will be a sufficient number of exits our X that gets sufficiently close to a it basically all the exact packets constantly must satisfy a range of course not think of it like you like L Max satisfy that it must be 0.001 Weighing courses to a or like maybe 0.1 think of L at the the cusick approximation that we are allowed to consider back or exit will satisfy in order to create a limit and then it goes to like two points that we need to consider when talking about limit is that the value of X means to approach a from both the left and the right mean it need to be either larger than a or like smaller than A and the other thing that we need to consider it back it cannot be the value of a like we cannot plug a into the function itself but we need to select X or the value X that is the cost to A basically or the value X that also rounding in the range specified by the limit L
 
+### #ai_explaination 
+
+
 
 ## **Why does the value of a function at a point not matter when computing the limit at that point?**
  
