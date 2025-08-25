@@ -218,7 +218,6 @@ Your explanation covers the core scenarios effectively. The only minor area for 
 ## **What is the significance of one-sided limits in determining whether a two-sided limit exists?**
 
 
-
 $$
 \begin{array}{l} \\
 \lim_{  x \to 2 } \frac{x^2 + 4x  - 12}{ x^2 - 2x  }   \\
