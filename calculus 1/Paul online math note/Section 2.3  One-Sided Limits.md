@@ -70,6 +70,9 @@ $\lim_{x \to 1^-} f(x)$
 $\lim_{x \to 1^+} f(x)$  
 $\lim_{x \to 1} f(x)$  
 
+
+
+
 $f(6)$  
 $\lim_{x \to 6^-} f(x)$  
 $\lim_{x \to 6^+} f(x)$  
