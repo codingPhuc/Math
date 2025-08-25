@@ -56,3 +56,4 @@ $$
 | 2.01  | 3.985     |
 | 2.001 | 3.998     |
 so the one sided limit when  $\lim_{ t \to 0^+ }    G(t)=4$  and $\lim_{ t \to  0^- }  G(t)=0$ 
+![[Pasted image 20250825092832.png]]
