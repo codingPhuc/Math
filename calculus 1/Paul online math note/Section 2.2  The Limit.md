@@ -209,11 +209,6 @@ Your explanation covers the core scenarios effectively. The only minor area for 
 
 
 
-## **What does the graph of a function tell you about the limit?**
-     
-## **How can two functions have the same limit at a point even if one is undefined there?**
-   
-## **What are common mistakes students make when evaluating limits?**
 
 ## **What is the significance of one-sided limits in determining whether a two-sided limit exists?**
 
