@@ -213,7 +213,7 @@ Your explanation covers the core scenarios effectively. The only minor area for 
      
 
    
-## **What are common mistakes students make when evaluating limits?**
+
 
 ## **What is the significance of one-sided limits in determining whether a two-sided limit exists?**
 
