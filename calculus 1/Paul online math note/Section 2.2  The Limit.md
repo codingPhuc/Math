@@ -207,7 +207,7 @@ Let's break down your answer and elaborate on it using the details from the sour
 
 Your explanation covers the core scenarios effectively. The only minor area for improvement would be to use more formal mathematical terminology where applicable (e.g., "approaching" instead of "poaching," and "oscillating wildly" as used in the source, which you did pick up on in your latter phrasing). However, your descriptions are perfectly understandable and correct in concept.
 
-## **Why might estimating a limit from a table give the wrong answer?**
+
 
 ## **What does the graph of a function tell you about the limit?**
      
