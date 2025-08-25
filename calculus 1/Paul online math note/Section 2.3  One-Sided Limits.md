@@ -64,3 +64,6 @@ $\lim_{x \to 6} f(x)=5$
 
 # #inclass_note 
 
+
+
+![[Doc 08-25-2025 09-39-19.pdf]]
