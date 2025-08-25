@@ -211,6 +211,7 @@ Your explanation covers the core scenarios effectively. The only minor area for 
 
 ## **What does the graph of a function tell you about the limit?**
      
+## #human_explaination 
 
    
 
