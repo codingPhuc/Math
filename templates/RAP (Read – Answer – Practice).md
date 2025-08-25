@@ -1,6 +1,6 @@
 ---
 title: Adjunction
-references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
+references: https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx
 tags:
   - In_Progress
 learning method: RAP (Read – Answer – Practice)
