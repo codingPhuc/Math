@@ -141,6 +141,10 @@ Ultimately, the purpose of learning this method is to "help us get a better unde
 
 ## **What does it mean for a function to approach a value from both sides? Why is this important?**
 
+
+### #human_explaination 
+
+
 ## **When does a limit not exist?**
 
 ## **Why might estimating a limit from a table give the wrong answer?**
