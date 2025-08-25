@@ -12,5 +12,5 @@ learning score:
 [ Shin Liu](https://www.ratemyprofessors.com/professor/2593951 )
 
 
-[ Shawn Taylor]()
+[ Shawn Taylor](https://www.ratemyprofessors.com/professor/2151528)
 
