@@ -65,5 +65,5 @@ $$
 | 2.1   | 3.857     |
 | 2.01  | 3.985     |
 | 2.001 | 3.998     |
-so the one sided limit when  $\lim_{ t \to 0^+ }    H(t)=1$  and $\lim_{ t \to  0^- }  H(t)=0$ 
+so the one sided limit when  $\lim_{ t \to 0^+ }    G(t)=1$  and $\lim_{ t \to  0^- }  H(t)=0$ 
 
