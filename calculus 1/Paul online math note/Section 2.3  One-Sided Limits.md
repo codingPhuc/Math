@@ -49,21 +49,21 @@ so  event  on one sided limit the limit does not need to exit
 
 $$
 \lim_{ t \to 0^+ }    H(t)  \cap  \lim_{ t \to  0^- }  G(t)  \text{ where }   
-G(t )  = \left\{ \begin{array}{l} \frac{x^2 + 4x - 12}{ x^2  - 2x} \text{  if }  x \neq 2  \\
-6  \text{ if } x  =  2  
+G(t )  = \left\{ \begin{array}{l} \frac{x^2 + 4x - 12}{ x^2  - 2x} \text{  if } t< 0    \\
+1  \text{ if } t\geq   0 
  \end{array}  \right. 
 
 $$
 
 
 
-| x     | f(x)  |
-| ----- | ----- |
-| 1.9   | 4.157 |
-| 1.99  | 4.157 |
-| 1.999 | 1     |
-| 2.1   | 0     |
-| 2.01  | 0     |
-| 2.001 | 0     |
+| x      | f(x) |
+| ------ | ---- |
+| 0.1    | 1    |
+| 0.01   | 1    |
+| 0.001  | 1    |
+| - 0.1  | 0    |
+| -0.01  | 0    |
+| -0.001 | 0    |
 so the one sided limit when  $\lim_{ t \to 0^+ }    H(t)=1$  and $\lim_{ t \to  0^- }  H(t)=0$ 
 
