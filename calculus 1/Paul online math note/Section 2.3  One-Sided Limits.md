@@ -48,3 +48,19 @@ so the one sided limit when  $\lim_{ t \to 0^+ }    G(t)=4$  and $\lim_{ t \to  
 
 ![[Pasted image 20250825092832.png]]
 
+$$
+
+$$$f(-4)$  
+$\lim_{x \to -4^-} f(x)$  
+$\lim_{x \to -4^+} f(x)$  
+$\lim_{x \to -4} f(x)$  
+
+$f(1)$  
+$\lim_{x \to 1^-} f(x)$  
+$\lim_{x \to 1^+} f(x)$  
+$\lim_{x \to 1} f(x)$  
+
+$f(6)$  
+$\lim_{x \to 6^-} f(x)$  
+$\lim_{x \to 6^+} f(x)$  
+$\lim_{x \to 6} f(x)$  
