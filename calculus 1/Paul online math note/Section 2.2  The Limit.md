@@ -211,7 +211,40 @@ Your explanation covers the core scenarios effectively. The only minor area for 
 
 ## **What does the graph of a function tell you about the limit?**
      
-## #human_explaination 
+### #ai_explaination 
+Your answer provides a good intuitive understanding of what graphs can tell you about limits, especially highlighting their value when dealing with oscillating functions. I would rate your answer an **8 out of 10**.
+
+You've captured a very important scenario where graphs are superior to tables of values. Let's elaborate on your points and add further detail from the sources.
+
+### What the Graph of a Function Tells You About the Limit:
+
+The graph of a function serves as a **powerful visual tool** for understanding and estimating limits, especially by illustrating the function's behavior around a particular point.
+
+Here's what the sources indicate a graph can tell you:
+
+- **Behavior Around a Point, Not At It:** A graph visually represents that limits are concerned with **what the function is doing _around_ (x=a)**, and **not** with what the function is actually doing _at_ (x=a). You can observe the _y_-value the graph is approaching as you move along the curve towards (x=a) from both the left and right sides.
+- **Visualizing the Limit Value:** If a limit exists, the graph clearly shows the single (y)-value that the function's curve is approaching from both directions as (x) gets closer to (a). This can be true even if there is a hole in the graph at (x=a), indicating the function doesn't exist there, or if the function's value at (x=a) is different from the limit.
+- **Detecting Non-Existent Limits Due to Oscillation:** This is where graphs are exceptionally valuable, as you correctly pointed out.
+    - As shown with the function (f(t) = \cos\left(\frac{\pi}{t}\right)) as (t) approaches 0, a table of values might misleadingly suggest a limit exists.
+    - However, a graph of this function explicitly reveals that **as (t) gets closer to 0, the function starts oscillating wildly**, with oscillations increasing in speed.
+    - Because the function "clearly does not settle in towards a single number," the graph immediately tells you that **this limit does not exist**. This demonstrates that graphs can prevent errors that might arise from limited data points in a table.
+- **Detecting Non-Existent Limits Due to Different One-Sided Behavior:** For functions like the **Heaviside or step function**, (H(t)), the graph clearly shows that as you approach (t=0) from the **right side**, the function moves towards a (y)-value of 1, while from the **left side**, it moves towards a (y)-value of 0. Since the function does not move in towards a _single value_ from both sides, the graph indicates that **the limit does not exist**.
+
+### Feedback on Your Answer:
+
+You made several excellent points:
+
+1. **"if you're using a lemme work like a function that use Koh Sing Tang or Co Tang it can create and once you do the limit not settling in the pacific point"**: This is a direct hit! Your intuition about trigonometric functions (likely meaning cosine or tangent) creating scenarios where the limit doesn't settle is **exactly what the sources demonstrate** with the example of (\cos(\frac{\pi}{t})).
+2. **"if you do not draw the graph of epilemic it can lead to an error where you think that a gig approaching or you can estimate a point based on all the cosig X point that you have a stick on the table but if you use a different value of X it it can create a point that jump all over the place"**: This is **a critical insight** and perfectly aligns with the sources' warning about the **drawbacks of using tables of values**. The sources show how a table for (\cos(\frac{\pi}{t})) could lead to an incorrect guess, while examining points even closer to the limit point reveals "three totally different numbers" because the function "starts oscillating wildly". The graph helps to visualize this "jumping all over the place."
+3. **"so it get more accurate if you use a graph to verify your estimate"**: While graphs might not always give you the _exact_ numerical value if it's not a "nice" number (e.g., an integer or simple fraction), they are **definitely more reliable than tables for _verifying the existence_ of a limit, especially in cases of oscillation or differing one-sided behavior**. They provide a visual confirmation that the function is indeed settling to a single point or clearly not doing so.
+
+**Minor areas for refinement (not impacting the high rating for conceptual understanding):**
+
+- **Terminology:** Using terms like "oscillating wildly" or "settling down to a single value" would make your answer more aligned with the precise language used in the sources.
+- **Specificity about accuracy:** While graphs help verify if a limit exists and what value it _approaches_, the sources note that they are not always ideal for getting _exact_ values, especially if the limit isn't a "nice" integer.
+
+In summary, your answer effectively highlights the key role of graphs in understanding limit behavior, particularly in scenarios where limits don't exist due to oscillation, which is a significant concept emphasized by the sources.
+### #human_explaination 
 
    
 
