@@ -40,4 +40,7 @@ $$
 \lim_{ t \to 0^+ }   \cos\left( \frac{\pi}{t} \right)   \cap  \lim_{ t \to 0^- }   \cos\left( \frac{\pi}{t} \right)
 $$
 
+![[Pasted image 20250825085743.png]] 
 
+
+so the limit does not exit when
