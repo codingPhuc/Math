@@ -32,3 +32,15 @@ so the one sided limit when  $\lim_{ t \to 0^+ }    H(t)=1$  and $\lim_{ t \to  
 
 
 ![[Pasted image 20250825085558.png]]
+
+
+
+
+$$
+\lim_{ t \to 0^+ }    H(t)  \cap  \lim_{ t \to  0^- }  H(t)  \text{ where }   
+H(t )  = \left\{ \begin{array}{l} 0 \text{  if } t< 0    \\
+1  \text{ if } t\geq   0 
+ \end{array}  \right. 
+
+$$
+
