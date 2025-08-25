@@ -9,8 +9,8 @@ amount of time:
 learning score:
 ---
 
+[ Shin Liu](https://www.ratemyprofessors.com/professor/2593951 )
 
-https://www.ratemyprofessors.com/professor/2593951 
 
 
 
