@@ -49,8 +49,8 @@ so  event  on one sided limit the limit does not need to exit
 
 $$
 \lim_{ t \to 0^+ }    H(t)  \cap  \lim_{ t \to  0^- }  G(t)  \text{ where }   
-G(t )  = \left\{ \begin{array}{l} \frac{x^2 + 4x - 12}{ x^2  - 2x} \text{  if } t< 0    \\
-1  \text{ if } x 
+G(t )  = \left\{ \begin{array}{l} \frac{x^2 + 4x - 12}{ x^2  - 2x} \text{  if }  x   \\
+1  \text{ if } x  =  2  
  \end{array}  \right. 
 
 $$
