@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/algebra/Section 7.5  Nonlinear Systems.md",
+                "file": "Paul Online note/algebra/Section 7.4  More on the Augmented Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 7.5  Nonlinear Systems"
+              "title": "Section 7.4  More on the Augmented Matrix"
             }
           }
         ],
@@ -191,9 +191,9 @@
   },
   "active": "c40ebe977575f400",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 7.5  Nonlinear Systems.md",
     "Paul Online note/algebra/Section 7.4  More on the Augmented Matrix.md",
     "Paul Online note/algebra/Section 7.3  Augmented Matrices.md",
-    "Paul Online note/algebra/Section 7.5  Nonlinear Systems.md",
     "Math with Jay/Battery  health.md",
     "/calculus 1/Paul online math note/Section 2.2  The Limit.md",
     "/Math with Jay/Machine algorithm.md",
