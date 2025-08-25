@@ -14,3 +14,6 @@ learning score:
 
 [ Shawn Taylor](https://www.ratemyprofessors.com/professor/2151528)
 
+**Taylor, Shawn**  
+_Mathematics_  
+[staylor3@gwc.cccd.edu](mailto:staylor3@gwc.cccd.edu)
