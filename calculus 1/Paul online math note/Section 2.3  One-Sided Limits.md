@@ -52,5 +52,18 @@ $$
 H(t )  = \left\{ \begin{array}{l} 0 \text{  if } t< 0    \\
 1  \text{ if } t\geq   0 
  \end{array}  \right. 
+
 $$
+
+
+
+| x      | f(x) |
+| ------ | ---- |
+| 0.1    | 1    |
+| 0.01   | 1    |
+| 0.001  | 1    |
+| - 0.1  | 0    |
+| -0.01  | 0    |
+| -0.001 | 0    |
+so the one sided limit when  $\lim_{ t \to 0^+ }    H(t)=1$  and $\lim_{ t \to  0^- }  H(t)=0$ 
 
