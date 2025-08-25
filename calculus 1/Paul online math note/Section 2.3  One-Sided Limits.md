@@ -50,7 +50,7 @@ so the one sided limit when  $\lim_{ t \to 0^+ }    G(t)=4$  and $\lim_{ t \to  
 $f(-4) = 2$  
 $\lim_{x \to -4^-} f(x)=2$  
 $\lim_{x \to -4^+} f(x)=2$  
-$\lim_{x \to -4} f(x)=$  
+$\lim_{x \to -4} f(x)=2$  
 
 $f(1)$  
 $\lim_{x \to 1^-} f(x)$  
