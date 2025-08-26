@@ -44,36 +44,21 @@ Here are **10 questions** based on the content from **Paul's Online Notes: Secti
 ---
 
 7. **What does it mean for a function to be “nice enough” in the context of evaluating limits?**  
-    _Answer:_  
-    It means the function behaves well around the point of interest—no discontinuities or undefined behavior—so lim⁡x→af(x)=f(a)\lim_{x \to a} f(x) = f(a)
-    
 
 ---
 
 8. **List three types of functions that are always “nice enough” for all xx.**  
     _Answer:_
-    
 
-- Polynomials
-    
-- Sine and cosine functions
-    
-- Exponential functions axa^x, exe^x
-    
 
 ---
 
 9. **Under what restriction is xn\sqrt[n]{x} “nice enough” when nn is even?**  
-    _Answer:_  
-    The function is “nice enough” for x≥0x \ge 0 to avoid complex numbers.
-    
 
 ---
 
 10. **In Example 3, why can the limit be computed by direct substitution despite the complicated expression?**  
-    _Answer:_  
-    Because all functions involved (square root, exponential, logarithmic, trigonometric) are “nice enough” at x=3x = 3, and no domain restrictions are violated.
-    
+
 
 ---
 
