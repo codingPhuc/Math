@@ -16,16 +16,13 @@ Here are **10 questions** based on the content from **Paul's Online Notes: Secti
 ---
 
 1. **What is the limit property that allows you to factor out a constant from a function inside a limit?**  
-    _Answer:_  
-    If cc is a constant, then lim⁡x→a[cf(x)]=clim⁡x→af(x)\lim_{x \to a} [c f(x)] = c \lim_{x \to a} f(x). This is known as the constant multiple rule.
+
     
 
 ---
 
 2. **Which limit property justifies breaking up the limit of a sum or difference into individual limits?**  
-    _Answer:_  
-    lim⁡x→a[f(x)±g(x)]=lim⁡x→af(x)±lim⁡x→ag(x)\lim_{x \to a} [f(x) \pm g(x)] = \lim_{x \to a} f(x) \pm \lim_{x \to a} g(x)
-    
+
 
 ---
 
