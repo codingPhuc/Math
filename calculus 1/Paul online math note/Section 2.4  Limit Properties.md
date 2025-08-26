@@ -35,6 +35,6 @@ $$
 
 $$
 \begin{array}{l} 
-\lim_{ x \to  3 }  (- \sqrt[5]{  })
+\lim_{ x \to  3 }  \left( - \sqrt[5] {x   }  +   \frac{e^x}{1 + \ln(x) } \right)
 \end{array}
 $$
