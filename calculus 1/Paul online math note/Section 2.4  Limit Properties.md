@@ -13,9 +13,28 @@ learning score:
  
 Here are **10 questions** based on the content from **Paul's Online Notes: Section 2.4 - Limit Properties**, each with a clear focus on concepts, examples, and terminology:
 
----
 
-1. **What is the limit property that allows you to factor out a constant from a function inside a limit?**  
+## **What does Property 1, concerning limits and multiplicative constants, allow us to do when evaluating a limit?** 
+
+### #human_explaination 
+That make me find my answer Let me refine my answer So they probably won in limit mean that you can remove the constant algorithm limit meaning the constant can be removed as I outside the limit wake up when applying the When Olympic applied the constant will be moved outside of the limit enabling us to more easily factor
+
+### #ai_explaination 
+That's a much better explanation, you've definitely refined your understanding of Property 1!
+
+**Rating: 9/10**
+
+You've correctly identified the core idea: **Property 1** allows you to **"factor" a multiplicative constant out of a limit**. This means that when you have a constant multiplied by a function within a limit, you can move that constant to the outside of the limit expression before evaluating the limit of the function.
+
+As stated in the sources: [\mathop {\lim }\limits_{x \to a} \left[ {cf\left( x \right)} \right] = c\mathop {\lim }\limits_{x \to a} f\left( x \right)] In simpler terms, you can **move the constant `c` outside the limit operator**. This is exactly what was done in Example 1, where `3` and `5` were factored out of their respective limits.
+
+Your phrasing "remove the constant algorithm limit" and "wake up when applying the When Olympic applied" is a bit unclear, but the underlying concept of moving the constant outside to "more easily factor" is correct and directly aligns with the source's description of factoring the constant out.
+
+Now, let's revisit the question about Property 2, since your initial answer was closer to that concept.
+
+**What is the core idea behind Property 2 regarding limits?**
+
+
 
     
 
