@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "template",
+                "query": "inclass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,7 +246,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "484e8598d1b88e37",
+  "active": "052a5656ec4c2d4e",
   "lastOpenFiles": [
     "calculus 1/Paul online math note/Section 1.5 Solving Trig Equations with Calculators, Part I.md",
     "calculus 1/Paul online math note/Section 1.7  Exponential Functions.md",
