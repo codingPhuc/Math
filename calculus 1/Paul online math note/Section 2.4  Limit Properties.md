@@ -36,6 +36,7 @@ $$
 $$
 \begin{array}{l} 
 \lim_{ x \to  3 }  \left( - \sqrt[5] {x   }  +   \frac{e^x}{1 + \ln(x)  } + \sin(x)\cos(x) \right)  \\
--3^{1/5 }   +  \frac{e^3}{ 1 +  \ln (3)}  + \sin(3) \cdot  \cos    
+-3^{1/5 }   +  \frac{e^3}{ 1 +  \ln (3)}  + \sin(3) \cdot  \cos (3)   \\
+=    
 \end{array}
 $$
