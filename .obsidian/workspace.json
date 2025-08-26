@@ -12,16 +12,14 @@
             "id": "484e8598d1b88e37",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
-                "page": 1,
-                "left": -15,
-                "top": 360,
-                "zoom": 1.0245098039215685
+                "file": "calculus 1/Paul online math note/Section 2.3  One-Sided Limits.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Calculus_Volume_1_-_WEB_68M1Z5W"
+              "icon": "lucide-file",
+              "title": "Section 2.3  One-Sided Limits"
             }
           },
           {
@@ -167,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
+                "file": "calculus 1/Paul online math note/Section 2.3  One-Sided Limits.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Calculus_Volume_1_-_WEB_68M1Z5W"
+              "title": "Backlinks for Section 2.3  One-Sided Limits"
             }
           },
           {
@@ -249,16 +247,17 @@
   },
   "active": "484e8598d1b88e37",
   "lastOpenFiles": [
+    "calculus 1/Paul online math note/Section 2.1  Tangent Lines and Rates of Change.md",
+    "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
+    "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
     "calculus 1/Calculus  1 with Gita/books",
     "book/Give Me Liberty, Seventh Edition.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
-    "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
     "calculus 1/Paul online math note/Section 2.3  One-Sided Limits.md",
     "calculus 1/Paul online math note/Section 1.5 Solving Trig Equations with Calculators, Part I.md",
     "calculus 1/Paul online math note/Section 1.7  Exponential Functions.md",
     "calculus 1/Paul online math note/Section 1.8  Logarithm Functions.md",
     "calculus 1/Paul online math note/Section 1.9 Exponential and Logarithm Equations.md",
-    "calculus 1/Paul online math note/Section 2.1  Tangent Lines and Rates of Change.md",
     "calculus 1/Paul online math note/Section 2.2  The Limit.md",
     "picture/Doc 08-25-2025 09-39-19.pdf",
     "calculus 1/Paul online math note/Untitled.md",
