@@ -2,4 +2,4 @@ perform  function  F(x) with repeat to variable  x
 $$
 \text{ input } \xrightarrow{\text{}} function  \xrightarrow{\text{}} ouput f(x)   
 $$
-how to know if a function i
+method to know if a function is val
