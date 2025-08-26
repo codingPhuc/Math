@@ -12,14 +12,14 @@
             "id": "484e8598d1b88e37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/First class.md",
-                "mode": "source",
-                "source": false
+                "file": "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
+                "page": 1,
+                "zoom": 1
               },
-              "icon": "lucide-file",
-              "title": "First class"
+              "icon": "lucide-file-text",
+              "title": "Calculus_Volume_1_-_WEB_68M1Z5W"
             }
           },
           {
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/First class.md",
+                "file": "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for First class"
+              "title": "Backlinks for Calculus_Volume_1_-_WEB_68M1Z5W"
             }
           },
           {
@@ -247,10 +247,13 @@
   },
   "active": "484e8598d1b88e37",
   "lastOpenFiles": [
+    "book/ECE.pdf",
+    "book/Trig_Cheat_Sheet.pdf",
+    "book/Give Me Liberty, Seventh Edition.pdf",
+    "calculus 1/Calculus  1 with Gita/First class.md",
     "Math with Jay/polytoad.md",
     "Math with Jay/Untitled.md",
     "2025-08-26.md",
-    "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
     "2025-08-23.md",
     "2025-02-05.md",
@@ -266,7 +269,6 @@
     "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
     "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
     "calculus 1/Calculus  1 with Gita/books",
-    "book/Give Me Liberty, Seventh Edition.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "calculus 1/Paul online math note/Section 1.5 Solving Trig Equations with Calculators, Part I.md",
     "calculus 1/Paul online math note/Section 1.7  Exponential Functions.md",
@@ -274,7 +276,6 @@
     "calculus 1/Paul online math note/Section 1.9 Exponential and Logarithm Equations.md",
     "picture/Doc 08-25-2025 09-39-19.pdf",
     "picture/Pasted image 20250825092832.png",
-    "picture/Doc 08-25-2025 09-00-38.pdf",
     "picture/Pasted image 20250825085743.png",
     "picture/Pasted image 20250825085558.png",
     "Math note.md",
@@ -288,7 +289,6 @@
     "picture/Pasted image 20250824130249.png",
     "mathwiki/Notes/fixed_point_theorems_of_p_groups.md",
     "calculus 1/12 hours calculus courses/Basic study structure outline.md",
-    "Professor Leonard/7.6 Using Proportions and Rational Methods in Problem Solving.md",
     "picture/Pasted image 20250823091751.png",
     "picture/Pasted image 20250820212825.png",
     "picture/Pasted image 20250820203440.png",
