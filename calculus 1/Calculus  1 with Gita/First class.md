@@ -1,1 +1,1 @@
-perform  function  F(x)
+perform  function  F(x) with repeat to variable  x
