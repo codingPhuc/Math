@@ -97,25 +97,6 @@ This "fact" is a very powerful tool that simplifies computing many limits.
 
 
 
----
-
-4. **Explain why lim⁡x→axn=an\lim_{x \to a} x^n = a^n is valid. What limit property does this depend on?**  
-
----
-
-5. **Why does the limit of a constant function lim⁡x→ac=c\lim_{x \to a} c = c?**  
-
-
----
-
-6. **In Example 1, how is the limit lim⁡x→−2(3x2+5x−9)\lim_{x \to -2} (3x^2 + 5x - 9) calculated using limit properties?**  
-
----
-
-7. **What does it mean for a function to be “nice enough” in the context of evaluating limits?**  
-
----
-
 ## **List three types of functions that are always “nice enough” for all xx.**  
 
 ### #human_explaination 
