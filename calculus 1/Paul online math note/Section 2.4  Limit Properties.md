@@ -52,7 +52,20 @@ While your answer broadly mentioned "multiplication addition subtraction and so 
 
 ---
 
-3. **Under what condition can you take the limit of a quotient lim⁡x→af(x)g(x)\lim_{x \to a} \frac{f(x)}{g(x)} using the quotient rule?**  
+**Question:**  
+Under what condition can you take the limit of a quotient  
+$$
+\lim_{x \to a} \frac{f(x)}{g(x)}
+$$  
+using the quotient rule?
+
+**Answer:**  
+You can apply the rule if  
+$$
+\lim_{x \to a} g(x) \ne 0
+$$  
+to avoid division by zero.
+
 
 ---
 
