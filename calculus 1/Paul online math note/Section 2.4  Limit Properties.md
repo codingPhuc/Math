@@ -147,5 +147,5 @@ $$
 =    
 \end{array}
 $$
-
+# #inclass_note 
 ![[Doc 08-25-2025 23-03-49 2.pdf]]
