@@ -24,5 +24,7 @@ $$
 
 evaluate the  following limit 
 $$
-
+\begin{array}{l} 
+\lim_{   \to \infty } 
+\end{array}
 $$
