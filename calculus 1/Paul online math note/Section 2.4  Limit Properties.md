@@ -35,6 +35,7 @@ $$
 
 $$
 \begin{array}{l} 
-\lim_{ x \to  3 }  \left( - \sqrt[5] {x   }  +   \frac{e^x}{1 + \ln(x)  } + \sin(x)c \right)
+\lim_{ x \to  3 }  \left( - \sqrt[5] {x   }  +   \frac{e^x}{1 + \ln(x)  } + \sin(x)\cos(x) \right)  \\
+
 \end{array}
 $$
