@@ -57,7 +57,10 @@ While your answer broadly mentioned "multiplication addition subtraction and so 
 $$
 \lim_{x \to a} \frac{f(x)}{g(x)}
 $$  
-using the quotient rule?
+### #human_explaination 
+OK you can take the limac of the in property for you can apply the limit to denominator as long as you denominator does not equalize to zero
+
+###
 
 
 
