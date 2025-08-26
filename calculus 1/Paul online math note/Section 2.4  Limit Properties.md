@@ -35,17 +35,11 @@ Here are **10 questions** based on the content from **Paul's Online Notes: Secti
 ---
 
 5. **Why does the limit of a constant function lim⁡x→ac=c\lim_{x \to a} c = c?**  
-    _Answer:_  
-    Because a constant function does not change, its value is the same everywhere, so the limit is just the constant itself.
-    
+
 
 ---
 
 6. **In Example 1, how is the limit lim⁡x→−2(3x2+5x−9)\lim_{x \to -2} (3x^2 + 5x - 9) calculated using limit properties?**  
-    _Answer:_  
-    Split into three limits using sum rule, factor constants using the constant multiple rule, and apply known limits:  
-    3(−2)2+5(−2)−9=12−10−9=−73(-2)^2 + 5(-2) - 9 = 12 - 10 - 9 = -7
-    
 
 ---
 
