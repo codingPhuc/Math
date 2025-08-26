@@ -17,5 +17,4 @@ $$
 3  \cdot  2^2  +   \cdot  5 \cdot 2 -    9   \\
   =  -7
 \end{array}
-
 $$
