@@ -25,6 +25,6 @@ $$
 evaluate the  following limit 
 $$
 \begin{array}{l} 
-\lim_{   \to \infty } 
+\lim_{  z \to 1 }     \frac{6  -  3z}{}
 \end{array}
 $$
