@@ -33,6 +33,10 @@ Your phrasing "remove the constant algorithm limit" and "wake up when applying t
 Now, let's revisit the question about Property 2, since your initial answer was closer to that concept.
 
 ## **What is the core idea behind Property 2 regarding limits?**
+### #human_explaination 
+The quality behind poverty too regarding limit it back we can apply to limit into individual term instead of a term that get connected by a sign Basically we can apply limit to individual terms either by multiplication addition subtraction and so on
+
+### #ai_explaination 
 
 
 
