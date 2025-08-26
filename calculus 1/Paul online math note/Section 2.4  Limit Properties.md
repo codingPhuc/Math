@@ -60,7 +60,22 @@ $$
 ### #human_explaination 
 OK you can take the limac of the in property for you can apply the limit to denominator as long as you denominator does not equalize to zero
 
-###
+### #ai_explaination 
+That's a much more accurate and precise answer! You've clearly integrated the feedback from our previous discussion.
+
+**Rating: 9/10**
+
+You are **correct**. The condition under which you can apply Property 4 (the quotient rule for limits) is that **the limit of the denominator must not be equal to zero**.
+
+As the sources state: [\displaystyle \mathop {\lim }\limits_{x \to a} \left[ {\frac{{f\left( x \right)}}{{g\left( x \right)}}} \right] = \frac{{\mathop {\lim }\limits_{x \to a} f\left( x \right)}}{{\mathop {\lim }\limits_{x \to a} g\left( x \right)}}{\rm{,}},,,,,{\rm{provided }},\mathop {\lim }\limits_{x \to a} g\left( x \right) \ne 0] This condition is essential because if the limit of the denominator were zero, it would result in a division by zero error, which we must avoid. Example 2 in the sources explicitly checks this condition, noting that the limit of the denominator was not zero, making the use of Property 4 legitimate.
+
+Now, let's circle back to the question I asked earlier:
+
+**When evaluating the limit of a polynomial, what shortcut, or "fact," can often be used, and why is this possible?**
+
+
+
+
 
 
 
