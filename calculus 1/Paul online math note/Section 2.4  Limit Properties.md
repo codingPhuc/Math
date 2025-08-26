@@ -9,6 +9,8 @@ amount of time:
 learning score:
 ---
 
+ ##
+ 
  Compute the value of the following limit.   
 $$
 \begin{array}{l} 
@@ -19,4 +21,4 @@ $$
 \end{array}
 $$
 
-evaluate the  f
+evaluate the  following limit 
