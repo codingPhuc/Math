@@ -18,3 +18,5 @@ $$
   =  -7
 \end{array}
 $$
+
+evaluate the  f
