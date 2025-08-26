@@ -13,8 +13,9 @@ learning score:
 $$
 \begin{array}{l} 
 \lim_{  x \to  2 }   (3x^2  +  5x -  9)     \\
-\lim_{  x \to  2 }3    \lim_{  x \to  2 } x^2   \lim_{  x \to  2 } 5 \lim_{  x \to  2 }  x     - \lim_{  x \to  2 }9  \\
-3  \cdot  2^2   \cdot  5 \cdot 2 -      
+\lim_{  x \to  2 }3    \lim_{  x \to  2 } x^2 +  \lim_{  x \to  2 } 5 \lim_{  x \to  2 }  x     - \lim_{  x \to  2 }9  \\
+3  \cdot  2^2  +   \cdot  5 \cdot 2 -    9   \\
+  =  -7
 \end{array}
 
 $$
