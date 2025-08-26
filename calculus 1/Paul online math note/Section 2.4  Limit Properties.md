@@ -71,9 +71,12 @@ As the sources state: [\displaystyle \mathop {\lim }\limits_{x \to a} \left[ {\f
 
 Now, let's circle back to the question I asked earlier:
 
-**When evaluating the limit of a polynomial, what shortcut, or "fact," can often be used, and why is this possible?**
+## **When evaluating the limit of a polynomial, what shortcut, or "fact," can often be used, and why is this possible?**
+
+### #human_explaination 
 
 
+### #ai_explaination 
 
 
 
