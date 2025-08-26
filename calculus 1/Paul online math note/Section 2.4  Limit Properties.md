@@ -116,8 +116,8 @@ This "fact" is a very powerful tool that simplifies computing many limits.
 
 ---
 
-8. **List three types of functions that are always “nice enough” for all xx.**  
-    _Answer:_
+## **List three types of functions that are always “nice enough” for all xx.**  
+
 
 
 ---
