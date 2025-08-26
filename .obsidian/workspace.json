@@ -6,22 +6,8 @@
       {
         "id": "dd163602e8ec2718",
         "type": "tabs",
-        "dimension": 68.62745098039215,
+        "dimension": 61.99059561128527,
         "children": [
-          {
-            "id": "484e8598d1b88e37",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Calculus_Volume_1_-_WEB_68M1Z5W"
-            }
-          },
           {
             "id": "ed68c8602ba6916b",
             "type": "leaf",
@@ -53,43 +39,22 @@
         ]
       },
       {
-        "id": "27676da5be957d01",
+        "id": "036389250ad43d29",
         "type": "tabs",
-        "dimension": 15.686274509803921,
+        "dimension": 38.009404388714735,
         "children": [
           {
-            "id": "b48a4cc9d3354bbd",
+            "id": "484e8598d1b88e37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "calculus 1/Paul online math note/Section 2.1  Tangent Lines and Rates of Change.md",
-                "mode": "source",
-                "source": false
+                "file": "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
+                "page": 1,
+                "zoom": 1
               },
-              "icon": "lucide-file",
-              "title": "Section 2.1  Tangent Lines and Rates of Change"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b695fa0e45773af3",
-        "type": "tabs",
-        "dimension": 15.686274509803921,
-        "children": [
-          {
-            "id": "3ff4d4fb98750659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Math note"
+              "icon": "lucide-file-text",
+              "title": "Calculus_Volume_1_-_WEB_68M1Z5W"
             }
           }
         ]
