@@ -59,9 +59,6 @@ Here are **10 questions** based on the content from **Paul's Online Notes: Secti
 
 10. **In Example 3, why can the limit be computed by direct substitution despite the complicated expression?**  
 
-
----
-
 Let me know if you want these in **Anki format**, **multiple choice**, or **with diagram-based prompts**.
 
 
