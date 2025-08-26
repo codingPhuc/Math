@@ -49,14 +49,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/Give Me Liberty, Seventh Edition.pdf",
+                "file": "book/ECE.pdf",
                 "page": 1,
                 "left": -20,
                 "top": 796,
                 "zoom": 0.7830882352941176
               },
               "icon": "lucide-file-text",
-              "title": "Give Me Liberty, Seventh Edition"
+              "title": "ECE"
             }
           }
         ]
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/Give Me Liberty, Seventh Edition.pdf",
+                "file": "book/ECE.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Give Me Liberty, Seventh Edition"
+              "title": "Backlinks for ECE"
             }
           },
           {
@@ -214,13 +214,13 @@
   },
   "active": "484e8598d1b88e37",
   "lastOpenFiles": [
+    "book/Give Me Liberty, Seventh Edition.pdf",
+    "book/ECE.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "book/Trig_Cheat_Sheet.pdf",
     "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/What need to be understand.md",
-    "book/ECE.pdf",
-    "book/Give Me Liberty, Seventh Edition.pdf",
     "Math with Jay/polytoad.md",
     "Math with Jay/Untitled.md",
     "2025-08-26.md",
