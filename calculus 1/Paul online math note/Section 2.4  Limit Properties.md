@@ -59,12 +59,6 @@ $$
 $$  
 using the quotient rule?
 
-**Answer:**  
-You can apply the rule if  
-$$
-\lim_{x \to a} g(x) \ne 0
-$$  
-to avoid division by zero.
 
 
 ---
