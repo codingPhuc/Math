@@ -27,16 +27,10 @@ Here are **10 questions** based on the content from **Paul's Online Notes: Secti
 ---
 
 3. **Under what condition can you take the limit of a quotient lim⁡x→af(x)g(x)\lim_{x \to a} \frac{f(x)}{g(x)} using the quotient rule?**  
-    _Answer:_  
-    You can apply the rule if lim⁡x→ag(x)≠0\lim_{x \to a} g(x) \ne 0
-    
 
 ---
 
 4. **Explain why lim⁡x→axn=an\lim_{x \to a} x^n = a^n is valid. What limit property does this depend on?**  
-    _Answer:_  
-    This is a special case of the power rule: lim⁡x→a[f(x)]n=[lim⁡x→af(x)]n\lim_{x \to a} [f(x)]^n = [\lim_{x \to a} f(x)]^n, with f(x)=xf(x) = x
-    
 
 ---
 
