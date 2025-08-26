@@ -53,7 +53,7 @@ While your answer broadly mentioned "multiplication addition subtraction and so 
 ---
 
 **Question:**  
-Under what condition can you take the limit of a quotient  
+### Under what condition can you take the limit of a quotient  
 $$
 \lim_{x \to a} \frac{f(x)}{g(x)}
 $$  
