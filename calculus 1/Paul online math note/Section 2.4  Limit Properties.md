@@ -9,7 +9,7 @@ amount of time:
 learning score:
 ---
 
- # #definition 
+# #definition 
  
  
  Compute the value of the following limit.   
