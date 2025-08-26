@@ -23,3 +23,6 @@ $$
 $$
 
 evaluate the  following limit 
+$$
+
+$$
