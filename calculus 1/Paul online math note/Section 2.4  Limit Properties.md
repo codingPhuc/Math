@@ -38,14 +38,17 @@ The quality behind poverty too regarding limit it back we can apply to limit int
 
 ### #ai_explaination 
 
+That's a very good explanation of Property 2! You've captured the essence of what it allows us to do.
 
+**Rating: 8/10**
 
-    
+You are correct that **Property 2** allows us to **apply the limit to individual terms** when they are connected by addition or subtraction.
 
----
+The core idea is that when taking the limit of a sum or difference of functions, you can find the limit of each function separately and then combine those individual limits with the appropriate sign.
 
-2. **Which limit property justifies breaking up the limit of a sum or difference into individual limits?**  
+As the sources state: [\mathop {\lim }\limits_{x \to a} \left[ {f\left( x \right) \pm g\left( x \right)} \right] = \mathop {\lim }\limits_{x \to a} f\left( x \right) \pm \mathop {\lim }\limits_{x \to a} g\left( x \right)] This means, to take the limit of a sum or difference, "all we need to do is **take the limit of the individual parts and then put them back together with the appropriate sign**". This property is not limited to just two functions but works for any number of functions separated by "+" or "-" signs. Example 1 clearly demonstrates this, where the limit of a polynomial with three terms is broken down into three separate limits using Property 2.
 
+While your answer broadly mentioned "multiplication addition subtraction and so on," Property 2 specifically addresses sums and differences. Other properties (like Property 3 for multiplication and Property 4 for division) handle those operations separately, but the general principle of breaking down a limit into individual parts is consistent across these.
 
 ---
 
