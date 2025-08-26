@@ -25,6 +25,6 @@ $$
 evaluate the  following limit 
 $$
 \begin{array}{l} 
-\lim_{  z \to 1 }     \frac{6  -  3z}{}
+\lim_{  z \to 1 }     \frac{6  -  3z + 10z^2 }{-2z^4  }
 \end{array}
 $$
