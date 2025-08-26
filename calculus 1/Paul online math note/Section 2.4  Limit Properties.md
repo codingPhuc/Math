@@ -27,6 +27,6 @@ $$
 \begin{array}{l} 
 \lim_{  z \to 1 }     \frac{6  -  3z + 10z^2 }{-2z^4   + 7z^3  + 1 }   \\
  =   \frac{ \lim_{  z \to 1 } (6  -  3z + 10z^2)}{ \lim_{  z \to 1 }  (-2z^4   + 7z^3  + 1 )}  \\
- =  \frac{ 6  -    }{ \lim_{  z \to 1 }  (-2z^4   + 7z^3  + 1 )}  \\  
+ =  \frac{ 6  -   3 \cdot 1    +  10 codt }{ \lim_{  z \to 1 }  (-2z^4   + 7z^3  + 1 )}  \\  
 \end{array}
 $$
