@@ -10,3 +10,6 @@ learning score:
 ---
 
  Compute the value of the following limit.   
+$$
+\lim_{  \to \infty } 
+$$
