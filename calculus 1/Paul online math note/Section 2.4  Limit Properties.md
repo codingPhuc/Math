@@ -32,7 +32,7 @@ Your phrasing "remove the constant algorithm limit" and "wake up when applying t
 
 Now, let's revisit the question about Property 2, since your initial answer was closer to that concept.
 
-**What is the core idea behind Property 2 regarding limits?**
+## **What is the core idea behind Property 2 regarding limits?**
 
 
 
