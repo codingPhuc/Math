@@ -6,7 +6,7 @@ $$
 
 # checking to know if the function is valid 
 ## graphing the function  
-by  graphing the function you can visualize if the function have 2 output by drawing a vertical line from the x axis, if the line cross the f
+by  graphing the function you can visualize if the function have 2 output by drawing a vertical line from the x axis, if the line cross the function two time the
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
