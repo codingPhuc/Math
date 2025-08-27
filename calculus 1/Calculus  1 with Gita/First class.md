@@ -120,7 +120,7 @@ c. $f(a+h)$
 
 $$
 \begin{array}{l} \\
-f(a+h) =  3(\sqrt{2})^2  + 2(\sqrt{2})  - 1    \\
-=  5 + 2\sqrt{ 2 }
+f(a+h) =  3(a+h)^2  + 2(a+h)  - 1    \\
+=  3a^2  + 3h^2  +  
 \end{array}
 $$
