@@ -1,3 +1,15 @@
+---
+title: Adjunction
+references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
+tags:
+  - In_Progress
+learning method: Vault + Read + Recall + Practice  (VRRP Method)
+Current date: 2025-08-26
+amount of time:
+learning score:
+---
+
+
 perform  function  F(x) with repeat to variable  x 
 $$
 \text{ input } \xrightarrow{\text{}} function  \xrightarrow{\text{}} ouput f(x)   
