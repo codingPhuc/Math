@@ -5,7 +5,8 @@ $$
 
 
 # checking to know if the function is valid 
-##
+## graphing the function  
+by  graphing the func
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
