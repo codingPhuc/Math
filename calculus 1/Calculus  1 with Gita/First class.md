@@ -20,7 +20,7 @@ $$
 
 
 ## checking to know if the function is valid 
-x = (f(x))^2
+$x=f(x)$
 
 ### Plugging in the function 
 the first method is plugging in the function  
