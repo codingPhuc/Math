@@ -101,6 +101,8 @@ we can see that the line cross the function 2 time for a single x value, so we c
 
 For the function $f(x)=3x^{2}+2x-1$, evaluate
 a. $f(-2)$ 
-this si 
+$$
+ f(-2)  =  2
+$$
 b. $f(\sqrt{2})$
 c. $f(a+h)$ 
