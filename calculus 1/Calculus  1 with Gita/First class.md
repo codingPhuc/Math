@@ -10,14 +10,16 @@ learning score:
 ---
 
 
+# #definition 
+
 perform  function  F(x) with repeat to variable  x 
 $$
 \text{ input } \xrightarrow{\text{}} function  \xrightarrow{\text{}} ouput f(x)   
 $$
 
 
-# checking to know if the function is valid 
-## graphing the function  
+## checking to know if the function is valid 
+### graphing the function  
 by  graphing the function you can visualize if the function have 2 output by drawing a vertical line from the x axis, if the line cross the function two time the function is not valid
 ```tikz
 \usepackage{amsmath,amssymb}
