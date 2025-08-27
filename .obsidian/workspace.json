@@ -50,10 +50,10 @@
               "type": "pdf",
               "state": {
                 "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
-                "page": 9,
-                "left": 183,
-                "top": 471,
-                "zoom": 2.7
+                "page": 5,
+                "left": -76,
+                "top": 8,
+                "zoom": 0.7
               },
               "icon": "lucide-file-text",
               "title": "Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home work  requirement"
+              "title": "Backlinks for Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
             }
           },
           {
@@ -241,10 +241,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1cb91a13e529b11",
+  "active": "ed68c8602ba6916b",
   "lastOpenFiles": [
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/solving equation.md",
