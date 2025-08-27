@@ -3,4 +3,4 @@ $$
 \text{ input } \xrightarrow{\text{}} function  \xrightarrow{\text{}} ouput f(x)   
 $$
 method to know if a function is valid :  
--  if you grpah 
+-  if you graph the function 
