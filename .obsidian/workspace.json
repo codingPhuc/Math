@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
+                "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Question to ask Gita"
+              "title": "Home work  requirement"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
+                "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Question to ask Gita"
+              "title": "Backlinks for Home work  requirement"
             }
           },
           {
@@ -257,8 +257,8 @@
   },
   "active": "ed68c8602ba6916b",
   "lastOpenFiles": [
-    "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
+    "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
     "calculus 1/Paul online math note/Section 2.3  One-Sided Limits.md",
     "calculus 1/Paul online math note/Section 2.1  Tangent Lines and Rates of Change.md",
