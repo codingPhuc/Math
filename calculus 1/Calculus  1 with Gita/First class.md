@@ -39,5 +39,5 @@ by  graphing the function you can visualize if the function have 2 output by dra
 
 
 ``` 
-we can see  that the line only have 1 interception for the point 
+we can see  that the line only have 1 interception for th
 
