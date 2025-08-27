@@ -6,7 +6,7 @@ $$
 
 # checking to know if the function is valid 
 ## graphing the function  
-by  graphing the function you can visualize if the function have  
+by  graphing the function you can visualize if the function have 2 output by drawing a straig
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
