@@ -9,10 +9,8 @@ amount of time:
 learning score:
 ---
 
-
+[[Section 1.1  Functions]]
 # #definition 
-
-
 
 
 perform  function  F(x) with repeat to variable  x 
@@ -22,6 +20,11 @@ $$
 
 
 ## checking to know if the function is valid 
+
+
+### Plugging in the function 
+the first method is plugging in the function  
+
 ### graphing the function  
 by  graphing the function you can visualize if the function have 2 output by drawing a vertical line from the x axis, if the line cross the function two time the function is not valid
 ```tikz
@@ -82,10 +85,11 @@ we can see  that the line only have 1 interception this mean that  it is a valid
 \node[circle, draw, fill=black, inner sep=2pt, label=F(b)]  at  (4, 4) {};
 
 \draw[thick, red, domain=-3:3, smooth] plot ( {(\x)^2} , \x);
-   \draw[thick, blue, domain=0:4, smooth] plot (1,\x );
+   \draw[thick, blue, domain=-4:4, smooth] plot (1,\x );
  
 \end{tikzpicture}
 \end{document}
 
 
 ``` 
+we can see that the line cross the function 2 time for a single x value, so we concluded that it is not a function 
