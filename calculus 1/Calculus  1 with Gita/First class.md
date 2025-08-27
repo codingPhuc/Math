@@ -121,6 +121,6 @@ c. $f(a+h)$
 $$
 \begin{array}{l} \\
 f(a+h) =  3(a+h)^2  + 2(a+h)  - 1    \\
-=  3a^2  + 3h^2  + 6ah +  2a + 2h  
+=  3a^2  + 3h^2  + 6ah +  2a + 2h  -1 
 \end{array}
 $$
