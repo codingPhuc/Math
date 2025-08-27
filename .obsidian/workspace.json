@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-08-26.md",
+                "file": "calculus 1/Calculus  1 with Gita/First class.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-26"
+              "title": "Backlinks for First class"
             }
           },
           {
@@ -210,8 +210,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "484e8598d1b88e37",
+  "active": "ed68c8602ba6916b",
   "lastOpenFiles": [
+    "2025-08-26.md",
     "book/ECE.pdf",
     "book/Give Me Liberty, Seventh Edition.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
@@ -221,7 +222,6 @@
     "calculus 1/What need to be understand.md",
     "Math with Jay/polytoad.md",
     "Math with Jay/Untitled.md",
-    "2025-08-26.md",
     "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
     "2025-08-23.md",
     "2025-02-05.md",
