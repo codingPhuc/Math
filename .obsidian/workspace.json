@@ -23,6 +23,48 @@
             }
           },
           {
+            "id": "5c362e175ca6f4e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Calculus_Volume_1_-_WEB_68M1Z5W"
+            }
+          },
+          {
+            "id": "3bac655d847fbc90",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Calculus_Volume_1_-_WEB_68M1Z5W"
+            }
+          },
+          {
+            "id": "4b7ceaf50d2abc2e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Calculus_Volume_1_-_WEB_68M1Z5W"
+            }
+          },
+          {
             "id": "a1cb91a13e529b11",
             "type": "leaf",
             "state": {
@@ -36,7 +78,8 @@
               "title": "Capstone project"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "036389250ad43d29",
@@ -114,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 907.5
   },
   "right": {
     "id": "148b74fc748411da",
@@ -210,7 +253,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed68c8602ba6916b",
+  "active": "3bac655d847fbc90",
   "lastOpenFiles": [
     "calculus 1/Calculus  1 with Gita/First class.md",
     "2025-08-26.md",
