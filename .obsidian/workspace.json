@@ -78,9 +78,9 @@
               "type": "pdf",
               "state": {
                 "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
-                "page": 5,
+                "page": 6,
                 "left": -18,
-                "top": 272,
+                "top": 525,
                 "zoom": 0.8247549019607843
               },
               "icon": "lucide-file-text",
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Question to ask Gita"
+              "title": "Backlinks for Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
             }
           },
           {
@@ -255,8 +255,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed68c8602ba6916b",
+  "active": "3bac655d847fbc90",
   "lastOpenFiles": [
+    "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/What need to be understand.md",
@@ -267,7 +268,6 @@
     "calculus 1/Paul online math note/Section 2.2  The Limit.md",
     "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
     "calculus 1/Paul online math note/Section 1.7  Exponential Functions.md",
-    "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
     "calculus 1/12 hours calculus courses/The Squeeze Theorem.md",
     "calculus 1/12 hours calculus courses/Right Angle Trinometry.md",
     "calculus 1/12 hours calculus courses/2.5 Continuity on interval and continuous function.md",
