@@ -6,4 +6,5 @@ $$
 
 ## checking to know if the function is valid 
 graphing the function : 
-- if you have graph the function linek 
+- if you have graph the function like 
+
