@@ -9,13 +9,6 @@ amount of time:
 learning score:
 ---
 
-
-Got it — thanks for pasting your **Math G180 (Calculus 1) assignment list**. Right now it looks like a big block of text, so let me organize it into a cleaner structured format (chapter → section → problems). That way you can use it as a checklist for your homework or even paste it into Obsidian, Notion, or Excel.
-
----
-
-### 📘 Math G180 – Assignment List (Subject to change)
-
 #### Chapter 1: Sections 1.1 – 1.5
 
 - **Section 1.1:** 7, 11, 15, 19, 35(a–f), 37
@@ -93,7 +86,3 @@ Got it — thanks for pasting your **Math G180 (Calculus 1) assignment list**. R
 
 - **Section 6.1:** 1, 3, 17, 31
     
-
----
-
-Would you like me to also **turn this into a checklist table** (like `[ ] Problem number`) so you can track progress as you solve them?
