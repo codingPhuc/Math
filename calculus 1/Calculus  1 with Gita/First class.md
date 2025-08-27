@@ -19,6 +19,10 @@ $$
 $$
 
 
+## Function exercise 
+
+F9  
+
 ## checking to know if the function is valid 
 $f(x)^2 = x$
 when  we  plug in the value let say  4  we can see that 1 input have 2 output causing the function to  not be valid 
