@@ -8,7 +8,7 @@ Current date: 2025-08-17
 amount of time: 
 learning score:
 ---
-
+S
 solve my equation exercise are equations that are given in the school broad 
 
 
