@@ -4,10 +4,8 @@ $$
 $$
 
 
-## checking to know if the function is valid 
-graphing the function : 
-- if you have graph the function like 
-
+# checking to know if the function is valid 
+##
 ```tikz
 \usepackage{amsmath,amssymb}
 \usetikzlibrary{decorations.pathreplacing}
