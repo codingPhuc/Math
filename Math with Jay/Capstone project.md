@@ -16,4 +16,4 @@ learning score:
 
 **Taylor, Shawn**  
 _Mathematics_  
-[staylor3@gwc.cccd.edu](mailto:staylor3@gwc.cccd.edu)
+[staylor3@gwc.cccd.edu](mailto:staylor3@gwc.cccd.edu) 
