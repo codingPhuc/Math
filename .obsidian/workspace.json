@@ -12,16 +12,14 @@
             "id": "ed68c8602ba6916b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
-                "page": 5,
-                "left": -21,
-                "top": 276,
-                "zoom": 0.7193627450980392
+                "file": "calculus 1/Calculus  1 with Gita/First class.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
+              "icon": "lucide-file",
+              "title": "First class"
             }
           },
           {
@@ -177,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
+                "file": "calculus 1/Calculus  1 with Gita/First class.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
+              "title": "Backlinks for First class"
             }
           },
           {
@@ -259,6 +257,7 @@
   },
   "active": "ed68c8602ba6916b",
   "lastOpenFiles": [
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
     "calculus 1/Calculus  1 with Gita/First class.md",
@@ -271,7 +270,6 @@
     "calculus 1/Paul online math note/Section 1.3  Trig Functions.md",
     "calculus 1/Paul online math note/Section 1.1  Functions.md",
     "calculus 1/Paul online math note/Section 1.2  Inverse Functions.md",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.4,1.5 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.3 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
@@ -294,7 +292,6 @@
     "2025-08-25.md",
     "calculus 1/Paul online math note/Section 2.2  The Limit.md",
     "calculus 1/Paul online math note/Untitled.md",
-    "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
     "picture/Pasted image 20250825092832.png",
     "picture/Pasted image 20250825085743.png",
     "picture/Pasted image 20250825085558.png",
