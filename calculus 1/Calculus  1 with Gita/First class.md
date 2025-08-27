@@ -2,5 +2,8 @@ perform  function  F(x) with repeat to variable  x
 $$
 \text{ input } \xrightarrow{\text{}} function  \xrightarrow{\text{}} ouput f(x)   
 $$
+
+
+## cheak
 method to know if a function is valid :  
 -  if you graph the function 
