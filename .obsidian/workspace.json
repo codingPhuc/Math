@@ -64,9 +64,9 @@
               "type": "pdf",
               "state": {
                 "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
-                "page": 2,
+                "page": 8,
                 "left": -18,
-                "top": 507,
+                "top": 121,
                 "zoom": 0.8247549019607843
               },
               "icon": "lucide-file-text",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/First class.md",
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for First class"
+              "title": "Backlinks for Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
             }
           },
           {
@@ -227,8 +227,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed68c8602ba6916b",
+  "active": "3bac655d847fbc90",
   "lastOpenFiles": [
+    "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "calculus 1/Module Relation.md",
@@ -237,7 +238,6 @@
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.4,1.5 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
     "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf.crdownload",
-    "calculus 1/Calculus  1 with Gita/First class.md",
     "2025-08-26.md",
     "book/ECE.pdf",
     "book/Give Me Liberty, Seventh Edition.pdf",
