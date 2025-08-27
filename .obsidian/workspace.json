@@ -43,8 +43,10 @@
               "type": "pdf",
               "state": {
                 "file": "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 5,
+                "left": 336,
+                "top": 782,
+                "zoom": 3.3
               },
               "icon": "lucide-file-text",
               "title": "Calculus_Volume_1_-_WEB_68M1Z5W"
@@ -157,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 907.5
+    "width": 236.5
   },
   "right": {
     "id": "148b74fc748411da",
@@ -255,6 +257,7 @@
   },
   "active": "3bac655d847fbc90",
   "lastOpenFiles": [
+    "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf.crdownload",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "2025-08-26.md",
     "book/ECE.pdf",
