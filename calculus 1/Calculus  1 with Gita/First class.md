@@ -39,4 +39,5 @@ by  graphing the function you can visualize if the function have 2 output by dra
 
 
 ``` 
+we can se
 
