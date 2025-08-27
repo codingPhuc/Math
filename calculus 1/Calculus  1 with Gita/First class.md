@@ -32,7 +32,7 @@ by  graphing the function you can visualize if the function have 2 output by dra
 
 
     \draw[thick, blue, domain=0:4, smooth] plot (\x, {\x});
-   \draw[thick, blue, domain=0:4, smooth] plot (\x ,1 );
+   \draw[thick, blue, domain=0:4, smooth] plot (1,\x );
  
 \end{tikzpicture}
 \end{document}
