@@ -114,7 +114,13 @@ $$
 \begin{array}{l} \\
  f(\sqrt{2})  =  3(\sqrt{2})^2  + 2(\sqrt{2})  - 1    \\
 =  5 + 2\sqrt{ 2 }
-  =  7   
 \end{array}
 $$
-c. $f(a+h)$ 
+c. $f(a+h)$  
+
+$$
+\begin{array}{l} \\
+ f(\sqrt{2})  =  3(\sqrt{2})^2  + 2(\sqrt{2})  - 1    \\
+=  5 + 2\sqrt{ 2 }
+\end{array}
+$$
