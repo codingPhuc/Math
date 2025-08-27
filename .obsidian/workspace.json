@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Module Relation.md",
+                "file": "independent version/Transformations video lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module Relation"
+              "title": "Transformations video lecture"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calculus 1/Module Relation.md",
+                "file": "independent version/Transformations video lecture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Module Relation"
+              "title": "Backlinks for Transformations video lecture"
             }
           },
           {
@@ -257,13 +257,14 @@
   },
   "active": "ed68c8602ba6916b",
   "lastOpenFiles": [
+    "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
+    "calculus 1/Module Relation.md",
+    "calculus 1/What need to be understand.md",
     "calculus 1/Paul online math note/Untitled.md",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
-    "calculus 1/What need to be understand.md",
     "independent version/Transformations video lecture.md",
-    "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
@@ -283,7 +284,6 @@
     "calculus 1/12 hours calculus courses/2.5.1 Continuity.md",
     "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
     "book/Precalculus Stewart 7th Edition.pdf",
-    "calculus 1/Module Relation.md",
     "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
     "calculus 1/Calculus  1 with Gita/books/Calculus_Volume_1_-_WEB_68M1Z5W.pdf.crdownload",
     "book/ECE.pdf",
