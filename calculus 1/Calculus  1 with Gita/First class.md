@@ -4,6 +4,5 @@ $$
 $$
 
 
-## cheak
-method to know if a function is valid :  
--  if you graph the function 
+## checking to know if the function is valid 
+method t
