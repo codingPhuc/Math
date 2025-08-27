@@ -5,4 +5,4 @@ $$
 
 
 ## checking to know if the function is valid 
-method t
+graphing the functio
