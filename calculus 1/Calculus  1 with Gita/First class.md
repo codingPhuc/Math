@@ -31,7 +31,7 @@ by  graphing the function you can visualize if the function have 2 output by dra
 \node[circle, draw, fill=black, inner sep=2pt, label=F(b)]  at  (4, 4) {};
 
 
-    \draw[thick, blue, domain=2:4, smooth] plot (\x, {(\x)^(3/2)-\x});
+    \draw[thick, blue, domain=2:4, smooth] plot (\x, {\x};
  
 \end{tikzpicture}
 \end{document}
