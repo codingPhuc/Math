@@ -20,8 +20,8 @@ $$
 
 
 ## checking to know if the function is valid 
-$x=f(x)$
-
+$x=f(x)^2$
+when  we 
 ### Plugging in the function 
 the first method is plugging in the function  
 
