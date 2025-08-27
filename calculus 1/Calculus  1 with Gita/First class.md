@@ -100,6 +100,7 @@ we can see  that the line only have 1 interception this mean that  it is a valid
 we can see that the line cross the function 2 time for a single x value, so we concluded that it is not a function  
 
 For the function $f(x)=3x^{2}+2x-1$, evaluate
-a. $f(-2)$
+a. $f(-2)$ 
+this si 
 b. $f(\sqrt{2})$
 c. $f(a+h)$ 
