@@ -21,7 +21,7 @@ $$
 
 ## checking to know if the function is valid 
 $f(x)^2 = x$
-when  we  plug in the value let say  4  we can see that the value hav
+when  we  plug in the value let say  4  we can see that 1 input have 2 output c
 ### Plugging in the function 
 the first method is plugging in the function  
 
