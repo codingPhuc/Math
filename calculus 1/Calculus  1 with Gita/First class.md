@@ -39,5 +39,5 @@ by  graphing the function you can visualize if the function have 2 output by dra
 
 
 ``` 
-we can see  that the line only have 1 interception for th
+we can see  that the line only have 1 interception this mean that  it is a valid function 
 
