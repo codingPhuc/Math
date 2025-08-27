@@ -81,7 +81,7 @@ we can see  that the line only have 1 interception this mean that  it is a valid
 \node[circle, draw, fill=black, inner sep=2pt, label=F(a)]  at  (2, 0.828) {};
 \node[circle, draw, fill=black, inner sep=2pt, label=F(b)]  at  (4, 4) {};
 
-\draw[thick, red, domain=-3:3, smooth] plot (\x, {(\x)^2});
+\draw[thick, red, domain=-3:3, smooth] plot ( {(\x)^2} , \x);
    \draw[thick, blue, domain=0:4, smooth] plot (1,\x );
  
 \end{tikzpicture}
