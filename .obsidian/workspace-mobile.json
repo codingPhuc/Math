@@ -56,9 +56,9 @@
               "type": "pdf",
               "state": {
                 "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
-                "page": 2,
-                "left": 29,
-                "top": 173,
+                "page": 3,
+                "left": 14,
+                "top": 563,
                 "zoom": 0.81
               },
               "icon": "lucide-file-text",
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
+            "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -205,13 +205,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c40ebe977575f400",
+  "active": "b63f5157077cec41",
   "lastOpenFiles": [
+    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Calculus  1 with Gita/Solve my equation exercise.md",
     "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
     "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
-    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "2025-08-26.md",
     "picture/Doc 08-26-2025 16-36-24.pdf",
     "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
