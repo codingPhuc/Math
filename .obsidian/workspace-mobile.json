@@ -56,10 +56,10 @@
               "type": "pdf",
               "state": {
                 "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
-                "page": 3,
-                "left": 14,
-                "top": 563,
-                "zoom": 0.81
+                "page": 2,
+                "left": -1,
+                "top": 183,
+                "zoom": 0.5392156862745098
               },
               "icon": "lucide-file-text",
               "title": "Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180"
@@ -205,7 +205,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b63f5157077cec41",
+  "active": "65769863257990aa",
   "lastOpenFiles": [
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Calculus  1 with Gita/Solve my equation exercise.md",
