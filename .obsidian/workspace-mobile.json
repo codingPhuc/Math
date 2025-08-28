@@ -53,16 +53,14 @@
             "id": "b63f5157077cec41",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
-                "page": 2,
-                "left": -1,
-                "top": 183,
-                "zoom": 0.5392156862745098
+                "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180"
+              "icon": "lucide-file",
+              "title": "Home work  requirement"
             }
           }
         ],
@@ -205,13 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65769863257990aa",
+  "active": "b63f5157077cec41",
   "lastOpenFiles": [
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Calculus  1 with Gita/Solve my equation exercise.md",
     "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
     "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
     "2025-08-26.md",
     "picture/Doc 08-26-2025 16-36-24.pdf",
     "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
@@ -251,7 +249,6 @@
     "/2025-08-23.md",
     "/templates/RAP (Read – Answer – Practice).md",
     "templates/RAP (Read – Answer – Practice).md",
-    "/calculus 1/Paul online math note/Section 2.2  The Limit.md",
-    "Math with Jay/Untitled.md"
+    "/calculus 1/Paul online math note/Section 2.2  The Limit.md"
   ]
 }
