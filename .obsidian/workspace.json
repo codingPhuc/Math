@@ -26,16 +26,14 @@
             "id": "3eb65388fe6d207d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "picture/Doc 08-28-2025 13-05-19.pdf",
-                "page": 1,
-                "left": -25,
-                "top": 795,
-                "zoom": 0.6703431372549019
+                "file": "calculus 1/Paul online math note/Section 2.3  One-Sided Limits.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Doc 08-28-2025 13-05-19"
+              "icon": "lucide-file",
+              "title": "Section 2.3  One-Sided Limits"
             }
           }
         ],
@@ -137,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inclass",
+                "query": "tag:#inclass_note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,16 +259,18 @@
   },
   "active": "3eb65388fe6d207d",
   "lastOpenFiles": [
+    "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
+    "calculus 1/Paul online math note/Section 2.3  One-Sided Limits.md",
+    "calculus 1/Calculus  1 with Gita/Second Class.md",
+    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
+    "calculus 1/Calculus  1 with Gita/First class.md",
+    "picture/Doc 08-28-2025 13-05-19.pdf",
     "picture/Doc 08-26-2025 16-36-24.pdf",
     "picture/Doc 08-25-2025 09-39-19.pdf",
     "picture/Doc 08-25-2025 09-00-38.pdf",
     "picture/Doc 08-25-2025 23-03-49.pdf",
     "picture/Doc 08-25-2025 23-03-49 1.pdf",
     "picture/Doc 08-25-2025 23-03-49 2.pdf",
-    "picture/Doc 08-28-2025 13-05-19.pdf",
-    "calculus 1/Calculus  1 with Gita/Second Class.md",
-    "calculus 1/Calculus  1 with Gita/First class.md",
-    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Calculus  1 with Gita/My open math assignment.md",
     "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
@@ -283,8 +283,6 @@
     "picture/Pasted image 20250826213704.png",
     "Math with Jay/Capstone project.md",
     "calculus 1/in class math note/My open math assignment.md",
-    "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.4,1.5 – Math G180.pdf",
     "Math with Jay/polytoad.md",
     "2025-08-26.md",
     "calculus 1/in class math note/Solve my equation exercise.md",
