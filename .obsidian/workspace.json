@@ -38,8 +38,7 @@
               "title": "Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "036389250ad43d29",
@@ -66,14 +65,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
-                "page": 7,
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
+                "page": 1,
                 "left": -19,
-                "top": 622,
+                "top": 796,
                 "zoom": 0.7696078431372549
               },
               "icon": "lucide-file-text",
-              "title": "Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
+              "title": "Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180"
             }
           },
           {
@@ -259,9 +258,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3eb65388fe6d207d",
+  "active": "a1cb91a13e529b11",
   "lastOpenFiles": [
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "calculus 1/Paul online math note/Section 2.1  Tangent Lines and Rates of Change.md",
     "calculus 1/Paul online math note/Section 1.9 Exponential and Logarithm Equations.md",
     "calculus 1/Paul online math note/Section 2.2  The Limit.md",
@@ -283,7 +283,6 @@
     "calculus 1/Calculus  1 with Gita/Untitled",
     "2025-08-28.md",
     "calculus 1/Calculus  1 with Gita/Solve my equation exercise.md",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/solving equation.md",
     "picture/Pasted image 20250826213704.png",
     "Math with Jay/Capstone project.md",
