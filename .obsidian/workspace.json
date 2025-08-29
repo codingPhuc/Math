@@ -49,7 +49,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf"
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
+                "page": 6,
+                "left": -40,
+                "top": 297,
+                "zoom": 0.39215686274509803
               },
               "icon": "lucide-file-text",
               "title": "Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
@@ -141,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "148b74fc748411da",
@@ -218,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,15 +239,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ed68c8602ba6916b",
   "lastOpenFiles": [
     "calculus 1/Calculus  1 with Gita/Solve my equation exercise.md",
+    "2025-08-28.md",
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/solving equation.md",
     "calculus 1/Calculus  1 with Gita/My open math assignment.md",
@@ -282,6 +290,4 @@
     "picture/Pasted image 20250824130249.png",
     "picture/Pasted image 20250823091751.png",
     "picture/Pasted image 20250820212825.png",
-    "picture/Pasted image 20250820203440.png"
-  ]
-}
+    "picture/Pasted image 2
