@@ -60,10 +60,9 @@ $$
 \mid x \mid  =  \left\{ \begin{array}{l}x  \implies  x>0 \\
 -x  \implies x  < 0 
 \end{array} \right\} 
-\text{ therefore if } R< 0 
+ 
 $$
-
-
+there fore 
 
 
 
