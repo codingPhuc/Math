@@ -29,6 +29,7 @@ setup :
 let $X\subset R$, a real valued function X where $\forall x\in X$ and  $f,g,X\xrightarrow{\text{}}R$ 
 $$
 \begin{array}{l} \\
-\text{ sum }  F(f +g)X  =  f(x)
+\text{ sum }  F(f +g)X  =  f(x) + g(x)  \\
+\text{ }
 \end{array}
 $$
