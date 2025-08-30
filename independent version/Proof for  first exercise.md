@@ -40,4 +40,4 @@ $$
 
 
 
-Tao uses this basic point wise operations on fun
+Tao uses this basic point wise operations on function : ie  d
