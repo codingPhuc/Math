@@ -40,4 +40,4 @@ $$
 
 
 
-Tao  
+Tao uses this basic point wise operations on f
