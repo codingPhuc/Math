@@ -26,4 +26,4 @@ $\left\{ x : x \in R f(x) > 0 V g( x) >3 \right\}$ because of this they show the
 
 Tao uses  this basic point wise operation ton functions : i.e defining  what you do to f, g you do to their values x.
 setup : 
-let $X\subset R$, a real valued function X where $\forall x\in X$ 
+let $X\subset R$, a real valued function X where $\forall x\in X$ and  $f,x$
