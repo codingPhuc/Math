@@ -37,7 +37,7 @@ $$
 $$
 define $\subset$ as the constant where $C \in R$ scalar multiply $(c \cdot f)(x)  =cf(x)$ 
 extremas : 
-max (f,g)(x)   =  max 
+max (f,g)(x)   =  $max\left\{ f( x) , g(x) \right\}$
 
 
 
