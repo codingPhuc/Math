@@ -145,7 +145,7 @@ $$
 
 
 $$
-\left\{ \forall x \in  X : f(x )  = g(x) \cap  \exists  \right\} 
+\left\{ \forall x \in  X : f(x )  = g(x) \cap  n  \right\} 
 $$
 
 # Pointwise check ?
