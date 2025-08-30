@@ -62,7 +62,7 @@ $$
 \end{array} \right.
  
 $$
-therefore 
+therefore if R<0 is ture then f(x) != g  
 
 
 
