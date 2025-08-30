@@ -143,3 +143,7 @@ f(x) = g(x) \quad \text{for all } x \in X.
 $$  
 
 (If $f(x)$ and $g(x)$ agree for some values of $x$, but not others, then we do **not** consider $f$ and $g$ to be equal.)  
+
+
+# what is a codomain 
+
