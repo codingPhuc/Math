@@ -145,7 +145,7 @@ $$
 
 
 $$
-\left\{ \forall x \in  X : f(x )  = g(x) \cap \not \exists \in    \right\} 
+\left\{ \forall x \in  X : f(x )  = g(x) \cap \not \exists \in X : f(x)  \neq    \right\} 
 $$
 
 # Pointwise check ?
