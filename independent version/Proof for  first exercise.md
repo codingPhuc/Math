@@ -145,9 +145,9 @@ $$
 
 
 $$
-\left\{  \right\} 
+\left\{ \forall x \in  X : f(x) \right\} 
 $$
-z
+
 # Pointwise check ?
 
 
