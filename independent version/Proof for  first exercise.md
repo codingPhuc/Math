@@ -23,3 +23,6 @@ $g(x)\neq f(x)$ because of x of either function g(x) and f(x) have
 $\left\{ x : x \in R f(x) > 0 V g( x) >3 \right\}$ because of this they show they have different domains 
 
 
+
+
+
