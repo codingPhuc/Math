@@ -151,4 +151,5 @@ $$
 
 # Pointwise check ?
 
-# . Conclude:
+#  Conclude ? 
+
