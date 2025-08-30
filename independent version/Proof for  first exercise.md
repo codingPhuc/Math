@@ -145,7 +145,7 @@ $$
 
 
 $$
-\left\{ \forall x \in  X : f(x )  = g(x) \cap \note\xi st   \right\} 
+\left\{ \forall x \in  X : f(x )  = g(x) \cap \not \exists    \right\} 
 $$
 
 # Pointwise check ?
