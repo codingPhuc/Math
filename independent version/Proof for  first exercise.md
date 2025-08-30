@@ -52,7 +52,7 @@ $f:R\xrightarrow{\text{}} R: f(x)=x^2+2x-1$
 and 
 $g:R\xrightarrow{\text{}}R:g(x)=(x+ 1)^2$ 
 therefore 
-
+$f(x)=f(x)on R:D\in$
 
 
 
