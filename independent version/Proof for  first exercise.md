@@ -53,7 +53,7 @@ and
 $g:R\xrightarrow{\text{}}R:g(x)=(x+ 1)^2$ 
 therefore 
 $f(x)=f(x)on R:D\in R$
-however  iit depend on the domain that $f:R\xrightarrow{\text{ }}R$ , $f(x)=x$ and $g: R\xrightarrow{\text{}}$
+however  iit depend on the domain that $f:R\xrightarrow{\text{ }}R$ , $f(x)=x$ and $g: R\xrightarrow{\text{}}R$ , $g(x)=\mid x \text{ are e} \mid$
 
 
 
