@@ -39,7 +39,7 @@ define $\subset$ as the constant where $C \in R$ scalar multiply $(c \cdot f)(x)
 extremas : 
 max (f,g)(x)   =  $max\left\{ f( x) , g(x) \right\}$  , 
 min (f,g)(x)   =  $min\left\{ f( x) , g(x) \right\}$  , 
-however  this does not  mean that they are the same as Tao explain $f(x)=x^2$ 
+however  this does not  mean that they are the same as Tao explain $f(x)=x^2$ is the same output of f(x) = 2x 
 
 
 
