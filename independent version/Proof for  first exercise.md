@@ -22,7 +22,35 @@ and g  = $R\xrightarrow{\text{}}R$, g(x) where  $x\in R$, $g(x) =x^2+ x-1$
 $g(x)\neq f(x)$ because of x of either function g(x) and f(x) have 
 $\left\{ x : x \in R f(x) > 0 V g( x) >3 \right\}$ because of this they show they have different domains 
 
+**Definition 9.2.1 (Arithmetic operations on functions). Given two func-tions f : X → R and g : X → R, we can define their sum f+g : X → R by the formula**
 
+_(f + g)(x) := f(x) + g(x),_
+
+**their difference f − g : X → R by the formula**
+
+_(f − g)(x) := f(x)− g(x),_
+
+**their maximum max(f, g) : X → R by**
+
+_max(f, g)(x) := max(f(x), g(x)),_
+
+**their minimum min(f, g) : X → R by**
+
+_min(f, g)(x) := min(f(x), g(x)),_
+
+**their product fg : X → R (or f · g : X → R) by the formula**
+
+_(fg)(x) := f(x)g(x),_
+
+**220 9. Continuous functions on R**
+
+**and (provided that g(x) = 0 for all x ∈ X) the quotient f/g : X → R by the formula**
+
+_(f/g)(x) := f(x)/g(x)._
+
+**Finally, if c is a real number, we can define the function cf : X → R (or c · f : X → R) by the formula**
+
+_(cf)(x) := c× f(x)._
 
 Tao uses  this basic point wise operation ton functions : i.e defining  what you do to f, g you do to their values x.
 setup : 
