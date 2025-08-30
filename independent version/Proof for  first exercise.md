@@ -145,7 +145,7 @@ $$
 
 
 $$
-\left\{ \forall x \in  X : f(x )  = g(x) \cap not \right\} 
+\left\{ \forall x \in  X : f(x )  = g(x) \cap \text{ ~ }   e\ \right\} 
 $$
 
 # Pointwise check ?
