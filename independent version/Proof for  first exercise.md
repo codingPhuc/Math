@@ -62,8 +62,7 @@ $$
 \end{array} \right.
  
 $$
-therefore if R<0 is ture then f(x) != g(x)  but if R>0 then  F9 
-
+therefore if R<0 is ture then f(x) != g(x)  but if R>0 then  f(x)  = g(x )  is true 
 
 
 
