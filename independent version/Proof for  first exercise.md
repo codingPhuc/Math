@@ -147,3 +147,6 @@ $$
 
 # what is a codomain 
 
+# what is equality definition ? 
+
+# 
