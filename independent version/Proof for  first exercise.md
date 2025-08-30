@@ -47,3 +47,10 @@ however  this does not  mean that they are the same as Tao explain $f(x)=x^2$ is
 
 
 
+
+
+
+
+
+
+
