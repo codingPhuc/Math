@@ -150,3 +150,5 @@ $$
 # what is equality definition ? 
 
 # Pointwise check ?
+
+# . Conclude:
