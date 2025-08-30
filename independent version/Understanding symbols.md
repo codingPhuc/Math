@@ -32,4 +32,4 @@ In summary, `f: R → R` precisely states that you are dealing with a function n
 
 
 when  to used subset  , when to used  in  : 
--  you should used in when  
+-  you should used in when  you describing a single element like $x$
