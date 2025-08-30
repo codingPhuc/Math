@@ -131,3 +131,15 @@ therefore if R<0 is ture then f(x) != g(x)  but if R>0 then  f(x)  = g(x )  is t
 
 
 
+### Definition 3.3.7 — Equality of functions  
+
+Two functions  
+$$
+f : X \to Y, \quad g : X \to Y
+$$  
+with the same domain and range are said to be **equal**, written as $f = g$, if and only if  
+$$
+f(x) = g(x) \quad \text{for all } x \in X.
+$$  
+
+(If $f(x)$ and $g(x)$ agree for some values of $x$, but not others, then we do **not** consider $f$ and $g$ to be equal.)  
