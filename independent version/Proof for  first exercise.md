@@ -45,7 +45,7 @@ however  this does not  mean that they are the same as Tao explain $f(x)=x^2$ is
 
 
 
-two functions define as $f,g : X \xrightarrow{\text{}}Y$ are equal on domain $D\in R$  if $\forall x \in,\forall y =Y$ therefore $f(x)=g(x)$ as  both  $\forall x \text{ and }$
+two functions define as $f,g : X \xrightarrow{\text{}}Y$ are equal on domain $D\in R$  if $\forall x \in,\forall y =Y$ therefore $f(x)=g(x)$ as  both  $\forall x \text{ and } \forall y$ are equal to $$
 
 
 
