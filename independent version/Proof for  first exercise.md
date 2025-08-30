@@ -110,7 +110,7 @@ Thus, the concept of **equality of functions** can depend on the choice of domai
 
 
 
-two functions define as $f,g : X \xrightarrow{\text{}}Y$ are equal on domain $D\in R$  if $\forall x \in X,\forall y \Y$ therefore $f(x)=g(x)$ as  both  $\forall x \text{ and } \forall y$ are equal to $X,Y\in R$ , and  $\forall x,\forall y\subset R$ 
+two functions define as $f,g : X \xrightarrow{\text{}}Y$ are equal on domain $D\in R$  if $\forall x \in X,\forall y \in Y$ therefore $f(x)=g(x)$ as  both  $\forall x \text{ and } \forall y$ are equal to $X,Y\in R$ , and  $\forall x,\forall y\subset R$ 
 
 define: 
 $f:R\xrightarrow{\text{}} R: f(x)=x^2+2x-1$
