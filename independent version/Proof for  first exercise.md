@@ -36,7 +36,8 @@ $$
 \end{array}
 $$
 define $\subset$ as the constant where $C \in R$ scalar multiply $(c \cdot f)(x)  =cf(x)$ 
-extr
+extremas : 
+ma
 
 
 
