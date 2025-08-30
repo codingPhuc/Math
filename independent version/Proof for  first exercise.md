@@ -149,5 +149,8 @@ $$
 
 # Pointwise check ?
 
+
+
+
 #  Conclude ? 
 
