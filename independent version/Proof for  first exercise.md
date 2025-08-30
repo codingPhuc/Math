@@ -49,7 +49,8 @@ two functions define as $f,g : X \xrightarrow{\text{}}Y$ are equal on domain $D\
 
 define: 
 $f:R\xrightarrow{\text{}} R: f(x)=x^2+2x-1$
-
+and 
+g
 
 
 
