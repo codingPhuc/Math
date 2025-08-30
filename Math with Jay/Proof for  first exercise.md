@@ -10,6 +10,6 @@ learning score:
 ---
 
 
-Tao define  a f(x) to be different g(x) as they have different domains 
+Tao define  a f(x) to be different  from g(x) as they have different domains 
 e.g 
 
