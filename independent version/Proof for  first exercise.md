@@ -53,8 +53,7 @@ and
 $g:R\xrightarrow{\text{}}R:g(x)=(x+ 1)^2$ 
 therefore 
 $f(x)=f(x)on R:D\in R$
-
-
+however  iit depend on the domain that 
 
 
 
