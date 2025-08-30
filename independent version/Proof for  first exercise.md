@@ -40,4 +40,4 @@ $$
 
 
 
-Tao uses this basic point wise operations on function it defining waht you do  to f,g you do to
+Tao uses this basic point wise operations on function it defining waht you do  to f,g you do to 
