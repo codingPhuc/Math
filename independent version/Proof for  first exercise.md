@@ -30,6 +30,6 @@ let $X\subset R$, a real valued function X where $\forall x\in X$ and  $f,g,X\xr
 $$
 \begin{array}{l} \\
 \text{ sum }  F(f +g)X  =  f(x) + g(x)  \\
-\text{ }
+\text{ different}  (f -)
 \end{array}
 $$
