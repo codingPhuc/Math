@@ -145,7 +145,7 @@ $$
 
 
 $$
-\left\{ \forall x \in  X : f(x) \right\} 
+\left\{ \forall x \in  X : f(x )  = g(x)  \right\} 
 $$
 
 # Pointwise check ?
