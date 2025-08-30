@@ -59,10 +59,10 @@ because
 $$
 \mid x \mid  =  \left\{ \begin{array}{l}x  \implies  x>0 \\
 -x  \implies x  < 0 
-\end{array} \right\} 
+\end{array} \right.
  
 $$
-there fore 
+therefore 
 
 
 
