@@ -199,3 +199,49 @@ f = g on domain X   OR   f ≠ g because of domain difference or pointwise inequ
 If you want, I can **take your full text and rewrite it into a polished, Obsidian-ready proof** following this exact template, with all formulas in `$$ ... $$` so it’s clean and easy to read.
 
 Do you want me to do that?
+
+
+
+
+
+Exactly — you’ve got the idea! Let me clarify it precisely and cleanly:
+
+---
+
+### **Codomain (Y)**
+
+- The **codomain** is the set of values that the function is **declared or allowed to output** when you define it.
+    
+- Think of it as the **“target set”** for outputs.
+    
+- It doesn’t have to match what the function actually produces (that’s the **range**), but it **defines what outputs are possible in the function’s definition**.
+    
+
+**Notation example:**
+
+f:X→Yf: X \to Y
+
+- XX = domain (inputs)
+    
+- YY = codomain (allowed outputs)
+    
+
+**Example:**
+
+- f:R→R,f(x)=x2f: \mathbb{R} \to \mathbb{R}, f(x) = x^2
+    
+    - Codomain Y=RY = \mathbb{R} (all real numbers are “allowed” as outputs)
+        
+    - Range = [0,∞)[0, \infty) (actual outputs)
+        
+
+---
+
+✅ **Key point:**  
+The codomain is part of the **definition of the function**. It tells anyone reading the function what type of outputs are possible — even if some values in the codomain are never actually reached by the function.
+
+---
+
+If you want, I can make a **tiny visual diagram for Obsidian** showing **domain → function → codomain**, with the range highlighted, so it’s super clear and you can always reference it when writing proofs.
+
+Do you want me to do that?
