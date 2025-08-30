@@ -13,4 +13,4 @@ learning score:
 Tao define  a f(x) to be different  from g(x) as they have different domains 
 e.g 
 define  f(x) where x $\in$ R :  
-f is $\xrightarrow{\text{}}$ 
+f is R $\xrightarrow{\text{}}$ R 
