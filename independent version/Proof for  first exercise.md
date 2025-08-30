@@ -35,7 +35,7 @@ $$
 \text{ quitionent if } g(x) \neq 0 \forall x \in X , \left( \frac{f}{g} \right)(x)   = \frac{f(x)}{g(x)}  
 \end{array}
 $$
-d
+define $\subset$ as the constant where $$
 
 
 
