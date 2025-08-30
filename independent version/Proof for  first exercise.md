@@ -32,7 +32,7 @@ $$
 \text{ sum }  (f +g)X  =  f(x) + g(x)  \\
 \text{ different}  (f - g ) (x)  = f(x)  - g(x)  \\
 \text{ product} (f\cdot g)(x)   =  f(x) g(x)   \\
-\text{ quitionent if } g(x) \neq 0 \forall x \in X ,  
+\text{ quitionent if } g(x) \neq 0 \forall x \in X , \left( \frac{f}{g} \right) 
 \end{array}
 $$
 
