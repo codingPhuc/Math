@@ -145,9 +145,7 @@ $$
 (If $f(x)$ and $g(x)$ agree for some values of $x$, but not others, then we do **not** consider $f$ and $g$ to be equal.)  
 
 
-# what is a codomain 
 
-# what is equality definition ? 
 
 # Pointwise check ?
 

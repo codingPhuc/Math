@@ -202,7 +202,7 @@ Do you want me to do that?
 
 
 
-
+# what is a codomain 
 
 Exactly — you’ve got the idea! Let me clarify it precisely and cleanly:
 
@@ -244,4 +244,8 @@ The codomain is part of the **definition of the function**. It tells anyone read
 
 If you want, I can make a **tiny visual diagram for Obsidian** showing **domain → function → codomain**, with the range highlighted, so it’s super clear and you can always reference it when writing proofs.
 
-Do you want me to do that?
+Do you want me to do that? 
+
+
+
+# what is equality definition ? 
