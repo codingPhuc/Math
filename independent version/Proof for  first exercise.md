@@ -84,6 +84,29 @@ min (f,g)(x)   =  $min\left\{ f( x) , g(x) \right\}$  ,
 however  this does not  mean that they are the same as Tao explain $f(x)=x^2$ is the same output of f(x) = 2x where $\forall x \in X$ and  f, g $X\xrightarrow{\text{}}R$ they are not the same composition  
 
 
+### Example 3.3.8  
+
+- The functions  
+  $$
+  x \mapsto x^2 + 2x + 1
+  $$  
+  and  
+  $$
+  x \mapsto (x+1)^2
+  $$  
+  are equal on the domain $\mathbb{R}$.  
+
+- The functions  
+  $$
+  x \mapsto x
+  $$  
+  and  
+  $$
+  x \mapsto |x|
+  $$  
+  are equal on the **positive real axis**, but are not equal on $\mathbb{R}$.  
+
+Thus, the concept of **equality of functions** can depend on the choice of domain.  
 
 
 
