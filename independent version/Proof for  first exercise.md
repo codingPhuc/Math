@@ -17,4 +17,5 @@ f is R $\xrightarrow{\text{}}$ R  but different from g(x) even if both g(x) and 
 have f  =$R\xrightarrow{\text{} }R$ but different from g(x) even if both g(x) and f(x) has  $X\in R$ and both equal to g(x), f(x) = $x^2+x-1$
 have f = $R\xrightarrow{\text{}}R$, f(x) where x $\in$ R, $f(x)=x^2 + x -1$
 and g  = $R\xrightarrow{\text{}}R$, g(x) where  $x\in R$, $g(x) =x^2+ x-1$ 
-$g(x)\neq f(x)$ because of x of either function g(x) and f(x) ha
+$g(x)\neq f(x)$ because of x of either function g(x) and f(x) have 
+$\left\{  \right\}$
