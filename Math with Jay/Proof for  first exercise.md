@@ -10,4 +10,4 @@ learning score:
 ---
 
 
-Tao define  a f(x) to be different g
+Tao define  a f(x) to be different g(x) 
