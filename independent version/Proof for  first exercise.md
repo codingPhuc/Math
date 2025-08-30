@@ -57,8 +57,8 @@ however  iit depend on the domain that $f:R\xrightarrow{\text{ }}R$ , $f(x)=x$ a
 our positive axis $[0,\infty]$ and where R >0  
 because 
 $$
-\mid x \mid  =  \left\{ \begin{array}{l}x    x>0 \\
--x  x
+\mid x \mid  =  \left\{ \begin{array}{l}x  \implies  x>0 \\
+-x  \implies x  < 0 
 \end{array} \right\} 
 $$
 
