@@ -31,6 +31,7 @@ $$
 \begin{array}{l} \\
 \text{ sum }  (f +g)X  =  f(x) + g(x)  \\
 \text{ different}  (f - g ) (x)  = f(x)  - g(x)  \\
-\text{ product} (f\cdot g)(x)   =  f(x) g
+\text{ product} (f\cdot g)(x)   =  f(x) g(x)   \\
+
 \end{array}
 $$
