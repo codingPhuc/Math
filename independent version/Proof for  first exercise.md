@@ -24,46 +24,7 @@ $\left\{ x : x \in R f(x) > 0 V g( x) >3 \right\}$ because of this they show the
 
 
 
-### Definition 9.2.1 — Arithmetic operations on functions  
-### Definition 9.2.1 — Arithmetic operations on functions  
 
-Given two functions **f : X → ℝ** and **g : X → ℝ**, we define:  
-
-- **Sum:**  
-  $$$$
-  (f + g)(x) = f(x) + g(x)
-  $$$$  
-
-- **Difference:**  
-  $$$$
-  (f - g)(x) = f(x) - g(x)
-  $$$$  
-
-- **Maximum:**  
-  $$$$
-  \max(f, g)(x) = \max(f(x), g(x))
-  $$$$  
-
-- **Minimum:**  
-  $$$$
-  \min(f, g)(x) = \min(f(x), g(x))
-  $$$$  
-
-- **Product:**  
-  $$$$
-  (fg)(x) = f(x)g(x)
-  $$$$  
-  (also written as $f \cdot g$)  
-
-- **Quotient (when $g(x) \neq 0$ for all $x \in X$):**  
-  $$$$
-  \left(\frac{f}{g}\right)(x) = \frac{f(x)}{g(x)}
-  $$$$
-
-- **Scalar multiplication (where $c \in \mathbb{R}$):**  
-  $$$$
-  (cf)(x) = c \cdot f(x)
-  $$$$  
 
 
 Tao uses  this basic point wise operation ton functions : i.e defining  what you do to f, g you do to their values x.
