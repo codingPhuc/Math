@@ -15,4 +15,4 @@ e.g
 define  f(x) where x $\in$ R :  
 f is R $\xrightarrow{\text{}}$ R  but different from g(x) even if both g(x) and f(x) has X $\in$  R and both equal to g(x), $f(x) =x^2 +x -1$
 have f  =$R\xrightarrow{\text{} }R$ but different from g(x) even if both g(x) and f(x) has  $X\in R$ and both equal to g(x), f(x) = $x^2+x-1$
-have f = $R\xrightarrow{\text{}}R$, f(x) where x $\in$ R, 
+have f = $R\xrightarrow{\text{}}R$, f(x) where x $\in$ R, $f(x)=x^2 + x $
