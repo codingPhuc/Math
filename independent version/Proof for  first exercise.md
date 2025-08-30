@@ -40,4 +40,7 @@ $$
 
 
 
-Tao uses this basic point wise operations on function : ie  definining what you do  to f,g  you do to their values  x
+Tao uses this basic point wise operations on function : ie  definining what you do  to f,g  you do to their values  x. 
+
+setup:  
+let X 
