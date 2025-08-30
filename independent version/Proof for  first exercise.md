@@ -68,7 +68,7 @@ Given two functions **f : X → ℝ** and **g : X → ℝ**, we define:
 
 Tao uses  this basic point wise operation ton functions : i.e defining  what you do to f, g you do to their values x.
 setup : 
-let $X\subset R$, a real valued function X where $\forall x\in X$ and  $f,g,X\xrightarrow{\text{}}R$ 
+let $X\subset R$, a real valued function X where $\forall x\in X$ and  $f,g:X\xrightarrow{\text{}}R$ 
 $$
 \begin{array}{l} \\
 \text{ sum }  (f +g)X  =  f(x) + g(x)  \\
