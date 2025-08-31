@@ -8,7 +8,9 @@ Current date: 2025-08-17
 amount of time: 
 learning score:
 ---
-
+3. defining +he
+Set best belong to all
+real umber?
 # #definition 
 
 ## **Question 1:** According to the sources, what is the general form of an exponential function, and what are the restrictions on the base (b)?  
