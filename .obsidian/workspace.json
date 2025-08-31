@@ -42,14 +42,16 @@
             "id": "2a10e29561b78acd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "independent version/Proof for  first exercise.md",
-                "mode": "source",
-                "source": false
+                "file": "book/ECE.pdf",
+                "page": 1,
+                "left": -25,
+                "top": 795,
+                "zoom": 0.6703431372549019
               },
-              "icon": "lucide-file",
-              "title": "Proof for  first exercise"
+              "icon": "lucide-file-text",
+              "title": "ECE"
             }
           }
         ],
@@ -273,9 +275,11 @@
   },
   "active": "2a10e29561b78acd",
   "lastOpenFiles": [
+    "book/Trig_Cheat_Sheet.pdf",
+    "book/Precalculus Stewart 7th Edition.pdf",
+    "independent version/Proof for  first exercise.md",
     "Math with Jay",
     "independent version/Understanding symbols.md",
-    "independent version/Proof for  first exercise.md",
     "mathwiki/Proof in Math.md",
     "independent version/Battery  health.md",
     "mathwiki/learning road map.md",
@@ -306,8 +310,6 @@
     "picture/Doc 08-28-2025 13-05-19.pdf",
     "picture/Doc 08-26-2025 16-36-24.pdf",
     "picture/Doc 08-25-2025 09-39-19.pdf",
-    "picture/Doc 08-25-2025 09-00-38.pdf",
-    "picture/Doc 08-25-2025 23-03-49.pdf",
     "calculus 1/Calculus  1 with Gita/My open math assignment.md",
     "picture/Pasted image 20250826213704.png",
     "picture/Pasted image 20250825092832.png",
