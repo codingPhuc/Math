@@ -44,14 +44,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/ECE.pdf",
-                "page": 1,
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
+                "page": 3,
                 "left": -25,
-                "top": 795,
+                "top": 541,
                 "zoom": 0.6703431372549019
               },
               "icon": "lucide-file-text",
-              "title": "ECE"
+              "title": "Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180"
             }
           }
         ],
@@ -275,6 +275,10 @@
   },
   "active": "2a10e29561b78acd",
   "lastOpenFiles": [
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.4,1.5 – Math G180.pdf",
+    "book/Book category.md",
+    "book/ECE.pdf",
     "book/Trig_Cheat_Sheet.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "independent version/Proof for  first exercise.md",
@@ -295,11 +299,9 @@
     "independent version/polytoad.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.4,1.5 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.3 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/Second Class.md",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "calculus 1/Paul online math note/Section 1.1  Functions.md",
     "calculus 1/Paul online math note/Section 2.1  Tangent Lines and Rates of Change.md",
     "calculus 1/Paul online math note/Section 1.9 Exponential and Logarithm Equations.md",
@@ -308,9 +310,6 @@
     "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "picture/Doc 08-28-2025 13-05-19.pdf",
-    "picture/Doc 08-26-2025 16-36-24.pdf",
-    "picture/Doc 08-25-2025 09-39-19.pdf",
-    "calculus 1/Calculus  1 with Gita/My open math assignment.md",
     "picture/Pasted image 20250826213704.png",
     "picture/Pasted image 20250825092832.png",
     "picture/Pasted image 20250825085743.png",
