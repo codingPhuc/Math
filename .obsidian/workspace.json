@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/algebra/Section 2.7 Quadratic Equations  A Summary.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 2.7 Quadratic Equations  A Summary"
+              "title": "Untitled 1"
             }
           },
           {
@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://web.goodnotes.com/s/aVTq2knml23sRyfNIyEQV2",
+                "query": "Michael",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -289,8 +289,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "052a5656ec4c2d4e",
+  "active": "a1cb91a13e529b11",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 2.7 Quadratic Equations  A Summary.md",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
