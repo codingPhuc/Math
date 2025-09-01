@@ -99,7 +99,17 @@ rayluz
 - give some  consulting  
 - standard group   impressive   can  put  a piece   of paper  revolutionaize thing  ,   japan cannot type  there language very well  very interesting  different companies  learn .  Ran  these  show type thing  usually  have around 500  high  tech   on the marking  prymid     ,  between the supplier  to manufactor  
 - trad show in los vegas  ,  local  dealer  office machine dealer    not working on technology   not lower  level  coding  , understading how   something  is used  
-
+- **Kaczor & Nowak – Problems in Mathematical Analysis I–III**
+    
+- **Aksoy & Khamsi – A Problem Book in Real Analysis**
+    
+- **Aliprantis & Burkinshaw – Problems in Real Analysis**
+    
+- **Demidovich – Problems in Mathematical Analysis**
+    
+- **Hubbard & Hubbard – Vector Calculus, Linear Algebra, and Differential Forms**
+    
+- **Enderton – A Mathematical Introduction to Logic**
 
 ##  why  is  ubunto  
 gpu 
