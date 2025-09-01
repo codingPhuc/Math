@@ -86,3 +86,4 @@ learning score:
 
 - **Section 6.1:** 1, 3, 17, 31
     
+[[Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf]]

@@ -23,6 +23,22 @@
             }
           },
           {
+            "id": "799bd1e1376b4e98",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
+                "page": 1,
+                "left": -17,
+                "top": 795,
+                "zoom": 0.8909313725490197
+              },
+              "icon": "lucide-file-text",
+              "title": "Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025"
+            }
+          },
+          {
             "id": "3eb65388fe6d207d",
             "type": "leaf",
             "state": {
@@ -52,7 +68,8 @@
               "title": "Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "036389250ad43d29",
@@ -272,10 +289,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1cb91a13e529b11",
+  "active": "799bd1e1376b4e98",
   "lastOpenFiles": [
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.3 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.3 – Math G180.pdf",
     "real analysis/Video courses.md",
     "real analysis",
     "calculus 1/Calculus  1 with Gita/Second Class.md",
