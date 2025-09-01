@@ -112,4 +112,57 @@ rayluz
 - **Enderton – A Mathematical Introduction to Logic**
 
 ##  why  is  ubunto  
-gpu 
+
+
+Got it — you’re asking about the **math/analysis study plan** we built (the one with “Core texts,” “Practice,” etc.).
+
+Here’s the full list we have written down so far, divided into categories:
+
+**Core texts**
+
+- Tao – _Analysis I_
+    
+- Apostol – _Calculus I_
+    
+
+**Practice (with solutions)**
+
+- Spivak – _Calculus_ + _Official Solutions_
+    
+- Kaczor & Nowak – _Problems in Mathematical Analysis_ I–III
+    
+- Aksoy & Khamsi – _A Problem Book in Real Analysis_
+    
+- Aliprantis & Burkinshaw – _Problems in Real Analysis_
+    
+
+**Optional reps/insight**
+
+- Demidovich – _Problems in Mathematical Analysis_ (answers only)
+    
+- Hubbard & Hubbard – _Vector Calculus, Linear Algebra, and Differential Forms_
+    
+
+**Logic backbone**
+
+- Enderton – _A Mathematical Introduction to Logic_
+    
+
+---
+
+👉 So the **books not yet in your link section** (that you’d still need to track down) are:
+
+- **Kaczor & Nowak – Problems in Mathematical Analysis I–III**
+    
+- **Aksoy & Khamsi – A Problem Book in Real Analysis**
+    
+- **Aliprantis & Burkinshaw – Problems in Real Analysis**
+    
+- **Demidovich – Problems in Mathematical Analysis**
+    
+- **Hubbard & Hubbard – Vector Calculus, Linear Algebra, and Differential Forms**
+    
+- **Enderton – A Mathematical Introduction to Logic**
+    
+
+Do you want me to make you a **priority order** (which ones are most important to find first for your study plan), or just keep it as a flat missing list?
