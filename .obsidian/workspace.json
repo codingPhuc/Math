@@ -81,9 +81,9 @@
               "state": {
                 "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.3 – Math G180.pdf",
                 "page": 4,
-                "left": 163,
-                "top": 475,
-                "zoom": 1.6
+                "left": -21,
+                "top": 734,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Blank Lecture Notes – Chapter 1 - Section 1.3 – Math G180"
@@ -272,11 +272,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed68c8602ba6916b",
+  "active": "a1cb91a13e529b11",
   "lastOpenFiles": [
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.3 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "real analysis/Video courses.md",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.3 – Math G180.pdf",
     "real analysis",
     "calculus 1/Calculus  1 with Gita/Second Class.md",
     "calculus 1/Calculus  1 with Gita/First class.md",
@@ -309,7 +309,6 @@
     "independent version/Untitled 2.md",
     "independent version/Untitled 1.md",
     "independent version/Machine algorithm.md",
-    "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
     "picture/Pasted image 20250826213704.png",
     "picture/Pasted image 20250825092832.png",
     "picture/Pasted image 20250825085743.png",
