@@ -152,8 +152,6 @@ Here’s the full list we have written down so far, divided into categories:
 
 👉 So the **books not yet in your link section** (that you’d still need to track down) are:
 
-- **Kaczor & Nowak – Problems in Mathematical Analysis I–III**
-    
 - **Aksoy & Khamsi – A Problem Book in Real Analysis**
     
 - **Aliprantis & Burkinshaw – Problems in Real Analysis**
