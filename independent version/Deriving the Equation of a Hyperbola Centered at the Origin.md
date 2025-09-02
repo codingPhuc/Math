@@ -9,4 +9,4 @@ Current date: 2025-04-14
 
 1.  is this the proof for the fractional exponent function ? 
 2. Why is b positive ? fractional exponent q can be negative ? 
-3. why does b need to be positive when q $\in \left\{  \right\}$
+3. why does b need to be positive when q $\in \left\{ 0 , + , -  \right\}$
