@@ -247,5 +247,15 @@ If you want, I can make a **tiny visual diagram for Obsidian** showing **domain 
 Do you want me to do that? 
 
 
+In the context of mathematics, particularly as presented in the sources, a **lemma** is a type of mathematical claim.
 
+Here's a breakdown of what a lemma is:
+
+- **A Claim to be Proved** From a logical standpoint, a lemma is essentially a statement that requires proof, just like a proposition, theorem, or corollary.
+- **Purpose and Importance** The distinction between these terms (lemma, proposition, theorem, corollary) is primarily to indicate their **different levels of importance and difficulty**.
+- **Defining Characteristic** A lemma is specifically described as an **"easily proved claim"**.
+- **Role in Proofs** Its main function is to be **"helpful for proving other propositions and theorems"**.
+- **Intrinsic Interest** Typically, a lemma **"is usually not particularly interesting in its own right"**. It serves as a stepping stone or a supporting argument for more significant results.
+
+In essence, a lemma is a minor proven result that paves the way for proving more substantial mathematical statements.
 # what is equality definition ? 
