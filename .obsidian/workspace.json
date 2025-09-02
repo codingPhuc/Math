@@ -14,26 +14,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent version/Transformations video lecture.md",
+                "file": "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformations video lecture"
+              "title": "Deriving the Equation of a Hyperbola Centered at the Origin"
             }
           },
           {
             "id": "799bd1e1376b4e98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "independent version/Proof for  first exercise.md",
-                "mode": "source",
-                "source": false
+                "file": "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
+                "page": 1,
+                "left": -17,
+                "top": 715,
+                "zoom": 0.8909313725490197
               },
-              "icon": "lucide-file",
-              "title": "Proof for  first exercise"
+              "icon": "lucide-file-text",
+              "title": "Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025"
             }
           },
           {
@@ -66,8 +68,7 @@
               "title": "Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "036389250ad43d29",
@@ -287,13 +288,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "799bd1e1376b4e98",
+  "active": "a1cb91a13e529b11",
   "lastOpenFiles": [
+    "independent version/Understanding symbols.md",
+    "independent version/Transformations video lecture.md",
     "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
+    "independent version/Proof for  first exercise.md",
     "calculus 1/Calculus  1 with Gita/Second Class.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
-    "independent version/Transformations video lecture.md",
-    "independent version/Understanding symbols.md",
     "independent version/Untitled 2.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
@@ -301,7 +303,6 @@
     "independent version/Battery  health.md",
     "independent version/Untitled 1.md",
     "independent version/Untitled.md",
-    "independent version/Proof for  first exercise.md",
     "independent version/Math thing to learn.md",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "Untitled 1.md",
