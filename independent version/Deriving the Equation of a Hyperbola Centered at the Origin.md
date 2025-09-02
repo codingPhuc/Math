@@ -8,4 +8,5 @@ Current date: 2025-04-14
 ---
 
 1.  is this the proof for the fractional exponent function ? 
-2. Why is b positive ? fractional exponent q can be negi
+2. Why is b positive ? fractional exponent q can be negative ? 
+3. 
