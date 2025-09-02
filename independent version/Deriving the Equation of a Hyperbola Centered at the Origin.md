@@ -26,7 +26,7 @@ Here's a breakdown of the definition:
 - **The Formula ($x^q := (x^{1/b})^a$):** Once $q$ is written as $a/b$, $x^q$ is defined as **the $b$-th root of $x$, raised to the power of $a$**.
     - **$x^{1/b}$ (the $b$-th root of $x$):** This term refers to the $b$-th root of $x$, which is formally defined in Definition 5.6.4 as the supremum of the set ${y \in \mathbb{R} : y \geq 0 \text{ and } y^b \leq x}$. Lemma 5.6.5 confirms the existence of such $n$-th roots for non-negative real numbers. 
     - write out the definition of Definition 5.6.4  
-    -  write out the d
+    -  write out the definition of  Lemma 5.6.5  
     - **$(...)^a$ (raised to an integer power):** This involves exponentiation by an integer $a$. Definition 5.6.1 covers exponentiation by natural numbers ($x^0 = 1$, $x^{n+1} = x^n \times x$), and Definition 5.6.2 extends this to negative integers ($x^{-n} = 1/x^n$ for non-zero $x$).
 
 **Well-Definedness and Consistency:**
