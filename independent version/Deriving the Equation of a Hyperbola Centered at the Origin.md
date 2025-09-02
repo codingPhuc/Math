@@ -7,4 +7,4 @@ reference: https://courses.lumenlearning.com/odessa-collegealgebra/chapter/deriv
 Current date: 2025-04-14
 ---
 
-1.  is this the proof fpr 
+1.  is this the proof for an expone
