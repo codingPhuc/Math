@@ -32,7 +32,8 @@ Here's a breakdown of the definition:
 **Well-Definedness and Consistency:**
 
 - **Uniqueness of Representation:** A crucial point is that a rational number $q$ can be written as $a/b$ in multiple ways (e.g., $1/2 = 2/4 = 3/6$). Lemma 5.6.8 is dedicated to proving that **different expressions $a/b$ for the same rational $q$ will yield the same value for $x^q$**, thus ensuring that the definition is well-defined. 
-- used **well-defined**. This proof is provided in **Lemma 5.6.8**, 
+- used **well-defined**. This proof is provided in **Lemma 5.6.8**,  
+- This sentence actually means the **opposite**: it highlights that there is _not_ just one unique way to write a rational number $q$ as $a/b$
 - **Consistency with Previous Definitions:** This new definition is noted to be **consistent with the earlier definitions of $x^{1/n}$ (nth root) and $x^n$ (integer exponentiation)**, meaning that if $q$ happens to be an integer or a simple reciprocal of an integer, the result from Definition 5.6.7 matches those earlier definitions.
 
 This definition allows for positive real numbers to be raised to any rational power, building upon the foundational concepts of real numbers, rational numbers, integer exponentiation, and nth roots established earlier in the text. The theory of real exponentiation for exponents that are also real numbers (not just rational) is deferred to Section 6.7. 
