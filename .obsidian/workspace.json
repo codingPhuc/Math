@@ -26,16 +26,14 @@
             "id": "799bd1e1376b4e98",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
-                "page": 1,
-                "left": -17,
-                "top": 711,
-                "zoom": 0.8909313725490197
+                "file": "independent version/Proof for  first exercise.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025"
+              "icon": "lucide-file",
+              "title": "Proof for  first exercise"
             }
           },
           {
@@ -291,9 +289,9 @@
   },
   "active": "799bd1e1376b4e98",
   "lastOpenFiles": [
+    "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
     "calculus 1/Calculus  1 with Gita/Second Class.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
-    "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
     "independent version/Transformations video lecture.md",
     "independent version/Understanding symbols.md",
     "independent version/Untitled 2.md",
