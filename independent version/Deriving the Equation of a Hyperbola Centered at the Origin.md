@@ -16,7 +16,8 @@ Definition 5.6.7 introduces **exponentiation for a positive real number $x$ rais
 
 Here's a breakdown of the definition:
 
-- **Positive Real Number ($x$):** The base of the exponentiation, denoted by $x$, must be a **positive real number** ($x > 0$). The process of constructing real numbers from rational numbers is detailed in Chapter 5, where real numbers are defined as formal limits of Cauchy sequences of rational numbers. Positive real numbers are also defined based on their Cauchy sequences being "positively bounded away from zero".
+- **Positive Real Number ($x$):** The base of the exponentiation, denoted by $x$, must be a **positive real number** ($x > 0$). The process of constructing real numbers from rational numbers is detailed in Chapter 5, where real numbers are defined as formal limits of Cauchy sequences of rational numbers. Positive real numbers are also defined based on their Cauchy sequences being "positively bounded away from zero". 
+	- 
 - **Rational Number ($q$):** The exponent, denoted by $q$, must be a **rational number**. Rational numbers are expressions of the form $a//b$ (or $a/b$), where $a$ and $b$ are integers and $b$ is non-zero.
 - **Representing $q$ as $a/b$:** To define $x^q$, the rational exponent $q$ is first written as a fraction $a/b$, where $a$ is an integer and $b$ is a positive integer. The sources explain that every rational number $q$ can indeed be expressed in this form, regardless of whether $q$ is positive, negative, or zero.
 - **The Formula ($x^q := (x^{1/b})^a$):** Once $q$ is written as $a/b$, $x^q$ is defined as **the $b$-th root of $x$, raised to the power of $a$**.
