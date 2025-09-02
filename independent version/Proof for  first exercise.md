@@ -156,7 +156,8 @@ $$
 1.  is this the proof for the fractional exponent function ? 
 2. Why is b positive ? fractional exponent q can be negative ? 
 3. why does b need to be positive when q $\in \left\{ 0 , + , -  \right\}$ 
-4. the last sentence just mean that there is one unify way of writing a fractional number 
+4. the last sentence just mean that there is one unify way of writing a fractional number  
+5. what is  it 
 
 Definition 5.6.7 introduces **exponentiation for a positive real number $x$ raised to a rational exponent $q$**.
 
