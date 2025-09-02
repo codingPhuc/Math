@@ -21,6 +21,7 @@ Here's a breakdown of the definition:
 		- what is a Cauchy sequences ? 
 		- 
 - **Rational Number ($q$):** The exponent, denoted by $q$, must be a **rational number**. Rational numbers are expressions of the form $a//b$ (or $a/b$), where $a$ and $b$ are integers and $b$ is non-zero.
+	- why is ratinal number 
 - **Representing $q$ as $a/b$:** To define $x^q$, the rational exponent $q$ is first written as a fraction $a/b$, where $a$ is an integer and $b$ is a positive integer. The sources explain that every rational number $q$ can indeed be expressed in this form, regardless of whether $q$ is positive, negative, or zero.
 - **The Formula ($x^q := (x^{1/b})^a$):** Once $q$ is written as $a/b$, $x^q$ is defined as **the $b$-th root of $x$, raised to the power of $a$**.
     - **$x^{1/b}$ (the $b$-th root of $x$):** This term refers to the $b$-th root of $x$, which is formally defined in Definition 5.6.4 as the supremum of the set ${y \in \mathbb{R} : y \geq 0 \text{ and } y^b \leq x}$. Lemma 5.6.5 confirms the existence of such $n$-th roots for non-negative real numbers.
