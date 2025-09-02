@@ -201,4 +201,4 @@ raise x to a rational q
 b as the b  root a  power 
 define what it is  then say what it is 
 a beef  power of b a power of a 
-$$
+b is the beef root 
