@@ -158,7 +158,8 @@ $$
 3. why does b need to be positive when q $\in \left\{ 0 , + , -  \right\}$ 
 4. the last sentence just mean that there is one unify way of writing a fractional number  
 5. what is it trying to do like why go though all this trouble  Definition 5.6.4 as the supremum of the set . Lemma 5.6.5  to  make sure that n >= 1  
-6. **supremum (least upper bound)**  what is it 
+6. **supremum (least upper bound)**  what is it about ? 
+7. 
 
 Definition 5.6.7 introduces **exponentiation for a positive real number $x$ raised to a rational exponent $q$**.
 
