@@ -198,4 +198,4 @@ This definition allows for positive real numbers to be raised to any rational po
 
 
 raise x to a rational q 
-b as the b  root a e
+b as the b  root a  power 
