@@ -167,7 +167,7 @@ Here's a breakdown of the definition:
 q  
 a  is a all real number 
 b is a all real number 
-
+x > 
 - **Positive Real Number ($x$):** The base of the exponentiation, denoted by $x$, must be a **positive real number** ($x > 0$). The process of constructing real numbers from rational numbers is detailed in Chapter 5, where real numbers are defined as formal limits of Cauchy sequences of rational numbers. Positive real numbers are also defined based on their Cauchy sequences being "positively bounded away from zero". 
 	- detailed in Chapter 5, where real numbers are defined as formal limits of Cauchy sequences of rational numbers. Positive real numbers are also defined based on their Cauchy sequences being "positively bounded away from zero". 
 		- what is a Cauchy sequences ? 
