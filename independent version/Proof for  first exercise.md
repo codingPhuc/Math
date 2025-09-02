@@ -177,7 +177,7 @@ Here's a breakdown of the definition:
     - **Meaning of "Root"**: The concept of an "$n$-th root" inherently implies that $n$ is a positive integer. We don't typically talk about a "0-th root" or a "$-2$-nd root" in this context; such notions would require different definitions or lead to mathematical inconsistencies (e.g., $y^0 = 1$ for $y \neq 0$, making $x^{1/0}$ problematic).
     - write out the definition of Definition 5.6.4  
     -  write out the definition of  Lemma 5.6.5   
-	- 
+	- [[sp]]
     - **$(...)^a$ (raised to an integer power):** This involves exponentiation by an integer $a$. Definition 5.6.1 covers exponentiation by natural numbers ($x^0 = 1$, $x^{n+1} = x^n \times x$), and Definition 5.6.2 extends this to negative integers ($x^{-n} = 1/x^n$ for non-zero $x$).
 
 **Well-Definedness and Consistency:**
