@@ -258,4 +258,34 @@ Here's a breakdown of what a lemma is:
 - **Intrinsic Interest** Typically, a lemma **"is usually not particularly interesting in its own right"**. It serves as a stepping stone or a supporting argument for more significant results.
 
 In essence, a lemma is a minor proven result that paves the way for proving more substantial mathematical statements.
-# what is equality definition ? 
+
+
+In math, the symbol **`:=`** means **“is defined as”**.
+
+It’s used when you **introduce a new definition** or give a precise meaning to a symbol.
+
+---
+
+### Examples
+
+- f(x):=x2+1f(x) := x^2 + 1  
+    → This means: “We define the function f(x)f(x) to be x2+1x^2 + 1.”
+    
+- a:=b+ca := b + c  
+    → This means: “Let aa be defined as b+cb + c.”
+    
+
+---
+
+📌 **Key difference from ==:**
+
+- == means two things are **equal**.
+    
+- :=:= means the left-hand side is being **defined** to mean the right-hand side.
+    
+
+Think of it like giving something a **name** or **setting a rule**.
+
+---
+
+Do you want me to also show you how :=:= differs from **≡ (identically equal)**, since they’re sometimes confused?
