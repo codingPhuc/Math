@@ -53,14 +53,16 @@
             "id": "b63f5157077cec41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
-                "mode": "source",
-                "source": false
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 2 - Section 2.2-2.4 – Math G180.pdf",
+                "page": 1,
+                "left": -1,
+                "top": 263,
+                "zoom": 0.5392156862745098
               },
-              "icon": "lucide-file",
-              "title": "Home work  requirement"
+              "icon": "lucide-file-text",
+              "title": "Blank Lecture Notes – Chapter 2 - Section 2.2-2.4 – Math G180"
             }
           }
         ],
@@ -141,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
+            "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 2 - Section 2.2-2.4 – Math G180.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -205,6 +207,8 @@
   },
   "active": "b63f5157077cec41",
   "lastOpenFiles": [
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.4,1.5 – Math G180.pdf",
+    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "2025-08-28.md",
     "supremum.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 4 - Section 4.6 and 4.8 – Math G180.pdf",
@@ -230,7 +234,6 @@
     "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
     "2025-08-30.md",
     "calculus 1/Calculus  1 with Gita/Second Class.md",
-    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Calculus  1 with Gita/Solve my equation exercise.md",
     "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
     "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
@@ -242,7 +245,6 @@
     "/calculus 1/Paul online math note/Section 2.3  One-Sided Limits.md",
     "/picture/Pasted image 20250825092832.png",
     "picture/Pasted image 20250825092832.png",
-    "/calculus 1/Paul online math note/Untitled.md",
     "picture/Pasted image 20250825085558.png",
     "picture/Pasted image 20250825085743.png",
     "picture/Pasted image 20250825085534.png",
