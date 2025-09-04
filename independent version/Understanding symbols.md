@@ -314,3 +314,6 @@ Here's how the concept of supremum applies to this set:
     - **1 fits the definition perfectly: it is an upper bound, and any other number that is an upper bound for E (e.g., 1.5, 2, 100) must be greater than or equal to 1**.
 
 Therefore, for the set **E = {x ∈ R : 0 ≤ x ≤ 1}**, its supremum is **sup(E) = 1**. This is the **smallest real number that is greater than or equal to all elements in this set**.
+
+
+signum function  of x and input is greate
