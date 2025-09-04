@@ -316,4 +316,4 @@ Here's how the concept of supremum applies to this set:
 Therefore, for the set **E = {x ∈ R : 0 ≤ x ≤ 1}**, its supremum is **sup(E) = 1**. This is the **smallest real number that is greater than or equal to all elements in this set**.
 
 
-signum function  of x and input is greate
+signum function  of x and input is greater  tha
