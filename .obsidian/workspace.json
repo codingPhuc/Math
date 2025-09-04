@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent version/Proof for  first exercise.md",
+                "file": "independent version/Understanding symbols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proof for  first exercise"
+              "title": "Understanding symbols"
             }
           },
           {
@@ -95,7 +95,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf"
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
+                "page": 7,
+                "left": -15,
+                "top": 547,
+                "zoom": 1.0196078431372548
               },
               "icon": "lucide-file-text",
               "title": "Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
@@ -280,15 +284,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a1cb91a13e529b11",
   "lastOpenFiles": [
+    "independent version/Proof for  first exercise.md",
     "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "independent version/Machine algorithm.md",
-    "independent version/Proof for  first exercise.md",
     "supremum.md",
     "independent version/Capstone project.md",
     "independent version/Transformations video lecture.md",
