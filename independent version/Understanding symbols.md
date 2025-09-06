@@ -324,4 +324,4 @@ euriance  geometry is different from eurience spaces  are not geonomety thing th
 star and planet  reyman geomatry 
 
 polytope these high dimensionality space is how you would used cooridinate, turn into a set of cooridinate and plot many different dimension into that space clustor is really usefull for reading them connecting them by how similar they are 
-all these coordinate have a reason for being there you can connect one to other you connect every if you connect them all random shape or or
+all these coordinate have a reason for being there you can connect one to other you connect every if you connect them all random shape or organize shape 
