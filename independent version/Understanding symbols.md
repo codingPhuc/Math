@@ -320,4 +320,4 @@ signum function  of x and input is greater  tha
 
 euriance space  inside that cloud you can electricity is being  
 
-euriance  geometry is different from eurience 
+euriance  geometry is different from eurience spaces  are not geonomety that 
