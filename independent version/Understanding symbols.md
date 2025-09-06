@@ -317,3 +317,5 @@ Therefore, for the set **E = {x ∈ R : 0 ≤ x ≤ 1}**, its supremum is **sup(
 
 
 signum function  of x and input is greater  tha
+
+euriance 
