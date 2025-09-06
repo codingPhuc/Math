@@ -329,4 +329,6 @@ all these coordinate have a reason for being there you can connect one to other 
 coordinate close to infinity shape spaces like gonna imagine like light speed how long 
 how to travel 
 informaiton have some sort of speed limit keystock instantanously from you your finger have to put down in the key 2 point of action 
-LLM they have a certain speed limit that they have to communicate to token bases meaning they have a limti
+LLM they have a certain speed limit that they have to communicate to token bases meaning they have a limit amount of token per computing power 
+
+your comp
