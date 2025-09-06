@@ -323,4 +323,4 @@ euriance space  inside that cloud you can electricity is being
 euriance  geometry is different from eurience spaces  are not geonomety thing that bind to plan ofr system one parrellel line does not belong to another prallele line set plane of the university 
 star and planet  reyman geomatry 
 
-polytope these high dimensionality space is how you would used cooridinate, turn into a set of cooridinate and plot many different dimensition
+polytope these high dimensionality space is how you would used cooridinate, turn into a set of cooridinate and plot many different dimension into that space clustor is really useful l
