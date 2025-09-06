@@ -327,3 +327,4 @@ polytope these high dimensionality space is how you would used cooridinate, turn
 all these coordinate have a reason for being there you can connect one to other you connect every if you connect them all random shape or organize shape 
 
 coordinate close to infinity shape spaces like gonna imagine like light speed how long 
+1 yea
