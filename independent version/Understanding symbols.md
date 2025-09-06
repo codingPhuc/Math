@@ -328,4 +328,4 @@ all these coordinate have a reason for being there you can connect one to other 
 
 coordinate close to infinity shape spaces like gonna imagine like light speed how long 
 how to travel 
-informaiton have some sort of speed limit keystoc 
+informaiton have some sort of speed limit keystock instantanously from you your finger
