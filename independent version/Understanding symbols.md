@@ -331,4 +331,4 @@ how to travel
 informaiton have some sort of speed limit keystock instantanously from you your finger have to put down in the key 2 point of action 
 LLM they have a certain speed limit that they have to communicate to token bases meaning they have a limit amount of token per computing power 
 
-your computer is mentally large dat 
+your computer is mentally large data model that communicating light year instead 
