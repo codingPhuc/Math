@@ -95,16 +95,14 @@
             "id": "ed68c8602ba6916b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
-                "page": 4,
-                "left": -15,
-                "top": 763,
-                "zoom": 1.0196078431372548
+                "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180"
+              "icon": "lucide-file",
+              "title": "Home work  requirement"
             }
           },
           {
@@ -292,8 +290,9 @@
   },
   "active": "ed68c8602ba6916b",
   "lastOpenFiles": [
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
+    "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "independent version/Math thing to learn.md",
     "independent version/Transformations video lecture.md",
     "independent version/polytoad.md",
