@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 2 - Section 2.2-2.4 – Math G180.pdf",
-                "page": 12,
-                "left": -17,
-                "top": 23,
-                "zoom": 0.8909313725490197
+                "page": 16,
+                "left": 99,
+                "top": 741,
+                "zoom": 2.1
               },
               "icon": "lucide-file-text",
               "title": "Blank Lecture Notes – Chapter 2 - Section 2.2-2.4 – Math G180"
@@ -44,14 +44,16 @@
             "id": "3eb65388fe6d207d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/Second Class.md",
-                "mode": "source",
-                "source": false
+                "file": "book/Precalculus Stewart 7th Edition.pdf",
+                "page": 1,
+                "left": 16,
+                "top": 819,
+                "zoom": 0.8909313725490197
               },
-              "icon": "lucide-file",
-              "title": "Second Class"
+              "icon": "lucide-file-text",
+              "title": "Precalculus Stewart 7th Edition"
             }
           },
           {
@@ -70,7 +72,8 @@
               "title": "Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "036389250ad43d29",
@@ -288,15 +291,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1cb91a13e529b11",
+  "active": "3eb65388fe6d207d",
   "lastOpenFiles": [
+    "book/Trig_Cheat_Sheet.pdf",
+    "calculus 1/Calculus  1 with Gita/Second Class.md",
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 2 - Section 2.2-2.4 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.3 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Calculus  1 with Gita/My open math assignment.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.4,1.5 – Math G180.pdf",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 2 - Section 2.2-2.4 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "independent version/Math thing to learn.md",
     "independent version/Transformations video lecture.md",
@@ -311,7 +316,6 @@
     "independent version/Calculus  1.md",
     "independent version/Battery  health.md",
     "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
-    "calculus 1/Calculus  1 with Gita/Second Class.md",
     "independent version/Untitled 2.md",
     "independent version/Untitled 1.md",
     "independent version/Untitled.md",
