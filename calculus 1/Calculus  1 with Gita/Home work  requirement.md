@@ -1,12 +1,13 @@
 ---
 title: Adjunction
-references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx, https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivative-as-a-function
+references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx,
 tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
 Current date: 2025-08-26
 amount of time:
 learning score:
+reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivative-as-a-function
 ---
 
 #### Chapter 1: Sections 1.1 – 1.5
