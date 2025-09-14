@@ -1,6 +1,6 @@
 ---
 title: Adjunction
-references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx,
+references: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivative-as-a-function
 tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
