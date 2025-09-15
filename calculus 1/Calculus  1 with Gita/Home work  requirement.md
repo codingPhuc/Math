@@ -92,3 +92,4 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
 [[Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf]]
 
 
+1
