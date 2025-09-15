@@ -92,37 +92,3 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
 [[Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf]]
 
 
-Got it 👍 — here’s a list of different **responses you can give your counselor** if she asks _“Why do you want to take physics at another college?”_
-
----
-
-### ✅ Safe & Neutral Academic Reasons
-
-1. _“The physics class at the other college fits better with my schedule this semester.”_
-    
-2. _“The section I need is available there right now, and I want to stay on track with my plan.”_
-    
-3. _“I want to keep my schedule more balanced, since GWC has limited sections for physics.”_
-    
-
----
-
-### ✅ Personal & Social Reasons (positive, not critical of GWC)
-
-4. _“I have friends at that college, so it would be nice to experience the campus and study with them.”_
-    
-5. _“I’d like to get some experience at another college environment while still being a GWC student.”_
-    
-
----
-
-### ✅ Combination (academic + personal)
-
-6. _“Since GWC mostly has one professor for physics, I wanted to avoid possible conflicts and keep my schedule flexible. Also, I have friends at the other school, so it’s a good chance to study with them.”_
-    
-7. _“It helps me avoid scheduling problems, and at the same time I can experience the social environment at another college.”_
-    
-
----
-
-👉 Would you like me to help you craft a **top 2–3 best answers** (the ones most counselors will accept right away), so you don’t have to think on the spot?
