@@ -93,4 +93,4 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
 
 
 155 wrong 
-139 removeable discontiue 
+section 2.4139 removeable discontiue 
