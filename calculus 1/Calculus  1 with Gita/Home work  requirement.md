@@ -93,4 +93,4 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
 
 
 155 wrong 
-section 2.4 131 there is not discontinuous only de
+section 2.4 131 there is not discontinuous only define domain 
