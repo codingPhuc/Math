@@ -97,6 +97,11 @@ section 2.4 131 there is not discontinuous only define domain
 
 
 
+
+
+
+
+
 # #todo 
 learn about the # Taylor and Maclaurin  series 
 
