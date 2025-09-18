@@ -98,7 +98,7 @@ $$
 \begin{array}{l} \\
 y  =  (x)^2  (\sin x)^3  \\
 \ln  y  =  \ln x^2    + \ln (\sin x)^3  \\
-  \\
+\frac{1}{y} dx  \\
 
 \end{array}
 $$
