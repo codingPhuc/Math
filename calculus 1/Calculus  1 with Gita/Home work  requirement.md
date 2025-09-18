@@ -96,7 +96,8 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
 section 2.4 131 there is not discontinuous only define domain 
 $$
 \begin{array}{l} \\
-y  =  (x)^2   
+y  =  (x)^2  (\sin x)^3  \\
+
 \end{array}
 $$
 
