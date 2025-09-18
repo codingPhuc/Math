@@ -97,7 +97,7 @@ section 2.4 131 there is not discontinuous only define domain
 $$
 \begin{array}{l} \\
 y  =  (x)^2  (\sin x)^3  \\
-\ln  y  =  
+\ln  y  =  \ln x^2    + \ln (\sin)
 \end{array}
 $$
 
