@@ -6,7 +6,7 @@
       {
         "id": "dd163602e8ec2718",
         "type": "tabs",
-        "dimension": 46.786833855799365,
+        "dimension": 27.624309392265197,
         "children": [
           {
             "id": "a1cb91a13e529b11",
@@ -46,7 +46,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 3 - Section 3.1-3.3 – Math G180.pdf"
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 3 - Section 3.1-3.3 – Math G180.pdf",
+                "page": 3,
+                "left": -41,
+                "top": 610,
+                "zoom": 0.37990196078431376
               },
               "icon": "lucide-file-text",
               "title": "Blank Lecture Notes – Chapter 3 - Section 3.1-3.3 – Math G180"
@@ -74,7 +78,7 @@
       {
         "id": "036389250ad43d29",
         "type": "tabs",
-        "dimension": 53.213166144200635,
+        "dimension": 72.37569060773481,
         "children": [
           {
             "id": "484e8598d1b88e37",
@@ -186,12 +190,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "148b74fc748411da",
@@ -284,7 +288,8 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ed68c8602ba6916b",
