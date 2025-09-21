@@ -35,6 +35,7 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
     
 
 #### Chapter 3: Sections 3.1 – 3.9
+
 - **Section 3.2:** 55–58 all
 
 - **Section 3.3:** 107, 109, 113, 115, 119, 121, 133, 135, 137, 139, 143
