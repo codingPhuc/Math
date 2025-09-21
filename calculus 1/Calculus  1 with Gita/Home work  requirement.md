@@ -35,7 +35,6 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
     
 
 #### Chapter 3: Sections 3.1 – 3.9
-
 - **Section 3.2:** 55–58 all
 
 - **Section 3.3:** 107, 109, 113, 115, 119, 121, 133, 135, 137, 139, 143
@@ -49,6 +48,7 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
 - **Section 3.8:** 301, 303, 305, 309–315 odd, 319,  323a
 
 - **Section 3.9:** 331, 335, 339, 343, 347, 351, 355
+
 #### Chapter 4: Sections 4.1 – 4.8, 4.10
 
 - **Section 4.1:** 1–7 odd, 11, 13, 17, 19, 21, 23
