@@ -43,7 +43,7 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
 - **Section 3.4:** 151a, 153, 161, 163(abd)
 
 - **Section 3.5:** 175, 185, 187, 189, 193, 195, 199, 209, 211
-    
+   
 - **Section 3.6:** 221–227(b odd), 229–237 odd, 241, 243
 
 - **Section 3.8:** 301, 303, 305, 309–315 odd, 319,  323a
