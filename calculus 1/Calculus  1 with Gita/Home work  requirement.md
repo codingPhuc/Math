@@ -112,4 +112,5 @@ $$
 # #todo 
 learn about the # Taylor and Maclaurin  series 
 
-139 
+section 1.3 139 
+secti
