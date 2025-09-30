@@ -33,3 +33,5 @@ all of them are shapes trying to find shape
 
 
 this is a therom  after state 3 there is only 1 or two, the actual stuff that we need 
+
+gramm
