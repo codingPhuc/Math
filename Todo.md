@@ -15,3 +15,6 @@ find the standard deviacian overall how big the vector like
 we need vector to find the side of a polytop  
 
 find a shape of polytop 
+
+
+trying to find the sah
