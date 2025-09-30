@@ -30,3 +30,6 @@ this one is what AI is not looking at 1 and 2
 
 all of them are shapes trying to find shape  
 
+
+
+this is a ther
