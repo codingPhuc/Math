@@ -12,4 +12,6 @@ stationary distribution why did
 
 find the standard deviacian overall how big the vector like 
 
-we need vector to find the side of a polyt
+we need vector to find the side of a polytop  
+
+find a shape 
