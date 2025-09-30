@@ -7,3 +7,5 @@ falicy does not make sense
 axeium the truth in mathematic  in mathenatic 
 
 convergenrate  how fast to reach stationarity distribution 
+
+stationary distribution why did 
