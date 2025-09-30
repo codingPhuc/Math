@@ -10,4 +10,4 @@ convergenrate  how fast to reach stationarity distribution
 
 stationary distribution why did 
 
-find the standard de
+find the standard deviacian overall how big 
