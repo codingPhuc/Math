@@ -1,2 +1,3 @@
 a transition matrix is how likely it is to be moving to an epsilon 
-what is a tran
+what is a transition matrix ?  
+
