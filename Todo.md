@@ -17,4 +17,4 @@ we need vector to find the side of a polytop
 find a shape of polytop 
 
 
-trying to find the shape of all possible part expended out switch the context of how A
+trying to find the shape of all possible part expended out switch the context of how AI discover something lev
