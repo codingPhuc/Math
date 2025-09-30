@@ -21,4 +21,5 @@ trying to find the shape of all possible part expended out switch the context of
 
 the transition state is 3 either LM model discover information or doesn't discover it it cannot know it exit 
 
-first one is find out the shape of the context wh
+first one is find out the shape of the context what inforamtion are it bases on 
+this is to 
