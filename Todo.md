@@ -19,4 +19,4 @@ find a shape of polytop
 
 trying to find the shape of all possible part expended out switch the context of how AI discover something leave it along or choose it 
 
-the transition sta
+the transition state is 3 either LM model discov
