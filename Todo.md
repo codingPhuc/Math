@@ -38,4 +38,5 @@ gramma in mathematic random factor
 
 **Partial differentiation** is a concept in calculus
 
-infunum you cannot  used ca
+infunum you cannot  used case calculator for this stuff 
+
