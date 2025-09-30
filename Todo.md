@@ -4,4 +4,4 @@ what is a transition matrix ?
 transition marcrofx state
 falicy does not make sense
 
-axium  in mathenatic 
+axeium th  in mathenatic 
