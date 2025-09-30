@@ -9,4 +9,5 @@ axeium the truth in mathematic  in mathenatic
 convergenrate  how fast to reach stationarity distribution 
 
 stationary distribution why did 
-f
+
+find the standard de
