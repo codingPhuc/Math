@@ -23,3 +23,5 @@ the transition state is 3 either LM model discover information or doesn't discov
 
 first one is find out the shape of the context what information are it prove on 
 after that it find out which informaiton discover undiscover and so on 
+
+it not first themr
