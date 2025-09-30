@@ -37,3 +37,5 @@ this is a therom  after state 3 there is only 1 or two, the actual stuff that we
 gramma in mathematic random factor 
 
 **Partial differentiation** is a concept in calculus
+
+infu
