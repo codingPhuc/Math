@@ -32,4 +32,4 @@ all of them are shapes trying to find shape
 
 
 
-this is a ther
+this is a therom  after state 3 there is only 
