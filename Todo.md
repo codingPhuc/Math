@@ -6,4 +6,4 @@ falicy does not make sense
 
 axeium the truth in mathematic  in mathenatic 
 
-conver
+convergenrate  how fast to reach stationarity distribution 
