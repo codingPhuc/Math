@@ -2,4 +2,4 @@ a transition matrix is how likely it is to be moving to an epsilon
 what is a transition matrix ?  
 
 transition marcrofx state
-falicy does no
+falicy does not make sense
