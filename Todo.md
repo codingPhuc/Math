@@ -25,4 +25,4 @@ first one is find out the shape of the context what information are it prove on
 after that it find out which informaiton discover undiscover and so on 
 
 it not first thoerm it possible  to find  the context and 
-this one is what AI is not looking at 
+this one is what AI is not looking at 1 and 2 
