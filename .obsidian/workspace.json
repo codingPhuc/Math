@@ -47,10 +47,10 @@
               "type": "pdf",
               "state": {
                 "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 3 - Section 3.4-3.6 – Math G180.pdf",
-                "page": 3,
-                "left": -12,
-                "top": 542,
-                "zoom": 1.2561274509803921
+                "page": 2,
+                "left": -14,
+                "top": 404,
+                "zoom": 1.0919117647058822
               },
               "icon": "lucide-file-text",
               "title": "Blank Lecture Notes – Chapter 3 - Section 3.4-3.6 – Math G180"
@@ -208,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "right": {
     "id": "148b74fc748411da",
