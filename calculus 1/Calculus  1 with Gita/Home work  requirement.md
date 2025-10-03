@@ -110,9 +110,7 @@ $$
 
 
 # #todo 
-learn about the # Taylor and Maclaurin  series 
+ask  Gita help for these question : 
+# Finding a Revenue Function 
 
-section 1.3 139 
-section 1.5 279
-section 3.2 55 
-section 3.2  58 
+
