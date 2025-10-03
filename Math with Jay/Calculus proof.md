@@ -65,4 +65,4 @@ Look at the indices: in (P_{1,3}=0) the **first index** is the state you are _in
 
 Fix the index misunderstanding and rephrase your original statement (use ordered pairs ((i,j))). Paste that corrected sentence and I will re-grade immediately. If you repeat the same indexing mistake, I will be much harsher. 
 
-##  My rew
+##  My rewriting 
