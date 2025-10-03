@@ -111,6 +111,5 @@ $$
 
 # #todo 
 ask  Gita help for these question : 
-# Finding a Revenue Function 
-
+161  
 
