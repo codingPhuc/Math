@@ -46,7 +46,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 3 - Section 3.1-3.3 – Math G180.pdf"
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 3 - Section 3.1-3.3 – Math G180.pdf",
+                "page": 3,
+                "left": -30,
+                "top": 334,
+                "zoom": 0.5061274509803921
               },
               "icon": "lucide-file-text",
               "title": "Blank Lecture Notes – Chapter 3 - Section 3.1-3.3 – Math G180"
@@ -110,12 +114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Paul Online note/algebra/Section 2.3 Applications of Linear Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Section 2.3 Applications of Linear Equations"
             }
           },
           {
@@ -179,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "homework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,13 +301,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8084c8b0632afcc",
+  "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
-    "calculus 1/Calculus essay/Why was calculus invented.md",
+    "independent version/Battery  health.md",
+    "independent version/Calculus  1.md",
+    "independent version/Capstone project.md",
+    "independent version/Untitled.md",
     "Todo.md",
+    "calculus 1/Calculus essay/Why was calculus invented.md",
     "2025-09-26.md",
     "calculus 1/Calculus essay",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
@@ -331,12 +340,8 @@
     "independent version/Determine Symmetry about the x-axis, y-axis, and the origin.md",
     "independent version/Deriving the Equation of a Hyperbola Centered at the Origin.md",
     "supremum.md",
-    "independent version/Capstone project.md",
-    "independent version/Calculus  1.md",
-    "independent version/Battery  health.md",
     "independent version/Untitled 2.md",
     "independent version/Untitled 1.md",
-    "independent version/Untitled.md",
     "Untitled 1.md",
     "picture/Pasted image 20250826213704.png",
     "picture/Pasted image 20250825092832.png",
