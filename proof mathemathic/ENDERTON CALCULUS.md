@@ -13,5 +13,5 @@ what is a particular utterance ?
 what is a ontological status ? 
 what  does it mean by name of the symbol are printed ? 
 $$
-\text{ how is }  A_{243}  \text{ different from } ""
+\text{ how is }  A_{243}  \text{ different from } "A_{234}"
 $$
