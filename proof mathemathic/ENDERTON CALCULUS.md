@@ -10,3 +10,4 @@ learning score:
 ---
 
 what is a particular utterance ? 
+what os a 
