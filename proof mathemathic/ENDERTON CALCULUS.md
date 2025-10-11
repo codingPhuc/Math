@@ -16,3 +16,4 @@ $$
 \text{ how is }  A_{243}  \text{ different from } "A_{234}"
 $$
 what is a geometric properties ? 
+is it talking about the catgories of 
