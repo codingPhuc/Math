@@ -15,3 +15,4 @@ what  does it mean by name of the symbol are printed ?
 $$
 \text{ how is }  A_{243}  \text{ different from } "A_{234}"
 $$
+what is a gemotric p
