@@ -19,4 +19,4 @@ what is a geometric properties ?
 is it talking about the categories of symbols when declaring set , numbers , marbles, object ? 
 so the symbol and the symbol name should be in the same  categories ?  
 what does unique decomposable mean ? 
-what 
+what ? "no symbol is a finit"
