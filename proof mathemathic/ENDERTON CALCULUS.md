@@ -9,4 +9,4 @@ amount of time:
 learning score:
 ---
 
-what is utterance ? 
+what is a pa utterance ? 
