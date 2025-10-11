@@ -11,4 +11,4 @@ learning score:
 
 what is a particular utterance ? 
 what is a ontological status ? 
-what  d
+what  does it mean by name of the symbol are printed 
