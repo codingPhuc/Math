@@ -11,3 +11,4 @@ learning score:
 
 what is a particular utterance ? 
 what is a ontological status ? 
+what  d
