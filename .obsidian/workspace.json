@@ -46,12 +46,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proof mathemathic/sinh vine.md",
+                "file": "proof mathemathic/0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sinh vine"
+              "title": "0"
             }
           },
           {
@@ -306,7 +306,7 @@
   "active": "3eb65388fe6d207d",
   "lastOpenFiles": [
     "calculus 1/Untitled.md",
-    "proof mathemathic/sinh vine.md",
+    "proof mathemathic/0.md",
     "proof mathemathic",
     "calculus 1/Essene  of calculus.md",
     "Math with Jay/Calculus proof.md",
