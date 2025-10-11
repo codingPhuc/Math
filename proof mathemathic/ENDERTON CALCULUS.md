@@ -13,5 +13,4 @@ what is a particular utterance ?
 what is a ontological status ? 
 what  does it mean by name of the symbol are printed ? 
 $$
-\text{ how is }  A_{}
-$$
+\text{ how is }  A_{243}  \te
