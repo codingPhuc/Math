@@ -202,7 +202,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -303,7 +304,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8084c8b0632afcc",
+  "active": "052a5656ec4c2d4e",
   "lastOpenFiles": [
     "proof mathemathic/ENDERTON CALCULUS.md",
     "Math with Jay/Calculus proof.md",
