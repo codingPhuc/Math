@@ -17,4 +17,4 @@ $$
 $$
 what is a geometric properties ? 
 is it talking about the catgories of symbols when declaring set , numbers , marbles, object ? 
-so the symbol and the symb
+so the symbol and the symbol name should 
