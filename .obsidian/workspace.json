@@ -181,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "professpro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -304,10 +304,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "052a5656ec4c2d4e",
+  "active": "3eb65388fe6d207d",
   "lastOpenFiles": [
-    "proof mathemathic/ENDERTON CALCULUS.md",
     "Math with Jay/Calculus proof.md",
+    "proof mathemathic/ENDERTON CALCULUS.md",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Untitled.md",
     "proof mathemathic",
@@ -352,4 +352,5 @@
     "picture/Pasted image 20250823091751.png",
     "picture/Pasted image 20250820212825.png",
     "picture/Pasted image 20250820203440.png"
-  
+  ]
+}
