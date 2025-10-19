@@ -181,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "profess",
+                "query": "professpro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +202,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -303,7 +304,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "052a5656ec4c2d4e",
   "lastOpenFiles": [
     "proof mathemathic/ENDERTON CALCULUS.md",
     "Math with Jay/Calculus proof.md",
@@ -351,5 +352,4 @@
     "picture/Pasted image 20250823091751.png",
     "picture/Pasted image 20250820212825.png",
     "picture/Pasted image 20250820203440.png"
-  ]
-}
+  
