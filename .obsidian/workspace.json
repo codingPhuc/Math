@@ -47,9 +47,9 @@
               "type": "pdf",
               "state": {
                 "file": "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
-                "page": 1,
+                "page": 3,
                 "left": -14,
-                "top": 723,
+                "top": 475,
                 "zoom": 1.0919117647058822
               },
               "icon": "lucide-file-text",
@@ -305,10 +305,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3eb65388fe6d207d",
+  "active": "f8084c8b0632afcc",
   "lastOpenFiles": [
-    "calculus 1/Calculus  1 with Gita/My open math assignment.md",
     "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
+    "calculus 1/Calculus  1 with Gita/My open math assignment.md",
     "proof mathemathic/ENDERTON CALCULUS.md",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
