@@ -104,7 +104,60 @@ y  =  (x)^2  (\sin x)^3  \\
 $$
 
 
+Here are clean cost estimates using official per-unit rates and flat fees.
 
+# Assumptions
+
+- GWC per-unit total = $402 nonresident + $46 enrollment + $44 capital outlay = **$492/unit**. Flat fees per term: **$27 health + $20 service + $2 rep = $49**. ([Golden West College](https://www.goldenwestcollege.edu/Links/pdf/isp/Estimated-Expenses-ISP.pdf?utm_source=chatgpt.com "Estimated Expenses 2025-2026"))
+    
+- OCC per-unit total = $381 nonresident + $31 capital outlay + $46 enrollment = **$458/unit**. Flat fees per term: **$27 health + $30 service + $2 rep = $59**. ([orangecoastcollege.edu](https://orangecoastcollege.edu/admissions-aid/financial-aid/cost-of-attendance.html?utm_source=chatgpt.com "Cost of Attendance"))
+    
+- Note: Coast District allows a **duplicate health-fee refund** when enrolled at multiple Coast colleges in the same term. If approved, subtract one campus’s $27. ([Golden West College](https://www.goldenwestcollege.edu/student-health-center/student-health-fees/index.html?utm_source=chatgpt.com "Student Health Fees"))
+    
+- Excludes insurance, parking, materials, and housing.
+    
+
+# Plan A — OCC 10u + GWC 10–11u (GE only at GWC)
+
+- OCC 10u: 10×458 + 59 = **$4,639**. ([orangecoastcollege.edu](https://orangecoastcollege.edu/admissions-aid/financial-aid/cost-of-attendance.html?utm_source=chatgpt.com "Cost of Attendance"))
+    
+- GWC 10u: 10×492 + 49 = **$4,969**. GWC 11u: 11×492 + 49 = **$5,461**. ([Golden West College](https://www.goldenwestcollege.edu/Links/pdf/isp/Estimated-Expenses-ISP.pdf?utm_source=chatgpt.com "Estimated Expenses 2025-2026"))
+    
+- Total: **$9,608** (10+10) or **$10,100** (11+10).
+    
+
+# Plan B — OCC 5u + GWC 10–11u (no Calc 2 at GWC)
+
+- OCC 5u: 5×458 + 59 = **$2,349**. ([orangecoastcollege.edu](https://orangecoastcollege.edu/admissions-aid/financial-aid/cost-of-attendance.html?utm_source=chatgpt.com "Cost of Attendance"))
+    
+- GWC 10u: **$4,969**; GWC 11u: **$5,461**. ([Golden West College](https://www.goldenwestcollege.edu/Links/pdf/isp/Estimated-Expenses-ISP.pdf?utm_source=chatgpt.com "Estimated Expenses 2025-2026"))
+    
+- Total: **$7,318** (10+5) or **$7,810** (11+5).
+    
+
+# Plan C — OCC 10u + GWC 9–10u (GE + ENGR G101 at GWC)
+
+- OCC 10u: **$4,639**. ([orangecoastcollege.edu](https://orangecoastcollege.edu/admissions-aid/financial-aid/cost-of-attendance.html?utm_source=chatgpt.com "Cost of Attendance"))
+    
+- GWC 9u: 9×492 + 49 = **$4,477**. GWC 10u: **$4,969**. ([Golden West College](https://www.goldenwestcollege.edu/Links/pdf/isp/Estimated-Expenses-ISP.pdf?utm_source=chatgpt.com "Estimated Expenses 2025-2026"))
+    
+- Total: **$9,116** (9+10) or **$9,608** (10+10).
+    
+
+Optional adjustments
+
+- If your duplicate health-fee refund is approved, subtract **$27** from the combined totals. ([Golden West College](https://www.goldenwestcollege.edu/student-health-center/student-health-fees/index.html?utm_source=chatgpt.com "Student Health Fees"))
+    
+
+Definitions
+
+- nonresident tuition: base per-unit charge for F-1 at CCCD.
+    
+- capital outlay: district per-unit facility fee.
+    
+- enrollment fee: state per-unit fee ($46) applied to all students.
+    
+- flat fees: health, college service, representation charged once per campus per term.
 
 
 
