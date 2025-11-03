@@ -71,7 +71,7 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
 
 $$
 
-(2\sqrt{ 29 }  + \sqrt{ x^2   +  36 } )^2   = x^2     + 20x  + 100 
+(2\sqrt{ 29 }  + \sqrt{ x^2   +  36 } )^2   = x^2     + 20x  + 100 + 10 
 $$
 - **Section 5.1:** 1–7 odd
     
