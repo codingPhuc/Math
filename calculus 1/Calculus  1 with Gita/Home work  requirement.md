@@ -71,7 +71,7 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
 
 $$
 
-s\sqrt{ 29 }  
+2\sqrt{ 29 }  
 $$
 - **Section 5.1:** 1–7 odd
     
