@@ -69,6 +69,10 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
 
 #### Chapter 5: Sections 5.1 – 5.7
 
+$$
+
+s\sqrt{ 29 }  
+$$
 - **Section 5.1:** 1–7 odd
     
 - **Section 5.2:** 77, 99, 101, 103
