@@ -61,6 +61,7 @@ reference_2: https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivati
 - **Section 4.5:** 223, 225, 229
     
 - **Section 4.7:** 319, 321, 333
+- 
     
 - **Section 4.8:** 367, 371, 375, 379, 383, 387, 391, 399
     
