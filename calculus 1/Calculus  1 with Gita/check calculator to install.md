@@ -48,7 +48,7 @@ The program uses the solve(- function, so it can't find imaginary solutions, and
                             Questions/input, write to: anders.tiberg@telia.com
  ```
  
-    • **Point of Inflection Finder** (83+/84+ BASIC; generally CE-compatible): scan a bound interval. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/357/35711.html?utm_source=chatgpt.com "Point of Inflection Finder"))
+• **Point of Inflection Finder** (83+/84+ BASIC; generally CE-compatible): scan a bound interval. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/357/35711.html?utm_source=chatgpt.com "Point of Inflection Finder"))
     
 7. **Domain/intercepts helpers**  
     • **TWOLINESe** (CE BASIC): graphs two lines and labels each line’s intercepts. ([Ticalc](https://ticalc.org/archives/files/fileinfo/463/46317.html?utm_source=chatgpt.com "TWOLINESe"))  
