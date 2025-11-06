@@ -4,9 +4,77 @@ Install these seven TI-Basic programs. They cover OpenStax 3.4–4.8. All are ex
 
 # Compatable version 
 
+Use these CE-safe picks for TI-84 Plus CE OS 5.4.0. All are TI-BASIC (no jailbreak). I grouped them to match OpenStax 3.4–4.8.
 
+### Exact downloads
 
-# Non compatable 
+1. **Implicit/explicit dy/dx + tangent line**  
+    Purpose: Implicit dy/dx via −Fx/Fy, explicit dy/dx, tangent line at a point. CE-compatible BASIC. Download: ticalc “Derivatives—Implicit and Explicit.” ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/409/40946.html?utm_source=chatgpt.com "Derivatives- Implicit and Explicit"))  
+    Mirror with steps: CalculatorTI page. ([Calculatorti.com](https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/derivatives-implicit-and-explicit-tangent-line-of-a-point/?srsltid=AfmBOorlQ3NaW0XnsZINiN6Lgwsht7cauxffGIpyRFn6cSSOybIKYk6V&utm_source=chatgpt.com "Derivatives - Implicit and Explicit - Tangent Line of a Point"))
+    
+2. **Tangent line (fast) + Normal line**  
+    Purpose: Equation of tangent; normal uses m⊥=−1/m. CE BASIC. Downloads: **Tangent_Line84 v1.10** and **Perpendicular_Line84 v1.01**. ([Ticalc](https://www.ticalc.org/pub/84pluscse/basic/math/?utm_source=chatgpt.com "TI-84 Plus C Silver Edition/CE BASIC Math Programs"))
+    
+3. **Mean Value Theorem helper**  
+    Purpose: Compute secant slope and solve f′(c)=secant on [a,b]. BASIC for 83+/84+ that runs on CE. Download: “AP Calculus Series: Mean Value.” ([Ticalc](https://www.ticalc.org/pub/83plus/basic/math/calculus/?utm_source=chatgpt.com "TI-83/84 Plus BASIC Math Programs (Calculus)"))
+    
+4. **L’Hôpital + derivative rules pack (ADERIV)**  
+    Purpose: Quick derivative forms and L’Hôpital tool for 4.8. CE-compatible BASIC. Download: ticalc “Derivatives (ADERIV).” ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/456/45646.html?utm_source=chatgpt.com "Derivatives"))
+    
+5. **Limits (one-sided, two-sided, ±∞)**  
+    Purpose: Numeric limit explorer for 3.x. CE-compatible BASIC. Download: CalculatorTI “Limits Calculator.” ([Calculatorti.com](https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/limits-calculator/?srsltid=AfmBOor9E7_hwXJqo63qHG0U58rkBAzdvD1YW0v28nYiMzgHK6y_EJ6p&utm_source=chatgpt.com "Limits Calculator"))  
+    Optional suite with many calc tools: CalculatorTI “Ultimate Calculus Collection.” ([Calculatorti.com](https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/the-ultimate-calculus-collection/?srsltid=AfmBOoqzFZM5L44CRyeAhQkc4DFDkaxxXDaUncMpCcmRWHPQfi7H07Mi&utm_source=chatgpt.com "The Ultimate Calculus Collection"))
+    
+6. **Inflection points**  
+    Options:  
+    • **ALLSOLVE2** (CE BASIC): can find up to four inflection points. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/455/45552.html?utm_source=chatgpt.com "ALLSOLVE2"))  
+    • **Point of Inflection Finder** (83+/84+ BASIC; generally CE-compatible): scan a bound interval. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/357/35711.html?utm_source=chatgpt.com "Point of Inflection Finder"))
+    
+7. **Domain/intercepts helpers**  
+    • **TWOLINESe** (CE BASIC): graphs two lines and labels each line’s intercepts. ([Ticalc](https://ticalc.org/archives/files/fileinfo/463/46317.html?utm_source=chatgpt.com "TWOLINESe"))  
+    • **Slopey** (CE BASIC): slope, y-intercept, full line eqn from two points. ([Cemetech](https://www.cemetech.net/downloads/browse84pce/?page=14&sort=description&utm_source=chatgpt.com "Archives: TI-84 Plus CE Programs"))  
+    • Reference sheet style for common trig/log domains: CalculatorTI “Trigonometry and Log Functions: Domain/Range/Derivatives/Integrals.” ([Calculatorti.com](https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/trigonometry-and-log-functions-domain-range-derivatives-and-integrals/?srsltid=AfmBOoolNFE10tiHC3LQy1fKTKcmACAUxsekgAJ60DCYqVFPKvDpzppA&utm_source=chatgpt.com "Trigonometry and Log Functions: Domain, Range, ..."))
+    
+8. **General CE calculus suites (grab one for backup)**  
+    • **Calculus** (includes Average Value Theorem, Riemann sums, many BC/AB topics). CE/CSE BASIC. ([Cemetech](https://www.cemetech.net/downloads/browse84pcse/basic/math?utm_source=chatgpt.com "Archives: TI-84 Plus C Silver Edition BASIC Math Programs"))  
+    • **Simple+Math 84** (CE BASIC; adds basic calculus and Riemann sums). ([Cemetech](https://www.cemetech.net/downloads/browse84pce/basic/math?page=2 "TI-84 Plus CE BASIC Math Programs | Archives | Cemetech"))
+    
+
+### Install (CE 5.4.0)
+
+1. Install **TI-Connect CE** on your computer. ([Texas Instruments Education](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw?utm_source=chatgpt.com "TI Connect™ CE Software Application | Texas Instruments"))
+    
+2. USB-connect calculator → open TI-Connect CE → **Send to Calculators…** → select each downloaded `.8xp` file → Send. ([Texas Instruments Education](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw?utm_source=chatgpt.com "TI Connect™ CE Software Application | Texas Instruments"))
+    
+3. Run on calc: `PRGM` → select program → `ENTER` → `ENTER`.
+    
+
+### CE 5.4.0 compatibility notes
+
+- TI-BASIC programs above run on CE 5.4.0. (Many 83+/84+ BASIC programs also run on CE; Cemetech explains CE BASIC compatibility.) ([Cemetech](https://www.cemetech.net/downloads/browse84pce/basic/education?utm_source=chatgpt.com "Archives: TI-84 Plus CE BASIC Educational Programs"))
+    
+- OS 5.4.0 still allows ASM, but TI removed ASM in 5.6+. You do not need ASM here. Avoid updating if you rely on legacy ASM. ([Reddit](https://www.reddit.com/r/TI_Calculators/comments/hqwzng/assembly_on_ti84_plus_ce_os_540/?utm_source=chatgpt.com "Assembly on TI-84 Plus CE OS 5.4.0? : r/TI_Calculators"))
+    
+
+### Troubleshooting your earlier split-screen error
+
+If a program opens to a graph on top and an input pane below, you’re in a split mode and some programs will throw “check type/number of arguments.” Fix: `MODE` → set **FULL** (not **HORIZONTAL** or **GRAPH-TABLE**) → `2nd` `QUIT`, then rerun. ([Texas Instruments Education](https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/content/eg_gsguide/m_setting_modes/sm_full_horiz_graph.HTML?utm_source=chatgpt.com "FULL HORIZONTAL GRAPH-TABLE"))
+
+---
+
+### Definitions
+
+- CE-compatible BASIC: TI-BASIC programs that run on the color CE models without jailbreak.
+    
+- Implicit differentiation: compute (dy/dx=-F_x/F_y) when (F(x,y)=0).
+    
+- Mean Value Theorem: there exists (c\in(a,b)) with (f'(c)=\frac{f(b)-f(a)}{b-a}).
+    
+- L’Hôpital’s Rule: for certain indeterminate forms, (\lim \frac{f}{g}=\lim \frac{f'}{g'}) if conditions hold.
+    
+- Split-screen modes: **Horizontal** or **Graph-Table** show two panes; **Full** uses the whole screen. ([Texas Instruments Education](https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/content/eg_gsguide/m_setting_modes/sm_full_horiz_graph.HTML?utm_source=chatgpt.com "FULL HORIZONTAL GRAPH-TABLE"))
+
+# Non compatable version 
 ## Exact picks to download
 
 1. **Derivatives — Implicit & Explicit + Tangent line**   x1 
