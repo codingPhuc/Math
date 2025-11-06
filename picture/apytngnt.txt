@@ -11,3 +11,9 @@ You can see the formula in Y-Y1=M(X-X1) and Y=MX+B forms.
 Questions? Comments? Suggestions? 
 Email me: furusato@insightbb.com
 ************************************
+-10 → Xmin : 10 → Xmax : 1 → Xscl 
+-10 → Ymin : 10 → Ymax : 1 → Yscl
+1 → Xres
+ClrDraw
+FnOn
+Disp "GRAPH RESET DONE"
