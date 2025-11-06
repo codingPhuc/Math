@@ -23,8 +23,7 @@ Use these CE-safe picks for TI-84 Plus CE OS 5.4.0. All are TI-BASIC (no jailbre
     
 5. **L’Hôpital + derivative rules pack (ADERIV)**   x1
     Purpose: Quick derivative forms and L’Hôpital tool for 4.8. CE-compatible BASIC. Download: ticalc “Derivatives (ADERIV).” ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/456/45646.html?utm_source=chatgpt.com "Derivatives"))
-
-
+would
 6. **Inflection points**  
     Options:  
     • **ALLSOLVE2** (CE BASIC): can find up to four inflection points. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/455/45552.html?utm_source=chatgpt.com "ALLSOLVE2")) 
