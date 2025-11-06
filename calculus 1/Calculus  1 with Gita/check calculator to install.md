@@ -30,7 +30,7 @@ Use these CE-safe picks for TI-84 Plus CE OS 5.4.0. All are TI-BASIC (no jailbre
     Options:  
     • **ALLSOLVE2** (CE BASIC): can find up to four inflection points. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/455/45552.html?utm_source=chatgpt.com "ALLSOLVE2")) 
 
-	 ```
+```
 	 Anders Tiberg den 3 September, 2013
 
                                                                    ALLSOLV2
@@ -46,7 +46,7 @@ The program uses the solve(- function, so it can't find imaginary solutions, and
  If you have an even radical equation like, Sqrt(X-5)=2, you can square the equation so you get rid of the root-sign: (X-5)=4, and then solve it. A rational equation like (X-5)/(X-1)=4, can be rewritten as, (X-5)=4(X-1).
 
                             Questions/input, write to: anders.tiberg@telia.com
-	 ```
+                        ```
     • **Point of Inflection Finder** (83+/84+ BASIC; generally CE-compatible): scan a bound interval. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/357/35711.html?utm_source=chatgpt.com "Point of Inflection Finder"))
     
 7. **Domain/intercepts helpers**  
