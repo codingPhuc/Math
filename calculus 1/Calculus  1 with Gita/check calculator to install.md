@@ -26,7 +26,7 @@ https://www.ticalc.org/archives/files/fileinfo/409/40946.html
 2. **AP Calculus: f(x) of a Tangent**  
     Purpose: equation of the tangent line at x₀; use slope m for normal = −1/m.  
     Download:
-    
+![[Pasted image 20251105185839.png]]
 ![[apytngnt.txt]]
 ```
 https://www.ticalc.org/archives/files/fileinfo/253/25313.html
