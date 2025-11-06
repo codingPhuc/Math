@@ -184,16 +184,6 @@ https://www.ticalc.org/archives/files/fileinfo/249/24983.html
 
 ([Calculatorti.com](https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/limit-of-a-function-infinity/?srsltid=AfmBOooKqfDDx_sghL_2jvbHek4P28KNGnDv_ji0pkkjUPHyE7YiSQBO&utm_source=chatgpt.com "Limit of a Function: Infinity"))
 
-7. **Domain, Range, Derivatives, Integrals v1.1**  
-    Purpose: quick domain/range for common trig/log/exp families (useful screening).  
-    Download:
-    
-
-```
-https://www.ticalc.org/archives/files/fileinfo/229/22962.html
-```
-
-([TICalc](https://www.ticalc.org/archives/files/fileinfo/229/22962.html?utm_source=chatgpt.com "Domain, Range, Derivatives, and Integrals v1.1"))
 
 ### Optional add (handy for 4.8)
 
