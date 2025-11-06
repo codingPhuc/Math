@@ -6,9 +6,9 @@ Install these seven TI-Basic programs. They cover OpenStax 3.4–4.8. All are ex
     Purpose: dy/dx for explicit or implicit F(x,y)=0 and tangent line at a point.  
     Download:
     
-explicit differenct 
+explicit different
 ![[EXPLICIT.gif]]
-
+implicit different 
 ![[IMPLICIT.gif]]
 ```
 https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/derivatives-implicit-and-explicit-tangent-line-of-a-point/
