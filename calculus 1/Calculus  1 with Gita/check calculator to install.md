@@ -54,11 +54,6 @@ The program uses the solve(- function, so it can't find imaginary solutions, and
     • **TWOLINESe** (CE BASIC): graphs two lines and labels each line’s intercepts. ([Ticalc](https://ticalc.org/archives/files/fileinfo/463/46317.html?utm_source=chatgpt.com "TWOLINESe"))  
     • **Slopey** (CE BASIC): slope, y-intercept, full line eqn from two points. ([Cemetech](https://www.cemetech.net/downloads/browse84pce/?page=14&sort=description&utm_source=chatgpt.com "Archives: TI-84 Plus CE Programs"))  
     • Reference sheet style for common trig/log domains: CalculatorTI “Trigonometry and Log Functions: Domain/Range/Derivatives/Integrals.” ([Calculatorti.com](https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/trigonometry-and-log-functions-domain-range-derivatives-and-integrals/?srsltid=AfmBOoolNFE10tiHC3LQy1fKTKcmACAUxsekgAJ60DCYqVFPKvDpzppA&utm_source=chatgpt.com "Trigonometry and Log Functions: Domain, Range, ..."))
-    
-8. **General CE calculus suites (grab one for backup)**  
-    • **Calculus** (includes Average Value Theorem, Riemann sums, many BC/AB topics). CE/CSE BASIC. ([Cemetech](https://www.cemetech.net/downloads/browse84pcse/basic/math?utm_source=chatgpt.com "Archives: TI-84 Plus C Silver Edition BASIC Math Programs"))  
-    • **Simple+Math 84** (CE BASIC; adds basic calculus and Riemann sums). ([Cemetech](https://www.cemetech.net/downloads/browse84pce/basic/math?page=2 "TI-84 Plus CE BASIC Math Programs | Archives | Cemetech"))
-    
 
 9. **Domain, Range, Derivatives, Integrals v1.1**  
     Purpose: quick domain/range for common trig/log/exp families (useful screening).  
