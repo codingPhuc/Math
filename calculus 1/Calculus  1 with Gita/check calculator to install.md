@@ -10,6 +10,7 @@ explicit different
 ![[EXPLICIT.gif]]
 implicit different 
 ![[IMPLICIT.gif]]
+![[-Readme-.txt]]
 ```
 https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/derivatives-implicit-and-explicit-tangent-line-of-a-point/
 ```
