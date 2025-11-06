@@ -29,7 +29,8 @@ Use these CE-safe picks for TI-84 Plus CE OS 5.4.0. All are TI-BASIC (no jailbre
 6. **Inflection points**  
     Options:  
     • **ALLSOLVE2** (CE BASIC): can find up to four inflection points. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/455/45552.html?utm_source=chatgpt.com "ALLSOLVE2")) 
-```
+
+	 ```
 	 Anders Tiberg den 3 September, 2013
 
                                                                    ALLSOLV2
