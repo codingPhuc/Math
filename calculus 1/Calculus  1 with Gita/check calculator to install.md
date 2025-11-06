@@ -1,5 +1,8 @@
 Install these seven TI-Basic programs. They cover OpenStax 3.4–4.8. All are exam-safe (no jailbreak, no ASM).
 
+
+
+# Compat
 ## Exact picks to download
 
 1. **Derivatives — Implicit & Explicit + Tangent line**   x1 
