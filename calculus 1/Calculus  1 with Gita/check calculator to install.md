@@ -20,10 +20,6 @@ Use these CE-safe picks for TI-84 Plus CE OS 5.4.0. All are TI-BASIC (no jailbre
     
 4. **L’Hôpital + derivative rules pack (ADERIV)**   x1
     Purpose: Quick derivative forms and L’Hôpital tool for 4.8. CE-compatible BASIC. Download: ticalc “Derivatives (ADERIV).” ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/456/45646.html?utm_source=chatgpt.com "Derivatives"))
-    
-5. **Limits (one-sided, two-sided, ±∞)**  
-    Purpose: Numeric limit explorer for 3.x. CE-compatible BASIC. Download: CalculatorTI “Limits Calculator.” ([Calculatorti.com](https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/limits-calculator/?srsltid=AfmBOor9E7_hwXJqo63qHG0U58rkBAzdvD1YW0v28nYiMzgHK6y_EJ6p&utm_source=chatgpt.com "Limits Calculator"))  
-    Optional suite with many calc tools: CalculatorTI “Ultimate Calculus Collection.” ([Calculatorti.com](https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/the-ultimate-calculus-collection/?srsltid=AfmBOoqzFZM5L44CRyeAhQkc4DFDkaxxXDaUncMpCcmRWHPQfi7H07Mi&utm_source=chatgpt.com "The Ultimate Calculus Collection"))
 
 
 6. **Inflection points**  
