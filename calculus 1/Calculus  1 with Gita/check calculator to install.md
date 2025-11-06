@@ -23,7 +23,7 @@ https://www.ticalc.org/archives/files/fileinfo/409/40946.html
 
 ([Calculatorti.com](https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/derivatives-implicit-and-explicit-tangent-line-of-a-point/?srsltid=AfmBOoqrH8TzqFak_IZXQ4GlTXEMzgiIEpAyHf9Z7lZ8PX9nch_eU1mw&utm_source=chatgpt.com "Derivatives - Implicit and Explicit - Tangent Line of a Point"))
 
-2. **AP Calculus: f(x) of a Tangent**  problem()
+2. **AP Calculus: f(x) of a Tangent**  problem(it overwrite the setting for graphing)
     Purpose: equation of the tangent line at x₀; use slope m for normal = −1/m.  
     Download:
 ![[Pasted image 20251105185839.png]]
