@@ -2,7 +2,11 @@ Install these seven TI-Basic programs. They cover OpenStax 3.4–4.8. All are ex
 
 
 
-# Compat
+# Compatable version 
+
+
+
+# Non compatable 
 ## Exact picks to download
 
 1. **Derivatives — Implicit & Explicit + Tangent line**   x1 
