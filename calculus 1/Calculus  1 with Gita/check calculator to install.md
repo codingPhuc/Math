@@ -6,6 +6,7 @@ Install these seven TI-Basic programs. They cover OpenStax 3.4–4.8. All are ex
     Purpose: dy/dx for explicit or implicit F(x,y)=0 and tangent line at a point.  
     Download:
     
+Expl
 ![[EXPLICIT.gif]]
 
 ![[IMPLICIT.gif]]
