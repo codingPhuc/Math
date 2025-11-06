@@ -8,11 +8,11 @@ Use these CE-safe picks for TI-84 Plus CE OS 5.4.0. All are TI-BASIC (no jailbre
 
 ### Exact downloads
 
-1. **Implicit/explicit dy/dx + tangent line**  x 
+1. **Implicit/explicit dy/dx + tangent line**  x1 
     Purpose: Implicit dy/dx via −Fx/Fy, explicit dy/dx, tangent line at a point. CE-compatible BASIC. Download: ticalc “Derivatives—Implicit and Explicit.” ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/409/40946.html?utm_source=chatgpt.com "Derivatives- Implicit and Explicit"))  
     Mirror with steps: CalculatorTI page. ([Calculatorti.com](https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/derivatives-implicit-and-explicit-tangent-line-of-a-point/?srsltid=AfmBOorlQ3NaW0XnsZINiN6Lgwsht7cauxffGIpyRFn6cSSOybIKYk6V&utm_source=chatgpt.com "Derivatives - Implicit and Explicit - Tangent Line of a Point"))
     
-2. **Tangent line (fast) + Normal line**  x
+2. **Tangent line (fast) + Normal line**  x1
     Purpose: Equation of tangent; normal uses m⊥=−1/m. CE BASIC. Downloads: **Tangent_Line84 v1.10** and **Perpendicular_Line84 v1.01**. ([Ticalc](https://www.ticalc.org/pub/84pluscse/basic/math/?utm_source=chatgpt.com "TI-84 Plus C Silver Edition/CE BASIC Math Programs"))
     
 3. **Mean Value Theorem helper**  
