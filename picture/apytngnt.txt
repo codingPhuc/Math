@@ -1,0 +1,13 @@
+**********APGTNGNT**********  (V.1 / 24SEP02)
+for TI-83+ / by Taren Nauxen  
+*Programmed in TI-83+ BASIC*
+****************************
+
+This program finds the function of a line tangent to the function f(x) at point X.
+
+You can see the formula in Y-Y1=M(X-X1) and Y=MX+B forms.
+
+************************************
+Questions? Comments? Suggestions? 
+Email me: furusato@insightbb.com
+************************************
