@@ -60,6 +60,16 @@ The program uses the solve(- function, so it can't find imaginary solutions, and
     • **Simple+Math 84** (CE BASIC; adds basic calculus and Riemann sums). ([Cemetech](https://www.cemetech.net/downloads/browse84pce/basic/math?page=2 "TI-84 Plus CE BASIC Math Programs | Archives | Cemetech"))
     
 
+9. **Domain, Range, Derivatives, Integrals v1.1**  
+    Purpose: quick domain/range for common trig/log/exp families (useful screening).  
+    Download:
+    
+
+```
+https://www.ticalc.org/archives/files/fileinfo/229/22962.html
+```
+
+([TICalc](https://www.ticalc.org/archives/files/fileinfo/229/22962.html?utm_source=chatgpt.com "Domain, Range, Derivatives, and Integrals v1.1"))
 ### Install (CE 5.4.0)
 
 1. Install **TI-Connect CE** on your computer. ([Texas Instruments Education](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw?utm_source=chatgpt.com "TI Connect™ CE Software Application | Texas Instruments"))
