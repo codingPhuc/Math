@@ -28,7 +28,25 @@ Use these CE-safe picks for TI-84 Plus CE OS 5.4.0. All are TI-BASIC (no jailbre
 
 6. **Inflection points**  
     Options:  
-    • **ALLSOLVE2** (CE BASIC): can find up to four inflection points. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/455/45552.html?utm_source=chatgpt.com "ALLSOLVE2"))  
+    • **ALLSOLVE2** (CE BASIC): can find up to four inflection points. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/455/45552.html?utm_source=chatgpt.com "ALLSOLVE2")) 
+
+	 ```
+	 Anders Tiberg den 3 September, 2013
+
+                                                                   ALLSOLV2
+
+ This program is a multi purpose equation solver which can find up to six real roots, and five extremes ( maxima/minima ). It can also find four terrace points or four inflection points. It can solve a wide variety of equations. For example: log(X^2)=.4, abs((X-3)(X+2))=4, cos(X^2)=.5, (X-300)(X-400)(X-500)(X-600)=0, cos(X)=X^2+3X, (X+1.1)(X+1.2)(X+1.3)=0, abs(X^3-1)=7, (X^3-7)^(1/3)=X-1. It uses the solve(-, and nDeriv(- commands. When you enter the equation you don't have to enter the =-sign, and the right side if it is 0. You simply enter just the left side then. On the other hand if the right side differs from nil, you can either enter the equation as it stands, or move the negation of the right side to the left side. Thus an equation like (X^3-7)^(1/3)=X-1, can also be entered as (X^3-7)^(1/3)-X+1.
+
+ After you've entered the equation you are asked: "RSLT IN RAD. Y/N", which means wether you want the answer in radians or not. Enter Y or N depending of your choice. Then a menu opens up with five choices: 1, Real roots, 2, Find Max/Mins, 3, Inflection/Terrace Points, 4, Show Graph, 5, Exit. In the first three you are asked how many points on the function curve you search for. In the fourth, ( which you choose first if you're uncertain ), you get four options for: "ZOOM?", by which you decide what window you want. If you are uncertain, choose 6: ZStandard. You can always go back and choose another option. When you have seen the graph, you can estimate how many points of which kind you search for.
+
+Upon execution of each of your choice you will be asked if you want the result in radians. It's a bit tedious, but it saved a lot of bytes. The exception is if you choose more points of a kind than there are. The program will then stop with an: "ERR: NO SIGN CHNG", or: "ERR: SINGULARTY". Just press [ 1 ] then to see the results. If you want to continue then, you have to start from the beginning. So let the program graph it for you first.
+
+The program uses the solve(- function, so it can't find imaginary solutions, and neither can it solve for double roots. For example an equation like (X-2)(X-2)=0, gives an ERR: NO SIGN CHANGE. Also there may be trouble with even index radical equations as SQRT(X-5)=1, and rational equations in which a denominator may become 0 as 1/(X-5)=1.
+
+ If you have an even radical equation like, Sqrt(X-5)=2, you can square the equation so you get rid of the root-sign: (X-5)=4, and then solve it. A rational equation like (X-5)/(X-1)=4, can be rewritten as, (X-5)=4(X-1).
+
+                            Questions/input, write to: anders.tiberg@telia.com
+	 ```
     • **Point of Inflection Finder** (83+/84+ BASIC; generally CE-compatible): scan a bound interval. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/357/35711.html?utm_source=chatgpt.com "Point of Inflection Finder"))
     
 7. **Domain/intercepts helpers**  
