@@ -15,7 +15,7 @@ Use these CE-safe picks for TI-84 Plus CE OS 5.4.0. All are TI-BASIC (no jailbre
 2. **Tangent line (fast) + Normal line**  x1
     Purpose: Equation of tangent; normal uses m⊥=−1/m. CE BASIC. Downloads: **Tangent_Line84 v1.10** and **Perpendicular_Line84 v1.01**. ([Ticalc](https://www.ticalc.org/pub/84pluscse/basic/math/?utm_source=chatgpt.com "TI-84 Plus C Silver Edition/CE BASIC Math Programs"))
     
-3. **Mean Value Theorem helper**  x
+3. **Mean Value Theorem helper**  x1
     Purpose: Compute secant slope and solve f′(c)=secant on [a,b]. BASIC for 83+/84+ that runs on CE. Download: “AP Calculus Series: Mean Value.” ([Ticalc](https://www.ticalc.org/pub/83plus/basic/math/calculus/?utm_source=chatgpt.com "TI-83/84 Plus BASIC Math Programs (Calculus)"))
     
 4. **L’Hôpital + derivative rules pack (ADERIV)**  
