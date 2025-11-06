@@ -50,12 +50,8 @@ The program uses the solve(- function, so it can't find imaginary solutions, and
  
 • **Point of Inflection Finder** (83+/84+ BASIC; generally CE-compatible): scan a bound interval. ([Ticalc](https://www.ticalc.org/archives/files/fileinfo/357/35711.html?utm_source=chatgpt.com "Point of Inflection Finder"))
     
-7. **Domain/intercepts helpers**  
-    • **TWOLINESe** (CE BASIC): graphs two lines and labels each line’s intercepts. ([Ticalc](https://ticalc.org/archives/files/fileinfo/463/46317.html?utm_source=chatgpt.com "TWOLINESe"))  
-    • **Slopey** (CE BASIC): slope, y-intercept, full line eqn from two points. ([Cemetech](https://www.cemetech.net/downloads/browse84pce/?page=14&sort=description&utm_source=chatgpt.com "Archives: TI-84 Plus CE Programs"))  
-    • Reference sheet style for common trig/log domains: CalculatorTI “Trigonometry and Log Functions: Domain/Range/Derivatives/Integrals.” ([Calculatorti.com](https://www.calculatorti.com/ti-programs/ti-83-plus-ti-84-plus/calculus/trigonometry-and-log-functions-domain-range-derivatives-and-integrals/?srsltid=AfmBOoolNFE10tiHC3LQy1fKTKcmACAUxsekgAJ60DCYqVFPKvDpzppA&utm_source=chatgpt.com "Trigonometry and Log Functions: Domain, Range, ..."))
 
-9. **Domain, Range, Derivatives, Integrals v1.1**  
+7. **Domain, Range, Derivatives, Integrals v1.1**  
     Purpose: quick domain/range for common trig/log/exp families (useful screening).  
     Download:
     
