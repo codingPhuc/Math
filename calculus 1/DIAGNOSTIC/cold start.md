@@ -112,4 +112,4 @@ $$
 \lim_{   x  \to 4 }    \frac{\mid x -  4 \mid }{x - 4}     = 0 \\
 \end{array} 
 $$
-the reason for why  x 
+the
