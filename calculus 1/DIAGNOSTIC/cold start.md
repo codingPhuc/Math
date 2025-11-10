@@ -107,6 +107,6 @@ $$
 Q4 :  
 $$
 \begin{array}
-\lim_{  x  \to    } 
+\lim_{  x  \to   4- }    =    0 
 \end{array}
-$
+$$
