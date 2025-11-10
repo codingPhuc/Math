@@ -107,6 +107,6 @@ $$
 Q4 :  
 $$
 \begin{array}
-\lim_{  x  \to   4- }  \mid x  \mid   =   -1 
+\lim_{  x  \to   4- }  \frac{\mid x -  4 \mid }{}  =   -1 
 \end{array}
 $$
