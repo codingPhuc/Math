@@ -86,6 +86,4 @@ Definitions
 - indeterminate form: An algebraic form like (0/0) that requires simplification before taking a limit. 
 
 - Q1 [DATAf, CON]: Table: (x={1.9,,1.99,,2.01,,2.1}). Values (f(x)={3.9,,3.99,,4.01,,4.1}). Decide (\lim_{x\to2} f(x)) and whether (f(2)) must equal that value. Ans:  
-$$
-f(x) 
-$$
+I don't know what htis mean is 
