@@ -103,3 +103,6 @@ the limit does not exit since left hand limit does not equal to right hand limit
  
 $$
 
+$$
+(g(x)=\begin{cases} |x-4|/(x-4), & x\neq4\ 0, & x=4\end{cases}). Decide (\lim_{x\to4^-}g(x)), (\lim_{x\to4^+}g(x)), and (\lim_{x\to4}g(x)).
+$$
