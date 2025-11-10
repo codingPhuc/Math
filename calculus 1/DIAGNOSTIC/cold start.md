@@ -89,3 +89,7 @@ Definitions
 I don't know what htis mean, is this the proof where one input value will be map to one ouput value thing then this question is correct 
 - Q2 [CASE, CON]: Graph cue: At (x=1), left-hand trace tends to (2), right-hand trace tends to (5); a filled dot sits at ((1,7)). Classify: limit exists? continuity? Give the type of discontinuity if any. Ans:  
 the limit does not exit since left hand limit does not equal to right hand limit 
+
+
+    
+- Q3 [PROC]: Compute (\displaystyle \lim_{x\to3}\frac{x^2-9}{x-3}). Show the algebraic step that justifies your answer. Ans: 
