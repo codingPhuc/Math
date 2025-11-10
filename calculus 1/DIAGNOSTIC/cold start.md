@@ -104,4 +104,4 @@ the limit does not exit since left hand limit does not equal to right hand limit
 $$
 
 ![[Pasted image 20251109223329.png]]  
-Q$ 
+Q4 :  
