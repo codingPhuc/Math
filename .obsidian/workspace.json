@@ -228,11 +228,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8084c8b0632afcc",
+  "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
+    "calculus 1/Untitled",
     "picture/Pasted image 20251105185847.png",
     "picture/Pasted image 20251105185839.png",
     "picture/-Readme-.txt",
@@ -277,7 +279,6 @@
     "picture/Pasted image 20250825085743.png",
     "picture/Pasted image 20250825085558.png",
     "picture/Pasted image 20250825085534.png",
-    "picture/Pasted image 20250825085532.png",
-    "picture/Pasted image 20250824130249.png"
+    "picture/Pasted image 20250825085532.png"
   ]
 }
