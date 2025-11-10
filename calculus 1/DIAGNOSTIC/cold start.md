@@ -120,4 +120,4 @@ Q5 [PROC, CON]: Using limit laws only, evaluate l![[Pasted image 20251109224358.
  \lim_{ x \to 0 }  (3x^2  +  4x + 5)    =   3(0)^2  4(0) + 5 
   
 $$
-I don't know exactly which law just
+I don't know exactly which law justify it 
