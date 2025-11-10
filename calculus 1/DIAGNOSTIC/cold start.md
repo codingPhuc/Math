@@ -96,8 +96,8 @@ the limit does not exit since left hand limit does not equal to right hand limit
 
  $$
 \begin{array}{l}  \\
-(\displaystyle \lim_{x\to3}\frac{x^2-9}{x-3}).
-= (x)^2   -  9
+\left( \displaystyle \lim_{x\to3}\frac{x^2-9}{x-3} \right).
+= \frac{(x)^2   -  9}{3 -3}
 \end{array}
  
 $$
