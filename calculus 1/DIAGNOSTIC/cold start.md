@@ -108,6 +108,6 @@ Q4 :
 $$
 \begin{array}
 \lim_{  x  \to   4- }  \frac{\mid x -  4 \mid }{x - 4}    =   -1    \\
-\lim_{   x  \to \infty } 
+\lim_{   x  \to  4^+  }    \mid  x - 3 \mid 
 \end{array}
 $$
