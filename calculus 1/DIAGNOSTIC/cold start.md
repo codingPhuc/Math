@@ -98,7 +98,7 @@ the limit does not exit since left hand limit does not equal to right hand limit
 \begin{array}{l}  \\
 \left( \displaystyle \lim_{x\to3}\frac{x^2-9}{x-3} \right).
 = \frac{(3)^2   -  9}{3 -3}  =   \frac{0}{0} \implies \text{ undefind}  \\
-\lim_{ x \to 3 }  \frac{(x  - 3)(x + 3)}{x - 3}  
+\lim_{ x \to 3 }  \frac{(x  - 3)(x + 3)}{x - 3}  =  x + 3      = 3 + 3  =   
 \end{array}
  
 $$
