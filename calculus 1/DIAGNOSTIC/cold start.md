@@ -112,4 +112,4 @@ $$
 \lim_{   x  \to 4 }    \frac{\mid x -  4 \mid }{x - 4}     = 0 \\
 \end{array} 
 $$
-for $\lim_{ n \to \infty }$
+for $\lim_{ n \to 4^-1 }$ it appoarching from left to rig
