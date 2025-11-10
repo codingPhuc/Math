@@ -116,3 +116,4 @@ for $\lim_{ n \to 4^-1 }$ it appoarching from left to right so the closet number
 
 
 
+Q5 [PROC, CON]: Using limit laws only, evaluate lim⁡x→0(3x2+4x+5)\displaystyle \lim_{x\to0}\left(3x^2+4x+5\right)x→0lim​(3x2+4x+5). State which law justifies moving the limit inside. Ans: ____ 
