@@ -112,4 +112,4 @@ $$
 \lim_{   x  \to 4 }    \frac{\mid x -  4 \mid }{x - 4}     = 0 \\
 \end{array} 
 $$
-for $\lim_{ n \to 4^-1 }$ it appoarching from left to right so the closet number approaching 4 is a number that is smaller than 4 for demostraction purposed let say 3.999 causign the.  On the other hand, for $\lim_{ x \to 4^+  }$ from right to left the closet number approaching 4 is a number larger than 4, for example 4.001 causing the result to be positive 
+for $\lim_{ n \to 4^-1 }$ it appoarching from left to right so the closet number approaching 4 is a number that is smaller than 4 for demostraction purposed let say 3.999 causing the result to be negative.  On the other hand, for $\lim_{ x \to 4^+  }$ from right to left the closet number approaching 4 is a number larger than 4, for example 4.001 causing the result to be positive. Fin
