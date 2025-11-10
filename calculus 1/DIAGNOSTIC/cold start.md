@@ -105,4 +105,8 @@ $$
 
 ![[Pasted image 20251109223329.png]]  
 Q4 :  
-l
+$$
+\begin{array}
+\lim_{  x  \to    } 
+\end{array}
+$
