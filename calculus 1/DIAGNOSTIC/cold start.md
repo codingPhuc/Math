@@ -117,5 +117,4 @@ for $\lim_{ n \to 4^-1 }$ it appoarching from left to right so the closet number
 
 
 Q5 [PROC, CON]: Using limit laws only, evaluate l![[Pasted image 20251109224358.png]]$$
- \lim_{ x \to 0 }  (3x^2  +  4x + 5)    =  \lim_{    x  \to 3(0) } 
-$$
+ \lim_{ x \to 0 }  (3x^2  +  4x + 5)    =  \lim_{    x  \to 3(0)^2  + 4(0 )   +  5   }  = 
