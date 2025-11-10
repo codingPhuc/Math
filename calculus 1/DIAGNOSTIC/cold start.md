@@ -103,4 +103,5 @@ the limit does not exit since left hand limit does not equal to right hand limit
  
 $$
 
-xxxxxxxxxxxx
+![[Pasted image 20251109223329.png]]  
+Q$ 
