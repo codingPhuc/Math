@@ -109,6 +109,7 @@ $$
 \begin{array}
 \lim_{  x  \to   4- }  \frac{\mid x -  4 \mid }{x - 4}    =   -1    \\
 \lim_{   x  \to  4^+  }   \frac{\mid x -  4 \mid }{x - 4}      =  1 
-\lim_{   x  \to 4 }    \mid    \mid  \\
+\lim_{   x  \to 4 }    \frac{\mid x -  4 \mid }{x - 4}     = 0 \\
 \end{array} 
 $$
+the 
