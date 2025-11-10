@@ -96,4 +96,6 @@ the limit does not exit since left hand limit does not equal to right hand limit
 
     $$
 (\displaystyle \lim_{x\to3}\frac{x^2-9}{x-3}).
+
+for thsi
 $$
