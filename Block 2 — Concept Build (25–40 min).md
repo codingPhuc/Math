@@ -176,3 +176,79 @@ jump discontinuity: Side-limits exist but are unequal.
 oscillation DNE: Outputs vary without settling to one value near $a$.
 
 
+
+
+
+# Error note 
+Score 6/10. Not yet passing (target ≥8). Biggest issue: mis-reading side-limits from tables and sloppy labeling.
+
+Targeted hint — Tables→Limits: For $x\to a^-$ plug values like $a-10^{-k}$ into the **left-hand** formula; for $x\to a^+$ use $a+10^{-k}$ in the **right-hand** formula. Do not subtract “almost-$a$” from $1$ unless that’s the given formula.
+
+## Itemized notes
+
+- **V1 (piecewise sketch):** Template correct but the function body wasn’t fully rendered in the PDF; be sure the two branches appear and mark the open/closed dots at $x=0$. Label $f(0)$ explicitly.
+    
+- **V2 (table near $0$):** Your claimed left limit $0$ is wrong for $x+1$; it should be $1$. Your table mixes numbers that don’t come from the correct branch. State: $\lim_{x\to0^-}(x+1)=1$, $\lim_{x\to0^+}(1-x)=1$.
+    
+- **V3 (change right branch to $2-x$):** Right idea, but you computed the left side wrong again. Should be $\lim_{x\to0^-}(x+1)=1$ and $\lim_{x\to0^+}(2-x)=2$ → **jump** at $0$.
+    
+- **V4 ($\tfrac{x^2-4}{x-2}$ hole):** Classification right: **removable**; say explicitly “continuous if $f(2)=4$,” not “valid when fully factored.”
+    
+- **V5 (step at $x=1$):** Do not skip with “easy ignore.” You needed labels $\lim_{x\to1^-}$, $\lim_{x\to1^+}$, and $f(1)=-1$; justify “two-sided limit DNE (jump).”
+    
+- **V6 ($1/(x-2)^2$):** Use standard language “**infinite limit**; diverges to $+\infty$ on both sides,” not “asymptotic limit.” Two-sided finite limit **does not exist**.
+    
+- **V7 ($\tfrac{(x-3)(x+1)}{x-3}$):** Good: limit $=4$. Also mark the hole at $(3,4)$.
+    
+- **V8 ($\tfrac{|x-3|(x-3)}{x-3}$):** Finish the argument: for $x\ne3$, this equals $|x-3|$ so $\lim_{x\to3}y=0$ and the discontinuity is **removable** with $f(3)=0$. Your line is incomplete.
+    
+- **V9 ($\sin(1/x)$):** State the reason: **oscillation** between $-1$ and $1$ yields no single approach value. Put this in the check.
+    
+
+## Quick fixes you can paste into Obsidian
+
+- **Side-limit answers for V2:**  
+    $$  
+    \lim_{x\to0^-}(x+1)=1,\quad \lim_{x\to0^+}(1-x)=1,\quad \lim_{x\to0}f(x)=1  
+    $$  
+    Plain: both sides give $1$.
+    
+- **V3 classification (right branch $2-x$):**  
+    $$  
+    \lim_{x\to0^-}(x+1)=1,\quad \lim_{x\to0^+}(2-x)=2\ \Rightarrow\ \text{jump at }0  
+    $$  
+    Plain: side heights differ, so two-sided limit DNE.
+    
+- **V6 language:**  
+    $$  
+    \lim_{x\to2}\frac{1}{(x-2)^2}=+\infty\quad\text{(diverges; no finite limit)}  
+    $$  
+    Plain: grows without bound from both sides.
+    
+- **V8 rewrite:**  
+    $$  
+    \frac{|x-3|(x-3)}{x-3}=|x-3|\ (x\ne3),\quad \lim_{x\to3}|x-3|=0  
+    $$  
+    Plain: hole at $(3,0)$; set $f(3)=0$ for continuity.
+    
+
+## Next actions
+
+1. Redo V2–V3 tables with correct branch formulas.
+    
+2. Add missing labels and the actual $f(1)$ in V5.
+    
+3. Replace “asymptotic limit” with “infinite limit” in V6.
+    
+4. Complete V8 check with limit value and continuity fix.
+    
+
+**Progress log** — Block 2 Visuals | 2025-11-11 11:00 PT | Score: 6/10 | Mistakes: side-limits/tables; labels/notation; classification language | Recurrence: side-limits recurring from Diagnostic | Trend: ↗ improving.
+
+### Definitions
+
+limit: number approached by $f(x)$ as $x$ nears $a$.  
+one-sided limit: approach from $x\to a^-$ or $x\to a^+$.  
+removable discontinuity: hole; define $f(a)=\lim_{x\to a}f(x)$ to fix.  
+jump discontinuity: side-limits exist but differ.  
+infinite limit: values grow unbounded; no finite limit.
