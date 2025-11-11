@@ -83,7 +83,7 @@ the limit of the function y as x approaches 3 is removable with the when factor 
 **V9 [CON]** Draw a wildly oscillating wave near $x=0$ to represent $\sin(1/x)$.  
 Labels: dense hits at $y=\pm1$.  
 Check: State the DNE reason precisely.
-  ![[IMG_1887 1.jpg]] because limit for the function $\sin\left( \frac{1}{x} \right)$ have an oscillation between the value of $-1$ and $1$ as x approaches 0 
+![[IMG_1887 1.jpg]] because limit for the function $\sin\left( \frac{1}{x} \right)$ have an oscillation between the value of $-1$ and $1$ as x approaches 
 Refs: §2.2 tables/graphs; §2.3 algebraic limits; §2.4 precise definitions.
 
 ---
