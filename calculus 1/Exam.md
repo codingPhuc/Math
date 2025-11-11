@@ -18,7 +18,7 @@ A particle moves on a line with
 $$  
 \begin{array}{l} \\
 s(t)=\frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}-\frac{9}{(t+3)^{1/3}}  ,\qquad t>-2.     \\
-\frac{(t^2+1)e^{3t}}-\frac{(t^2+1)e^{3t}  - 9}{(t+3)^{1/3}(t+2)^{1/2}} 
+\frac{(t^2+1)e^{3t}  - 9}{(t+3)^{1/3}(t+2)^{1/2}} 
 \end{array}
 
 $$  
