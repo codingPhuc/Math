@@ -30,7 +30,7 @@ u  = \frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}   \\
 v  =  \frac{9}{(t+3)^{1/3}}       \\ \\
 \ln    u  =  \ln\left( \frac{(t^2+1)e^{3t}}{(t+2)^{1/2}} \right)    \\
 \ln u  =  \ln((t^2+1)e^{3t})   -     \ln((t+2)^{1/2})   \\
-  \\
+ \ln u  =  \ln((t^2+1))   +  \ln()   -     \ln((t+2)^{1/2})   \\
 \frac{du}{dx }   \frac{1}{u }   =  
 
 \end{array}
