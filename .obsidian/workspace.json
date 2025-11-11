@@ -152,7 +152,7 @@
               "type": "backlink",
               "state": {
                 "file": "calculus 1/Math Testing/Card M1 — Limits as ideas, not symbols.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -199,16 +199,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
+                "file": "calculus 1/Math Testing/Card M1 — Limits as ideas, not symbols.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 1.6  Solving Trig Equations with Calculators, Part II"
+              "title": "Outline of Card M1 — Limits as ideas, not symbols"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -231,7 +232,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8084c8b0632afcc",
+  "active": "17f33941e5252a0b",
   "lastOpenFiles": [
     "calculus 1/Module Relation.md",
     "calculus 1/Math Testing/Card M1 — Limits as ideas, not symbols.md",
