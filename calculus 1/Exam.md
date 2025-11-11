@@ -32,10 +32,10 @@ $$
 
 
 $$
-\begin{array}
- 
+\begin{array}{l} \\
+v(t ) =     \frac{\frac{((t +  h)^2 )e^{3(t+h) }}{ (t+h+2)^{1/2}}     -  \frac{9}{(t +h + 3)^{1/3}}  - \frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}+\frac{9}{(t+3)^{1/3}}  }{h}  
 \end{array}
-v(t ) =     \frac{\frac{((t +  h)^2 )e^{3(t+h) }}{ (t+h+2)^{1/2}}     -  \frac{9}{(t +h + 3)^{1/3}}  - \frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}+\frac{9}{(t+3)^{1/3}}  }{h} 
+
 
 $$
 
