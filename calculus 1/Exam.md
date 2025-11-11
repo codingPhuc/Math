@@ -27,6 +27,12 @@ _Plain:_ Differentiate once for velocity, twice for acceleration, respecting the
 (c) Determine all $t>-2$ such that $v(t)>0$ and $a(t)>0$.  
 _Plain:_ Solve sign conditions of $v$ and $a$.
 
+
+
+
+
+
+
 ### 2. (2.2–2.3, high-order cancellation)
 
 Evaluate  
