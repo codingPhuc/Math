@@ -31,7 +31,7 @@ Check: Explain the match/mismatch between table and graph.
 | ----- | ---- | ----- | ---- |
 | -0.1  | 0.9  | 0.1   | 0.9  |
 | -0.01 | 0.99 | 0.01  | 0.99 |
-the two table with the limit approaching from the left for the table in the righ, and the limit approaching from t
+the two table with the limit approaching from the left for the 2 column , and the limit approaching from the right for the 
 
 
 **V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
@@ -255,4 +255,4 @@ limit: number approached by $f(x)$ as $x$ nears $a$.
 one-sided limit: approach from $x\to a^-$ or $x\to a^+$.  
 removable discontinuity: hole; define $f(a)=\lim_{x\to a}f(x)$ to fix.  
 jump discontinuity: side-limits exist but differ.  
-infinite limit: values grow unbounded;
+infinite limit: values grow unbounded; no finite limit.
