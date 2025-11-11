@@ -52,7 +52,7 @@ this is a removable discontinuity, because the function is valid at f(x) = 2 whe
 **V5 [CASE]** Draw a step jump at $x=1$ with left height $3$ and right height $5$. Put a solid dot at $(1,-1)$.  this is easy ignore, next time add in a function 
 Labels: $\lim_{x\to1^-}$, $\lim_{x\to1^+}$, $f(1)$.  
 Check: Does the two-sided limit exist? Why?
-$\lim_{ x \to 1^- }=\lim_{ x \to 1^+ }=+in$
+$\lim_{ x \to 1^- }=\lim_{ x \to 1^+ }=+\infty$ 
 
 
 **V6 [ARG]** On the same axes, sketch a function that blows up like $1/(x-2)^2$ at $x=2$.  
