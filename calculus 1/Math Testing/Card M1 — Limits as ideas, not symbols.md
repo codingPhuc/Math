@@ -185,7 +185,7 @@ Definitions
     
 - oscillatory DNE: Values keep changing without settling to one number.
 
-
+[[]]
 # Block 2 — Concept Build (25–40 min)
 
 Focus: one-sided vs two-sided limits, removable vs jump, and algebraic cancellation. Stewart 9e §§2.2–2.4. TI-84 allowed.
