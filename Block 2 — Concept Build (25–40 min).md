@@ -25,10 +25,10 @@ Check: Does $\lim_{x\to0}f(x)$ exist?
 Labels: numeric side-limits.  
 Check: Explain the match/mismatch between table and graph.
 
-| x        | f(x)      |
-| -------- | --------- |
-| -0.99999 | 0         |
-| 1.000001 |  0 .00001 |
+| x        | f(x)     |
+| -------- | -------- |
+| -0.99999 | 0.00001  |
+| 1.000001 | 0 .00001 |
 
 
 **V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
