@@ -20,7 +20,7 @@ x+1,& x<0\\
 $$  
 Labels: open/closed circles at $x=0$, $f(0)$, $x\to0^-$ value, $x\to0^+$ value.  
 Check: Does $\lim_{x\to0}f(x)$ exist?
-
+![[IMG_1885.jpg]]
 **V2 [DATA]** Make a two-column table for V1 near $x=0$ with $x=-0.1,-0.01$ and $x=0.01,0.1$.  
 Labels: numeric side-limits.  
 Check: Explain the match/mismatch between table and graph.
@@ -62,7 +62,7 @@ Check: $\lim_{x\to3} y=$ ?
 $$
 y=\dfrac{(x-3)(x+1)}{x-3}    =  \lim_{ x  \to 3v }     x + 1    \implies 3 + 1  = 4  
 $$
-
+![[IMG_1886.jpg]]
 
 **V8 [APP]** Sketch $y=\dfrac{|x-3|(x-3)}{x-3}$ for $x\ne3$.  
 Labels: express as $|x-3|$.  
@@ -73,7 +73,7 @@ $$
 \lim_{  x \to  3  }   = y=\dfrac{|x-3|(x-3)}{x-3}       
 $$
 this is a removable discontinuous 
-  
+  ![[IMG_1887 1.jpg]]
 **V9 [CON]** Draw a wildly oscillating wave near $x=0$ to represent $\sin(1/x)$.  
 Labels: dense hits at $y=\pm1$.  
 Check: State the DNE reason precisely.
