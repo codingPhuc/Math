@@ -16,7 +16,7 @@ Ans: ______
 
 **Q2 [PROC]**  
 $$  
-f(x)=\begin{cases}  
+f(x)=\begin{array}  
 x+1,& x<0\  
 1-x,& x\ge 0  
 \end{cases}  
