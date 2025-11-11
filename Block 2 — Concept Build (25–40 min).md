@@ -78,7 +78,7 @@ Check: $\lim_{x\to3} y=$ ?
 $$
 \lim_{  x \to  3  }   = y=\dfrac{|x-3|(x-3)}{x-3}       
 $$
-the limit of the function y as x approaches 3 is removable with the when factor out complet
+the limit of the function y as x approaches 3 is removable with the when factor out completely with the hold being (3,0)
 
 **V9 [CON]** Draw a wildly oscillating wave near $x=0$ to represent $\sin(1/x)$.  
 Labels: dense hits at $y=\pm1$.  
