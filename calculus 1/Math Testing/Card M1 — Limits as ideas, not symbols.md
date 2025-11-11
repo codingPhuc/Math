@@ -1,3 +1,6 @@
+
+
+
 Here’s the diagnostic, cleaned for Obsidian. Inline math uses $...$. Block math uses $$...$$.
 
 # Limits — Block 1 Diagnostic (5–10 min)
@@ -85,6 +88,92 @@ one-sided limit: approach from left $x\to a^-$ or right $x\to a^+$.
 removable discontinuity: limit exists at $a$ but $f(a)$ is missing/different.  
 jump discontinuity: left and right limits exist but are unequal.  
 oscillation DNE: no single value due to endless back-and-forth near $a$. 
+
+Score: 4/5.
+
+Targeted hint [PROC]: For piecewise at a point, take side-limits by substituting into the correct branch formula, then compare. Do not estimate with near-numbers.
+
+---
+
+##  Keys + 1-line diagnostics
+
+**Q1** Correct idea, notation off.  
+Limit and type:  
+$$  
+\lim_{x\to2}\frac{x^2-4}{x-2}  
+=\lim_{x\to2}\frac{(x-2)(x+2)}{x-2}  
+=\lim_{x\to2}(x+2)=4  
+$$  
+Plain: Values approach 4; the hole at $x=2$ is removable.
+
+**Q2** Incorrect.  
+$$  
+\lim_{x\to0^-}f(x)=\lim_{x\to0^-}(x+1)=1,\quad  
+\lim_{x\to0^+}f(x)=\lim_{x\to0^+}(1-x)=1,\quad  
+\lim_{x\to0}f(x)=1  
+$$  
+Plain: Both sides go to 1, so the two-sided limit is 1.
+
+**Use this piecewise form when needed**  
+$$  
+f(x)=  
+\left{\begin{array}{l}  
+x+1,& x<0\  
+1-x,& x\ge0  
+\end{array}\right.  
+$$
+
+**Q3** Partially correct; $f(1)$ wrong.  
+$$  
+\lim_{x\to1^-}f(x)=3,\quad  
+\lim_{x\to1^+}f(x)=5,\quad  
+\lim_{x\to1}f(x)\text{ DNE},\quad  
+f(1)=-1  
+$$  
+Plain: Left approaches 3, right 5, so no single limit; the filled dot gives $f(1)=-1$.
+
+**Q4** Correct conclusion; tighten reasoning.  
+$$  
+\frac{(x-3)|x-3|}{x-3}=  
+\begin{cases}  
+x-3,& x>3\  
+-(x-3),& x<3  
+\end{cases}  
+=|x-3|\quad (x\ne3)  
+$$  
+$$  
+\lim_{x\to3}\frac{(x-3)|x-3|}{x-3}=0  
+$$  
+Plain: Both sides go to 0 at $x=3$; limit exists and equals 0.
+
+**Q5** Correct.  
+$$  
+\lim_{x\to0}\sin!\left(\frac{1}{x}\right)\ \text{does not exist}  
+$$  
+Plain: Outputs oscillate between $-1$ and $1$ infinitely often near $0$.
+
+---
+
+### Error log → minimal fixes
+
+- **Q2 side-limits**: For $x\to0^-$ use $x+1$; for $x\to0^+$ use $1-x$.
+    
+- **Q3 value vs limit**: $f(1)$ is the y-value of the filled dot, not the approach values.
+    
+- **Q1 notation**: Never write $f(x)=\lim_{x\to a}f(x)$; limits are numbers, not functions.
+    
+
+Say “continue” for Block 2 or “drill me on my mistakes.”
+
+Definitions
+
+- side-limit: Limit from one side, e.g., $x\to a^-$ or $x\to a^+$.
+    
+- removable discontinuity: Limit exists but the point is missing/different.
+    
+- jump discontinuity: Side-limits exist but are unequal.
+    
+- oscillatory DNE: Values keep changing without settling to one number.
 
 
 
