@@ -133,7 +133,7 @@ x = 1  \implies  x\geq 1  \\
 3  - 1  =2   
 \end{array}
 $$
-the limit is a jump discontinu
+the limit is a jump discontinuous because the value of the limit at f(1 )  =2 
 
 
 
