@@ -37,10 +37,13 @@ the two table with the limit approaching from the left for the first 2 column , 
 **V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
 Labels: left/right limits at $0$.  
 Check: Classify the discontinuity at $0$.
-$$
-\lim_{ x \to  0^+ }   2  - x      = 1.999999  = 2   
-\lim_{  x  \to   0^- }    x + 1   =   0.00001 
-$$
+
+| $x^-$ | f(x) | $x^+$ | f(x) |
+| ----- | ---- | ----- | ---- |
+| -0.1  | 0.9  | 0.1   | 0.9  |
+| -0.01 | 0.99 | 0.01  | 0.99 |
+|       |      |       |      |
+
 
 **Group B: Removable vs jump**  
 **V4 [PROC]** Sketch $y=\dfrac{x^2-4}{x-2}$ with a hole at $x=2$.  
