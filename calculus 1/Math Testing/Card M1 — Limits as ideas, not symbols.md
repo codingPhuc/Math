@@ -69,7 +69,7 @@ $$
 \lim_{x\to 0}\sin!\left(\frac{1}{x}\right)  
 $$
 If not, give the specific reason.  
-Ans: the limit does not exit, because the value of sin is represented in the unit circle and fluturated around -1 and 1. For any small changes in the value 0.0001 or 0.00002 can cause the output of the sin function to be completely different. As a result, the limit in the left and right could not fall into one singular value therefore the li ______
+Ans: the limit does not exit, because the value of sin is represented in the unit circle and fluturated around -1 and 1. For any small changes in the value 0.0001 or 0.00002 can cause the output of the sin function to be completely different. As a result, the limit in the left and right could not fall into one singular value therefore the limit at $x\xrightarrow{\text{}}0$ does not exit  ______
 
 HOLD SOLUTIONS. Say “reveal” for keys or “continue” for Block 2.
 
