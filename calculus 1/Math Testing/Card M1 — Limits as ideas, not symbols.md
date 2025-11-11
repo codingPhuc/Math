@@ -62,7 +62,7 @@ $$
 $$  
 Does the two-sided limit exist? If not, state why.  
 Ans: ______
-yes the limit does 
+yes the limit $e\xi $
 **Q5 [CON]**  
 Decide whether the limit exists:  
 $$  
