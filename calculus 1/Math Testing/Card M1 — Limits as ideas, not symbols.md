@@ -44,6 +44,10 @@ $$
 A graph has an open circle at $(1,3)$ on a left branch approaching $3$ as $x\to 1^-$. The right branch approaches $5$ as $x\to 1^+$. There is a solid dot at $(1,-1)$. Give $\lim_{x\to 1^-}f(x)$, $\lim_{x\to 1^+}f(x)$, $\lim_{x\to 1}f(x)$, and $f(1)$.  
 Ans: ______
 
+$$
+ \lim_{    \to \infty } 
+$$
+
 **Q4 [CASE]**  
 Evaluate and classify:  
 $$  
