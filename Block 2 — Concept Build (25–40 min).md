@@ -42,7 +42,7 @@ Check: Classify the discontinuity at $0$.
 | ----- | ---- | ----- | ---- |
 | -0.1  | 0.9  | 0.1   | 1.9  |
 | -0.01 | 0.99 | 0.01  | 1.99 |
-so the left hand 
+so the left hand limit equal to the right hand l
 
 
 **Group B: Removable vs jump**  
