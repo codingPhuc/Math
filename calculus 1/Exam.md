@@ -22,6 +22,10 @@ $$
 _Plain:_ Use the difference-quotient limit at $t=0$.
 
 $$
+f()
+$$
+
+$$
  s(t) =  
 $$
 
