@@ -79,7 +79,7 @@ $$
 \lim_{  x \to  3  }   = y=\dfrac{|x-3|(x-3)}{x-3}       
 $$
 this is a removable discontinuous, the hole is at (3, 4)
-  ![[IMG_1887 1.jpg]]
+
 **V9 [CON]** Draw a wildly oscillating wave near $x=0$ to represent $\sin(1/x)$.  
 Labels: dense hits at $y=\pm1$.  
 Check: State the DNE reason precisely.
