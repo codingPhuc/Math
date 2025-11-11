@@ -263,7 +263,7 @@ Example 2 (piecewise):
 $$  
 f(x)=  
 \left\{\begin{array}{l}  
-x+1,\ x<0\  
+x+1,\ x<0\\  
 1-x,\ x\ge0  
 \end{array}\right.  
 $$  
@@ -283,8 +283,8 @@ Speak answers out loud. I will drill deeper after each reply. Start:
 2. “For  
     $$  
     f(x)=  
-    \left{\begin{array}{l}  
-    x+1,\ x<0\  
+    \left\{\begin{array}{l}  
+    x+1,\ x<0\\  
     1-x,\ x\ge0  
     \end{array}\right.  
     $$  
