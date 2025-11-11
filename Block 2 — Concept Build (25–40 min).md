@@ -59,7 +59,9 @@ asymptotic  limit
 **V7 [PROC]** Sketch $y=\dfrac{(x-3)(x+1)}{x-3}$ with a hole at $x=3$.  
 Labels: hole coordinate, simplified form.  
 Check: $\lim_{x\to3} y=$ ? 
+$$
 
+$$
 
 
 
