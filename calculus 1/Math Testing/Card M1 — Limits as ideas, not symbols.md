@@ -185,5 +185,4 @@ Definitions
     
 - oscillatory DNE: Values keep changing without settling to one number.
 
-[[]]
 [[Block 2 — Concept Build (25–40 min)]]
