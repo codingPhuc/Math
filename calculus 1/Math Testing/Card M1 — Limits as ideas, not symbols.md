@@ -19,7 +19,7 @@ $$
  \lim_{x\to 2}  \frac{(x  - 2)(x+ 2)}{  x - 2 }   =   \lim_{x\to 2}  (x+ 2 )   =  2 +  2   = 4  
 \end{array}
 $$
-therefore the function $$
+therefore the function $f(x)$ have a removable disc
 **Q2 [PROC]**  
 $$ 
 
