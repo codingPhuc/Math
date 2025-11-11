@@ -38,11 +38,11 @@ the two table with the limit approaching from the left for the first 2 column , 
 Labels: left/right limits at $0$.  
 Check: Classify the discontinuity at $0$.
 
-| $x^-$ | f(x) | $x^+$ | f(x) |
-| ----- | ---- | ----- | ---- |
-| -0.1  | 0.9  | 0.1   | 0.9  |
-| -0.01 | 0.99 | 0.01  | 0.99 |
-|       |      |       |      |
+| $x^-$ | f(x) | $x^+$ | f(x)  |
+| ----- | ---- | ----- | ----- |
+| -0.1  | 0.9  | 0.1   | 1.999 |
+| -0.01 | 0.99 | 0.01  | 0.99  |
+|       |      |       |       |
 
 
 **Group B: Removable vs jump**  
