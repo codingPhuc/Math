@@ -38,7 +38,7 @@ v  =  \frac{9}{(t+3)^{1/3}}       \\ \\
 \ln v =   \ln  9   -  \frac{1}{3}\ln((t+3))     \\
 \frac{dv}{dx}\frac{1}{v}   =     -  \frac{1}{3(t+3)}    \\
 \frac{dv}{dx}    =   \frac{9}{(t+3)^{1/3}}  \left[  -  \frac{1}{3(t+3)}  \right]  \\
-v(t )   =  u' - \frac{v}' \\
+v(t )   =  u' - \fr
 v(t)  =   \frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}  \left[  \frac{2t}{t^2+ 1 } + 3   -  \frac{1}{2(t+ 2 )}  \right]   -  \frac{9}{(t+3)^{1/3}}  \left[  -  \frac{1}{3(t+3)}  \right] 
 \end{array}
 $$  
