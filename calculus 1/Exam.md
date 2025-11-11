@@ -36,7 +36,7 @@ v  =  \frac{9}{(t+3)^{1/3}}       \\ \\
 \ln  v  =   \ln \left( \frac{9}{(t+3)^{1/3}}      \right)  \\
 \ln v =   \ln  9   -  \ln((t+3)^{1/3})    \\
 \ln v =   \ln  9   -  \frac{1}{3}\ln((t+3))     \\
-\frac{1}{v} 
+\frac{dv}{dx}\frac{1}{v}   =  
 \end{array}
 $$  
 (a) Compute $v(0)$ using only $v(0)=\displaystyle\lim_{h\to0}\frac{s(h)-s(0)}{h}$.  
