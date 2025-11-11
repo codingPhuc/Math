@@ -53,6 +53,8 @@ the two sided limit does not exit because the right hand  limit does not equal t
 Labels: $\pm\infty$ behavior.  
 Check: Limit type here?
 
+
+
 **Group C: Rational cancellation**  
 **V7 [PROC]** Sketch $y=\dfrac{(x-3)(x+1)}{x-3}$ with a hole at $x=3$.  
 Labels: hole coordinate, simplified form.  
