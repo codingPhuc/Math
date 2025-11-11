@@ -16,8 +16,8 @@ Ans: ______
 
 **Q2 [PROC]**  
 $$  
-f(x)=\begin{array} {l}
-x+1,& x<0\  
+f(x)=\begin{array} {l} \{
+x+1,& x<0\\
 1-x,& x\ge 0  
 \end{array}  
 $$  
