@@ -284,3 +284,7 @@ _(Continues on later pages.)_
 $$
 5(t+3)^\left( \frac{2}{5} \right)
 $$
+
+
+
+c
