@@ -84,4 +84,84 @@ limit $\lim_{x\to a}f(x)$: the value $f(x)$ approaches as $x$ gets arbitrarily c
 one-sided limit: approach from left $x\to a^-$ or right $x\to a^+$.  
 removable discontinuity: limit exists at $a$ but $f(a)$ is missing/different.  
 jump discontinuity: left and right limits exist but are unequal.  
-oscillation DNE: no single value due to endless back-and-forth near $a$.
+oscillation DNE: no single value due to endless back-and-forth near $a$. 
+
+
+
+
+# Block 2 — Concept Build (25–35 min)
+
+Sections: Stewart 9e §2.2 (limits from tables/graphs), §2.3 (limit laws), §2.4 (precise definition, optional).
+
+## Visual (quick sketches + labels)
+
+Make fast pencil sketches. Add the exact labels.
+
+1. **Corner at 0 (piecewise):**  
+    $$  
+    f(x)=  
+    \left{\begin{array}{l}  
+    x+1,& x<0\  
+    1-x,& x\ge 0  
+    \end{array}\right.  
+    $$  
+    Label: $x=0$, the left approach value, the right approach value, decision for $\lim_{x\to 0}f(x)$, and $f(0)$.  
+    Check: equal one-sided limits?
+    
+2. **Removable “hole”:** Sketch $y=\dfrac{x^2-4}{x-2}$ with an open circle at $x=2$. Mark the hole and label the limiting value.  
+    Check: what single $L$ do nearby $y$’s approach?
+    
+3. **Jump:** Sketch step $g(x)=\left{\begin{array}{l}2,&x<1\5,&x\ge 1\end{array}\right.$. Put an open circle and a filled dot at $x=1$ correctly.  
+    Label: $\lim_{x\to1^-}g(x)$, $\lim_{x\to1^+}g(x)$, “DNE two-sided.”
+    
+4. **Rational cancel:** Sketch $h(x)=\dfrac{(x-3)(x+1)}{x-3}$ with hole at $x=3$; label the line $y=x+1$ and $h(3)$ undefined.  
+    Check: $\lim_{x\to3}h(x)=?$ from the line.
+    
+5. **Oscillation (contrast only):** Tiny-window sketch of $y=\sin(1/x)$ near $x=0$. Shade the band $[-1,1]$.  
+    Label: “oscillatory DNE.”
+    
+
+## Audio (60–90 s script to read)
+
+“Limits capture approach, not plug-in. From §2.2, I check left and right values near $a$. If they match, the two-sided limit exists. Removable means the limit exists but the point is missing or different; a jump means the side limits are different. In §2.3, I simplify algebraically using factoring and cancellation **without** substituting at the hole. For example, $\dfrac{x^2-4}{x-2}$ becomes $x+2$ for $x\ne2$, so the limit at $2$ is $4$. If a graph shows different left/right plateaus, like $2$ and $5$, then $\lim_{x\to a}f(x)$ does not exist. If needed, §2.4 gives the precise $\varepsilon$–$\delta$ form: values of $f(x)$ get within any $\varepsilon$ of $L$ once $x$ is within some $\delta$ of $a$.”
+
+## Oral “teacher mode” (you speak; I probe)
+
+Instructions: Answer aloud in ≤20 s per question. Type “next” for the next probe or answer inline; I will escalate.
+
+Q1. In one sentence, what does $\lim_{x\to a}f(x)=L$ mean _without_ plugging in?  
+Q2. For $f(x)=\dfrac{x^2-4}{x-2}$, why is it valid to use $x+2$ to find the limit at $x=2$?  
+Q3. Give a concrete example where $\lim_{x\to a}f(x)$ exists but $f(a)$ is different. Name the discontinuity.  
+Q4. How do you decide DNE at a corner vs a jump? What evidence do you need?  
+Q5. State the $\varepsilon$–$\delta$ definition informally, then give $\delta$ in terms of $\varepsilon$ for the function $f(x)=2x$ at $a=3$ as far as you can.  
+Q6. What mistake did you make in Q2 earlier, and what’s your new rule?
+
+## Kinesthetic (hands-on at desk)
+
+1. **Card-sort:** On slips, write seven labels: “left limit,” “right limit,” “two-sided limit,” “removable,” “jump,” “oscillatory DNE,” “infinite DNE.” Under each, place one example (formula or sketch).
+    
+2. **Table-to-limit drill (TI-84):** Use `TABLE SET` to sample $x$ around $a$ with $\Delta x=0.1$, then $0.01$. For $y_1=(x^2-4)/(x-2)$ near $2$ and $y_2=(x-3)|x-3|/(x-3)$ near $3$, record approach values and decide the limit.
+    
+3. **Explain to a rubber duck:** Read your 60–90 s script to any object; if you stumble, rewrite the sentence.
+    
+
+## Plain-language anchors
+
+- “A limit is the value nearby $x=a$, not necessarily at $a$.”
+    
+- “Equal side limits ⇒ two-sided limit exists; unequal ⇒ DNE.”
+    
+- “Factor, cancel, then take the limit; never divide by zero.”
+    
+
+Say **continue** for Block 3 — Worked Examples, or **reveal-probe** to have me start questioning you from Q1 now.
+
+**Definitions**
+
+- two-sided limit: exists when $\lim_{x\to a^-}f(x)=\lim_{x\to a^+}f(x)=L$.
+    
+- removable discontinuity: limit exists at $a$ but $f(a)$ is missing/different.
+    
+- jump discontinuity: side limits exist and are unequal.
+    
+- oscillatory DNE: outputs swing among values infinitely often near $a$.
