@@ -25,6 +25,10 @@ Check: Does $\lim_{x\to0}f(x)$ exist?
 Labels: numeric side-limits.  
 Check: Explain the match/mismatch between table and graph.
 
+|     |     |
+| --- | --- |
+|     |     |
+
 
 **V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
 Labels: left/right limits at $0$.  
