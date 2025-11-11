@@ -16,7 +16,7 @@ Ans: ______
 $$
 \begin{array}{l} \\
  f(x)  = \frac{x^2  - 4}{x- 2 }    \\
- \frac{(x  - 2)(x+ 2)}{}
+ \frac{(x  - 2)(x+ 2)}{  x - 2 }   =    (x+)
 \end{array}
 
 $$
