@@ -48,7 +48,7 @@ the two table with the limit approaching from the left for the first 2 column , 
 **V4 [PROC]** Sketch $y=\dfrac{x^2-4}{x-2}$ with a hole at $x=2$.  
 Labels: factorization line “$(x-2)(x+2)/(x-2)$,” the hole $(2,4)$, and the extension $f(2)=4$.  
 Check: Type of discontinuity? New value to make it continuous?
-this is a removable discontinuity, because the function is valid at x = 2 when fully factor out 
+this is a removable discontinuity, because the function is valid at f(x) = 2 when fully factor out 
 **V5 [CASE]** Draw a step jump at $x=1$ with left height $3$ and right height $5$. Put a solid dot at $(1,-1)$.  this is easy ignore, next time add in a function 
 Labels: $\lim_{x\to1^-}$, $\lim_{x\to1^+}$, $f(1)$.  
 Check: Does the two-sided limit exist? Why?
