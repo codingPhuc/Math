@@ -13,7 +13,9 @@ From the table for $f(x)=\frac{x^2-4}{x-2}$ near $x=2$:
 
 Find $\lim_{x\to 2} f(x)$ and classify the discontinuity at $x=2$ (removable/jump/none).  
 Ans: ______
-
+$$
+ f(x )
+$$
 **Q2 [PROC]**  
 $$ 
 
