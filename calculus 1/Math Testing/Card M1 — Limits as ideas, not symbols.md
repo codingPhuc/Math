@@ -62,7 +62,7 @@ $$
 $$  
 Does the two-sided limit exist? If not, state why.  
 Ans: ______
-yes the limit does exit because left handed limit 
+yes the limit does exit because left handed limit equal to right handed  limit at  x =  0 
 **Q5 [CON]**  
 Decide whether the limit exists:  
 $$  
