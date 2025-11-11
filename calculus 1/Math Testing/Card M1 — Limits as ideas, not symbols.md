@@ -16,7 +16,7 @@ Ans: ______
 
 **Q2 [PROC]**  
 $$  
-lr
+\left\{  \right.
 
 f(x)= \{\begin{array} {l}  
 x+1,& x<0\\
@@ -59,4 +59,4 @@ limit $\lim_{x\to a}f(x)$: the value $f(x)$ approaches as $x$ gets arbitrarily c
 one-sided limit: approach from left $x\to a^-$ or right $x\to a^+$.  
 removable discontinuity: limit exists at $a$ but $f(a)$ is missing/different.  
 jump discontinuity: left and right limits exist but are unequal.  
-oscillation DNE: no single value due to endless back-and-forth near $a$.
+oscillation DNE: no single value due to endless back-and-forth near $a$
