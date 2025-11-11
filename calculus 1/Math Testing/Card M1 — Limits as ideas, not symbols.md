@@ -16,10 +16,10 @@ Ans: ______
 
 **Q2 [PROC]**  
 $$  
-f(x)=\begin{array}  
+f(x)=\begin{array} {l}
 x+1,& x<0\  
 1-x,& x\ge 0  
-\end{cases}  
+\end{array}  
 $$  
 Find $\lim_{x\to 0^-}f(x)$, $\lim_{x\to 0^+}f(x)$, and $\lim_{x\to 0}f(x)$.  
 Ans: ______
