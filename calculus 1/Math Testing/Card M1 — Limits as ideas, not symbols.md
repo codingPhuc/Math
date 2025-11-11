@@ -28,7 +28,7 @@ Find $\lim_{x\to 0^-}f(x)$, $\lim_{x\to 0^+}f(x)$, and $\lim_{x\to 0}f(x)$.
 Ans: ______
 $$
 \begin{array}{l}  \\
-\lim_{  x \to  0^[-] }    \\
+\lim_{  x \to  0^[-] }     =    \\
 \end{array}
 $$
 **Q3 [CON]**  
