@@ -83,7 +83,7 @@ this is a removable discontinuous, the hole is at (3, 4)
 **V9 [CON]** Draw a wildly oscillating wave near $x=0$ to represent $\sin(1/x)$.  
 Labels: dense hits at $y=\pm1$.  
 Check: State the DNE reason precisely.
-  ![[IMG_1887 1.jpg]] because limit for the function $\sin\left( \frac{1}{x} \right)$ have an oscillation between the value of $-1$ and $1$ as x apporac
+  ![[IMG_1887 1.jpg]] because limit for the function $\sin\left( \frac{1}{x} \right)$ have an oscillation between the value of $-1$ and $1$ as x approaches 0 
 Refs: §2.2 tables/graphs; §2.3 algebraic limits; §2.4 precise definitions.
 
 ---
