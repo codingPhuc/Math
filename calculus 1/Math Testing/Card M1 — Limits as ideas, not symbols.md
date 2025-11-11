@@ -15,7 +15,7 @@ Find $\lim_{x\to 2} f(x)$ and classify the discontinuity at $x=2$ (removable/jum
 Ans: ______
 $$
 \begin{array}{l} \\
- f(x)  = \frac{x^2  - 4}{x- 2 }    =  \frac{ 2^2  -4}{ 2  -2 }  =  00  \\
+ f(x)  = \frac{x^2  - 4}{x- 2 }    =  \frac{ 2^2  -4}{ 2  -2 }  =  \frac{0}{0} \implies   \\
  \frac{(x  - 2)(x+ 2)}{  x - 2 }   =    (x+ 2 )   =  2 +  2   = 4 
 \end{array}
 
