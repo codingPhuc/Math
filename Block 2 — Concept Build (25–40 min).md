@@ -374,3 +374,6 @@ removable discontinuity: Hole; the limit exists but $f(a)$ is missing/different.
 jump discontinuity: Side-limits exist but are unequal.  
 oscillation DNE: Outputs vary without settling to one value near $a$.  
 infinite limit: Values grow without bound near $a$; no finite limit.
+
+
+## Third 
