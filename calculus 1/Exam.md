@@ -21,6 +21,11 @@ $$
 (a) Compute $v(0)$ using only $v(0)=\displaystyle\lim_{h\to0}\frac{s(h)-s(0)}{h}$.  
 _Plain:_ Use the difference-quotient limit at $t=0$.
 
+$$
+
+$$
+
+
 (b) Then find $v(t)$ and $a(t)$ in closed form.  
 _Plain:_ Differentiate once for velocity, twice for acceleration, respecting the domain.
 
