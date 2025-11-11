@@ -376,4 +376,33 @@ oscillation DNE: Outputs vary without settling to one value near $a$.
 infinite limit: Values grow without bound near $a$; no finite limit.
 
 
-## Third 
+## Third Error 
+Yes. You can cancel a factor only for values where it isn’t zero. For limits, that’s fine because we only use $x$ near $a$, not at $a$.
+
+$$  
+\frac{(x-a),g(x)}{x-a}=g(x)\quad\text{for }x\ne a  
+$$  
+Plain: Cancel since $x-a\ne0$ away from $a$.
+
+So define $f(x)=\frac{(x-a)g(x)}{x-a}$ for $x\ne a$ (undefined at $a$). Then  
+$$  
+\lim_{x\to a}f(x)=\lim_{x\to a}g(x)\ \text{ if that limit exists.}  
+$$  
+Plain: Limits ignore a single missing point.
+
+**Example**  
+$$  
+\frac{(x-3)(x+2)}{x-3}=x+2\quad(x\ne3),\qquad  
+\lim_{x\to3}\frac{(x-3)(x+2)}{x-3}=5  
+$$  
+Plain: After canceling, approach $x=3$ in $x+2$ to get $5$. The original has a hole at $(3,5)$; define $f(3)=5$ to make it continuous.
+
+**Common mistake**  
+Do not write $f(a)$ before canceling; division by zero is invalid at $x=a$. Cancel first (stating $x\ne a$), then take the limit.
+
+### Definitions
+
+cancellation rule: You may cancel a factor only where it’s nonzero.  
+punctured neighborhood: All $x$ near $a$ but $x\ne a$.  
+removable discontinuity: A hole; limit exists but the function is undefined or mismatched at the point.  
+domain restriction: The original expression is undefined at zeros of the canceled factor.
