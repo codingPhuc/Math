@@ -282,5 +282,5 @@ _(Continues on later pages.)_
 
 
 $$
-
+\frac{5}{\frac{(t+3)^2}{5}}
 $$
