@@ -33,7 +33,8 @@ $$
 
 $$
 \begin{array}{l} \\
-v(t ) =     \frac{\frac{((t +  h)^2 )e^{3(t+h) }}{ (t+h+2)^{1/2}}     -  \frac{9}{(t +h + 3)^{1/3}}  - \frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}+\frac{9}{(t+3)^{1/3}}  }{h}  
+v(t ) =  \lim_{ x  \to   }    \frac{\frac{((t +  h)^2 )e^{3(t+h) }}{ (t+h+2)^{1/2}}     -  \frac{9}{(t +h + 3)^{1/3}}  - \frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}+\frac{9}{(t+3)^{1/3}}  }{h}   \\
+
 \end{array}
 
 
@@ -252,4 +253,4 @@ _(Continues on later pages.)_
     
 - **linearization:** Tangent-line approximation $L(x)=f(a)+f'(a)(x-a)$ near $x=a$.
     
-- **MVT:** If $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$, then some $c\in(a,b)$ has $f'(c)=\dfrac{f(b)-f(a)}{b-a}$.
+- **MVT:** If $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$, then some $c\in(a,b)$ has $f'(c)=\dfrac
