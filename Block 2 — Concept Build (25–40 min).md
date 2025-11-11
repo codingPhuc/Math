@@ -42,8 +42,6 @@ Check: Classify the discontinuity at $0$.
 | ----- | ---- | ----- | ---- |
 | -0.1  | 0.9  | 0.1   | 1.9  |
 | -0.01 | 0.99 | 0.01  | 1.99 |
-so the left hand limit equal to the right hand l
-
 
 **Group B: Removable vs jump**  
 **V4 [PROC]** Sketch $y=\dfrac{x^2-4}{x-2}$ with a hole at $x=2$.  
