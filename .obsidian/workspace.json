@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-08-28.md",
+                "file": "calculus 1/Math Testing/Card M1 — Limits as ideas, not symbols.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-28"
+              "title": "Backlinks for Card M1 — Limits as ideas, not symbols"
             }
           },
           {
@@ -212,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
