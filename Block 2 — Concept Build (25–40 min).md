@@ -25,7 +25,7 @@ Check: Does $\lim_{x\to0}f(x)$ exist?
 Labels: numeric side-limits.  
 Check: Explain the match/mismatch between table and graph.
 
-| x        | f(x)      | $x^+$ | f(x) |
+| $x^-$    | f(x)      | $x^+$ | f(x) |
 | -------- | --------- | ----- | ---- |
 | -0.99999 | 0.00001   |       |      |
 | .000001  | 0 .999999 |       |      |
