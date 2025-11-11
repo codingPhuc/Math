@@ -25,10 +25,10 @@ Check: Does $\lim_{x\to0}f(x)$ exist?
 Labels: numeric side-limits.  
 Check: Explain the match/mismatch between table and graph.
 
-| $x^-$   | f(x)      | $x^+$ | f(x) |
-| ------- | --------- | ----- | ---- |
-| -0.01   | 0.00001   |       |      |
-| .000001 | 0 .999999 |       |      |
+| $x^-$ | f(x)      | $x^+$ | f(x) |
+| ----- | --------- | ----- | ---- |
+| -0.1  | 0.00001   | 0.1   |      |
+| -0.01 | 0 .999999 | 0.00  |      |
 the limit approaching the value on the right equal to  1 while the limit approaching from the left equal to 0.  so the two limit doesn't match so we concluded that the limit does not exit 
 **V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
 Labels: left/right limits at $0$.  
