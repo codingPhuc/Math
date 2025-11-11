@@ -19,7 +19,8 @@ $$
 \begin{array}{l} \\
 s(t)=\frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}-\frac{9}{(t+3)^{1/3}}  ,\qquad t>-2.     \\
 s(t)= \frac{(t^2+1)(t+3)^{1/3}e^{3t}  - 9(t+2)^{1/2}}{(t+3)^{1/3}(t+2)^{1/2}}  \\
-\ln (s(t) )  = \ln ((t^2+1)(t+3)^{1/3}e^{3t}  - 9(t+2)^{1/2})  -  \frac{15}{2}\ln((t+3)(t+2))
+\ln (s(t) )  = \ln ((t^2+1)(t+3)^{1/3}e^{3t}  - 9(t+2)^{1/2})  -  \frac{15}{2}\ln((t+3)(t+2))  \\
+
 \end{array}
 $$  
 (a) Compute $v(0)$ using only $v(0)=\displaystyle\lim_{h\to0}\frac{s(h)-s(0)}{h}$.  
