@@ -29,7 +29,7 @@ Check: Explain the match/mismatch between table and graph.
 | -------- | -------- |
 | -0.99999 | 0.00001  |
 | 1.000001 | 0 .00001 |
-the limit approaching the value on 
+the limit approaching the value on the right equal the limit approaching the value on the left. 
 
 **V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
 Labels: left/right limits at $0$.  
