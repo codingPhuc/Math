@@ -187,7 +187,7 @@ oscillation DNE: Outputs vary without settling to one value near $a$.
 
 # Error note 
 
-# First Er
+# First Error 
 Score 6/10. Not yet passing (target ≥8). Biggest issue: mis-reading side-limits from tables and sloppy labeling.
 
 Targeted hint — Tables→Limits: For $x\to a^-$ plug values like $a-10^{-k}$ into the **left-hand** formula; for $x\to a^+$ use $a+10^{-k}$ in the **right-hand** formula. Do not subtract “almost-$a$” from $1$ unless that’s the given formula.
@@ -260,3 +260,48 @@ one-sided limit: approach from $x\to a^-$ or $x\to a^+$.
 removable discontinuity: hole; define $f(a)=\lim_{x\to a}f(x)$ to fix.  
 jump discontinuity: side-limits exist but differ.  
 infinite limit: values grow unbounded; no finite limit.
+
+
+# Second Error 
+Score 6/10. Not yet passing (target ≥8). Primary issue: side-limit evaluation on piecewise; value vs limit at a point.
+
+Hint [PROC]: For piecewise, compute $\lim_{x\to a^-}$ by substituting into the left branch formula and $\lim_{x\to a^+}$ into the right branch formula. Do not estimate with near-numbers.
+
+## Per-question notes
+
+**Q1 — Correct.**  
+$$\lim_{x\to2}\frac{x^2-4}{x-2}=4$$  
+Removable discontinuity at $x=2$. Note: don’t write $f(x)=\lim_{x\to a}f(x)$.
+
+**Q2 — Incorrect.**  
+Left: $\lim_{x\to0^-}(x+1)=1$. Right: $\lim_{x\to0^+}(1-x)=1$. Two-sided limit $=1$.
+
+**Q3 — Partially correct.**  
+$\lim_{x\to1^-}f=3$, $\lim_{x\to1^+}f=5$, so $\lim_{x\to1}f$ DNE. But $f(1)=-1$ (solid dot), not $3$.
+
+**Q4 — Partially correct.**  
+Limit exists and equals $0$, but cite $x=3$, not $0$:  
+$$\frac{(x-3)|x-3|}{x-3}=|x-3|\ (x\ne3)\ \Rightarrow\ \lim_{x\to3} = 0.$$
+
+**Q5 — Correct.**  
+$$\lim_{x\to0}\sin!\big(\tfrac1x\big)\ \text{does not exist}$$  
+Reason: oscillation between $-1$ and $1$ gives no single approach value.
+
+## Fix-it mini-drill (do now)
+
+1. $\displaystyle \lim_{x\to0^-}(2x+3)$, $\lim_{x\to0^+}(1-4x)$, $\lim_{x\to0}f$ for $f(x)={2x+3,\ x<0;\ 1-4x,\ x\ge0}$.
+    
+2. Classify $x=1$ for $g(x)={x^2,\ x<1;\ 3-x,\ x\ge1}$.
+    
+3. Evaluate $\lim_{x\to3}\dfrac{(x-3)(x+2)}{x-3}$.
+    
+
+**Progress log** — Block 2 answers | 2025-11-11 11:00 PT | Score: 6/10 | Mistakes: piecewise side-limits; $f(a)$ vs limit; point reference | Recurrence: side-limits recurring | Trend: ↗ improving.
+
+### Definitions
+
+side-limit: Limit from one side, $x\to a^-$ or $x\to a^+$.  
+removable discontinuity: Hole; the limit exists but $f(a)$ is missing/different.  
+jump discontinuity: Side-limits exist but are unequal.  
+oscillation DNE: Outputs vary without settling to one value near $a$.  
+infinite limit: Values grow without bound near $a$; no finite limit.
