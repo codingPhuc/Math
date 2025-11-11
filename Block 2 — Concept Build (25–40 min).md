@@ -405,4 +405,51 @@ Do not write $f(a)$ before canceling; division by zero is invalid at $x=a$. Canc
 cancellation rule: You may cancel a factor only where it’s nonzero.  
 punctured neighborhood: All $x$ near $a$ but $x\ne a$.  
 removable discontinuity: A hole; limit exists but the function is undefined or mismatched at the point.  
-domain restriction: The original expression is undefined at zeros of the canceled factor.
+domain restriction: The original expression is undefined at zeros of the canceled factor. 
+
+
+No. You may **only** cancel a factor at values where it’s **nonzero**. For limits, that’s fine because we work with $x$ **near** $a$ (a punctured neighborhood), not at $x=a$.
+
+**Rule**  
+$$  
+\frac{(x-a),g(x)}{x-a}=g(x)\quad\text{for }x\ne a  
+$$  
+Plain: Cancel since $x-a\neq 0$; we never cancel _at_ $x=a$.
+
+**Proper limit workflow**
+
+1. Factor and **state the restriction** $x\ne a$.
+    
+2. Cancel the nonzero factor.
+    
+3. Take the limit of the simplified expression.
+    
+
+**Good example (removable hole)**  
+$$  
+\lim_{x\to3}\frac{x^2-9}{x-3}  
+=\lim_{x\to3}\frac{(x-3)(x+3)}{x-3}  
+=\lim_{x\to3}(x+3)=6  
+$$  
+Plain: We canceled only for $x\ne3$, then evaluated the simpler form.
+
+**Counterexample (cannot “just cancel”)**  
+$$  
+\lim_{x\to0}\frac{|x|}{x}  
+$$  
+Plain: $|x|/x=1$ for $x>0$ and $-1$ for $x<0$; side limits differ, so the limit DNE. You cannot treat $|x|$ as $x$ and cancel across $x=0$.
+
+**Common mistake to avoid**  
+$$  
+f(a)\ \text{is undefined in } \frac{(x-a)g(x)}{x-a}\ \text{at }x=a,  
+$$  
+Plain: Division by zero blocks evaluation at $a$. We simplify **away from** $a$ and then take the limit.
+
+---
+
+### Definitions
+
+punctured neighborhood: All $x$ near $a$ with $x\ne a$.  
+removable discontinuity: A hole; limit exists though $f(a)$ is missing/mismatched.  
+jump discontinuity: Left and right limits exist but are unequal.  
+cancellation rule: Cancel a factor only where that factor $\ne 0$.
