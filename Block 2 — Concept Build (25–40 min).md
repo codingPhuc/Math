@@ -30,6 +30,8 @@ Check: Explain the match/mismatch between table and graph.
 | -0.1  | 0.9  | 0.1   | 0.9  |
 | -0.01 | 0.99 | 0.01  | 0.99 |
 |       |      |       |      |
+the mismatch between the graph and the
+
 
 **V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
 Labels: left/right limits at $0$.  
