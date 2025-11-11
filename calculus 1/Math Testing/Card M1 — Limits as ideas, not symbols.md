@@ -187,80 +187,156 @@ Definitions
 
 
 
+# Block 2 — Concept Build (25–40 min)
 
-# Block 2 — Concept Build (25–35 min)
+Focus: one-sided vs two-sided limits, removable vs jump, and algebraic cancellation. Stewart 9e §§2.2–2.4. TI-84 allowed.
 
-Sections: Stewart 9e §2.2 (limits from tables/graphs), §2.3 (limit laws), §2.4 (precise definition, optional).
+---
 
-## Visual (quick sketches + labels)
+## Visual (draw/label/map) — 9 minis
 
-Make fast pencil sketches. Add the exact labels.
+Do each sketch in ~60–90 s. Add the listed labels. Answer the “Check.”  
+— **HOLD SOLUTIONS** —
 
-1. **Corner at 0 (piecewise):**  
+**Group A: Piecewise corners (one-sided limits)**  
+**V1 [PROC]** Sketch the graph of  
+$$  
+f(x)=  
+\left{\begin{array}{l}  
+x+1,& x<0\  
+1-x,& x\ge 0  
+\end{array}\right.  
+$$  
+Labels: open/closed circles at $x=0$, $f(0)$, $x\to0^-$ value, $x\to0^+$ value.  
+Check: Does $\lim_{x\to0}f(x)$ exist?
+
+**V2 [DATA]** Make a two-column table for V1 near $x=0$ with $x=-0.1,-0.01$ and $x=0.01,0.1$.  
+Labels: numeric side-limits.  
+Check: Explain the match/mismatch between table and graph.
+
+**V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
+Labels: left/right limits at $0$.  
+Check: Classify the discontinuity at $0$.
+
+**Group B: Removable vs jump**  
+**V4 [PROC]** Sketch $y=\dfrac{x^2-4}{x-2}$ with a hole at $x=2$.  
+Labels: factorization line “$(x-2)(x+2)/(x-2)$,” the hole $(2,4)$, and the extension $f(2)=4$.  
+Check: Type of discontinuity? New value to make it continuous?
+
+**V5 [CASE]** Draw a step jump at $x=1$ with left height $3$ and right height $5$. Put a solid dot at $(1,-1)$.  
+Labels: $\lim_{x\to1^-}$, $\lim_{x\to1^+}$, $f(1)$.  
+Check: Does the two-sided limit exist? Why?
+
+**V6 [ARG]** On the same axes, sketch a function that blows up like $1/(x-2)^2$ at $x=2$.  
+Labels: $\pm\infty$ behavior.  
+Check: Limit type here?
+
+**Group C: Rational cancellation**  
+**V7 [PROC]** Sketch $y=\dfrac{(x-3)(x+1)}{x-3}$ with a hole at $x=3$.  
+Labels: hole coordinate, simplified form.  
+Check: $\lim_{x\to3} y=$ ?
+
+**V8 [APP]** Sketch $y=\dfrac{|x-3|(x-3)}{x-3}$ for $x\ne3$.  
+Labels: express as $|x-3|$.  
+Check: $\lim_{x\to3} y=$ ?
+
+**V9 [CON]** Draw a wildly oscillating wave near $x=0$ to represent $\sin(1/x)$.  
+Labels: dense hits at $y=\pm1$.  
+Check: State the DNE reason precisely.
+
+Refs: §2.2 tables/graphs; §2.3 algebraic limits; §2.4 precise definitions.
+
+---
+
+## Audio (60–90 s speak-aloud script)
+
+Read verbatim:
+
+“Today I’m deciding when a limit exists. A limit is the number $L$ that $f(x)$ approaches as $x$ gets close to $a$ from both sides. I check left and right: if they match, the two-sided limit exists. A hole means a **removable** discontinuity; different side heights mean a **jump**; blow-up or endless oscillation means **DNE**.
+
+Example 1: $f(x)=\dfrac{x^2-4}{x-2}$.  
+$$  
+\lim_{x\to2}f(x)=\lim_{x\to2}\frac{(x-2)(x+2)}{x-2}=\lim_{x\to2}(x+2)=4  
+$$  
+Plain: values crowd around $4$; define $f(2)=4$ to remove the hole.
+
+Example 2 (piecewise):  
+$$  
+f(x)=  
+\left{\begin{array}{l}  
+x+1,\ x<0\  
+1-x,\ x\ge0  
+\end{array}\right.  
+$$  
+Left at $0$ is $1$, right at $0$ is $1$, so $\lim_{x\to0}f(x)=1$ even if $f(0)$ were different.
+
+Example 3: $\sin(1/x)$ near $0$ has no single approach value because it keeps hitting numbers between $-1$ and $1$. So the limit DNE by oscillation.”
+
+---
+
+## Oral (“teacher mode”)
+
+Speak answers out loud. I will drill deeper after each reply. Start:
+
+1. “In one sentence, what does $\lim_{x\to a}f(x)=L$ assert?”  
+    Follow-up if vague: “Does it claim anything about $f(a)$? Be explicit.”
+    
+2. “For  
     $$  
     f(x)=  
     \left{\begin{array}{l}  
-    x+1,& x<0\  
-    1-x,& x\ge 0  
+    x+1,\ x<0\  
+    1-x,\ x\ge0  
     \end{array}\right.  
     $$  
-    Label: $x=0$, the left approach value, the right approach value, decision for $\lim_{x\to 0}f(x)$, and $f(0)$.  
-    Check: equal one-sided limits?
+    give $\lim_{x\to0^-}f(x)$ and $\lim_{x\to0^+}f(x)$, and justify which formula you used.”  
+    Follow-up: “State the two-sided limit and the discontinuity type, if any.”
     
-2. **Removable “hole”:** Sketch $y=\dfrac{x^2-4}{x-2}$ with an open circle at $x=2$. Mark the hole and label the limiting value.  
-    Check: what single $L$ do nearby $y$’s approach?
+3. “Name three distinct DNE patterns and give a one-line example of each.”
     
-3. **Jump:** Sketch step $g(x)=\left{\begin{array}{l}2,&x<1\5,&x\ge 1\end{array}\right.$. Put an open circle and a filled dot at $x=1$ correctly.  
-    Label: $\lim_{x\to1^-}g(x)$, $\lim_{x\to1^+}g(x)$, “DNE two-sided.”
-    
-4. **Rational cancel:** Sketch $h(x)=\dfrac{(x-3)(x+1)}{x-3}$ with hole at $x=3$; label the line $y=x+1$ and $h(3)$ undefined.  
-    Check: $\lim_{x\to3}h(x)=?$ from the line.
-    
-5. **Oscillation (contrast only):** Tiny-window sketch of $y=\sin(1/x)$ near $x=0$. Shade the band $[-1,1]$.  
-    Label: “oscillatory DNE.”
+4. “Why can a graph have $f(a)\ne L$ even when $\lim_{x\to a}f(x)=L$? Provide a numeric table that shows this.”
     
 
-## Audio (60–90 s script to read)
+**Rating rubric (0–2 each):** Accuracy, Clarity, Justification, Vocabulary. I’ll score on request.
 
-“Limits capture approach, not plug-in. From §2.2, I check left and right values near $a$. If they match, the two-sided limit exists. Removable means the limit exists but the point is missing or different; a jump means the side limits are different. In §2.3, I simplify algebraically using factoring and cancellation **without** substituting at the hole. For example, $\dfrac{x^2-4}{x-2}$ becomes $x+2$ for $x\ne2$, so the limit at $2$ is $4$. If a graph shows different left/right plateaus, like $2$ and $5$, then $\lim_{x\to a}f(x)$ does not exist. If needed, §2.4 gives the precise $\varepsilon$–$\delta$ form: values of $f(x)$ get within any $\varepsilon$ of $L$ once $x$ is within some $\delta$ of $a$.”
+---
 
-## Oral “teacher mode” (you speak; I probe)
+## Kinesthetic (hands-on)
 
-Instructions: Answer aloud in ≤20 s per question. Type “next” for the next probe or answer inline; I will escalate.
-
-Q1. In one sentence, what does $\lim_{x\to a}f(x)=L$ mean _without_ plugging in?  
-Q2. For $f(x)=\dfrac{x^2-4}{x-2}$, why is it valid to use $x+2$ to find the limit at $x=2$?  
-Q3. Give a concrete example where $\lim_{x\to a}f(x)$ exists but $f(a)$ is different. Name the discontinuity.  
-Q4. How do you decide DNE at a corner vs a jump? What evidence do you need?  
-Q5. State the $\varepsilon$–$\delta$ definition informally, then give $\delta$ in terms of $\varepsilon$ for the function $f(x)=2x$ at $a=3$ as far as you can.  
-Q6. What mistake did you make in Q2 earlier, and what’s your new rule?
-
-## Kinesthetic (hands-on at desk)
-
-1. **Card-sort:** On slips, write seven labels: “left limit,” “right limit,” “two-sided limit,” “removable,” “jump,” “oscillatory DNE,” “infinite DNE.” Under each, place one example (formula or sketch).
+1. **Card-sort, 12 cards**  
+    Make three piles: _Removable_, _Jump_, _Other DNE_. On each card write: a sketch cue, a minimal formula, and a 6–10 word reason. Sort, then explain each pile in 30 s.
     
-2. **Table-to-limit drill (TI-84):** Use `TABLE SET` to sample $x$ around $a$ with $\Delta x=0.1$, then $0.01$. For $y_1=(x^2-4)/(x-2)$ near $2$ and $y_2=(x-3)|x-3|/(x-3)$ near $3$, record approach values and decide the limit.
+2. **TI-84 micro-tables**  
+    For $f(x)=\dfrac{x^2-4}{x-2}$, build a table around $x=2$ with increments $0.1, 0.01, 0.001$. Record the approach value. Repeat for $g(x)=\dfrac{(x-3)(x+1)}{x-3}$ near $x=3$.
     
-3. **Explain to a rubber duck:** Read your 60–90 s script to any object; if you stumble, rewrite the sentence.
+3. **Piecewise builder**  
+    Write three original piecewise functions in your template that create: a hole, a jump, and continuity with different formulas. Verify side-limits symbolically.
     
+4. **Explain-to-object**  
+    Explain to a pen what a side-limit is in 20 s, then repeat using only numbers (no variables).
+    
+
+Refs: §2.2 reading tables/graphs; §2.3 cancellation; §2.4 wording of definitions.
+
+---
 
 ## Plain-language anchors
 
-- “A limit is the value nearby $x=a$, not necessarily at $a$.”
+- “Limits care about the approach, not the point.”
     
-- “Equal side limits ⇒ two-sided limit exists; unequal ⇒ DNE.”
+- “Two sides, one number ⇒ limit exists.”
     
-- “Factor, cancel, then take the limit; never divide by zero.”
+- “Different side heights ⇒ jump; hole with a value to fill ⇒ removable.”
     
 
-Say **continue** for Block 3 — Worked Examples, or **reveal-probe** to have me start questioning you from Q1 now.
+Say **continue** for Block 3 or **reveal** if you want worked example solutions when they appear.
 
-**Definitions**
+---
 
-- two-sided limit: exists when $\lim_{x\to a^-}f(x)=\lim_{x\to a^+}f(x)=L$.
-    
-- removable discontinuity: limit exists at $a$ but $f(a)$ is missing/different.
-    
-- jump discontinuity: side limits exist and are unequal.
-    
-- oscillatory DNE: outputs swing among values infinitely often near $a$.
+### Definitions
+
+limit: The number $L$ approached by $f(x)$ as $x$ nears $a$.  
+one-sided limit: Approach from left ($x\to a^-$) or right ($x\to a^+$).  
+removable discontinuity: Limit exists at $a$, but $f(a)$ is missing/different.  
+jump discontinuity: Side-limits exist but are unequal.  
+oscillation DNE: Outputs vary without settling to one value near $a$.
