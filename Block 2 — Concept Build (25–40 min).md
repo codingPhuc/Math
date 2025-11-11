@@ -70,7 +70,7 @@ Check: $\lim_{x\to3} y=$ ?
 
 
 $$
-\lim_{  x \to  3  }   =  0 
+\lim_{  x \to  3  }   =  \mid  \mid 
 $$
   
 **V9 [CON]** Draw a wildly oscillating wave near $x=0$ to represent $\sin(1/x)$.  
