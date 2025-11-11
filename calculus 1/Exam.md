@@ -32,7 +32,8 @@ v  =  \frac{9}{(t+3)^{1/3}}       \\ \\
 \ln u  =  \ln((t^2+1)e^{3t})   -     \ln((t+2)^{1/2})   \\
  \ln u  =  \ln(t^2+1)   +  3t\ln(e)   -     \frac{1}{2}\ln(t+2)   \\
 \frac{du}{dx }   \frac{1}{u }   =  \frac{2t}{t^2+ 1 } + 3   -  \frac{1}{2(t+ 2 )} \\ 
-\frac{du}{dx }     =  \frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}  \left[  \frac{2t}{t^2+ 1 } + 3   -  \frac{1}{2(t+ 2 )}  \right]
+\frac{du}{dx }     =  \frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}  \left[  \frac{2t}{t^2+ 1 } + 3   -  \frac{1}{2(t+ 2 )}  \right]   \\
+\ln  v  =  
 \end{array}
 $$  
 (a) Compute $v(0)$ using only $v(0)=\displaystyle\lim_{h\to0}\frac{s(h)-s(0)}{h}$.  
