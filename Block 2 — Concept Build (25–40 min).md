@@ -128,10 +128,10 @@ $$
 2. Classify $x=1$ for $g(x)={x^2,\ x<1;\ 3-x,\ x\ge1}$.
 
 $$
-\begin{a}
-
-\end{a}
-x = 1  \implies  x\geq 1   
+\begin{array}{l} \\
+x = 1  \implies  x\geq 1 
+\end{array}
+  
 
 $$
 
