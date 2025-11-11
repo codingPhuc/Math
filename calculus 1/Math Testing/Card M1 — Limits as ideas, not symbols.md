@@ -46,9 +46,9 @@ Ans: ______
 
 $$
 \begin{array}{l} \\
-
-\end{array}
- \lim_{x     \to  1+  }    =  3  
+\lim_{x     \to  1+  }    =  3     \\
+\lim_{  x \to  1^-  }\end{array}
+ 
    
 $$
 
