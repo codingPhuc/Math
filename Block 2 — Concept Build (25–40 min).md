@@ -34,7 +34,8 @@ the limit approaching the value on the right equal to  1 while the limit approac
 Labels: left/right limits at $0$.  
 Check: Classify the discontinuity at $0$.
 $$
-\lim_{ x \to  0^+ }   2  - x      = 1.99999     
+\lim_{ x \to  0^+ }   2  - x      = 1.999999  = 2   
+\lim_{  x  \to   0^-  } 
 $$
 
 **Group B: Removable vs jump**  
