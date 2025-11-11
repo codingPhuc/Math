@@ -133,6 +133,7 @@ x = 1  \implies  x\geq 1  \\
 3  - 1  =2   
 \end{array}
 $$
+the limit is a jump discont
 
 
 
