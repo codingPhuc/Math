@@ -67,9 +67,9 @@ yes the limit does exit because left handed limit equal to right handed  limit a
 Decide whether the limit exists:  
 $$  
 \lim_{x\to 0}\sin!\left(\frac{1}{x}\right)  
-$$ the limit does not 
+$$
 If not, give the specific reason.  
-Ans: ______
+Ans: the limit does not exit, beca ______
 
 HOLD SOLUTIONS. Say “reveal” for keys or “continue” for Block 2.
 
