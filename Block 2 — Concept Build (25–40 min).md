@@ -51,8 +51,8 @@ the two sided limit does not exit because the right hand  limit does not equal t
 
 **V6 [ARG]** On the same axes, sketch a function that blows up like $1/(x-2)^2$ at $x=2$.  
 Labels: $\pm\infty$ behavior.  
-Check: Limit type here?
-asympototic li
+Check: Limit type here
+asymptotic  limit  
 
 
 **Group C: Rational cancellation**  
