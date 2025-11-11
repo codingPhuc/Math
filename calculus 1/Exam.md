@@ -289,5 +289,5 @@ $$
 
 can 
 $$
-3(t + 3)^{-2/5}   = 3\exp\left( -\frac{2}{5} \ln  \right)
+3(t + 3)^{-2/5}   = 3\exp\left( -\frac{2}{5} \ln (t+3) \right)
 $$
