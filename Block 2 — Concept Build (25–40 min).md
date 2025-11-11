@@ -60,7 +60,7 @@ asymptotic  limit
 Labels: hole coordinate, simplified form.  
 Check: $\lim_{x\to3} y=$ ? 
 $$
-
+y=\dfrac{(x-3)(x+1)}{x-3}    =  \lim_{ x  \to 3v }    y=\dfrac{(x-3)(x+1)}{x-3} 
 $$
 
 
