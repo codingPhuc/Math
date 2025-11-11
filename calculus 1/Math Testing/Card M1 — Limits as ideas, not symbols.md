@@ -69,7 +69,7 @@ $$
 \lim_{x\to 0}\sin!\left(\frac{1}{x}\right)  
 $$
 If not, give the specific reason.  
-Ans: the limit does not exit, because the value of sin is represented in the unit circle and fluturated around -1 and 1. For every changest aroud ______
+Ans: the limit does not exit, because the value of sin is represented in the unit circle and fluturated around -1 and 1. For any small changes  ______
 
 HOLD SOLUTIONS. Say “reveal” for keys or “continue” for Block 2.
 
@@ -84,4 +84,4 @@ limit $\lim_{x\to a}f(x)$: the value $f(x)$ approaches as $x$ gets arbitrarily c
 one-sided limit: approach from left $x\to a^-$ or right $x\to a^+$.  
 removable discontinuity: limit exists at $a$ but $f(a)$ is missing/different.  
 jump discontinuity: left and right limits exist but are unequal.  
-oscillation DNE: no single value due to endless back-and-forth n
+oscillation DNE: no single value due to endless back-and-forth near $a$.
