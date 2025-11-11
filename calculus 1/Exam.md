@@ -282,5 +282,5 @@ _(Continues on later pages.)_
 
 
 $$
-\frac{5}{\frac{(t+3)^2}{5}}
+\frac{5}{(t+3)^\left( \frac{2}{5} \right)}
 $$
