@@ -49,7 +49,7 @@ $$
 \lim_{x     \to  1+  }    =  5      \\
 \lim_{  x \to  1^-  }   =  3 \\
 \lim_{  x \to  1 }     = \text{undefind} \text{ ( the left hand limit does not equal the right hand limit)}   \\
- f(1)
+ f(1 ) =   3     
 \end{array}
  
    
@@ -63,6 +63,7 @@ $$
 Does the two-sided limit exist? If not, state why.  
 Ans: ______
 
+do
 **Q5 [CON]**  
 Decide whether the limit exists:  
 $$  
