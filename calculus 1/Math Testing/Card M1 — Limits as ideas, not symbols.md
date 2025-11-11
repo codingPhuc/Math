@@ -69,7 +69,7 @@ $$
 \lim_{x\to 0}\sin!\left(\frac{1}{x}\right)  
 $$
 If not, give the specific reason.  
-Ans: the limit does not exit, beca ______
+Ans: the limit does not exit, because the value of sin is represented in  ______
 
 HOLD SOLUTIONS. Say “reveal” for keys or “continue” for Block 2.
 
