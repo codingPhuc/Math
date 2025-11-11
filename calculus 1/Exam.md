@@ -17,8 +17,9 @@ Hereâ€™s a clean Obsidian-ready Markdown of the two pages. Inline math uses `$â€
 
 
 $$
-s(t)= \frac{(t^2+1)(t+3)^{1/3}e^{3t}  - 9(t+2)^{1/2}}{(t+3)^{1/3}(t+2)^{1/2}}  \\
-\ln (s(t) )  = \ln ((t^2+1)(t+3)^{1/3}e^{3t}  - 9(t+2)^{1/2})  -  \frac{15}{2}\ln((t+3)(t+2))  \\
+\begin{array}{l} \\
+
+\end{array}
 $$
 A particle moves on a line with  
 $$  
