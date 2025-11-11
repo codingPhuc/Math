@@ -118,14 +118,19 @@ $$
 \begin{array}{l}  \\
 \lim_{ x  \to  0^- }    (2x+3)    =  2(  0)   + 3  =  3    \\
 \lim_{  x \to  0^+ }   1 - 4x  =  1 - 4(0)  = 1    \\
-\lim_{  x \to  0 }    f(x)  = DNE
+\lim_{  x \to  0 }    f(x)  = DNE \text{ because LHL } \neq \text{ RHL}
 \end{array}
 $$
 
 
 
+
 2. Classify $x=1$ for $g(x)={x^2,\ x<1;\ 3-x,\ x\ge1}$.
-    
+
+
+
+
+
 3. Evaluate $\lim_{x\to3}\dfrac{(x-3)(x+2)}{x-3}$.
     
 
