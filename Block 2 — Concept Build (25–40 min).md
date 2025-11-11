@@ -59,7 +59,7 @@ Check: Limit type here
 asymptotic  limit  
 $\lim_{ x \to 1^- }=\lim_{ x \to 1^+ }=+\infty$  
 words: both limit(right and left limit) approach infinity from the right and the left 
-
+![[IMG_1889.jpg]]
 
 **Group C: Rational cancellation**  
 **V7 [PROC]** Sketch $y=\dfrac{(x-3)(x+1)}{x-3}$ with a hole at $x=3$.  
