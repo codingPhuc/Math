@@ -63,7 +63,6 @@ $$
 Does the two-sided limit exist? If not, state why.  
 Ans: ______
 
-do
 **Q5 [CON]**  
 Decide whether the limit exists:  
 $$  
