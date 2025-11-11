@@ -19,7 +19,8 @@ $$
  \lim_{x\to 2}  \frac{(x  - 2)(x+ 2)}{  x - 2 }   =   \lim_{x\to 2}  (x+ 2 )   =  2 +  2   = 4  
 \end{array}
 $$
-therefore the function $f(x)$ have a removable discontinuity,  because we can factor the function to remove the discontinue
+therefore the function $f(x)$ have a removable discontinuity,  because we can factor the function to remove the discontinuity 
+
 **Q2 [PROC]**  
 $$ 
 
