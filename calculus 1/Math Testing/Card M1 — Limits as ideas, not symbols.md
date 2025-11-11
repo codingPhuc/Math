@@ -28,7 +28,8 @@ Find $\lim_{x\to 0^-}f(x)$, $\lim_{x\to 0^+}f(x)$, and $\lim_{x\to 0}f(x)$.
 Ans: ______
 $$
 \begin{array}{l}  \\
-\lim_{  x \to  0^[-] }     =   0.99999    \\
+\lim_{  x \to  0^[-] }     =  1 -  0.99999   =  0.00001     \\ \\
+\lim_{   x \to   } 
 \end{array}
 $$
 **Q3 [CON]**  
