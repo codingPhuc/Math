@@ -28,6 +28,7 @@ Check: Explain the match/mismatch between table and graph.
 | x    | f(x) |
 | ---- | ---- |
 | -0.1 | 0.9  |
+|      |      |
 
 
 **V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
