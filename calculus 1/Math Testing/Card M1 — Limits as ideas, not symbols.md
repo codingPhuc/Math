@@ -15,13 +15,14 @@ Find $\lim_{x\to 2} f(x)$ and classify the discontinuity at $x=2$ (removable/jum
 Ans: ______
 
 **Q2 [PROC]**  
-$$  
-\left\{  \right.
+$$ 
 
-f(x)= \{\begin{array} {l}  
+f(x)= 
+\left\{ \begin{array} {l}  
 x+1,& x<0\\
 1-x,& x\ge 0  
-\end{array}  
+\end{array}   \right.
+
 $$  
 Find $\lim_{x\to 0^-}f(x)$, $\lim_{x\to 0^+}f(x)$, and $\lim_{x\to 0}f(x)$.  
 Ans: ______
@@ -59,4 +60,4 @@ limit $\lim_{x\to a}f(x)$: the value $f(x)$ approaches as $x$ gets arbitrarily c
 one-sided limit: approach from left $x\to a^-$ or right $x\to a^+$.  
 removable discontinuity: limit exists at $a$ but $f(a)$ is missing/different.  
 jump discontinuity: left and right limits exist but are unequal.  
-oscillation DNE: no single value due to endless back-and-forth near $a$
+oscillation DNE: no single value due to endless back-and-forth near $a$.
