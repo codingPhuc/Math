@@ -282,5 +282,5 @@ _(Continues on later pages.)_
 
 
 $$
-\ln \left( \frac{5(x +3)^2}{5} \right)
+
 $$
