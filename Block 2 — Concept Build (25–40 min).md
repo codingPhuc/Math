@@ -140,7 +140,7 @@ $$
     
 
 the equation  $\lim_{x\to3}\dfrac{(x-3)(x+2)}{x-3}$.  is a removable discontinuous 
-with it most factor out form being $(x+3)$ and the hold bui
+with it most factor out form being $(x+3)$ and the hole being (3 , 5)
 
 **Progress log** — Block 2 answers | 2025-11-11 11:00 PT | Score: 6/10 | Mistakes: piecewise side-limits; $f(a)$ vs limit; point reference | Recurrence: side-limits recurring | Trend: ↗ improving.
 
