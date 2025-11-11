@@ -29,7 +29,7 @@ Check: Explain the match/mismatch between table and graph.
 | ----- | ---- | ----- | ---- |
 | -0.1  | 0.9  | 0.1   | 0.9  |
 | -0.01 | 0.99 | 0.01  | 0.99 |
-The mismatch between the valu
+There is a mismatch between the value in the g
 
 
 
