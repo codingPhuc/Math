@@ -86,6 +86,51 @@ Check: State the DNE reason precisely.
 ![[IMG_1887 1.jpg]] because limit for the function $\sin\left( \frac{1}{x} \right)$ have an oscillation between the value of $-1$ and $1$ as x approaches 
 Refs: §2.2 tables/graphs; §2.3 algebraic limits; §2.4 precise definitions.
 
+Score 6/10. Not yet passing (target ≥8). Primary issue: side-limit evaluation on piecewise; value vs limit at a point.
+
+Hint [PROC]: For piecewise, compute $\lim_{x\to a^-}$ by substituting into the left branch formula and $\lim_{x\to a^+}$ into the right branch formula. Do not estimate with near-numbers.
+
+## Per-question notes
+
+**Q1 — Correct.**  
+$$\lim_{x\to2}\frac{x^2-4}{x-2}=4$$  
+Removable discontinuity at $x=2$. Note: don’t write $f(x)=\lim_{x\to a}f(x)$.
+
+**Q2 — Incorrect.**  
+Left: $\lim_{x\to0^-}(x+1)=1$. Right: $\lim_{x\to0^+}(1-x)=1$. Two-sided limit $=1$.
+
+**Q3 — Partially correct.**  
+$\lim_{x\to1^-}f=3$, $\lim_{x\to1^+}f=5$, so $\lim_{x\to1}f$ DNE. But $f(1)=-1$ (solid dot), not $3$.
+
+**Q4 — Partially correct.**  
+Limit exists and equals $0$, but cite $x=3$, not $0$:  
+$$\frac{(x-3)|x-3|}{x-3}=|x-3|\ (x\ne3)\ \Rightarrow\ \lim_{x\to3} = 0.$$
+
+**Q5 — Correct.**  
+$$\lim_{x\to0}\sin!\big(\tfrac1x\big)\ \text{does not exist}$$  
+Reason: oscillation between $-1$ and $1$ gives no single approach value.
+
+## Fix-it mini-drill (do now)
+
+1. $\displaystyle \lim_{x\to0^-}(2x+3)$, $\lim_{x\to0^+}(1-4x)$, $\lim_{x\to0}f$ for $f(x)={2x+3,\ x<0;\ 1-4x,\ x\ge0}$.
+    
+2. Classify $x=1$ for $g(x)={x^2,\ x<1;\ 3-x,\ x\ge1}$.
+    
+3. Evaluate $\lim_{x\to3}\dfrac{(x-3)(x+2)}{x-3}$.
+    
+
+**Progress log** — Block 2 answers | 2025-11-11 11:00 PT | Score: 6/10 | Mistakes: piecewise side-limits; $f(a)$ vs limit; point reference | Recurrence: side-limits recurring | Trend: ↗ improving.
+
+### Definitions
+
+side-limit: Limit from one side, $x\to a^-$ or $x\to a^+$.  
+removable discontinuity: Hole; the limit exists but $f(a)$ is missing/different.  
+jump discontinuity: Side-limits exist but are unequal.  
+oscillation DNE: Outputs vary without settling to one value near $a$.  
+infinite limit: Values grow without bound near $a$; no finite limit.
+
+
+
 ---
 
 ## Audio (60–90 s speak-aloud script)
