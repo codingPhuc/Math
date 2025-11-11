@@ -186,6 +186,8 @@ oscillation DNE: Outputs vary without settling to one value near $a$.
 
 
 # Error note 
+
+# First Er
 Score 6/10. Not yet passing (target ≥8). Biggest issue: mis-reading side-limits from tables and sloppy labeling.
 
 Targeted hint — Tables→Limits: For $x\to a^-$ plug values like $a-10^{-k}$ into the **left-hand** formula; for $x\to a^+$ use $a+10^{-k}$ in the **right-hand** formula. Do not subtract “almost-$a$” from $1$ unless that’s the given formula.
