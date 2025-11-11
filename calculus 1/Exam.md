@@ -302,24 +302,3 @@ Paste this into Obsidian (display math):
 $$  
 H(x)=\left[\frac{\ln!\big(1+e^{\sin(x^{2})}\big),\arctan!\big(\sqrt{x}+x^{-1/3}\big)}{x,\sqrt{,1+\cos(\ln x),},(1+x)^{x/(1+x)}}\right]^{\frac{x}{\sqrt{1+x}}}  
 $$  
-Plain language: numerator is (\ln(1+e^{\sin(x^2)})\cdot\arctan(\sqrt{x}+x^{-1/3})); denominator is (x\sqrt{1+\cos(\ln x)}(1+x)^{x/(1+x)}); the whole bracket is raised to (x/\sqrt{1+x}).
-
-Optional exp–log form (useful for calculus):
-
-$$  
-H(x)=\exp!\left[\frac{x}{\sqrt{1+x}},  
-\ln!\left(\frac{\ln(1+e^{\sin(x^{2})}),\arctan(\sqrt{x}+x^{-1/3})}{x,\sqrt{,1+\cos(\ln x),},(1+x)^{x/(1+x)}}\right)\right]  
-$$  
-Plain language: rewrite “power of a function” as (\exp\big(\text{exponent}\times\ln(\text{base})\big)).
-
-Domain note: (x>0) and (x\neq e^{(2k+1)\pi}) for any integer (k) (avoids (\ln x) issues, (\sqrt{x}), and division by zero).
-
-Definitions
-
-- (\ln): natural logarithm.
-    
-- (\arctan): inverse tangent.
-    
-- (\exp(u)): (e^{u}).
-    
-- domain: values of (x) where the formula is real-valued.
