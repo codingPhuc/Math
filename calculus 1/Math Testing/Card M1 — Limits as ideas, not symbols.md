@@ -48,7 +48,7 @@ $$
 \begin{array}{l} \\
 \lim_{x     \to  1+  }    =  5      \\
 \lim_{  x \to  1^-  }   =  3 \\
-\lim_{  x \to  1 }     = \\ 
+\lim_{  x \to  1 }     = \text{undefind} \text{ } \\ 
 \end{array}
  
    
