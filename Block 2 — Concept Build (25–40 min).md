@@ -58,7 +58,11 @@ asymptotic  limit
 **Group C: Rational cancellation**  
 **V7 [PROC]** Sketch $y=\dfrac{(x-3)(x+1)}{x-3}$ with a hole at $x=3$.  
 Labels: hole coordinate, simplified form.  
-Check: $\lim_{x\to3} y=$ ?
+Check: $\lim_{x\to3} y=$ ? 
+
+
+
+
 
 **V8 [APP]** Sketch $y=\dfrac{|x-3|(x-3)}{x-3}$ for $x\ne3$.  
 Labels: express as $|x-3|$.  
