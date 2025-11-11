@@ -45,7 +45,7 @@ A graph has an open circle at $(1,3)$ on a left branch approaching $3$ as $x\to 
 Ans: ______
 
 $$
- \lim_{x     \to   }  
+ \lim_{x     \to  1+  }      
 $$
 
 **Q4 [CASE]**  
