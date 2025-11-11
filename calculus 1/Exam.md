@@ -16,7 +16,7 @@ Hereâ€™s a clean Obsidian-ready Markdown of the two pages. Inline math uses `$â€
 
 A particle moves on a line with  
 $$  
-s(t)=\frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}-\frac{9}{(t+3)^{1/3}},\qquad t>-2.  
+s(t)=\frac{(t^2+1)e^{3t}}{(t+2)^{1/2}}-\frac{9}{(t+3)^{1/3}},\qquad t>-2.   
 $$  
 (a) Compute $v(0)$ using only $v(0)=\displaystyle\lim_{h\to0}\frac{s(h)-s(0)}{h}$.  
 _Plain:_ Use the difference-quotient limit at $t=0$.
