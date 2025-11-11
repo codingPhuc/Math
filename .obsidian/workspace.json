@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Module Relation.md",
+                "file": "calculus 1/Math Testing/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module Relation"
+              "title": "Untitled"
             }
           },
           {
@@ -232,9 +232,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "f8084c8b0632afcc",
   "lastOpenFiles": [
-    "calculus 1/Untitled",
+    "calculus 1/Module Relation.md",
+    "calculus 1/Math Testing/Untitled.md",
+    "calculus 1/Math Testing",
     "calculus 1/Essene  of calculus.md",
     "book/Precalculus Stewart 7th Edition.pdf",
     "calculus 1/Exam.md",
@@ -267,7 +269,6 @@
     "Math with Jay/Calculus proof.md",
     "calculus 1/Untitled.md",
     "proof mathemathic",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 3 - Section 3.4-3.6 – Math G180.pdf",
     "Paul Online note/algebra/Section 2.3 Applications of Linear Equations.md",
     "independent version/Battery  health.md",
     "independent version/Calculus  1.md",
@@ -277,7 +278,6 @@
     "calculus 1/Calculus essay/Why was calculus invented.md",
     "2025-09-26.md",
     "book/Book category.md",
-    "independent version/Math thing to learn.md",
     "picture/Pasted image 20250826213704.png",
     "picture/Pasted image 20250825092832.png"
   ]
