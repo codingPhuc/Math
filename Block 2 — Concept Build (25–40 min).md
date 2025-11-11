@@ -35,7 +35,7 @@ Labels: left/right limits at $0$.
 Check: Classify the discontinuity at $0$.
 $$
 \lim_{ x \to  0^+ }   2  - x      = 1.999999  = 2   
-\lim_{  x  \to   0^-  } 
+\lim_{  x  \to   0^- }    x + 1   =   
 $$
 
 **Group B: Removable vs jump**  
