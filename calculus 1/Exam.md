@@ -28,7 +28,9 @@ _Plain:_ Differentiate once for velocity, twice for acceleration, respecting the
 _Plain:_ Solve sign conditions of $v$ and $a$.
 
 
+$$
 
+$$
 
 
 
