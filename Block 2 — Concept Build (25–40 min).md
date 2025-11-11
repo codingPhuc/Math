@@ -29,7 +29,7 @@ Check: Explain the match/mismatch between table and graph.
 | ----- | ---- | ----- | ---- |
 | -0.1  | 0.9  | 0.1   | 0.9  |
 | -0.01 | 0.99 | 0.01  | 0.99 |
-There is a mismatch between the value in the graph and the values in the table, because the value for x to test whether a function is continuos is wrong on the left hand side. As a result, in order for us to get a correct test we must 
+There is a mismatch between the value in the graph and the values in the table, because the value for x to test whether a function is continuous  is wrong on the left hand side. As a result, in order for us to get a correct test we must 
 
 
 
