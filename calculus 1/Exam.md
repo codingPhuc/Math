@@ -277,4 +277,10 @@ _(Continues on later pages.)_
     
 - **linearization:** Tangent-line approximation $L(x)=f(a)+f'(a)(x-a)$ near $x=a$.
     
-- **MVT:** If $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$, then some $c\in(a,b)$ has $f'(c)=\dfrac{f(b)-f(a)}{b-a}$.
+- **MVT:** If $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$, then some $c\in(a,b)$ has $f'(c)=\dfrac{f(b)-f(a)}{b-a}$. 
+
+
+
+$$
+ 
+$$
