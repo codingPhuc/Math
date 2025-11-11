@@ -31,7 +31,7 @@ Check: Explain the match/mismatch between table and graph.
 | ----- | ---- | ----- | ---- |
 | -0.1  | 0.9  | 0.1   | 0.9  |
 | -0.01 | 0.99 | 0.01  | 0.99 |
-the two table with the limit approaching from the left for the first 2 column , and the limit approaching from the right for the last 2 column help us see that the left hand limit match the right hand limit at x =1 
+the two table with the limit approaching from the left for the first 2 column , and the limit approaching from the right for the last 2 column help us see that the left hand limit match the right hand limit at f(x) =1 
 
 
 **V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
@@ -42,7 +42,7 @@ Check: Classify the discontinuity at $0$.
 | ----- | ---- | ----- | ---- |
 | -0.1  | 0.9  | 0.1   | 1.9  |
 | -0.01 | 0.99 | 0.01  | 1.99 |
-	the two table with the limit approaching from the left for the first 2 column , and the limit approaching from the right for the last 2 column help us see that the left hand limit at f(x ) doesn't match with the right hand limit at x =1 
+the two table with the limit approaching from the left for the first 2 column , and the limit approaching from the right for the last 2 column help us see that the left hand limit at f(x) =2  doesn't match with the right hand limit at f(x )  = 1 
 
 **Group B: Removable vs jump**  
 **V4 [PROC]** Sketch $y=\dfrac{x^2-4}{x-2}$ with a hole at $x=2$.  
