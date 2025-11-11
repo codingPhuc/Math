@@ -64,7 +64,7 @@ y=\dfrac{(x-3)(x+1)}{x-3}    =  \lim_{ x  \to 3v }     x + 1    \implies 3 + 1  
 $$
 
 $$
-\lim_{  x \to    } 
+\lim_{  x \to  3  }   =  0 
 $$
 
 
