@@ -38,7 +38,7 @@ v  =  \frac{9}{(t+3)^{1/3}}       \\ \\
 \ln v =   \ln  9   -  \frac{1}{3}\ln((t+3))     \\
 \frac{dv}{dx}\frac{1}{v}   =     -  \frac{1}{3(t+3)}    \\
 \frac{dv}{dx}    =   \frac{9}{(t+3)^{1/3}}  \left[  -  \frac{1}{3(t+3)}  \right]  \\
-v
+v(t )   =  u' + v
 \end{array}
 $$  
 (a) Compute $v(0)$ using only $v(0)=\displaystyle\lim_{h\to0}\frac{s(h)-s(0)}{h}$.  
