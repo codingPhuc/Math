@@ -47,6 +47,7 @@ this is a removable discontinuity, because the function is valid at x = 2 when f
 Labels: $\lim_{x\to1^-}$, $\lim_{x\to1^+}$, $f(1)$.  
 Check: Does the two-sided limit exist? Why?
 the two sided limit does not exit because the right hand  limit does not equal to the left hand limit 
+the lim
 
 **V6 [ARG]** On the same axes, sketch a function that blows up like $1/(x-2)^2$ at $x=2$.  
 Labels: $\pm\infty$ behavior.  
