@@ -186,7 +186,6 @@ Definitions
 - oscillatory DNE: Values keep changing without settling to one number.
 
 
-
 # Block 2 — Concept Build (25–40 min)
 
 Focus: one-sided vs two-sided limits, removable vs jump, and algebraic cancellation. Stewart 9e §§2.2–2.4. TI-84 allowed.
@@ -329,7 +328,7 @@ Refs: §2.2 reading tables/graphs; §2.3 cancellation; §2.4 wording of definiti
 - “Different side heights ⇒ jump; hole with a value to fill ⇒ removable.”
     
 
-Say **continue** for Block 3 or **reveal** if you want worked example solutions when they appear.
+Say **continue** for Block 3 or **reveal** when worked example solutions appear.
 
 ---
 
@@ -339,7 +338,6 @@ limit: The number $L$ approached by $f(x)$ as $x$ nears $a$.
 one-sided limit: Approach from left ($x\to a^-$) or right ($x\to a^+$).  
 removable discontinuity: Limit exists at $a$, but $f(a)$ is missing/different.  
 jump discontinuity: Side-limits exist but are unequal.  
-oscillation DNE: Outputs vary without settling to one value near $a$. 
-
+oscillation DNE: Outputs vary without settling to one value near $a$.
 
 
