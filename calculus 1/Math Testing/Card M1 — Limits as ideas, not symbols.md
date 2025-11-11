@@ -29,7 +29,7 @@ Ans: ______
 $$
 \begin{array}{l}  \\
 \lim_{  x \to  0^[-] }     =  1 -  0.99999   =  0.00001 \implies \lim_{ x  \to  0^- }     f(x)  =   0      \\ \\
-\lim_{   x \to  0^+   }   =  1.000001    + 1  =  2    \implies  \lim_{ x  \to  0^+  }    f(x)   -  
+\lim_{   x \to  0^+   }   =  1.000001    + 1  =  2    \implies  \lim_{ x  \to  0^+  }    f(x)    = 2  
 \end{array}
 $$
 **Q3 [CON]**  
