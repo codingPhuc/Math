@@ -19,9 +19,7 @@ x+1,& x<0\\
 \end{array}\right.  
 $$  
 Labels: open/closed circles at $x=0$, $f(0)$, $x\to0^-$ value, $x\to0^+$ value.  
-Check: Does $\lim_{x\to0}f(x)$ exist?
-![[IMG_1885.jpg]]
-**V2 [DATA]** Make a two-column table for V1 near $x=0$ with $x=-0.1,-0.01$ and $x=0.01,0.1$.  
+Check: Does $\lim_{x\to0}f(x)$ exist?**V2 [DATA]** Make a two-column table for V1 near $x=0$ with $x=-0.1,-0.01$ and $x=0.01,0.1$.  
 Labels: numeric side-limits.  
 Check: Explain the match/mismatch between table and graph.
 
