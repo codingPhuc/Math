@@ -53,8 +53,7 @@ this is a removable discontinuity, because the function is valid at f(x) = 2 whe
 Labels: $\lim_{x\to1^-}$, $\lim_{x\to1^+}$, $f(1)$.  
 Check: Does the two-sided limit exist? Why?
 $\lim_{ x \to 1^- }=\lim_{ x \to 1^+ }=+\infty$  
-words: both limit(right and left limit) approach infinity from the right and the left
-
+words: both limit(right and left limit) approach infinity from the right and the left 
 
 **V6 [ARG]** On the same axes, sketch a function that blows up like $1/(x-2)^2$ at $x=2$.  
 Labels: $\pm\infty$ behavior.  
