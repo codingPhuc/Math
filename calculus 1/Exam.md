@@ -46,7 +46,7 @@ _Plain:_ Differentiate once for velocity, twice for acceleration, respecting the
 
 
 $$
-\frac{1}{}  = \ln ((t^2+1)(t+3)^{1/3}e^{3t}  - 9(t+2)^{1/2})  -  \frac{15}{2}\ln((t+3)(t+2))
+\frac{1}{s(t) }v(t)  = \ln ((t^2+1)(t+3)^{1/3}e^{3t}  - 9(t+2)^{1/2})  -  \frac{15}{2}\ln((t+3)(t+2))
 $$
 (c) Determine all $t>-2$ such that $v(t)>0$ and $a(t)>0$.  
 _Plain:_ Solve sign conditions of $v$ and $a$.
