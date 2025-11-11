@@ -29,7 +29,7 @@ Check: Explain the match/mismatch between table and graph.
 | -------- | --------- |
 | -0.99999 | 0.00001   |
 | .000001  | 0 .999999 |
-the limit approaching the value on the right equal to  .  so the two limit match concluding that the limit approaching 0  is 1 
+the limit approaching the value on the right equal to  1 while the l.  so the two limit match concluding that the limit approaching 0  is 1 
 **V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
 Labels: left/right limits at $0$.  
 Check: Classify the discontinuity at $0$.
