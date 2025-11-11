@@ -23,7 +23,8 @@ _Plain:_ Use the difference-quotient limit at $t=0$.
 
 $$
 s(t +  h  )  =  \frac{((t +  h)^2 )e^{3(t+h) }}{ (t+h+2)^{1/2}}     -  \frac{9}{(t +h + 3)^{1/3}}  
-$$ 
+$$
+
 
 
 $$
