@@ -130,15 +130,16 @@ $$
 $$
 \begin{array}{l} \\
 x = 1  \implies  x\geq 1  \\
-3  - 1  =2
+3  - 1  =2   
 \end{array}
-
 $$
 
 
 
 3. Evaluate $\lim_{x\to3}\dfrac{(x-3)(x+2)}{x-3}$.
     
+
+
 
 **Progress log** — Block 2 answers | 2025-11-11 11:00 PT | Score: 6/10 | Mistakes: piecewise side-limits; $f(a)$ vs limit; point reference | Recurrence: side-limits recurring | Trend: ↗ improving.
 
