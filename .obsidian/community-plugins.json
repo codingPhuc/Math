@@ -8,5 +8,6 @@
   "obsidian-latex-suite",
   "obsidian-heading-shifter",
   "pdf-plus",
-  "obsidian-latex"
+  "obsidian-latex",
+  "obsidian-pandoc"
 ]
