@@ -117,7 +117,7 @@ Reason: oscillation between $-1$ and $1$ gives no single approach value.
 $$
 \begin{array}{l}  \\
 \lim_{ x  \to  0^- }    (2x+3)    =  2(  0)   + 3  =  3    \\
-\lim_{  x \to  0 } 
+\lim_{  x \to  0^+ }   1 - 4x &  
 \end{array}
  
 $$
