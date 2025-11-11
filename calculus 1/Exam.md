@@ -282,5 +282,5 @@ _(Continues on later pages.)_
 
 
 $$
- 
+\ln (5(x))
 $$
