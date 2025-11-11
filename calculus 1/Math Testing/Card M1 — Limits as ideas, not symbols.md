@@ -202,7 +202,7 @@ Do each sketch in ~60–90 s. Add the listed labels. Answer the “Check.”
 **V1 [PROC]** Sketch the graph of  
 $$  
 f(x)=  
-\left{\begin{array}{l}  
+\left\{\begin{array}{l}  
 x+1,& x<0\  
 1-x,& x\ge 0  
 \end{array}\right.  
