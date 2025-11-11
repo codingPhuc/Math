@@ -115,7 +115,7 @@ Reason: oscillation between $-1$ and $1$ gives no single approach value.
 1. $\displaystyle \lim_{x\to0^-}(2x+3)$, $\lim_{x\to0^+}(1-4x)$, $\lim_{x\to0}f$ for $f(x)={2x+3,\ x<0;\ 1-4x,\ x\ge0}$.
 
 $$
-\lim_{ x  \to  0^- } 
+\lim_{ x  \to  0^- }   =   
 $$
 
 2. Classify $x=1$ for $g(x)={x^2,\ x<1;\ 3-x,\ x\ge1}$.
