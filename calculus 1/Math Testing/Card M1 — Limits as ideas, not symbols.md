@@ -18,8 +18,8 @@ $$
  f(x)  = \lim_{x\to 2} f(x) \frac{x^2  - 4}{x- 2 }    = \lim_{x\to 2} f(x)  \frac{ 2^2  -4}{ 2  -2 }  =  \frac{0}{0} \implies \text{ undefine }  \\
  \lim_{x\to 2}  \frac{(x  - 2)(x+ 2)}{  x - 2 }   =   \lim_{x\to 2}  (x+ 2 )   =  2 +  2   = 4  
 \end{array}
-
 $$
+therefore the function $$
 **Q2 [PROC]**  
 $$ 
 
