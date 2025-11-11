@@ -118,7 +118,7 @@ $$
 \begin{array}{l}  \\
 \lim_{ x  \to  0^- }    (2x+3)    =  2(  0)   + 3  =  3    \\
 \lim_{  x \to  0^+ }   1 - 4x  =  1 - 4(0)  = 1    \\
-\lim_{  x \to   } 
+\lim_{  x \to  0 }    f(x)  = DNE
 \end{array}
 $$
 
