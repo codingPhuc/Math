@@ -35,6 +35,7 @@ Check: Explain the match/mismatch between table and graph.
 Labels: left/right limits at $0$.  
 Check: Classify the discontinuity at $0$.
 
+
 **Group B: Removable vs jump**  
 **V4 [PROC]** Sketch $y=\dfrac{x^2-4}{x-2}$ with a hole at $x=2$.  
 Labels: factorization line “$(x-2)(x+2)/(x-2)$,” the hole $(2,4)$, and the extension $f(2)=4$.  
