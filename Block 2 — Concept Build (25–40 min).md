@@ -129,9 +129,9 @@ $$
 
 $$
 \begin{array}{l} \\
-x = 1  \implies  x\geq 1 
+x = 1  \implies  x\geq 1  \\
+3  - 1  =2
 \end{array}
-  
 
 $$
 
