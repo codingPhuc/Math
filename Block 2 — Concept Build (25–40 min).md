@@ -62,9 +62,7 @@ Check: $\lim_{x\to3} y=$ ?
 $$
 y=\dfrac{(x-3)(x+1)}{x-3}    =  \lim_{ x  \to 3v }     x + 1    \implies 3 + 1  = 4  
 $$
-$$
-\lim_{ x \to  3  } 
-$$
+
 
 
 
