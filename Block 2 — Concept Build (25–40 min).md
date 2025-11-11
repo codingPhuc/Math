@@ -33,7 +33,9 @@ the limit approaching the value on the right equal to  1 while the limit approac
 **V3 [CON]** Modify V1 so the right branch is $2-x$ for $x\ge0$.  
 Labels: left/right limits at $0$.  
 Check: Classify the discontinuity at $0$.
-
+$$
+\lim_{ x \to \infty } 
+$$
 
 **Group B: Removable vs jump**  
 **V4 [PROC]** Sketch $y=\dfrac{x^2-4}{x-2}$ with a hole at $x=2$.  
