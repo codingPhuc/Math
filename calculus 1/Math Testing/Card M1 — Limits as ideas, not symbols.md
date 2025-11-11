@@ -262,7 +262,7 @@ Plain: values crowd around $4$; define $f(2)=4$ to remove the hole.
 Example 2 (piecewise):  
 $$  
 f(x)=  
-\left{\begin{array}{l}  
+\left\{\begin{array}{l}  
 x+1,\ x<0\  
 1-x,\ x\ge0  
 \end{array}\right.  
