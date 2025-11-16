@@ -113,7 +113,7 @@
                 "query": "RAP",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -233,7 +233,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "052a5656ec4c2d4e",
+  "active": "f8084c8b0632afcc",
   "lastOpenFiles": [
     "calculus 1/Math Testing/Untitled.md",
     "calculus 1/Math Testing/Card M1 — Limits as ideas, not symbols.md",
