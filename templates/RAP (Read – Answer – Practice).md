@@ -7,4 +7,5 @@ learning method: RAP (Read – Answer – Practice)
 Current date: 2025-08-24
 amount of time:
 learning score:
+completed:
 ---
