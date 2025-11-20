@@ -39,14 +39,16 @@
             "id": "f8084c8b0632afcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "calculus 1/Math Testing/Block 2 — Concept Build (≈25–40 min, with oral work dominant).md",
-                "mode": "source",
-                "source": false
+                "file": "book/Trig_Cheat_Sheet.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 796,
+                "zoom": 1.5931372549019607
               },
-              "icon": "lucide-file",
-              "title": "Block 2 — Concept Build (≈25–40 min, with oral work dominant)"
+              "icon": "lucide-file-text",
+              "title": "Trig_Cheat_Sheet"
             }
           },
           {
@@ -199,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Math Testing/Block 2 — Concept Build (≈25–40 min, with oral work dominant).md",
+                "file": "book/Trig_Cheat_Sheet.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Block 2 — Concept Build (≈25–40 min, with oral work dominant)"
+              "title": "Outline of Trig_Cheat_Sheet"
             }
           }
         ],
@@ -234,9 +236,11 @@
   },
   "active": "f8084c8b0632afcc",
   "lastOpenFiles": [
+    "book/Precalculus Stewart 7th Edition.pdf",
+    "book/Book category.md",
+    "calculus 1/Math Testing/Block 2 — Concept Build (≈25–40 min, with oral work dominant).md",
     "calculus 1/Math Testing/Card M1 — Limits as ideas, not symbols.md",
     "templates/RAP (Read – Answer – Practice).md",
-    "calculus 1/Math Testing/Block 2 — Concept Build (≈25–40 min, with oral work dominant).md",
     "Block 2 — Concept Build (25–40 min).md",
     "calculus 1/Module Relation.md",
     "calculus 1/Untitled 1.md",
@@ -258,7 +262,6 @@
     "picture/IMG_1885.jpg",
     "calculus 1/Math Testing",
     "calculus 1/Essene  of calculus.md",
-    "book/Precalculus Stewart 7th Edition.pdf",
     "calculus 1/Exam.md",
     "picture/IMG_1720.png",
     "picture/IMG_1719 (2).png",
@@ -275,8 +278,6 @@
     "calculus 1/Calculus  1 with Gita/solving equation.md",
     "calculus 1/Calculus  1 with Gita/Solve my equation exercise.md",
     "calculus 1/Calculus  1 with Gita/Second Class.md",
-    "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
-    "calculus 1/Calculus  1 with Gita/My open math assignment.md",
     "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.2 – Math G180.pdf",
     "proof mathemathic"
