@@ -44,7 +44,7 @@
                 "file": "book/Trig_Cheat_Sheet.pdf",
                 "page": 1,
                 "left": -9,
-                "top": 796,
+                "top": 560,
                 "zoom": 1.5931372549019607
               },
               "icon": "lucide-file-text",
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/Trig_Cheat_Sheet.pdf",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trig_Cheat_Sheet"
+              "title": "Outline of README"
             }
           }
         ],
@@ -234,8 +234,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8084c8b0632afcc",
+  "active": "3bac655d847fbc90",
   "lastOpenFiles": [
+    "book/Trig_Cheat_Sheet.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "book/Book category.md",
     "calculus 1/Math Testing/Block 2 — Concept Build (≈25–40 min, with oral work dominant).md",
