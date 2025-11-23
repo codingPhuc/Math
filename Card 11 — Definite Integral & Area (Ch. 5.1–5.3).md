@@ -161,9 +161,7 @@ Procedure:
 **Q1 [DEF, CON]**  
 Explain in your own words what a **Riemann sum** is and how it approximates the area under a curve on ([a,b]).
 
-Alice whenever you just travel you you never see your speed VT being constant in time to time right So it would be a focus simpson to your one constant velocity to calculate your whole distinct from time span from time A to time B so a better way to do this is to site up all all the time that you have traveled from point A to point B into equal trunk of Delta T time Using the equation velocity T multiplied by delta T giving up a chunk of time distance then we will sum up all the distinct from all of the chunk of time giving up the formula the
-**Q2 [DEF, CON]**  
-State the formal definition of the definite integral as a limit of Riemann sums and then immediately restate it in plain language.
+
 
 **Q3 [CON, APP]**  
 Using a function that crosses the axis, like (f(x) = x - 2) on ([0,4]), explain why the integral is **not** just ordinary area and how “signed area” works.
