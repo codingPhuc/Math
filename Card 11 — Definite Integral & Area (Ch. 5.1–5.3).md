@@ -168,7 +168,7 @@ Your velocity constant so you cannot use it to calculate the entire distant from
 $$
 \sum_{i=1}^nv(t_{i}) \nabla t 
 $$
-that is the Rie sum , and it aproximate the area unders
+that is the Riemann sum , and it app the area under your speed-time 
 **Q3 [CON, APP]**  
 Using a function that crosses the axis, like (f(x) = x - 2) on ([0,4]), explain why the integral is **not** just ordinary area and how “signed area” works.
 
