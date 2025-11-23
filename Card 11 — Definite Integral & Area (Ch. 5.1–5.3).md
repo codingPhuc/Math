@@ -168,7 +168,7 @@ Your velocity constant so you cannot use it to calculate the entire distant from
 $$
 \sum_{i=1}^nv(t_{i}) \nabla t 
 $$
-that is kthe 
+that is the riemann sum , and it aproci
 **Q3 [CON, APP]**  
 Using a function that crosses the axis, like (f(x) = x - 2) on ([0,4]), explain why the integral is **not** just ordinary area and how “signed area” works.
 
@@ -262,4 +262,4 @@ If you want feedback on your _oral explanations_ first, send me your transcript/
     
 - Partition: A subdivision of ([a,b]) into smaller subintervals used to build Riemann sums.
     
-- (\Delta x): The width of each subinterval in a partition, often (\Delta x = \dfrac{b-a}{n}).
+- (\Delta x): The width of each subinterval in a partition, often (\Delta x = \dfrac{b-a}{n}
