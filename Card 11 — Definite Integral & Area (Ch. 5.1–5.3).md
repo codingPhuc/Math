@@ -166,7 +166,7 @@ here how to understand Riemann sum, Alex. Whenever you travel from T equal to A 
 Your velocity constant so you cannot use it to calculate the entire distant from point A to point B using speed multiplied by velocity. A better way would be to split  the interval from A to B Into Sub equals intervals with the length of delta T; in each sub equal interval we will consider that velocity constant and say that the distinct in the interval will be $\nabla t*v(t)$. then sum the distance of all the interval will get us 
 
 $$
-\sum_{i=1}^n 
+\sum_{i=1}^nv(t_{})
 $$
 
 **Q3 [CON, APP]**  
