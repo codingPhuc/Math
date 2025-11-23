@@ -163,7 +163,7 @@ Explain in your own words what a **Riemann sum** is and how it approximates the 
 
 here how to understand Riemann sum, Alex. Whenever you travel from T equal to A and T equal to B
 
-Your velocity constant so you cannot use it to calculate the entire distant from point A to point B using speed multiplied by velocity. A better way would be to  determining the interval A to B Into Sub equals intervals with the length of delta T ; In each up to something to a wit trick T velocity a gamma constant and say that the distinct ingtog subintervals will be the equation
+Your velocity constant so you cannot use it to calculate the entire distant from point A to point B using speed multiplied by velocity. A better way would be to split  the interval from A to B Into Sub equals intervals with the length of delta T ; In each up to something to a wit trick T velocity a gamma constant and say that the distinct ingtog subintervals will be the equation
 
 **Q3 [CON, APP]**  
 Using a function that crosses the axis, like (f(x) = x - 2) on ([0,4]), explain why the integral is **not** just ordinary area and how “signed area” works.
