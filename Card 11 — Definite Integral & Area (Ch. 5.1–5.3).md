@@ -175,7 +175,7 @@ that is the Riemann sum , and it approximates the area under your speed-time gra
 **Q3 [CON, APP]**  
 Using a function that crosses the axis, like (f(x) = x - 2) on ([0,4]), explain why the integral is **not** just ordinary area and how “signed area” works. 
 
-Well Rio, think of the function $f(x) =x -2$ within the interval of $[2,4]$
+Well Rio, think of the function $f(x) =x -2$ within the interval of $[2,4]$  as a sk
 
 **Q4 [CON, PROC]**  
 Describe step-by-step how you would approximate (\int_0^2 f(x),dx) using a **left-endpoint Riemann sum with (n=4)**, without actually computing numbers.
