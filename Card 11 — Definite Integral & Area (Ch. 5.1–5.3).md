@@ -177,7 +177,7 @@ Using a function that crosses the axis, like (f(x) = x - 2) on ([0,4]), explain 
 
 Well Rio, think of the function $f(x) =x -2$ within the interval of $[0,4]$  as a skat boarding area, where at the interval between [0,2] is an underground area, while the interval [2,4] is an above ground area both having an areas of  2 $m^2$. In normal geometrical fashion if you ever want to calculate an area you would sum the area above and bellow, but in a define interval the area bellow will be a negative addition while area above ground will be a positive addition causing a result of 0 
 $$
-\int_{0}^{4} f(x)  = \int_{0}^{2} f(x)  \, dx   
+\int_{0}^{4} f(x)  = \int_{0}^{2} f(x)  \, dx    -  \int_{0}^{1}  \, dx   
 $$
 **Q4 [CON, PROC]**  
 Describe step-by-step how you would approximate (\int_0^2 f(x),dx) using a **left-endpoint Riemann sum with (n=4)**, without actually computing numbers.
