@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 1/Math Testing/Math Plan.md",
+                "file": "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math Plan"
+              "title": "Card 11 — Definite Integral & Area (Ch. 5.1–5.3)"
             }
           },
           {
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Math Testing/Math Plan.md",
+                "file": "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Math Plan"
+              "title": "Outline of Card 11 — Definite Integral & Area (Ch. 5.1–5.3)"
             }
           }
         ],
@@ -236,8 +236,9 @@
   },
   "active": "3bac655d847fbc90",
   "lastOpenFiles": [
-    "calculus 1/Math Testing/Block 2 — Concept Build (≈25–40 min, with oral work dominant).md",
     "calculus 1/Math Testing/Math Plan.md",
+    "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
+    "calculus 1/Math Testing/Block 2 — Concept Build (≈25–40 min, with oral work dominant).md",
     "calculus 1/Untitled",
     "calculus 1/Math Testing/Card M1 — Limits as ideas, not symbols.md",
     "README.md",
@@ -280,7 +281,6 @@
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 2 - Section 2.2-2.4 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 6 - Section 6.1 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/solving equation.md",
-    "calculus 1/Calculus  1 with Gita/Solve my equation exercise.md",
     "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf"
   ]
 }
