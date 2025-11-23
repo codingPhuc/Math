@@ -273,3 +273,34 @@ If you want feedback on your _oral explanations_ first, send me your transcript/
 
 # Errors Log 
 
+Understood. From now on:
+
+- **“Give me my log” = only entries from this chat thread.**
+    
+- Older logs from other sessions will be shown only if you specifically ask for “full historical log” or “all sessions log.”
+    
+
+Here is the **current-session log only** (everything we logged in _this_ conversation):
+
+|ID|Date (PT)|Task / Prompt|Score|Main issues|Trend (this session)|
+|---|---|---|---|---|---|
+|Card11-B2|2025-11-19|Definite integral teach-back (3-min oral, summarized here)|6/10 (5/8)|Clarity; missing concrete example; some redundancy|Baseline|
+|Card11 2C-Q2|2025-11-20|Definite integral definition (short answer)|3/10|Mixed up Riemann sum vs integral; missing limit, Δx, sample points; unclear sentence|Stable|
+|Card11 2C-Q1 (base)|2025-11-21|Riemann sum definition (short answer)|3/10|No function/interval; no Δx or sample points; vague; “approximation” idea incomplete|Stable|
+|Card11 2C-Q1 (car v1)|2025-11-21|Riemann sum in car context (first try)|2/10 (2/8)|Mixed up distance vs average speed; no time slices; no rectangles/area; very verbose|Stable|
+|Card11 2C-Q1 (car v2)|2025-11-21|Car context, focus on distance|5/10 (4/8)|Still missing graph/area link; Δt notation; grammar/clarity; long|Stable|
+|Card11 2C-Q1 (car v3)|2025-11-21|Car context, repeated refinement|5/10 (4/8)|Missing “Riemann sum” name; missing explicit graph/area; grammar; verbosity|Stable|
+|Card11 2C-Q1 (car v4)|2025-11-21|Car context, slicing + distance solid|5/10 (4/8)|Still no “Riemann sum” + “area under graph”; wording issues|Stable|
+|Card11 2C-Q1 (car v5)|2025-11-21|Car context, near-final version|7/10 (6/8)|Small wording bug (“speed × velocity”), Δt symbol, grammar/clarity|Improving (↑)|
+
+Next time you say **“give me my log”**, I will only show the updated table for this session like above.
+
+---
+
+**Definitions**
+
+- **Session log:** Record of scores and mistake types only for the current chat thread.
+    
+- **Historical log:** Larger record that includes entries from previous conversations.
+    
+- **Trend (this session):** Whether your performance on this specific concept is improving, declining, or stable within this thread.
