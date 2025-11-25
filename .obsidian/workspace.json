@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RAP",
+                "query": "RAPfocus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,10 +231,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bac655d847fbc90",
+  "active": "052a5656ec4c2d4e",
   "lastOpenFiles": [
     "calculus 1/Math Testing/Math Plan.md",
     "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
