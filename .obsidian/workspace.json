@@ -39,16 +39,14 @@
             "id": "f8084c8b0632afcc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "book/Trig_Cheat_Sheet.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 560,
-                "zoom": 1.5931372549019607
+                "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Trig_Cheat_Sheet"
+              "icon": "lucide-file",
+              "title": "Home work  requirement"
             }
           },
           {
@@ -80,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,8 +233,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bac655d847fbc90",
+  "active": "f8084c8b0632afcc",
   "lastOpenFiles": [
+    "book/Trig_Cheat_Sheet.pdf",
+    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "Paul Online note/algebra/Section 2.3 Applications of Linear Equations.md",
     "calculus 1/Math Testing/Math Plan.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
@@ -249,10 +249,8 @@
     "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
     "calculus book.md",
     "Block 2 — Concept Build (25–40 min).md",
-    "book/Trig_Cheat_Sheet.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "book/ECE.pdf",
-    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Calculus  1 with Gita/check calculator to install.md",
     "calculus 1/12 hours calculus courses/2.5.2 Intermediate Value Theorem.md",
@@ -272,7 +270,6 @@
     "templates/RAP (Read – Answer – Practice).md",
     "calculus 1/Module Relation.md",
     "calculus 1/Untitled 1.md",
-    "calculus 1/Paul online math note/Section 2.2  The Limit.md",
     "picture/IMG_1889.jpg",
     "picture/IMG_1888.jpg",
     "picture/IMG_1887 1.jpg",
