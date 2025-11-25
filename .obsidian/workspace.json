@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "focus",
+                "query": "focus to do",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
