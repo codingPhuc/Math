@@ -133,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,7 +234,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bac655d847fbc90",
+  "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
     "independent version/Understanding symbols.md",
     "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
