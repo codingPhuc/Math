@@ -55,16 +55,14 @@
             "id": "3bac655d847fbc90",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 749,
-                "zoom": 1.593137254901961
+                "file": "Paul Online note/algebra/Section 2.3 Applications of Linear Equations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
+              "icon": "lucide-file",
+              "title": "Section 2.3 Applications of Linear Equations"
             }
           },
           {
@@ -135,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
+                "file": "Paul Online note/algebra/Section 2.3 Applications of Linear Equations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
+              "title": "Outline of Section 2.3 Applications of Linear Equations"
             }
           }
         ],
@@ -236,8 +235,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "3bac655d847fbc90",
   "lastOpenFiles": [
+    "calculus 1/Math Testing/Math Plan.md",
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "Excalidraw/6.2 Factoring Polynomials (a  =1) 2025-02-06 12.30.00.excalidraw.md",
     "picture/Doc 08-25-2025 23-03-49 2.pdf",
     "picture/Doc 08-28-2025 13-05-19.pdf",
@@ -264,7 +265,6 @@
     "calculus 1/Math Testing/Block 2 — Concept Build (≈25–40 min, with oral work dominant).md",
     "calculus 1/Math Testing/Card M1 — Limits as ideas, not symbols.md",
     "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
-    "calculus 1/Math Testing/Math Plan.md",
     "calculus 1/Untitled",
     "README.md",
     "book/Book category.md",
@@ -272,7 +272,6 @@
     "calculus 1/Module Relation.md",
     "calculus 1/Untitled 1.md",
     "calculus 1/Paul online math note/Section 2.2  The Limit.md",
-    "calculus 1/Paul online math note/Section 1.7  Exponential Functions.md",
     "picture/IMG_1889.jpg",
     "picture/IMG_1888.jpg",
     "picture/IMG_1887 1.jpg",
@@ -282,7 +281,6 @@
     "calculus 1/Math Testing",
     "picture/IMG_1720.png",
     "calculus 1/DIAGNOSTIC",
-    "picture/-Readme-.txt",
-    "picture/apytngnt.txt"
+    "picture/-Readme-.txt"
   ]
 }
