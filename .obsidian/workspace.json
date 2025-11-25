@@ -133,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,7 +234,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "052a5656ec4c2d4e",
+  "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
     "calculus 1/Math Testing/Math Plan.md",
     "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
