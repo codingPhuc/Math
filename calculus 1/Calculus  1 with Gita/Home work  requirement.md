@@ -174,4 +174,4 @@ ask  Gita help for these question :
 
 #important 
 memorize taylor series 
-bunary number the thing 
+bunary number the thing that is realted to  product  series the big pi
