@@ -59,9 +59,9 @@
               "state": {
                 "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
                 "page": 1,
-                "left": -13,
-                "top": 796,
-                "zoom": 1.1225490196078431
+                "left": -9,
+                "top": 749,
+                "zoom": 1.593137254901961
               },
               "icon": "lucide-file-text",
               "title": "Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "home ",
+                "query": "homw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,7 +237,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "052a5656ec4c2d4e",
   "lastOpenFiles": [
     "Excalidraw/6.2 Factoring Polynomials (a  =1) 2025-02-06 12.30.00.excalidraw.md",
     "picture/Doc 08-25-2025 23-03-49 2.pdf",
