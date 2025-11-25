@@ -174,3 +174,4 @@ ask  Gita help for these question :
 
 #important 
 memorize taylor series 
+bernary number
