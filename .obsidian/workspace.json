@@ -55,14 +55,12 @@
             "id": "3bac655d847fbc90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "calculus book.md",
-                "mode": "source",
-                "source": false
+                "file": "Professor Leonard/IMG_0602.JPG"
               },
-              "icon": "lucide-file",
-              "title": "calculus book"
+              "icon": "lucide-image",
+              "title": "IMG_0602"
             }
           },
           {
@@ -201,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus book.md",
+                "file": "Professor Leonard/IMG_0602.JPG",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of calculus book"
+              "title": "Outline of IMG_0602"
             }
           }
         ],
@@ -236,6 +234,10 @@
   },
   "active": "3bac655d847fbc90",
   "lastOpenFiles": [
+    "Professor Leonard/IMG_0601.JPG",
+    "Professor Leonard/IMG_0599.JPG",
+    "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
+    "calculus book.md",
     "Block 2 — Concept Build (25–40 min).md",
     "book/Trig_Cheat_Sheet.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
@@ -254,7 +256,6 @@
     "calculus 1/Math Testing/Block 2 — Concept Build (≈25–40 min, with oral work dominant).md",
     "calculus 1/Math Testing/Card M1 — Limits as ideas, not symbols.md",
     "calculus 1/Paul online math note/Section 1.6  Solving Trig Equations with Calculators, Part II.md",
-    "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
     "calculus 1/Math Testing/Math Plan.md",
     "calculus 1/Untitled",
     "README.md",
@@ -264,7 +265,6 @@
     "calculus 1/Untitled 1.md",
     "calculus 1/Paul online math note/Section 2.2  The Limit.md",
     "calculus 1/Paul online math note/Section 1.7  Exponential Functions.md",
-    "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
     "picture/IMG_1889.jpg",
     "picture/IMG_1888.jpg",
     "picture/IMG_1887 1.jpg",
@@ -275,7 +275,6 @@
     "picture/IMG_1720.png",
     "picture/IMG_1719 (2).png",
     "picture/Pasted image 20251109224358.png",
-    "picture/Pasted image 20251109223329.png",
     "calculus 1/DIAGNOSTIC",
     "picture/-Readme-.txt",
     "picture/apytngnt.txt",
