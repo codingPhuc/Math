@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Online note/algebra/Section 2.3 Applications of Linear Equations.md",
+                "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 2.3 Applications of Linear Equations"
+              "title": "Home work  requirement"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Online note/algebra/Section 2.3 Applications of Linear Equations.md",
+                "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 2.3 Applications of Linear Equations"
+              "title": "Outline of Home work  requirement"
             }
           }
         ],
@@ -235,8 +235,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "052a5656ec4c2d4e",
+  "active": "3bac655d847fbc90",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Section 2.3 Applications of Linear Equations.md",
     "calculus 1/Math Testing/Math Plan.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "Excalidraw/6.2 Factoring Polynomials (a  =1) 2025-02-06 12.30.00.excalidraw.md",
