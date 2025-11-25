@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "homew",
+                "query": "home",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
