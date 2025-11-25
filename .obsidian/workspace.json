@@ -55,12 +55,16 @@
             "id": "3bac655d847fbc90",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/6.2 Factoring Polynomials (a  =1) 2025-02-06 12.30.00.excalidraw.md"
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 796,
+                "zoom": 1.1225490196078431
               },
-              "icon": "excalidraw-icon",
-              "title": "6.2 Factoring Polynomials (a  =1) 2025-02-06 12.30.00.excalidraw"
+              "icon": "lucide-file-text",
+              "title": "Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
             }
           },
           {
@@ -199,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/6.2 Factoring Polynomials (a  =1) 2025-02-06 12.30.00.excalidraw.md",
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6.2 Factoring Polynomials (a  =1) 2025-02-06 12.30.00.excalidraw"
+              "title": "Outline of Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180"
             }
           }
         ],
@@ -234,6 +238,7 @@
   },
   "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
+    "Excalidraw/6.2 Factoring Polynomials (a  =1) 2025-02-06 12.30.00.excalidraw.md",
     "picture/Doc 08-25-2025 23-03-49 2.pdf",
     "picture/Doc 08-28-2025 13-05-19.pdf",
     "Professor Leonard/IMG_0602.JPG",
@@ -278,7 +283,6 @@
     "picture/IMG_1720.png",
     "calculus 1/DIAGNOSTIC",
     "picture/-Readme-.txt",
-    "picture/apytngnt.txt",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 2 - Section 2.2-2.4 – Math G180.pdf"
+    "picture/apytngnt.txt"
   ]
 }
