@@ -177,3 +177,4 @@ memorize taylor series
 bunary number the thing that is realted to  product  series the big pi  
 
 taylor series 
+bijective function what is it ?
