@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hom",
+                "query": "homework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,8 +135,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,7 +236,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "052a5656ec4c2d4e",
+  "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
     "Excalidraw/6.2 Factoring Polynomials (a  =1) 2025-02-06 12.30.00.excalidraw.md",
     "picture/Doc 08-25-2025 23-03-49 2.pdf",
