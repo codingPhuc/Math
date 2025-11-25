@@ -60,7 +60,7 @@
                 "file": "book/Trig_Cheat_Sheet.pdf",
                 "page": 1,
                 "left": -13,
-                "top": 568,
+                "top": 576,
                 "zoom": 1.1225490196078431
               },
               "icon": "lucide-file-text",
@@ -236,7 +236,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bac655d847fbc90",
+  "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
     "book/Precalculus Stewart 7th Edition.pdf",
     "book/Trig_Cheat_Sheet.pdf",
