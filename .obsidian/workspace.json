@@ -59,7 +59,9 @@
               "state": {
                 "file": "book/Trig_Cheat_Sheet.pdf",
                 "page": 1,
-                "zoom": 1
+                "left": -13,
+                "top": 564,
+                "zoom": 1.1225490196078431
               },
               "icon": "lucide-file-text",
               "title": "Trig_Cheat_Sheet"
