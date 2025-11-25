@@ -55,12 +55,16 @@
             "id": "3bac655d847fbc90",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Professor Leonard/IMG_0602.JPG"
+                "file": "picture/Doc 08-25-2025 23-03-49 2.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 796,
+                "zoom": 1.1225490196078431
               },
-              "icon": "lucide-image",
-              "title": "IMG_0602"
+              "icon": "lucide-file-text",
+              "title": "Doc 08-25-2025 23-03-49 2"
             }
           },
           {
@@ -199,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Professor Leonard/IMG_0602.JPG",
+                "file": "picture/Doc 08-25-2025 23-03-49 2.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IMG_0602"
+              "title": "Outline of Doc 08-25-2025 23-03-49 2"
             }
           }
         ],
@@ -234,6 +238,8 @@
   },
   "active": "3bac655d847fbc90",
   "lastOpenFiles": [
+    "picture/Doc 08-28-2025 13-05-19.pdf",
+    "Professor Leonard/IMG_0602.JPG",
     "Professor Leonard/IMG_0601.JPG",
     "Professor Leonard/IMG_0599.JPG",
     "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
@@ -273,8 +279,6 @@
     "picture/IMG_1885.jpg",
     "calculus 1/Math Testing",
     "picture/IMG_1720.png",
-    "picture/IMG_1719 (2).png",
-    "picture/Pasted image 20251109224358.png",
     "calculus 1/DIAGNOSTIC",
     "picture/-Readme-.txt",
     "picture/apytngnt.txt",
