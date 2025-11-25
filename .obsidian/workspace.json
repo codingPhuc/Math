@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "homework",
+                "query": "hom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,7 +235,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bac655d847fbc90",
+  "active": "052a5656ec4c2d4e",
   "lastOpenFiles": [
     "calculus 1/Math Testing/Math Plan.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
