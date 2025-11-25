@@ -172,4 +172,5 @@ ask  Gita help for these question :
 161  
 
 
-#
+#important 
+memorize taylor series 
