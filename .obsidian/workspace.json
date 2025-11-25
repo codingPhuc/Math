@@ -55,14 +55,14 @@
             "id": "3bac655d847fbc90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
-                "mode": "source",
-                "source": false
+                "file": "book/Trig_Cheat_Sheet.pdf",
+                "page": 1,
+                "zoom": 1
               },
-              "icon": "lucide-file",
-              "title": "Home work  requirement"
+              "icon": "lucide-file-text",
+              "title": "Trig_Cheat_Sheet"
             }
           },
           {
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
+                "file": "book/Trig_Cheat_Sheet.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home work  requirement"
+              "title": "Outline of Trig_Cheat_Sheet"
             }
           }
         ],
@@ -236,13 +236,15 @@
   },
   "active": "3bac655d847fbc90",
   "lastOpenFiles": [
+    "book/Precalculus Stewart 7th Edition.pdf",
+    "book/ECE.pdf",
+    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "calculus 1/Calculus  1 with Gita/check calculator to install.md",
     "calculus 1/12 hours calculus courses/2.5.2 Intermediate Value Theorem.md",
     "calculus 1/12 hours calculus courses/2.5.1 Continuity.md",
     "calculus 1/12 hours calculus courses/2.6.1 limit at infinity and Graphs.md",
     "calculus 1/12 hours calculus courses/2.6.2 Limits at Infinity and Algebraic Tricks.md",
-    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "independent version/Understanding symbols.md",
     "calculus 1/Paul online math note/Section 2.4  Limit Properties.md",
     "calculus 1/Paul online math note/Untitled.md",
@@ -255,7 +257,6 @@
     "calculus 1/Untitled",
     "README.md",
     "book/Trig_Cheat_Sheet.pdf",
-    "book/Precalculus Stewart 7th Edition.pdf",
     "book/Book category.md",
     "templates/RAP (Read – Answer – Practice).md",
     "Block 2 — Concept Build (25–40 min).md",
@@ -264,7 +265,6 @@
     "calculus 1/Paul online math note/Section 2.2  The Limit.md",
     "calculus 1/Paul online math note/Section 1.7  Exponential Functions.md",
     "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
-    "calculus 1/Paul online math note/Section 1.2  Inverse Functions.md",
     "picture/IMG_1889.jpg",
     "picture/IMG_1888.jpg",
     "picture/IMG_1887 1.jpg",
