@@ -180,3 +180,5 @@ taylor series
 bijective function what is it ?
 what is a bunaries formula  
 know how to used wru or wrx, it is used on the line that convert from one equation to another 
+
+equavialent  
