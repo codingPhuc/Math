@@ -178,4 +178,5 @@ bunary number the thing that is realted to  product  series the big pi
 
 taylor series 
 bijective function what is it ?
-what is a bunaries formula 
+what is a bunaries formula  
+know how to used w
