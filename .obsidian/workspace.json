@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "148b74fc748411da",
@@ -233,7 +234,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "052a5656ec4c2d4e",
+  "active": "f8084c8b0632afcc",
   "lastOpenFiles": [
     "book/Trig_Cheat_Sheet.pdf",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
