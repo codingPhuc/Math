@@ -185,3 +185,4 @@ equavialent set theory and such
 equal with arrow simplify thing 
 equilvalent another way of writing it 
 
+evil scribble 
