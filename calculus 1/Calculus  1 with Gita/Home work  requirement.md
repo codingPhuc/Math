@@ -184,3 +184,4 @@ know how to used wru or wrx, it is used on the line that convert from one equati
 equavialent set theory and such 
 equal with arrow simplify thing 
 equilvalent another way of writing it 
+
