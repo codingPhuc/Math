@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,7 +232,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8084c8b0632afcc",
+  "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
     "book/Trig_Cheat_Sheet.pdf",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
