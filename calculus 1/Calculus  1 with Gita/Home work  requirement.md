@@ -173,6 +173,12 @@ ask  Gita help for these question :
 
 
 #important 
+create a system where chatgpt can update your google calendar
+
+
+
+
+
 memorize taylor series 
 bunary number the thing that is realted to  product  series the big pi  
 
