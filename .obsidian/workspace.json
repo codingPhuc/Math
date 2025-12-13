@@ -11,14 +11,16 @@
             "id": "7702301795832f14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "calculus 1/Paul online math note/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 5 - Section 5.5 – Math G180.pdf",
+                "page": 1,
+                "left": -39,
+                "top": 796,
+                "zoom": 0.3799019607843137
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "Blank Lecture Notes – Chapter 5 - Section 5.5 – Math G180"
             }
           }
         ]
@@ -215,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 1/Paul online math note/Untitled.md",
+                "file": "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 5 - Section 5.5 – Math G180.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Blank Lecture Notes – Chapter 5 - Section 5.5 – Math G180"
             }
           }
         ],
@@ -250,12 +252,15 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 5 - Section 5.6 and 5.7 – Math G180.pdf",
+    "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
+    "calculus 1/Calculus  1 with Gita/Math G180-SyllabusTTh1110am-115pm-ONCAMPUS-Fall2025.pdf",
+    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
+    "calculus 1/Paul online math note/Untitled.md",
     "calculus 1/Paul online math note/Section 1.1  Functions.md",
     "calculus 1/Paul online math note/Section 1.2  Inverse Functions.md",
     "calculus 1/Calculus  1 with Gita/solving equation.md",
     "calculus 1/Calculus  1 with Gita/My open math assignment.md",
-    "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
-    "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
     "calculus 1/Paul online math note/Section 1.8  Logarithm Functions.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
@@ -278,8 +283,6 @@
     "calculus 1/Calculus  1 with Gita/check calculator to install.md",
     "calculus 1/Calculus  1 with Gita/First class.md",
     "book/Trig_Cheat_Sheet.pdf",
-    "Paul Online note/algebra/Section 2.3 Applications of Linear Equations.md",
-    "calculus 1/Math Testing/Math Plan.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
     "picture/Doc 08-25-2025 23-03-49 2.pdf",
     "picture/Doc 08-28-2025 13-05-19.pdf",
@@ -288,7 +291,6 @@
     "Professor Leonard/IMG_0599.JPG",
     "book/Precalculus Stewart 7th Edition.pdf",
     "book/ECE.pdf",
-    "calculus 1/Untitled",
     "picture/IMG_1889.jpg",
     "picture/IMG_1888.jpg",
     "picture/IMG_1887 1.jpg",
