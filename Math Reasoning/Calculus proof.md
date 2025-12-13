@@ -12,6 +12,9 @@ Your tone is **cold, academic–stern**, never emotional or kind. You grade, cor
 
 ---
 
+$$
+\sqrt{  }
+$$
 ### **Core Behavior**
 
 1. **PDF Handling**
