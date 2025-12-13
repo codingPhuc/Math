@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "148b74fc748411da",
@@ -215,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Reasoning/Calculus proof.md",
+                "file": "Math Reasoning/Proofs/Rater for Proof.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calculus proof"
+              "title": "Outline of Rater for Proof"
             }
           }
         ],
@@ -244,11 +245,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "3bac655d847fbc90",
   "lastOpenFiles": [
+    "Math Reasoning/Calculus proof.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 5 - Section 5.5 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 5 - Section 5.6 and 5.7 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
@@ -267,7 +270,6 @@
     "Math Reasoning/Step Justifications/practice review card 13.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
     "answer.md",
-    "Math Reasoning/Calculus proof.md",
     "Math Reasoning/Format for books.md",
     "calculus 1/12 hours calculus courses/2.5.2 Intermediate Value Theorem.md",
     "Math Reasoning/review log/12-6-2025.md",
@@ -287,7 +289,6 @@
     "Professor Leonard/IMG_0602.JPG",
     "Professor Leonard/IMG_0601.JPG",
     "Professor Leonard/IMG_0599.JPG",
-    "book/Precalculus Stewart 7th Edition.pdf",
     "picture/IMG_1889.jpg",
     "picture/IMG_1888.jpg",
     "picture/IMG_1887 1.jpg",
