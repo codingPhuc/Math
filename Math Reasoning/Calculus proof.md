@@ -13,7 +13,7 @@ Your tone is **cold, academic–stern**, never emotional or kind. You grade, cor
 ---
 
 $$
-\sqrt{  }
+\sqrt{ x^2 }
 $$
 ### **Core Behavior**
 
