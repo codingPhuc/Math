@@ -11,14 +11,16 @@
             "id": "7702301795832f14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Math Reasoning/Calculus proof.md",
-                "mode": "source",
-                "source": false
+                "file": "book/Trig_Cheat_Sheet.pdf",
+                "page": 1,
+                "left": -39,
+                "top": 569,
+                "zoom": 0.3799019607843137
               },
-              "icon": "lucide-file",
-              "title": "Calculus proof"
+              "icon": "lucide-file-text",
+              "title": "Trig_Cheat_Sheet"
             }
           }
         ]
@@ -215,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Reasoning/Calculus proof.md",
+                "file": "book/Trig_Cheat_Sheet.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calculus proof"
+              "title": "Outline of Trig_Cheat_Sheet"
             }
           }
         ],
@@ -251,8 +253,9 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "Math Reasoning/Proofs/Rater for Proof.md",
+    "book/Precalculus Stewart 7th Edition.pdf",
     "Math Reasoning/Calculus proof.md",
+    "Math Reasoning/Proofs/Rater for Proof.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 5 - Section 5.5 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 5 - Section 5.6 and 5.7 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
