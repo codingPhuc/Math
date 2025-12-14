@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/Trig_Cheat_Sheet.pdf",
+                "file": "book/MATH-CALC-STEWART.pdf",
                 "page": 1,
                 "left": -39,
-                "top": 569,
+                "top": 787,
                 "zoom": 0.3799019607843137
               },
               "icon": "lucide-file-text",
-              "title": "Trig_Cheat_Sheet"
+              "title": "MATH-CALC-STEWART"
             }
           }
         ]
@@ -95,8 +95,7 @@
               "title": "2.5.2 Intermediate Value Theorem"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/Trig_Cheat_Sheet.pdf",
+                "file": "book/ECE.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trig_Cheat_Sheet"
+              "title": "Outline of ECE"
             }
           }
         ],
@@ -251,11 +250,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7702301795832f14",
+  "active": "484e8598d1b88e37",
   "lastOpenFiles": [
+    "Math Reasoning/Proofs/Rater for Proof.md",
+    "book/MATH-CALC-STEWART.pdf",
+    "book/Trig_Cheat_Sheet.pdf",
+    "book/MATH-CALC-STEWART.pdf.crdownload",
     "book/Precalculus Stewart 7th Edition.pdf",
     "Math Reasoning/Calculus proof.md",
-    "Math Reasoning/Proofs/Rater for Proof.md",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 5 - Section 5.5 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 5 - Section 5.6 and 5.7 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
@@ -285,10 +287,6 @@
     "calculus 1/Calculus  1 with Gita/Untitled.md",
     "calculus 1/Calculus  1 with Gita/check calculator to install.md",
     "calculus 1/Calculus  1 with Gita/First class.md",
-    "book/Trig_Cheat_Sheet.pdf",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 1 - Section 1.1 – Math G180.pdf",
-    "picture/Doc 08-25-2025 23-03-49 2.pdf",
-    "picture/Doc 08-28-2025 13-05-19.pdf",
     "Professor Leonard/IMG_0602.JPG",
     "Professor Leonard/IMG_0601.JPG",
     "Professor Leonard/IMG_0599.JPG",
