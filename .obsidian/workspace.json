@@ -14,10 +14,8 @@
               "type": "pdf",
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 10,
-                "left": -133,
-                "top": 623,
-                "zoom": 0.7842522155125088
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -80,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "right": {
     "id": "148b74fc748411da",
@@ -175,8 +172,7 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "7702301795832f14",
