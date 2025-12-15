@@ -11,14 +11,16 @@
             "id": "7702301795832f14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "calculus 2/Study schedule.md",
-                "mode": "source",
-                "source": false
+                "file": "book/MATH-CALC-STEWART.pdf",
+                "page": 522,
+                "left": -8,
+                "top": 382,
+                "zoom": 1.9607843137254901
               },
-              "icon": "lucide-file",
-              "title": "Study schedule"
+              "icon": "lucide-file-text",
+              "title": "MATH-CALC-STEWART"
             }
           },
           {
@@ -192,9 +194,9 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "calculus 2/Study schedule.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
     "book/MATH-CALC-SPIVAK-4E.pdf",
-    "calculus 2/Study schedule.md",
     "templates/adjunction.md",
     "calculus 2",
     "Math Reasoning/Format for books.md",
