@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 524,
+                "page": 522,
                 "left": -8,
-                "top": 453,
-                "zoom": 1.9607843137254901
+                "top": 378,
+                "zoom": 1.9606305387812726
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -178,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7702301795832f14",
+  "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
     "book/Precalculus Stewart 7th Edition.pdf",
     "book/MATH-CALC-STEWART.pdf",
