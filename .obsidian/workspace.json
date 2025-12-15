@@ -57,14 +57,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "calculus 2/trig_cheat_sheet.pdf",
-                "page": 2,
-                "left": -8,
-                "top": 639,
+                "file": "book/Precalculus Stewart 7th Edition.pdf",
+                "page": 1,
+                "left": 25,
+                "top": 820,
                 "zoom": 1.9607843137254901
               },
               "icon": "lucide-file-text",
-              "title": "trig_cheat_sheet"
+              "title": "Precalculus Stewart 7th Edition"
             }
           }
         ],
@@ -223,7 +223,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "462430e9853758cb",
+  "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
     "calculus 2/tyler boogar Homework.md",
     "calculus 2/trig_cheat_sheet.pdf",
