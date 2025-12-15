@@ -50,9 +50,25 @@
               "icon": "lucide-file",
               "title": "tyler boogar Homework"
             }
+          },
+          {
+            "id": "462430e9853758cb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "calculus 2/trig_cheat_sheet.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 796,
+                "zoom": 1.9607843137254901
+              },
+              "icon": "lucide-file-text",
+              "title": "trig_cheat_sheet"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,12 +223,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b1f6bf5fc57b7e1",
+  "active": "462430e9853758cb",
   "lastOpenFiles": [
+    "calculus 2/tyler boogar Homework.md",
     "book/MATH-CALC-STEWART.pdf",
     "calculus 2/trig_cheat_sheet.pdf",
     "calculus 2/trig_cheat_sheet.pdf.crdownload",
-    "calculus 2/tyler boogar Homework.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
     "book/MATH-CALC-SPIVAK-4E.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
@@ -230,7 +246,6 @@
     "book/Trig_Cheat_Sheet.pdf",
     "book/MATH-CALC-STEWART.pdf.crdownload",
     "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 5 - Section 5.5 – Math G180.pdf",
-    "calculus 1/Calculus  1 with Gita/books/Blank Lecture Notes – Chapter 5 - Section 5.6 and 5.7 – Math G180.pdf",
     "calculus 1/Calculus  1 with Gita/Question to ask Gita.md",
     "calculus 1/Calculus  1 with Gita/Home work  requirement.md",
     "calculus 1/Paul online math note/Untitled.md",
