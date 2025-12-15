@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/MATH-CALC-SPIVAK-4E.pdf",
+                "file": "book/MATH-CALC-STEWART.pdf",
                 "page": 1,
                 "left": -8,
-                "top": 710,
-                "zoom": 1.8382352941176474
+                "top": 787,
+                "zoom": 1.9607843137254901
               },
               "icon": "lucide-file-text",
-              "title": "MATH-CALC-SPIVAK-4E"
+              "title": "MATH-CALC-STEWART"
             }
           },
           {
@@ -194,11 +194,11 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "book/MATH-CALC-SPIVAK-4E.pdf",
     "book/MATH-CALC-STEWART.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "calculus 2/Study schedule.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
-    "book/MATH-CALC-SPIVAK-4E.pdf",
     "templates/adjunction.md",
     "calculus 2",
     "Math Reasoning/Format for books.md",
