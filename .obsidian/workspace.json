@@ -58,9 +58,9 @@
               "type": "pdf",
               "state": {
                 "file": "calculus 2/trig_cheat_sheet.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -8,
-                "top": 796,
+                "top": 677,
                 "zoom": 1.9607843137254901
               },
               "icon": "lucide-file-text",
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,11 +223,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "462430e9853758cb",
+  "active": "8b1f6bf5fc57b7e1",
   "lastOpenFiles": [
+    "calculus 2/trig_cheat_sheet.pdf",
     "calculus 2/tyler boogar Homework.md",
     "book/MATH-CALC-STEWART.pdf",
-    "calculus 2/trig_cheat_sheet.pdf",
     "calculus 2/trig_cheat_sheet.pdf.crdownload",
     "Math Reasoning/Proofs/Rater for Proof.md",
     "book/MATH-CALC-SPIVAK-4E.pdf",
