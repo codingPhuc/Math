@@ -16,7 +16,7 @@
                 "file": "book/MATH-CALC-STEWART.pdf",
                 "page": 526,
                 "left": 80,
-                "top": 390,
+                "top": 360,
                 "zoom": 2.1
               },
               "icon": "lucide-file-text",
@@ -36,8 +36,19 @@
               "icon": "lucide-file",
               "title": "Rater for Proof"
             }
+          },
+          {
+            "id": "8b1f6bf5fc57b7e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7702301795832f14",
+  "active": "8b1f6bf5fc57b7e1",
   "lastOpenFiles": [
     "Math Reasoning/Proofs/Rater for Proof.md",
     "book/MATH-CALC-STEWART.pdf",
