@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 526,
-                "left": 80,
-                "top": 360,
-                "zoom": 2.1
+                "page": 527,
+                "left": -256,
+                "top": 321,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -208,9 +208,9 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "Math Reasoning/Proofs/Rater for Proof.md",
     "calculus 2/tyler boogar Homework.md",
     "book/MATH-CALC-STEWART.pdf",
+    "Math Reasoning/Proofs/Rater for Proof.md",
     "book/MATH-CALC-SPIVAK-4E.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "calculus 2/Study schedule.md",
@@ -243,7 +243,6 @@
     "calculus 1/Calculus  1 with Gita/Solve my equation exercise.md",
     "independent version/Untitled 2.md",
     "calculus 1/Calculus  1 with Gita/Second Class.md",
-    "calculus 1/Calculus  1 with Gita/Untitled.md",
     "Professor Leonard/IMG_0602.JPG",
     "Professor Leonard/IMG_0601.JPG",
     "Professor Leonard/IMG_0599.JPG",
