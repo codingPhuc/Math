@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 522,
-                "left": -8,
-                "top": 382,
+                "file": "book/Precalculus Stewart 7th Edition.pdf",
+                "page": 1,
+                "left": 25,
+                "top": 820,
                 "zoom": 1.9607843137254901
               },
               "icon": "lucide-file-text",
-              "title": "MATH-CALC-STEWART"
+              "title": "Precalculus Stewart 7th Edition"
             }
           },
           {
@@ -194,6 +194,7 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "book/MATH-CALC-STEWART.pdf",
     "calculus 2/Study schedule.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
     "book/MATH-CALC-SPIVAK-4E.pdf",
@@ -206,7 +207,6 @@
     "Math Reasoning/Step Justifications/What is Justifying step.md",
     "Math Reasoning/Step Justifications/practice review card 13.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
-    "book/MATH-CALC-STEWART.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "book/ECE.pdf",
     "book/Trig_Cheat_Sheet.pdf",
