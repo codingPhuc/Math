@@ -25,18 +25,17 @@
             "id": "1b65a4b3b350429d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "book/MATH-CALC-SPIVAK-4E.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Math Reasoning/Proofs/Rater for Proof.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "MATH-CALC-SPIVAK-4E"
+              "icon": "lucide-file",
+              "title": "Rater for Proof"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +190,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b65a4b3b350429d",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
+    "Math Reasoning/Proofs/Rater for Proof.md",
+    "book/MATH-CALC-SPIVAK-4E.pdf",
     "calculus 2/Study schedule.md",
     "templates/adjunction.md",
     "calculus 2",
-    "Math Reasoning/Proofs/Rater for Proof.md",
-    "book/MATH-CALC-SPIVAK-4E.pdf",
     "Math Reasoning/Format for books.md",
     "Math Reasoning/Calculus proof.md",
     "Math Reasoning/review log/12-6-2025.md",
@@ -228,7 +227,6 @@
     "independent version/Untitled 2.md",
     "calculus 1/Calculus  1 with Gita/Second Class.md",
     "calculus 1/Calculus  1 with Gita/Untitled.md",
-    "calculus 1/Calculus  1 with Gita/check calculator to install.md",
     "Professor Leonard/IMG_0602.JPG",
     "Professor Leonard/IMG_0601.JPG",
     "Professor Leonard/IMG_0599.JPG",
