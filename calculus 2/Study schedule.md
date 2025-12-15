@@ -355,9 +355,9 @@ You chose **problem-first**, so each section starts with **2 “anchor problems�
 - **Prereqs:** substitution, trig substitution, algebraic simplification, definite integrals.
     
 - **Key results (for oral):**  
-    [  
+    $$ 
     L=\int_a^b \sqrt{1+\left(\frac{dy}{dx}\right)^2},dx  
-    ]$$
+    $$
     Plain language: “Add up tiny straight-line lengths along the curve.”
     
 - **Anchor problems (cold, 10 min each):** #1, #2.
@@ -382,9 +382,9 @@ You chose **problem-first**, so each section starts with **2 “anchor problems�
 - **Why this chapter:** Same “geometry-from-integrals,” but with a second layer (radius factor).
     
 - **Key result (typical form):**  
-    [  
+    $$ 
     S=2\pi\int_a^b y,\sqrt{1+\left(\frac{dy}{dx}\right)^2},dx  
-    ]  
+    ]$$
     Plain language: “Arc-length element times circumference, summed.”
     
 - **Exercises set (assigned):** 8.2: #1–17 (odd).
