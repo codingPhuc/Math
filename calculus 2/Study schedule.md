@@ -357,7 +357,7 @@ You chose **problem-first**, so each section starts with **2 “anchor problems�
 - **Key results (for oral):**  
     [  
     L=\int_a^b \sqrt{1+\left(\frac{dy}{dx}\right)^2},dx  
-    ]  
+    ]$$
     Plain language: “Add up tiny straight-line lengths along the curve.”
     
 - **Anchor problems (cold, 10 min each):** #1, #2.
