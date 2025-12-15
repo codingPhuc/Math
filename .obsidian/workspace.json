@@ -29,15 +29,14 @@
               "state": {
                 "file": "book/MATH-CALC-SPIVAK-4E.pdf",
                 "page": 1,
-                "left": -4,
-                "top": 698,
-                "zoom": 1.8382352941176474
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-SPIVAK-4E"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,13 +187,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7702301795832f14",
+  "active": "1b65a4b3b350429d",
   "lastOpenFiles": [
-    "templates/adjunction.md",
     "calculus 2/Study schedule.md",
+    "templates/adjunction.md",
     "calculus 2",
     "Math Reasoning/Proofs/Rater for Proof.md",
     "book/MATH-CALC-SPIVAK-4E.pdf",

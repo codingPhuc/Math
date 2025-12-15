@@ -20,7 +20,7 @@ You requested **6–8 hours/day**, but your accepted Deep Work blocks only allow
 - **Key terms/theorems:** partition, refinement, upper sum (U(f,P)), lower sum (L(f,P)), Riemann integrable.
     
 - **Core equations (for oral):**  
-    [$
+    $$
     U(f,P)=\sum M_i,\Delta x_i,\quad L(f,P)=\sum m_i,\Delta x_i  
 $$ 
     Plain language: Upper sums use the _maximum_ height on each subinterval; lower sums use the _minimum_.
