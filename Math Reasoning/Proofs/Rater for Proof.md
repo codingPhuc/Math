@@ -10,7 +10,9 @@ learning score:
 ---
 Revised Prompt (v1) — “Session Rater with Session-Specific Sources”
 
-x^2  
+$$
+x^2 -\frac{1}{}
+ $$
 
 
 Use this as the base prompt for each subfolder/session. Replace items in [BRACKETS] with your details.
