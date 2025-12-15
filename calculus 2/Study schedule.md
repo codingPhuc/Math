@@ -384,7 +384,7 @@ You chose **problem-first**, so each section starts with **2 “anchor problems�
 - **Key result (typical form):**  
     $$ 
     S=2\pi\int_a^b y,\sqrt{1+\left(\frac{dy}{dx}\right)^2},dx  
-    ]$$
+    $$
     Plain language: “Arc-length element times circumference, summed.”
     
 - **Exercises set (assigned):** 8.2: #1–17 (odd).
@@ -426,9 +426,9 @@ You chose **problem-first**, so each section starts with **2 “anchor problems�
 - **Objective:** Translate a force/weight/extension description into (F(x)) and integrate.
     
 - **Key template:**  
-    [  
+    $$
     W=\int_a^b F(x),dx  
-    ]  
+    $$
     Plain language: “Total work = add up small force·distance contributions.”
     
 - **Exercises set (assigned):** 8.3: #25–33 (odd).
