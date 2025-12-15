@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 787,
-                "zoom": 1.9607843137254901
+                "page": 526,
+                "left": 80,
+                "top": 396,
+                "zoom": 2.1
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -37,7 +37,8 @@
               "title": "Rater for Proof"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7702301795832f14",
+  "active": "1b65a4b3b350429d",
   "lastOpenFiles": [
-    "book/MATH-CALC-SPIVAK-4E.pdf",
     "book/MATH-CALC-STEWART.pdf",
+    "book/MATH-CALC-SPIVAK-4E.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "calculus 2/Study schedule.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
