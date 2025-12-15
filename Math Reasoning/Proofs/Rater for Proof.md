@@ -10,6 +10,9 @@ learning score:
 ---
 Revised Prompt (v1) — “Session Rater with Session-Specific Sources”
 
+x^2  
+
+
 Use this as the base prompt for each subfolder/session. Replace items in [BRACKETS] with your details.
 ![[MATH-CALC-SPIVAK-4E.pdf]]
 ---
