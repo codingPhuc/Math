@@ -11,7 +11,7 @@ learning score:
 Revised Prompt (v1) — “Session Rater with Session-Specific Sources”
 
 $$
-x^2 -\frac{1}{\sin \left( \frac{1}{2} \right)} 
+x^2 -\frac{1}{\sin \left( \frac{1}{2} \right)} -2 =   0 
  $$
 
 
