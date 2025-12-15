@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "1b65a4b3b350429d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math Reasoning/Proofs/Rater for Proof.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rater for Proof"
-            }
-          },
-          {
             "id": "8b1f6bf5fc57b7e1",
             "type": "leaf",
             "state": {
@@ -74,15 +60,14 @@
                 "file": "calculus 2/trig_cheat_sheet.pdf",
                 "page": 2,
                 "left": -8,
-                "top": 648,
+                "top": 563,
                 "zoom": 1.9607843137254901
               },
               "icon": "lucide-file-text",
               "title": "trig_cheat_sheet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,10 +222,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37cfd31e28a711b7",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
-    "book/MATH-CALC-STEWART.pdf",
     "calculus 2/trig_cheat_sheet.pdf",
+    "book/MATH-CALC-STEWART.pdf",
     "Math Reasoning/Proofs/Rater for Proof.md",
     "calculus 2/tyler boogar Homework.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
