@@ -333,15 +333,6 @@ oral recall: speaking definitions/methods from memory without notes
 redo loop: repeating only missed-problem types until the error stops recurring 
 
 
-
-## Scope fix (your “8.something” point)
-
-You were right: “8.something” wasn’t a mystery topic—it was **Homework #5–#6 starting Stewart Section 8.1–8.3**, and my earlier output didn’t fully track every later homework list item. Your teacher’s HW sheet explicitly assigns **8.1 + 8.2 + mixed 7.5 for HW #5**, and **8.3 + 11.1 + Spivak 14 for HW #6**.
-
-Also, the items you pasted (11.3–11.11, 9.1–10.3, etc.) are **Homework #8–#14**, not missing/ignored—just later in the pipeline.
-
----
-
 # Week 3 (2025-12-28–2026-01-03) — MATH 185 Calc 2
 
 **Target HW:** #5–#6 (Stewart 8.1–8.3 + 11.1; Spivak 14)  
