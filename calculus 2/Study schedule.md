@@ -213,410 +213,198 @@ You requested **6–8 hours/day**, but your accepted Deep Work blocks only allow
 - **Calc 2:** Start numerical + improper integrals via §7.7–§7.8 (assigned subsets). _Stewart 9e, §7.7–§7.8._ Why: concept+compute exam blend. Deliverable: decision tree + summary. (**4.0 h**)
     
 - **Calc 2:** Weekly interleaved timed quiz + oral “explain-the-method” round. _Stewart 9e §§7.1–7.4; Spivak Ch 12–13._ Why: exam conditioning. Deliverable: scored quiz + redo list. (**3.0 h**)
+
+
+You’re right: my earlier “card” for §8.2 was **missing required fields** (Prereqs / Key terms / Core equation / Estimated time). That was **not** because Calc 2 ends there, and **not** because your homework stops there. It was simply an incomplete card format. From now on, every Chapter Plan Card will include **all** required fields.
+
+## What those intake toggles actually change (clear + concrete)
+
+- **I1 Daily 1-line log**: adds a tiny daily deliverable (1 line). Effect: forces consistency + makes review easier.  
+    Example line: “12/14: §8.1 odd #1–9; missed setup on #7; fix: write $ds$ formula first.”
+    
+- **J6/J7/J8/J9 Buffer (0/10/15/20%)**: reserves **time** (not tasks). Effect: you plan _less_ new work so you can absorb spillover.  
+    Example: if you have 30 hours available and choose **15% buffer**, you only plan **25.5 hours** of new work; **4.5 hours** stays open for catch-up.
+    
+- **J4 vs J5 Max study per day (6h vs no cap)**: caps **planned** study time _per day_. Effect: prevents overload days (J4) or uses every available hour (J5). Since you’re on winter break, J5 is fine **if** you still keep a buffer.
     
 
 ---
 
-## C) Scheduled Blocks (America/Los_Angeles)
+# Chapter Plan Cards (complete fields) — HW #5–#6 (Stewart §8.1–§8.3 + §11.1 + assigned extras)
 
-### Sunday (12/14)
+### Card — Stewart §8.1 Arc Length
 
-- **08:00–09:25** Spivak 12: definition build + terminology (3×25 w/ 5-min breaks)
+- **Book/edition/section:** Stewart, _Calculus_ (your PDF), **§8.1 “Arc Length”**.
     
-- **09:35–11:00** Spivak 12: (U,L) computation practice + start assigned set
+- **Objective:** Compute arc length for $y=f(x)$ (and when needed, parametric) with correct setup + clean algebra.
     
-- **11:10–12:35** Spivak 13: FTC statements + 3 application drills
+- **Why this section:** Your HW explicitly assigns §8.1 problems; this is a setup-heavy skill that punishes sloppy structure.
     
-- **13:30–14:55** Stewart 7.1: derive by-parts + replicate 2 examples
+- **Lecture video:** “8.1”.
     
-- **15:05–16:15** Stewart 7.1: begin assigned exercises (focus on correct setup)
+- **Prereqs to recall:** derivative rules; simplifying radicals; substitution; trig identities (when $\sqrt{1+(f')^2}$ becomes trig).
     
-- **19:00–20:20** Finish Stewart 7.1 essentials + error log (what failed, why, fix)
+- **Key terms/theorems:** arc length; smooth curve; differential of arc length $ds$.
     
-- **20:45–22:15** Timed mini-check (7.1) + light preview of 7.2 patterns
+- **Core equation (for oral):**  
+    $$  
+    L=\int_a^b \sqrt{1+\big(f'(x)\big)^2},dx  
+    $$  
+    Plain language: “Total curve length = sum of tiny straight-line pieces; $\sqrt{1+(f')^2}$ is the local stretch factor.”
     
-
-### Monday (12/15)
-
-- **19:00–20:20** Stewart 7.2: pattern chart + 2 example replications
+- **Worked examples to replicate:** (i) one where $1+(f')^2$ becomes a perfect square; (ii) one requiring substitution.
     
-- **20:45–22:15** Stewart 7.2: assigned drill block (mix easy→hard)
+- **Exercises set (your HW):** HW #5 → **§8.1 #1–25 (odd), 53, 55, 57, 65**.
     
-
-### Tuesday (12/16)
-
-- **06:30–07:30** Oral recall: Spivak 12 defs + by-parts formula + 7.2 patterns
+- **Deliverable:** “§8.1 Arc Length Pack” — every problem with: (1) formula written first, (2) simplified integrand, (3) final exact value.
     
-- **19:00–20:20** Stewart 7.3: 3-case trig-sub sheet + 1 example each case
+- **Mastery check (timed; pass ≥80%):** 25 minutes: 2 problems; pass if **both setups correct** and ≥1 fully correct final answer.
     
-- **20:45–22:15** Stewart 7.3: assigned exercises (setup correctness > speed)
-    
-
-### Wednesday (12/17)
-
-- **19:00–20:20** Stewart 7.4: decomposition types + step checklist + 2 examples
-    
-- **20:45–22:15** Stewart 7.4: assigned exercises (factor → decompose → integrate)
-    
-
-### Thursday (12/18)
-
-- **06:30–07:30** Spivak reinforcement: integrability + FTC oral (record answers)
-    
-- **19:00–20:20** Stewart 7.5 (mixed strategies): interleaved set (7.1–7.4 mix)
-    
-- **20:45–22:15** Timed interleaved drill (score it; mark redo list)
-    
-
-### Friday (12/19)
-
-- **14:00–15:25** Stewart 7.7: trapezoid/Simpson rules + 2 guided reps
-    
-- **15:35–17:00** Stewart 7.7: assigned problems (calculator) + method explanation
-    
-- **19:00–20:20** Stewart 7.8: improper integrals concept + convergence decision tree
-    
-- **20:45–22:15** Stewart 7.8: assigned starter set + mini-check
-    
-
-### Saturday (12/20)
-
-- **09:00–10:25** Weekly timed quiz (7.1–7.4): 25-min set + 60-min corrections
-    
-- **10:35–12:00** Targeted redo loop (only missed-types; stop when 3 in a row correct)
-    
-- **14:00–15:25** Start Stewart 8.1 preview + 2 examples (if energy good; else buffer)
-    
-- **15:35–17:00** Stewart 8.1: assigned starter problems (from HW #5)
-    
-- **19:00–20:20** Oral exam simulation: “Explain method before computing” (record)
-    
-- **20:45–22:15** Cumulative weekly quiz #2 (short) + finalize next-week slip list
+- **Estimated time:** 4.5–7.0 h (problem-count is large).
     
 
 ---
 
-## D) Checkpoint and Slip Rules
+### Card — Stewart §8.2 Area of Surface of Revolution
 
-**This week’s timed check (primary):**
-
-- **Saturday 09:00–10:25**: 8 problems total (2 each from §7.1–§7.4), timed; **pass ≥80%**.
+- **Book/edition/section:** Stewart, _Calculus_ (your PDF), **§8.2 “Area of Surface of Revolution”**.
     
-
-**Slip policy (deterministic):**
-
-- If a block ends unfinished, move the unfinished tail to the **next open block** (same week).
+- **Objective:** Convert geometry + axis of rotation into the correct surface-area integral reliably.
     
-- If no open block exists, replace the **lowest-priority item** (8.1 preview first, then 7.8 extra problems) with the slip item.
+- **Why this section:** Your HW assigns §8.2 and includes a known answer-key typo you must avoid.
     
-- Missed mastery check ⇒ the **next morning block** becomes “redo-only” until pass.
+- **Lecture video:** “8.2”.
     
-
----
-
-## E) End Prompts
-
-- **Generate Teacher Prompt for MATH 185 Calc 2?** yes/no
+- **Prereqs to recall:** §8.1 arc length integrand; solids of revolution vocabulary; careful bounds; algebra simplification.
     
-- **CONTINUE FOR NEXT SUBJECT:** none (you selected Calc 2 only)
+- **Key terms/theorems:** surface of revolution; radius-to-axis; line element $ds$; “about x-axis vs y-axis” mapping.
     
-
----
-
-## Definitions
-
-buffer: reserved unscheduled minutes inside your Deep Work blocks to absorb spillover  
-Deep Work block: a fixed time window you said can be used for studying  
-interleaved practice: mixing topics in one set to force method selection under exam conditions  
-mastery check: a short timed test; passing means ≥80% correct with correct setups  
-oral recall: speaking definitions/methods from memory without notes  
-redo loop: repeating only missed-problem types until the error stops recurring 
-
-
-# Week 3 (2025-12-28–2026-01-03) — MATH 185 Calc 2
-
-**Target HW:** #5–#6 (Stewart 8.1–8.3 + 11.1; Spivak 14)  
-**Lecture video support:** 8.1, 8.2, 8.3, 11.1 are explicitly listed in your lecture-video index.
-
-You chose **problem-first**, so each section starts with **2 “anchor problems”** (attempt cold), then you do concept/derivation, then the full assigned set.
-
----
-
-## A) Chapter Plan Cards
-
-### Card 1 — Stewart 8.1 (Arc Length)
-
-- **Book/edition/section:** Stewart Calculus, Section 8.1 “Arc Length”
+- **Core equation (for oral):**  
+    $$  
+    S = 2\pi\int_a^b f(x)\sqrt{1+\big(f'(x)\big)^2},dx  
+    $$  
+    Plain language: “Surface area = sum of thin ‘bands’; each band’s area is circumference $(2\pi f)$ times slant length $ds$.”
     
-- **Objective:** Derive and use the arc-length integral for a curve (Cartesian and/or param where assigned).
+- **Worked examples to replicate:** (i) rotation about x-axis; (ii) rotation about y-axis; (iii) one where rewriting as $x=g(y)$ is cleaner.
     
-- **Why this chapter:** This is your first “geometry-from-integrals” unit; it tests setup discipline.
+- **Exercises set (your HW):** HW #5 → **§8.2 #1–17 (odd)**.
     
-- **Prereqs:** substitution, trig substitution, algebraic simplification, definite integrals.
-    
-- **Key results (for oral):**  
-    $$ 
-    L=\int_a^b \sqrt{1+\left(\frac{dy}{dx}\right)^2},dx  
-    $$
-    Plain language: “Add up tiny straight-line lengths along the curve.”
-    
-- **Anchor problems (cold, 10 min each):** #1, #2.
-    
-- **Exercises set (assigned):** 8.1: #1, #2, #9–19 (odd), #35, #39.
-    
-- **Deliverable:** 1-page “Arc Length Setup Sheet” (formula + when to use + 2 worked examples).
-    
-- **Mastery check (timed; pass ≥80%):** 20 min: one arc-length setup + compute integral cleanly.
-    
-- **Estimated time:** 6–8 pomodoros (25-min units).
-    
-
----
-
-### Card 2 — Stewart 8.2 (Surface Area of Revolution)
-
-- **Book/edition/section:** Stewart Calculus, Section 8.2 “Surface Area”
-    
-- **Objective:** Derive and use surface-area integrals (about x- or y-axis as needed).
-    
-- **Why this chapter:** Same “geometry-from-integrals,” but with a second layer (radius factor).
-    
-- **Key result (typical form):**  
-    $$ 
-    S=2\pi\int_a^b y,\sqrt{1+\left(\frac{dy}{dx}\right)^2},dx  
-    $$
-    Plain language: “Arc-length element times circumference, summed.”
-    
-- **Exercises set (assigned):** 8.2: #1–17 (odd).
-    
-    - Note: your HW sheet warns a book-answer correction for 8.2 #9.
+    - **Course note (typo):** for Problem 9, book answer **$27\sqrt{27}$** should be **$17\sqrt{17}$**.
         
-- **Deliverable:** 1-page “Surface Area Setup Sheet” + corrected note for #9.
+- **Deliverable:** “§8.2 Clean Solutions” — each problem includes a quick labeled sketch + axis + radius expression.
     
-- **Mastery check:** 25 min: choose axis correctly + set up (S) + finish integral.
+- **Mastery check (timed; pass ≥80%):** 20 minutes: 2 problems; pass if **both setups correct** and ≥1 final answer correct.
     
-- **Estimated time:** 6–9 pomodoros.
-    
-
----
-
-### Card 3 — Stewart 7.5 Mixed Review (7.1–7.4 techniques)
-
-- **Book/edition/section:** Stewart 7.5 (your HW says it’s 7.1–7.4 mixed).
-    
-- **Objective:** Build “method selection” speed: by parts vs trig integrals vs trig substitution vs partial fractions.
-    
-- **Why this chapter:** Prevents you from stalling on 8.1–8.2 integrals.
-    
-- **Exercises set (assigned):** 7.5: #1–37 (every other odd: 1, 5, 9, …).
-    
-- **Deliverable:** 1-page “Technique Decision Tree” (If you see ___, try ___).
-    
-- **Mastery check:** 15 min: identify the method for 8 integrals (no solving), ≥7/8 correct.
-    
-- **Estimated time:** 5–7 pomodoros.
+- **Estimated time:** 4.0–6.5 h.
     
 
 ---
 
-### Card 4 — Stewart 8.3 (Work / Physical Applications)
+### Bridge Card — Stewart §7.5 Strategy for Integration (assigned review)
 
-- **Book/edition/section:** Stewart 8.3 (Exercises page shown in the PDF).
+- **Book/edition/section:** Stewart, _Calculus_ (your PDF), **§7.5**.
     
-- **Objective:** Translate a force/weight/extension description into (F(x)) and integrate.
+- **Objective:** Build a repeatable “method-picking” routine so arc length / surface area integrals don’t stall.
     
-- **Key template:**  
-    $$
-    W=\int_a^b F(x),dx  
-    $$
-    Plain language: “Total work = add up small force·distance contributions.”
+- **Why this section:** Your HW #5 assigns a §7.5 mixed set alongside §8.1–§8.2.
     
-- **Exercises set (assigned):** 8.3: #25–33 (odd).
+- **Prereqs to recall:** u-sub; integration by parts; trig integrals; trig substitution; partial fractions (as needed).
     
-- **Deliverable:** “Work Setups Sheet” (spring, lifting, fluid-force template lines).
+- **Key terms/theorems:** “recognize the pattern”; rewrite first; choose method; check by differentiation.
     
-- **Mastery check:** 25 min: one word problem → correct (F(x)) + bounds + integral.
+- **Core equation (for oral):**  
+    $$  
+    \text{Verify: }\frac{d}{dx}\big(F(x)\big)=f(x)  
+    $$  
+    Plain language: “Your integral is correct only if differentiating your answer reproduces the integrand.”
     
-- **Estimated time:** 4–6 pomodoros.
+- **Exercises set (your HW):** HW #5 → **§7.5 #41–77 (odd)**.
     
-
----
-
-### Card 5 — Stewart 11.1 (Sequences)
-
-- **Book/edition/section:** Stewart Section 11.1 “Sequences”.
+- **Deliverable:** “§7.5 Integration Playbook” — one page: pattern → method → 1 example each.
     
-- **Objective:** Define sequences, compute limits, recognize monotone/bounded behavior (as needed for series later).
+- **Mastery check (timed; pass ≥80%):** 18 minutes: 4 integrals; pass 3/4 with correct method + result.
     
-- **Why this chapter:** This is the on-ramp to **series/tests** (11.2+ onward in later HW).
-    
-- **Exercises set (assigned):** 11.1: #1, #2, #3–17 (odd), #23–55 (odd), #72–78 (all).
-    
-- **Deliverable:** 1-page “Sequences Core Sheet” (definition, limit laws, 6 representative examples).
-    
-- **Mastery check:** 20 min: 8 quick limits/classifications; pass ≥7/8.
-    
-- **Estimated time:** 8–12 pomodoros (large set).
+- **Estimated time:** 3.0–5.0 h.
     
 
 ---
 
-### Card 6 — Spivak 14 (Proof/Explanation set, assigned)
+### Card — Stewart §8.3 Applications to Physics and Engineering
 
-- **Book/edition/section:** Spivak Calculus 4e, Ch. 14 problems (as assigned).
+- **Book/edition/section:** Stewart, _Calculus_ (your PDF), **§8.3 “Applications to Physics and Engineering”**.
     
-- **Objective:** Produce clean, rigorous explanations (your weakness: proofs/explanations).
+- **Objective:** Translate word/diagram physics setups into correct integrals (units + bounds + variable).
     
-- **Exercises set (assigned):** #1 (i–vii), #3, #4, #8.
+- **Why this section:** HW #6 assigns §8.3; these are “setup-first” problems where your structure matters more than speed.
     
-- **Deliverable:** “Proof Pack #1”: typed or handwritten proof-quality solutions (define terms, state claim, prove).
+- **Lecture video:** “8.3”.
     
-- **Mastery check:** 10 min oral: explain the _structure_ of one proof without looking.
+- **Prereqs to recall:** density/weight ideas; units; slicing strategy; surface area / arc length style integrals.
     
-- **Estimated time:** 6–10 pomodoros.
+- **Key terms/theorems:** force; pressure; work; hydrostatic pressure.
     
-
----
-
-## B) Weekly Tasks (atomic; each ends with time)
-
-- **Calc 2 (HW #5 / 8.1):** Do anchors #1–2 cold → study derivation + examples → finish assigned set #9–19 odd, #35, #39 → Arc Length Setup Sheet. (**5.0 h**)
+- **Core equation (for oral):**  
+    $$  
+    p=wD,\qquad F=pA  
+    $$  
+    Plain language: “Pressure at depth = (weight density)×(depth); force = pressure×area.”
     
-- **Calc 2 (HW #5 / 8.2):** Do 2 cold anchors → surface-area derivation → finish #1–17 odd (flag #9 answer correction) → Surface Area Setup Sheet. (**5.5 h**)
+- **Worked examples to replicate:** one hydrostatic-force setup + one “work” setup (draw slice, label $D$, express $dA$).
     
-- **Calc 2 (HW #5 / 7.5 mixed):** Method-ID drill (no solving) → solve assigned #1–37 every-other-odd → Technique Decision Tree. (**4.0 h**)
+- **Exercises set (your HW):** HW #6 → **§8.3 #1–15 (odd)**.
     
-- **Calc 2 (HW #6 / 8.3):** Work template drill → solve #25–33 odd → Work Setups Sheet. (**2.5 h**)
+- **Deliverable:** “§8.3 Setup Sheet” — each problem must show: diagram, variable definition, $dA$ or $dx$, and units check.
     
-- **Calc 2 (HW #6 / 11.1):** Sequences core reading → solve assigned set → Sequences Core Sheet. (**6.0 h**)
+- **Mastery check (timed; pass ≥80%):** 25 minutes: 2 problems; pass if both setups correct and units consistent.
     
-- **Calc 2 (HW #6 / Spivak 14):** Solve #1(i–vii), #3, #4, #8 with proof formatting → Proof Pack #1 + 10-min oral outline. (**4.0 h**)
-    
-- **Weekly checkpoint:** 75 min closed-book mixed: 1 arc length, 1 surface area, 1 work setup, 2 sequence limits, 1 short proof-outline. (**1.25 h**)
-    
-
-Lecture video rule (support, not replacement): watch the matching lecture before the first full problem batch for each section.
-
----
-
-## C) Scheduled Blocks (Week 3)
-
-**Pattern inside long windows:** each line below is **85 min = 3×25 min with 5-min breaks**, then take **10 min reset** before the next 85-min block.
-
-### Sun 2025-12-28 (Deep Work AM 8:00–4:15)
-
-- 08:00–09:25 — 8.1 anchors #1–2 + arc-length derivation notes
-    
-- 09:35–11:00 — 8.1 problems batch A (#9–13 odd)
-    
-- 11:10–12:35 — 8.1 problems batch B (#15–19 odd)
-    
-- 12:35–13:15 — break/lunch
-    
-- 13:15–14:40 — 8.1 problems batch C (#35, #39) + error log
-    
-- 14:50–16:15 — Arc Length Setup Sheet + 20-min mastery check
-    
-
-**Sun evening**
-
-- 19:00–20:20 — 8.2 derivation + 2 cold anchors
-    
-- 20:45–22:15 — 8.2 problems batch A (#1–9 odd; flag #9 correction)
-    
-
-### Mon 2025-12-29
-
-- 19:00–20:20 — 8.2 problems batch B (#11–17 odd)
-    
-- 20:45–22:15 — Surface Area Setup Sheet + mastery check
-    
-
-### Tue 2025-12-30
-
-- 06:30–07:30 — 7.5 method-ID drill (8 integrals: choose method only)
-    
-- 19:00–20:20 — 7.5 solve batch A (first half of assigned every-other-odd)
-    
-- 20:45–22:15 — 7.5 solve batch B + Technique Decision Tree
-    
-
-### Wed 2025-12-31
-
-- 19:00–20:20 — 8.3 concept template (work) + set up 2 problems
-    
-- 20:45–22:15 — 8.3 #25–33 odd (finish) + Work Setups Sheet
-    
-
-### Thu 2026-01-01
-
-- 06:30–07:30 — 11.1 definitions + first 6 problems (warm start)
-    
-- 19:00–20:20 — 11.1 batch A (#1,2, #3–17 odd)
-    
-- 20:45–22:15 — 11.1 batch B (#23–35 odd)
-    
-
-### Fri 2026-01-02 (Deep Work 2:00–5:00)
-
-- 14:00–15:25 — 11.1 batch C (#37–55 odd)
-    
-- 15:35–17:00 — 11.1 batch D (#72–78 all)
-    
-
-**Fri evening**
-
-- 19:00–20:20 — Spivak 14: #1(i–iv) proof drafts
-    
-- 20:45–22:15 — Spivak 14: #1(v–vii) proof drafts
-    
-
-### Sat 2026-01-03 (Deep Work 9:00–12:30 + 2:00–5:00)
-
-- 09:00–10:25 — Spivak 14: #3 and #4 (final)
-    
-- 10:35–12:00 — Spivak 14: #8 + Proof Pack #1 formatting
-    
-- 14:00–15:25 — Weekly checkpoint (75 min) + immediate corrections
-    
-- 15:35–17:00 — Finish any remaining 11.1 stragglers + finalize Sequences Core Sheet
-    
-
-**Sat evening (optional if anything slipped within your provided blocks)**
-
-- 19:00–20:20 — Redo the 3 worst-missed problems (error-log driven)
-    
-- 20:45–22:15 — 10-min oral explain: arc length, surface area, work, sequence limit + 1 proof-outline
+- **Estimated time:** 3.5–6.0 h.
     
 
 ---
 
-## D) Checkpoint and Slip Rules
+### Card — Stewart §11.1 Sequences
 
-- **This week’s timed check:** Saturday 75 minutes (mixed, closed-book). Pass ≥80%.
+- **Book/edition/section:** Stewart, _Calculus_ (your PDF), **§11.1 “Sequences”**.
     
-- **Slip policy:** Any unfinished tail **moves to the next open block of the same type** (evening → next evening; long-window → next long-window). If no room exists, the **Sat 19:00–22:15** blocks become “make-up.”
+- **Objective:** Compute limits of sequences and classify convergence using standard tools (algebra, comparison to functions).
+    
+- **Why this section:** HW #6 assigns §11.1; this starts your Chapter 11 pipeline.
+    
+- **Lecture video:** “11.1”.
+    
+- **Prereqs to recall:** limits at infinity; Squeeze Theorem; exponentials vs polynomials; algebraic simplification.
+    
+- **Key terms/theorems:** sequence; convergence/divergence; limit of a sequence; boundedness; monotone.
+    
+- **Core equation (for oral):**  
+    $$  
+    \lim_{n\to\infty} a_n = L\ \Longleftrightarrow\ (\forall \varepsilon>0)\ (\exists N)\ (n>N \Rightarrow |a_n-L|<\varepsilon)  
+    $$  
+    Plain language: “Eventually, all terms land inside any tiny $\varepsilon$-band around $L$.”
+    
+- **Worked examples to replicate:** (i) $a_n=\frac{n}{n+1}$ type; (ii) geometric $r^n$ cases; (iii) squeeze/comparison.
+    
+- **Exercises set (your HW):** HW #6 → **§11.1 #1–27 (every other odd…; skip #29) + #47**.
+    
+- **Deliverable:** “§11.1 Limit Methods List” — a one-page checklist: dominant term, divide by $n^k$, compare to $f(x)$, geometric test.
+    
+- **Mastery check (timed; pass ≥80%):** 15 minutes: 5 sequence limits; pass 4/5.
+    
+- **Estimated time:** 4.0–6.0 h.
     
 
 ---
 
-## E) End Prompts
+If you want, I will continue next with **HW #7–#9 cards** (Stewart **§11.2–§11.8** + your assigned **Spivak 18** items) and then **HW #10–#14** (Stewart **§11.9–§11.11, §9.1/9.3/9.5, §10.1–§10.3** + Spivak 22) exactly as listed in your homework PDF.
 
-- **Generate Teacher Prompt for Calc 2? yes/no**
-    
-- **CONTINUE FOR NEXT WEEK (Week 4 = HW #7: 11.2 + 7.5 #41–77 mixed)? yes/no**
-    
+Reply: **CONTINUE (HW #7–#9 cards)**.
 
 ---
 
 ## Definitions
 
-- **arc length:** the length of a curve computed by integrating tiny straight-line pieces.
-    
-- **surface area of revolution:** area of the surface formed by rotating a curve around an axis, computed via an integral.
-    
-- **work:** accumulated force applied over distance, modeled by (\int F(x),dx).
-    
-- **sequence:** a function (a:\mathbb{N}\to\mathbb{R}), written ({a_n}), studied via its limit behavior.
-    
-- **anchor problem:** a cold-start problem used to expose what you don’t know before studying.
+buffer: a reserved fraction of total study time kept unscheduled for spillover and catch-up.  
+daily 1-line log: one sentence per day recording what you did, what broke, and what you’ll fix next.  
+arc length: the length of a curve computed by integrating the “local stretch factor” along an interval.  
+surface of revolution: the surface formed by rotating a curve around an axis; its area is found by integrating circumference × slant length.  
+sequence: a function $a:\mathbb{N}\to\mathbb{R}$, written $(a_n)$, whose limit studies behavior as $n\to\infty$.
