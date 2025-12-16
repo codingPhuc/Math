@@ -16,7 +16,7 @@
                 "file": "book/MATH-CALC-STEWART.pdf",
                 "page": 537,
                 "left": -4,
-                "top": 7,
+                "top": 224,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
@@ -81,8 +81,7 @@
               "title": "tyler boogar Homework"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "5cebb24212fac3ee",
@@ -269,12 +268,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "462430e9853758cb",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
+    "Math Reasoning/Step Justifications/oral review card 13.md",
     "calculus 2/trig_cheat_sheet.pdf",
     "book/MATH-CALC-STEWART.pdf",
     "Math Reasoning/review log/Progress log.md",
-    "Math Reasoning/Step Justifications/oral review card 13.md",
     "calculus 2/tyler boogar Homework.md",
     "picture/Pasted image 20251215203203.png",
     "Card 1.md",
