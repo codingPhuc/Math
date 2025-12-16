@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,20 +223,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b1f6bf5fc57b7e1",
+  "active": "37cfd31e28a711b7",
   "lastOpenFiles": [
+    "Math Reasoning/Step Justifications/oral review card 13.md",
+    "Math Reasoning/review log/Progress log.md",
     "picture/Pasted image 20251215203203.png",
     "Card 1.md",
     "calculus 2/Study schedule.md",
     "Card 1 — Spivak Ch. 12 (Riemann/Definite Integral foundations).md",
     "Card 1 — Spivak Ch. 12 (Riemann",
     "calculus 2/tyler boogar Homework.md",
-    "Math Reasoning/Step Justifications/oral review card 13.md",
     "book/MATH-CALC-STEWART.pdf",
     "calculus 2/trig_cheat_sheet.pdf",
     "Math Reasoning/Format for books.md",
     "Math Reasoning/Calculus proof.md",
-    "Math Reasoning/review log/Progress log.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
     "book/Precalculus Stewart 7th Edition.pdf",
     "calculus 2/trig_cheat_sheet.pdf.crdownload",
@@ -269,7 +269,6 @@
     "picture/IMG_1887 1.jpg",
     "picture/IMG_1887.jpg",
     "picture/IMG_1886.jpg",
-    "picture/IMG_1885.jpg",
-    "picture/IMG_1720.png"
+    "picture/IMG_1885.jpg"
   ]
 }
