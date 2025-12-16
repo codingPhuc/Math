@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 534,
+                "page": 533,
                 "left": -69,
-                "top": 468,
+                "top": 40,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -67,7 +67,8 @@
               "title": "trig_cheat_sheet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,12 +223,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7702301795832f14",
+  "active": "8b1f6bf5fc57b7e1",
   "lastOpenFiles": [
-    "calculus 2/trig_cheat_sheet.pdf",
     "Math Reasoning/Step Justifications/oral review card 13.md",
-    "calculus 2/tyler boogar Homework.md",
     "book/MATH-CALC-STEWART.pdf",
+    "calculus 2/trig_cheat_sheet.pdf",
+    "calculus 2/tyler boogar Homework.md",
     "calculus 2/Study schedule.md",
     "Math Reasoning/Format for books.md",
     "Math Reasoning/Calculus proof.md",
