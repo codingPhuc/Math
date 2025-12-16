@@ -7,7 +7,7 @@ You requested **6–8 hours/day**, but your accepted Deep Work blocks only allow
 
 ## A) Chapter Plan Cards
 
-### [[Card 1 — Spivak Ch. 12 (Riemann/Definite Integral foundations)]]
+### [[Card 1 ]]— Spivak Ch. 12 (Riemann/Definite Integral foundations)
 
 - **Book/edition/section:** _Calculus_, Michael Spivak, **4th ed.**, **Ch. 12**
     
