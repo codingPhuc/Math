@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 539,
-                "left": -69,
-                "top": 11,
+                "page": 540,
+                "left": -4,
+                "top": 536,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -79,6 +79,28 @@
               },
               "icon": "lucide-file",
               "title": "tyler boogar Homework"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5cebb24212fac3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1f9afc17f1a3298",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "book/MATH-CALC-STEWART.pdf",
+                "page": 540,
+                "left": -16,
+                "top": 540,
+                "zoom": 0.9558823529411765
+              },
+              "icon": "lucide-file-text",
+              "title": "MATH-CALC-STEWART"
             }
           }
         ]
@@ -236,7 +258,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7702301795832f14",
+  "active": "f1f9afc17f1a3298",
   "lastOpenFiles": [
     "calculus 2/tyler boogar Homework.md",
     "calculus 2/trig_cheat_sheet.pdf",
