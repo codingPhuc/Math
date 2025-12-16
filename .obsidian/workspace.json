@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 538,
+                "page": 537,
                 "left": -4,
-                "top": 584,
+                "top": 7,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
@@ -60,7 +60,7 @@
                 "file": "calculus 2/trig_cheat_sheet.pdf",
                 "page": 2,
                 "left": -4,
-                "top": 376,
+                "top": 185,
                 "zoom": 1.9607843137254901
               },
               "icon": "lucide-file-text",
@@ -81,7 +81,8 @@
               "title": "tyler boogar Homework"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "5cebb24212fac3ee",
@@ -95,9 +96,9 @@
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
                 "page": 540,
-                "left": -16,
-                "top": 113,
-                "zoom": 0.95580738765587
+                "left": 69,
+                "top": 445,
+                "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -268,10 +269,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1f9afc17f1a3298",
+  "active": "37cfd31e28a711b7",
   "lastOpenFiles": [
-    "Math Reasoning/review log/Progress log.md",
     "book/MATH-CALC-STEWART.pdf",
+    "Math Reasoning/review log/Progress log.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
     "calculus 2/trig_cheat_sheet.pdf",
     "calculus 2/tyler boogar Homework.md",
