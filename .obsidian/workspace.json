@@ -16,7 +16,7 @@
                 "file": "book/MATH-CALC-STEWART.pdf",
                 "page": 539,
                 "left": -69,
-                "top": 158,
+                "top": 11,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -81,8 +81,7 @@
               "title": "tyler boogar Homework"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,8 +236,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48911ecc3cf74223",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
+    "calculus 2/tyler boogar Homework.md",
     "calculus 2/trig_cheat_sheet.pdf",
     "Math Reasoning/Step Justifications/oral review card 13.md",
     "book/MATH-CALC-STEWART.pdf",
@@ -248,7 +248,6 @@
     "calculus 2/Study schedule.md",
     "Card 1 — Spivak Ch. 12 (Riemann/Definite Integral foundations).md",
     "Card 1 — Spivak Ch. 12 (Riemann",
-    "calculus 2/tyler boogar Homework.md",
     "Math Reasoning/Format for books.md",
     "Math Reasoning/Calculus proof.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
