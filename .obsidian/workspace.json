@@ -57,7 +57,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "calculus 2/trig_cheat_sheet.pdf"
+                "file": "calculus 2/trig_cheat_sheet.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 796,
+                "zoom": 0.9558823529411765
               },
               "icon": "lucide-file-text",
               "title": "trig_cheat_sheet"
@@ -90,7 +94,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/MATH-CALC-STEWART.pdf"
+                "file": "book/MATH-CALC-STEWART.pdf",
+                "page": 540,
+                "left": -16,
+                "top": 453,
+                "zoom": 0.9558073876558703
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -257,13 +265,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1f9afc17f1a3298",
+  "active": "37cfd31e28a711b7",
   "lastOpenFiles": [
-    "calculus 2/trig_cheat_sheet.pdf",
     "book/MATH-CALC-STEWART.pdf",
+    "calculus 2/trig_cheat_sheet.pdf",
     "Math Reasoning/Step Justifications/oral review card 13.md",
     "calculus 2/tyler boogar Homework.md",
     "Math Reasoning/review log/Progress log.md",
