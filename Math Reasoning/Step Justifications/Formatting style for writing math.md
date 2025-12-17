@@ -111,10 +111,10 @@ $$> [
     
 
 > _Template:_  
-> Since (\frac{d}{d\theta}(\csc\theta) = -\csc\theta\cot\theta),  
+$$> Since (\frac{d}{d\theta}(\csc\theta) = -\csc\theta\cot\theta),  
 > [  
 > I = \big[-\csc\theta\big]_{\pi/3}^{\arccos(1/3)}.  
-> ]
+> ]$$
 
 ---
 
