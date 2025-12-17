@@ -25,7 +25,7 @@ You do **not** need to write section headers in an exam, but you should _mentall
 > Let  
 > [  
 > I := \int_{2}^{3} \frac{dx}{(x^2-1)^{3/2}}.  
-> ]
+> ] &&
 
 ---
 
