@@ -80,8 +80,8 @@ You do **not** need to write section headers in an exam, but you should _mentall
     
 
 > _Template:_  
-> When (x=2), (\sec\theta=2), so (\theta=\arccos(1/2)=\pi/3).  
-> When (x=3), (\sec\theta=3), so (\theta=\arccos(1/3)).
+$$> When (x=2), (\sec\theta=2), so (\theta=\arccos(1/2)=\pi/3).  
+> When (x=3), (\sec\theta=3), so (\theta=\arccos(1/3)).$$
 
 ---
 
@@ -94,12 +94,12 @@ You do **not** need to write section headers in an exam, but you should _mentall
 
 > _Template:_  
 > Therefore,  
-> [  
+$$> [  
 > I  
 > = \int_{\pi/3}^{\arccos(1/3)}  
 > \frac{\sec\theta\tan\theta}{\tan^3\theta},d\theta  
 > = \int_{\pi/3}^{\arccos(1/3)} \csc\theta\cot\theta,d\theta.  
-> ]
+> ]$$
 
 ---
 
