@@ -128,13 +128,13 @@ $$> Since (\frac{d}{d\theta}(\csc\theta) = -\csc\theta\cot\theta),
     
 
 > _Template:_  
-> [  
+>$$ [  
 > \csc(\pi/3)=\frac{2}{\sqrt3}, \qquad  
 > \cos\theta=\frac13 \Rightarrow  
 > \sin\theta=\frac{2\sqrt2}{3} \Rightarrow  
 > \csc(\arccos(1/3))=\frac{3}{2\sqrt2}.  
 > ]
-
+$$
 ---
 
 ### **Final Answer**
@@ -145,9 +145,9 @@ $$> Since (\frac{d}{d\theta}(\csc\theta) = -\csc\theta\cot\theta),
     
 
 > _Template:_  
-> [  
+>$$ [  
 > \boxed{I=\frac{2}{\sqrt3}-\frac{3}{2\sqrt2}}.  
-> ]
+> ]$$
 
 ---
 
