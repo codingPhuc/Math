@@ -51,7 +51,7 @@ You do **not** need to write section headers in an exam, but you should _mentall
     
 
 > _Template:_  
-> Then (dx = \sec\theta\tan\theta,d\theta).
+> $$Then (dx = \sec\theta\tan\theta,d\theta).$$
 
 ---
 
@@ -66,9 +66,9 @@ You do **not** need to write section headers in an exam, but you should _mentall
 
 > _Template:_  
 > Since (\sec^2\theta - 1 = \tan^2\theta), and (\theta \in [0,\pi/2)) implies (\tan\theta \ge 0), we have  
-> [  
+> $$[  
 > (x^2-1)^{3/2} = (\tan^2\theta)^{3/2} = \tan^3\theta.  
-> ]
+> ]$$
 
 ---
 
