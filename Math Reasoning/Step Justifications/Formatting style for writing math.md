@@ -454,7 +454,7 @@ If you paste the relevant pages (screenshots are fine), I will replace every “
 ---
 
 ## F) Rewritten Solution (LaTeX, terse formal)
-
+$$
 [  
 I:=\int_{2}^{3}\frac{dx}{(x^{2}-1)^{3/2}}.  
 ]  
@@ -489,7 +489,7 @@ Hence
 [  
 \boxed{I=\frac{2}{\sqrt3}-\frac{3}{2\sqrt2}}.  
 ]
-
+$$
 ---
 
 If you paste (or screenshot) the **Stewart pages** covering §7.2 trig substitution and the derivative/integral of (\csc), I will replace each “Citation needed” with exact **Stewart p.__ / Spivak p.__ / Enderton p.__** and recompute the rigor score under your rubric.
