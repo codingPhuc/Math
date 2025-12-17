@@ -23,9 +23,9 @@ You do **not** need to write section headers in an exam, but you should _mentall
 
 > _Example:_  
 > Let  
-> [  
+> $$[  
 > I := \int_{2}^{3} \frac{dx}{(x^2-1)^{3/2}}.  
-> ] &&
+> ] $$
 
 ---
 
@@ -39,7 +39,7 @@ You do **not** need to write section headers in an exam, but you should _mentall
     
 
 > _Template:_  
-> Let (x = \sec\theta) with (\theta \in [0,\pi/2)).
+>$$ Let (x = \sec\theta) with (\theta \in [0,\pi/2)).$$
 
 ---
 
