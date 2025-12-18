@@ -1,2 +1,2 @@
 linear factors 
-irred
+irreducible quadratic 
