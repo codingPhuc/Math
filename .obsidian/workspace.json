@@ -56,9 +56,9 @@
               "type": "pdf",
               "state": {
                 "file": "calculus 2/trig_cheat_sheet.pdf",
-                "page": 2,
+                "page": 1,
                 "left": -21,
-                "top": 745,
+                "top": 67,
                 "zoom": 0.7205882352941176
               },
               "icon": "lucide-file-text",
@@ -90,16 +90,14 @@
             "id": "f1f9afc17f1a3298",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 2,
-                "left": -21,
-                "top": 265,
-                "zoom": 0.7205317230021177
+                "file": "calculus 2/tyler boogar Homework.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "MATH-CALC-STEWART"
+              "icon": "lucide-file",
+              "title": "tyler boogar Homework"
             }
           },
           {
@@ -269,10 +267,10 @@
   },
   "active": "f1f9afc17f1a3298",
   "lastOpenFiles": [
+    "book/MATH-CALC-STEWART.pdf",
     "calculus 2/trig_cheat_sheet.pdf",
     "Math Reasoning/Step Justifications/Formatting style for writing math.md",
     "Math Reasoning/Proofs/Math Prompt.md",
-    "book/MATH-CALC-STEWART.pdf",
     "Math Reasoning/Step Justifications/oral review card 13.md",
     "book/MATH-CALC-SPIVAK-4E.pdf",
     "calculus 2/tyler boogar Homework.md",
