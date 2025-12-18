@@ -79,7 +79,8 @@
               "title": "tyler boogar Homework"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "5cebb24212fac3ee",
@@ -94,7 +95,7 @@
                 "file": "book/MATH-CALC-STEWART.pdf",
                 "page": 1,
                 "left": -16,
-                "top": 473,
+                "top": 160,
                 "zoom": 0.9558823529411765
               },
               "icon": "lucide-file-text",
@@ -266,10 +267,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7702301795832f14",
+  "active": "37cfd31e28a711b7",
   "lastOpenFiles": [
-    "Math Reasoning/Proofs/Math Prompt.md",
     "Math Reasoning/Step Justifications/Formatting style for writing math.md",
+    "Math Reasoning/Proofs/Math Prompt.md",
     "book/MATH-CALC-STEWART.pdf",
     "Math Reasoning/Step Justifications/oral review card 13.md",
     "calculus 2/trig_cheat_sheet.pdf",
