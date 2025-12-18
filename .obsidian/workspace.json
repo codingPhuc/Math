@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Reasoning/Step Justifications/Formatting style for writing math.md",
+                "file": "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formatting style for writing math"
+              "title": "key words to understand"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "tyler boogar Homework"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "5cebb24212fac3ee",
@@ -265,10 +264,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "462430e9853758cb",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
-    "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
+    "Math Reasoning/Proofs/Math Prompt.md",
+    "Math Reasoning/Proofs/Rater for Proof.md",
     "Math Reasoning/Step Justifications/Formatting style for writing math.md",
+    "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
     "calculus 2/trig_cheat_sheet.pdf",
     "calculus 2/tyler boogar Homework.md",
@@ -277,8 +278,6 @@
     "Math Reasoning/Step Justifications/practice review card 13.md",
     "calculus 2/Study schedule.md",
     "book/MATH-CALC-STEWART.pdf",
-    "Math Reasoning/Proofs/Rater for Proof.md",
-    "Math Reasoning/Proofs/Math Prompt.md",
     "book/MATH-CALC-SPIVAK-4E.pdf",
     "picture/Pasted image 20251215203203.png",
     "Card 1.md",
