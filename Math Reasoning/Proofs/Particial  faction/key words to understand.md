@@ -8,5 +8,5 @@ why does :
 $$
 \frac{x}{(x - 2) (x^2 + 1 ) (x^2 + 4)}    =  \frac{A}{(x - 2)   }  + \frac{Bx + C }{x^2 + 1} + \frac{Dx + E}{x^2 + 4}
 $$
-why does the term wit the denominator (x^2 + 1  ) have  2 term B and C with B multiply by the variable x ? 
+why does the term wit the denominator (x^2 + 1  ) have  2 term B and C in the numerator, with B multiply by the variable x ? 
 
