@@ -4,3 +4,6 @@ what does it mean by a factor not being repeated and a factor not being a consta
 what a least common denominator and how does it work in fraction 
 what is a coefficient 
 
+why does : 
+$$
+\frac{x}{(x - 2) (x^2 + 1 
