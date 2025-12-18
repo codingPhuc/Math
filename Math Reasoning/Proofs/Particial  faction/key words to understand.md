@@ -6,4 +6,5 @@ what is a coefficient
 
 why does : 
 $$
-\frac{x}{(x - 2) (x^2 + 1 
+\frac{x}{(x - 2) (x^2 + 1 ) (x^2 + 4)}    =
+$$
