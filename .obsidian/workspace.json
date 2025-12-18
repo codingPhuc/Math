@@ -57,9 +57,9 @@
               "state": {
                 "file": "calculus 2/trig_cheat_sheet.pdf",
                 "page": 2,
-                "left": -16,
-                "top": 427,
-                "zoom": 0.9558823529411766
+                "left": -21,
+                "top": 745,
+                "zoom": 0.7205882352941176
               },
               "icon": "lucide-file-text",
               "title": "trig_cheat_sheet"
@@ -93,10 +93,10 @@
               "type": "pdf",
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 160,
-                "zoom": 0.9558823529411765
+                "page": 2,
+                "left": -21,
+                "top": 265,
+                "zoom": 0.7205317230021177
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -267,13 +267,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37cfd31e28a711b7",
+  "active": "f1f9afc17f1a3298",
   "lastOpenFiles": [
+    "calculus 2/trig_cheat_sheet.pdf",
     "Math Reasoning/Step Justifications/Formatting style for writing math.md",
     "Math Reasoning/Proofs/Math Prompt.md",
     "book/MATH-CALC-STEWART.pdf",
     "Math Reasoning/Step Justifications/oral review card 13.md",
-    "calculus 2/trig_cheat_sheet.pdf",
     "book/MATH-CALC-SPIVAK-4E.pdf",
     "calculus 2/tyler boogar Homework.md",
     "Math Reasoning/review log/Progress log.md",
@@ -305,7 +305,6 @@
     "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
     "calculus 1/Paul online math note/Section 1.8  Logarithm Functions.md",
     "answer.md",
-    "calculus 1/12 hours calculus courses/2.5.2 Intermediate Value Theorem.md",
     "Professor Leonard/IMG_0602.JPG",
     "Professor Leonard/IMG_0601.JPG",
     "Professor Leonard/IMG_0599.JPG",
