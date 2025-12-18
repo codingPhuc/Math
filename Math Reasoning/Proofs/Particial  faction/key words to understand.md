@@ -1,1 +1,1 @@
-partical
+linear 
