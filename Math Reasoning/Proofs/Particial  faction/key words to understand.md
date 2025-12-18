@@ -1,1 +1,2 @@
-linear 
+linear factors 
+irreduci
