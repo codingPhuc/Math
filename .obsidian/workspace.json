@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Reasoning/Step Justifications/oral review card 13.md",
+                "file": "Paul Online note/algebra/Complex Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "oral review card 13"
+              "title": "Complex Numbers"
             }
           },
           {
@@ -266,9 +266,13 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "Paul Online note/algebra/Equation with more than one Variable.md",
+    "Paul Online note/algebra/Faction.md",
+    "Paul Online note/algebra/Factoring Polynomials.md",
+    "Paul Online note/algebra/Pasted image 20241201201758.png",
+    "Math Reasoning/Step Justifications/oral review card 13.md",
     "Math Reasoning/Step Justifications/practice review card 13.md",
     "Math Reasoning/Step Justifications/Formatting style for writing math.md",
-    "Math Reasoning/Step Justifications/oral review card 13.md",
     "Math Reasoning/Step Justifications/What is Justifying step.md",
     "Math Reasoning/Step Justifications/with respect to.md",
     "Math Reasoning/Calculus proof.md",
@@ -300,8 +304,6 @@
     "calculus 1/Paul online math note/Section 1.2  Inverse Functions.md",
     "calculus 1/Calculus  1 with Gita/solving equation.md",
     "calculus 1/Calculus  1 with Gita/My open math assignment.md",
-    "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
-    "calculus 1/Paul online math note/Section 1.8  Logarithm Functions.md",
     "Professor Leonard/IMG_0602.JPG",
     "Professor Leonard/IMG_0601.JPG",
     "Professor Leonard/IMG_0599.JPG",
@@ -309,7 +311,6 @@
     "picture/IMG_1888.jpg",
     "picture/IMG_1887 1.jpg",
     "picture/IMG_1887.jpg",
-    "picture/IMG_1886.jpg",
-    "picture/IMG_1885.jpg"
+    "picture/IMG_1886.jpg"
   ]
 }
