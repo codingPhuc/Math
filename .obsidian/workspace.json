@@ -93,10 +93,10 @@
               "type": "pdf",
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 540,
+                "page": 544,
                 "left": -16,
-                "top": 453,
-                "zoom": 0.9558823529411765
+                "top": 224,
+                "zoom": 0.9558073876558701
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -267,8 +267,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1f9afc17f1a3298",
+  "active": "48911ecc3cf74223",
   "lastOpenFiles": [
+    "book/MATH-CALC-STEWART.pdf",
     "calculus 2/trig_cheat_sheet.pdf",
     "calculus 2/Study schedule.md",
     "calculus 2/tyler boogar Homework.md",
@@ -279,7 +280,6 @@
     "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
     "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
-    "book/MATH-CALC-STEWART.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "Math Reasoning/Calculus proof.md",
     "Math Reasoning/Format for books.md",
