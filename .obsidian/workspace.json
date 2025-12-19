@@ -142,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MATH",
+                "query": "Symbol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
