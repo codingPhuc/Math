@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "5cebb24212fac3ee",
@@ -163,7 +163,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,16 +266,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "052a5656ec4c2d4e",
   "lastOpenFiles": [
+    "Math Reasoning/Step Justifications/oral review card 13.md",
+    "Math Reasoning/Proofs/Math Prompt.md",
     "calculus 2/tyler boogar Homework.md",
     "calculus 2/Study schedule.md",
     "calculus 2/trig_cheat_sheet.pdf",
     "book/MATH-CALC-STEWART.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
-    "Math Reasoning/Step Justifications/oral review card 13.md",
     "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
-    "Math Reasoning/Proofs/Math Prompt.md",
     "Math Reasoning/Calculus proof.md",
     "Math Reasoning/Format for books.md",
     "Math Reasoning/Step Justifications/with respect to.md",
