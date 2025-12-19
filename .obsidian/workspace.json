@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
+                "file": "Math note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "key words to understand"
+              "title": "Math note"
             }
           },
           {
@@ -265,8 +265,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "8b1f6bf5fc57b7e1",
   "lastOpenFiles": [
+    "Linear algebra.md",
+    "Introduction to algorithm.md",
+    "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
+    "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
     "Math Reasoning/Proofs/Math Prompt.md",
     "calculus 2/tyler boogar Homework.md",
@@ -274,7 +278,6 @@
     "calculus 2/trig_cheat_sheet.pdf",
     "book/MATH-CALC-STEWART.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
-    "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
     "Math Reasoning/Calculus proof.md",
     "Math Reasoning/Format for books.md",
     "Math Reasoning/Step Justifications/with respect to.md",
@@ -284,10 +287,7 @@
     "Math Reasoning/Proofs/Rater for Proof.md",
     "Math Reasoning/review log/Progress log.md",
     "Math note.md",
-    "Linear algebra.md",
-    "Introduction to algorithm.md",
     "How to factor and solve fourth degree polynomial.md",
-    "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
     "Block 2 — Concept Build (25–40 min).md",
     "answer.md",
     "AI math promt.md",
