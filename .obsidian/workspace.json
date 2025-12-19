@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
+                "file": "Math Reasoning/Proofs/Math Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "key words to understand"
+              "title": "Math Prompt"
             }
           },
           {
@@ -266,10 +266,10 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "Math Reasoning/Proofs/Math Prompt.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
-    "Math Reasoning/Step Justifications/Formatting style for writing math.md",
     "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
+    "Math Reasoning/Proofs/Math Prompt.md",
+    "Math Reasoning/Step Justifications/Formatting style for writing math.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
     "calculus 2/trig_cheat_sheet.pdf",
     "calculus 2/tyler boogar Homework.md",
