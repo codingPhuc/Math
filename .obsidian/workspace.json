@@ -93,10 +93,10 @@
               "type": "pdf",
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 543,
-                "left": -16,
-                "top": 54,
-                "zoom": 0.9558073876558703
+                "page": 544,
+                "left": -21,
+                "top": 460,
+                "zoom": 0.7205317230021174
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -267,8 +267,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48911ecc3cf74223",
+  "active": "f1f9afc17f1a3298",
   "lastOpenFiles": [
+    "Math note.md",
     "README.md",
     "Recomended  books.md",
     "calculus 2/tyler boogar Homework.md",
@@ -276,7 +277,6 @@
     "calculus 2/trig_cheat_sheet.pdf",
     "calculus 2/Study schedule.md",
     "Math Reasoning/Proofs/Math Prompt.md",
-    "Math note.md",
     "Linear algebra.md",
     "Introduction to algorithm.md",
     "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
