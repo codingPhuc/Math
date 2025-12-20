@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus 2/tyler boogar Homework.md",
+                "file": "Math note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tyler boogar Homework"
+              "title": "Math note"
             }
           }
         ],
@@ -92,7 +92,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/MATH-CALC-STEWART.pdf"
+                "file": "book/MATH-CALC-STEWART.pdf",
+                "page": 543,
+                "left": -16,
+                "top": 54,
+                "zoom": 0.9558073876558703
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -259,15 +263,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "48911ecc3cf74223",
   "lastOpenFiles": [
+    "README.md",
+    "Recomended  books.md",
+    "calculus 2/tyler boogar Homework.md",
     "book/MATH-CALC-STEWART.pdf",
     "calculus 2/trig_cheat_sheet.pdf",
     "calculus 2/Study schedule.md",
-    "calculus 2/tyler boogar Homework.md",
     "Math Reasoning/Proofs/Math Prompt.md",
     "Math note.md",
     "Linear algebra.md",
@@ -291,7 +298,6 @@
     "Adjoining Roots of a Polynomial to flied.md",
     "Paul Online note/algebra/Complex Numbers.md",
     "Paul Online note/algebra/Equation with more than one Variable.md",
-    "Paul Online note/algebra/Faction.md",
     "Paul Online note/algebra/Pasted image 20241201201758.png",
     "Math Reasoning/Proofs/Particial  faction",
     "book/MATH-CALC-SPIVAK-4E.pdf",
