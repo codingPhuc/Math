@@ -93,10 +93,10 @@
               "type": "pdf",
               "state": {
                 "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 549,
-                "left": -16,
-                "top": 496,
-                "zoom": 0.9558073876558703
+                "page": 541,
+                "left": 110,
+                "top": 35,
+                "zoom": 1.3
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -267,10 +267,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48911ecc3cf74223",
+  "active": "f1f9afc17f1a3298",
   "lastOpenFiles": [
-    "book/MATH-CALC-STEWART.pdf",
     "Math note.md",
+    "book/MATH-CALC-STEWART.pdf",
     "README.md",
     "Recomended  books.md",
     "calculus 2/tyler boogar Homework.md",
