@@ -165,8 +165,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,10 +267,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1f9afc17f1a3298",
+  "active": "48911ecc3cf74223",
   "lastOpenFiles": [
-    "Math note.md",
     "book/MATH-CALC-STEWART.pdf",
+    "Math note.md",
     "README.md",
     "Recomended  books.md",
     "calculus 2/tyler boogar Homework.md",
