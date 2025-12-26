@@ -55,7 +55,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "calculus 2/trig_cheat_sheet.pdf"
+                "file": "calculus 2/trig_cheat_sheet.pdf",
+                "page": 2,
+                "left": -16,
+                "top": 675,
+                "zoom": 0.9558823529411764
               },
               "icon": "lucide-file-text",
               "title": "trig_cheat_sheet"
@@ -93,8 +97,8 @@
                 "file": "book/MATH-CALC-STEWART.pdf",
                 "page": 543,
                 "left": -16,
-                "top": 432,
-                "zoom": 0.9558073876558703
+                "top": 437,
+                "zoom": 0.9558823529411765
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -114,8 +118,7 @@
               "title": "Untitled 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,10 +269,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "afb953201239e51c",
+  "active": "f1f9afc17f1a3298",
   "lastOpenFiles": [
     "Untitled 4.md",
     "calculus 2/trig_cheat_sheet.pdf",
