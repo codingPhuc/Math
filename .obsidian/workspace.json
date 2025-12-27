@@ -55,11 +55,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "calculus 2/trig_cheat_sheet.pdf",
-                "page": 2,
-                "left": -16,
-                "top": 675,
-                "zoom": 0.9558823529411764
+                "file": "calculus 2/trig_cheat_sheet.pdf"
               },
               "icon": "lucide-file-text",
               "title": "trig_cheat_sheet"
@@ -94,11 +90,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 543,
-                "left": -16,
-                "top": 437,
-                "zoom": 0.9558823529411765
+                "file": "book/MATH-CALC-STEWART.pdf"
               },
               "icon": "lucide-file-text",
               "title": "MATH-CALC-STEWART"
@@ -269,15 +261,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "f1f9afc17f1a3298",
   "lastOpenFiles": [
-    "Untitled 4.md",
     "calculus 2/trig_cheat_sheet.pdf",
     "book/MATH-CALC-STEWART.pdf",
+    "Untitled 4.md",
     "Math note.md",
     "README.md",
     "Recomended  books.md",
@@ -303,7 +294,6 @@
     "answer.md",
     "AI math promt.md",
     "Adjoining Roots of a Polynomial to flied.md",
-    "Paul Online note/algebra/Complex Numbers.md",
     "Paul Online note/algebra/Pasted image 20241201201758.png",
     "Math Reasoning/Proofs/Particial  faction",
     "book/MATH-CALC-SPIVAK-4E.pdf",
