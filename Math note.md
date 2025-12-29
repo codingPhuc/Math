@@ -65,4 +65,3 @@ $$
 A(S)  = \int_{a}^{\infty} f(x )  dx 
 $$
 
- 
