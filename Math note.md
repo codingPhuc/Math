@@ -4,8 +4,8 @@ references: https://tutorial.math.lamar.edu/Classes/Alg/Lines.aspx
 tags:
   - In_Progress
 learning method: Vault + Read + Recall + Practice  (VRRP Method)
-Current date: "2025-06-30"
-amount of time: 
+Current date: 2025-06-30
+amount of time:
 learning score:
 ---
 
@@ -58,4 +58,11 @@ You can even invent your own consistent shortcuts for words like:
 
 ---
 
-Would you like a printable reference sheet with these symbols and meanings for studying or note-taking?
+Would you like a printable reference sheet with these symbols and meanings for studying or note-taking? 
+
+
+$$ 
+A(S)  = \int_{a}^{\infty} f(x )  dx 
+$$
+
+ 
