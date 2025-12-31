@@ -97,7 +97,7 @@
                 "file": "book/MATH-CALC-STEWART.pdf",
                 "page": 583,
                 "left": -16,
-                "top": 480,
+                "top": 245,
                 "zoom": 0.9558073876558703
               },
               "icon": "lucide-file-text",
@@ -275,10 +275,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b1f6bf5fc57b7e1",
+  "active": "f1f9afc17f1a3298",
   "lastOpenFiles": [
-    "book/MATH-CALC-STEWART.pdf",
     "Math note.md",
+    "book/MATH-CALC-STEWART.pdf",
     "book/MATH-CALC-SPIVAK-4E.pdf",
     "book/Precalculus Stewart 7th Edition.pdf",
     "Untitled 4.md",
