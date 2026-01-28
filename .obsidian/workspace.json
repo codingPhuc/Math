@@ -4,123 +4,121 @@
     "type": "split",
     "children": [
       {
-        "id": "ce5d69c38a07476c",
-        "type": "tabs",
+        "id": "86db755b0ed1deda",
+        "type": "split",
         "children": [
           {
-            "id": "7702301795832f14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
-                "mode": "source",
-                "source": false
+            "id": "ce5d69c38a07476c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7702301795832f14",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Math Reasoning/notes/7.4/Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Untitled"
+                }
               },
-              "icon": "lucide-file",
-              "title": "key words to understand"
-            }
+              {
+                "id": "8b1f6bf5fc57b7e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rating of method.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "rating of method"
+                }
+              },
+              {
+                "id": "462430e9853758cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Math Reasoning/Step Justifications/oral review card 13.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "oral review card 13"
+                }
+              },
+              {
+                "id": "37cfd31e28a711b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Math Reasoning/notes/Belk p.1–4 Practice Bank.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Belk p.1–4 Practice Bank"
+                }
+              }
+            ]
           },
           {
-            "id": "8b1f6bf5fc57b7e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math note.md",
-                "mode": "source",
-                "source": false
+            "id": "ec252b2f4f3fb8d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "48911ecc3cf74223",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Math Reasoning/notes/method rating for learning thesis.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "method rating for learning thesis"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Math note"
-            }
-          },
-          {
-            "id": "462430e9853758cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math Reasoning/Step Justifications/oral review card 13.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "e477faded11a0685",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled 5.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Untitled 5"
+                }
               },
-              "icon": "lucide-file",
-              "title": "oral review card 13"
-            }
-          },
-          {
-            "id": "37cfd31e28a711b7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "calculus 2/trig_cheat_sheet.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 608,
-                "zoom": 0.9558823529411764
-              },
-              "icon": "lucide-file-text",
-              "title": "trig_cheat_sheet"
-            }
-          },
-          {
-            "id": "48911ecc3cf74223",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 579,
-                "left": -16,
-                "top": 467,
-                "zoom": 0.9558073876558703
-              },
-              "icon": "lucide-file-text",
-              "title": "MATH-CALC-STEWART"
-            }
+              {
+                "id": "912e1b9bfef15943",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled 5.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Untitled 5"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "5cebb24212fac3ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f1f9afc17f1a3298",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "book/MATH-CALC-STEWART.pdf",
-                "page": 583,
-                "left": -16,
-                "top": 245,
-                "zoom": 0.9558073876558703
-              },
-              "icon": "lucide-file-text",
-              "title": "MATH-CALC-STEWART"
-            }
-          },
-          {
-            "id": "ea7ca0eeb3584fad",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "book/MATH-CALC-SPIVAK-4E.pdf",
-                "page": 563,
-                "left": -23,
-                "top": 92,
-                "zoom": 0.896139705882353
-              },
-              "icon": "lucide-file-text",
-              "title": "MATH-CALC-SPIVAK-4E"
-            }
-          }
-        ]
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -241,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/MATH-CALC-STEWART.pdf",
+                "file": "Math Reasoning/notes/7.4/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MATH-CALC-STEWART"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -255,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,45 +272,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1f9afc17f1a3298",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
-    "Math note.md",
+    "Math Reasoning/notes/7.4/Note Styles.md",
+    "Math Reasoning/notes/7.4/Untitled.md",
+    "Math Reasoning/notes/7.8/Untitled.md",
+    "Math Reasoning/notes/Example note structure.md",
+    "Math Reasoning/notes/generate a plan to learn one specific definition prompt.md",
+    "Math Reasoning/notes/method rating for learning thesis.md",
+    "Math Reasoning/notes/Structural Algebra for Computational Procedures.md",
+    "Math Reasoning/notes/Number Theory for Polynomials.md",
+    "Math Reasoning/notes/Notes what to write for notes.md",
+    "Math Reasoning/notes/7.4",
+    "Math Reasoning/notes/criterial for rating.md",
+    "Math Reasoning/notes/Belk p.1–4 Practice Bank.md",
+    "Math Reasoning/notes/11/work sequences.md",
+    "Math Reasoning/notes/polynomial/why are polynomial a formal sum.md",
+    "Math Reasoning/notes/7.8/work sequences.md",
+    "Math Reasoning/notes/Untitled",
+    "Math Reasoning/notes/7.8",
+    "proof.md",
+    "rating method 1 chatgpt.md",
     "book/MATH-CALC-STEWART.pdf",
-    "book/MATH-CALC-SPIVAK-4E.pdf",
-    "book/Precalculus Stewart 7th Edition.pdf",
-    "Untitled 4.md",
-    "calculus 2/trig_cheat_sheet.pdf",
-    "README.md",
-    "Recomended  books.md",
-    "calculus 2/tyler boogar Homework.md",
-    "calculus 2/Study schedule.md",
-    "Math Reasoning/Proofs/Math Prompt.md",
-    "Linear algebra.md",
-    "Introduction to algorithm.md",
-    "Card 11 — Definite Integral & Area (Ch. 5.1–5.3).md",
-    "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
+    "Untitled 5.md",
+    "Math Reasoning/notes/11",
+    "Math Reasoning/notes/polynomial",
+    "rating of method.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
-    "Math Reasoning/Calculus proof.md",
-    "Math Reasoning/Format for books.md",
-    "Math Reasoning/Step Justifications/with respect to.md",
-    "Math Reasoning/Step Justifications/What is Justifying step.md",
-    "Math Reasoning/Step Justifications/practice review card 13.md",
-    "Math Reasoning/Step Justifications/Formatting style for writing math.md",
+    "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
+    "Math Reasoning/Proofs/Math Prompt.md",
+    "Math Reasoning/Proofs/Untitled.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
-    "Math Reasoning/review log/Progress log.md",
-    "How to factor and solve fourth degree polynomial.md",
-    "Block 2 — Concept Build (25–40 min).md",
-    "answer.md",
-    "AI math promt.md",
-    "Adjoining Roots of a Polynomial to flied.md",
+    "calculus 2/trig_cheat_sheet.pdf",
+    "Math Reasoning/Format for books.md",
+    "Math Reasoning/Calculus proof.md",
+    "Math Reasoning/Step Justifications/with respect to.md",
+    "Math Reasoning/Untitled.canvas",
+    "Math Reasoning/notes",
+    "Math Reasoning/Example Notes",
+    "book/MATH-CALC-SPIVAK-4E.pdf",
     "Paul Online note/algebra/Pasted image 20241201201758.png",
-    "Math Reasoning/Proofs/Particial  faction",
     "picture/Pasted image 20251215203203.png",
-    "Card 1 — Spivak Ch. 12 (Riemann",
-    "calculus 2/trig_cheat_sheet.pdf.crdownload",
-    "calculus 2",
-    "book/ECE.pdf",
-    "book/Trig_Cheat_Sheet.pdf",
     "Professor Leonard/IMG_0602.JPG",
     "Professor Leonard/IMG_0601.JPG",
     "Professor Leonard/IMG_0599.JPG",

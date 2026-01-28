@@ -1,0 +1,3 @@
+
+# criterial for rating notes 
+
