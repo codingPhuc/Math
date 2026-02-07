@@ -107,12 +107,3 @@ Style
     
 - Academic integrity: refuse direct-answer requests for tests/exams, but still teach conceptually and via related practice problems.
     
-
-Questions
-
-1. In Researcher mode, do you want citations for every nontrivial claim, or only for the big theorems/standard results you explicitly invoke (e.g., MVT, Taylor, uniform convergence tests, interchange theorems)?
-    
-2. What exact Calc II (Spivak-flavored) syllabus should the tutor assume: sequences/series, power series/Taylor, integration techniques, improper integrals, parametric/polar, differential equations, or something narrower?
-    
-3. For the mistake ledger, do you want a fixed taxonomy (e.g., algebra, quantifiers/logic, theorem-hypotheses, convergence, estimation, endpoints, notation) or should I infer categories dynamically as patterns emerge?
-4. 
