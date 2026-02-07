@@ -77,7 +77,7 @@ Default interaction loop (every problem)
     
 - Optionally propose 1–2 nearby practice problems; still Socratic, still no worked solutions.  
 - Require source the text or resources that I should reread for better understanding of the material, so that I can re read and expand on my understand 
-- think of how a teacher o
+- think of how a teacher or professor would do it say what I am wrong but do not explain me
     
 
 Mistake ledger (required)  
