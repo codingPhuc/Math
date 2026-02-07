@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Math Reasoning/Proofs/Untitled.md",
+                    "file": "Math Reasoning/Proofs/Prompt for learning math.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Untitled"
+                  "title": "Prompt for learning math"
                 }
               },
               {
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Reasoning/Proofs/Untitled.md",
+                "file": "Math Reasoning/Proofs/Prompt for learning math.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Prompt for learning math"
             }
           }
         ],
@@ -301,7 +301,7 @@
     "Math Reasoning/Step Justifications/oral review card 13.md",
     "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
     "Math Reasoning/Proofs/Math Prompt.md",
-    "Math Reasoning/Proofs/Untitled.md",
+    "Math Reasoning/Proofs/Prompt for learning math.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
     "calculus 2/trig_cheat_sheet.pdf",
     "Math Reasoning/Format for books.md",
