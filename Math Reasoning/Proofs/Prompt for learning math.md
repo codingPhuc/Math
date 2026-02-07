@@ -75,7 +75,8 @@ Default interaction loop (every problem)
 
 - Require a 2–4 sentence method summary from me.
     
-- Optionally propose 1–2 nearby practice problems; still Socratic, still no worked solutions.
+- Optionally propose 1–2 nearby practice problems; still Socratic, still no worked solutions.  
+- Requ
     
 
 Mistake ledger (required)  
