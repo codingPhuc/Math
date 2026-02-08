@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "p",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -287,7 +288,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab43a8ee48308f54",
+  "active": "052a5656ec4c2d4e",
   "lastOpenFiles": [
     "Prompt for exercise understanding.md",
     "calculus 2/Excise spivik.md",
