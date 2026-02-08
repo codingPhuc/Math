@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Card 1.md",
+                    "file": "Math Reasoning/Proofs/Rater for Proof.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Card 1"
+                  "title": "Rater for Proof"
                 }
               },
               {
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Card 1.md",
+                "file": "Math Reasoning/Proofs/Rater for Proof.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Card 1"
+              "title": "Outline of Rater for Proof"
             }
           }
         ],
@@ -290,15 +290,16 @@
   },
   "active": "ab43a8ee48308f54",
   "lastOpenFiles": [
-    "Math Reasoning/Calculus proof.md",
-    "Card 1.md",
-    "Math Reasoning/Proofs/Math Prompt.md",
+    "Math Reasoning/Proofs/Prompt for learning math.md",
+    "Math Reasoning/Proofs/Rater for Proof.md",
     "Prompt for exercise understanding.md",
+    "Card 1.md",
+    "Math Reasoning/Calculus proof.md",
+    "Math Reasoning/Proofs/Math Prompt.md",
     "calculus 2/Excise spivik.md",
     "physic/Chapter 1.md",
     "Math Reasoning/notes/method rating for learning thesis.md",
     "physic/Chapter 2.md",
-    "Math Reasoning/Proofs/Prompt for learning math.md",
     "physic",
     "Math Reasoning/notes/7.8/work sequences.md",
     "Math Reasoning/notes/7.8/Untitled.md",
@@ -322,7 +323,6 @@
     "Untitled 5.md",
     "Math Reasoning/notes/11",
     "Math Reasoning/notes/polynomial",
-    "rating of method.md",
     "calculus 2/trig_cheat_sheet.pdf",
     "Math Reasoning/Untitled.canvas",
     "Math Reasoning/notes",
