@@ -1,2 +1,2 @@
 
-understanding the prerequisit
+[[Prompt for exercise understanding]]
