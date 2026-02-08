@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Prompt for exercise understanding.md",
+                    "file": "Math Reasoning/Proofs/Math Prompt.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Prompt for exercise understanding"
+                  "title": "Math Prompt"
                 }
               },
               {
@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p",
+                "query": "prompt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt for exercise understanding.md",
+                "file": "Math Reasoning/Proofs/Math Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt for exercise understanding"
+              "title": "Outline of Math Prompt"
             }
           }
         ],
@@ -288,7 +288,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "052a5656ec4c2d4e",
+  "active": "ab43a8ee48308f54",
   "lastOpenFiles": [
     "Prompt for exercise understanding.md",
     "calculus 2/Excise spivik.md",
