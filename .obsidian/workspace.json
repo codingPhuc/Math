@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physic/Chapter 1.md",
+                "file": "Math Reasoning/notes/method rating for learning thesis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1"
+              "title": "Outline of method rating for learning thesis"
             }
           }
         ],
@@ -272,11 +272,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7702301795832f14",
+  "active": "48911ecc3cf74223",
   "lastOpenFiles": [
+    "physic/Chapter 1.md",
     "physic/Chapter 2.md",
     "Math Reasoning/notes/method rating for learning thesis.md",
-    "physic/Chapter 1.md",
     "Math Reasoning/Proofs/Prompt for learning math.md",
     "physic",
     "Math Reasoning/notes/7.8/work sequences.md",
