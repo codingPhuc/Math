@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "calculus 2/Excise spivik.md",
+                    "file": "execise 7.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Excise spivik"
+                  "title": "execise 7"
                 }
               },
               {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 2/Excise spivik.md",
+                "file": "execise 7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excise spivik"
+              "title": "Outline of execise 7"
             }
           }
         ],
@@ -289,8 +289,9 @@
   },
   "active": "ab43a8ee48308f54",
   "lastOpenFiles": [
-    "Prompt for exercise understanding.md",
     "calculus 2/Excise spivik.md",
+    "execise 7.md",
+    "Prompt for exercise understanding.md",
     "calculus 2/Study schedule.md",
     "Math Reasoning/Proofs/Prompt for learning math.md",
     "rating of method.md",
@@ -318,7 +319,6 @@
     "Math Reasoning/notes/polynomial/why are polynomial a formal sum.md",
     "Math Reasoning/notes/Untitled",
     "Math Reasoning/notes/7.8",
-    "proof.md",
     "book/MATH-CALC-STEWART.pdf",
     "Math Reasoning/notes/11",
     "Math Reasoning/notes/polynomial",
