@@ -82,7 +82,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "ec252b2f4f3fb8d5",
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Reasoning/Proofs/Prompt for learning math.md",
+                "file": "rating of method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt for learning math"
+              "title": "Outline of rating of method"
             }
           }
         ],
@@ -287,13 +287,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab43a8ee48308f54",
+  "active": "8b1f6bf5fc57b7e1",
   "lastOpenFiles": [
+    "Math Reasoning/Proofs/Prompt for learning math.md",
     "Math Reasoning/Proofs/Math Prompt.md",
     "Math Reasoning/notes/7.8/Untitled.md",
     "Math Reasoning/notes/7.4/Untitled.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
-    "Math Reasoning/Proofs/Prompt for learning math.md",
     "Prompt for exercise understanding.md",
     "Card 1.md",
     "Math Reasoning/Calculus proof.md",
