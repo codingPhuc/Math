@@ -1,186 +1,124 @@
-Patty.
+# Phys185 — Chapter 1 (Zemansky) — Four Layers of Learning Mastery
 
-Here’s Chapter 1, organized into the four layers, so you know exactly what to learn and why it belongs there. Read from your Chapter_1_Zemansky handout: §1.3–§1.10.
+source to read: Chapter 1 handout “Units, Physical Quantities, and Vectors” (§1.3–§1.10).
 
-1. Logic layer (the “why,” explainable to a 10-year-old)
-    
+## Layer 1 — Logic (why, explainable to a 10-year-old)
 
-- why we standardize units (SI / mks)
-    
-    - if everyone uses the same ruler and clock, we can compare results and trust formulas across labs.
-        
-    - read: §1.3.
-        
-- why we treat units like algebra
-    
-    - units act like “labels” that must match; canceling units prevents nonsense and catches mistakes early.
-        
-    - read: §1.4.
-        
-- why we care about uncertainty and significant figures
-    
-    - measurements are never perfect; sig figs are the honest way to report how much you actually know.
-        
-    - read: §1.5.
-        
-- why order-of-magnitude estimates matter (Fermi thinking)
-    
-    - when you can’t measure directly, smart assumptions + rough math still narrow reality to a useful range.
-        
-    - read: §1.6.
-        
-- why we separate scalars vs vectors
-    
-    - some quantities only need “how much,” others need “how much and which way,” and mixing them breaks physics.
-        
-    - read: §1.7.
-        
-- why displacement is not distance
-    
-    - displacement is “start-to-finish with direction,” distance is “how much ground you covered” (path length).
-        
-    - read: §1.7.
-        
+- §1.3 Standards and Units
+  - why it belongs here: this section explains why everyone uses the same “measuring rules” (SI/mks) so results match across people and labs.
+  - read: §1.3
 
-2. Concepts layer (the “how,” 60–70% of your time)
-    
+- §1.4 Conversion of Units
+  - why it belongs here: it explains why units act like “labels that must stay consistent,” so you don’t get nonsense answers when you compute.
+  - read: §1.4
 
-- standards and base quantities: length, mass, time as the foundation for derived units
-    
-    - this is the framework that makes later mechanics equations dimensionally meaningful.
-        
-    - read: §1.3.
-        
-- conversion factors as “equal to 1” in different units
-    
-    - the method: multiply by a conversion factor so units cancel and the value stays the same.
-        
-    - read: §1.4.
-        
-- uncertainty as “range of plausible values,” not “you messed up”
-    
-    - the concept: “error” means uncertainty; sig figs encode that uncertainty consistently.
-        
-    - read: §1.5.
-        
-- order of magnitude as “power of 10 scale thinking”
-    
-    - the concept: estimate scale first, refine later; being within a factor of 10 can already be a win.
-        
-    - read: §1.6.
-        
-- scalar vs vector as different mathematical objects
-    
-    - scalar: magnitude only; vector: magnitude + direction; this determines what operations are legal.
-        
-    - read: §1.7.
-        
-- displacement vector as a vector from initial to final position
-    
-    - key relationship: its magnitude is the straight-line shortest separation; its direction points start → finish.
-        
-    - read: §1.7.
-        
-- vector components as projections onto axes
-    
-    - the concept: components fully encode the vector, and you can do algebra on components.
-        
-    - read: §1.8.
-        
-- unit vectors as direction “basis arrows”
-    
-    - the concept: express any vector as components times unit directions (\hat{\imath},\hat{\jmath},\hat{k}).
-        
-    - read: §1.9.
-        
-- vector addition and subtraction (including “add the negative”)
-    
-    - the concept: subtraction is addition with reversed direction, and all geometry/algebra must agree.
-        
-    - read: properties of vectors + subtraction note in Ch1.
-        
-- dot product (scalar product): “how aligned are two vectors”
-    
-    - concept: result is a scalar; measures component of one along another and links to angles.
-        
-    - read: §1.10A.
-        
-- cross product (vector product): “build a perpendicular vector”
-    
-    - concept: result is a vector perpendicular to the plane of inputs, with magnitude tied to (\sin\theta).
-        
-    - read: §1.10B.
-        
+- §1.5 Uncertainty and Significant Figures
+  - why it belongs here: it explains why you can’t pretend measurements are perfect, and why your digits must reflect what you actually know.
+  - read: §1.5
 
-3. Important details layer (the “what,” formulas/rules/examples that support concepts)
-    
+- §1.6 Estimates and Order of Magnitude
+  - why it belongs here: it explains why rough reasoning (powers of 10) is a valid physics skill for checking plausibility fast.
+  - read: §1.6
 
-- specific SI base units: (\mathrm{m}, \mathrm{kg}, \mathrm{s}); the term “mks”
-    
-    - supports dimensional checks and conversions.
-        
-    - read: §1.3.
-        
-- sig fig rules for addition/subtraction vs multiplication/division
-    
-    - supports correct rounding consistent with uncertainty.
-        
-    - read: §1.5A–B.
-        
-- component notation and magnitude from components
-    
-    - (\vec A = A_x\hat{\imath}+A_y\hat{\jmath}+A_z\hat{k}), (|\vec A|=\sqrt{A_x^2+A_y^2+A_z^2})
-        
-    - supports turning geometry into algebra.
-        
-    - read: §1.9.
-        
-- dot product formulas (angle form and component form)
-    
-    - (\vec A\cdot \vec B = |\vec A||\vec B|\cos\phi) and (A_xB_x+A_yB_y+A_zB_z)
-        
-    - supports calculations depending on what data you’re given.
-        
-    - read: §1.10A.
-        
-- cross product magnitude + right-hand rule direction
-    
-    - (|\vec A\times \vec B|=|\vec A||\vec B|\sin\phi), direction via right-hand rule
-        
-    - supports torque/rotation later.
-        
-    - read: §1.10B.
-        
-- examples lists (which quantities are scalar vs vector)
-    
-    - supports classification on quizzes without hesitation.
-        
-    - read: §1.7 examples.
-        
+- §1.7 Vectors and Vector Addition (scalar vs vector idea)
+  - why it belongs here: it explains why some quantities need direction; mixing “with direction” and “no direction” breaks the physics.
+  - read: start of §1.7
 
-4. Arbitrary details layer (isolated facts you mostly memorize because the course says so)
-    
+## Layer 2 — Concepts (how it works, relationships; most study time)
 
-- exact “meter” and “second” definitions (light travel, cesium cycles)
-    
-    - foundational standards, but you typically memorize them rather than derive them in this course.
-        
-    - read: §1.3.
-        
-- the particular Fermi-question prompts (piano tuners, hairs, etc.)
-    
-    - they’re practice prompts, not core theory; useful for training estimation reflexes.
-        
-    - read: §1.6.
-        
+- §1.3 Standards and Units
+  - concept: what a “standard unit system” is, and how base quantities (length, mass, time) anchor everything else.
+  - overlap: also feeds Layer 3 (specific base units) and Layer 4 (exact definitions).
+  - read: §1.3
 
-overlaps you should notice (because exam questions love these)
+- §1.4 Conversion of Units
+  - concept: conversions as multiplying by “a form of 1” so units cancel correctly (dimensional consistency as a constraint).
+  - overlap: Layer 3 when you do real conversions in problems.
+  - read: §1.4
 
-- units-as-algebra (Logic) directly powers sig figs + conversions (Details): you’ll use them together almost every problem.
-    
-- scalar vs vector (Concepts) is the gatekeeper for dot/cross products (Concepts/Details): if you misclassify, you’ll do illegal operations.
-    
-- components (Concepts) is how dot/cross become computable (Details): geometry → numbers.
-    
+- §1.5 Uncertainty and Significant Figures
+  - concept: “error” as uncertainty (not sloppiness), and sig figs as a compact way to report precision.
+  - overlap: Layer 3 for the rounding rules.
+  - read: §1.5 (error meaning + sig fig meaning)
 
-One move: pick one item from the Concepts layer and write its definition in symbols, clean and complete. I’ll grade it without giving the answer.
+- §1.6 Estimates and Order of Magnitude
+  - concept: order of magnitude as the power of 10 that matches a scale; using reasonable assumptions to bound answers.
+  - overlap: Layer 4 for the specific Fermi examples.
+  - read: §1.6
+
+- §1.7 Vectors and Vector Addition
+  - concept: definition of scalar vs vector; displacement as a vector; vector addition/subtraction as geometric + algebraic operations.
+  - overlap: Layer 3 for lists of examples and specific algebraic identities.
+  - read: scalar vs vector lists + displacement definition + subtraction idea
+
+- §1.8 Components of a Vector
+  - concept: components as projections; “vector alone” vs “components together” encode the same physics.
+  - overlap: Layer 3 for component notation.
+  - read: §1.8
+
+- §1.9 Unit Vectors
+  - concept: unit vectors as pure direction; expressing any vector via components and direction basis.
+  - overlap: Layer 3 for formulas like $\vec A = A_x\hat{\imath}+A_y\hat{\jmath}+A_z\hat{k}$ and $|\vec A|=\sqrt{A_x^2+A_y^2+A_z^2}$.
+  - read: §1.9
+
+- “Some Properties of Vectors” (inside Ch.1 handout)
+  - concept: multiplying vectors by scalars; adding vectors in same/opposite/perpendicular/arbitrary directions; “head-to-tail” as a universal method.
+  - overlap: Layer 3 when you must execute these constructions quickly.
+  - read: properties/addition/subtraction methods
+
+- §1.10 Products of Vectors
+  - concept: dot product outputs a scalar measuring “alignment”; cross product outputs a vector perpendicular to both, with magnitude tied to $\sin(\phi)$ and direction via right-hand rule.
+  - overlap: Layer 3 for the two dot formulas and the cross magnitude + determinant form.
+  - read: §1.10 dot + cross
+
+## Layer 3 — Important Details (names, formulas, rules you’ll use constantly)
+
+- SI and mks vocabulary; base units for length/mass/time
+  - why here: these are the specific “handles” you use in every conversion and dimensional check.
+  - read: §1.3
+
+- unit conversion rule (units cancel like algebra)
+  - why here: this is the operational rule you apply line-by-line in computations.
+  - read: §1.4
+
+- significant figures rules
+  - why here: you will apply these mechanically on labs/homework, so they must be automatic.
+  - read: §1.5 rules
+
+- scalar examples vs vector examples (distance vs displacement; speed vs velocity; etc.)
+  - why here: these lists support correct classification during problem setup.
+  - read: §1.7 examples list
+
+- displacement vector definition (magnitude = shortest distance; direction from start to finish)
+  - why here: this is the exact statement you use to justify “distance traveled” vs “displacement magnitude.”
+  - read: displacement definition
+
+- component notation and magnitude formula
+  - why here: you will compute components and magnitudes constantly.
+  - read: §1.9 component/magnitude formulas
+
+- subtraction identity $\vec A-\vec B=\vec A+(-\vec B)$
+  - why here: it’s the detail that prevents sign/direction errors.
+  - read: subtraction line
+
+- dot product formulas
+  - why here: you need both “angle form” and “components form” ready to deploy.
+  - read: §1.10 dot product formulas
+
+- cross product magnitude + right-hand-rule direction + determinant form
+  - why here: it’s the executable package (size + direction + computation method).
+  - read: §1.10 cross product details
+
+## Layer 4 — Arbitrary Details (nice-to-know, only crucial if your exams demand it)
+
+- exact standard definitions and historical artifacts (meter via light travel time; second via cesium cycles; kilogram artifact description)
+  - why here: these are specific factual definitions, not needed to solve most mechanics problems unless directly asked.
+  - read: §1.3 exact definitions
+
+- the specific Fermi-question examples (piano tuners, hairs, etc.)
+  - why here: the concept (order of magnitude reasoning) matters more than these particular examples.
+  - read: §1.6 examples
+
+note on overlaps
+- §1.3 and §1.5 are “stacked”: they explain why measurement conventions exist (Layer 1), define how uncertainty/units behave (Layer 2), and also contain rules/facts you must execute (Layer 3).
+- §1.7–§1.10 are also stacked: they give definitions (Layer 2) and immediately hand you the operational tools (Layer 3) for doing vector math correctly.
