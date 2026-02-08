@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Math Reasoning/Proofs/Math Prompt.md",
+                    "file": "Card 1.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Math Prompt"
+                  "title": "Card 1"
                 }
               },
               {
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Reasoning/Proofs/Math Prompt.md",
+                "file": "Card 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Math Prompt"
+              "title": "Outline of Card 1"
             }
           }
         ],
@@ -290,6 +290,9 @@
   },
   "active": "ab43a8ee48308f54",
   "lastOpenFiles": [
+    "Math Reasoning/Calculus proof.md",
+    "Card 1.md",
+    "Math Reasoning/Proofs/Math Prompt.md",
     "Prompt for exercise understanding.md",
     "calculus 2/Excise spivik.md",
     "physic/Chapter 1.md",
@@ -320,9 +323,6 @@
     "Math Reasoning/notes/11",
     "Math Reasoning/notes/polynomial",
     "rating of method.md",
-    "Math Reasoning/Step Justifications/oral review card 13.md",
-    "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
-    "Math Reasoning/Proofs/Math Prompt.md",
     "calculus 2/trig_cheat_sheet.pdf",
     "Math Reasoning/Untitled.canvas",
     "Math Reasoning/notes",
