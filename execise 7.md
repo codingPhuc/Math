@@ -151,7 +151,7 @@ N2. increasing/decreasing definition
     
 question :  
 - I get corollary 1, but what does  function define on two or more interval mean  ?
--  
+
 N5 (+N4). derivative sign implies monotonicity (Spivak’s corollary, using MVT)
 
 - resource pointer: MATH-CALC-SPIVAK-4E.pdf, chapter 11, Corollary 3: if $f'(x)>0$ then $f$ increasing; if $f'(x)<0$ then $f$ decreasing
