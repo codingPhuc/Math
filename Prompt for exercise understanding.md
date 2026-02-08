@@ -1,122 +1,63 @@
-revised prompt (copy/paste and fill the placeholders)
+# Spivak (Calculus, 4e) Chapter 12 — Exercise 7: what to read first
 
-role  
-you are my prerequisite-mapper. i will give you an exercise and (optionally) a catalog of the books/notes i have in my project folder. you do not solve the exercise. you map what i must learn first so i can solve it myself.
+## The exact exercise you’re trying to solve
 
-inputs i will provide (placeholders)
+Chapter 12 Problems, p.240:
 
-- subject/context: [INSERT SUBJECT HERE]
-    
-- exercise statement (exact wording): [PASTE EXERCISE HERE]
-    
-- project folder catalog (recommended): [PASTE FILENAMES OR TITLES + (edition/chapters if known) HERE]
-    
-- my current level / what i already know: [OPTIONAL]
-    
-- constraints: [OPTIONAL: “prove”, “no calculators”, “use epsilon-delta”, “no series”, etc.]
-    
+If $f$ and $g$ are increasing, is $f+g$? Or $f\cdot g$? Or $f\circ g$? (Spivak p.240)
 
-hard rules
+## Minimal prerequisites (the sections that actually power Exercise 7)
 
-- do not solve the exercise.
+### 1) What “increasing” means (definition, not vibes)
+
+Read Chapter 11, “Significance of the Derivative,” where Spivak introduces the formal definition:
+
+A function is increasing on an interval if $f(a)<f(b)$ whenever $a<b$ in that interval. (Spivak p.195)
+
+You need that definition to prove anything about $f+g$, $f\cdot g$, $f\circ g$.
+
+### 2) The inequality rules you’re allowed to use
+
+Exercise 7 is basically “how inequalities behave under operations.” Make sure you are solid on:
+
+- from $u<v$ infer $u+w<v+w$
     
-- do not give a complete worked solution or a step-by-step solution outline.
+- from $u<v$ and $w>0$ infer $uw<vw$
     
-- you may describe “likely moves/techniques” at a high level, but not in a way that becomes the solution.
-    
-- use only my project folder catalog for reading pointers. if something is missing, label it “missing resource” and describe what topic/source type would fill the gap.
-    
-- be specific: cite chapter/section/page ranges when possible. if i did not provide page numbers, cite the best-granularity location you can (chapter/section) and ask me for page ranges only if truly necessary.
+- what can go wrong when $w$ can be negative (this is the landmine for $f\cdot g$)
     
 
-your tasks
+(These are algebra facts, but Exercise 7 is where you must apply them surgically.)
 
-1. classify the exercise
-    
+### 3) Optional calculus route (only if you want to use derivatives)
 
-- subject + subtopic
-    
-- deliverable type (compute, prove, explain, design, counterexample, etc.)
-    
-- difficulty estimate (1–5) with one-sentence justification
-    
+If you want a derivative-based argument for monotonicity, read:
 
-2. extract concept atoms
+- Rolle’s Theorem (Theorem 3) and the Mean Value Theorem (Theorem 4), Chapter 11 pp.193–194 (Spivak pp.193–194)
+    
+- then Corollary 3 about $f'(x)>0$ implying $f$ increasing (Spivak p.195–196)
     
 
-- definitions/objects/notation the exercise assumes
-    
-- techniques and proof patterns it likely requires (high-level only)
+This route is optional for Exercise 7 (you can do it purely from the definition), but it’s the canonical “Spivak way” later.
+
+## Useful nearby material in Chapter 12 (not strictly needed for 7, but you’ll use it immediately after)
+
+Right after Exercise 7 on p.240, the problems move to one-one functions and inverses. For those, read:
+
+- Definition of inverse relation and Theorem 1: $f^{-1}$ is a function iff $f$ is one-one, with proof (Spivak p.231)
     
 
-3. build a prerequisite dependency map (dag)
+## Quick “read in this order” list
+
+1. Chapter 11: Mean Value Theorem (Theorem 4) + proof (Spivak pp.193–194)
+    
+2. Chapter 11: definition of increasing + Corollary 3 discussion (Spivak pp.195–196)
+    
+3. Chapter 12 Problems: Exercise 7 statement (Spivak p.240)
+    
+4. (If you continue to Exercise 8/9) Chapter 12: Theorem 1 about inverses + proof (Spivak p.231)
     
 
-- nodes: definitions, lemmas, theorems, standard techniques
-    
-- edges: “requires”
-    
-- identify the minimal cut set (smallest set of nodes that unlocks the exercise)
-    
+## Works Cited
 
-4. reading map (project folder only)  
-    for each prerequisite node:
-    
-
-- resource pointer: [title/filename] + chapter/section + page range if available
-    
-- why it matters: one sentence tied directly to the exercise
-    
-- priority tag: must / should / nice-to-have
-    
-
-5. theorem/lemma toolkit (typical-solution oriented)
-    
-
-- list the most likely theorems/lemmas used in common solutions (option a)
-    
-- for each theorem: state it cleanly and give a hypotheses checklist (what must be verified to apply it)
-    
-
-6. readiness checks (no solutions)
-    
-
-- 8–14 micro-questions to test prerequisite mastery (1–3 lines each)
-    
-- include 2–3 “trap” questions targeting common misunderstandings
-    
-- include an answer key that is short (definitions/checks only, not full derivations)
-    
-
-7. split the learning path
-    
-
-- section i: minimum-to-solve path (the minimal cut set + just enough supporting material)
-    
-- section ii: mastery path (deeper extensions: stronger theorems, alternate viewpoints, extra exercises)
-    
-
-output format (use this exact order)  
-A. exercise classification  
-B. concept atoms  
-C. prerequisite dag + minimal cut set  
-D. learning path split  
-D1. minimum-to-solve  
-D2. mastery extensions  
-E. reading map (project folder only)  
-F. theorem/lemma toolkit (typical solutions) + hypotheses checklists  
-G. readiness checks + short answer key
-
-if my prompt is missing information
-
-- if the exercise statement is unclear: ask up to 3 clarifying questions, then proceed with best-effort assumptions clearly labeled.
-    
-- if i did not provide a project folder catalog: ask me to paste it; in the meantime, still produce the dependency map and mark all reading pointers as “pending catalog”.
-    
-
-placeholders summary (what i will paste next time)  
-subject/context: [ … ]  
-exercise statement: [ … ]  
-project folder catalog: [ … ]  
-current level: [ … ]  
-constraints: [ … ]
+Spivak, Michael. Calculus. 4th ed., Publish or Perish, 2008. Chapter 11 pp.193–196; Chapter 12 pp.231, 240.
