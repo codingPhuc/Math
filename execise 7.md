@@ -150,7 +150,7 @@ N2. increasing/decreasing definition
 - priority: must
     
 question :  
-- I ge
+- I get corollary 1, but what does  
 N5 (+N4). derivative sign implies monotonicity (Spivak’s corollary, using MVT)
 
 - resource pointer: MATH-CALC-SPIVAK-4E.pdf, chapter 11, Corollary 3: if $f'(x)>0$ then $f$ increasing; if $f'(x)<0$ then $f$ decreasing
