@@ -16,4 +16,7 @@ B3. If $A$ is a union of two disjoint intervals, what does “$f$ is increasing 
 
 B4. True/false with reason: if $f'(x)>0$ for all $x\in A$ and $A$ is not an interval, then $f$ must be one-to-one on $A$.
 
-G1. Prove: if $f'(x)>0$ on an interval $I$, then $f$ is one-to-one on $I$. (Max 3 lines, must name the theorem used.)
+G1. Prove: if $f'(x)>0$ on an interval $I$, then $f$ is one-to-one on $I$. (Max 3 lines, must name the theorem used.) 
+
+
+
