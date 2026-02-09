@@ -81,7 +81,8 @@
                   "title": "Belk p.1–4 Practice Bank"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "ec252b2f4f3fb8d5",
@@ -253,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 2/Excise spivik.md",
+                "file": "execise 7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excise spivik"
+              "title": "Outline of execise 7"
             }
           }
         ],
@@ -286,13 +287,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7702301795832f14",
+  "active": "ab43a8ee48308f54",
   "lastOpenFiles": [
+    "calculus 2/Excise spivik.md",
     "execise 7.md",
     "N2. increasing/decreasing definition.md",
     "N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT).md",
     "N2. increasing",
-    "calculus 2/Excise spivik.md",
     "Prompt for exercise understanding.md",
     "calculus 2/Study schedule.md",
     "Math Reasoning/Proofs/Prompt for learning math.md",
