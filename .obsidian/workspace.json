@@ -53,8 +53,7 @@
                   "title": "rating of method"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "9e9fe18aa0156d90",
@@ -246,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2. increasing/decreasing definition.md",
+                "file": "calculus 2/Excise spivik.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of decreasing definition"
+              "title": "Outline of Excise spivik"
             }
           }
         ],
@@ -279,11 +278,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "935bec4cbd9460ec",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
     "execise 7.md",
-    "N2. increasing/decreasing definition.md",
     "calculus 2/Excise spivik.md",
+    "N2. increasing/decreasing definition.md",
     "rating of method.md",
     "Math Reasoning/notes/Belk p.1–4 Practice Bank.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
