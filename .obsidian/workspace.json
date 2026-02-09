@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "execise 7.md",
+                    "file": "N2. increasing/decreasing definition.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "execise 7"
+                  "title": "decreasing definition"
                 }
               },
               {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "execise 7.md",
+                "file": "N2. increasing/decreasing definition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of execise 7"
+              "title": "Outline of decreasing definition"
             }
           }
         ],
@@ -289,8 +289,8 @@
   },
   "active": "ab43a8ee48308f54",
   "lastOpenFiles": [
-    "calculus 2/Excise spivik.md",
     "execise 7.md",
+    "calculus 2/Excise spivik.md",
     "N2. increasing/decreasing definition.md",
     "N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT).md",
     "N2. increasing",
