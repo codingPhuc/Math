@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT).md",
+                    "file": "N2. increasing/decreasing definition.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT)"
+                  "title": "decreasing definition"
                 }
               },
               {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT).md",
+                "file": "N2. increasing/decreasing definition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT)"
+              "title": "Outline of decreasing definition"
             }
           }
         ],
