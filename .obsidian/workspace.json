@@ -246,13 +246,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "execise 7.md",
+                "file": "N2. increasing/decreasing definition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of execise 7"
+              "title": "Outline of decreasing definition"
             }
           }
         ],
@@ -279,10 +279,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab43a8ee48308f54",
+  "active": "935bec4cbd9460ec",
   "lastOpenFiles": [
-    "N2. increasing/decreasing definition.md",
     "execise 7.md",
+    "N2. increasing/decreasing definition.md",
     "calculus 2/Excise spivik.md",
     "rating of method.md",
     "Math Reasoning/notes/Belk p.1–4 Practice Bank.md",
