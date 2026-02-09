@@ -141,7 +141,7 @@ N1. one-one (injective) + inverse function connection
 - priority: must
     
 
-N2. increasing/decreasing definition
+[[N2. increasing/decreasing definition]]
 
 - resource pointer: MATH-CALC-SPIVAK-4E.pdf, chapter 11 “Significance of the Derivative”, definition of increasing/decreasing
     
