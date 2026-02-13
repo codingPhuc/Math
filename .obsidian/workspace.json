@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT).md",
+                    "file": "physic/Chapter 1.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT)"
+                  "title": "Chapter 1"
                 }
               },
               {
@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT).md",
+                "file": "physic/Chapter 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT)"
+              "title": "Outline of Chapter 1"
             }
           }
         ],
@@ -274,21 +274,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "execise 7.md",
+    "calculus 2/trig_cheat_sheet.pdf",
+    "calculus 2/Study schedule.md",
     "calculus 2/Excise spivik.md",
+    "calculus 2/tyler boogar Homework.md",
+    "N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT).md",
+    "execise 7.md",
     "N2. increasing/decreasing definition.md",
     "rating of method.md",
     "Math Reasoning/notes/Belk p.1–4 Practice Bank.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
-    "N5 (+N4). derivative  sign implies monotonicity (Spivak’s corollary, using MVT).md",
     "N2. increasing",
     "Prompt for exercise understanding.md",
-    "calculus 2/Study schedule.md",
     "Math Reasoning/Proofs/Prompt for learning math.md",
     "Math Reasoning/Proofs/Math Prompt.md",
     "Math Reasoning/notes/7.8/Untitled.md",
@@ -305,15 +308,12 @@
     "Math Reasoning/notes/Example note structure.md",
     "Math Reasoning/notes/generate a plan to learn one specific definition prompt.md",
     "Math Reasoning/notes/Structural Algebra for Computational Procedures.md",
-    "Math Reasoning/notes/Number Theory for Polynomials.md",
-    "Math Reasoning/notes/Notes what to write for notes.md",
     "Math Reasoning/notes/7.4",
     "Math Reasoning/notes/Untitled",
     "Math Reasoning/notes/7.8",
     "book/MATH-CALC-STEWART.pdf",
     "Math Reasoning/notes/11",
     "Math Reasoning/notes/polynomial",
-    "calculus 2/trig_cheat_sheet.pdf",
     "Math Reasoning/Untitled.canvas",
     "Math Reasoning/notes",
     "Paul Online note/algebra/Pasted image 20241201201758.png",
