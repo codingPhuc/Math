@@ -11,16 +11,14 @@
             "id": "7702301795832f14",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "calculus 2/trig_cheat_sheet.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 744,
-                "zoom": 1.1225490196078431
+                "file": "calculus 2/tyler boogar Homework.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "trig_cheat_sheet"
+              "icon": "lucide-file",
+              "title": "tyler boogar Homework"
             }
           },
           {
@@ -172,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus 2/trig_cheat_sheet.pdf",
+                "file": "calculus 2/tyler boogar Homework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of trig_cheat_sheet"
+              "title": "Outline of tyler boogar Homework"
             }
           }
         ],
@@ -207,11 +205,11 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "calculus 2/trig_cheat_sheet.pdf",
     "calculus 2/tyler boogar Homework.md",
     "calculus 2/Study schedule.md",
     "calculus 2/Excise spivik.md",
     "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
-    "calculus 2/trig_cheat_sheet.pdf",
     "physic/Chapter 1.md",
     "physic/Chapter 13 - 14 questions.md",
     "physic/Chapter 2.md",
@@ -234,7 +232,6 @@
     "Math Reasoning/Calculus proof.md",
     "Math Reasoning/Format for books.md",
     "Untitled 5.md",
-    "N2. increasing/decreasing definition.md",
     "N2. increasing",
     "physic",
     "Math Reasoning/notes/7.4",
