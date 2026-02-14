@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Books mapper.md",
+                "file": "prompt/Prompt for learning math.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books mapper"
+              "title": "Prompt for learning math"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/Books mapper.md",
+                "file": "prompt/Prompt for learning math.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Books mapper"
+              "title": "Outline of Prompt for learning math"
             }
           }
         ],
@@ -205,11 +205,11 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "prompt/Prompt create prompt.md",
-    "prompt/Books mapper.md",
     "prompt/Prompt for books mapping.md",
-    "prompt/Math Prompt.md",
     "prompt/Prompt for learning math.md",
+    "prompt/Prompt create prompt.md",
+    "prompt/Math Prompt.md",
+    "prompt/Books mapper.md",
     "prompt",
     "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
     "Math Reasoning/review log/Progress log.md",
