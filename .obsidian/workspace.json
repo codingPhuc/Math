@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Reasoning/Step Justifications/What is Justifying step.md",
+                "file": "Math Reasoning/Proofs/Math Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Justifying step"
+              "title": "Math Prompt"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Reasoning/Step Justifications/What is Justifying step.md",
+                "file": "Math Reasoning/Proofs/Math Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What is Justifying step"
+              "title": "Outline of Math Prompt"
             }
           }
         ],
@@ -205,8 +205,15 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "Math Reasoning/Step Justifications/practice review card 13.md",
+    "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
+    "Math Reasoning/Proofs/Math Prompt.md",
+    "Math Reasoning/Proofs/Prompt for learning math.md",
+    "Math Reasoning/review log/Progress log.md",
+    "Math Reasoning/Step Justifications/Formatting style for writing math.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
+    "Math Reasoning/Step Justifications/practice review card 13.md",
+    "Math Reasoning/Step Justifications/What is Justifying step.md",
+    "Math Reasoning/Step Justifications/with respect to.md",
     "Math Reasoning/Calculus proof.md",
     "Math Reasoning/Format for books.md",
     "Untitled 5.md",
@@ -222,18 +229,11 @@
     "Math Reasoning/notes/Belk p.1–4 Practice Bank.md",
     "N2. increasing",
     "Prompt for exercise understanding.md",
-    "Math Reasoning/Proofs/Prompt for learning math.md",
-    "Math Reasoning/Proofs/Math Prompt.md",
     "Math Reasoning/notes/7.8/Untitled.md",
     "Math Reasoning/notes/7.4/Untitled.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
     "Card 1.md",
-    "Math Reasoning/notes/method rating for learning thesis.md",
-    "physic/Chapter 2.md",
     "physic",
-    "Math Reasoning/notes/7.8/work sequences.md",
-    "Math Reasoning/notes/7.4/Note Styles.md",
-    "Math Reasoning/notes/Example note structure.md",
     "Math Reasoning/notes/7.4",
     "Math Reasoning/notes/Untitled",
     "Math Reasoning/notes/7.8",
