@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Prompt for books mapping.md",
+                "file": "prompt/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt for books mapping"
+              "title": "Untitled"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/Prompt for books mapping.md",
+                "file": "prompt/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt for books mapping"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -205,8 +205,9 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "prompt/Math Prompt.md",
     "prompt/Prompt for books mapping.md",
+    "prompt/Untitled.md",
+    "prompt/Math Prompt.md",
     "prompt/Prompt for learning math.md",
     "prompt",
     "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
@@ -233,7 +234,6 @@
     "Prompt for exercise understanding.md",
     "Math Reasoning/notes/7.8/Untitled.md",
     "Math Reasoning/notes/7.4/Untitled.md",
-    "Math Reasoning/Proofs/Rater for Proof.md",
     "physic",
     "Math Reasoning/notes/7.4",
     "Math Reasoning/notes/Untitled",
