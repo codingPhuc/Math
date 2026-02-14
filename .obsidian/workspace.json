@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Reasoning/Proofs/Untitled/Prompt for learning math.md",
+                "file": "prompt/Prompt for learning math.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Reasoning/Proofs/Untitled/Prompt for learning math.md",
+                "file": "prompt/Prompt for learning math.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,9 +205,9 @@
   },
   "active": "18c0fdbfcca71e84",
   "lastOpenFiles": [
-    "Math Reasoning/Proofs/Untitled",
-    "Math Reasoning/Proofs/Untitled/Math Prompt.md",
-    "Math Reasoning/Proofs/Untitled/Prompt for learning math.md",
+    "prompt",
+    "prompt/Math Prompt.md",
+    "prompt/Prompt for learning math.md",
     "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
     "Math Reasoning/review log/Progress log.md",
     "Math Reasoning/Step Justifications/Formatting style for writing math.md",
