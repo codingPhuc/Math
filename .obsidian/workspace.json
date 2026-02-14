@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Prompt for learning math.md",
+                "file": "prompt/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt for learning math"
+              "title": "Untitled"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/Prompt for learning math.md",
+                "file": "prompt/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt for learning math"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -203,11 +203,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
-    "prompt",
     "prompt/Math Prompt.md",
+    "prompt/Untitled.md",
     "prompt/Prompt for learning math.md",
+    "prompt",
     "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
     "Math Reasoning/review log/Progress log.md",
     "Math Reasoning/Step Justifications/Formatting style for writing math.md",
@@ -241,7 +242,6 @@
     "Math Reasoning/notes/11",
     "Math Reasoning/notes/polynomial",
     "Math Reasoning/Untitled.canvas",
-    "Math Reasoning/notes",
     "Paul Online note/algebra/Pasted image 20241201201758.png",
     "picture/Pasted image 20251215203203.png",
     "Professor Leonard/IMG_0602.JPG",
