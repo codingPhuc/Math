@@ -156,7 +156,7 @@ B) Layer 2 — Concepts Layer (fine-grained cross-book anchors)
 | Concept                     | Spine anchor       | Support #1                  | Support #2      | Support #3 |
 | --------------------------- | ------------------ | --------------------------- | --------------- | ---------- |
 | SI vs “English” units       | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
-| mks as mechanics default    | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
+| mks as F                    | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
 | Base units                  | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
 | Derived units               | Zem §1.3           | YoungF Ch1 §1.3–1.4         | —               | —          |
 | Standards of time           | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
