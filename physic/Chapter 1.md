@@ -153,53 +153,53 @@ B) Layer 2 — Concepts Layer (fine-grained cross-book anchors)
 49. Crosswalk table (navigation density)
     
 
-|Concept|Spine anchor|Support #1|Support #2|Support #3|
-|---|---|---|---|---|
-|SI vs “English” units|Zem §1.3|YoungF Ch1 §1.3|—|—|
-|mks as mechanics default|Zem §1.3|YoungF Ch1 §1.3|—|—|
-|Base units|Zem §1.3|YoungF Ch1 §1.3|—|—|
-|Derived units|Zem §1.3|YoungF Ch1 §1.3–1.4|—|—|
-|Standards of time|Zem §1.3|YoungF Ch1 §1.3|—|—|
-|Standards of length|Zem §1.3|YoungF Ch1 §1.3|—|—|
-|Standards of mass|Zem §1.3|YoungF Ch1 §1.3|—|—|
-|Conversion as “×1”|Zem §1.4|YoungF Ch1 §1.4|—|—|
-|Units-as-algebra|Zem §1.4|YoungF Ch1 §1.4|—|—|
-|Dimensional check|Zem §1.4|YoungF Ch1 §1.4|—|—|
-|Order of magnitude|Zem §1.6|YoungF Ch1 §1.6|—|—|
-|Estimation bounds|Zem §1.6|YoungF Ch1 §1.6|—|—|
-|Uncertainty/error meaning|Zem §1.5|YoungF Ch1 §1.5|—|—|
-|Significant figures meaning|Zem §1.5|YoungF Ch1 §1.5|—|—|
-|Rounded integer range|Zem §1.5|YoungF Ch1 §1.5|—|—|
-|Sig figs mult/div|Zem §1.5(B)|YoungF Ch1 §1.5 (Table 1.2)|—|—|
-|Sig figs add/sub|Zem §1.5(A)|YoungF Ch1 §1.5 (Table 1.2)|—|—|
-|Rounding vs truncation|Zem §1.5|YoungF Ch1 §1.5|—|—|
-|Scalars|Zem §1.7|YoungF Ch1 §1.6|—|—|
-|Vectors|Zem §1.7|YoungF Ch1 §1.6|Lab01 I|—|
-|Arrow representation|Zem §1.7|Lab01 I|—|—|
-|Vector equality|Zem §1.7|YoungF Ch1 §1.6|—|—|
-|Negative vector|Zem §1.7|YoungF Ch1 §1.6|—|—|
-|Scalar multiplication|Zem §1.7|YoungF Ch1 §1.6|—|—|
-|Head-to-tail addition|Zem §1.7|Lab01 II|YoungF Ch1 §1.6|—|
-|Subtraction as + (−)|Zem §1.7|YoungF Ch1 §1.6|—|—|
-|Resultant idea|Zem §1.7|Lab01 II|—|—|
-|Coordinates scaffold|Zem §1.8|YoungF Ch1 §1.7|—|—|
-|Components Ax,Ay,Az|Zem §1.8|YoungF Ch1 §1.7|—|—|
-|Component form|Zem §1.8–1.9|YoungF Ch1 §1.7|—|—|
-|Unit vectors î,ĵ,k̂|Zem §1.9|YoungF Ch1 §1.8|—|—|
-|Magnitude from components|Zem §1.8|YoungF Ch1 §1.7|—|—|
-|Direction from components|Zem §1.8|YoungF Ch1 §1.7|—|—|
-|Dot product (geom)|Zem §1.10|YoungF Ch1 §1.9|—|—|
-|Dot product (components)|Zem §1.10|YoungF Ch1 §1.9|—|—|
-|Perpendicular test|Zem §1.10|YoungF Ch1 §1.9|—|—|
-|Cross product (geom)|Zem §1.10|YoungF Ch1 §1.9|—|—|
-|Right-hand rule|Zem §1.10|YoungF Ch1 §1.9|—|—|
-|Parallel test|Zem §1.10|YoungF Ch1 §1.9|—|—|
-|Product output types|Zem §1.10|YoungF Ch1 §1.9|—|—|
-|Force as vector|Zem §1.7|Lab01 I|—|—|
-|Equilibrium: ΣF = 0|Lab01 I|YoungF Ch2 §2.6|—|—|
-|Units in tables/graphs|guidelines §III–IV|—|—|—|
-|Percent error vs difference|guidelines §V|YoungF Ch1 §1.5|—|—|
-|“Write equations used”|guidelines §V|—|—|—|
+| Concept                     | Spine anchor       | Support #1                  | Support #2      | Support #3 |
+| --------------------------- | ------------------ | --------------------------- | --------------- | ---------- |
+| SI vs “English” units       | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
+| mks as mechanics default    | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
+| Base units                  | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
+| Derived units               | Zem §1.3           | YoungF Ch1 §1.3–1.4         | —               | —          |
+| Standards of time           | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
+| Standards of length         | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
+| Standards of mass           | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
+| Conversion as “×1”          | Zem §1.4           | YoungF Ch1 §1.4             | —               | —          |
+| Units-as-algebra            | Zem §1.4           | YoungF Ch1 §1.4             | —               | —          |
+| Dimensional check           | Zem §1.4           | YoungF Ch1 §1.4             | —               | —          |
+| Order of magnitude          | Zem §1.6           | YoungF Ch1 §1.6             | —               | —          |
+| Estimation bounds           | Zem §1.6           | YoungF Ch1 §1.6             | —               | —          |
+| Uncertainty/error meaning   | Zem §1.5           | YoungF Ch1 §1.5             | —               | —          |
+| Significant figures meaning | Zem §1.5           | YoungF Ch1 §1.5             | —               | —          |
+| Rounded integer range       | Zem §1.5           | YoungF Ch1 §1.5             | —               | —          |
+| Sig figs mult/div           | Zem §1.5(B)        | YoungF Ch1 §1.5 (Table 1.2) | —               | —          |
+| Sig figs add/sub            | Zem §1.5(A)        | YoungF Ch1 §1.5 (Table 1.2) | —               | —          |
+| Rounding vs truncation      | Zem §1.5           | YoungF Ch1 §1.5             | —               | —          |
+| Scalars                     | Zem §1.7           | YoungF Ch1 §1.6             | —               | —          |
+| Vectors                     | Zem §1.7           | YoungF Ch1 §1.6             | Lab01 I         | —          |
+| Arrow representation        | Zem §1.7           | Lab01 I                     | —               | —          |
+| Vector equality             | Zem §1.7           | YoungF Ch1 §1.6             | —               | —          |
+| Negative vector             | Zem §1.7           | YoungF Ch1 §1.6             | —               | —          |
+| Scalar multiplication       | Zem §1.7           | YoungF Ch1 §1.6             | —               | —          |
+| Head-to-tail addition       | Zem §1.7           | Lab01 II                    | YoungF Ch1 §1.6 | —          |
+| Subtraction as + (−)        | Zem §1.7           | YoungF Ch1 §1.6             | —               | —          |
+| Resultant idea              | Zem §1.7           | Lab01 II                    | —               | —          |
+| Coordinates scaffold        | Zem §1.8           | YoungF Ch1 §1.7             | —               | —          |
+| Components Ax,Ay,Az         | Zem §1.8           | YoungF Ch1 §1.7             | —               | —          |
+| Component form              | Zem §1.8–1.9       | YoungF Ch1 §1.7             | —               | —          |
+| Unit vectors î,ĵ,k̂       | Zem §1.9           | YoungF Ch1 §1.8             | —               | —          |
+| Magnitude from components   | Zem §1.8           | YoungF Ch1 §1.7             | —               | —          |
+| Direction from components   | Zem §1.8           | YoungF Ch1 §1.7             | —               | —          |
+| Dot product (geom)          | Zem §1.10          | YoungF Ch1 §1.9             | —               | —          |
+| Dot product (components)    | Zem §1.10          | YoungF Ch1 §1.9             | —               | —          |
+| Perpendicular test          | Zem §1.10          | YoungF Ch1 §1.9             | —               | —          |
+| Cross product (geom)        | Zem §1.10          | YoungF Ch1 §1.9             | —               | —          |
+| Right-hand rule             | Zem §1.10          | YoungF Ch1 §1.9             | —               | —          |
+| Parallel test               | Zem §1.10          | YoungF Ch1 §1.9             | —               | —          |
+| Product output types        | Zem §1.10          | YoungF Ch1 §1.9             | —               | —          |
+| Force as vector             | Zem §1.7           | Lab01 I                     | —               | —          |
+| Equilibrium: ΣF = 0         | Lab01 I            | YoungF Ch2 §2.6             | —               | —          |
+| Units in tables/graphs      | guidelines §III–IV | —                           | —               | —          |
+| Percent error vs difference | guidelines §V      | YoungF Ch1 §1.5             | —               | —          |
+| “Write equations used”      | guidelines §V      | —                           | —               | —          |
 
 C) Layer 3 — Important Details Layer (notation + conditions that matter)
 
