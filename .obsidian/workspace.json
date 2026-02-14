@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Reasoning/Proofs/Prompt for learning math.md",
+                "file": "Math Reasoning/Proofs/Math Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt for learning math"
+              "title": "Math Prompt"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Reasoning/Proofs/Prompt for learning math.md",
+                "file": "Math Reasoning/Proofs/Math Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt for learning math"
+              "title": "Outline of Math Prompt"
             }
           }
         ],
@@ -205,9 +205,9 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "Math Reasoning/Proofs/Prompt for learning math.md",
     "Math Reasoning/Proofs/Math Prompt.md",
     "Math Reasoning/Proofs/Particial  faction/key words to understand.md",
-    "Math Reasoning/Proofs/Prompt for learning math.md",
     "Math Reasoning/review log/Progress log.md",
     "Math Reasoning/Step Justifications/Formatting style for writing math.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
