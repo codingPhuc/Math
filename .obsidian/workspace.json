@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Prompt for learning math.md",
+                "file": "templates/RAP (Read – Answer – Practice).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt for learning math"
+              "title": "RAP (Read – Answer – Practice)"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/Prompt for learning math.md",
+                "file": "templates/RAP (Read – Answer – Practice).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt for learning math"
+              "title": "Outline of RAP (Read – Answer – Practice)"
             }
           }
         ],
@@ -205,8 +205,10 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "prompt/Prompt for books mapping.md",
+    "templates/adjunction.md",
+    "real analysis/Video courses.md",
     "prompt/Prompt for learning math.md",
+    "prompt/Prompt for books mapping.md",
     "prompt/Prompt create prompt.md",
     "prompt/Math Prompt.md",
     "prompt/Books mapper.md",
@@ -232,8 +234,6 @@
     "rating of method.md",
     "Math Reasoning/notes/Belk p.1–4 Practice Bank.md",
     "N2. increasing",
-    "Prompt for exercise understanding.md",
-    "Math Reasoning/notes/7.8/Untitled.md",
     "physic",
     "Math Reasoning/notes/7.4",
     "Math Reasoning/notes/Untitled",
