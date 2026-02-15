@@ -34,7 +34,7 @@ output format (Obsidian-friendly Markdown)
     
 - rewrite equations into LaTeX for readability:
     
-    - inline math uses $...$
+    - inline math uses $$
         
     - display math uses .........
         
