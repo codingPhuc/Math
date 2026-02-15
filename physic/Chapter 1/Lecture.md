@@ -177,7 +177,7 @@ Source map for this section
 
 Instructor: As an example of an object that [moves] with acceleration constant, let’s consider an object that’s said to be in free fall, but in [post-acquisition], that the object is moving near the surface of the Earth. And not too fast.
 
-Instructor: By near the surface of the Earth, I pretty much see inside the Earth atmosphere. The atmosphere extends, well, to around up to $25,\text{km}$ or so, $20$ miles above the surface of the Earth. It’s like $99%$ of the atmosphere is the Earth. But the radius of the Earth is $6{,}380,\text{km}$ [or] $6{,}400,\text{km}$. So if you compare $25$, $30,\text{km}$ to $6{,}400,\text{km}$ … anything inside the Earth atmosphere is what I mean when I say near the surface of the Earth.
+Instructor: By near the surface of the Earth, I pretty much see inside the Earth atmosphere. The atmosphere extends, well, to around up to $25,\text{km}$ or so, $20$ miles above the surface of the Earth. It’s like $99$ of the atmosphere is the Earth. But the radius of the Earth is $6{,}380,\text{km}$ [or] $6{,}400,\text{km}$. So if you compare $25$, $30,\text{km}$ to $6{,}400,\text{km}$ … anything inside the Earth atmosphere is what I mean when I say near the surface of the Earth.
 
 Instructor: Also, I said not too fast. Because if the object is moving too fast through the air, then the object experiences air friction.
 
