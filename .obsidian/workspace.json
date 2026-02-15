@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Prompt for learning math.md",
+                "file": "prompt/Math Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt for learning math"
+              "title": "Math Prompt"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/Prompt for learning math.md",
+                "file": "prompt/Math Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt for learning math"
+              "title": "Outline of Math Prompt"
             }
           }
         ],
@@ -206,13 +206,14 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "prompt/Prompt create prompt.md",
     "prompt/Prompt for books mapping.md",
+    "prompt/Untitled.md",
+    "prompt/Prompt for learning math.md",
     "prompt/Math Prompt.md",
     "prompt/Lecture transcript reformater.md",
     "physic/Chapter 1/Lecture.md",
-    "prompt/Untitled.md",
     "prompt/Books mapper.md",
-    "prompt/Prompt create prompt.md",
     "proof mathemathic/ENDERTON CALCULUS.md",
     "physic/Chapter 1/Chapter 1.md",
     "physic/Chapter 1/Review Question.md",
@@ -231,7 +232,6 @@
     "templates/RAP (Read – Answer – Practice).md",
     "templates/adjunction.md",
     "real analysis/Video courses.md",
-    "prompt/Prompt for learning math.md",
     "prompt",
     "Math Reasoning/review log/Progress log.md",
     "Math Reasoning/Step Justifications/Formatting style for writing math.md",
