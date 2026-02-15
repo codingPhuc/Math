@@ -34,9 +34,9 @@ output format (Obsidian-friendly Markdown)
     
 - rewrite equations into LaTeX for readability:
     
-    - inline math uses $$
+    - inline math uses `$$`
         
-    - display math uses .........
+    - display math uses .......
         
     - never use .........
         
@@ -129,4 +129,4 @@ source-map rules
 
 Now reformat the transcript I paste below, following all rules exactly.
 
-Questions (answer just this one so I can lock the source-map behavior)
+Questions (answer just this one so I can lock the source-map behavio
