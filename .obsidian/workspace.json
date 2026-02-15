@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physic/Chapter 1/Review Question.md",
+                "file": "physic/What to aim for.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review Question"
+              "title": "What to aim for"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physic/Chapter 1/Review Question.md",
+                "file": "physic/What to aim for.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Review Question"
+              "title": "Outline of What to aim for"
             }
           }
         ],
@@ -206,12 +206,13 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "physic/Chapter 1/Review Question.md",
+    "physic/What to aim for.md",
     "physic/Chapter 1/Chapter 13 - 14 questions.md",
     "physic/Chapter 1/Chapter 1.md",
     "physic/Chapter 2/Lecture.md",
     "physic/Chapter 2/Chapter 2.md",
     "physic/Chapter 2",
-    "physic/Chapter 1/Review Question.md",
     "picture/Pasted image 20260215135258.png",
     "prompt/Lecture transcript reformater.md",
     "prompt/Math Prompt.md",
