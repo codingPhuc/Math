@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Lecture transcript reformater.md",
+                "file": "prompt/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture transcript reformater"
+              "title": "Untitled"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/Lecture transcript reformater.md",
+                "file": "prompt/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture transcript reformater"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -206,10 +206,11 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "prompt/Books mapper.md",
+    "prompt/Untitled.md",
+    "prompt/Lecture transcript reformater.md",
     "prompt/Prompt create prompt.md",
     "proof mathemathic/ENDERTON CALCULUS.md",
-    "prompt/Lecture transcript reformater.md",
-    "prompt/Books mapper.md",
     "physic/Chapter 1/Chapter 1.md",
     "physic/Chapter 1/Review Question.md",
     "Math Reasoning/notes/11/work sequences.md",
@@ -234,7 +235,6 @@
     "Math Reasoning/review log/Progress log.md",
     "Math Reasoning/Step Justifications/Formatting style for writing math.md",
     "Math Reasoning/Step Justifications/oral review card 13.md",
-    "Math Reasoning/Step Justifications/practice review card 13.md",
     "N2. increasing",
     "physic",
     "Math Reasoning/notes/7.4",
