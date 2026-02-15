@@ -18,3 +18,9 @@ redo because partial / unclear (needs a cleaner statement)
 7) units-as-algebra: state the rule set (multiply/divide/cancel; add/subtract only like dimensions)  
 8) dimensional check: define it and say what it certifies and what it cannot certify  
 9) spot the error: “distance = speed + time” (answer in dimension language, not just “units different”)
+
+
+
+![[Pasted image 20260215135258.png]] 
+
+

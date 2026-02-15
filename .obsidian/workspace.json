@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Lecture transcript reformater.md",
+                "file": "physic/Chapter 1/Review Question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture transcript reformater"
+              "title": "Review Question"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/Lecture transcript reformater.md",
+                "file": "physic/Chapter 1/Review Question.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture transcript reformater"
+              "title": "Outline of Review Question"
             }
           }
         ],
@@ -206,16 +206,17 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "picture/Pasted image 20260215135258.png",
+    "physic/Chapter 1/Lecture.md",
+    "physic/Chapter 1/Chapter 1.md",
+    "prompt/Lecture transcript reformater.md",
     "prompt/Math Prompt.md",
     "prompt/Prompt create prompt.md",
     "prompt/Prompt for books mapping.md",
     "prompt/Untitled.md",
     "prompt/Prompt for learning math.md",
-    "prompt/Lecture transcript reformater.md",
-    "physic/Chapter 1/Lecture.md",
     "prompt/Books mapper.md",
     "proof mathemathic/ENDERTON CALCULUS.md",
-    "physic/Chapter 1/Chapter 1.md",
     "physic/Chapter 1/Review Question.md",
     "Math Reasoning/notes/11/work sequences.md",
     "physic/Chapter 1",
@@ -234,7 +235,6 @@
     "real analysis/Video courses.md",
     "prompt",
     "Math Reasoning/review log/Progress log.md",
-    "Math Reasoning/Step Justifications/Formatting style for writing math.md",
     "N2. increasing",
     "physic",
     "Math Reasoning/notes/7.4",
