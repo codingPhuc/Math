@@ -162,7 +162,7 @@ B) Layer 2 — Concepts Layer (fine-grained cross-book anchors)
 | Standards of time           | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
 | Standards of length         | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
 | Standards of mass           | Zem §1.3           | YoungF Ch1 §1.3             | —               | —          |
-| Conversion as “×1”          | Zem §1.4           | YoungF Ch1 §1.4             | —               | —          |
+| Conversion as “×1”          | **Zem** §1.4       | YoungF Ch1 §1.4             | —               | —          |
 | Units-as-algebra            | Zem §1.4           | YoungF Ch1 §1.4             | —               | —          |
 | Dimensional check           | Zem §1.4           | YoungF Ch1 §1.4             | —               | —          |
 | Order of magnitude          | Zem §1.6           | YoungF Ch1 §1.6             | —               | —          |
