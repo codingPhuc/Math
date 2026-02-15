@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Reasoning/notes/11/work sequences.md",
+                "file": "physic/Chapter 1/Review Question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "work sequences"
+              "title": "Review Question"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Reasoning/notes/11/work sequences.md",
+                "file": "physic/Chapter 1/Review Question.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of work sequences"
+              "title": "Outline of Review Question"
             }
           }
         ],
@@ -204,8 +204,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
+    "Math Reasoning/notes/11/work sequences.md",
+    "physic/Chapter 1/Review Question.md",
     "physic/Chapter 1",
     "Math Reasoning/notes/7.4/Note Styles.md",
     "Math Reasoning/Proofs/Rater for Proof.md",
@@ -233,7 +235,6 @@
     "Math Reasoning/Step Justifications/practice review card 13.md",
     "Math Reasoning/Step Justifications/What is Justifying step.md",
     "Math Reasoning/Step Justifications/with respect to.md",
-    "Math Reasoning/Calculus proof.md",
     "N2. increasing",
     "physic",
     "Math Reasoning/notes/7.4",
@@ -241,7 +242,6 @@
     "Math Reasoning/notes/7.8",
     "book/MATH-CALC-STEWART.pdf",
     "Math Reasoning/notes/11",
-    "Math Reasoning/notes/polynomial",
     "Math Reasoning/Untitled.canvas",
     "Paul Online note/algebra/Pasted image 20241201201758.png",
     "picture/Pasted image 20251215203203.png",
