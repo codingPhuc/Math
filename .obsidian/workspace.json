@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Untitled.md",
+                "file": "prompt/Lecture transcript reformater.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Lecture transcript reformater"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/Untitled.md",
+                "file": "prompt/Lecture transcript reformater.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Lecture transcript reformater"
             }
           }
         ],
@@ -207,7 +207,7 @@
   "active": "7702301795832f14",
   "lastOpenFiles": [
     "prompt/Books mapper.md",
-    "prompt/Untitled.md",
+    "prompt/Lecture transcript reformater.md",
     "physic/Chapter 1/Chapter 1.md",
     "physic/Chapter 1/Review Question.md",
     "Math Reasoning/notes/11/work sequences.md",
