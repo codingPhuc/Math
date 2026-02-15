@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physic/Chapter 1/Lecture.md",
+                "file": "prompt/Math Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture"
+              "title": "Math Prompt"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physic/Chapter 1/Lecture.md",
+                "file": "prompt/Math Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture"
+              "title": "Outline of Math Prompt"
             }
           }
         ],
@@ -206,10 +206,10 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "prompt/Untitled.md",
-    "physic/Chapter 1/Lecture.md",
-    "prompt/Books mapper.md",
     "prompt/Lecture transcript reformater.md",
+    "physic/Chapter 1/Lecture.md",
+    "prompt/Untitled.md",
+    "prompt/Books mapper.md",
     "prompt/Prompt create prompt.md",
     "proof mathemathic/ENDERTON CALCULUS.md",
     "physic/Chapter 1/Chapter 1.md",
