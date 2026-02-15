@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Math Prompt.md",
+                "file": "prompt/Lecture transcript reformater.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math Prompt"
+              "title": "Lecture transcript reformater"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/Math Prompt.md",
+                "file": "prompt/Lecture transcript reformater.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Math Prompt"
+              "title": "Outline of Lecture transcript reformater"
             }
           }
         ],
@@ -206,11 +206,11 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "prompt/Math Prompt.md",
     "prompt/Prompt create prompt.md",
     "prompt/Prompt for books mapping.md",
     "prompt/Untitled.md",
     "prompt/Prompt for learning math.md",
-    "prompt/Math Prompt.md",
     "prompt/Lecture transcript reformater.md",
     "physic/Chapter 1/Lecture.md",
     "prompt/Books mapper.md",
