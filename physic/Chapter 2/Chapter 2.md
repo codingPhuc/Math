@@ -1,938 +1,273 @@
-0. what this chapter is about (layer 1 preview)  
-    how position changes in time, how velocity/acceleration encode that change, and what simplifies when acceleration is constant (especially free fall).
-    
-
-A) layer 1 — logic layer (big picture + structure)
-
-1. chapter “map of maps”
-    
-
-keywords/phrases (chapter purpose + flow)
-
-- position vector and displacement $\Delta \vec r$
-    
-- average vs instantaneous velocity $\vec v$
-    
-- acceleration $\vec a$ and “constant acceleration”
-    
-- calculus link: $\vec v = d\vec r/dt$, $\vec a = d\vec v/dt$
-    
-- graphs: $x(t)$, $v(t)$, $a(t)$ meaning (slope/area)
-    
-- kinematic equations for constant $\vec a$
-    
-- free fall: $\vec a = \pm g,\hat y$ (sign convention)
-    
-- components: $a_x = 0 \Rightarrow v_x$ constant
-    
-- sign conventions and coordinate choices
-    
-- what breaks when $\vec a$ is not constant
-    
-
-simple flow (what leads to what)
-
-- define motion variables (position/displacement) → define rates (velocity, acceleration) → connect to calculus (derivatives) → integrate under constant acceleration → obtain kinematic equations → specialize to free fall and sign conventions → interpret with components/graphs.
-    
-
-2. section outline (navigation-first)
-    
-
-note: section titles are not verified from the pdf; labels below are [inferred] from the chapter’s kinematics content and your lecture transcript.
-
-- ch2.[inferred] 2.1 position and displacement vectors: what changes
-    
-- ch2.[inferred] 2.2 average velocity vs instantaneous velocity: rate idea
-    
-- ch2.[inferred] 2.3 acceleration: change of velocity
-    
-- ch2.[inferred] 2.4 graphs: slope/area interpretations
-    
-- ch2.[inferred] 2.5 constant acceleration assumption: when allowed
-    
-- ch2.[inferred] 2.6 deriving kinematic equations by integration
-    
-- ch2.[inferred] 2.7 free fall near earth: $\vec a=\pm g,\hat y$
-    
-- ch2.[inferred] 2.8 1d vertical motion sign conventions
-    
-- ch2.[inferred] 2.9 components and “$a_x=0$ implies $v_x$ constant”
-    
-- ch2.[inferred] 2.10 limits of the equations: nonconstant acceleration
-    
-
-B) layer 2 — concepts layer (fine-grained cross-book anchors)
-
-3. fine-grained concept inventory (40 items)
-    
-
-support sources available in your project folder (used below)
-
-- Chapter_2_Zemansky.pdf (spine)
-    
-- Chapter_1_Zemansky.pdf
-    
-- vectors_overleaf.pdf
-    
-- University Physics with Modern Physics, Books a la Carte -- Hugh D_ Young, Roger A_ Freedman, A_ Lewis Ford, Francis -- 13th ed_ _ Hugh D_ Young, -- 9780321675460 -- c742c48faa77818c2cc56239c311b1e1 -- Anna’s Arch.pdf
-    
-
-for every item: spine anchors are ch2.[inferred] labels (since the pdf’s internal section numbering wasn’t verified). support anchors cite the most likely matching chapter/section by topic name; page numbers are unknown.
-
-1. position vector $\vec r(t)$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.1
-    
-- support anchors: vectors_overleaf.pdf | vectors + position notation | confidence: medium; Chapter_1_Zemansky.pdf | vectors basics | confidence: medium; University Physics … 13e …pdf | “position, displacement, velocity” | confidence: medium
-    
-- why you’d open this: what $\vec r$ means and how it’s recorded
-    
-- prereqs: none
-    
-- confidence: medium
-    
-
-2. displacement $\Delta \vec r = \vec r_f - \vec r_i$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.1
-    
-- support anchors: Chapter_1_Zemansky.pdf | vector subtraction | confidence: medium; vectors_overleaf.pdf | displacement vs path | confidence: medium; University Physics … 13e …pdf | displacement definition | confidence: medium
-    
-- why you’d open this: “final minus initial” as change, vector meaning
-    
-- prereqs: position vector $\vec r(t)$
-    
-- confidence: medium
-    
-
-3. distance vs displacement distinction
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.1
-    
-- support anchors: University Physics … 13e …pdf | distance traveled vs displacement | confidence: medium; Chapter_1_Zemansky.pdf | scalar vs vector | confidence: medium
-    
-- why you’d open this: avoid mixing path length with vector change
-    
-- prereqs: displacement
-    
-- confidence: medium
-    
-
-4. average velocity $\vec v_{\text{avg}} = \Delta \vec r/\Delta t$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.2
-    
-- support anchors: University Physics … 13e …pdf | average velocity | confidence: medium; Chapter_1_Zemansky.pdf | unit consistency | confidence: medium
-    
-- why you’d open this: rate-of-change over an interval, vector form
-    
-- prereqs: displacement
-    
-- confidence: medium
-    
-
-5. instantaneous velocity $\vec v = d\vec r/dt$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.2
-    
-- support anchors: University Physics … 13e …pdf | instantaneous velocity via derivative | confidence: medium; Chapter_1_Zemansky.pdf | calculus notation in physics | confidence: low
-    
-- why you’d open this: derivative meaning; connects to slopes
-    
-- prereqs: average velocity
-    
-- confidence: medium
-    
-
-6. velocity as a function of time $\vec v(t)$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.2
-    
-- support anchors: University Physics … 13e …pdf | $v(t)$ notation in 1d motion | confidence: medium
-    
-- why you’d open this: resolve “$v = v_0 + at$ is really $v(t)$”
-    
-- prereqs: instantaneous velocity
-    
-- confidence: medium
-    
-
-7. average acceleration $\vec a_{\text{avg}} = \Delta \vec v/\Delta t$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.3
-    
-- support anchors: University Physics … 13e …pdf | average acceleration | confidence: medium
-    
-- why you’d open this: acceleration as change of velocity over time
-    
-- prereqs: velocity as a function of time
-    
-- confidence: medium
-    
-
-8. instantaneous acceleration $\vec a = d\vec v/dt = d^2\vec r/dt^2$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.3
-    
-- support anchors: University Physics … 13e …pdf | acceleration via derivative | confidence: medium
-    
-- why you’d open this: where $a$ comes from (not “magic formula”)
-    
-- prereqs: instantaneous velocity
-    
-- confidence: medium
-    
-
-9. constant acceleration assumption (“pull $a$ outside the integral”)
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.5
-    
-- support anchors: University Physics … 13e …pdf | constant-acceleration model | confidence: medium
-    
-- why you’d open this: the exact hypothesis that justifies kinematic equations
-    
-- prereqs: instantaneous acceleration
-    
-- confidence: medium
-    
-
-10. integrating $a$ to get $v$: $\int a,dt$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.6
-    
-- support anchors: University Physics … 13e …pdf | derivation of $v=v_0+at$ | confidence: medium
-    
-- why you’d open this: calculus derivation the instructor emphasizes
-    
-- prereqs: constant acceleration assumption
-    
-- confidence: medium
-    
-
-11. velocity update law (1d): $v = v_0 + at$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.6
-    
-- support anchors: University Physics … 13e …pdf | constant acceleration equation | confidence: medium
-    
-- why you’d open this: interpret symbols ($0$ means initial time, not zero velocity)
-    
-- prereqs: integrating $a$ to get $v$
-    
-- confidence: medium
-    
-
-12. integrating $v$ to get $r$: $\Delta \vec r = \int \vec v,dt$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.6
-    
-- support anchors: University Physics … 13e …pdf | derivation of $x=x_0+v_0 t+\frac12at^2$ | confidence: medium
-    
-- why you’d open this: why you must express $v$ in terms of $t$
-    
-- prereqs: velocity update law
-    
-- confidence: medium
-    
-
-13. displacement under constant $a$: $\Delta \vec r = \vec v_0 t + \frac12 \vec a t^2$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.6
-    
-- support anchors: University Physics … 13e …pdf | constant acceleration position equation | confidence: medium
-    
-- why you’d open this: the integrated result and its vector meaning
-    
-- prereqs: integrating $v$ to get $r$
-    
-- confidence: medium
-    
-
-14. “delta” notation: $\Delta(\cdot)$ means final minus initial
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.6
-    
-- support anchors: Chapter_1_Zemansky.pdf | unit conversion + difference notation | confidence: low; University Physics … 13e …pdf | $\Delta x$ conventions | confidence: medium
-    
-- why you’d open this: consistent meaning of $\Delta x$, $\Delta y$, $\Delta\vec r$
-    
-- prereqs: displacement
-    
-- confidence: medium
-    
-
-15. kinematic equation without time: $v^2 = v_0^2 + 2a\Delta x$ (1d)
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.6
-    
-- support anchors: University Physics … 13e …pdf | time-eliminated kinematics | confidence: medium
-    
-- why you’d open this: “equation 3 has no time” elimination idea
-    
-- prereqs: velocity update law; displacement under constant $a$
-    
-- confidence: medium
-    
-
-16. coordinate choice: origin location matters for $y_0, y$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.8
-    
-- support anchors: University Physics … 13e …pdf | coordinate system choice in kinematics | confidence: medium
-    
-- why you’d open this: avoid sign/height mistakes when origin shifts
-    
-- prereqs: delta notation
-    
-- confidence: medium
-    
-
-17. sign convention: choosing +y up vs +y down
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.8
-    
-- support anchors: University Physics … 13e …pdf | vertical motion sign conventions | confidence: medium
-    
-- why you’d open this: why $a_y = -g$ or $+g$ depending on axis
-    
-- prereqs: coordinate choice
-    
-- confidence: medium
-    
-
-18. free fall definition: “only gravity acts”
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.7
-    
-- support anchors: University Physics … 13e …pdf | free fall definition and assumptions | confidence: medium
-    
-- why you’d open this: when it’s valid to set $a=\pm g$
-    
-- prereqs: constant acceleration assumption
-    
-- confidence: medium
-    
-
-19. air resistance as “breaks free fall” condition
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.7
-    
-- support anchors: University Physics … 13e …pdf | drag/air resistance warnings (intro) | confidence: low
-    
-- why you’d open this: why “not too fast” matters in the model
-    
-- prereqs: free fall definition
-    
-- confidence: low
-    
-
-20. gravitational acceleration magnitude $g \approx 9.8\ \text{m/s}^2$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.7
-    
-- support anchors: University Physics … 13e …pdf | standard value of $g$ near Earth | confidence: medium
-    
-- why you’d open this: what $g$ represents (acceleration, not force)
-    
-- prereqs: free fall definition
-    
-- confidence: medium
-    
-
-21. distinction: gravity (force) vs $g$ (acceleration magnitude)
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.7
-    
-- support anchors: University Physics … 13e …pdf | force vs acceleration framing | confidence: medium
-    
-- why you’d open this: stop calling $g$ “gravity” in equations
-    
-- prereqs: gravitational acceleration magnitude
-    
-- confidence: medium
-    
-
-22. 1d free-fall kinematics with components: $v_y = v_{0y} \pm gt$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.8
-    
-- support anchors: University Physics … 13e …pdf | vertical motion formula set | confidence: medium
-    
-- why you’d open this: direct mapping from vector to component form
-    
-- prereqs: sign convention; velocity update law
-    
-- confidence: medium
-    
-
-23. 1d free-fall displacement: $\Delta y = v_{0y}t + \frac12(\pm g)t^2$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.8
-    
-- support anchors: University Physics … 13e …pdf | vertical displacement under gravity | confidence: medium
-    
-- why you’d open this: consistent handling of $\Delta y$ signs
-    
-- prereqs: sign convention; displacement under constant $a$
-    
-- confidence: medium
-    
-
-24. time symmetry (up and back to same level): $t_\text{down} = t_\text{up}$ (no drag)
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.8
-    
-- support anchors: University Physics … 13e …pdf | vertical motion symmetry discussion | confidence: low
-    
-- why you’d open this: why returning-to-same-height time doubles
-    
-- prereqs: free-fall kinematics with components
-    
-- confidence: low
-    
-
-25. “at the top, $v=0$ but $a\neq 0$”
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.8
-    
-- support anchors: University Physics … 13e …pdf | acceleration at highest point | confidence: medium
-    
-- why you’d open this: kill the common misconception immediately
-    
-- prereqs: instantaneous acceleration
-    
-- confidence: medium
-    
-
-26. 2d decomposition: $\vec v = v_x\hat i + v_y\hat j$, $\vec a = a_x\hat i + a_y\hat j$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.9
-    
-- support anchors: vectors_overleaf.pdf | component decomposition | confidence: high; Chapter_1_Zemansky.pdf | components and unit vectors | confidence: medium; University Physics … 13e …pdf | 2d motion components | confidence: medium
-    
-- why you’d open this: translate vector equations into solvable scalars
-    
-- prereqs: displacement; velocity; acceleration
-    
-- confidence: high
-    
-
-27. component independence principle (solve x and y separately)
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.9
-    
-- support anchors: University Physics … 13e …pdf | independence of perpendicular motions | confidence: medium
-    
-- why you’d open this: why $a_x$ doesn’t affect $y$ motion and vice versa
-    
-- prereqs: 2d decomposition
-    
-- confidence: medium
-    
-
-28. zero horizontal acceleration: $a_x=0$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.9
-    
-- support anchors: University Physics … 13e …pdf | projectile motion basics: $a_x=0$ | confidence: medium
-    
-- why you’d open this: identify when horizontal speed stays constant
-    
-- prereqs: component independence principle
-    
-- confidence: medium
-    
-
-29. consequence: $a_x=0 \Rightarrow v_x$ constant
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.9
-    
-- support anchors: University Physics … 13e …pdf | constant $v_x$ reasoning | confidence: medium
-    
-- why you’d open this: the exact interpretation the instructor drilled
-    
-- prereqs: zero horizontal acceleration
-    
-- confidence: medium
-    
-
-30. interpreting “constant” vs “zero”
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.9
-    
-- support anchors: Chapter_1_Zemansky.pdf | scalars/vectors and components | confidence: low; University Physics … 13e …pdf | component language | confidence: low
-    
-- why you’d open this: constant does not mean zero; zero is one constant
-    
-- prereqs: consequence: $v_x$ constant
-    
-- confidence: low
-    
-
-31. projectile motion launch components: $v_{0x}=v_0\cos\theta$, $v_{0y}=v_0\sin\theta$
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.9
-    
-- support anchors: vectors_overleaf.pdf | trig/component resolution | confidence: medium; University Physics … 13e …pdf | projectile decomposition | confidence: medium
-    
-- why you’d open this: connect “5 m/s at 37°” to components
-    
-- prereqs: 2d decomposition
-    
-- confidence: medium
-    
-
-32. tangent-to-trajectory velocity direction (qualitative)
-    
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.9
-    
-- support anchors: University Physics … 13e …pdf | velocity tangent to path | confidence: low
-    
-- why you’d open this: why velocity arrow “turns” while $v_x$ stays fixed
-    
-- prereqs: component independence principle
-    
-- confidence: low
-    
+According to Chapter_2_Zemansky.pdf, this chapter is your first kinematics toolkit: define motion in 1D using displacement, velocity, acceleration, then solve constant-acceleration motion, free fall, and the “integration” bridge for non-constant acceleration.
 
-33. $x(t)$ graph slope as $v$ (qualitative mapping)
+0. One-line “what this chapter is about” (Layer 1 preview)  
+    It turns “motion stories” into a small set of definitions + graph meanings + equations you can trust.
     
 
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.4
-    
-- support anchors: University Physics … 13e …pdf | graphs of motion (slope) | confidence: medium
-    
-- why you’d open this: interpret what graphs are telling you instantly
-    
-- prereqs: instantaneous velocity
-    
-- confidence: medium
-    
+A) Layer 1 — Logic Layer (Big picture + structure)
 
-34. $v(t)$ graph slope as $a$ (qualitative mapping)
+1. Chapter “map of maps”  
+    Keywords/phrases (purpose + flow)
     
 
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.4
-    
-- support anchors: University Physics … 13e …pdf | graphs of motion (slope/area) | confidence: medium
-    
-- why you’d open this: read acceleration from velocity graph
+- displacement in 1D; time interval
     
-- prereqs: instantaneous acceleration
+- average velocity vs average speed
     
-- confidence: medium
+- position–time slope meaning
     
-
-35. $v(t)$ area as displacement (constant-$a$ use)
+- instantaneous velocity (tangent slope)
     
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.4
+- acceleration (average, instantaneous)
     
-- support anchors: University Physics … 13e …pdf | area under curve gives displacement | confidence: medium
+- velocity–time slope meaning
     
-- why you’d open this: alternative method when equations are messy
+- constant-acceleration kinematics equations
     
-- prereqs: integrating $v$ to get $r$
+- free fall; (g) and sign conventions
     
-- confidence: medium
+- area under (v)-vs-(t) curve (displacement)
     
-
-36. “equations only valid if $a$ constant throughout interval”
+- integration link: (a(t)\to v(t)\to x(t))
     
 
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.10
-    
-- support anchors: University Physics … 13e …pdf | limitations of constant-accel model | confidence: low
-    
-- why you’d open this: know when to stop using the three kinematic equations
-    
-- prereqs: constant acceleration assumption
-    
-- confidence: low
-    
+Flow (what leads to what)
 
-37. instantaneous vs interval language: “at time $t$” vs “over $[0,t]$”
+- Define displacement and average velocity → interpret velocity on (x)-vs-(t) graphs → refine to instantaneous velocity and “area under (v)-vs-(t)” → define acceleration and interpret on (v)-vs-(t) graphs → specialize to constant acceleration (kinematic equations) → specialize again to free fall ((a_y=-g) depending on axis choice) → generalize via integration when (a) is not constant.
     
 
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.2–2.3
-    
-- support anchors: University Physics … 13e …pdf | notation $v(t)$, $a(t)$ | confidence: medium
-    
-- why you’d open this: fix the “0 means zero?” confusion in symbols
-    
-- prereqs: velocity as a function of time
-    
-- confidence: medium
+2. Section outline (navigation-first)  
+    Spine sections (3–8 word “what it’s for”)
     
 
-38. “eliminate time” algebra move (derive eqn without $t$)
+- 2.1 Displacement, Time, Average Velocity: define averages; speed vs velocity; slope idea
     
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.6
+- 2.2 Instantaneous Velocity: tangent slope; area under (v(t)) gives displacement
     
-- support anchors: University Physics … 13e …pdf | deriving $v^2=v_0^2+2a\Delta x$ | confidence: medium
+- 2.3 Acceleration: average/instantaneous; slope of (v(t)); speed up vs slow down
     
-- why you’d open this: know what step is being done conceptually
+- 2.4 Particle Under Constant Acceleration: “the” kinematic equations set
     
-- prereqs: time-eliminated kinematics
+- 2.5 Freely Falling Bodies: define free fall; (g) and downward (a)
     
-- confidence: medium
+- 2.6 Velocity and Position by Integration: compute (v,x) from (a(t)) via integrals
     
 
-39. free fall in orbit: moon/astronauts “still falling”
-    
+B) Layer 2 — Concepts Layer (fine-grained cross-book anchors)
 
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.7
-    
-- support anchors: University Physics … 13e …pdf | orbit as free fall (conceptual) | confidence: low
+3. Fine-grained concept inventory (40 items)  
+    Format: Concept; Spine anchor; Support anchors; Why you’d open this; Prereqs; Confidence
     
-- why you’d open this: connect free fall definition beyond “dropping objects”
+4. 1D motion model; Zem 2.1; University Physics Ch4 “Displacement, Time, and Average Velocity”; Why: what “one-dimensional” assumes; Prereqs: —; Confidence: medium
     
-- prereqs: free fall definition
+5. Displacement vs position change; Zem 2.1; University Physics Ch4 “Displacement…”; Why: what (\Delta \vec r) means operationally; Prereqs: 1; Confidence: high
     
-- confidence: low
+6. Time interval notation (\Delta t); Zem 2.1; University Physics Ch4 “Displacement…”; Why: keep “interval” vs “instant” clean; Prereqs: 1; Confidence: high
     
-
-40. apparent weightlessness vs weight (scale reading)
+7. Average velocity definition; Zem 2.1; University Physics Ch4 “Displacement…”; Why: ratio (\Delta \vec r/\Delta t) and direction meaning; Prereqs: 2,3; Confidence: high
     
-
-- spine anchor: Chapter_2_Zemansky.pdf | ch2.[inferred] 2.7 (bridge to forces)
+8. Velocity is vector; Zem 2.1; University Physics Ch4 “Position and Velocity Vectors”; Why: why dividing by scalar keeps direction; Prereqs: 4; Confidence: high
     
-- support anchors: University Physics … 13e …pdf | normal force, apparent weight, elevator/free fall | confidence: low
+9. Average speed vs average velocity; Zem 2.1; University Physics Ch4 “Displacement…”; Why: stop mixing “distance/time” with vector velocity; Prereqs: 4; Confidence: high
     
-- why you’d open this: interpret “scale reads zero” without saying gravity vanished
+10. (x)-vs-(t) graph meaning; Zem 2.1; University Physics Ch4 “Instantaneous Velocity”; Why: how graphs encode motion; Prereqs: 4; Confidence: medium
     
-- prereqs: free fall definition; gravity vs $g$ distinction
+11. Average velocity as secant slope; Zem 2.1; University Physics Ch4 “Displacement…”; Why: slope of chord = average rate of change; Prereqs: 7; Confidence: high
     
-- confidence: low
+12. Instantaneous velocity definition; Zem 2.2; University Physics Ch4 “Instantaneous Velocity”; Why: tangent slope at the instant; Prereqs: 7; Confidence: high
     
-
-4. crosswalk table (navigation density)
+13. “Tangent line” idea; Zem 2.2; University Physics Ch4 “Instantaneous Velocity”; Why: limit of secants without doing calculus yet; Prereqs: 9; Confidence: medium
     
-
-| concept                              | spine anchor           | support #1                               | support #2                     | support #3                            |
-| ------------------------------------ | ---------------------- | ---------------------------------------- | ------------------------------ | ------------------------------------- |
-| position vector $\vec r(t)$          | zemansky ch2.[inf] 2.1 | vectors_overleaf: position notation      | ch1_zemansky: vectors          | young/freedman: position/displacement |
-| displacement $\Delta\vec r$          | ch2.[inf] 2.1          | ch1_zemansky: subtraction                | vectors_overleaf: displacement | young/freedman: displacement          |
-| distance vs displacement             | ch2.[inf] 2.1          | young/freedman: distance vs displacement | ch1_zemansky: scalar vs vector | —                                     |
-| avg velocity                         | ch2.[inf] 2.2          | young/freedman: avg velocity             | ch1_zemansky: units            | —                                     |
-| inst velocity                        | ch2.[inf] 2.2          | young/freedman: derivative               | —                              | —                                     |
-| $v(t)$ notation                      | ch2.[inf] 2.2          | young/freedman: $v(t)$                   | —                              | —                                     |
-| avg acceleration                     | ch2.[inf] 2.3          | young/freedman: avg accel                | —                              | —                                     |
-| inst acceleration                    | ch2.[inf] 2.3          | young/freedman: derivative               | —                              | —                                     |
-| constant $a$ assumption              | ch2.[inf] 2.5          | young/freedman: model                    | —                              | —                                     |
-| integrate $a$→$v$                    | ch2.[inf] 2.6          | young/freedman: derivation               | —                              | —                                     |
-| $ v=v_0+at $                         | ch2.[inf] 2.6          | young/freedman: equation                 | —                              | —                                     |
-| integrate $v$→$r$                    | ch2.[inf] 2.6          | young/freedman: derivation               | —                              | —                                     |
-| $\Delta r=v_0t+\frac12at^2$          | ch2.[inf] 2.6          | young/freedman: equation                 | —                              | —                                     |
-| $\Delta$ notation                    | ch2.[inf] 2.6          | young/freedman: $\Delta x$               | —                              | —                                     |
-| $ v^2=v_0^2+2a\Delta x $             | ch2.[inf] 2.6          | young/freedman: time-elim                | —                              | —                                     |
-| origin choice                        | ch2.[inf] 2.8          | young/freedman: coordinates              | —                              | —                                     |
-| +y up vs down                        | ch2.[inf] 2.8          | young/freedman: sign convention          | —                              | —                                     |
-| free fall definition                 | ch2.[inf] 2.7          | young/freedman: free fall                | —                              | —                                     |
-| air resistance caveat                | ch2.[inf] 2.7          | young/freedman: drag warning             | —                              | —                                     |
-| $g\approx9.8$                        | ch2.[inf] 2.7          | young/freedman: $g$ value                | —                              | —                                     |
-| gravity(force) vs $g$(accel)         | ch2.[inf] 2.7          | young/freedman: force vs accel           | —                              | —                                     |
-| $ v_y=v_{0y}\pm gt $                 | ch2.[inf] 2.8          | young/freedman: vertical motion          | —                              | —                                     |
-| $\Delta y=v_{0y}t+\frac12(\pm g)t^2$ | ch2.[inf] 2.8          | young/freedman: vertical motion          | —                              | —                                     |
-| time symmetry same height            | ch2.[inf] 2.8          | young/freedman: symmetry                 | —                              | —                                     |
-| top: $v=0$, $a\neq0$                 | ch2.[inf] 2.8          | young/freedman: highest point            | —                              | —                                     |
-| 2d decomposition                     | ch2.[inf] 2.9          | vectors_overleaf: components             | ch1_zemansky: unit vectors     | young/freedman: 2d motion             |
-| independence x/y                     | ch2.[inf] 2.9          | young/freedman: independence             | —                              | —                                     |
-| $a_x=0$                              | ch2.[inf] 2.9          | young/freedman: projectile basics        | —                              | —                                     |
-| $a_x=0\Rightarrow v_x$ const         | ch2.[inf] 2.9          | young/freedman: constant $v_x$           | —                              | —                                     |
-| constant vs zero                     | ch2.[inf] 2.9          | —                                        | —                              | —                                     |
-| launch components trig               | ch2.[inf] 2.9          | vectors_overleaf: trig comps             | young/freedman: decomposition  | —                                     |
-| velocity tangent to path             | ch2.[inf] 2.9          | young/freedman: tangent velocity         | —                              | —                                     |
-| $x(t)$ slope = $v$                   | ch2.[inf] 2.4          | young/freedman: graphs                   | —                              | —                                     |
-| $v(t)$ slope = $a$                   | ch2.[inf] 2.4          | young/freedman: graphs                   | —                              | —                                     |
-| area under $v(t)$                    | ch2.[inf] 2.4          | young/freedman: area                     | —                              | —                                     |
-| limits of kinematic eqs              | ch2.[inf] 2.10         | young/freedman: limitations              | —                              | —                                     |
-| instant vs interval language         | ch2.[inf] 2.2–2.3      | young/freedman: notation                 | —                              | —                                     |
-| time elimination move                | ch2.[inf] 2.6          | young/freedman: algebra                  | —                              | —                                     |
-| orbit as free fall                   | ch2.[inf] 2.7          | young/freedman: orbit                    | —                              | —                                     |
-| apparent weightlessness              | ch2.[inf] 2.7          | young/freedman: normal force             | —                              | —                                     |
-
-C) layer 3 — important details layer (notation + conditions that matter)
-
-5. high-value details index (22 items)
+14. Velocity–time graph as motion summary; Zem 2.2 (setup); University Physics Ch4 “Average and Instantaneous Acceleration”; Why: switch representations (graph-first); Prereqs: 9; Confidence: low
     
-
-each item links to a layer-2 concept and gives a spine anchor.
-
-1. “$0$” in $v_0$ means “initial time,” not “zero velocity”
+15. Displacement from area under (v(t)); Zem 2.2; University Physics Ch4 “Displacement…”; Why: “area = (\Delta x)” rule; Prereqs: 11; Confidence: high
     
-
-- linked concept: velocity update law (1d): $v=v_0+at$
+16. Acceleration (average) definition; Zem 2.3A; University Physics Ch4 “Average and Instantaneous Acceleration”; Why: (\Delta \vec v/\Delta t) and direction meaning; Prereqs: 9; Confidence: high
     
-- spine anchor: ch2.[inferred] 2.6
+17. Acceleration is vector; Zem 2.3A; University Physics Ch4 “The Acceleration Vector”; Why: direction follows (\Delta \vec v); Prereqs: 13; Confidence: high
     
-
-2. $v$ should be read as $v(t)$ when equations involve $t$
+18. Acceleration (instantaneous) definition; Zem 2.3B; University Physics Ch4 “Average and Instantaneous Acceleration”; Why: slope of tangent on (v(t)); Prereqs: 13; Confidence: high
     
-
-- linked concept: velocity as a function of time $\vec v(t)$
+19. (v(t)) slope interpretation; Zem 2.3B; University Physics Ch4 “Average and Instantaneous Acceleration”; Why: read acceleration from graphs fast; Prereqs: 15; Confidence: medium
     
-- spine anchor: ch2.[inferred] 2.2
+20. Speeding up vs slowing down criterion; Zem 2.3 (i)/(ii); University Physics Ch4 “Acceleration Vector”; Why: direction of (\vec a) vs (\vec v) decides; Prereqs: 14; Confidence: high
     
-
-3. constant acceleration hypothesis is global on the interval $[0,t]$
+21. Constant-acceleration assumption; Zem 2.4; University Physics Ch4 “Motion with Constant Acceleration”; Why: when kinematic equations apply; Prereqs: 13; Confidence: high
     
-
-- linked concept: constant acceleration assumption
+22. Kinematic equation: (\Delta \vec r = \vec v_i t + \tfrac12 \vec a t^2); Zem 2.4; University Physics Ch4 “Motion with Constant Acceleration”; Why: position update under constant (a); Prereqs: 18; Confidence: medium
     
-- spine anchor: ch2.[inferred] 2.5
+23. Kinematic equation: (\vec v_f = \vec v_i + \vec a t); Zem 2.4; University Physics Ch4 “Motion with Constant Acceleration”; Why: velocity update under constant (a); Prereqs: 18; Confidence: high
     
-
-4. “pull $a$ outside the integral” is illegal if $a=a(t)$
+24. Kinematic equation: (v_f^2 = v_i^2 + 2a\Delta r); Zem 2.4; University Physics Ch4 “Motion with Constant Acceleration”; Why: eliminate time cleanly; Prereqs: 18; Confidence: medium
     
-
-- linked concept: constant acceleration assumption
+25. Axis specialization: (\Delta \vec r \to \Delta x); Zem 2.4; University Physics Ch4 “Motion with Constant Acceleration”; Why: reduce vectors to scalars in 1D; Prereqs: 19; Confidence: high
     
-- spine anchor: ch2.[inferred] 2.6
+26. Separate (x)-motion vs (y)-motion; Zem 2.4 (x/y notes); University Physics Ch4 “Motion with Constant Acceleration”; Why: keep component-wise logic; Prereqs: 22; Confidence: high
     
-
-5. $\Delta \vec r$ is always $\vec r_f-\vec r_i$ (vector subtraction)
+27. Free fall definition (gravity only); Zem 2.5; University Physics Ch4 “Freely Falling Bodies”; Why: when “free fall” applies even if moving up; Prereqs: 18; Confidence: high
     
-
-- linked concept: displacement $\Delta\vec r$
+28. (g) as magnitude; Zem 2.5; University Physics (caution: (g) positive as magnitude); Why: stop sign errors before they happen; Prereqs: 24; Confidence: medium
     
-- spine anchor: ch2.[inferred] 2.1
+29. Free-fall acceleration vector; Zem 2.5; University Physics (sign note: acceleration can be (-g) if up is positive); Why: encode direction correctly; Prereqs: 25; Confidence: medium
     
-
-6. $\Delta y$ depends on where you set the origin, but it stays $y_f-y_i$
+30. Free-fall kinematics in (y); Zem 2.5; University Physics Ch4 “Freely Falling Bodies”; Why: same equations with (a_y) fixed; Prereqs: 19–23,26; Confidence: high
     
-
-- linked concept: coordinate choice
+31. “Initial” vs “final” subscripts (i,f); Zem 2.4–2.5; University Physics Ch4 “Motion with Constant Acceleration”; Why: keep bookkeeping consistent; Prereqs: 18; Confidence: medium
     
-- spine anchor: ch2.[inferred] 2.8
+32. Non-constant acceleration warning; Zem 2.6; University Physics Ch4 “Velocity and Position by Integration”; Why: when constant-(a) equations fail; Prereqs: 18; Confidence: high
     
-
-7. $g$ is a magnitude; $\vec a$ has direction set by axes
+33. Integration pipeline idea; Zem 2.6; University Physics Ch4 “Velocity and Position by Integration”; Why: (a(t)\to v(t)\to x(t)) in one line; Prereqs: 29; Confidence: medium
     
-
-- linked concept: gravitational acceleration magnitude; sign convention
+34. Velocity from acceleration integral; Zem 2.6; University Physics Ch4 “Velocity and Position by Integration”; Why: compute (v_f) from (\int a,dt); Prereqs: 30; Confidence: high
     
-- spine anchor: ch2.[inferred] 2.7–2.8
+35. Position from velocity integral; Zem 2.6; University Physics Ch4 “Velocity and Position by Integration”; Why: compute (x_f) from (\int v,dt); Prereqs: 30; Confidence: high
     
-
-8. if +y is up, then $a_y=-g$ for free fall
+36. “Known function of time” condition; Zem 2.6; University Physics Ch4 “Velocity and Position by Integration”; Why: what you must be given to integrate; Prereqs: 29; Confidence: high
     
-
-- linked concept: sign convention
+37. Graph-to-calculus bridge (area/slope); Zem 2.2–2.3; University Physics Ch4 (same topics list); Why: unify the chapter’s graph rules; Prereqs: 8,12,16; Confidence: medium
     
-- spine anchor: ch2.[inferred] 2.8
+38. “Average” vs “instantaneous” pattern; Zem 2.1–2.3; University Physics Ch4 (displacement/velocity/accel headings); Why: reuse one schema across definitions; Prereqs: 4,9,13; Confidence: high
     
-
-9. if +y is down, then $a_y=+g$ for free fall
+39. Units sanity: velocity and acceleration; Zem 2.1–2.3; University Physics Ch1 (units prelims); Why: prevent “km/s²” nonsense; Prereqs: —; Confidence: low (support anchor not directly opened here)
     
-
-- linked concept: sign convention
+40. Choosing positive direction (sign convention); Zem 2.4–2.5 (x/y notes + free fall); University Physics (g sign caution); Why: the hidden source of most wrong answers; Prereqs: 23,25; Confidence: medium
     
-- spine anchor: ch2.[inferred] 2.8
+41. “Only under gravity” condition; Zem 2.5; University Physics (free fall assumptions); Why: know when the model is legal; Prereqs: 24; Confidence: medium
     
-
-10. at the highest point: $v_y=0$ but $a_y=\pm g$ still
+42. When constant-(a) formulas are invalid; Zem 2.6; University Physics (explicit warning); Why: stop misusing the “three equations”; Prereqs: 18,29; Confidence: high
     
-
-- linked concept: “at the top, $v=0$ but $a\neq0$”
+43. Kinematics-to-next-chapters payoff; Zem 2.4–2.6 (implied); University Physics (TOC shows these are core before projectile/circular); Why: why this chapter is “foundation”; Prereqs: 18–33; Confidence: low
     
-- spine anchor: ch2.[inferred] 2.8
+44. Crosswalk table (navigation density)
     
 
-11. “velocity” vs “speed”: sign/direction must be stated for velocity
-    
+|Concept|Spine anchor|Support #1|Support #2|Support #3|
+|---|---|---|---|---|
+|Average velocity definition|Zem 2.1|UnivPhys Ch4 “Displacement…”|—|—|
+|Avg speed vs avg velocity|Zem 2.1|UnivPhys Ch4 “Displacement…”|—|—|
+|Avg velocity = secant slope|Zem 2.1|UnivPhys Ch4 “Displacement…”|—|—|
+|Instantaneous velocity|Zem 2.2|UnivPhys Ch4 “Instantaneous Velocity”|—|—|
+|Displacement = area under (v(t))|Zem 2.2|UnivPhys Ch4 “Displacement…”|—|—|
+|Average acceleration|Zem 2.3A|UnivPhys Ch4 “Avg/Inst Acceleration”|—|—|
+|Instantaneous acceleration|Zem 2.3B|UnivPhys Ch4 “Avg/Inst Acceleration”|—|—|
+|Speed up vs slow down test|Zem 2.3|UnivPhys Ch4 “Acceleration Vector”|—|—|
+|Constant-acceleration equations|Zem 2.4|UnivPhys Ch4 “Motion with Constant Acceleration”|—|—|
+|Free fall model|Zem 2.5|UnivPhys Ch4 “Freely Falling Bodies”|—|—|
+|(g) magnitude vs sign|Zem 2.5|UnivPhys (g caution box)|—|—|
+|Integration pipeline|Zem 2.6|UnivPhys Ch4 “Velocity and Position by Integration”|—|—|
 
-- linked concept: free fall kinematics with components
-    
-- spine anchor: ch2.[inferred] 2.8
-    
+C) Layer 3 — Important Details Layer (notation + conditions that matter)
 
-12. “constant” means unchanged; it can be nonzero or zero
+5. High-value details index (24 items)  
+    Each item: detail; spine anchor; linked Layer 2 concept(s)
     
-
-- linked concept: interpreting “constant” vs “zero”
+6. (\Delta t = t_f - t_i) is an interval, not “a moment”; Zem 2.1; links: 3,4
     
-- spine anchor: ch2.[inferred] 2.9
+7. (\Delta \vec r) is a vector; dividing by scalar keeps direction; Zem 2.1; links: 4,5
     
-
-13. $a_x=0$ implies $v_x$ constant, not necessarily $v_x=0$
+8. “Speed” is not “velocity” (scalar vs vector); Zem 2.1; links: 6
     
-
-- linked concept: consequence: $v_x$ constant
+9. Average velocity on (x(t)) graph is a secant slope (two points); Zem 2.1; links: 8
     
-- spine anchor: ch2.[inferred] 2.9
+10. Instantaneous velocity is tangent slope at the instant; Zem 2.2; links: 9,10
     
-
-14. when you say “free fall,” you are neglecting air friction by definition here
+11. Displacement over ([t_i,t_f]) equals area under (v(t)); Zem 2.2; links: 12
     
-
-- linked concept: free fall definition; air resistance caveat
+12. Average acceleration uses (\Delta \vec v), not (\Delta |\vec v|); Zem 2.3A; links: 13,14
     
-- spine anchor: ch2.[inferred] 2.7
+13. Instantaneous acceleration is tangent slope of (v(t)); Zem 2.3B; links: 15,16
     
-
-15. “near earth surface” is a modeling condition for constant $g$
+14. “Speeds up” iff (\vec v) and (\vec a) same direction (1D sign logic); Zem 2.3; links: 17
     
-
-- linked concept: gravitational acceleration magnitude
+15. Constant-acceleration equations are a package; don’t mix with variable (a(t)); Zem 2.4 vs 2.6; links: 18,29,39
     
-- spine anchor: ch2.[inferred] 2.7
+16. Keep (i,f) subscripts consistent across (r,v); Zem 2.4; links: 28
     
-
-16. $\vec v = d\vec r/dt$ is vector: applies componentwise
+17. In 1D you may replace (\Delta \vec r) with (\Delta x), but only after choosing axis; Zem 2.4; links: 22,37
     
-
-- linked concept: instantaneous velocity; 2d decomposition
+18. “Along (y)” is not decoration; it fixes which component equations you’re using; Zem 2.4; links: 23
     
-- spine anchor: ch2.[inferred] 2.2, 2.9
+19. Free fall means gravity only, regardless of initial direction of motion; Zem 2.5; links: 24,38
     
-
-17. $\vec a = d\vec v/dt$ is vector: applies componentwise
+20. The chapter defines (g) as a magnitude (positive); Zem 2.5; links: 25
     
-
-- linked concept: instantaneous acceleration; 2d decomposition
+21. If you take “up” positive, free-fall acceleration is (-g) (sign convention); Zem 2.5 + UnivPhys caution; links: 26,37
     
-- spine anchor: ch2.[inferred] 2.3, 2.9
+22. Free-fall equations shown are the same constant-(a) equations with (a_y); Zem 2.5; links: 27
     
-
-18. “equation without time” comes from substituting $t=(v-v_0)/a$ (conceptually)
+23. Integration formulas require (a(t)) known as a function of time; Zem 2.6; links: 33
     
-
-- linked concept: time-eliminated kinematics
+24. (v_f = v_i + \int_0^t a,dt) is the generalization of (v=v_0+at); Zem 2.6; links: 31,30
     
-- spine anchor: ch2.[inferred] 2.6
+25. (x_f = x_i + \int_0^t v,dt) is the generalization of (x=x_0+v_0t+\tfrac12at^2); Zem 2.6; links: 32,30
     
-
-19. if the object is still in the air, acceleration remains $\pm g$ throughout
+26. Area-under-curve and integral are the same idea in different languages; Zem 2.2 vs 2.6; links: 12,30,34
     
-
-- linked concept: “equations only valid if $a$ constant throughout interval”
+27. “Known function” is the boundary between algebra and calculus methods; Zem 2.6; links: 29–33
     
-- spine anchor: ch2.[inferred] 2.10
+28. Don’t silently swap “distance” for “displacement” in equations; Zem 2.1; links: 2,6
     
-
-20. the scale reads the contact force, not “gravity directly”
+29. Most wrong answers here are sign mistakes, not algebra mistakes; Zem 2.4–2.5 + UnivPhys caution; links: 37,26
     
 
-- linked concept: apparent weightlessness vs weight
-    
-- spine anchor: ch2.[inferred] 2.7 (bridge concept)
-    
+D) Layer 4 — Arbitrary Details Layer (low priority unless needed)
 
-21. “only gravity acts” can still mean many gravities add; net is gravitational
+6. Low-yield index (short)
     
 
-- linked concept: free fall definition; orbit as free fall
+- Any extended narrative/“in class” phrasing not tied to a definition; skip unless required; Zem 2.6 (prose around integrals)
     
-- spine anchor: ch2.[inferred] 2.7
+- Numerical value presentation of (g) (memorization vs concept); likely testable (value used a lot); Zem 2.5
     
-
-22. graphs: slope/area statements are about derivatives/integrals, not memorized tricks
+- Worked numerical examples (if present beyond formulas; not shown in extracted text); likely testable; Zem 2.4–2.5; location: unknown (not visible in retrieved lines)
     
 
-- linked concept: $x(t)$ slope = $v$; $v(t)$ slope = $a$; area under $v(t)$
+7. Two paths (navigation, not drills)
     
-- spine anchor: ch2.[inferred] 2.4
-    
-
-D) layer 4 — arbitrary details layer (low priority unless needed)
 
-6. low-yield index (short)
-    
+Minimal path (ordered Layer 2 concept names)
 
-- numeric comparisons about atmosphere height vs earth radius (25–30 km vs 6380 km): skip unless required | spine anchor: ch2.[inf] 2.7
+1. 1D motion model
     
-- side rant about terminology policing (“nobel prize winners say it too”): skip unless required | spine anchor: ch2.[inf] 2.7
+2. Displacement vs position change
     
-- long electricity/current analogy to explain wording (“current doesn’t flow”): skip unless required | spine anchor: ch2.[inf] 2.7 (bridge)
+3. Average velocity definition
     
-- story/jokes about waiting for lunch / late friend: skip unless required | spine anchor: ch2.[inf] 2.6
+4. Avg speed vs avg velocity
     
-- class-management chatter (“five minutes to see homework posted”): skip unless required | spine anchor: ch2.[inf] 2.10
-    
-
-7. two paths (navigation, not drills)
+5. Instantaneous velocity definition
     
-
-minimal path (ordered layer-2 concept names)
-
-1. displacement $\Delta \vec r = \vec r_f - \vec r_i$
+6. Displacement from area under (v(t))
     
-2. instantaneous velocity $\vec v = d\vec r/dt$
+7. Acceleration (average) definition
     
-3. instantaneous acceleration $\vec a = d\vec v/dt$
+8. Acceleration (instantaneous) definition
     
-4. constant acceleration assumption (“pull $a$ outside the integral”)
+9. Constant-acceleration assumption
     
-5. velocity update law (1d): $v = v_0 + at$
+10. Kinematic equation: (\vec v_f = \vec v_i + \vec a t)
     
-6. displacement under constant $a$: $\Delta \vec r = \vec v_0 t + \frac12 \vec a t^2$
+11. Kinematic equation: (\Delta \vec r = \vec v_i t + \tfrac12 \vec a t^2)
     
-7. sign convention: choosing +y up vs +y down
+12. Free fall definition (gravity only)
     
-8. free fall definition: “only gravity acts”
+13. (g) as magnitude
     
-9. 1d free-fall kinematics with components: $v_y = v_{0y} \pm gt$
+14. Integration pipeline idea
     
 
-mastery path (minimal + extras)
+Mastery path (minimal + completeness)
 
-- add: time-eliminated kinematics $v^2 = v_0^2 + 2a\Delta x$ (1d)
-    
-- add: graphs: $x(t)$ slope = $v$, $v(t)$ slope = $a$, area under $v(t)$
+- Add: Velocity is vector; Average velocity as secant slope; “Tangent line” idea; (v(t)) slope interpretation; Speeding up vs slowing down criterion; Kinematic equation (v_f^2 = v_i^2 + 2a\Delta r); Separate (x)- vs (y)-motion; Free-fall kinematics in (y); Non-constant acceleration warning; Velocity from acceleration integral; Position from velocity integral; “Known function of time” condition; Choosing positive direction (sign convention).
     
-- add: 2d decomposition and component independence
-    
-- add: $a_x=0 \Rightarrow v_x$ constant
-    
-- add: “at the top, $v=0$ but $a\neq 0$”
-    
-- add: orbit as free fall; apparent weightlessness vs weight
-    
 
-8. works cited (project library only)
+8. Works Cited (project-folder sources only)
     
 
-- Chapter_2_Zemansky.pdf | location: chapter 2 (internal section titles not verified; anchors used are [inferred])
-    
-- Chapter_1_Zemansky.pdf | location: vectors/units preliminaries (exact section not verified)
-    
-- vectors_overleaf.pdf | location: vectors, components, unit vectors, trig resolution (exact section not verified)
+- Chapter_2_Zemansky.pdf, Chapter 2 “Motion Along a Straight Line (One–Dimension),” §§2.1–2.6 (displacement/average velocity; instantaneous velocity; acceleration; constant acceleration equations; free fall; integration formulas). Page: location unknown.
     
-- University Physics with Modern Physics, Books a la Carte -- Hugh D_ Young, Roger A_ Freedman, A_ Lewis Ford, Francis -- 13th ed_ _ Hugh D_ Young, -- 9780321675460 -- c742c48faa77818c2cc56239c311b1e1 -- Anna’s Arch.pdf | location: kinematics 1d/2d, free fall, graphs, apparent weight (exact chapter/section not verified)
+- University Physics with Modern Physics, Books a la Carte — Hugh D. Young, Roger A. Freedman, A. Lewis Ford, Francis W. Sears, Mark W. Zemansky, 13th ed — … Anna’s Arch.pdf. Chapter 4 section headings listed in the Detailed Contents (“Motion in Two or Three Dimensions”: displacement/average velocity; instantaneous velocity; acceleration; constant acceleration; free fall; velocity/position by integration). Page: location unknown.
     
 
-if you want, paste any one screenshot of the Chapter_2_Zemansky table of contents page and i’ll replace every ch2.[inferred] anchor with the real section numbers without changing the concept list.
+Final question (only because your “7 PDFs” set is not visible to me here)  
+Paste the filenames of the other 5 PDFs (exact names as they appear), and I’ll redo Layer 2 + Crosswalk so each concept has 1–3 real support anchors across all 7 files (no “—”, no “location unknown” except for missing page numbers).
