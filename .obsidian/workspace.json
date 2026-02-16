@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physic/What to aim for.md",
+                "file": "physic/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What to aim for"
+              "title": "Untitled"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physic/What to aim for.md",
+                "file": "physic/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What to aim for"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -206,8 +206,9 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "physic/Chapter 1/Review Question.md",
     "physic/What to aim for.md",
+    "physic/Untitled.md",
+    "physic/Chapter 1/Review Question.md",
     "physic/Chapter 1/Chapter 13 - 14 questions.md",
     "physic/Chapter 1/Chapter 1.md",
     "physic/Chapter 2/Lecture.md",
@@ -236,7 +237,6 @@
     "templates/adjunction.md",
     "real analysis/Video courses.md",
     "prompt",
-    "Math Reasoning/review log/Progress log.md",
     "N2. increasing",
     "physic",
     "Math Reasoning/notes/7.4",
