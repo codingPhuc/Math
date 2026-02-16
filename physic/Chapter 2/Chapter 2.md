@@ -642,48 +642,48 @@ for every item: spine anchors are ch2.[inferred] labels (since the pdf’s inter
 4. crosswalk table (navigation density)
     
 
-|concept|spine anchor|support #1|support #2|support #3|
-|---|---|---|---|---|
-|position vector $\vec r(t)$|zemansky ch2.[inf] 2.1|vectors_overleaf: position notation|ch1_zemansky: vectors|young/freedman: position/displacement|
-|displacement $\Delta\vec r$|ch2.[inf] 2.1|ch1_zemansky: subtraction|vectors_overleaf: displacement|young/freedman: displacement|
-|distance vs displacement|ch2.[inf] 2.1|young/freedman: distance vs displacement|ch1_zemansky: scalar vs vector|—|
-|avg velocity|ch2.[inf] 2.2|young/freedman: avg velocity|ch1_zemansky: units|—|
-|inst velocity|ch2.[inf] 2.2|young/freedman: derivative|—|—|
-|$v(t)$ notation|ch2.[inf] 2.2|young/freedman: $v(t)$|—|—|
-|avg acceleration|ch2.[inf] 2.3|young/freedman: avg accel|—|—|
-|inst acceleration|ch2.[inf] 2.3|young/freedman: derivative|—|—|
-|constant $a$ assumption|ch2.[inf] 2.5|young/freedman: model|—|—|
-|integrate $a$→$v$|ch2.[inf] 2.6|young/freedman: derivation|—|—|
-|$ v=v_0+at $|ch2.[inf] 2.6|young/freedman: equation|—|—|
-|integrate $v$→$r$|ch2.[inf] 2.6|young/freedman: derivation|—|—|
-|$\Delta r=v_0t+\frac12at^2$|ch2.[inf] 2.6|young/freedman: equation|—|—|
-|$\Delta$ notation|ch2.[inf] 2.6|young/freedman: $\Delta x$|—|—|
-|$ v^2=v_0^2+2a\Delta x $|ch2.[inf] 2.6|young/freedman: time-elim|—|—|
-|origin choice|ch2.[inf] 2.8|young/freedman: coordinates|—|—|
-|+y up vs down|ch2.[inf] 2.8|young/freedman: sign convention|—|—|
-|free fall definition|ch2.[inf] 2.7|young/freedman: free fall|—|—|
-|air resistance caveat|ch2.[inf] 2.7|young/freedman: drag warning|—|—|
-|$g\approx9.8$|ch2.[inf] 2.7|young/freedman: $g$ value|—|—|
-|gravity(force) vs $g$(accel)|ch2.[inf] 2.7|young/freedman: force vs accel|—|—|
-|$ v_y=v_{0y}\pm gt $|ch2.[inf] 2.8|young/freedman: vertical motion|—|—|
-|$\Delta y=v_{0y}t+\frac12(\pm g)t^2$|ch2.[inf] 2.8|young/freedman: vertical motion|—|—|
-|time symmetry same height|ch2.[inf] 2.8|young/freedman: symmetry|—|—|
-|top: $v=0$, $a\neq0$|ch2.[inf] 2.8|young/freedman: highest point|—|—|
-|2d decomposition|ch2.[inf] 2.9|vectors_overleaf: components|ch1_zemansky: unit vectors|young/freedman: 2d motion|
-|independence x/y|ch2.[inf] 2.9|young/freedman: independence|—|—|
-|$a_x=0$|ch2.[inf] 2.9|young/freedman: projectile basics|—|—|
-|$a_x=0\Rightarrow v_x$ const|ch2.[inf] 2.9|young/freedman: constant $v_x$|—|—|
-|constant vs zero|ch2.[inf] 2.9|—|—|—|
-|launch components trig|ch2.[inf] 2.9|vectors_overleaf: trig comps|young/freedman: decomposition|—|
-|velocity tangent to path|ch2.[inf] 2.9|young/freedman: tangent velocity|—|—|
-|$x(t)$ slope = $v$|ch2.[inf] 2.4|young/freedman: graphs|—|—|
-|$v(t)$ slope = $a$|ch2.[inf] 2.4|young/freedman: graphs|—|—|
-|area under $v(t)$|ch2.[inf] 2.4|young/freedman: area|—|—|
-|limits of kinematic eqs|ch2.[inf] 2.10|young/freedman: limitations|—|—|
-|instant vs interval language|ch2.[inf] 2.2–2.3|young/freedman: notation|—|—|
-|time elimination move|ch2.[inf] 2.6|young/freedman: algebra|—|—|
-|orbit as free fall|ch2.[inf] 2.7|young/freedman: orbit|—|—|
-|apparent weightlessness|ch2.[inf] 2.7|young/freedman: normal force|—|—|
+| concept                              | spine anchor           | support #1                               | support #2                     | support #3                            |
+| ------------------------------------ | ---------------------- | ---------------------------------------- | ------------------------------ | ------------------------------------- |
+| position vector $\vec r(t)$          | zemansky ch2.[inf] 2.1 | vectors_overleaf: position notation      | ch1_zemansky: vectors          | young/freedman: position/displacement |
+| displacement $\Delta\vec r$          | ch2.[inf] 2.1          | ch1_zemansky: subtraction                | vectors_overleaf: displacement | young/freedman: displacement          |
+| distance vs displacement             | ch2.[inf] 2.1          | young/freedman: distance vs displacement | ch1_zemansky: scalar vs vector | —                                     |
+| avg velocity                         | ch2.[inf] 2.2          | young/freedman: avg velocity             | ch1_zemansky: units            | —                                     |
+| inst velocity                        | ch2.[inf] 2.2          | young/freedman: derivative               | —                              | —                                     |
+| $v(t)$ notation                      | ch2.[inf] 2.2          | young/freedman: $v(t)$                   | —                              | —                                     |
+| avg acceleration                     | ch2.[inf] 2.3          | young/freedman: avg accel                | —                              | —                                     |
+| inst acceleration                    | ch2.[inf] 2.3          | young/freedman: derivative               | —                              | —                                     |
+| constant $a$ assumption              | ch2.[inf] 2.5          | young/freedman: model                    | —                              | —                                     |
+| integrate $a$→$v$                    | ch2.[inf] 2.6          | young/freedman: derivation               | —                              | —                                     |
+| $ v=v_0+at $                         | ch2.[inf] 2.6          | young/freedman: equation                 | —                              | —                                     |
+| integrate $v$→$r$                    | ch2.[inf] 2.6          | young/freedman: derivation               | —                              | —                                     |
+| $\Delta r=v_0t+\frac12at^2$          | ch2.[inf] 2.6          | young/freedman: equation                 | —                              | —                                     |
+| $\Delta$ notation                    | ch2.[inf] 2.6          | young/freedman: $\Delta x$               | —                              | —                                     |
+| $ v^2=v_0^2+2a\Delta x $             | ch2.[inf] 2.6          | young/freedman: time-elim                | —                              | —                                     |
+| origin choice                        | ch2.[inf] 2.8          | young/freedman: coordinates              | —                              | —                                     |
+| +y up vs down                        | ch2.[inf] 2.8          | young/freedman: sign convention          | —                              | —                                     |
+| free fall definition                 | ch2.[inf] 2.7          | young/freedman: free fall                | —                              | —                                     |
+| air resistance caveat                | ch2.[inf] 2.7          | young/freedman: drag warning             | —                              | —                                     |
+| $g\approx9.8$                        | ch2.[inf] 2.7          | young/freedman: $g$ value                | —                              | —                                     |
+| gravity(force) vs $g$(accel)         | ch2.[inf] 2.7          | young/freedman: force vs accel           | —                              | —                                     |
+| $ v_y=v_{0y}\pm gt $                 | ch2.[inf] 2.8          | young/freedman: vertical motion          | —                              | —                                     |
+| $\Delta y=v_{0y}t+\frac12(\pm g)t^2$ | ch2.[inf] 2.8          | young/freedman: vertical motion          | —                              | —                                     |
+| time symmetry same height            | ch2.[inf] 2.8          | young/freedman: symmetry                 | —                              | —                                     |
+| top: $v=0$, $a\neq0$                 | ch2.[inf] 2.8          | young/freedman: highest point            | —                              | —                                     |
+| 2d decomposition                     | ch2.[inf] 2.9          | vectors_overleaf: components             | ch1_zemansky: unit vectors     | young/freedman: 2d motion             |
+| independence x/y                     | ch2.[inf] 2.9          | young/freedman: independence             | —                              | —                                     |
+| $a_x=0$                              | ch2.[inf] 2.9          | young/freedman: projectile basics        | —                              | —                                     |
+| $a_x=0\Rightarrow v_x$ const         | ch2.[inf] 2.9          | young/freedman: constant $v_x$           | —                              | —                                     |
+| constant vs zero                     | ch2.[inf] 2.9          | —                                        | —                              | —                                     |
+| launch components trig               | ch2.[inf] 2.9          | vectors_overleaf: trig comps             | young/freedman: decomposition  | —                                     |
+| velocity tangent to path             | ch2.[inf] 2.9          | young/freedman: tangent velocity         | —                              | —                                     |
+| $x(t)$ slope = $v$                   | ch2.[inf] 2.4          | young/freedman: graphs                   | —                              | —                                     |
+| $v(t)$ slope = $a$                   | ch2.[inf] 2.4          | young/freedman: graphs                   | —                              | —                                     |
+| area under $v(t)$                    | ch2.[inf] 2.4          | young/freedman: area                     | —                              | —                                     |
+| limits of kinematic eqs              | ch2.[inf] 2.10         | young/freedman: limitations              | —                              | —                                     |
+| instant vs interval language         | ch2.[inf] 2.2–2.3      | young/freedman: notation                 | —                              | —                                     |
+| time elimination move                | ch2.[inf] 2.6          | young/freedman: algebra                  | —                              | —                                     |
+| orbit as free fall                   | ch2.[inf] 2.7          | young/freedman: orbit                    | —                              | —                                     |
+| apparent weightlessness              | ch2.[inf] 2.7          | young/freedman: normal force             | —                              | —                                     |
 
 C) layer 3 — important details layer (notation + conditions that matter)
 
