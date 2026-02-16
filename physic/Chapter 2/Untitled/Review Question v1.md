@@ -37,4 +37,6 @@ E) Micro set-ups (no full solving, just expressions)
 19) Write the expression for average velocity from (t=1) to (t=3) in terms of (x(1)) and (x(3))  
 20) Write the expression for instantaneous velocity at (t=2) in terms of (x(t)) using derivative notation
 
-If you want the shortest version: answer only 1, 5, 6, 11, 15.
+If you want the shortest version: answer only 1, 5, 6, 11, 15. 
+
+
