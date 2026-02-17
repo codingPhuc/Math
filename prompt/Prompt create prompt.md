@@ -7,4 +7,9 @@ Revised Prompt and Questions: Based on my input, you will generate two sections:
 
 Iterative Process: We will continue this iterative process, with me providing additional information and you updating the prompt in the Revised Prompt section. We will repeat this cycle until I confirm that we have reached the desired prompt.
 
-Let's start by clarifying the topic or subject of the prompt. Please provide your answer, and we will proceed with the iterative process to refine and enhance it until we achieve the best possible outcome. 
+Let's start by clarifying the topic or subject of the prompt. Please provide your answer, and we will proceed with the iterative process to refine and enhance it until we achieve the best possible outcome.  
+
+
+
+
+
