@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physic/Chapter 2/Chapter 2.md",
+                "file": "physic/Chapter 2/Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2"
+              "title": "Lecture"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physic/Chapter 2/Chapter 2.md",
+                "file": "physic/Chapter 2/Lecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2"
+              "title": "Outline of Lecture"
             }
           }
         ],
@@ -206,16 +206,16 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "physic/Chapter 1/Chapter 1.md",
     "physic/Chapter 2/Chapter 2.md",
-    "physic/Chapter 2/Review Question/Review Question v1.md",
     "physic/Chapter 2/Lecture.md",
+    "physic/Chapter 2/Untitled.md",
+    "physic/Chapter 2/Review Question/Review Question v1.md",
+    "physic/Chapter 1/Chapter 1.md",
     "prompt/Books mapper.md",
     "prompt/Lecture transcript reformater.md",
     "prompt/Prompt for books mapping.md",
     "physic/Chapter 1/Review Question/Review Question v2.md",
     "physic/Chapter 1/Review Question",
-    "physic/Chapter 2/Untitled.md",
     "physic/Untitled.md",
     "physic/Chapter 2/Review Question",
     "physic/What to aim for.md",
