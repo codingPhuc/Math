@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Prompt create prompt.md",
+                "file": "prompt/JUST WRITE ESSAY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt create prompt"
+              "title": "JUST WRITE ESSAY"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/Prompt create prompt.md",
+                "file": "prompt/JUST WRITE ESSAY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt create prompt"
+              "title": "Outline of JUST WRITE ESSAY"
             }
           }
         ],
@@ -205,8 +205,9 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "prompt/Prompt for learning math.md",
     "prompt/Prompt create prompt.md",
+    "prompt/JUST WRITE ESSAY.md",
+    "prompt/Prompt for learning math.md",
     "prompt/Prompt for books mapping.md",
     "prompt/Math Prompt.md",
     "prompt/Lecture transcript reformater.md",
