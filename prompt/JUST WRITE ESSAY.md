@@ -52,11 +52,6 @@ A) Outline (200–400 characters per section)
 - 2–3 body blocks (each with: action + impact on others + impact on me)
 - Closing (future/values tie-back)
 
-B) Bracketed Draft (the “I rewrite this” version)
-- Write a full draft within the word limit, but:
-  - Every sentence must include at least one bracketed slot I must personalize, e.g., [specific moment], [exact role], [result/metric], [what I learned].
-  - Provide 2 alternative phrasings for 4–6 key sentences, labeled (Option A / Option B), so I can pick and rewrite.
-  - Mark any uncertain fact as [VERIFY] and do not invent details.
 
 C) Requirement Map (line-by-line)
 - Table with columns:
