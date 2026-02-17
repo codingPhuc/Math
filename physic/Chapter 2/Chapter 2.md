@@ -141,20 +141,20 @@ B) Layer 2 — Concepts Layer (fine-grained cross-book anchors)
 44. Crosswalk table (navigation density)
     
 
-|Concept|Spine anchor|Support #1|Support #2|Support #3|
-|---|---|---|---|---|
-|Average velocity definition|Zem 2.1|UnivPhys Ch4 “Displacement…”|—|—|
-|Avg speed vs avg velocity|Zem 2.1|UnivPhys Ch4 “Displacement…”|—|—|
-|Avg velocity = secant slope|Zem 2.1|UnivPhys Ch4 “Displacement…”|—|—|
-|Instantaneous velocity|Zem 2.2|UnivPhys Ch4 “Instantaneous Velocity”|—|—|
-|Displacement = area under (v(t))|Zem 2.2|UnivPhys Ch4 “Displacement…”|—|—|
-|Average acceleration|Zem 2.3A|UnivPhys Ch4 “Avg/Inst Acceleration”|—|—|
-|Instantaneous acceleration|Zem 2.3B|UnivPhys Ch4 “Avg/Inst Acceleration”|—|—|
-|Speed up vs slow down test|Zem 2.3|UnivPhys Ch4 “Acceleration Vector”|—|—|
-|Constant-acceleration equations|Zem 2.4|UnivPhys Ch4 “Motion with Constant Acceleration”|—|—|
-|Free fall model|Zem 2.5|UnivPhys Ch4 “Freely Falling Bodies”|—|—|
-|(g) magnitude vs sign|Zem 2.5|UnivPhys (g caution box)|—|—|
-|Integration pipeline|Zem 2.6|UnivPhys Ch4 “Velocity and Position by Integration”|—|—|
+| Concept                          | Spine anchor | Support #1                                          | Support #2 | Support #3 |
+| -------------------------------- | ------------ | --------------------------------------------------- | ---------- | ---------- |
+| Average velocity definition      | Zem 2.1      | UnivPhys Ch4 “Displacement…”                        | —          | —          |
+| Avg speed vs avg velocity        | Zem 2.1      | UnivPhys Ch4 “Displacement…”                        | —          | —          |
+| Avg velocity = secant slope      | Zem 2.1      | UnivPhys Ch4 “Displacement…”                        | —          | —          |
+| Instantaneous velocity           | Zem 2.2      | UnivPhys Ch4 “Instantaneous Velocity”               | —          | —          |
+| Displacement = area under (v(t)) | Zem 2.2      | UnivPhys Ch4 “Displacement…”                        | —          | —          |
+| Average acceleration             | Zem 2.3A     | UnivPhys Ch4 “Avg/Inst Acceleration”                | —          | —          |
+| Instantaneous acceleration       | Zem 2.3B     | UnivPhys Ch4 “Avg/Inst Acceleration”                | —          | —          |
+| Speed up vs slow down test       | Zem 2.3      | UnivPhys Ch4 “Acceleration Vector”                  | —          | —          |
+| Constant-acceleration equations  | Zem 2.4      | UnivPhys Ch4 “Motion with Constant Acceleration”    | —          | —          |
+| Free fall model                  | Zem 2.5      | UnivPhys Ch4 “Freely Falling Bodies”                | —          | —          |
+| (g) magnitude vs sign            | Zem 2.5      | UnivPhys (g caution box)                            | —          | —          |
+| Integration pipeline             | Zem 2.6      | UnivPhys Ch4 “Velocity and Position by Integration” | —          | —          |
 
 C) Layer 3 — Important Details Layer (notation + conditions that matter)
 
