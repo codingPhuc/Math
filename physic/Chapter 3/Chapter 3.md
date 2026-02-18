@@ -196,3 +196,4 @@ Minimal path + C02, C05, C07–C10, C17–C18, C25–C26, C31–C35.
 - University Physics with Modern Physics (Young, Freedman, et al.), 13th ed (PDF in folder): Ch.4 “Motion in Two or Three Dimensions” (projectile motion, circular motion) and related summaries.
     
 - Syllabus - Physics 185 - Spring 2026 - Guerra (1).docx: Chapter 3 assignment list (E’s + P).
+- 
