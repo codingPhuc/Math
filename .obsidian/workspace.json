@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/JUST WRITE ESSAY.md",
+                "file": "prompt/Books mapper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JUST WRITE ESSAY"
+              "title": "Books mapper"
             }
           },
           {
@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/JUST WRITE ESSAY.md",
+                "file": "prompt/Books mapper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JUST WRITE ESSAY"
+              "title": "Outline of Books mapper"
             }
           }
         ],
@@ -200,29 +199,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb3b3076f09dc04d",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
-    "prompt/Prompt create prompt.md",
     "prompt/JUST WRITE ESSAY.md",
+    "prompt/Books mapper.md",
+    "Card 1.md",
+    "Math Reasoning/Calculus proof.md",
+    "physic/Chapter 2/Chapter 2.md",
+    "physic/Chapter 2/Review Question/Review Question v1.md",
+    "physic/Chapter 1/Chapter 13 - 14 questions.md",
+    "physic/Chapter 1/Chapter 1.md",
+    "physic/Chapter 1/Review Question/Review Question v2.md",
+    "prompt/Prompt create prompt.md",
     "prompt/Prompt for learning math.md",
     "prompt/Prompt for books mapping.md",
     "prompt/Math Prompt.md",
     "prompt/Lecture transcript reformater.md",
-    "physic/Chapter 2/Chapter 2.md",
-    "physic/Chapter 1/Chapter 1.md",
     "physic/Chapter 2/Untitled.md",
     "physic/Chapter 2/Lecture.md",
-    "physic/Chapter 2/Review Question/Review Question v1.md",
-    "prompt/Books mapper.md",
-    "physic/Chapter 1/Review Question/Review Question v2.md",
     "physic/Chapter 1/Review Question",
     "physic/Untitled.md",
     "physic/Chapter 2/Review Question",
     "physic/What to aim for.md",
-    "physic/Chapter 1/Chapter 13 - 14 questions.md",
     "physic/Chapter 2",
     "picture/Pasted image 20260215135258.png",
     "prompt/Untitled.md",
@@ -235,8 +237,6 @@
     "calculus 2/tyler boogar Homework.md",
     "calculus 2/trig_cheat_sheet.pdf",
     "calculus 2/Study schedule.md",
-    "calculus 2/Excise spivik.md",
-    "calculus 1/Paul online math note/Section 1.4  Solving Trig Equations.md",
     "prompt",
     "N2. increasing",
     "physic",
