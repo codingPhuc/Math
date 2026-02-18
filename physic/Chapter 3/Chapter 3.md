@@ -100,43 +100,43 @@ C35. “velocity tangent to trajectory” fact | not in Z3 | YF projectile state
 
 (anchors are minimal: section label + page in that source if shown)
 
-|Concept|Spine anchor (Z3)|Support #1|Support #2|Support #3|
-|---|---|---|---|---|
-|C01 r⃗ definition|3.1(A) p.1|Z1 1.7–1.9 pp.6–11|YF Ch4 summary|—|
-|C02 r⃗ components|3.1(A) p.1|Z1 1.8–1.9|YF Ch4 summary|—|
-|C03 Δr⃗|3.1(B) p.2|Z2 2.1 p.1|Z1 1.7|—|
-|C04 v⃗ave|3.1(B) p.2|Z2 2.2 p.1|YF Ch4 summary|—|
-|C05 î ĵ k̂|(used throughout)|Z1 1.9 pp.10–11|YF Ch1 “Unit vectors”|—|
-|C06 v⃗ = dr⃗/dt|3.1 p.3|Z2 2.3 p.2|YF Ch4 summary|—|
-|C07 speed vs velocity|3.1 context|Z2 2.3|YF 4.9|—|
-|C08 a⃗ave|3.2 p.4|Z2 2.5 p.3|YF Ch4 summary|—|
-|C09 a⃗ = dv⃗/dt|3.2 p.4|Z2 2.5|YF Ch4 summary|—|
-|C10 a⃗||Δv⃗|3.2 p.4|Z2 2.5|
-|C11 2D constant-a|(p.7–8 block)|Z2 2.6 p.3|YF Ch4 summary|—|
-|C12 split x/y|p.8|Z1 1.8|Z2 2.6|—|
-|C13 time couples x,y|p.8|YF 4.9|—|—|
-|C14 g downward|3.3 p.9|Z2 2.4|YF 4.9|—|
-|C15 ax=0, ay=±g|3.3 p.9|YF 4.9|—|—|
-|C16 projectile equations|3.3 p.10|YF 4.9|—|—|
-|C17 v0 components|implicit|YF 4.9|Z1 1.8|—|
-|C18 parabola|implied|YF 4.9 derivation|—|—|
-|C19 a = a∥ + a⊥|3.4 p.4–6|YF 4.10|—|—|
-|C20 a∥ = d|v|/dt|3.4 p.5|YF nonuniform|
-|C21 a⊥ = v²/r|3.4 p.5|YF 4.10|—|—|
-|C22 polar form|3.4 p.6|YF nonuniform|—|—|
-|C23 uniform circular|3.4 p.6|YF 4.10|—|—|
-|C24 period T, v=2πr/T|3.4 p.6|YF summary|—|—|
-|C25 nonuniform circle|3.4 general|YF nonuniform|—|—|
-|C26 direction-change ⇒ a≠0|3.4 opening|YF 4.10 opening|—|—|
-|C27 vAB meaning|3.5 p.10–11|YF relative motion|—|—|
-|C28 vAB = −vBA|3.5 p.10–11|—|—|—|
-|C29 chaining sums|3.5 p.10|YF relative motion|—|—|
-|C30 matching letters rule|3.5 rules|—|—|—|
-|C31 same y-motion|implicit|YF Fig 4.27|—|—|
-|C32 origin choice|—|YF projectile discussion|—|—|
-|C33 constant v ↔ a=0|3.3 ax=0|Z2 2.6|—|—|
-|C34 component workflow|3.3 + p.8|Z1 1.8|Z2 2.6|—|
-|C35 v⃗ tangent|—|YF statement|—|—|
+| Concept                    | Spine anchor (Z3) | Support #1               | Support #2            | Support #3    |
+| -------------------------- | ----------------- | ------------------------ | --------------------- | ------------- |
+| C01 r⃗ definition          | 3.1(A) p.1        | Z1 1.7–1.9 pp.6–11       | YF Ch4 summary        | —             |
+| C02 r⃗ components          | 3.1(A) p.1        | Z1 1.8–1.9               | YF Ch4 summary        | —             |
+| C03 Δr⃗                    | 3.1(B) p.2        | Z2 2.1 p.1               | Z1 1.7                | —             |
+| C04 v⃗ave                  | 3.1(B) p.2        | Z2 2.2 p.1               | YF Ch4 summary        | —             |
+| C05 î ĵ k̂               | (used throughout) | Z1 1.9 pp.10–11          | YF Ch1 “Unit vectors” | —             |
+| C06 v⃗ = dr⃗/dt            | 3.1 p.3           | Z2 2.3 p.2               | YF Ch4 summary        | —             |
+| C07 speed vs velocity      | 3.1 context       | Z2 2.3                   | YF 4.9                | —             |
+| C08 a⃗ave                  | 3.2 p.4           | Z2 2.5 p.3               | YF Ch4 summary        | —             |
+| C09 a⃗ = dv⃗/dt            | 3.2 p.4           | Z2 2.5                   | YF Ch4 summary        | —             |
+| C10 a⃗                     |                   | Δv⃗                      | 3.2 p.4               | Z2 2.5        |
+| C11 2D constant-a          | (p.7–8 block)     | Z2 2.6 p.3               | YF Ch4 summary        | —             |
+| C12 split x/y              | p.8               | Z1 1.8                   | Z2 2.6                | —             |
+| C13 time couples x,y       | p.8               | YF 4.9                   | —                     | —             |
+| C14 g downward             | 3.3 p.9           | Z2 2.4                   | YF 4.9                | —             |
+| C15 ax=0, ay=±g            | 3.3 p.9           | YF 4.9                   | —                     | —             |
+| C16 projectile equations   | 3.3 p.10          | YF 4.9                   | —                     | —             |
+| C17 v0 components          | implicit          | YF 4.9                   | Z1 1.8                | —             |
+| C18 parabola               | implied           | YF 4.9 derivation        | —                     | —             |
+| C19 a = a∥ + a⊥            | 3.4 p.4–6         | YF 4.10                  | —                     | —             |
+| C20 a∥ = d                 | v                 | /dt                      | 3.4 p.5               | YF nonuniform |
+| C21 a⊥ = v²/r              | 3.4 p.5           | YF 4.10                  | —                     | —             |
+| C22 polar form             | 3.4 p.6           | YF nonuniform            | —                     | —             |
+| C23 uniform circular       | 3.4 p.6           | YF 4.10                  | —                     | —             |
+| C24 period T, v=2πr/T      | 3.4 p.6           | YF summary               | —                     | —             |
+| C25 nonuniform circle      | 3.4 general       | YF nonuniform            | —                     | —             |
+| C26 direction-change ⇒ a≠0 | 3.4 opening       | YF 4.10 opening          | —                     | —             |
+| C27 vAB meaning            | 3.5 p.10–11       | YF relative motion       | —                     | —             |
+| C28 vAB = −vBA             | 3.5 p.10–11       | —                        | —                     | —             |
+| C29 chaining sums          | 3.5 p.10          | YF relative motion       | —                     | —             |
+| C30 matching letters rule  | 3.5 rules         | —                        | —                     | —             |
+| C31 same y-motion          | implicit          | YF Fig 4.27              | —                     | —             |
+| C32 origin choice          | —                 | YF projectile discussion | —                     | —             |
+| C33 constant v ↔ a=0       | 3.3 ax=0          | Z2 2.6                   | —                     | —             |
+| C34 component workflow     | 3.3 + p.8         | Z1 1.8                   | Z2 2.6                | —             |
+| C35 v⃗ tangent             | —                 | YF statement             | —                     | —             |
 
 C) Layer 3 — Important Details Layer (notation + conditions that matter)
 
