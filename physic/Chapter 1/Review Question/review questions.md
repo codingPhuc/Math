@@ -43,7 +43,8 @@ C) vector arrow representation (Zem §1.7; Lab01 I)
 
 D) vector equality, negatives, scalar multiplication (Zem §1.7; YF §1.6)  
 23) State the condition for two vectors to be equal (in terms of magnitude and direction).  
-in order for two vector to be equal it must have the sama
+in order for two vector to be equal it must have the same magnitude and direction 
+
 24) Give an example of two vectors that are not equal even though they start at the same point (what differs?).  
 25) Define the negative of a vector, −v, using a geometric description.  
 26) If v is east, what direction is −v? What about 3v? What about (−3)v?  
