@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physic/Chapter 2/Review Question/Review Question v1.md",
+                "file": "physic/Chapter 1/Review Question/Review question chapter 1.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review Question v1"
+              "title": "Review question chapter 1.6"
             }
           },
           {
@@ -206,8 +206,9 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "physic/Chapter 1/Review Question/Review question v3.md",
     "physic/Chapter 1/Review Question/Review Question v2.md",
+    "physic/Chapter 1/Review Question/Review question v3.md",
+    "physic/Chapter 2/Review Question/Review Question v1.md",
     "physic/Chapter 1/Review Question/Review question chapter 1.6.md",
     "physic/Chapter 1/Chapter 1.md",
     "execise 7.md",
@@ -220,7 +221,6 @@
     "Card 1.md",
     "Math Reasoning/Calculus proof.md",
     "physic/Chapter 2/Chapter 2.md",
-    "physic/Chapter 2/Review Question/Review Question v1.md",
     "physic/Chapter 1/Chapter 13 - 14 questions.md",
     "prompt/Prompt create prompt.md",
     "prompt/Prompt for learning math.md",
