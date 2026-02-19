@@ -28,7 +28,7 @@ sources:
     
 6. What does it mean to “estimate to one significant digit” in a Fermi-style calculation? Why is that often enough?
     
-the accurac
+the accuracy of a measurement data is often dictated by the number of significant figure 
 ## B) Estimation mechanics (Fermi moves)
 
 7. You’re estimating a product $abc$. What is the fastest way to keep the order of magnitude but avoid calculator arithmetic?
