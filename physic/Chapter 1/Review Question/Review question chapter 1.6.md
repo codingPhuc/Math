@@ -28,7 +28,7 @@ sources:
     
 6. What does it mean to “estimate to one significant digit” in a Fermi-style calculation? Why is that often enough?
     
-the accuracy of a measurement data is often dictated by the number of significant figure. The output result oftently have no more significant figure than the input data. This is because, instead of accounting for all digit after the decimal point,.We instead, estimate a number that is correct at a reasonable scla
+the accuracy of a measurement data is often dictated by the number of significant figure. The output result oftently have no more significant figure than the input data. This is because, instead of accounting for all digit after the decimal point,.We instead, estimate a number that is correct at a reasonable scale, this enable us to give an accuract 
 ## B) Estimation mechanics (Fermi moves)
 
 7. You’re estimating a product $abc$. What is the fastest way to keep the order of magnitude but avoid calculator arithmetic?
