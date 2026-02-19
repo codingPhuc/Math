@@ -72,7 +72,7 @@ given two vector we define as vectors a and vector b, if vector a + b then the h
 33) Draw a head-to-tail diagram for v + w and for w + v. What should you observe?  
     ![[Pasted image 20260219150852.png]]
 34) How do you subtract vectors geometrically using addition and a negative vector? 
-if -v is the 
+-v is the vecor v with the same magnitude but i
 35) What is the “resultant” vector in a head-to-tail diagram?  
 36) If v + w = 0, what must be true about w relative to v?  
 37) If you add three vectors head-to-tail and end where you started, what does that say about their sum?  
