@@ -52,8 +52,11 @@ if two  vector start at the same point can be different in two scenario  :
 
 
 24) Define the negative of a vector, −v, using a geometric description.  
--v have a is just a scalar quanity multiply with a vector quanity the direction of the vector v is dicated by the value of the scalar quanity in this cases is -1 < 0 thus -v is pointed in the opposite direction of vec
-25) If v is east, what direction is −v? What about 3v? What about (−3)v?  
+-v have a is just a scalar quanity multiply with a vector quanity the direction of the vector v is dicated by the value of the scalar quanity in this cases is -1 < 0 thus -v is pointed in the opposite direction of vector v 
+
+25) If v is east, what direction is −v? What about 3v? What about (−3)v?   
+
+
 26) What does multiplying a vector by 0 do? By 1? By −1?  
 27) If you scale a vector by 1/2, what happens to its magnitude and direction?  
 28) Can two different scalars times the same vector produce equal vectors? When?  
@@ -75,4 +78,4 @@ F) lab-style prompts (Lab01 I–II flavor)
 41) In a 3-force equilibrium, what geometric shape do the force vectors form when placed head-to-tail?  
 42) If one force arrow is drawn twice as long as another, what does that imply about their magnitudes (assuming same scale)?
 
-If you want, answer just 1–4 first (rounding vs truncation). I’ll check for the first conceptual slip, then we move on.
+If you want, answer just 1–4 first (rounding vs truncation). I’ll check for the first conceptual slip, then we move 
