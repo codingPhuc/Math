@@ -74,6 +74,7 @@ given two vector we define as vectors a and vector b, if vector a + b then the h
 34) How do you subtract vectors geometrically using addition and a negative vector? 
 -v is the vecor v with the same magnitude but in different direction so the subtraction of vector 
 35) What is the “resultant” vector in a head-to-tail diagram?  
+    the result
 36) If v + w = 0, what must be true about w relative to v?  
 37) If you add three vectors head-to-tail and end where you started, what does that say about their sum?  
 38) Explain why “closing the polygon” is a test for equilibrium of forces (Lab01 connection).
