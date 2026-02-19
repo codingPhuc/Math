@@ -68,8 +68,9 @@ E) head-to-tail addition (Zem §1.7; Lab01 II; YF §1.6)
 31) Describe head-to-tail addition in words (no math symbols).  
 given two vector we define as vectors a and vector b, if vector a + b then the head of vector a be will be added with the tail of vector b in order for it to be the resultant or sum of vector c 
 32) If you reverse the order of two vectors in head-to-tail addition, do you get the same resultant? Name the property.  
-    yes you will since vector addition is community meaning the order of addition 
+    yes you will since vector addition is community meaning the order of addition does not matter 
 33) Draw a head-to-tail diagram for v + w and for w + v. What should you observe?  
+    
 34) How do you subtract vectors geometrically using addition and a negative vector?  
 35) What is the “resultant” vector in a head-to-tail diagram?  
 36) If v + w = 0, what must be true about w relative to v?  
