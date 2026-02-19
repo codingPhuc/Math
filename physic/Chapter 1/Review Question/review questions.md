@@ -16,7 +16,7 @@ truncation mean if a number is rounded to 2 significant digit then it will not i
 6. How many significant figures are in 0.0200, 2000, 2000., 2000.0?
     
 7. Explain why “extra digits” after a crude measurement can be misleading (one sentence).
-the extra digits is fabricated digit since if the input value is crude as k sinficant digit then we 
+the extra digits is fabricated digit since if the input value is crude as k sinficant digit then we must output the same power of 10 scale output
 8. You compute (12.3)(4.56). Without doing the multiplication, how do you decide how many significant figures to report?
     
 9. Addition/subtraction reporting rule: what limits the precision in the final sum?
