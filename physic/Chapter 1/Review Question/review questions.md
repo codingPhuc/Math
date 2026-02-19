@@ -78,7 +78,7 @@ given two vector we define as vectors a and vector b, if vector a + b then the h
 36) If v + w = 0, what must be true about w relative to v? 
 w and v vector quality have the same magnitude but the vecotor of w and v are in opposite direction  
 37) If you add three vectors head-to-tail and end where you started, what does that say about their sum? 
-
+the sum re
 38) Explain why “closing the polygon” is a test for equilibrium of forces (Lab01 connection).
 
 F) lab-style prompts (Lab01 I–II flavor)  
