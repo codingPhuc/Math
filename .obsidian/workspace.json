@@ -11,12 +11,14 @@
             "id": "7702301795832f14",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "picture/2.5.2 Intermediate Value Theorem 2025-07-25 14.28.05.excalidraw.md"
+                "file": "physic/Chapter 1/Review Question/review questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "2.5.2 Intermediate Value Theorem 2025-07-25 14.28.05.excalidraw"
+              "icon": "lucide-file",
+              "title": "review questions"
             }
           },
           {
@@ -202,8 +204,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c0fdbfcca71e84",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
+    "picture/2.5.2 Intermediate Value Theorem 2025-07-25 14.28.05.excalidraw.md",
     "physic/Chapter 1/Review Question/review questions.md",
     "picture/Pasted image 20260219150852.png",
     "physic/Chapter 1/Chapter 1.md",
