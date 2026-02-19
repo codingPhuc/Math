@@ -74,7 +74,7 @@ B) Layer 2 — Concepts Layer (fine-grained cross-book anchors)
     
 10. Standards of mass (kilogram definition idea); Zem §1.3; Young&Freedman Ch1 §1.3; Why: what “kg” references; Prereqs: 03
     
-11. Unit conversion as multiplication by 1; Zem §1.4; Young&Freedman Ch1 §1.4; Why: conversion-factor method without guessing; Prereqs: 01
+11. Unit conversion as multiplication by 1; Zem §1.4; Young&Freedma**n** Ch1 §1.4; Why: conversion-factor method without guessing; Prereqs: 01
     
 12. Units behave like algebraic symbols; Zem §1.4; Young&Freedman Ch1 §1.4; Why: the “units cancel” discipline; Prereqs: 08
     
