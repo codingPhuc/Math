@@ -16,7 +16,7 @@ sources:
 ## A) Core definitions and notation
 
 1. Define “order of magnitude” in one sentence. What does “within one order of magnitude” mean quantitatively?
-order of magnitudeis the equivilent form of a v
+order of magnitudeis the equivilent form of a values multiply by 
 
 2. If $x = 3.2 \times 10^{7}$, what is its order of magnitude? State your rule (rounding vs floor) explicitly.
     
