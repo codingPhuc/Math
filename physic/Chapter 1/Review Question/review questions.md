@@ -16,7 +16,7 @@ truncation mean if a number is rounded to 2 significant digit then it will not i
 6. How many significant figures are in 0.0200, 2000, 2000., 2000.0?
     
 7. Explain why “extra digits” after a crude measurement can be misleading (one sentence).
-    
+the e
 8. You compute (12.3)(4.56). Without doing the multiplication, how do you decide how many significant figures to report?
     
 9. Addition/subtraction reporting rule: what limits the precision in the final sum?
@@ -66,4 +66,4 @@ F) lab-style prompts (Lab01 I–II flavor)
 41) In a 3-force equilibrium, what geometric shape do the force vectors form when placed head-to-tail?  
 42) If one force arrow is drawn twice as long as another, what does that imply about their magnitudes (assuming same scale)?
 
-If you want, answer just 1–4 first (rounding vs truncation). I’ll check for the first conceptual slip, then we move on.
+If you want, answer just 1–4 first (rounding vs truncation). I’ll check for the first conceptual slip, then we move 
