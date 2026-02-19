@@ -26,11 +26,12 @@ the extra digits is fabricated digit since if the input value is crude as k sinf
 
 B) scalars vs vectors (Zem §1.7; YF §1.6)  
 11) Define scalar and vector in one sentence each.  
-12) Give 3 scalar quantities and 3 vector quantities from mechanics.  
-13) Is speed a scalar or vector? Is velocity a scalar or vector? What’s the difference (one sentence)?  
-14) Is temperature a scalar or vector? Justify without using “because it has no direction” (say what property fails).  
-15) Can a scalar be negative? Give a physics example where negative sign carries meaning.  
-16) Can the magnitude of a vector be negative? Why not (one sentence)?
+12) both scalre and vec
+13) Give 3 scalar quantities and 3 vector quantities from mechanics.  
+14) Is speed a scalar or vector? Is velocity a scalar or vector? What’s the difference (one sentence)?  
+15) Is temperature a scalar or vector? Justify without using “because it has no direction” (say what property fails).  
+16) Can a scalar be negative? Give a physics example where negative sign carries meaning.  
+17) Can the magnitude of a vector be negative? Why not (one sentence)?
 
 C) vector arrow representation (Zem §1.7; Lab01 I)  
 17) What does the length of a drawn arrow represent? What does the arrowhead represent?  
