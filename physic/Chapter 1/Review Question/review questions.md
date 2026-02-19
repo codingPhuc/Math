@@ -58,6 +58,7 @@ if two  vector start at the same point can be different in two scenario  :
 3 v mean the magnitude of the vector v is increase 3 fold 
 26) What does multiplying a vector by 0 do? By 1? By −1?  
 27) If you scale a vector by 1/2, what happens to its magnitude and direction?  
+magnitude is cut down by half while di
 28) Can two different scalars times the same vector produce equal vectors? When?  
 29) If a and b are scalars, is (a + b)v always equal to av + bv? Explain what property this is testing.
 
