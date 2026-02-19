@@ -16,7 +16,8 @@ sources:
 ## A) Core definitions and notation
 
 1. Define “order of magnitude” in one sentence. What does “within one order of magnitude” mean quantitatively?
-    
+
+
 2. If $x = 3.2 \times 10^{7}$, what is its order of magnitude? State your rule (rounding vs floor) explicitly.
     
 3. Give two different numbers that have the same order of magnitude as $8 \times 10^{3}$. Explain why.
