@@ -48,7 +48,7 @@ in order for two vector to be equal it must have the same magnitude and directio
 24) Give an example of two vectors that are not equal even though they start at the same point (what differs?).   
 if two  vector start at the same point can be different in two scenario  : 
 - their vector quanities have the same magnitude but diffrent direction 
-- their vector quantities have the same magnitude, but they b
+- their vector quantities have different magnitude, andth
 24) Define the negative of a vector, −v, using a geometric description.  
 25) If v is east, what direction is −v? What about 3v? What about (−3)v?  
 26) What does multiplying a vector by 0 do? By 1? By −1?  
