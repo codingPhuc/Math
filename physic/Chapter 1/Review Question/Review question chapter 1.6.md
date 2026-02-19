@@ -30,7 +30,7 @@ sources:
     
 
 significant figure is used to indicate a measurement uncertainty. If the input is crude the output result should be scale to match the least precise input and if input are crude estimate then it is best to report a power of 10 scalre estimate 
-a significant figure is the measurement of precision of a physical quantity. If the input values is crude then the ouput must be too scale to 
+a significant figure is the measurement of precision of a physical quantity. If the input values is crude then the ouput must be too scale base
 ## B) Estimation mechanics (Fermi moves)
 
 7. You’re estimating a product $abc$. What is the fastest way to keep the order of magnitude but avoid calculator arithmetic?
