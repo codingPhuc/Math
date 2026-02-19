@@ -78,9 +78,9 @@ given two vector we define as vectors a and vector b, if vector a + b then the h
 36) If v + w = 0, what must be true about w relative to v? 
 w and v vector quality have the same magnitude but the vecotor of w and v are in opposite direction  
 37) If you add three vectors head-to-tail and end where you started, what does that say about their sum? 
-the sum re
+the sum resultant become 0  
 38) Explain why “closing the polygon” is a test for equilibrium of forces (Lab01 connection).
-
+! don't know 
 F) lab-style prompts (Lab01 I–II flavor)  
 39) Given two forces drawn as arrows on a particle, explain how you would construct the net force graphically.  
 40) If the particle is in equilibrium, what must the vector sum of all forces be? State it in words and as a vector equation.  
