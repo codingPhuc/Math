@@ -4,7 +4,7 @@ A) rounding vs truncation (Zem §1.5; YF §1.5)
 
 1. Define rounding and truncation. What is the difference in how they change a number?
 rounding if a number  is rounded to a 2 significant digit then the second significant digit should increase in 1 if and only if the 3 significant digit is larger then 5 
-truncation mean if a number is rounded to 2 significant digit then it will not increase in 1 or decrease i
+truncation mean if a number is rounded to 2 significant digit then it will not increase in 1 even if the 3 
 2. Give one example where truncation produces a larger error than rounding (same number of digits kept).
     
 3. If a value is recorded as 2.3 m (to the nearest 0.1 m), write the interval the true value must lie in.
