@@ -29,7 +29,7 @@ sources:
 6. What does it mean to “estimate to one significant digit” in a Fermi-style calculation? Why is that often enough?
     
 
-significant figure is used to 
+significant figure is used to indicate a measurement 
 ## B) Estimation mechanics (Fermi moves)
 
 7. You’re estimating a product $abc$. What is the fastest way to keep the order of magnitude but avoid calculator arithmetic?
