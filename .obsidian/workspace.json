@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "right": {
     "id": "148b74fc748411da",
@@ -225,7 +224,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a6c034f00756781",
+  "active": "7702301795832f14",
   "lastOpenFiles": [
     "prompt/Books mapper.md",
     "physic/Chapter 3/Chapter 3.md",
