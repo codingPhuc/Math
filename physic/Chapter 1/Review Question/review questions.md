@@ -76,7 +76,7 @@ given two vector we define as vectors a and vector b, if vector a + b then the h
 35) What is the “resultant” vector in a head-to-tail diagram?  
     the resultant vector is the sum of two or more vector, if particle is moving from one to another vector then that move can be recreate with 1 resultant vector 
 36) If v + w = 0, what must be true about w relative to v? 
-w and v have the same 
+w and v vector quality have the same magnitude 
 37) If you add three vectors head-to-tail and end where you started, what does that say about their sum?  
 38) Explain why “closing the polygon” is a test for equilibrium of forces (Lab01 connection).
 
