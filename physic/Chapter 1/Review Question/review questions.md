@@ -3,7 +3,8 @@ Patty, here’s a tight test bank for those rows (Zem §1.5, §1.7; YoungF Ch1 �
 A) rounding vs truncation (Zem §1.5; YF §1.5)
 
 1. Define rounding and truncation. What is the difference in how they change a number?
-rounding if a number  is rounded to a 2 significant digit then the second significant digit should increase in 1 if and only if the 3 significant digit is larg
+rounding if a number  is rounded to a 2 significant digit then the second significant digit should increase in 1 if and only if the 3 significant digit is larger then 5 
+truncation mean if a number 
 2. Give one example where truncation produces a larger error than rounding (same number of digits kept).
     
 3. If a value is recorded as 2.3 m (to the nearest 0.1 m), write the interval the true value must lie in.
@@ -65,4 +66,4 @@ F) lab-style prompts (Lab01 I–II flavor)
 41) In a 3-force equilibrium, what geometric shape do the force vectors form when placed head-to-tail?  
 42) If one force arrow is drawn twice as long as another, what does that imply about their magnitudes (assuming same scale)?
 
-If you want, answer just 1–4 first (rounding vs truncation). I’ll check for the first conceptual slip, then we move on.
+If you want, answer just 1–4 first (rounding vs truncation). I’ll check for the first conceptual slip, then we
