@@ -29,7 +29,7 @@ sources:
 6. What does it mean to “estimate to one significant digit” in a Fermi-style calculation? Why is that often enough?
     
 
-Significant figure: is used to get  the level of precision of a measurement. The result of the output have not more significant figure than the input, this is because, we can only  
+Significant figure: is used to get  the level of precision of a measurement. The result of the output have not more significant figure than the input, this is because, we can only be precise at a certai 
 ## B) Estimation mechanics (Fermi moves)
 
 7. You’re estimating a product $abc$. What is the fastest way to keep the order of magnitude but avoid calculator arithmetic?
