@@ -62,7 +62,7 @@ magnitude is cut down by half while direction is consistent
 
 28) Can two different scalars times the same vector produce equal vectors? When?  
 29) If a and b are scalars, is (a + b)v always equal to av + bv? Explain what property this is testing.
-    yes  it will alwasy be 
+    yes  it will alwasy be equal since if you do a 
 
 E) head-to-tail addition (Zem §1.7; Lab01 II; YF §1.6)  
 31) Describe head-to-tail addition in words (no math symbols).  
