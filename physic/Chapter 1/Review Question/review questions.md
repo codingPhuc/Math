@@ -47,13 +47,13 @@ in order for two vector to be equal it must have the same magnitude and directio
 
 24) Give an example of two vectors that are not equal even though they start at the same point (what differs?).   
 if two  vector start at the same point can be different in two scenario  : 
-1
-25) Define the negative of a vector, −v, using a geometric description.  
-26) If v is east, what direction is −v? What about 3v? What about (−3)v?  
-27) What does multiplying a vector by 0 do? By 1? By −1?  
-28) If you scale a vector by 1/2, what happens to its magnitude and direction?  
-29) Can two different scalars times the same vector produce equal vectors? When?  
-30) If a and b are scalars, is (a + b)v always equal to av + bv? Explain what property this is testing.
+- they have the same d
+24) Define the negative of a vector, −v, using a geometric description.  
+25) If v is east, what direction is −v? What about 3v? What about (−3)v?  
+26) What does multiplying a vector by 0 do? By 1? By −1?  
+27) If you scale a vector by 1/2, what happens to its magnitude and direction?  
+28) Can two different scalars times the same vector produce equal vectors? When?  
+29) If a and b are scalars, is (a + b)v always equal to av + bv? Explain what property this is testing.
 
 E) head-to-tail addition (Zem §1.7; Lab01 II; YF §1.6)  
 31) Describe head-to-tail addition in words (no math symbols).  
