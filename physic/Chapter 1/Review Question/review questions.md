@@ -66,7 +66,7 @@ magnitude is cut down by half while direction is consistent
 
 E) head-to-tail addition (Zem §1.7; Lab01 II; YF §1.6)  
 31) Describe head-to-tail addition in words (no math symbols).  
-given two vector we define as a and b
+given two vector we define as vectors a and av
 32) If you reverse the order of two vectors in head-to-tail addition, do you get the same resultant? Name the property.  
 33) Draw a head-to-tail diagram for v + w and for w + v. What should you observe?  
 34) How do you subtract vectors geometrically using addition and a negative vector?  
