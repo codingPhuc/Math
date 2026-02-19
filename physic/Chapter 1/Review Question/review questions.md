@@ -26,7 +26,7 @@ the extra digits is fabricated digit since if the input value is crude as k sinf
 
 B) scalars vs vectors (Zem §1.7; YF §1.6)  
 11) Define scalar and vector in one sentence each.  
-12) both scalre and vector have magnitude. However vect
+12) both scalre and vector have magnitude. However vector have direction while scalar does not 
 13) Give 3 scalar quantities and 3 vector quantities from mechanics.  
 14) Is speed a scalar or vector? Is velocity a scalar or vector? What’s the difference (one sentence)?  
 15) Is temperature a scalar or vector? Justify without using “because it has no direction” (say what property fails).  
