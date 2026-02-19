@@ -52,7 +52,7 @@ if two  vector start at the same point can be different in two scenario  :
 
 
 24) Define the negative of a vector, −v, using a geometric description.  
--v have a is just a scalar quanity multiply with a vector quanity the direction of the vector v is dicated by the value of the scalar quanity 
+-v have a is just a scalar quanity multiply with a vector quanity the direction of the vector v is dicated by the value of the scalar quanity in this cases is -1 < 0 thus -v is po
 25) If v is east, what direction is −v? What about 3v? What about (−3)v?  
 26) What does multiplying a vector by 0 do? By 1? By −1?  
 27) If you scale a vector by 1/2, what happens to its magnitude and direction?  
