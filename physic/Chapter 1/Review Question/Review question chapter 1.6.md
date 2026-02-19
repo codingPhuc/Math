@@ -19,7 +19,7 @@ sources:
 order of magnitudeis the equivilent form of a values multiply by 10 to the power of n, meaning it is a different way of writing the value with the same scale. one order of magnitude mean that the equaivilent form of value is a number multiply by 10 
 
 2. If $x = 3.2 \times 10^{7}$, what is its order of magnitude? State your rule (rounding vs floor) explicitly.
-the order of magnitude of $$
+the order of magnitude of $3.2 \mu l$
 
 3. Give two different numbers that have the same order of magnitude as $8 \times 10^{3}$. Explain why.
     
