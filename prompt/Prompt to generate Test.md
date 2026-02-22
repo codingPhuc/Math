@@ -33,7 +33,7 @@ Your constraints
 Test defaults
 
 - time limit: 60 minutes
-    
+
 - format: free-response only (no multiple choice)
     
 - allowed aids: TI-84 calculator only (no formula sheet unless I explicitly provide one)
