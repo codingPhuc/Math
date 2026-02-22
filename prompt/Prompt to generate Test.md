@@ -132,3 +132,29 @@ Stop conditions
 - If my request is “Chapter X test” but the mapper doesn’t indicate what concepts belong to that chapter, ask me to paste the relevant mapper rows (do not guess).
     
 - If multiple sources conflict, follow <SPINE_FILE_NAME> first, then mapper spine anchors, then supports; flag the conflict briefly.
+
+
+
+That set  
+$${,a\mathbf{u}+b\mathbf{v} : a,b\in\mathbb{R},}$$  
+means:
+
+take your two vectors $\mathbf{u}$ and $\mathbf{v}$, scale them by any real numbers $a$ and $b$, then add them. collect every vector you can make that way. the collection of all such outputs is exactly the plane through the origin “spanned” by $\mathbf{u}$ and $\mathbf{v}$.
+
+More concretely:
+
+- $a\mathbf{u}$ means “stretch/shrink $\mathbf{u}$” (and flip it if $a<0$).
+    
+- $b\mathbf{v}$ means “stretch/shrink $\mathbf{v}$”.
+    
+- $a\mathbf{u}+b\mathbf{v}$ means “go $a$ copies of $\mathbf{u}$, then $b$ copies of $\mathbf{v}$.”
+    
+
+As you vary $a,b$ over all real numbers, the tip of the resulting vector sweeps out a flat 2-D sheet (a plane) through the origin.
+
+Special case:
+
+- if $\mathbf{v}=c\mathbf{u}$ (they’re parallel), then $a\mathbf{u}+b\mathbf{v}=(a+bc)\mathbf{u}$, so you only get a line, not a whole plane.
+    
+
+If you want, give me a specific $\mathbf{u}$ and $\mathbf{v}$ (like $(1,0,0)$ and $(0,1,0)$), and I’ll translate the set into a simple description like “all vectors with $z=0$.”
