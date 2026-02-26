@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Lecture transcript reformater.md",
+                "file": "physic/Chapter 2/Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture transcript reformater"
+              "title": "Lecture"
             }
           },
           {
@@ -218,6 +218,7 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "prompt/Lecture transcript reformater.md",
     "prompt/Prompt for learning math.md",
     "prompt/Prompt for books mapping.md",
     "prompt/Prompt create prompt.md",
@@ -245,7 +246,6 @@
     "Math Reasoning/Calculus proof.md",
     "physic/Chapter 2/Chapter 2.md",
     "physic/Chapter 1/Chapter 13 - 14 questions.md",
-    "prompt/Lecture transcript reformater.md",
     "physic/Chapter 1/Review Question",
     "physic/Chapter 2/Review Question",
     "physic/Chapter 2",
