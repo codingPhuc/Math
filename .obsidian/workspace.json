@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Untitled 1.md",
+                "file": "prompt/one specific subject books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "one specific subject books"
             }
           },
           {
@@ -219,7 +219,7 @@
   "active": "7702301795832f14",
   "lastOpenFiles": [
     "prompt/Prompt create prompt.md",
-    "prompt/Untitled 1.md",
+    "prompt/one specific subject books.md",
     "prompt/Math Prompt.md",
     "prompt/Lecture transcript reformater.md",
     "prompt/Books mapper.md",
