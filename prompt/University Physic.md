@@ -40,6 +40,7 @@ Coordinate/geometry objects:
 Kinematics objects:
 
 - Velocity vector $\vec v$: a vector (magnitude + direction), units $\text{m/s}$. (Chapter_1_Zemansky.pdf PDF p.6)
+- 
     
 - Acceleration vector $\vec a$: a vector, units $\text{m/s}^2$. Defined (instantaneously) as the derivative of velocity with respect to time. (Chapter_1_Zemansky.pdf PDF p.6; Chapter_3_Zemansky (1).pdf PDF p.4)
     
