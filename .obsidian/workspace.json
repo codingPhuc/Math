@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/one specific subject books.md",
+                "file": "prompt/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "one specific subject books"
+              "title": "Untitled 1"
             }
           },
           {
@@ -218,8 +218,9 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "prompt/Prompt create prompt.md",
     "prompt/one specific subject books.md",
+    "prompt/Untitled 1.md",
+    "prompt/Prompt create prompt.md",
     "prompt/Math Prompt.md",
     "prompt/Lecture transcript reformater.md",
     "prompt/Books mapper.md",
@@ -245,7 +246,6 @@
     "physic/Untitled.md",
     "physic/Chapter 3",
     "Card 1.md",
-    "Math Reasoning/Calculus proof.md",
     "physic/Chapter 1/Review Question",
     "physic/Chapter 2/Review Question",
     "physic/Chapter 2",
