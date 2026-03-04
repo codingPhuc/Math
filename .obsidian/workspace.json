@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Prompt to generate Test.md",
+                "file": "prompt/Prompt for books mapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt to generate Test"
+              "title": "Prompt for books mapping"
             }
           },
           {
@@ -220,12 +220,12 @@
   "lastOpenFiles": [
     "prompt/Prompt for learning math.md",
     "prompt/Prompt for books mapping.md",
-    "prompt/Prompt to generate Test.md",
-    "prompt/Math Prompt.md",
-    "prompt/JUST WRITE ESSAY.md",
-    "prompt/Lecture transcript reformater.md",
     "prompt/Prompt create prompt.md",
     "prompt/one specific subject books.md",
+    "prompt/Math Prompt.md",
+    "prompt/Prompt to generate Test.md",
+    "prompt/JUST WRITE ESSAY.md",
+    "prompt/Lecture transcript reformater.md",
     "physic/Chapter 3/Chapter 3.md",
     "physic/Untitled.md",
     "prompt/University Physic.md",
