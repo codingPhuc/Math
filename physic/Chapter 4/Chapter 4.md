@@ -470,20 +470,20 @@ B) Layer 2 — Concepts Layer (fine-grained cross-book anchors)
 4. Crosswalk table (navigation density)
     
 
-|Concept|Spine anchor|Support #1|Support #2|Support #3|
-|---|---|---|---|---|
-|force is vector push/pull|Zem Ch4 §4.1 p.1|YF Ch2 §2.1|Lab 01 intro|Zem Ch1 vectors|
-|superposition/resultant|Zem §4.1 p.1|YF Ch2 §2.1|Zem Ch1 add vectors|vectors_overleaf|
-|Newton 1|Zem §4.2 p.2|YF Ch2 §2.2|Lab 01 equilibrium||
-|translational equilibrium ∑F=0|Zem §4.2 p.2|YF Ch2 §2.6|Lab 01||
-|Newton 2 ∑F=ma|Zem §4.3 p.2|YF Ch5 §5.1 (toc)|Extra Ex Ch4 #1||
-|component equations|Zem §4.6 p.8|Zem Ch1 components|vectors_overleaf||
-|mass vs weight|Zem §4.4 p.3–6|YF Ch2 §2.3|Zem Ch2 free fall||
-|gravitation law|Zem §4.4 p.4|Extra Ex Ch13|YF Ch6 (toc)||
-|g from Earth params|Zem §4.4 p.5|Extra Ex Ch13|YF Ch2 §2.3||
-|Newton 3|Zem §4.5 p.6|YF Ch2 §2.4|Lab 01 forces-on-ring||
-|FBD definition|Zem §4.6 p.8|Lab 01 figs/tasks|Lab report guidelines||
-|solve workflow|Zem §4.6 p.8|Extra Ex Ch4 set|Zem Ch2 kinematics||
+| Concept                        | Spine anchor     | Support #1         | Support #2            | Support #3       |
+| ------------------------------ | ---------------- | ------------------ | --------------------- | ---------------- |
+| force is vector push/pull      | Zem Ch4 §4.1 p.1 | YF Ch2 §2.1        | Lab 01 intro          | Zem Ch1 vectors  |
+| superposition/resultant        | Zem §4.1 p.1     | YF Ch2 §2.1        | Zem Ch1 add vectors   | vectors_overleaf |
+| Newton 1                       | Zem §4.2 p.2     | YF Ch2 §2.2        | Lab 01 equilibrium    |                  |
+| translational equilibrium ∑F=0 | Zem §4.2 p.2     | YF Ch2 §2.6        | Lab 01                |                  |
+| Newton 2 ∑F=ma                 | Zem §4.3 p.2     | YF Ch5 §5.1 (toc)  | Extra Ex Ch4 #1       |                  |
+| component equations            | Zem §4.6 p.8     | Zem Ch1 components | vectors_overleaf      |                  |
+| mass vs weight                 | Zem §4.4 p.3–6   | YF Ch2 §2.3        | Zem Ch2 free fall     |                  |
+| gravitation law                | Zem §4.4 p.4     | Extra Ex Ch13      | YF Ch6 (toc)          |                  |
+| g from Earth params            | Zem §4.4 p.5     | Extra Ex Ch13      | YF Ch2 §2.3           |                  |
+| Newton 3                       | Zem §4.5 p.6     | YF Ch2 §2.4        | Lab 01 forces-on-ring |                  |
+| FBD definition                 | Zem §4.6 p.8     | Lab 01 figs/tasks  | Lab report guidelines |                  |
+| solve workflow                 | Zem §4.6 p.8     | Extra Ex Ch4 set   | Zem Ch2 kinematics    |                  |
 
 C) Layer 3 — Important Details Layer (notation + conditions that matter)
 
