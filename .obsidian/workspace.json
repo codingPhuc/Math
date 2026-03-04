@@ -4,57 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ce5d69c38a07476c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6eba09bd49424083",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "picture/Pasted image 20260219150852.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260219150852"
-            }
-          },
-          {
-            "id": "ab43a8ee48308f54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "execise 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "execise 7"
-            }
-          },
-          {
-            "id": "8b1f6bf5fc57b7e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rating of method.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rating of method"
-            }
-          }
-        ]
-      },
-      {
         "id": "47babd6860a3ebb7",
         "type": "tabs",
         "children": [
           {
             "id": "7702301795832f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "physic/Chapter 4/Chapter 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 4"
+            }
+          }
+        ]
+      },
+      {
+        "id": "263bbaf20cb05505",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06ba43eaecbea42c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -224,8 +198,10 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
-    "physic/Chapter 2/Chapter 2.md",
+    "rating of method.md",
+    "execise 7.md",
     "physic/Chapter 4/Chapter 4.md",
+    "physic/Chapter 2/Chapter 2.md",
     "physic/Chapter 4",
     "physic/Chapter 2/Lecture.md",
     "prompt/Prompt for books mapping.md",
@@ -250,8 +226,6 @@
     "physic/Chapter 1/Review Question/Untitled.md",
     "picture/Pasted image 20260219150852.png",
     "picture/2.5.2 Intermediate Value Theorem 2025-07-25 14.28.05.excalidraw.md",
-    "physic/Chapter 2/Review Question/Review Question v1.md",
-    "execise 7.md",
     "physic/Chapter 3",
     "physic/Chapter 1/Review Question",
     "physic/Chapter 2/Review Question",
