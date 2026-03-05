@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/Books mapper.md",
+                "file": "physic/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books mapper"
+              "title": "Untitled"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "prompt/Books mapper.md",
     "physic/Untitled.md",
     "physic/Chapter 5/Lecture.md",
     "prompt/Lecture transcript reformater.md",
@@ -208,7 +209,6 @@
     "prompt/Prompt for books mapping.md",
     "prompt/Prompt for learning math.md",
     "prompt/Prompt to generate Test.md",
-    "prompt/Books mapper.md",
     "physic/Chapter 3/Chapter 3.md",
     "physic/Chapter 4/Chapter 4.md",
     "rating of method.md",
