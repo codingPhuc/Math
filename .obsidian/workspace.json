@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physic/Untitled.md",
+                "file": "prompt/Books mapper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Books mapper"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "7702301795832f14",
   "lastOpenFiles": [
+    "physic/Untitled.md",
     "physic/Chapter 5/Lecture.md",
     "prompt/Lecture transcript reformater.md",
     "physic/Chapter 5",
@@ -216,7 +217,6 @@
     "physic/Chapter 4",
     "physic/Chapter 2/Lecture.md",
     "prompt/JUST WRITE ESSAY.md",
-    "physic/Untitled.md",
     "prompt/University Physic.md",
     "prompt/Untitled.md",
     "physic/Chapter 3/test 1.md",
